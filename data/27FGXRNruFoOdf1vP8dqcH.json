@@ -1,0 +1,59 @@
+{
+  "artistName": "Cassie",
+  "features": [
+    {
+      "featuredArtist": "G-Eazy",
+      "featuredArtistId": "02kJSzxNuaWGqwubyUba0Z",
+      "trackName": "Love a Loser (feat. G-Eazy)",
+      "trackId": "3qctHDUP0kCYj0kUGVQcIP",
+      "preview": "https://p.scdn.co/mp3-preview/cb6f12aaa161bbceef8c6c81a4e752fa656717bb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9e842733ee7e0f4bcf1724ef9b469fa90784930",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Jeezy",
+      "featuredArtistId": "4yBK75WVCQXej1p04GWqxH",
+      "trackName": "Balcony",
+      "trackId": "1c4tNQsI8EwXyS9qavR2uR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b7df0d2bf28065dd56f454c710dd81fcff79fe76",
+      "release_date": "2012-09-11"
+    },
+    {
+      "featuredArtist": "Nicki Minaj",
+      "featuredArtistId": "0hCNtLu0JehylgoiP8L4Gh",
+      "trackName": "The Boys",
+      "trackId": "3n2SLA58240AVtVOcqBSL6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/467121e0fc227fd40b048c04773ec7b4808e58d7",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Jadakiss",
+      "featuredArtistId": "5pnbUBPifNnlusY8kTBivi",
+      "trackName": "Make You A Believer",
+      "trackId": "2PHkeym7yjc6NyM4x6GyoQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1d9714254a7c2edce6d3ac57b2200f9b057041ab",
+      "release_date": "2011-10-11"
+    },
+    {
+      "featuredArtist": "Fabolous",
+      "featuredArtistId": "0YWxKQj2Go9CGHCp77UOyy",
+      "trackName": "Radio",
+      "trackId": "4aBSJvyJPB3NmaPDGVW4lK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d1c63649c14b96a15d94cc08fea97f2ee4838acd",
+      "release_date": "2011-10-11"
+    },
+    {
+      "featuredArtist": "Diddy",
+      "featuredArtistId": "59wfkuBoNyhDMQGCljbUbA",
+      "trackName": "Must Be Love (feat. Puff Daddy)",
+      "trackId": "4TTALGrOAlF45RoR3MiKxh",
+      "preview": "https://p.scdn.co/mp3-preview/07524022322fff63fd135007180d7e6725eeac46?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9d9f20f6a78c87916431b2e4a2e802178530eb1",
+      "release_date": "2009-04-14"
+    }
+  ]
+}

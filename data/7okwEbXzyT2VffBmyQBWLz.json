@@ -1,0 +1,23 @@
+{
+  "artistName": "Maná",
+  "features": [
+    {
+      "featuredArtist": "Shakira",
+      "featuredArtistId": "0EmeFodog0BfCgMzAIvKQp",
+      "trackName": "Mi verdad - feat. Shakira",
+      "trackId": "3YmA3gZqlXl0MkwhkVKxRy",
+      "preview": "https://p.scdn.co/mp3-preview/1209cc4ba41438680bf203e63a9364715ba13b55?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0ce396218924378e706fa76e94894af79db4779d",
+      "release_date": "2015-04-21"
+    },
+    {
+      "featuredArtist": "Pablo Milanés",
+      "featuredArtistId": "4vOfKh5wz7lTcdqB3EwsC5",
+      "trackName": "Si Ella Me Faltara Alguna Vez",
+      "trackId": "07MK2jQcJdaveU7aU4ImVm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8172628f4bce71efa979b8b8984aaf4dedd27926",
+      "release_date": "2002-01-01"
+    }
+  ]
+}

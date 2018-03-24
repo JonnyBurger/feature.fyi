@@ -1,0 +1,59 @@
+{
+  "artistName": "Joe Jonas",
+  "features": [
+    {
+      "featuredArtist": "Lil Wayne",
+      "featuredArtistId": "55Aa2cqylxrFIXC767Z865",
+      "trackName": "Just in Love (feat. Lil Wayne)",
+      "trackId": "0ctEbL0wnaG4uPVv03L4Ua",
+      "preview": "https://p.scdn.co/mp3-preview/a079f33e14a22bdc25868f2b92a3738a717fcb07?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/15203de659f1b0b8c5a20db5f05fe42654c10aa2",
+      "release_date": "2011-10-07"
+    },
+    {
+      "featuredArtist": "Naughty Boy",
+      "featuredArtistId": "1bT7m67vi78r2oqvxrP3X5",
+      "trackName": "One Chance To Dance",
+      "trackId": "0XQy9tduL8rVNnKS5PDzE2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2d0dfce59880cc641bdbaeb84863f0b15a050e10",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Demi Lovato",
+      "featuredArtistId": "6S2OmqARrzebs0tKUEyXyp",
+      "trackName": "THIS IS ME",
+      "trackId": "3VAScv67tpKENt1EqvigUA",
+      "preview": "https://p.scdn.co/mp3-preview/0046386529ae622bd96971452ba7fd100cda3d08?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45c8ed775d824b304ee448e6b89294412e0790cd",
+      "release_date": "2018-02-14"
+    },
+    {
+      "featuredArtist": "David Zowie",
+      "featuredArtistId": "2yEkeJoFOvm6qHuECSDHFg",
+      "trackName": "One Chance To Dance - David Zowie Remix",
+      "trackId": "0NSYKRNxM9YiJLxtqRO9E7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2d0dfce59880cc641bdbaeb84863f0b15a050e10",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Kokiri",
+      "featuredArtistId": "1owCC0eLSdPUND3qAAFEmv",
+      "trackName": "One Chance To Dance - Kokiri Remix",
+      "trackId": "1kmSuvq19MOuNoPKfBYaGK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2d0dfce59880cc641bdbaeb84863f0b15a050e10",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "iLL BLU",
+      "featuredArtistId": "550Zxz0BTZi3yd8gX9QINw",
+      "trackName": "One Chance To Dance - iLL BLU Remix",
+      "trackId": "1o7hVu2UCbPWQFOwjcgnK0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2d0dfce59880cc641bdbaeb84863f0b15a050e10",
+      "release_date": "2017-12-01"
+    }
+  ]
+}

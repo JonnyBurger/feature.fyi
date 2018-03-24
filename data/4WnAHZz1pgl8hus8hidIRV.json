@@ -1,0 +1,68 @@
+{
+  "artistName": "MHD",
+  "features": [
+    {
+      "featuredArtist": "Fally Ipupa",
+      "featuredArtistId": "6IflU2YrY5Cyw7YoBICosV",
+      "trackName": "Ma vie",
+      "trackId": "6fxej0TFVBpFaoj8zmQB8H",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/be081173776ee2364e2bd0fe1deb17b88f20c53e",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Angelique Kidjo",
+      "featuredArtistId": "51qUDJb5AtQX6jIL4VJx6M",
+      "trackName": "Wanyinyin",
+      "trackId": "2W4wIPZrpl4gjhz4KgjOc0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/be081173776ee2364e2bd0fe1deb17b88f20c53e",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Ninho",
+      "featuredArtistId": "6Te49r3A6f5BiIgBRxH7FH",
+      "trackName": "Bénéfice",
+      "trackId": "5rCeC0iE86X0NHTSI48xYl",
+      "preview": "https://p.scdn.co/mp3-preview/6ccbf72df867157410f8fe82f8104e07e4021927?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/429f9031eac4e6b4898ad2c2fce25093dab6b56e",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Major Lazer",
+      "featuredArtistId": "738wLrAtLtCtFOLvQBXOXp",
+      "trackName": "Afro Trap Pt. 7 (La puissance) - Major Lazer Remix",
+      "trackId": "0yt2RECGjRiZCNAvIuc8jX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c81a77732002dd40fe21cb6e629e06e76e114831",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "TroyBoi",
+      "featuredArtistId": "0tvpihdAsKiNnP6sWS3jUI",
+      "trackName": "Afro Trap Pt. 3 (Champions League) - TroyBoi Remix",
+      "trackId": "39TIFObbnL2MUfhdmvNEuM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c81a77732002dd40fe21cb6e629e06e76e114831",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Versano Laroz",
+      "featuredArtistId": "7zO64mkO7b0Y5g0M2Grw6s",
+      "trackName": "Bravo - Versano Laroz Remix",
+      "trackId": "6o85srcyGV67oYDngDK6Y4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c81a77732002dd40fe21cb6e629e06e76e114831",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Rawtek",
+      "featuredArtistId": "6LiWlIUtgDUn83O8i2K2b2",
+      "trackName": "Bravo - Rawtek Remix",
+      "trackId": "5l553NKNjXff8WZvKEboaK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c81a77732002dd40fe21cb6e629e06e76e114831",
+      "release_date": "2018-02-02"
+    }
+  ]
+}

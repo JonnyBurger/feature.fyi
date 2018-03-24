@@ -1,0 +1,95 @@
+{
+  "artistName": "Johnny Hallyday",
+  "features": [
+    {
+      "featuredArtist": "Don Everly",
+      "featuredArtistId": "5MqHV0u9A2p063l74XqwBi",
+      "trackName": "Nashville Blues",
+      "trackId": "3wWSyzmQ7qE1nr7WEYqEkv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ce7737b192b588972ff5d32393af60812c2708ba",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Caroline Rainey Haines",
+      "featuredArtistId": "0qdN93K73doq9vyibkMDLP",
+      "trackName": "J'oublirai ton nom - Live",
+      "trackId": "7zHNJIzAipRb0xWhGPKsAK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bb55798531a4e6cc58d7bf1db120f122b80d6503",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Carmel",
+      "featuredArtistId": "35MdVvn17ygVzkAvGNAdsy",
+      "trackName": "J'oublierai ton nom",
+      "trackId": "1nrVCZd4teGWkIx3ARY9si",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5f3560fe63441baa278968f9c5c32aecb169d4b9",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Yarol Poupaud",
+      "featuredArtistId": "1wQavz0TEd9BEp0K2choCR",
+      "trackName": "Fils de personne (en duo avec Yarol Poupaud) - Live au Palais 12 - Bruxelles - 2016",
+      "trackId": "7MAvr40OeQndWhU5iTUD0u",
+      "preview": "https://p.scdn.co/mp3-preview/927371146eb858eec29b0b7359d68b3ba2eda223?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/745faada33f5382618e221234e06b3e42798c4fc",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Yodelice",
+      "featuredArtistId": "167abweXl3demO9x0VMMeJ",
+      "trackName": "Mon coeur qui bat (en duo avec Yodelice) - Live au Palais 12 - Bruxelles - 2016",
+      "trackId": "3kP2AzB4AvEVF8zNq5mMR0",
+      "preview": "https://p.scdn.co/mp3-preview/27773f379a12e439eca47bf343bb2d390ab5d156?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/745faada33f5382618e221234e06b3e42798c4fc",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Brian Setzer",
+      "featuredArtistId": "4xiBg5AwhlWtuxAJO9rO6f",
+      "trackName": "Nashville Blues (feat. Brian Setzer) - Théâtre de Paris 2013",
+      "trackId": "2FxxdVum8fRRCBgdy6fguf",
+      "preview": "https://p.scdn.co/mp3-preview/872b9d5ffe531e6703e7fcd5c9bb74b8cc01b3c8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5691ecdaa10c5145874782895a761fb86b76bc25",
+      "release_date": "2014-04-23"
+    },
+    {
+      "featuredArtist": "Nanette Workman",
+      "featuredArtistId": "4KM2fWVoNDDdgrKmk41Ygy",
+      "trackName": "Apprendre à vivre ensemble",
+      "trackId": "7wsJLBlt1AwHUlyF60ls1f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6bc35b88b2c840629a59d28df0693581ee425386",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Michel Mallory",
+      "featuredArtistId": "4t5dfUG8SnIlxRCIXymwll",
+      "trackName": "La prison des orphelins",
+      "trackId": "5DlPKO86z41PYRkhswp2Sk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6bc35b88b2c840629a59d28df0693581ee425386",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Sylvie Vartan",
+      "featuredArtistId": "3Zi9cVUyWeAFjxEHn3bCqZ",
+      "trackName": "J'ai un problème",
+      "trackId": "5GmQyAtdb999lvEW9X2209",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6bc35b88b2c840629a59d28df0693581ee425386",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Laurent Gueneau",
+      "featuredArtistId": "0X1aguxUEPJtdynSr8yz22",
+      "trackName": "Le bon temps du rock and roll - Version alternative",
+      "trackId": "73DQcUUUEIoRw7Gozje9yo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/46abdbea14ff3bb904849d3bace31d50ef26573a",
+      "release_date": "2014-01-01"
+    }
+  ]
+}

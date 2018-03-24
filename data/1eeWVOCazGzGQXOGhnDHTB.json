@@ -1,0 +1,41 @@
+{
+  "artistName": "Trailerpark",
+  "features": [
+    {
+      "featuredArtist": "Dana",
+      "featuredArtistId": "2jKndvg84LqMjBGFFKaWLC",
+      "trackName": "Rolf",
+      "trackId": "1ROAn3t4XhextBLsNKmr3I",
+      "preview": "https://p.scdn.co/mp3-preview/bfb35a44619c5984a4ee7e414a72aa5a89018fc0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3aa646ccc50bb87106118eae98bd5da9657cec1b",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "SDP",
+      "featuredArtistId": "1EfwyuCzDQpCslZc8C9gkG",
+      "trackName": "Ich will noch nicht nach Haus!",
+      "trackId": "3yM9Wy1m1bpiDXjm5VeQdf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4152bc31d8b9d41b3dc3906cfcdc98f63fd7f07e",
+      "release_date": "2015-05-22"
+    },
+    {
+      "featuredArtist": "Mach One",
+      "featuredArtistId": "1WPthKKpcmNyzOHqc2E0v9",
+      "trackName": "Brenn Brenn",
+      "trackId": "6RupvlcDKKFhtiKFnrLn3j",
+      "preview": "https://p.scdn.co/mp3-preview/9e5c9a194d8f01cf3b52de54561d0e0606c41628?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/726c27233b0df6d410828c559549372e76596bac",
+      "release_date": "2014-04-04"
+    },
+    {
+      "featuredArtist": "Battleboi Basti",
+      "featuredArtistId": "7ajj2O18kPyou0Xwan1YM7",
+      "trackName": "Battleboi Basti Vs. Sorgenkind (RR Halbfinale)",
+      "trackId": "6eeE7npQ8xoeLit2vk5Zyp",
+      "preview": "https://p.scdn.co/mp3-preview/dc88819db11e16bef7afba21dabebf025a68d07e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f2eeb7b42105c73e4febbcac9ac5d12ed7afc9c",
+      "release_date": "2012"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "artistName": "Ella Mai",
+  "features": [
+    {
+      "featuredArtist": "Ty Dolla $ign",
+      "featuredArtistId": "7c0XG5cIJTrrAgEC3ULPiq",
+      "trackName": "She Don't (feat. Ty Dolla $Ign)",
+      "trackId": "01JPQ87UHeGysPVwTqMJHK",
+      "preview": "https://p.scdn.co/mp3-preview/c6c81bc80275a077e2d805892ae0bfed6f06915f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8ed8602668c75744107ae0d3ecc25b1501711903",
+      "release_date": "2016-02-28"
+    },
+    {
+      "featuredArtist": "Craig David",
+      "featuredArtistId": "2JyWXPbkqI5ZJa3gwqVa0c",
+      "trackName": "Talk to Me Pt. II",
+      "trackId": "73bva6qBjtCQd9MtwgRlLa",
+      "preview": "https://p.scdn.co/mp3-preview/405637c201d6c4060b91fe9874fe546f0eeb546c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4496f328ed50577e5507abd0d2e7738051515e9",
+      "release_date": "2018-01-26"
+    },
+    {
+      "featuredArtist": "Chris Brown",
+      "featuredArtistId": "7bXgB6jMjp9ATFy66eO08Z",
+      "trackName": "This X-Mas",
+      "trackId": "2aCOTUTsSh9018q7nTsdjm",
+      "preview": "https://p.scdn.co/mp3-preview/b1a85cd158305ed6f1101ac18d15689e1158a8cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad663f657f937fa16cd432c5a186ca67450350fa",
+      "release_date": "2017-12-13"
+    },
+    {
+      "featuredArtist": "Mustard",
+      "featuredArtistId": "0YinUQ50QDB7ZxSCLyQ40k",
+      "trackName": "This Christmas",
+      "trackId": "6qPxdfYaVRdgZc95KhIlgB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/89d29589c297cb7c89b4c0455aa078d775330129",
+      "release_date": "2017-11-17"
+    }
+  ]
+}

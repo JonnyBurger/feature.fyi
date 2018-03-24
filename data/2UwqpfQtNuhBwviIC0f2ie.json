@@ -1,0 +1,32 @@
+{
+  "artistName": "Damso",
+  "features": [
+    {
+      "featuredArtist": "Youri",
+      "featuredArtistId": "31V9AwOdKY1QlfAcr11qvy",
+      "trackName": "Ι. Peur d'être père",
+      "trackId": "10CJ0c1v7m9PiPVyieJ0hG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2b0545ca873f01d21841dc3f192b7317be9bf3c3",
+      "release_date": "2017-04-28"
+    },
+    {
+      "featuredArtist": "Booba",
+      "featuredArtistId": "58wXmynHaAWI5hwlPZP3qL",
+      "trackName": "Paris c'est loin",
+      "trackId": "3fHXUNVKNZQ4WaUGLwWxHP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ec313761be7310c69506940733f677bb89bddfbb",
+      "release_date": "2016-07-18"
+    },
+    {
+      "featuredArtist": "Lacrim",
+      "featuredArtistId": "7DUTsWY3RBd64vh8UtgtYA",
+      "trackName": "Noche",
+      "trackId": "4CFPmmOpyG81bIiVdZB4TU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/896c4e138e75b8591870823c81a8e94d5cec32d1",
+      "release_date": "2017-11-17"
+    }
+  ]
+}

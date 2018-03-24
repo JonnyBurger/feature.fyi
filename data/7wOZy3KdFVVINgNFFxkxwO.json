@@ -1,0 +1,23 @@
+{
+  "artistName": "Jerry Rivera",
+  "features": [
+    {
+      "featuredArtist": "La Sister",
+      "featuredArtistId": "1iiAhdaSmYFM0v6V15mJQO",
+      "trackName": "Boricua Siempre Seré - Plena Reggaeton",
+      "trackId": "6Y10vUAfXzjo7gp220KRzg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e0838759825a7917375408561c9657b0dedbe777",
+      "release_date": "2010-06-07"
+    },
+    {
+      "featuredArtist": "Saned",
+      "featuredArtistId": "3XK2Op3fTSjkWWaSZR9CAv",
+      "trackName": "Ríos De Dolor",
+      "trackId": "1RBQD6ng4IrTmQFmBMwhrm",
+      "preview": "https://p.scdn.co/mp3-preview/4d5c834259acd22d8695f70084239f8f481f5a7e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b39d21f7e2c643deeab8d8ae8509e9f7085d06c",
+      "release_date": "2005-11-01"
+    }
+  ]
+}

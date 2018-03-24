@@ -1,0 +1,32 @@
+{
+  "artistName": "Bill Evans",
+  "features": [
+    {
+      "featuredArtist": "Marc Johnson",
+      "featuredArtistId": "3AT9157jK9F2gMSViMdRUH",
+      "trackName": "Letter to Evan",
+      "trackId": "00sHxfOHewa4iKJuzLAAL7",
+      "preview": "https://p.scdn.co/mp3-preview/414e8e57cd5a14c35b0e2c835f99b0198cdbdf95?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aa24845fc821a05e3cf08518573ebb04a1265de2",
+      "release_date": "2003"
+    },
+    {
+      "featuredArtist": "Joe LaBarbera",
+      "featuredArtistId": "6cNZnJFHmf0jFAiXFo1L2F",
+      "trackName": "Letter to Evan",
+      "trackId": "00sHxfOHewa4iKJuzLAAL7",
+      "preview": "https://p.scdn.co/mp3-preview/414e8e57cd5a14c35b0e2c835f99b0198cdbdf95?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aa24845fc821a05e3cf08518573ebb04a1265de2",
+      "release_date": "2003"
+    },
+    {
+      "featuredArtist": "Don Elliott",
+      "featuredArtistId": "3GR38LTiPd7t2yXyRrQvAP",
+      "trackName": "Tenderly",
+      "trackId": "4R5SsApXGOqLPXxVNomFtT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/915c38dedb7d59ea233c1c5ba7dea65348c2a6e4",
+      "release_date": "2001-01-01"
+    }
+  ]
+}

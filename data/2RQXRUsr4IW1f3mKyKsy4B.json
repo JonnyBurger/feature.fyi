@@ -1,0 +1,32 @@
+{
+  "artistName": "Noah Kahan",
+  "features": [
+    {
+      "featuredArtist": "Julia Michaels",
+      "featuredArtistId": "0ZED1XzwlLHW4ZaG4lOT6m",
+      "trackName": "Hurt Somebody (With Julia Michaels) [Alex Adair Remix] - Alex Adair Remix",
+      "trackId": "7d828QDvHDIpZutuhtjYDV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/54a813d6cd5f81844d1a2ee010b8941d324773ad",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Alex Adair",
+      "featuredArtistId": "1mrrvBvbrm28iYaPlJ9mG5",
+      "trackName": "Hurt Somebody (With Julia Michaels) [Alex Adair Remix] - Alex Adair Remix",
+      "trackId": "7d828QDvHDIpZutuhtjYDV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/54a813d6cd5f81844d1a2ee010b8941d324773ad",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Matoma",
+      "featuredArtistId": "4YXycRbyyAE0wozTk7QMEq",
+      "trackName": "Hurt Somebody - Matoma Remix",
+      "trackId": "4wnHLxSzkbPgYtwPq0JZlu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2f9b335afe84a4d8aac90eaa7e05cf2b17e2739c",
+      "release_date": "2017-11-10"
+    }
+  ]
+}

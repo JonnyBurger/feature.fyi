@@ -1,0 +1,41 @@
+{
+  "artistName": "Ana Gabriel",
+  "features": [
+    {
+      "featuredArtist": "Vikki Carr",
+      "featuredArtistId": "3tM3DTmG7ahfACzwqtazLD",
+      "trackName": "Cosas del Amor",
+      "trackId": "0kZ5Gu7nyWmCFa9uAaLaZo",
+      "preview": "https://p.scdn.co/mp3-preview/69d55656b8880bd536dca18190536918983e36d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/47b41c3e7d906c44cd48c7782b811ffa38e042f2",
+      "release_date": "2015-05-12"
+    },
+    {
+      "featuredArtist": "Jose Alberto Fuentes",
+      "featuredArtistId": "7KisTcAejOXmdRshFNn2h5",
+      "trackName": "Tú y Yo",
+      "trackId": "4svUWMgQ1G5R4Qv7HIQf0e",
+      "preview": "https://p.scdn.co/mp3-preview/4562e3aab205e85f87e01c150add733c55635cd3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f96c7fe91ffe56ae22af1ac06154a27a7bb6ade0",
+      "release_date": "2010-06-29"
+    },
+    {
+      "featuredArtist": "Pedrito Fernández",
+      "featuredArtistId": "4Vqref81u7WVsS0OhbJwDk",
+      "trackName": "Un Día de Domingo",
+      "trackId": "3PfoPakr4MWlnROExM0VLY",
+      "preview": "https://p.scdn.co/mp3-preview/3648f2a2a2f45138b7e81de5a7246f4c70d2452a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8ac2a968530d22d0513ff168b4794259ee32efbc",
+      "release_date": "2009"
+    },
+    {
+      "featuredArtist": "Analy",
+      "featuredArtistId": "22UoFpQkqXy8Au8dfYiX6i",
+      "trackName": "Cosas Del Amor - En Vivo (A Dúo Con Analy)",
+      "trackId": "4IWoy6BVFAaVB6kOMuHXZm",
+      "preview": "https://p.scdn.co/mp3-preview/62b158e9475bc04c1594ad9d9ecbb7cbd1de577d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe31eb746fa38542bf2b8bfe287b10c19e3611c8",
+      "release_date": "1998-09-01"
+    }
+  ]
+}

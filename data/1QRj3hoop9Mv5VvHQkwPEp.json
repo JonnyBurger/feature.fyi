@@ -1,0 +1,41 @@
+{
+  "artistName": "Olivia O'Brien",
+  "features": [
+    {
+      "featuredArtist": "Jack & Jack",
+      "featuredArtistId": "1INuLZXjjVbcJRyWvD1iSq",
+      "trackName": "Beg - Acoustic",
+      "trackId": "13eCd407TGUYH00vXjpK38",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b334fcee400ecbb51ca5c17130a720e97e47f076",
+      "release_date": "2018-01-26"
+    },
+    {
+      "featuredArtist": "Steve Reece",
+      "featuredArtistId": "1DQB6eOgTQ8NogvA5C3xYM",
+      "trackName": "RIP - Steve Reece Remix",
+      "trackId": "27VTe4viFy7WHZj1GA1XVP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e10ad6241254343bb0454894f09e8ba95f430eb2",
+      "release_date": "2017-09-29"
+    },
+    {
+      "featuredArtist": "Serge Courtois",
+      "featuredArtistId": "5ovM10NenzMdg5Oi7RgH6y",
+      "trackName": "RIP - Acoustic",
+      "trackId": "6UnMYTQzKHK3F0teR6LfXO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/08ebb17e1814409fdad5ed56b4d50dcf0f95cc5a",
+      "release_date": "2017-09-01"
+    },
+    {
+      "featuredArtist": "Blackbear",
+      "featuredArtistId": "2cFrymmkijnjDg9SS92EPM",
+      "trackName": "Root Beer Float",
+      "trackId": "3bA30uvYoSwHYFW4IOO2O4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/31d6d4829db3ff6f5a50c02db48ba270f5906de5",
+      "release_date": "2016-09-16"
+    }
+  ]
+}

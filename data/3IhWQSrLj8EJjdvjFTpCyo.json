@@ -1,0 +1,95 @@
+{
+  "artistName": "Vince Gill",
+  "features": [
+    {
+      "featuredArtist": "Chris Botti",
+      "featuredArtistId": "3eFo5fMv53RYZBYlvT5Z6a",
+      "trackName": "One More Mistake I Made",
+      "trackId": "5nuvqayfLXoBFtzihKG8NN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6d081fe6736fcc03272c6bf987b79178959429ac",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "Little Big Town",
+      "featuredArtistId": "3CygdxquGHurS7f9LjNLkv",
+      "trackName": "Take Me Down",
+      "trackId": "6erlwCnd2MwOCpYSg50XsG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6d081fe6736fcc03272c6bf987b79178959429ac",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "Cam",
+      "featuredArtistId": "5WRElKaZsn1tGnrgmJVAeO",
+      "trackName": "I'll Be Waiting For You",
+      "trackId": "40YQ0daKMNU8XXClWLyr3r",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6d081fe6736fcc03272c6bf987b79178959429ac",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "Cam",
+      "featuredArtistId": "3ifx1iUgnyFNX4ej6s9uIF",
+      "trackName": "I'll Be Waiting for You",
+      "trackId": "37hJXxizQZwXZBFB9JAVGb",
+      "preview": "https://p.scdn.co/mp3-preview/3d040d280589707185a552c7b11313ef80185c2d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e1896b1d5092725c7b58bdd1aecb97667ad1df6",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "Jenny Gill",
+      "featuredArtistId": "6DcfyDxSXarwnXR9X78DGB",
+      "trackName": "Let There Be Peace On Earth",
+      "trackId": "4hQk3WFd0jDDGPPig99cl8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/835d946026c3511c6236b87136a325ecf101824b",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Paul Franklin",
+      "featuredArtistId": "2d5aRKZTJgcuetYRNzKDrA",
+      "trackName": "Foolin' Around",
+      "trackId": "7kYCdADzvVdp4LLaldztzH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d29f29205c258b45751687c79e36e8bb7d4a46b4",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Vince Gill & Paul Franklin",
+      "featuredArtistId": "2cQQRjA473vS1OrCKN6rGZ",
+      "trackName": "Foolin' 'Round",
+      "trackId": "1kmFy47NcLw25tCOgyHScH",
+      "preview": "https://p.scdn.co/mp3-preview/e965936bca00bd845a50a1da0fbd233536ffe206?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/002849498087ac2d5b836949cc9ae215e76e6af7",
+      "release_date": "2013-07-29"
+    },
+    {
+      "featuredArtist": "Amy Grant",
+      "featuredArtistId": "72Nhcx7prNk2ZCxhx0Y5es",
+      "trackName": "True Love",
+      "trackId": "3PwvSfzNWq4FuobZDOMfg7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74b248233fad0c598072e76ede2bf735c917401a",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "The Time Jumpers",
+      "featuredArtistId": "4LIizEG2lxs5OL1kAh4zjx",
+      "trackName": "Buttermilk John",
+      "trackId": "4CBAi2vm8s3KxWogfad9G2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74b248233fad0c598072e76ede2bf735c917401a",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Diana Krall",
+      "featuredArtistId": "5z1VAFwT35EVvCp1XlZZuL",
+      "trackName": "Faint of Heart",
+      "trackId": "0Zkg6QBse607vclCD0kia4",
+      "preview": "https://p.scdn.co/mp3-preview/658febc3c1b25cfadf8dd2b67a5c70df940e4c4e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/442a9a2cd9cd9b348c667a4491480c5d83046f97",
+      "release_date": "2010-01-26"
+    }
+  ]
+}

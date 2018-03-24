@@ -1,0 +1,50 @@
+{
+  "artistName": "Matisse",
+  "features": [
+    {
+      "featuredArtist": "Pedro Capó",
+      "featuredArtistId": "4QVBYiagIaa6ZGSPMbybpy",
+      "trackName": "Duele Amarte Así",
+      "trackId": "3NKeZuT6hzbC6a5cJ6F5te",
+      "preview": "https://p.scdn.co/mp3-preview/a36522fc06206d7ac4a5a7c79491e27a20e67318?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cfb1d7f93d21203827d0ed8194322ccc18318706",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Leo Dan",
+      "featuredArtistId": "6qhOH2mrlqUDod9sWA5kR2",
+      "trackName": "Yo Sé Que No Es Feliz (En Vivo)",
+      "trackId": "15ZITqv0G6Om8Ciq0ZvABL",
+      "preview": "https://p.scdn.co/mp3-preview/c5cf9565d499c3b91360807a25ec24b8d3661671?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/25ea949e213794ae2e715264dd430afaea59345a",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Yuri",
+      "featuredArtistId": "4OgNARLQSC4yy7Dsa5cqxx",
+      "trackName": "¿Cómo Le Hacemos? (Primera Fila) - En Vivo",
+      "trackId": "4A00KEfG6RTodDfvmCxYCk",
+      "preview": "https://p.scdn.co/mp3-preview/80ba3882bc8f9020287a5d0942942f662a7436ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2103e9ff1b3bec26ab45a7dc65743dc571b14c91",
+      "release_date": "2017-06-23"
+    },
+    {
+      "featuredArtist": "Ha*Ash",
+      "featuredArtistId": "5xd2Tg7Zo8755eCy8Gxkp8",
+      "trackName": "Sé Que Te Vas - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+      "trackId": "6rtc25mVsjIYViLl810ocj",
+      "preview": "https://p.scdn.co/mp3-preview/ba27908f0180b2ad10a6ad5cca27232b3a53c3c8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7fe5a29d5ea4984aab01c2953ade1ea73bd97dd",
+      "release_date": "2016-12-30"
+    },
+    {
+      "featuredArtist": "Carlos Rivera",
+      "featuredArtistId": "39yVoqm6sYFvvqF1RciUVf",
+      "trackName": "Borrar y Continuar - En Vivo",
+      "trackId": "3RfeoT6iwnyuSKzf8yHeZ5",
+      "preview": "https://p.scdn.co/mp3-preview/84797ce5a84d0a3c0abdec457fa8b934a2aaa759?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/48131bc9652ace75466a94a8c82f4d2b83f10a8c",
+      "release_date": "2014-11-24"
+    }
+  ]
+}

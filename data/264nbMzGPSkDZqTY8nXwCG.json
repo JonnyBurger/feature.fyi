@@ -1,0 +1,41 @@
+{
+  "artistName": "Tommy Torres",
+  "features": [
+    {
+      "featuredArtist": "Tego Calderon",
+      "featuredArtistId": "3SUT1jjM5hzZj9TLfLZGIP",
+      "trackName": "El Trabajito (feat. Tego Calderón)",
+      "trackId": "0SdmRTzPTP9RwpLbiR1xU6",
+      "preview": "https://p.scdn.co/mp3-preview/b5a945a8da14871aa62935f96a9968f03173265e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/80eade479cd589bc5334e9e7d641e74ed1ea8cc1",
+      "release_date": "2008-04-01"
+    },
+    {
+      "featuredArtist": "Jesse & Joy",
+      "featuredArtistId": "1mX1TWKpNxDSAH16LgDfiR",
+      "trackName": "Imparable (Duet with Jesse & Joy)",
+      "trackId": "0HliXx8B3ETokoNavhNqEM",
+      "preview": "https://p.scdn.co/mp3-preview/78bceccea435b5775bc639b8672f1f67cf788c40?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6349cfd19f5a1b7803d5ab1f7d495140885bbd3d",
+      "release_date": "2008-04-01"
+    },
+    {
+      "featuredArtist": "Daddy Yankee",
+      "featuredArtistId": "4VMYDCV2IEDYJArk749S6m",
+      "trackName": "Tu y Yo (feat. Daddy Yankee)",
+      "trackId": "5Hiu520lWG4YPrMugnNnkP",
+      "preview": "https://p.scdn.co/mp3-preview/989147d104333374257efeccb7a0f08489db4378?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cbcd9da0da2dc0faedf1234fb5626475a9b62286",
+      "release_date": "2016-09-30"
+    },
+    {
+      "featuredArtist": "Gaby Moreno",
+      "featuredArtistId": "0K9pSmFx0kWESA9jqx8aCW",
+      "trackName": "Ven (feat. Gaby Moreno)",
+      "trackId": "5vF2AfqhFFVzxuVLy2VRis",
+      "preview": "https://p.scdn.co/mp3-preview/fddebb10db59e7c5a6720e6753d5bcd42037e7c9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe47f4a2122757776e887fc1aecdb41935497512",
+      "release_date": "2015-08-07"
+    }
+  ]
+}

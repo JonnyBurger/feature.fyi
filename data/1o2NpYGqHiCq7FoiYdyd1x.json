@@ -1,0 +1,32 @@
+{
+  "artistName": "Bea Miller",
+  "features": [
+    {
+      "featuredArtist": "O'neill Hudson",
+      "featuredArtistId": "3iGALaReKZrD2cVQtITHET",
+      "trackName": "crash&burn",
+      "trackId": "72UH76lI4ZDTDoLg3b0KNG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d11c8b6e1ba5a425568cd1823038cfef10f7e2fe",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Mike Stud",
+      "featuredArtistId": "5G9kmDLg3OeUyj8KVBLzbu",
+      "trackName": "to the grave",
+      "trackId": "5V7wh1SBtYZTqRLEsBuZAL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d11c8b6e1ba5a425568cd1823038cfef10f7e2fe",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "NOTD",
+      "featuredArtistId": "5jAMCwdNHWr7JThxtMuEyy",
+      "trackName": "I Wanna Know",
+      "trackId": "18W92Zm1KjLCbUIszOhpkD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b90ede6a3744b470d62ea167e2047309cd8cc67e",
+      "release_date": "2018-03-16"
+    }
+  ]
+}

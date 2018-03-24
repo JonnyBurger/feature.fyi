@@ -1,0 +1,68 @@
+{
+  "artistName": "Waylon Jennings",
+  "features": [
+    {
+      "featuredArtist": "Jessie Colter",
+      "featuredArtistId": "24bbi1UTci6YoUJuOA51lL",
+      "trackName": "Storms Never Last - Live",
+      "trackId": "5Q1GcvQ2uyr4g5wkArxczq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/80cb7bc9df4f0daa0113472e12d8504f736b88e4",
+      "release_date": "2014-04-01"
+    },
+    {
+      "featuredArtist": "The Waymore Blues Band",
+      "featuredArtistId": "2VCPy7zDhSaJ4tFrjQgSAa",
+      "trackName": "Can't You See - Live",
+      "trackId": "6vRj1cvJSFVjS0uxHPiFlF",
+      "preview": "https://p.scdn.co/mp3-preview/33dfad8648425ff96f6022e162bfd0d3c1d642bf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/60e6e57f1eacc9813fe72c9ba56ffae4abc9c475",
+      "release_date": "2011-07-12"
+    },
+    {
+      "featuredArtist": "The Waylors",
+      "featuredArtistId": "4tVNJ5DqpmKm7E54ekE6qx",
+      "trackName": "The Chokin' Kind",
+      "trackId": "4HLUCgkipRdQX4EurL0Pii",
+      "preview": "https://p.scdn.co/mp3-preview/3f0366bcd1ce6991b26b3b169f11d7ecce9182e9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2768dc57b7bcdf0e9805f27b82444cd43d504889",
+      "release_date": "2007-05-01"
+    },
+    {
+      "featuredArtist": "Willie Nelson",
+      "featuredArtistId": "5W5bDNCqJ1jbCgTxDD0Cb3",
+      "trackName": "Good Hearted Woman",
+      "trackId": "0t1l82iQNVeWt8BzFysCpr",
+      "preview": "https://p.scdn.co/mp3-preview/66ab5d314c435e258587ba6b61b5abcb3540eab6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2768dc57b7bcdf0e9805f27b82444cd43d504889",
+      "release_date": "2007-05-01"
+    },
+    {
+      "featuredArtist": "Jessi Colter",
+      "featuredArtistId": "43HpW8B5gYRnYbSzm37n5v",
+      "trackName": "Storms Never Last",
+      "trackId": "0cnS9wOiiRgvXFo64cwfCd",
+      "preview": "https://p.scdn.co/mp3-preview/7f9f4cf929303d0180d6dc9418451773cc0c16e7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2768dc57b7bcdf0e9805f27b82444cd43d504889",
+      "release_date": "2007-05-01"
+    },
+    {
+      "featuredArtist": "Johnny Cash",
+      "featuredArtistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "Even Cowgirls Get The Blues",
+      "trackId": "2sE80LgUJEsRFD4rjuZUH0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/03620e1d114f23aca755fc95187ce661bd4eb85f",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "John Anderson",
+      "featuredArtistId": "3U7k7hBsHF9dy4ELW53Wrv",
+      "trackName": "Somewhere Between Ragged And Right",
+      "trackId": "4DBwQwxJFJ5ZlJK1YKJHC1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/03620e1d114f23aca755fc95187ce661bd4eb85f",
+      "release_date": "2004-01-01"
+    }
+  ]
+}

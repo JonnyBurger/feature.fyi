@@ -1,0 +1,32 @@
+{
+  "artistName": "Thirty Seconds To Mars",
+  "features": [
+    {
+      "featuredArtist": "Shannon Leto",
+      "featuredArtistId": "0uPd6VQd5ejVKsykQGVsiu",
+      "trackName": "Night Of The Hunter - Shannon Leto Remix",
+      "trackId": "3HDtjDgtlieYvYZs37N1mn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ff25ffab28fb73bffb54365fbafd34cd8ce06ded",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "A$AP Rocky",
+      "featuredArtistId": "13ubrt8QOOCPljQ2FL1Kca",
+      "trackName": "One Track Mind",
+      "trackId": "6xIjBWc64t5DZs9zXpSShy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c5f0a3973d84535393d0bbc3db4808098e06ef1a",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Cheat Codes",
+      "featuredArtistId": "7DMveApC7UnC2NPfPvlHSU",
+      "trackName": "Dangerous Night - Cheat Codes Remix",
+      "trackId": "6NJxS9DLaRDZ0NcllPEYfg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b32727f3021a69acd981a120ae61d8989e0ca55d",
+      "release_date": "2018-03-20"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "artistName": "Los Claxons",
+  "features": [
+    {
+      "featuredArtist": "Lucah",
+      "featuredArtistId": "2L0nCuTUHFPHC3Y8uqbUKw",
+      "trackName": "Una Vez Más",
+      "trackId": "4uDVDdhASUm6PqTWLEeoqi",
+      "preview": "https://p.scdn.co/mp3-preview/a27b93c6ab4fbff255fab104b4e398e30d3ba63e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf977a78939d30fc29c3c3d9fa8ff43aa22b1a47",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Daniel Cantisani",
+      "featuredArtistId": "0YzX2UBZwPHR50cUEiwP91",
+      "trackName": "Hasta Que Vuelvas a Verme (Remix)",
+      "trackId": "2B9dZaPC87pkxYFcAqneMu",
+      "preview": "https://p.scdn.co/mp3-preview/50de3a932fd0b2ce1778e35c05fbcf8a0444f787?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/052531f4c727d71f323496ab2e7e79ee76c94d53",
+      "release_date": "2017-12-27"
+    }
+  ]
+}

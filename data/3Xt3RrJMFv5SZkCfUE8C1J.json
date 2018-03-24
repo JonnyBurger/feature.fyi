@@ -1,0 +1,41 @@
+{
+  "artistName": "Kim Petras",
+  "features": [
+    {
+      "featuredArtist": "lil aaron",
+      "featuredArtistId": "3FCYSWNVmpjTCiwzJwbMAC",
+      "trackName": "Faded",
+      "trackId": "0hgqlxd4doZSUqdja9RMgg",
+      "preview": "https://p.scdn.co/mp3-preview/2fe52f219404d5804b2573d886185fe4764d27e8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32518aed3729db853f8a7a14678722540d533547",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Charli XCX",
+      "featuredArtistId": "25uiPmTg16RbhZWAqwLBy5",
+      "trackName": "Unlock It (feat. Kim Petras and Jay Park)",
+      "trackId": "3IG0DSV4U15NtX31Y0czx3",
+      "preview": "https://p.scdn.co/mp3-preview/15faf4deb1273c6bcd305e00f31b4b70ccc07f4d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/534481a973998d36f79d94f71d40bf6528a6d72d",
+      "release_date": "2017-12-11"
+    },
+    {
+      "featuredArtist": "Jay Park",
+      "featuredArtistId": "4XDi67ZENZcbfKnvMnTYsI",
+      "trackName": "Unlock It (feat. Kim Petras and Jay Park)",
+      "trackId": "3IG0DSV4U15NtX31Y0czx3",
+      "preview": "https://p.scdn.co/mp3-preview/15faf4deb1273c6bcd305e00f31b4b70ccc07f4d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/534481a973998d36f79d94f71d40bf6528a6d72d",
+      "release_date": "2017-12-11"
+    },
+    {
+      "featuredArtist": "Baby E",
+      "featuredArtistId": "3AhRH2q3GOnk8r1ZPHBnRM",
+      "trackName": "Hills",
+      "trackId": "3qU4w55KUa3jKFxT3xXqLu",
+      "preview": "https://p.scdn.co/mp3-preview/130a43e997c0d3ad06b592ed126a9fb8424a80bb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eab83b65f56d19eb70121874bcfeb21c439c1673",
+      "release_date": "2017-09-22"
+    }
+  ]
+}

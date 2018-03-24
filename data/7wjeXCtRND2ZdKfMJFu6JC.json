@@ -1,0 +1,50 @@
+{
+  "artistName": "Louane",
+  "features": [
+    {
+      "featuredArtist": "The Chainsmokers",
+      "featuredArtistId": "69GGBxA162lTqCwzJG5jLp",
+      "trackName": "It Won’t Kill Ya",
+      "trackId": "3hGEVxlmuB1Wg8K2RGJeyW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a22564547fa68a21b0f8dbe73fa082fb4549dea6",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Tristan Salvati",
+      "featuredArtistId": "3pHPYLcX7bnOWcMpyBch1D",
+      "trackName": "Avenir - Radio Edit",
+      "trackId": "4NcSDvUqALZm7y6qBfyiie",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c23d2bd289d2f4d98f1f2c5e1060eb9d3bc8033b",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Jean-Philippe Massicot",
+      "featuredArtistId": "5R6fqkq8FNNE0kevuUUxoz",
+      "trackName": "Chambre 12 - Radio Edit",
+      "trackId": "3Os1FDQzTkvDrVgEFybuEg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c23d2bd289d2f4d98f1f2c5e1060eb9d3bc8033b",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "P.E.L",
+      "featuredArtistId": "5vFa0LvpHY5W1qwM1ivRk2",
+      "trackName": "Nos secrets - P.E.L Remix",
+      "trackId": "5K9eGgxyCVgTs9gVsq6DXK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b67d16e28111c1403a21acdbdce16c03458f8074",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Dan Black",
+      "featuredArtistId": "5kW3q7Vywlw24apaeufin6",
+      "trackName": "Jour 1 - Dan Black Alternative",
+      "trackId": "4TdIHsnN9BPVM6K3FOWPAm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2bb57fbabfcf1c6c5faaf2fa938019be3be636f6",
+      "release_date": "2014-12-01"
+    }
+  ]
+}

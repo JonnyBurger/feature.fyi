@@ -1,0 +1,68 @@
+{
+  "artistName": "Jax Jones",
+  "features": [
+    {
+      "featuredArtist": "Ina Wroldsen",
+      "featuredArtistId": "7hssUdpvtY5oiARaUDgFZ3",
+      "trackName": "Breathe - Acoustic",
+      "trackId": "3PRpinHSGqytZnOKwCsR7l",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/19805120487b2f43a7ecaabbfe3e9ca4d9f5330a",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Demi Lovato",
+      "featuredArtistId": "6S2OmqARrzebs0tKUEyXyp",
+      "trackName": "Instruction - Mr Eazi Remix",
+      "trackId": "6eZEbFfQSgdcvNE8wiw3Lm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e490e958f29700b0d2d02a02524a9a1ee286847",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Stefflon Don",
+      "featuredArtistId": "2ExGrw6XpbtUAJHTLtUXUD",
+      "trackName": "Instruction - Mr Eazi Remix",
+      "trackId": "6eZEbFfQSgdcvNE8wiw3Lm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e490e958f29700b0d2d02a02524a9a1ee286847",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Mr Eazi",
+      "featuredArtistId": "4TAoP0f9OuWZUesao43xUW",
+      "trackName": "Instruction - Mr Eazi Remix",
+      "trackId": "6eZEbFfQSgdcvNE8wiw3Lm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e490e958f29700b0d2d02a02524a9a1ee286847",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "RAYE",
+      "featuredArtistId": "5KKpBU5eC2tJDzf0wmlRp2",
+      "trackName": "You Don't Know Me - Dre Skull Remix",
+      "trackId": "4TVddME1RaPscKtWmVqGjb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5aa6d11b501f5e57b2bc4bf39476d5c67e817f72",
+      "release_date": "2017-06-14"
+    },
+    {
+      "featuredArtist": "Spice",
+      "featuredArtistId": "1agX5xuqpSUDQ55gkdQbZk",
+      "trackName": "You Don't Know Me - Dre Skull Remix",
+      "trackId": "4TVddME1RaPscKtWmVqGjb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5aa6d11b501f5e57b2bc4bf39476d5c67e817f72",
+      "release_date": "2017-06-14"
+    },
+    {
+      "featuredArtist": "Dre Skull",
+      "featuredArtistId": "7xsrttFCLfrav97RsNjSPK",
+      "trackName": "You Don't Know Me - Dre Skull Remix",
+      "trackId": "4TVddME1RaPscKtWmVqGjb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5aa6d11b501f5e57b2bc4bf39476d5c67e817f72",
+      "release_date": "2017-06-14"
+    }
+  ]
+}

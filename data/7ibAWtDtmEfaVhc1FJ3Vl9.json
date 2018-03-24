@@ -1,0 +1,473 @@
+{
+  "artistName": "Eric Bellinger",
+  "features": [
+    {
+      "featuredArtist": "ELHAE",
+      "featuredArtistId": "6TrQLQR8tUluPbmdPy6jqY",
+      "trackName": "Know / Vibes (feat. ELHAE) - Acoustic",
+      "trackId": "5wL2rQ3EcH50fIeCJet05l",
+      "preview": "https://p.scdn.co/mp3-preview/a1f79e26d26bb0a9cd50c2b128bc32b432718409?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c47b8971b42376f80e4ba73f78ea75b1d489a06",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Wale",
+      "featuredArtistId": "67nwj3Y5sZQLl72VNUHEYE",
+      "trackName": "Treat Yourself (feat. Wale) - Acoustic",
+      "trackId": "6tBJEb8rNjjkOjI4zLzLQc",
+      "preview": "https://p.scdn.co/mp3-preview/1f4062ce5afa3ee2111e2ff374245b9ec354f299?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c47b8971b42376f80e4ba73f78ea75b1d489a06",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Tayla Parx",
+      "featuredArtistId": "1LzWWI9v4UKdbBgz8fqi15",
+      "trackName": "Island (feat. Tayla Parx) - Acoustic",
+      "trackId": "4WXtDI2r479MgOAhVNBfbt",
+      "preview": "https://p.scdn.co/mp3-preview/0b5c818d37d54c5cb679dbc5971a0078e9205d1e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c47b8971b42376f80e4ba73f78ea75b1d489a06",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Victoria Monet",
+      "featuredArtistId": "63XBtGSEZINSyXylZxEUbv",
+      "trackName": "Malibu Nights (feat. Victoria Monet) - Acoustic",
+      "trackId": "0lXfBWTdqS5wcMykBtHVtV",
+      "preview": "https://p.scdn.co/mp3-preview/22e877a6e09787423d2329292a10054c9dd9a388?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c47b8971b42376f80e4ba73f78ea75b1d489a06",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Aroc!",
+      "featuredArtistId": "0uT3QSrGqBESB5s0XMa3WK",
+      "trackName": "G.O.A.T. (Acoustic)",
+      "trackId": "4NETlhtxOsVpC84hgZmc3q",
+      "preview": "https://p.scdn.co/mp3-preview/50335178d2327a08bdccf5c692d450df77c3b8ce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3dc9ab55d384c4f1436663d483312a34c82918ca",
+      "release_date": "2017-01-20"
+    },
+    {
+      "featuredArtist": "11:11",
+      "featuredArtistId": "2R5qXllFd3F0Sz3cKHvekS",
+      "trackName": "One of Them (Acoustic)",
+      "trackId": "4ZAlYbzB6x97x401eVdetr",
+      "preview": "https://p.scdn.co/mp3-preview/9dce927d850ce522ffa2a820398556ceee8a5d11?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3dc9ab55d384c4f1436663d483312a34c82918ca",
+      "release_date": "2017-01-20"
+    },
+    {
+      "featuredArtist": "RJ",
+      "featuredArtistId": "4x2GpMP6bQGWIgGx2OAujt",
+      "trackName": "Remind Her (Acoustic)",
+      "trackId": "2dxhF2LxAj7tCEuJoNHFtd",
+      "preview": "https://p.scdn.co/mp3-preview/49449950c454d8d130fd62c0dd2164e173c18f7c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3dc9ab55d384c4f1436663d483312a34c82918ca",
+      "release_date": "2017-01-20"
+    },
+    {
+      "featuredArtist": "Phil Ade",
+      "featuredArtistId": "4VG0TuOXWoubWo7dHzX6d3",
+      "trackName": "In My Prime (Acoustic)",
+      "trackId": "4aIXse8mvvEo2GP73qjE9Y",
+      "preview": "https://p.scdn.co/mp3-preview/6f50fc3de7bf11511c60dd8ab02dfa6a9f4009e9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3dc9ab55d384c4f1436663d483312a34c82918ca",
+      "release_date": "2017-01-20"
+    },
+    {
+      "featuredArtist": "11:11",
+      "featuredArtistId": "3mbFvC483g6pmJN4Tc2khm",
+      "trackName": "One of Them",
+      "trackId": "3ju4OXMPl4wKGzs3X7B2Fm",
+      "preview": "https://p.scdn.co/mp3-preview/9d6b55c9b15750c5f43415e1b27383e0ca644070?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7bac6ff942d63e8038fd6fa732cb354ea993cd50",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "The Game",
+      "featuredArtistId": "0NbfKEOTQCcwd6o7wSDOHI",
+      "trackName": "Awkward",
+      "trackId": "7dNRVGChYop9Vn4T22lvpZ",
+      "preview": "https://p.scdn.co/mp3-preview/7b12553053bd9be535b96cda28981ce68bdd0974?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad46e319fe68b93ffa896c57cfe3594b04a28fc4",
+      "release_date": "2016-08-05"
+    },
+    {
+      "featuredArtist": "Fetty Wap",
+      "featuredArtistId": "6PXS4YHDkKvl1wkIl4V8DL",
+      "trackName": "Valet",
+      "trackId": "69bAqaHzeO36mHM7y6ArIr",
+      "preview": "https://p.scdn.co/mp3-preview/ab3cf55bfab5595ab060518b2ff2b9de0d555ccf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad46e319fe68b93ffa896c57cfe3594b04a28fc4",
+      "release_date": "2016-08-05"
+    },
+    {
+      "featuredArtist": "2 Chainz",
+      "featuredArtistId": "17lzZA2AlOHwCwFALHttmp",
+      "trackName": "Valet",
+      "trackId": "69bAqaHzeO36mHM7y6ArIr",
+      "preview": "https://p.scdn.co/mp3-preview/ab3cf55bfab5595ab060518b2ff2b9de0d555ccf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad46e319fe68b93ffa896c57cfe3594b04a28fc4",
+      "release_date": "2016-08-05"
+    },
+    {
+      "featuredArtist": "Sha Sha Jones",
+      "featuredArtistId": "0w8rt6SigpH4SOUOxJxWxq",
+      "trackName": "Miss My Exit / The Key",
+      "trackId": "0bp3xSfDbqb1HEOMfCl5zl",
+      "preview": "https://p.scdn.co/mp3-preview/11c556ab0d3090100eb3cd7d93dfb3223740267b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad46e319fe68b93ffa896c57cfe3594b04a28fc4",
+      "release_date": "2016-08-05"
+    },
+    {
+      "featuredArtist": "A-Roc",
+      "featuredArtistId": "3j7Ga2myioJ53mFRpKPp0i",
+      "trackName": "New Memories / Nobody Else",
+      "trackId": "77uaTuvZEsyzrkzceDZ5zC",
+      "preview": "https://p.scdn.co/mp3-preview/faf7a54f708c875cb9cbeedc925fa77842daf79e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad46e319fe68b93ffa896c57cfe3594b04a28fc4",
+      "release_date": "2016-08-05"
+    },
+    {
+      "featuredArtist": "Candice",
+      "featuredArtistId": "38MrpsAO2jACiUfLCTeaFE",
+      "trackName": "Quit Lookin",
+      "trackId": "68sMzrCIRs7XiZX7fJjQdU",
+      "preview": "https://p.scdn.co/mp3-preview/9fbe18778309f077aeb03252c82cdb3e7db8d51c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad46e319fe68b93ffa896c57cfe3594b04a28fc4",
+      "release_date": "2016-08-05"
+    },
+    {
+      "featuredArtist": "Audio Push",
+      "featuredArtistId": "3oHjuEyaFp7MddhOXddXbx",
+      "trackName": "Irrelevant / Company",
+      "trackId": "2OrBRz3xJCnusUekGsoIKX",
+      "preview": "https://p.scdn.co/mp3-preview/cee7ea7692eee35c3ee492b305660e7239c28ac1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad46e319fe68b93ffa896c57cfe3594b04a28fc4",
+      "release_date": "2016-08-05"
+    },
+    {
+      "featuredArtist": "Yoshi",
+      "featuredArtistId": "1yKK0TjHRbU4eFdYqTlPg8",
+      "trackName": "Irrelevant / Company",
+      "trackId": "2OrBRz3xJCnusUekGsoIKX",
+      "preview": "https://p.scdn.co/mp3-preview/cee7ea7692eee35c3ee492b305660e7239c28ac1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad46e319fe68b93ffa896c57cfe3594b04a28fc4",
+      "release_date": "2016-08-05"
+    },
+    {
+      "featuredArtist": "TeeFLii",
+      "featuredArtistId": "1pCVxwkdixCeBPTboRZIi2",
+      "trackName": "Valet",
+      "trackId": "5XVZphWO3NaAbDFhxN7FHe",
+      "preview": "https://p.scdn.co/mp3-preview/1abdd9e1eb48be0572e01a80edd34460a6c38316?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/10cfba5c573c6e8c3b89d533e115e565e4909ffd",
+      "release_date": "2016-03-21"
+    },
+    {
+      "featuredArtist": "Pleasure P",
+      "featuredArtistId": "6dROiL44pIQZVNZ6Bc0OJO",
+      "trackName": "Valet",
+      "trackId": "5XVZphWO3NaAbDFhxN7FHe",
+      "preview": "https://p.scdn.co/mp3-preview/1abdd9e1eb48be0572e01a80edd34460a6c38316?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/10cfba5c573c6e8c3b89d533e115e565e4909ffd",
+      "release_date": "2016-03-21"
+    },
+    {
+      "featuredArtist": "Teyana Taylor",
+      "featuredArtistId": "4ULO7IGI3M2bo0Ap7B9h8a",
+      "trackName": "Casual",
+      "trackId": "5Hjpw2U9V94R8y8UuqU2fv",
+      "preview": "https://p.scdn.co/mp3-preview/15bab6ed40034e2c83313ce992259a13ead9e3be?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/10cfba5c573c6e8c3b89d533e115e565e4909ffd",
+      "release_date": "2016-03-21"
+    },
+    {
+      "featuredArtist": "Aroe",
+      "featuredArtistId": "2pPXkDqss9l2Exu1KmxWIH",
+      "trackName": "New Memories / Nobody Else (feat. ARoe)",
+      "trackId": "7L9KepWgH1yl4KpgXlUt8A",
+      "preview": "https://p.scdn.co/mp3-preview/3de7848adaad9574b84c41baf80cb029f25376ad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9b4f34d66ccbafe35c794650eb59ebe115d61a0a",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Yoshi",
+      "featuredArtistId": "2VNy5QiKBJjmTNkHIJPgAZ",
+      "trackName": "Irrelevant / Company (feat. Audio Push & Yoshi)",
+      "trackId": "0ClbEYrLh1d8977AEX2lua",
+      "preview": "https://p.scdn.co/mp3-preview/af9dfdc81fe9f934fcda946279047ed20d98c32d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9b4f34d66ccbafe35c794650eb59ebe115d61a0a",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Mýa",
+      "featuredArtistId": "6lHL3ubAMgSasKjNqKb8HF",
+      "trackName": "Focused On You",
+      "trackId": "7x8JmLL7IWuDPh8hM6y3PJ",
+      "preview": "https://p.scdn.co/mp3-preview/6db0f279709ad917a0e4afef9f910623a5efa178?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/211f19b631b736a4e627f6202a5efc78a3cdefaa",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Boosie Badazz",
+      "featuredArtistId": "6z7xFFHxYkE9t8bwIF0Bvg",
+      "trackName": "You Can Have The Hoes",
+      "trackId": "6xNTAU9ri7DPtHwM1xfKDu",
+      "preview": "https://p.scdn.co/mp3-preview/d9647fbc1b73dfe62b7d69786f84b70f58b897e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/211f19b631b736a4e627f6202a5efc78a3cdefaa",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "T-Boz",
+      "featuredArtistId": "5z67HRLMUYoZhaZPWUoV94",
+      "trackName": "Creep",
+      "trackId": "1323olVqpevrFMyjmcQzHV",
+      "preview": "https://p.scdn.co/mp3-preview/22cb44eb09c58c6b6f2076c73678736238b13478?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/211f19b631b736a4e627f6202a5efc78a3cdefaa",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Iamsu!",
+      "featuredArtistId": "2ZavqCJe7uqkRpISes0NFi",
+      "trackName": "Viral",
+      "trackId": "7801plFM8SsSBbHG4ldZlc",
+      "preview": "https://p.scdn.co/mp3-preview/ed72a24451c3385fb9e31e7a14c4c5631809a3e2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/211f19b631b736a4e627f6202a5efc78a3cdefaa",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Tank",
+      "featuredArtistId": "3thlFzcZnYJaV915OGdUFq",
+      "trackName": "Turned Down For You",
+      "trackId": "4rhXyLbZ0pTPeBeSa2DR8w",
+      "preview": "https://p.scdn.co/mp3-preview/1924d14e89994b80a722fefa6243ea009c6bc3b7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/211f19b631b736a4e627f6202a5efc78a3cdefaa",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Aroc",
+      "featuredArtistId": "1s5cQM9XuMrwTVIMveh67Q",
+      "trackName": "Turned Down For You",
+      "trackId": "4rhXyLbZ0pTPeBeSa2DR8w",
+      "preview": "https://p.scdn.co/mp3-preview/1924d14e89994b80a722fefa6243ea009c6bc3b7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/211f19b631b736a4e627f6202a5efc78a3cdefaa",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Chayse",
+      "featuredArtistId": "1p9GYL1B1QZ2LMvkqXcdNs",
+      "trackName": "Share",
+      "trackId": "5cQsnwHU5p88vFsxGb76t1",
+      "preview": "https://p.scdn.co/mp3-preview/797bf244e8e19d750cf42909311c4e261a8f8cda?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/211f19b631b736a4e627f6202a5efc78a3cdefaa",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Tank",
+      "featuredArtistId": "4mwXUEKaW4ftbncf9Hi58l",
+      "trackName": "Turn Down for You (feat. Tank & Aroc!)",
+      "trackId": "75e7DFaTCLylS4hMRjHW2U",
+      "preview": "https://p.scdn.co/mp3-preview/1924d14e89994b80a722fefa6243ea009c6bc3b7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/28ca71643261a4a9c4fba1f0fa5e511ad276e105",
+      "release_date": "2015-07-17"
+    },
+    {
+      "featuredArtist": "The Midi Mafia",
+      "featuredArtistId": "3j8KMnhscmfQJnJU02GiUP",
+      "trackName": "Do 4 Love",
+      "trackId": "6filIhHAZoduJLdOg1O6gp",
+      "preview": "https://p.scdn.co/mp3-preview/4331048b14216a5fe53fa9d49bf5d114b5e48496?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a125dbd04945a94444ca66e361850d5e6d36845d",
+      "release_date": "2014-04-23"
+    },
+    {
+      "featuredArtist": "Dani Wright",
+      "featuredArtistId": "1FD91p6oRTB61iVkGp1bpQ",
+      "trackName": "Me, You & Her",
+      "trackId": "6wW65PwNHBy2QCGOdkechf",
+      "preview": "https://p.scdn.co/mp3-preview/7e2de062cf894d495c22675a3e8ea800d596c87e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a125dbd04945a94444ca66e361850d5e6d36845d",
+      "release_date": "2014-04-23"
+    },
+    {
+      "featuredArtist": "Hit Boy",
+      "featuredArtistId": "6q3p11nP1p80Ey6LrOOSed",
+      "trackName": "ASAP - Remix",
+      "trackId": "3Mk9awUUOJJ4KStpTWBfFD",
+      "preview": "https://p.scdn.co/mp3-preview/39ef5616348429fa981f083df72b4ab944d55ab5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a125dbd04945a94444ca66e361850d5e6d36845d",
+      "release_date": "2014-04-23"
+    },
+    {
+      "featuredArtist": "King Chip",
+      "featuredArtistId": "5NjUjtjtkzZqRuWFdspT1K",
+      "trackName": "ASAP - Remix",
+      "trackId": "3Mk9awUUOJJ4KStpTWBfFD",
+      "preview": "https://p.scdn.co/mp3-preview/39ef5616348429fa981f083df72b4ab944d55ab5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a125dbd04945a94444ca66e361850d5e6d36845d",
+      "release_date": "2014-04-23"
+    },
+    {
+      "featuredArtist": "Amber Riley",
+      "featuredArtistId": "5AKj7LRRQHfYPsCKfsptga",
+      "trackName": "Never Be Lonely",
+      "trackId": "43iRiWNNlcrWPlwewYS1J9",
+      "preview": "https://p.scdn.co/mp3-preview/611e0c7c24ea94f855ee7c8e0819671a6cc58e7f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a125dbd04945a94444ca66e361850d5e6d36845d",
+      "release_date": "2014-04-23"
+    },
+    {
+      "featuredArtist": "Problem",
+      "featuredArtistId": "0399oiMcmbOzzsYQDNYqxn",
+      "trackName": "Say No",
+      "trackId": "2lY0wShH480rT8sD3osakP",
+      "preview": "https://p.scdn.co/mp3-preview/ade253ef599ff0d19e0102e807aefbcad49da44a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a125dbd04945a94444ca66e361850d5e6d36845d",
+      "release_date": "2014-04-23"
+    },
+    {
+      "featuredArtist": "Mann",
+      "featuredArtistId": "3GiE0x3ikO2HMmmzHtG88K",
+      "trackName": "Fan of Me",
+      "trackId": "0OHPDbN6ntywWo658SkEq0",
+      "preview": "https://p.scdn.co/mp3-preview/ac47acab337ecd734ef906540b69b92ff7d514b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a125dbd04945a94444ca66e361850d5e6d36845d",
+      "release_date": "2014-04-23"
+    },
+    {
+      "featuredArtist": "J-Doe",
+      "featuredArtistId": "2lYhyl1fMy67sFdeN1X274",
+      "trackName": "Break All The Rules",
+      "trackId": "5KJxliTXofJjfYk4Z2iqty",
+      "preview": "https://p.scdn.co/mp3-preview/85fce5cdcf71b01d2ec982cdb7529f32ce5282e2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a125dbd04945a94444ca66e361850d5e6d36845d",
+      "release_date": "2014-04-23"
+    },
+    {
+      "featuredArtist": "Christina Milian",
+      "featuredArtistId": "4eAOcbAXIF4BmbN6E1QIlw",
+      "trackName": "Ride It",
+      "trackId": "5Hd0hg9FoJRyNIMs2Ol6FB",
+      "preview": "https://p.scdn.co/mp3-preview/c8055af5494b05de0fb9202f84fd06b6ee8258e7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a125dbd04945a94444ca66e361850d5e6d36845d",
+      "release_date": "2014-04-23"
+    },
+    {
+      "featuredArtist": "Mario",
+      "featuredArtistId": "2IJ7FDdqyEx8jxydqxOhvg",
+      "trackName": "Navigator",
+      "trackId": "5A2n20wuhP6oMurSsZusel",
+      "preview": "https://p.scdn.co/mp3-preview/2eca68309423495ce924213d82c1fe712cd3ceaa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a125dbd04945a94444ca66e361850d5e6d36845d",
+      "release_date": "2014-04-23"
+    },
+    {
+      "featuredArtist": "Libby",
+      "featuredArtistId": "411C3UyFW4DwAHv3reRjXN",
+      "trackName": "Both Ways (feat. Libby)",
+      "trackId": "1HMKf7EFLc9nt5u5Usf6PH",
+      "preview": "https://p.scdn.co/mp3-preview/7343f2a9053aaa808979e8de5a3b7116d3a17493?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/586417686f355e8257861bbe0cf6ef886a4eb2fb",
+      "release_date": "2013-04-15"
+    },
+    {
+      "featuredArtist": "Mario",
+      "featuredArtistId": "613E0gWAQz8KN8RyuS6QY6",
+      "trackName": "Navigator (feat. Mario & J Doe)",
+      "trackId": "372z3zcKxvlGABasDRHDSY",
+      "preview": "https://p.scdn.co/mp3-preview/3aa26533bfd4b3b3ad58707656c4472d6d65fd5a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2199b222066872f07499561ca2103fee0104b2f3",
+      "release_date": "2013-04-15"
+    },
+    {
+      "featuredArtist": "Chip Munk",
+      "featuredArtistId": "06veNMyjYqHZqlwHPKcPsh",
+      "trackName": "Sarastic (feat. Chipmunk)",
+      "trackId": "60IkJ2V020mdQMP9CxV2jp",
+      "preview": "https://p.scdn.co/mp3-preview/4cf438ad538af3afbbba30bc36a5f3b76c469524?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2199b222066872f07499561ca2103fee0104b2f3",
+      "release_date": "2013-04-15"
+    },
+    {
+      "featuredArtist": "Kevin McCall",
+      "featuredArtistId": "2teIxF2qgr0rYmTTMKiZ7s",
+      "trackName": "Get It All (feat. Tank & Kevin McCall)",
+      "trackId": "6vFrghAjMK8RIhvCtN3a7w",
+      "preview": "https://p.scdn.co/mp3-preview/5be79ba0085be629c28a6d41bf6f6417edbeb222?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2199b222066872f07499561ca2103fee0104b2f3",
+      "release_date": "2013-04-15"
+    },
+    {
+      "featuredArtist": "Tank",
+      "featuredArtistId": "3T3McKIMvtAX5KdEAHl9a0",
+      "trackName": "Get It All (feat. Tank & Kevin McCall)",
+      "trackId": "6vFrghAjMK8RIhvCtN3a7w",
+      "preview": "https://p.scdn.co/mp3-preview/5be79ba0085be629c28a6d41bf6f6417edbeb222?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2199b222066872f07499561ca2103fee0104b2f3",
+      "release_date": "2013-04-15"
+    },
+    {
+      "featuredArtist": "Mann",
+      "featuredArtistId": "4H27YVxdxJKY8ngPzrolaX",
+      "trackName": "Fan Of Me (feat. Mann)",
+      "trackId": "5XXaqEAIVpzY6ZzjuAU3LO",
+      "preview": "https://p.scdn.co/mp3-preview/0e93911f7d11b8129a6c6ce6033eff9e12fd380d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2199b222066872f07499561ca2103fee0104b2f3",
+      "release_date": "2013-04-15"
+    },
+    {
+      "featuredArtist": "Chief Wakil",
+      "featuredArtistId": "0eNpwvw4gRmgVDjx3uIqfR",
+      "trackName": "Help (feat. chief waKiL)",
+      "trackId": "0F2c0lt9VJv1PyeCtMWKG0",
+      "preview": "https://p.scdn.co/mp3-preview/b803f27ad0d7f66dee622cd3e3c8bc366d8fef7f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2199b222066872f07499561ca2103fee0104b2f3",
+      "release_date": "2013-04-15"
+    },
+    {
+      "featuredArtist": "Sevyn",
+      "featuredArtistId": "0MrWccK2g4vI3yFW9Puiv1",
+      "trackName": "Film Me (feat. Sevyn)",
+      "trackId": "0Gk9Rj0FFOkl6GF856JJbO",
+      "preview": "https://p.scdn.co/mp3-preview/4a94232f4fa8e8a53cb1352b5f444ef23a5bdcce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aa87889b58b674a7da58cf8fff64502f74e8035b",
+      "release_date": "2013-04-15"
+    },
+    {
+      "featuredArtist": "Treasure Davis",
+      "featuredArtistId": "6S7lMwgafEK384nEx70j5E",
+      "trackName": "What You Want (feat. Treasure Davis)",
+      "trackId": "4jI9i7tENIb1qXuCsHz6k2",
+      "preview": "https://p.scdn.co/mp3-preview/35a4c83a5f30b1e1e8b271ac002ec06108980ba7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aa87889b58b674a7da58cf8fff64502f74e8035b",
+      "release_date": "2013-04-15"
+    },
+    {
+      "featuredArtist": "Reek da Villian",
+      "featuredArtistId": "41gxhG2jLBD3CEn3QI0EwL",
+      "trackName": "Like You Love Me (feat. Reek Da Villian)",
+      "trackId": "17oPmsJIh7ZnCUTNlb9IRf",
+      "preview": "https://p.scdn.co/mp3-preview/af3d52f7e9d9d4ffa725fd239436d091887ac5fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8f36782705f127b1ea95da60e265fd1eb9ca2a6c",
+      "release_date": "2013-04-15"
+    },
+    {
+      "featuredArtist": "Mila J",
+      "featuredArtistId": "6cN9XwPMj9bWzJ32GC6V7v",
+      "trackName": "Ain't Ya Ex (feat. Mila J & Tink)",
+      "trackId": "59xIhwim6EOT5tOFiQaLtF",
+      "preview": "https://p.scdn.co/mp3-preview/c67cd675ae3a0a83e2ee859913e3222e3ef030f9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2707e07c8422c57a4bca7df64c012919160882ff",
+      "release_date": "2018-03-22"
+    },
+    {
+      "featuredArtist": "Tink",
+      "featuredArtistId": "4v6XOdonnfpdTKTRJArG7v",
+      "trackName": "Ain't Ya Ex (feat. Mila J & Tink)",
+      "trackId": "59xIhwim6EOT5tOFiQaLtF",
+      "preview": "https://p.scdn.co/mp3-preview/c67cd675ae3a0a83e2ee859913e3222e3ef030f9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2707e07c8422c57a4bca7df64c012919160882ff",
+      "release_date": "2018-03-22"
+    }
+  ]
+}

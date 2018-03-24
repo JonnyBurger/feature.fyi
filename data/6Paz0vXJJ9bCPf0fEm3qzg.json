@@ -1,0 +1,41 @@
+{
+  "artistName": "Dagny",
+  "features": [
+    {
+      "featuredArtist": "Mark McCabe",
+      "featuredArtistId": "7b7fZRv3EYhFgWYJR3yjXn",
+      "trackName": "Love You Like That - Mark McCabe Remix",
+      "trackId": "2QBedFSVrSjJUyOGKWvRVa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/54c963a4f7cc9759ab8ec893b4151ebe53b0c017",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "State of Sound",
+      "featuredArtistId": "05o1zW8b6PV6rEquXr74sB",
+      "trackName": "Wearing Nothing - State of Sound Remix",
+      "trackId": "6I5fmeavfAtvKyn9IVJ81j",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/640a8b3eec368d44acf5d86d8e933c923d3585b1",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "Youngr",
+      "featuredArtistId": "5TrkbV9x6OdTBlzWPJeBz5",
+      "trackName": "Wearing Nothing - Youngr Remix",
+      "trackId": "4Q2zpgfzfzh48FGgOsjGcr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c9c6157795e8c883c6ea8ec54564980e78cc8541",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "NOTD",
+      "featuredArtistId": "5jAMCwdNHWr7JThxtMuEyy",
+      "trackName": "Summer Of Love",
+      "trackId": "4uw3tHPjnriyikT4S3mXc2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8c4ab3ab785ddbff3bfb65007cba73d8b4860661",
+      "release_date": "2017-08-11"
+    }
+  ]
+}

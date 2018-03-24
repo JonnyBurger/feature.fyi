@@ -1,0 +1,50 @@
+{
+  "artistName": "Leroy Sanchez",
+  "features": [
+    {
+      "featuredArtist": "Kurt Hugo Schneider",
+      "featuredArtistId": "2BHswvFd8tMBizVWGcAMLm",
+      "trackName": "Bye Bye Bye",
+      "trackId": "6A5PxmaqeODZAwhDKnQkeq",
+      "preview": "https://p.scdn.co/mp3-preview/b7dfbb7d588ffe7e48d823ce39b635d3f6a79cd0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5041f26008a1cda5767c3454faa600fcf844e3d3",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Madilyn Bailey",
+      "featuredArtistId": "07r7OPIALkj6Icaoj4Kf5l",
+      "trackName": "Despacito",
+      "trackId": "4vxA3aI7l73i0Hi819OQhH",
+      "preview": "https://p.scdn.co/mp3-preview/076f200df2b0f8b361ca1e6c268dba878ad998ce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/54ef4f79d7c23ac933f22e679cf26a55a8eea122",
+      "release_date": "2017-05-25"
+    },
+    {
+      "featuredArtist": "Lorea Turner",
+      "featuredArtistId": "2RA7gMjr7CPkWlLLLXgrIA",
+      "trackName": "Beauty and the Beast (feat. Lorea Turner)",
+      "trackId": "1DICQN9XQpTSRP310uLh6p",
+      "preview": "https://p.scdn.co/mp3-preview/a2c9336501284549698826e2bb724f9586b414cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8bb71b8c4c1fdd131cc2b007a223b3d17ac278df",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Carlos Ares",
+      "featuredArtistId": "3eReTIjhrje1sk2hFQgwhI",
+      "trackName": "Hechizo",
+      "trackId": "69ANxGNY5PIVj6WiW5E8CQ",
+      "preview": "https://p.scdn.co/mp3-preview/e703c438e5a1bc41af5c455b189e803da9622a71?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/de7c5501166640b15c7f6653f9ad4607205faa51",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Machine Gun Kelly",
+      "featuredArtistId": "6TIYQ3jFPwQSRmorSezPxX",
+      "trackName": "Gone",
+      "trackId": "0oWLsEchzMxbZuwKLfCkXN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d99f666ec0c72d9393fca2a8811e2bd1cd1ff707",
+      "release_date": "2015-10-16"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "artistName": "Luis Fonsi",
+  "features": [
+    {
+      "featuredArtist": "Laura Pausini",
+      "featuredArtistId": "2e4nwiX8ZCU09LGLOpeqTH",
+      "trackName": "Todo Vuelve A Empezar",
+      "trackId": "3pTD5QCNu6oe30VEJnP99W",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/517fe308b4eb538bccc2e27d5f63646b96e17921",
+      "release_date": "2017-02-17"
+    },
+    {
+      "featuredArtist": "Aleks Syntek",
+      "featuredArtistId": "0r8toju2ecKaVtItkzAnNi",
+      "trackName": "Aqui Estoy Yo",
+      "trackId": "5VVAQ1NAH1vFAoQ3PfXqtr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/517fe308b4eb538bccc2e27d5f63646b96e17921",
+      "release_date": "2017-02-17"
+    },
+    {
+      "featuredArtist": "Noel Schajris",
+      "featuredArtistId": "2uEjXyVi0SA1HPpj3zquXh",
+      "trackName": "Aqui Estoy Yo",
+      "trackId": "5VVAQ1NAH1vFAoQ3PfXqtr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/517fe308b4eb538bccc2e27d5f63646b96e17921",
+      "release_date": "2017-02-17"
+    },
+    {
+      "featuredArtist": "David Bisbal",
+      "featuredArtistId": "5gOJTI4TusSENizxhcG7jB",
+      "trackName": "Aqui Estoy Yo",
+      "trackId": "5VVAQ1NAH1vFAoQ3PfXqtr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/517fe308b4eb538bccc2e27d5f63646b96e17921",
+      "release_date": "2017-02-17"
+    },
+    {
+      "featuredArtist": "Juan Luis Guerra 4.40",
+      "featuredArtistId": "3nlpTZci9O5W8RsNoNH559",
+      "trackName": "Llegaste Tú",
+      "trackId": "1jOMPa1bDYEJs0yBARewKd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0297ce1ea8927fa038462c34952160a77cb5523d",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "M.J.",
+      "featuredArtistId": "0nTZdZ6hE64x0pE0iHt9rz",
+      "trackName": "No Me Doy Por Vencido - Urban Remix",
+      "trackId": "6mFeree494UQxdLHVv1TC9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6aa1aaf2cd813ef8d09d597340c05964373e62bb",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Germán Montero",
+      "featuredArtistId": "2mJLFoa2cRqCZHL6MZNaak",
+      "trackName": "No Me Doy Por Vencido - Banda Version",
+      "trackId": "6Zhijvej7VQTtgXm6AgBbm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6aa1aaf2cd813ef8d09d597340c05964373e62bb",
+      "release_date": "2008"
+    }
+  ]
+}

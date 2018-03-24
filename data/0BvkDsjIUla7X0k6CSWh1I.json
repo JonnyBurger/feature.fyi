@@ -1,0 +1,23 @@
+{
+  "artistName": "Luke Bryan",
+  "features": [
+    {
+      "featuredArtist": "Karen Fairchild",
+      "featuredArtistId": "3RXtieA0L2l22SWlOUMNca",
+      "trackName": "Home Alone Tonight",
+      "trackId": "2phomyGUWSjrHUXzbsYv17",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6d831834e8fecdbbb63bb3e907e06cf300feb728",
+      "release_date": "2015-08-07"
+    },
+    {
+      "featuredArtist": "Jason Aldean",
+      "featuredArtistId": "3FfvYsEGaIb52QPXhg4DcH",
+      "trackName": "Your Mama Should've Named You Whiskey - Bonus Track",
+      "trackId": "0bL5ajHehvJzVrLwE52O3c",
+      "preview": "https://p.scdn.co/mp3-preview/be0ca6a88b204bfc0386655e96c604facad20428?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8567512ae122237ba0468da91d63c0499e3f72b",
+      "release_date": "2013-08-13"
+    }
+  ]
+}

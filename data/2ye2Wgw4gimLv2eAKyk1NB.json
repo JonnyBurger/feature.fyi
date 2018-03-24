@@ -1,0 +1,32 @@
+{
+  "artistName": "Metallica",
+  "features": [
+    {
+      "featuredArtist": "Lou Reed",
+      "featuredArtistId": "42TFhl7WlMRXiNqzSrnzPL",
+      "trackName": "Brandenburg Gate",
+      "trackId": "3UqG4RqBe5fsjqDu2iBZK2",
+      "preview": "https://p.scdn.co/mp3-preview/6fa9d4040942ce34d955122fa2a5805f02a7f29f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6c951f3f334e05ffacf598e168aed321f5b8ffc3",
+      "release_date": "2011-11-01"
+    },
+    {
+      "featuredArtist": "Bob Rock",
+      "featuredArtistId": "3fv3YVn2yEca71WZ6F0ATL",
+      "trackName": "Some Kind Of Monster - Edit",
+      "trackId": "2awTcUMwcFTykJIwxadzaj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7ff3342f64550323a9216cc94c4f7920f2764385",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Randy Staub",
+      "featuredArtistId": "2LZJioxVMNTy0y4tu8lU9C",
+      "trackName": "Some Kind Of Monster - Edit",
+      "trackId": "2awTcUMwcFTykJIwxadzaj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7ff3342f64550323a9216cc94c4f7920f2764385",
+      "release_date": "2004-01-01"
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "artistName": "Frank Sinatra",
+  "features": [
+    {
+      "featuredArtist": "Fred Waring & His Pennsylvanians",
+      "featuredArtistId": "56KTGgSkXENl57LeuSR2oQ",
+      "trackName": "An Old Fashioned Christmas",
+      "trackId": "2HTSlBKlBM0hqZ2b35wx5B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/49ccca36da1796165199bdbdc73400cc9a6b6fe1",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "The Jimmy Joyce Singers And Orchestra",
+      "featuredArtistId": "7tIZj4iYsmkABsHuLitIC7",
+      "trackName": "Whatever Happened To Christmas?",
+      "trackId": "0cZvOHvhPhYmmmDKhNUt6M",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/49ccca36da1796165199bdbdc73400cc9a6b6fe1",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Frank Sinatra Jr.",
+      "featuredArtistId": "5fElZYhQFp0lEc4FQVcRu1",
+      "trackName": "The Twelve Days Of Christmas",
+      "trackId": "5jFuHdCKo336jE9mneknuh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/49ccca36da1796165199bdbdc73400cc9a6b6fe1",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Nancy Sinatra",
+      "featuredArtistId": "3IZrrNonYELubLPJmqOci2",
+      "trackName": "The Twelve Days Of Christmas",
+      "trackId": "5jFuHdCKo336jE9mneknuh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/49ccca36da1796165199bdbdc73400cc9a6b6fe1",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Christina Sinatra",
+      "featuredArtistId": "3qrdTy0IyRgqjXHNCOoSST",
+      "trackName": "The Twelve Days Of Christmas",
+      "trackId": "5jFuHdCKo336jE9mneknuh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/49ccca36da1796165199bdbdc73400cc9a6b6fe1",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Ken Lane Singers",
+      "featuredArtistId": "0TPlgv7eySSCChc2vKRIml",
+      "trackName": "Cradle Song (Brahms' Lullaby) - 78rpm Version",
+      "trackId": "0sugcu4AJS5jwvehqcEpAs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c6c81623f362d8ab9ef36fa5cdbf3cd145572b65",
+      "release_date": "2017-05-12"
+    },
+    {
+      "featuredArtist": "Harry James",
+      "featuredArtistId": "5MpELOfAiq7aIBTij30phD",
+      "trackName": "Moon Love - Live",
+      "trackId": "2emdwgYR9LsJrMWV3ubY5t",
+      "preview": "https://p.scdn.co/mp3-preview/40ce83f0bd73ef5404560a82a80036cf56bec1eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "David Broekman & the Treasury Ensemble",
+      "featuredArtistId": "2Z72S3JEXguRQr1lCKDylM",
+      "trackName": "She's Funny That Way",
+      "trackId": "7h9hiIw7AY8F3nuNqH49IJ",
+      "preview": "https://p.scdn.co/mp3-preview/dec808cff9a19e98850fc2ce503a0b6273a18005?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Lyn Murray & his Orchestra",
+      "featuredArtistId": "5dx23WSIGnGjBUmGfCsBG5",
+      "trackName": "Medley: I'll String Along with You / As Time Goes By",
+      "trackId": "4M2LrXs3BrsQIqd3uF85qX",
+      "preview": "https://p.scdn.co/mp3-preview/9dc41eb7d4802ffb4a1601b388535e8b99e29a7d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Walter Gross and His Orchestra",
+      "featuredArtistId": "2SSrJgaZ9KlgGqNoq1pz48",
+      "trackName": "That Old Black Magic",
+      "trackId": "09RYvNnfqvLQbKJKJh63Af",
+      "preview": "https://p.scdn.co/mp3-preview/236eb5fd31f3584587bad7434dcc489f18ef925a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Mark Warnow & The Hit Parade Orchestra",
+      "featuredArtistId": "0EoWr6e19uwZDzQl1oK9yr",
+      "trackName": "I Heard You Cried Last Night",
+      "trackId": "4bZtyQNac4H4dP56zH9eKZ",
+      "preview": "https://p.scdn.co/mp3-preview/fd07d474b7988f8c811cd30bc0a9ce020568b95e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Raymond Scott",
+      "featuredArtistId": "31DffUzogcRBJT3Andaqtt",
+      "trackName": "Broadway Bandbox Show Opening / All or Nothing at All (orchestral)",
+      "trackId": "4s40cyFtq8LFFao6T1EjQV",
+      "preview": "https://p.scdn.co/mp3-preview/6eb08401f6fd4c0f21fa585a64171e255f06435a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Axel Stordahl And His Orchestra",
+      "featuredArtistId": "2Ixy2lmIGGsrbinhHvnFJl",
+      "trackName": "The Right Kind of Love",
+      "trackId": "3gNYCQigCm7pDNVrbx4bPD",
+      "preview": "https://p.scdn.co/mp3-preview/11ba839b9698a669b9b69792682960c702036d6a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Raymond Paige & His Orchestra",
+      "featuredArtistId": "3uy2GbjgLHBYNhbs8yyRNZ",
+      "trackName": "Close to You - Orchestral",
+      "trackId": "12zKnVmwjTFlaoePOd4Mrh",
+      "preview": "https://p.scdn.co/mp3-preview/3d285f2a40245d5170bba16ab3021f4830cd54a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Milton Berle",
+      "featuredArtistId": "4lsFzPLv38WeKu4Hg4eHRc",
+      "trackName": "It's De-Lovely",
+      "trackId": "56Het1YB15Eq9HvYjGd2yW",
+      "preview": "https://p.scdn.co/mp3-preview/9ed041f9ddf9ab5bc9c8c8f2be78e7a7b92090c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Everett Clark",
+      "featuredArtistId": "3p7i6RIwM4SyKPCTsiIgdU",
+      "trackName": "Songs by Sinatra Show Opening: This Love of Mine / Paper Doll",
+      "trackId": "5ThP2HqFGbtIWy6iaY5BKG",
+      "preview": "https://p.scdn.co/mp3-preview/3b015b9d8e79e118e8042c1e7ce072015f5b368b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Bobby Tucker Singers",
+      "featuredArtistId": "4jNIrx3QUJuUcarfj4YINz",
+      "trackName": "Songs by Sinatra Show Opening: This Love of Mine / Paper Doll",
+      "trackId": "5ThP2HqFGbtIWy6iaY5BKG",
+      "preview": "https://p.scdn.co/mp3-preview/3b015b9d8e79e118e8042c1e7ce072015f5b368b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Gen. Dwight D. Eisenhower",
+      "featuredArtistId": "4alBzntvcfeUldTUYaNeei",
+      "trackName": "News Bulletin / Gen. Dwight D. Eisenhower Briefing / President Franklin D. Roosevelt Address of D-Day (Excerpts) / Music for Millions Introduction & Buy a Piece of the Peace",
+      "trackId": "5lQiVL8CThYc6jCviSk0hb",
+      "preview": "https://p.scdn.co/mp3-preview/3e3fa2396efed037910a2d2545bad19a6fb85ee6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "President Franklin D. Roosevelt",
+      "featuredArtistId": "1eRo3IBp5lbOBUgmxOguQ7",
+      "trackName": "News Bulletin / Gen. Dwight D. Eisenhower Briefing / President Franklin D. Roosevelt Address of D-Day (Excerpts) / Music for Millions Introduction & Buy a Piece of the Peace",
+      "trackId": "5lQiVL8CThYc6jCviSk0hb",
+      "preview": "https://p.scdn.co/mp3-preview/3e3fa2396efed037910a2d2545bad19a6fb85ee6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Eileen Barton",
+      "featuredArtistId": "1illUSH6N5soc068Yerppx",
+      "trackName": "Don't Fence Me In",
+      "trackId": "2sb7a3QtajHTNAFGisgjes",
+      "preview": "https://p.scdn.co/mp3-preview/bb7f6e1f5cf5effa4192a9de0988e2568f867917?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Hollywood Bowl Orchestra",
+      "featuredArtistId": "4CT3l7DatMvKA6WSejee4S",
+      "trackName": "Long Ago and Far Away",
+      "trackId": "5m6pdGZIxrrCOHZfwVx1hN",
+      "preview": "https://p.scdn.co/mp3-preview/1759f7449b92b327fcab488538fd1e3b0deb1276?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "June Hutton",
+      "featuredArtistId": "1nolwXRzdKtuxpp9q0UrVW",
+      "trackName": "Songs by Sinatra Opening: Night and Day / Aren't You Glad You're You",
+      "trackId": "0RqF8VRTtvpC92ngH5z825",
+      "preview": "https://p.scdn.co/mp3-preview/b2b9cb83df32a5fa2876e0d59d8e83e53cdad6c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "The Pied Pipers",
+      "featuredArtistId": "5o8E07TcYqIefZpDejymAd",
+      "trackName": "Songs by Sinatra Opening: Night and Day / Aren't You Glad You're You",
+      "trackId": "0RqF8VRTtvpC92ngH5z825",
+      "preview": "https://p.scdn.co/mp3-preview/b2b9cb83df32a5fa2876e0d59d8e83e53cdad6c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Bob Hope",
+      "featuredArtistId": "3AqbUi4ZK5Ob31JYFS9aTr",
+      "trackName": "Comedy Sketch: The Battle of the Century",
+      "trackId": "735NCTvXtQf70pebNxn0B9",
+      "preview": "https://p.scdn.co/mp3-preview/b9c15dd73933b896a7cf72489622c7dd4ade5f87?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Bing Crosby",
+      "featuredArtistId": "6ZjFtWeHP9XN7FeKSUe80S",
+      "trackName": "Comedy Sketch: The Battle of the Century",
+      "trackId": "735NCTvXtQf70pebNxn0B9",
+      "preview": "https://p.scdn.co/mp3-preview/b9c15dd73933b896a7cf72489622c7dd4ade5f87?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Daniel E. Kelley",
+      "featuredArtistId": "5QigQsSYL2zvgiwIfwKvtE",
+      "trackName": "Frank Sinatra Introduction to \"Home on the Range\" / Home on the Range",
+      "trackId": "1MHNKHWowLuqxwdoOljBCA",
+      "preview": "https://p.scdn.co/mp3-preview/42ea3da73f1f96c5672fd5b41c8d3dcc26ba9fc3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Gov. Jimmie Davis",
+      "featuredArtistId": "2Cfjtk3kiHGgmcxXGkC5vL",
+      "trackName": "Frank Sinatra Introduces Louisiana Gov. Jimmie Davis / You Are My Sunshine",
+      "trackId": "0RTamcflxa9l3OjZDjvV1x",
+      "preview": "https://p.scdn.co/mp3-preview/22d0630ea279da973a95a5e34e49e630ec88e3ea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Nat King Cole",
+      "featuredArtistId": "7v4imS0moSyGdXyLgVTIV7",
+      "trackName": "Frank Sinatra introduces Nat \"King\" Cole / Exactly Like You",
+      "trackId": "4ExuElMD6boKjvhu95iOgi",
+      "preview": "https://p.scdn.co/mp3-preview/0edd7701ee3d95877871e22cebe49028fe70bd79?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Nat King Cole Trio",
+      "featuredArtistId": "3OpnoUqoRIHWbsFs4Nw0NQ",
+      "trackName": "Frank Sinatra introduces Nat \"King\" Cole / Exactly Like You",
+      "trackId": "4ExuElMD6boKjvhu95iOgi",
+      "preview": "https://p.scdn.co/mp3-preview/0edd7701ee3d95877871e22cebe49028fe70bd79?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Slim Gaillard",
+      "featuredArtistId": "4aKlL2BE2kPNNtruAQqRA1",
+      "trackName": "Frank Sinatra introduces Slim Gaillard / Cement Mixer (Put-ti Put-ti)",
+      "trackId": "70MsYfOGkR509WEaubWpfe",
+      "preview": "https://p.scdn.co/mp3-preview/c200a3b6e79bab8372120dce0959c16d92f7dada?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Slim Gaillard Trio",
+      "featuredArtistId": "2rnRA8p3SahYkfvPVzJTcK",
+      "trackName": "Frank Sinatra introduces Slim Gaillard / Cement Mixer (Put-ti Put-ti)",
+      "trackId": "70MsYfOGkR509WEaubWpfe",
+      "preview": "https://p.scdn.co/mp3-preview/c200a3b6e79bab8372120dce0959c16d92f7dada?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Peggy Lee",
+      "featuredArtistId": "602DnpaSXJB4b9DZrvxbDc",
+      "trackName": "You Brought a New Kind of Love to Me",
+      "trackId": "3K6GgpRRwdMg38ygEFXIRI",
+      "preview": "https://p.scdn.co/mp3-preview/765521933c532611ae4597fb3f32ad0b96c7545f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Benny Goodman",
+      "featuredArtistId": "1pBuKaLHJlIlqYxQQaflve",
+      "trackName": "I Only Have Eyes for You",
+      "trackId": "6XmrbHGyWWdD5fn00lJivE",
+      "preview": "https://p.scdn.co/mp3-preview/134f4dafebed219cd53067f9af0b198204d85c47?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Benny Goodman Sextet",
+      "featuredArtistId": "33N6sGOKJwLGOnq31ZmEl1",
+      "trackName": "I Only Have Eyes for You",
+      "trackId": "6XmrbHGyWWdD5fn00lJivE",
+      "preview": "https://p.scdn.co/mp3-preview/134f4dafebed219cd53067f9af0b198204d85c47?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbaca2224b244ea9469465f9887bef2a4ef7162a",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Count Basie",
+      "featuredArtistId": "2jFZlvIea42ZvcCw4OeEdA",
+      "trackName": "Fly Me To The Moon",
+      "trackId": "2dR5WkrpwylTuT3jRWNufa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/caf62001f392846ead7af5a1bf3be6d84a4a7aca",
+      "release_date": "2015-04-21"
+    },
+    {
+      "featuredArtist": "Luther Vandross",
+      "featuredArtistId": "19y5MFBH7gohEdGwKM7QsP",
+      "trackName": "The Lady Is A Tramp",
+      "trackId": "0JjVhWJGDKHADulJ8EjVAL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Aretha Franklin",
+      "featuredArtistId": "7nwUJBm0HE4ZxD3f5cy5ok",
+      "trackName": "What Now My Love",
+      "trackId": "0QtRtfCHonQyQEZUNdRUpo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Barbra Streisand",
+      "featuredArtistId": "7jmTilWYlKOuavFfmQAcu6",
+      "trackName": "I've Got A Crush On You",
+      "trackId": "3tkny8Pl3q5Lh8BpKzqgDS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Julio Iglesias",
+      "featuredArtistId": "4etuCZVdP8yiNPn4xf0ie5",
+      "trackName": "Summer Wind",
+      "trackId": "1KGFGleVVS76wuLiOtS7Iu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Gloria Estefan",
+      "featuredArtistId": "5IFCkqu9J6xdWeYMk5I889",
+      "trackName": "Come Rain Or Come Shine",
+      "trackId": "10WcSmncyzSM0X7f8qb47L",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Tony Bennett",
+      "featuredArtistId": "2lolQgalUvZDfp5vvVtTYV",
+      "trackName": "New York, New York",
+      "trackId": "4NdzFKsviXMxchKjzPhnKW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Natalie Cole",
+      "featuredArtistId": "5tTsrGPwQRWUsHR2Xf7Ke9",
+      "trackName": "They Can't Take That Away From Me",
+      "trackId": "0kKHvJfxXQas0oy3DpSSr4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Charles Aznavour",
+      "featuredArtistId": "2hgP9Ap2tc10R5jrQaEpMT",
+      "trackName": "You Make Me Feel So Young",
+      "trackId": "5zwZMSblGTGWOTU4YpPseA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Carly Simon",
+      "featuredArtistId": "4FtSnMlCVxCswABUmdhwpm",
+      "trackName": "Guess I'll Hang My Tears Out To Dry/In The Wee Small Hours Of The Morning",
+      "trackId": "0Beb3zjrIyIiBZYujrf7HN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Liza Minnelli",
+      "featuredArtistId": "3lQpSzdPxoF1FYk7ilbe37",
+      "trackName": "I've Got The World On A String",
+      "trackId": "6N2Xk6t423GhP4hBlFXDmD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Anita Baker",
+      "featuredArtistId": "46CH1Gp8l8QVly8bpG9JFG",
+      "trackName": "Witchcraft",
+      "trackId": "2G4UgadAzUnu4LFrnQh1AD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Bono",
+      "featuredArtistId": "0m2Wc2gfNUWaAuBK7URPIJ",
+      "trackName": "I've Got You Under My Skin",
+      "trackId": "3JEm4jVdYrqSpgZIpF77y8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Kenny G",
+      "featuredArtistId": "6I3M904Y9IwgDjrQ9pANiB",
+      "trackName": "All The Way/One For My Baby (And One More For The Road) Medley",
+      "trackId": "5nzaUYqqKgrOssBTkvc23H",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Luciano Pavarotti",
+      "featuredArtistId": "0Y8KmFkKOgJybpVobn1onU",
+      "trackName": "My Way",
+      "trackId": "441B5anVFUoLytPQ7BHtAS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Tom Scott",
+      "featuredArtistId": "72ktMty33X1LsIzHdRr0U5",
+      "trackName": "One For My Baby (And One More For The Road)",
+      "trackId": "40pjj1FJ2iHNWCOyGFO7qd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Gladys Knight",
+      "featuredArtistId": "2aXiJJHJei5BmCykxI37y0",
+      "trackName": "For Once In My Life",
+      "trackId": "67KVISjL6TyucWKtyVD3Z2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Stevie Wonder",
+      "featuredArtistId": "7guDJrEfX3qb6FEbdPA5qi",
+      "trackName": "For Once In My Life",
+      "trackId": "67KVISjL6TyucWKtyVD3Z2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Luis Miguel",
+      "featuredArtistId": "2nszmSgqreHSdJA3zWPyrW",
+      "trackName": "Come Fly With Me",
+      "trackId": "5CGoF0BhLnKEWYlb8kWKos",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Patti LaBelle",
+      "featuredArtistId": "0ty0xha1dbprYIUAQufkFn",
+      "trackName": "Bewitched",
+      "trackId": "70UuxseQWKLIPNPLRokXI0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Jon Secada",
+      "featuredArtistId": "10n1KB2sjTrGdyuC83y8jW",
+      "trackName": "The Best Is Yet To Come",
+      "trackId": "1V8rmd2xvOXJIHZypMvMm3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Linda Ronstadt",
+      "featuredArtistId": "1sXbwvCQLGZnaH0Jp2HTVc",
+      "trackName": "Moonlight In Vermont",
+      "trackId": "1d4dWgk0d4bosdvpTUCV8m",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Antônio Carlos Jobim",
+      "featuredArtistId": "3pO5VjZ4wOHCMBXOvbMISG",
+      "trackName": "Fly Me To The Moon",
+      "trackId": "6NdIpNOk72fKJecvyWK1MP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Chrissie Hynde",
+      "featuredArtistId": "2ozLlEZTdSV3pjHgWwZMsi",
+      "trackName": "Luck Be A Lady",
+      "trackId": "3fcoGxffYuNUOJG13HZEmW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Willie Nelson",
+      "featuredArtistId": "5W5bDNCqJ1jbCgTxDD0Cb3",
+      "trackName": "A Foggy Day",
+      "trackId": "3pS8jMTosmQfAPjOZb9gau",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Eydie Gormé",
+      "featuredArtistId": "6HnHBbeScFiQKXt3sUQA3Z",
+      "trackName": "Where Or When",
+      "trackId": "1Z89WmJ2gbvSzmlLfWAxLI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Steve Lawrence",
+      "featuredArtistId": "271pvVqDFiREx6PqzwOX8p",
+      "trackName": "Where Or When",
+      "trackId": "1Z89WmJ2gbvSzmlLfWAxLI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Lena Horne",
+      "featuredArtistId": "2I6nP70ltmOHi6xjJUXHMe",
+      "trackName": "Embraceable You",
+      "trackId": "45IeaJkarobL2YT6bZYMm3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Jimmy Buffett",
+      "featuredArtistId": "28AyklUmMECPwdfo8NEsV0",
+      "trackName": "Mack The Knife",
+      "trackId": "6ST1dRCFyJ18KbmfSCnPT7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Lorrie Morgan",
+      "featuredArtistId": "0khzcQ6PQU5a6dl1Qss3pt",
+      "trackName": "How Do You Keep The Music Playing?/My Funny Valentine",
+      "trackId": "0gc2Y4GWbBjE4O0I6SZU4E",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Neil Diamond",
+      "featuredArtistId": "7mEIug7XUlQHikrFxjTWes",
+      "trackName": "The House I Live In (That's America To Me)",
+      "trackId": "1fTwxx8gMONVQkVeTKGBOS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Tanya Tucker",
+      "featuredArtistId": "7dmeVSH4lJqxXU7C87dKIB",
+      "trackName": "Embraceable You",
+      "trackId": "3nWQBSa1OV6vHd4jYVTgGW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "George Strait",
+      "featuredArtistId": "5vngPClqofybhPERIqQMYd",
+      "trackName": "Fly Me To The Moon",
+      "trackId": "1WCKy73PbWKCJyYYb3f0MD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45de8e15d852f675b5a9429cf581ff325586cddd",
+      "release_date": "2013-01-01"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "artistName": "James Taylor",
+  "features": [
+    {
+      "featuredArtist": "Carole King",
+      "featuredArtistId": "319yZVtYM9MBGqmSQnMyY6",
+      "trackName": "Blossom",
+      "trackId": "0TtyTyOnVLJnpAWwg9o1PY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/958bf204d61de3aeb1f658a2ad3eae05a4a261b6",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Chris Botti",
+      "featuredArtistId": "3eFo5fMv53RYZBYlvT5Z6a",
+      "trackName": "Winter Wonderland",
+      "trackId": "2GmNMLv8AhSRsHUH1ToooD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2eb2035068ac6d3b6a180c291de9fbdcf10c9450",
+      "release_date": "2006"
+    },
+    {
+      "featuredArtist": "Natalie Cole",
+      "featuredArtistId": "5tTsrGPwQRWUsHR2Xf7Ke9",
+      "trackName": "Baby It's Cold Outside",
+      "trackId": "6rv6qwOspg8X9dpoSaHtbA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2eb2035068ac6d3b6a180c291de9fbdcf10c9450",
+      "release_date": "2006"
+    },
+    {
+      "featuredArtist": "Yo-Yo Ma",
+      "featuredArtistId": "5Dl3HXZjG6ZOWT5cV375lk",
+      "trackName": "Here Comes The Sun",
+      "trackId": "0OkyzgsxrBaQbqEQYGLqaU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2eb2035068ac6d3b6a180c291de9fbdcf10c9450",
+      "release_date": "2006"
+    },
+    {
+      "featuredArtist": "Toots Thielemans",
+      "featuredArtistId": "0KyolDFb1RjJQb4qXZKCqo",
+      "trackName": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
+      "trackId": "3GBNZ4eGG7LnGKiS8mnIDv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2eb2035068ac6d3b6a180c291de9fbdcf10c9450",
+      "release_date": "2006"
+    },
+    {
+      "featuredArtist": "Edgar Meyer",
+      "featuredArtistId": "7jkhwa4XMe9XSt1r0AWNqD",
+      "trackName": "Benjamin",
+      "trackId": "1EkpzEzd3JUvSm4UMC9YLK",
+      "preview": "https://p.scdn.co/mp3-preview/ec550c07da1ef66021177862b1b79afef01f34e7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d98df12f96bd9cea4ba76a1b8062821e570b5f29",
+      "release_date": "2000"
+    },
+    {
+      "featuredArtist": "Mark O'Connor",
+      "featuredArtistId": "5zfaMrd5q4szVTxVYWuoDV",
+      "trackName": "Benjamin",
+      "trackId": "1EkpzEzd3JUvSm4UMC9YLK",
+      "preview": "https://p.scdn.co/mp3-preview/ec550c07da1ef66021177862b1b79afef01f34e7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d98df12f96bd9cea4ba76a1b8062821e570b5f29",
+      "release_date": "2000"
+    }
+  ]
+}

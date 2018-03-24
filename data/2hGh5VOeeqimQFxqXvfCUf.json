@@ -1,0 +1,41 @@
+{
+  "artistName": "John Coltrane",
+  "features": [
+    {
+      "featuredArtist": "Miles Davis",
+      "featuredArtistId": "0kbYTNQb4Pb1rPbbaF0pT4",
+      "trackName": "All of You - Live from Olympia Theatre, Paris",
+      "trackId": "6Qpke1nLtW5lciSvWy87KS",
+      "preview": "https://p.scdn.co/mp3-preview/09b11cac2bbf3bcb705f7f1c3247b19f38920f5b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8d671eb2ba8520a0e7e3423a5516350486e7d70",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Johnny Hartman",
+      "featuredArtistId": "7qVvIFc9DktkAc0HKzRhNo",
+      "trackName": "My One And Only Love",
+      "trackId": "0afggPQMuXvniB7Kbdabo9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8fa7b24d8d4fbaaa1be7bf2e09cbe2208750d6bf",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Red Garland Trio",
+      "featuredArtistId": "3XYnsz11kFrkx8F3upvnE5",
+      "trackName": "You Leave Me Breathless",
+      "trackId": "4wifamXIzyGnU6wMs1Osei",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/280e1ef0866abe50ccaa1d4f418493c30d52f57c",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Duke Ellington",
+      "featuredArtistId": "4F7Q5NV6h5TSwCainz8S5A",
+      "trackName": "In A Sentimental Mood",
+      "trackId": "3b55AxIlDNOwZu2xCsp6U0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/667139ae5fb65b7edc38a28fd75bf74edf72634b",
+      "release_date": "2000-11-07"
+    }
+  ]
+}

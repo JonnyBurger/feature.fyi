@@ -1,0 +1,419 @@
+{
+  "artistName": "The Knocks",
+  "features": [
+    {
+      "featuredArtist": "Cam’ron",
+      "featuredArtistId": "7iMvwE8qANp3aIfAGKEAwS",
+      "trackName": "New York City (feat. Cam'ron)",
+      "trackId": "1w9LdiYjkBm2THRIT0IWQo",
+      "preview": "https://p.scdn.co/mp3-preview/31c191e6d9cccd78d60646182eba3e5553b82b32?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/015c082775bd987c5ffb2f154354c6dac2846e62",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "POWERS",
+      "featuredArtistId": "0PGB0xsAyDqHHlvNQcgq5S",
+      "trackName": "Classic (feat. POWERS)",
+      "trackId": "42TrdbXsmLybxUGJczYbrJ",
+      "preview": "https://p.scdn.co/mp3-preview/194ee4c39e78c3d0d61c75dc27a9fab6c898c73a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/015c082775bd987c5ffb2f154354c6dac2846e62",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Wyclef Jean",
+      "featuredArtistId": "7aBzpmFXB4WWpPl2F7RjBe",
+      "trackName": "Kiss The Sky (feat. Wyclef Jean)",
+      "trackId": "06cu3EF2msKUEy0kCaY8tR",
+      "preview": "https://p.scdn.co/mp3-preview/dcf5027f10e862786a22da7af6ac6ed581781828?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/015c082775bd987c5ffb2f154354c6dac2846e62",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "X Ambassadors",
+      "featuredArtistId": "3NPpFNZtSTHheNBaWC82rB",
+      "trackName": "Comfortable (feat. X Ambassadors)",
+      "trackId": "6KkLg2UJB4sUIbtDyc8Esu",
+      "preview": "https://p.scdn.co/mp3-preview/e8b3338533c522fec77add07e374837a337217b4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/015c082775bd987c5ffb2f154354c6dac2846e62",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Matthew Koma",
+      "featuredArtistId": "1mU61l2mcjEFraXZLpvVMo",
+      "trackName": "I Wish (My Taylor Swift)",
+      "trackId": "6phyrxHcUpQ1BRZ8yXCUWB",
+      "preview": "https://p.scdn.co/mp3-preview/24a28991dc0dc34e1602bf63080b1c12b1d9fa2d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/015c082775bd987c5ffb2f154354c6dac2846e62",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Alex Newell",
+      "featuredArtistId": "2vGaSKEDFsVPBgcnGxqlBN",
+      "trackName": "Collect My Love (feat. Alex Newell)",
+      "trackId": "0vKHq50iizaMQivSaItLf3",
+      "preview": "https://p.scdn.co/mp3-preview/9043d6c37b3f215961a20f8558939f257857dc42?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/015c082775bd987c5ffb2f154354c6dac2846e62",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Justin Tranter",
+      "featuredArtistId": "3D7L8f9VRhsXHHNPiTBioz",
+      "trackName": "Tied To You (feat. Justin Tranter)",
+      "trackId": "07J6tb56U6KWPDsqoiOuIv",
+      "preview": "https://p.scdn.co/mp3-preview/3eda11f29ff081dcc6b60bcae3c79b75cc8c44ba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/015c082775bd987c5ffb2f154354c6dac2846e62",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Carly Rae Jepsen",
+      "featuredArtistId": "6sFIWsNpZYqfjUpaCgueju",
+      "trackName": "Love Me Like That (feat. Carly Rae Jepsen)",
+      "trackId": "4cqIUoHE2FJ0Dy2Fq4W80l",
+      "preview": "https://p.scdn.co/mp3-preview/1877fa1372704091e1b76a5f9e5c6ad7a73fd25f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/015c082775bd987c5ffb2f154354c6dac2846e62",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Magic Man",
+      "featuredArtistId": "6ejhZKxWJr9apHAzj74DHv",
+      "trackName": "Cinderella (feat. Magic Man)",
+      "trackId": "0lr7U0nR1OGvb5VA7IP7tN",
+      "preview": "https://p.scdn.co/mp3-preview/40bff8d3921e80f817558b1742cc9d161bdf6247?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/015c082775bd987c5ffb2f154354c6dac2846e62",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Phoebe Ryan",
+      "featuredArtistId": "4N874uPqBka1QiCvnCVOtr",
+      "trackName": "Purple Eyes (feat. Phoebe Ryan)",
+      "trackId": "0zc0GOdR0ZeSkATdcam6p7",
+      "preview": "https://p.scdn.co/mp3-preview/a02dc9cb0557f3b0dd8fdb18920222141ba6824e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/015c082775bd987c5ffb2f154354c6dac2846e62",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Walk the Moon",
+      "featuredArtistId": "094cx11OFlAxZ5v6f1oQNr",
+      "trackName": "Best For Last (feat. Walk The Moon)",
+      "trackId": "6q5dZkmPJKaW0GXKHY9uoK",
+      "preview": "https://p.scdn.co/mp3-preview/36624515c0abdd65a56a3d53562e77423f286f71?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/015c082775bd987c5ffb2f154354c6dac2846e62",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Fetty Wap",
+      "featuredArtistId": "6PXS4YHDkKvl1wkIl4V8DL",
+      "trackName": "Classic (feat. Fetty Wap & POWERS )",
+      "trackId": "6RknqMdquQhqvMtN2dopMv",
+      "preview": "https://p.scdn.co/mp3-preview/40f29254dbd8fa698b0700a69ec00c67f8dbf62b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/015c082775bd987c5ffb2f154354c6dac2846e62",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Powers",
+      "featuredArtistId": "1Ahixgb96ZEjy6uX1yb1jx",
+      "trackName": "Classic",
+      "trackId": "561HWJk63sbW7nQnxFoGRl",
+      "preview": "https://p.scdn.co/mp3-preview/a750d639b9ba396b79fa1086b124e6769cddd85d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9da706353dbc692ec3122c733360aa0cc702468",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Carly Rae Jepson",
+      "featuredArtistId": "4cEOwv4dg5YjZuA0bdUTCe",
+      "trackName": "Love Me Like That",
+      "trackId": "0q2hWqhlkAk0nSOI61rrH0",
+      "preview": "https://p.scdn.co/mp3-preview/a72f80915ca15f4bd57a85a6505510369529ec4c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9da706353dbc692ec3122c733360aa0cc702468",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Magic Man",
+      "featuredArtistId": "4xZC8R3tpsYiIgLQS9MvIT",
+      "trackName": "Cinderella",
+      "trackId": "3gWTKz1kpWRhUIa4gnIfdp",
+      "preview": "https://p.scdn.co/mp3-preview/c76268328e2dc68392e88811d7a6a05a49e24092?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9da706353dbc692ec3122c733360aa0cc702468",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Sneaky Sound System",
+      "featuredArtistId": "6ieVhWXtOmK6DO6dmX7Eko",
+      "trackName": "The One",
+      "trackId": "7rgY62st4KQWnRJahrTBEk",
+      "preview": "https://p.scdn.co/mp3-preview/b45caee9259bbb541de2bbc92f0afc7dd923796e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9da706353dbc692ec3122c733360aa0cc702468",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Adeline Michelle",
+      "featuredArtistId": "6wz8KMCvha6kgCZz4EFMr4",
+      "trackName": "Flow",
+      "trackId": "7bZqb5Yz7kWGlXKEmt09JD",
+      "preview": "https://p.scdn.co/mp3-preview/7b603922df3d5794c72c0ca3b63b1f629f7b0dcb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9da706353dbc692ec3122c733360aa0cc702468",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Ra Ra Riot",
+      "featuredArtistId": "6FIrstf3kHEg3zBOyLpvxD",
+      "trackName": "Savior (feat. Ra Ra Riot)",
+      "trackId": "2JDTiCpuTClauMI7anVLGL",
+      "preview": "https://p.scdn.co/mp3-preview/b73cfe64126669966008410b42f07aa99a3170a1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6f30157a8b35a18758d0aa7344492313a9dff9dc",
+      "release_date": "2014-02-11"
+    },
+    {
+      "featuredArtist": "Foster The People",
+      "featuredArtistId": "7gP3bB2nilZXLfPHJhMdvc",
+      "trackName": "Ride Or Die (feat. Foster The People) - Purple Disco Machine Remix",
+      "trackId": "2exsc3rWNYYrYU0JCTXNKX",
+      "preview": "https://p.scdn.co/mp3-preview/efa7bd41090465cc43a553e80d10a60d7a728a72?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bb476e3f637ee381310443bd702cb0ee022b6eba",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Purple Disco Machine",
+      "featuredArtistId": "2WBJQGf1bT1kxuoqziH5g4",
+      "trackName": "Ride Or Die (feat. Foster The People) - Purple Disco Machine Remix",
+      "trackId": "2exsc3rWNYYrYU0JCTXNKX",
+      "preview": "https://p.scdn.co/mp3-preview/efa7bd41090465cc43a553e80d10a60d7a728a72?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bb476e3f637ee381310443bd702cb0ee022b6eba",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Captain Cuts",
+      "featuredArtistId": "0rlKkLkpsCnJbZethGBfAk",
+      "trackName": "House Party - Arkadi Future Filth Remix",
+      "trackId": "6VCwV3k4RV8cB0J4CvJHMX",
+      "preview": "https://p.scdn.co/mp3-preview/8a1a1d989362a332adc2ba6954d6a90678d8a6bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/519ab7159f9360e73e918a1175eaa16231c35a59",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Arkadi",
+      "featuredArtistId": "3BvXBTskD6KTZT5O9EMEHs",
+      "trackName": "House Party - Arkadi Future Filth Remix",
+      "trackId": "6VCwV3k4RV8cB0J4CvJHMX",
+      "preview": "https://p.scdn.co/mp3-preview/8a1a1d989362a332adc2ba6954d6a90678d8a6bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/519ab7159f9360e73e918a1175eaa16231c35a59",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Oliver",
+      "featuredArtistId": "0NDElNqwGRCmsYIQFapp6K",
+      "trackName": "House Party - Oliver Disco Mixx",
+      "trackId": "2x4nE0tVlupv6u3rATV3AL",
+      "preview": "https://p.scdn.co/mp3-preview/df00a07b14f0925b93dde1ff8222c33725f5a565?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac103421941b1813126b343e9b8a31ab20928ffd",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Sunnery James & Ryan Marciano",
+      "featuredArtistId": "7kABWMhjA5GIl9PBEasBPt",
+      "trackName": "House Party - Sunnery James & Ryan Marciano Club Mix",
+      "trackId": "4IbEtCPqdWNsrH7yQY1z8T",
+      "preview": "https://p.scdn.co/mp3-preview/c02d280bc580183720d274dd9a7f88940cd5cec1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac103421941b1813126b343e9b8a31ab20928ffd",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Doorly",
+      "featuredArtistId": "4uUZsrxHK6peebj1rpawBa",
+      "trackName": "House Party - Doorly Afterparty Re-Rub",
+      "trackId": "6nxkLWotP7Gzz9CO1ZXQQS",
+      "preview": "https://p.scdn.co/mp3-preview/e1f9e1880e88503bc414995d930b26c62d5263f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac103421941b1813126b343e9b8a31ab20928ffd",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Buku",
+      "featuredArtistId": "0w2QFhEnPG6tLIvkogHbUi",
+      "trackName": "House Party - Buku Secret Sauce Remix",
+      "trackId": "546TTpJyL8FlpgNJ57Jzq2",
+      "preview": "https://p.scdn.co/mp3-preview/5077266214db6f280ccb3139f2738e78140fb2e7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac103421941b1813126b343e9b8a31ab20928ffd",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Zookëper",
+      "featuredArtistId": "2XvV82x6Qs0W3GBTkBSjPI",
+      "trackName": "House Party - Zookëper Brown Note Remix",
+      "trackId": "6FcXdJRCilIGn1xGVF0QFX",
+      "preview": "https://p.scdn.co/mp3-preview/34b5193c74c998f31a2e724952fbf3d30ef88e2e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac103421941b1813126b343e9b8a31ab20928ffd",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "The Mary Nixons",
+      "featuredArtistId": "7n64REXJrgAZTNmbCZo4RJ",
+      "trackName": "Adrian",
+      "trackId": "7GAOQ8MtrE35VOIwf49l3k",
+      "preview": "https://p.scdn.co/mp3-preview/f6dde97e726a8a32f3a4a2da564b80320085debb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6a3170a27dd3b5250b432dd2fb375f0f85419141",
+      "release_date": "2017-07-14"
+    },
+    {
+      "featuredArtist": "Mat Zo",
+      "featuredArtistId": "2n7USVO8fO8FF8zq4kG2N1",
+      "trackName": "Adrian",
+      "trackId": "7GAOQ8MtrE35VOIwf49l3k",
+      "preview": "https://p.scdn.co/mp3-preview/f6dde97e726a8a32f3a4a2da564b80320085debb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6a3170a27dd3b5250b432dd2fb375f0f85419141",
+      "release_date": "2017-07-14"
+    },
+    {
+      "featuredArtist": "MishCatt",
+      "featuredArtistId": "4nljnlPiswjFIoVpLGn8Wc",
+      "trackName": "HEAT (feat. MishCatt) - MishCatt Skolhaus Version",
+      "trackId": "0vPEiXVzCSDTSgwq9vjq68",
+      "preview": "https://p.scdn.co/mp3-preview/06e77b9863caa6831a2ac404b0b206c990d17b87?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b44b6211b63d0200ce4f08681b0d82d7c8d0765",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Sam Nelson Harris",
+      "featuredArtistId": "43Pa0TcSPPPACWeqtvjQpZ",
+      "trackName": "HEAT (feat. Sam Nelson Harris) - Wet Remix",
+      "trackId": "0KMN7IeBS6Wi00wNLgPGwI",
+      "preview": "https://p.scdn.co/mp3-preview/c426efdc14b59775ed510fdbcc997a6fd9ec91a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b44b6211b63d0200ce4f08681b0d82d7c8d0765",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Wet",
+      "featuredArtistId": "2i9uaNzfUtuApAjEf1omV8",
+      "trackName": "HEAT (feat. Sam Nelson Harris) - Wet Remix",
+      "trackId": "0KMN7IeBS6Wi00wNLgPGwI",
+      "preview": "https://p.scdn.co/mp3-preview/c426efdc14b59775ed510fdbcc997a6fd9ec91a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b44b6211b63d0200ce4f08681b0d82d7c8d0765",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Manila Killa",
+      "featuredArtistId": "4EukMPjtYsdi87lkU1hIxN",
+      "trackName": "HEAT (feat. Sam Nelson Harris) - Manila Killa Remix",
+      "trackId": "2WVP3M61rUIRdh6d90GHRk",
+      "preview": "https://p.scdn.co/mp3-preview/18635aef3a2f387cf81c38c4bc6353da3e1052e1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b44b6211b63d0200ce4f08681b0d82d7c8d0765",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Toyboy & Robin",
+      "featuredArtistId": "5vJKpAzRCVrkjgTYKy1fDG",
+      "trackName": "HEAT (feat. Sam Nelson Harris) - Toyboy & Robin Remix",
+      "trackId": "6O1Tj2aYoiuBJKNJTLTLf0",
+      "preview": "https://p.scdn.co/mp3-preview/6c691e354028f2a604221d4241828bc6b51be01e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b44b6211b63d0200ce4f08681b0d82d7c8d0765",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Pep & Rash",
+      "featuredArtistId": "2HmmA3GhP0xsbRUiDllJUn",
+      "trackName": "HEAT (feat. Sam Nelson Harris) - Pep & Rash Remix",
+      "trackId": "7xVsaDHaHyRwj1oDddk2u1",
+      "preview": "https://p.scdn.co/mp3-preview/bfd635c49830e1e6c56071d38a17451d59574f3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b44b6211b63d0200ce4f08681b0d82d7c8d0765",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Absofacto",
+      "featuredArtistId": "7gAYvcQFmAruyvwGjxrSUr",
+      "trackName": "TROUBLE (feat. Absofacto) - Jacques Lu Cont Mix",
+      "trackId": "7KUKJ1HPN6zAlxdqXqWJnv",
+      "preview": "https://p.scdn.co/mp3-preview/ff6d72755f6d76b0b41b68c9c13fe13d36c69d15?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bb16e182d3f7823091d080f2f5bafc451f3415c4",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Jacques Lu Cont",
+      "featuredArtistId": "4SINYGzldpKMExpCjseS9o",
+      "trackName": "TROUBLE (feat. Absofacto) - Jacques Lu Cont Mix",
+      "trackId": "7KUKJ1HPN6zAlxdqXqWJnv",
+      "preview": "https://p.scdn.co/mp3-preview/ff6d72755f6d76b0b41b68c9c13fe13d36c69d15?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bb16e182d3f7823091d080f2f5bafc451f3415c4",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "LIONE",
+      "featuredArtistId": "4Zv449cAssgslcvInvc0wa",
+      "trackName": "TROUBLE (feat. Absofacto) - LIONE Remix",
+      "trackId": "1gCsMNGmChJXmbhL2RAs8k",
+      "preview": "https://p.scdn.co/mp3-preview/55b5d73441458a3ab5dfe6e59df8b8b419cdaeb3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bb16e182d3f7823091d080f2f5bafc451f3415c4",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "CRNKN",
+      "featuredArtistId": "1jVkdbuMKszbnubrioJxGr",
+      "trackName": "TROUBLE (feat. Absofacto) - CRNKN Remix",
+      "trackId": "09Gbi3nzLzEPdzs9ai6K7m",
+      "preview": "https://p.scdn.co/mp3-preview/6c3e070e3ef03baf5e873491df56aee4d1a2da79?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bb16e182d3f7823091d080f2f5bafc451f3415c4",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Treasure Fingers",
+      "featuredArtistId": "1VSDqOs1FRDB05PwZpjHHU",
+      "trackName": "TROUBLE (feat. Absofacto) - Treasure Fingers Party Mix",
+      "trackId": "6k60mkoimpnskTGblHPUn4",
+      "preview": "https://p.scdn.co/mp3-preview/c0156201d5bb6474c7a3b742f49642b2439edc5b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be4465e04593cff354851c53230d001050d796b2",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Mr Sanka",
+      "featuredArtistId": "60CFuO1CdFXtZUeTx2gGzw",
+      "trackName": "TROUBLE (feat. Absofacto) - Mr Sanka Remix",
+      "trackId": "4fWD6wg3Bckz4PbhdzT9x0",
+      "preview": "https://p.scdn.co/mp3-preview/1d49ea0d329673c90159b35ff84dbb594bbfa8f9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be4465e04593cff354851c53230d001050d796b2",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "NotNo",
+      "featuredArtistId": "7AxsxgkjoKkW4TtLuXeHua",
+      "trackName": "TROUBLE (feat. Absofacto) - Notno Remix",
+      "trackId": "40vK4sKINhUZOVyhYo4Y4k",
+      "preview": "https://p.scdn.co/mp3-preview/d7f1250a40478a74855c0070c44b54bfe1d077cf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be4465e04593cff354851c53230d001050d796b2",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "MNEK",
+      "featuredArtistId": "7uMh23xWiuR7zsNkuNcm2G",
+      "trackName": "WORSHIP (feat. MNEK)",
+      "trackId": "6EiVkThclMrFSYJn6r4JcN",
+      "preview": "https://p.scdn.co/mp3-preview/2cfbdc6b8ca00d200e650202cce657dab448c27c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/62d3842de3b6b3a1eb2e5aef2d5669a5cb13d813",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Delacey",
+      "featuredArtistId": "1thbOfXak53dM1Xabq3pmb",
+      "trackName": "FEEL LOVE (feat. Delacey)",
+      "trackId": "60n2CwqknqYSbA14vvpTv3",
+      "preview": "https://p.scdn.co/mp3-preview/635b80d80212ae0b7764cf275b3d70436e44dbe6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/62d3842de3b6b3a1eb2e5aef2d5669a5cb13d813",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Tayla Parx",
+      "featuredArtistId": "1LzWWI9v4UKdbBgz8fqi15",
+      "trackName": "YOUR EYES (feat. Tayla Parx)",
+      "trackId": "5RJizYf3glrHlux3XymB2r",
+      "preview": "https://p.scdn.co/mp3-preview/9d75a730fecdc45a2833b139c642e79b5639f5c3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/62d3842de3b6b3a1eb2e5aef2d5669a5cb13d813",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Jerm",
+      "featuredArtistId": "6lmtDseH4SMF6qrB1BhqT2",
+      "trackName": "LIE (feat. Jerm)",
+      "trackId": "5NzxcQHo2Eq02jB3WB0N50",
+      "preview": "https://p.scdn.co/mp3-preview/91979aab1b15a0ed4c17834f37c7a4787187dc6b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/62d3842de3b6b3a1eb2e5aef2d5669a5cb13d813",
+      "release_date": "2017-02-03"
+    }
+  ]
+}

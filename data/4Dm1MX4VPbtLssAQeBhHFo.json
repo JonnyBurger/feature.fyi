@@ -1,0 +1,68 @@
+{
+  "artistName": "Famke Louise",
+  "features": [
+    {
+      "featuredArtist": "Ronnie Flex",
+      "featuredArtistId": "5eir5zFJpES4j7gsymbVyl",
+      "trackName": "Fan",
+      "trackId": "49G1QitwJ7FLFqUS8b9Onp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/af828b3a7774b80e459bfca8dcfab577265a7c4f",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "LouiVos",
+      "featuredArtistId": "0lzYw5xI9jgMg8O5i4bTre",
+      "trackName": "LIT",
+      "trackId": "1lxYvafUcQ43E8bsQcNAvg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7b6379f8b8505c14dfae085b6b2214749c6b4988",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Memru",
+      "featuredArtistId": "5yQFaz2Dtr12ak59wJlVLe",
+      "trackName": "Op Me Monnie - Acoustic",
+      "trackId": "44y5V7yJBfS1BesnUd3Xdd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/12edb68a0d7258047f2bd2eed0852c71b4faaeca",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Yung Felix",
+      "featuredArtistId": "6J2bFI9tQDWfPHjoKHKrOu",
+      "trackName": "Op Me Monnie - Acoustic",
+      "trackId": "44y5V7yJBfS1BesnUd3Xdd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/12edb68a0d7258047f2bd2eed0852c71b4faaeca",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Donnie",
+      "featuredArtistId": "2ylIKKdMukkuprCgY4ZDFE",
+      "trackName": "VROOM - Remix",
+      "trackId": "4t6EaYRa0SFd8AgRXpCJaS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65aa335be9d9334cf151828275ccb6170c643b1a",
+      "release_date": "2017-12-20"
+    },
+    {
+      "featuredArtist": "Joost",
+      "featuredArtistId": "6s5ubAp65wXoTZefE01RNR",
+      "trackName": "VROOM - Remix",
+      "trackId": "4t6EaYRa0SFd8AgRXpCJaS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65aa335be9d9334cf151828275ccb6170c643b1a",
+      "release_date": "2017-12-20"
+    },
+    {
+      "featuredArtist": "Bokoesam",
+      "featuredArtistId": "2NFWbreVmIEJG0iqIvLDOI",
+      "trackName": "VROOM",
+      "trackId": "1JVBWi7RXdqEjIy3vKTXgG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/98762c0b4ca0bce74aa192563845d5fce4e71dbb",
+      "release_date": "2017-12-08"
+    }
+  ]
+}

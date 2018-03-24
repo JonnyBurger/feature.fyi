@@ -1,0 +1,50 @@
+{
+  "artistName": "Diego & Victor Hugo",
+  "features": [
+    {
+      "featuredArtist": "Maiara & Maraisa",
+      "featuredArtistId": "59jlthNnbmim5l9tmNA7se",
+      "trackName": "#Baladeira - Ao Vivo",
+      "trackId": "1bxBKzYXU3QUeq6yn2aEPi",
+      "preview": "https://p.scdn.co/mp3-preview/f6cdb631ee69dbb3ba059cb7027d18c47ce4744e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c6f36015a6ac95fda2e4f0ba072a83b16d04a82",
+      "release_date": "2017-12-22"
+    },
+    {
+      "featuredArtist": "Henrique & Juliano",
+      "featuredArtistId": "3p7PcrEHaaKLJnPUGOtRlT",
+      "trackName": "O Alvo - Ao Vivo",
+      "trackId": "5Vw6ZLNB6Ko7VZM6vmNIbr",
+      "preview": "https://p.scdn.co/mp3-preview/8a8bce6ce284ccbe4f6728266468327f9d6ee796?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8f0df2a553b0fc791a57524865fca002c11274e",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Bruno & Marrone",
+      "featuredArtistId": "5JXhkyafynxCvxtov7C1PV",
+      "trackName": "Sem Contraindicação - Ao Vivo",
+      "trackId": "0pqyzGaS6qpdHs3bzjVYzb",
+      "preview": "https://p.scdn.co/mp3-preview/d07f43640c74f3e44485e7f12900f9e57f290126?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f16772135253aed37e8f585ec2f122508fd396b4",
+      "release_date": "2017-09-14"
+    },
+    {
+      "featuredArtist": "Jads & Jadson",
+      "featuredArtistId": "3HxTMZ6kZ9OuvFfwcYJwov",
+      "trackName": "Sentimento Bipolar",
+      "trackId": "5147tng4dwLphdEk9fdA7g",
+      "preview": "https://p.scdn.co/mp3-preview/86befc0be53887a3a3a3c44c33f8e2c0cfdc76b6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95e5c1fb2f242a653ea2691846b6bf300644feab",
+      "release_date": "2016-03-28"
+    },
+    {
+      "featuredArtist": "Sempre Bom",
+      "featuredArtistId": "528XNH6i6Izptkr8tA5Cmg",
+      "trackName": "A Gente Resolve Na Cama",
+      "trackId": "4Lrsnj5b8xOtXs1l6ot0vu",
+      "preview": "https://p.scdn.co/mp3-preview/5af836e861bf32db02da0aaacae3da3f3d72e5b1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/56c5670d7b0af26e9914fb12a3639ccf65f062f6",
+      "release_date": "2017-11-03"
+    }
+  ]
+}

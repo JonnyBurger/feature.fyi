@@ -1,0 +1,86 @@
+{
+  "artistName": "Jorja Smith",
+  "features": [
+    {
+      "featuredArtist": "Stormzy",
+      "featuredArtistId": "2SrSdSvpminqmStGELCSNd",
+      "trackName": "Let Me Down - Shy FX Remix",
+      "trackId": "4Qt4enkYft1kDnQOqeNLjK",
+      "preview": "https://p.scdn.co/mp3-preview/a4fa984812477dbb33362fd801ef25a12c2fb87a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/659c76556dc94a12430799ac8da252f1b849f519",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Shy FX",
+      "featuredArtistId": "6LuHRqCSh6Mv1WvlbOcSDr",
+      "trackName": "Let Me Down - Shy FX Remix",
+      "trackId": "4Qt4enkYft1kDnQOqeNLjK",
+      "preview": "https://p.scdn.co/mp3-preview/a4fa984812477dbb33362fd801ef25a12c2fb87a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/659c76556dc94a12430799ac8da252f1b849f519",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Preditah",
+      "featuredArtistId": "5qYCZ5FQuzZSjOnesvuYiD",
+      "trackName": "On My Mind (Acoustic)",
+      "trackId": "4ktAIutrCjL3oD9rR1aEWU",
+      "preview": "https://p.scdn.co/mp3-preview/4529045179dd5994dfbe2c4fec8e291886f4f36b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8ed7cd0ee8679a916df2700305b814991d268a38",
+      "release_date": "2017-10-03"
+    },
+    {
+      "featuredArtist": "Thea Gajic",
+      "featuredArtistId": "3u0n53fYNwLxfus5UDPIo0",
+      "trackName": "Carry Me Home (Interlude)",
+      "trackId": "2Oa44PkVOwZPpTKBsaRrHW",
+      "preview": "https://p.scdn.co/mp3-preview/979709554539706f291dd45416d04bcb3856700d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a6d0c8fa3b26c14fc4fff6a9d101f46132896ebf",
+      "release_date": "2016-11-17"
+    },
+    {
+      "featuredArtist": "Maverick Sabre",
+      "featuredArtistId": "0ukgrNYk51TkMQr0f2Br4Q",
+      "trackName": "Carry Me Home",
+      "trackId": "7tN1gwN2u7CGD9FuoGDE4D",
+      "preview": "https://p.scdn.co/mp3-preview/a6d56beaf41b4e55568245426a140177ed2b22a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a6d0c8fa3b26c14fc4fff6a9d101f46132896ebf",
+      "release_date": "2016-11-17"
+    },
+    {
+      "featuredArtist": "Melodic",
+      "featuredArtistId": "4cWFEtgzrfzfKX7G3l4Ihy",
+      "trackName": "Off My Mind",
+      "trackId": "7E18qBvrMYqwEpUauZM2FO",
+      "preview": "https://p.scdn.co/mp3-preview/1104a63259fda7e332ffdfc0466bddbe79dd061c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dfdd4d315d9ad91a1477efd7e9f3ed20dd346710",
+      "release_date": "2018-03-14"
+    },
+    {
+      "featuredArtist": "George The Poet",
+      "featuredArtistId": "7v8N36cC4msGrIM2YT4LNC",
+      "trackName": "Follow The Leader",
+      "trackId": "2gMLeSLwBdO9r3PPkOjEeM",
+      "preview": "https://p.scdn.co/mp3-preview/871e5d9464679478de180d7351ada34dfe07b078?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b629f82c12a4c29c566ff790ca1f62d137abe0e2",
+      "release_date": "2018-02-15"
+    },
+    {
+      "featuredArtist": "Khalid",
+      "featuredArtistId": "6LuN9FCkKOj5PcnpouEgny",
+      "trackName": "Location (Remix)",
+      "trackId": "5bjEyiuoiPLGkz79MglPF2",
+      "preview": "https://p.scdn.co/mp3-preview/4cd41784ed2581aca57259b48d028afb45669773?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e6b9c0ec52f7d47c8e6e2c0363ed64415656b3fb",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Wretch 32",
+      "featuredArtistId": "0T2sGLJKge2eaFmZJxX7sq",
+      "trackName": "Location (Remix)",
+      "trackId": "5bjEyiuoiPLGkz79MglPF2",
+      "preview": "https://p.scdn.co/mp3-preview/4cd41784ed2581aca57259b48d028afb45669773?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e6b9c0ec52f7d47c8e6e2c0363ed64415656b3fb",
+      "release_date": "2018-02-09"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "artistName": "Owl City",
+  "features": [
+    {
+      "featuredArtist": "Adam Young",
+      "featuredArtistId": "2Dr744zaEbNqmW9jxw4gfq",
+      "trackName": "Mobile Orchestra",
+      "trackId": "2Jrapm7NZbfODgR7bxUMIG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/62a0b777c676215e3fd88ab28c29f2bce14de549",
+      "release_date": "2015-07-10"
+    },
+    {
+      "featuredArtist": "Aloe Blacc",
+      "featuredArtistId": "0id62QV2SZZfvBn9xpmuCl",
+      "trackName": "Verge",
+      "trackId": "203OnBZZ17HEf06Q3qIWco",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/62a0b777c676215e3fd88ab28c29f2bce14de549",
+      "release_date": "2015-07-10"
+    },
+    {
+      "featuredArtist": "SEKAI NO OWARI",
+      "featuredArtistId": "7HwzlRPa9Ad0I8rK0FPzzK",
+      "trackName": "Tokyo",
+      "trackId": "06N46pbhKx89jFNw74o8my",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/62a0b777c676215e3fd88ab28c29f2bce14de549",
+      "release_date": "2015-07-10"
+    },
+    {
+      "featuredArtist": "Hanson",
+      "featuredArtistId": "0SdiiPkr02EUdekHZJkt58",
+      "trackName": "Unbelievable",
+      "trackId": "1k5LLX9SPwdQBp6RnyHt8d",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/62a0b777c676215e3fd88ab28c29f2bce14de549",
+      "release_date": "2015-07-10"
+    },
+    {
+      "featuredArtist": "Jake Owen",
+      "featuredArtistId": "1n2pb9Tsfe4SwAjmUac6YT",
+      "trackName": "Back Home",
+      "trackId": "3aVNsrMGwvReFSGUsHoSFK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/62a0b777c676215e3fd88ab28c29f2bce14de549",
+      "release_date": "2015-07-10"
+    },
+    {
+      "featuredArtist": "Sarah Russell",
+      "featuredArtistId": "130O0cb6ht7pUyIJmpbQuP",
+      "trackName": "Thunderstruck",
+      "trackId": "0Z59U02iAvx7ih5FGVryZZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/62a0b777c676215e3fd88ab28c29f2bce14de549",
+      "release_date": "2015-07-10"
+    },
+    {
+      "featuredArtist": "Britt Nicole",
+      "featuredArtistId": "6BXionV4R0BunrFpSwIMUK",
+      "trackName": "You’re Not Alone",
+      "trackId": "6Tt111WjmLoRCLEeURzpbQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/62a0b777c676215e3fd88ab28c29f2bce14de549",
+      "release_date": "2015-07-10"
+    },
+    {
+      "featuredArtist": "Mark Hoppus",
+      "featuredArtistId": "0FOYGJujASE1pCw5WNHf0g",
+      "trackName": "Dementia",
+      "trackId": "4buwCc108hpNP4HaCWxudH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8d0c364782a76794f8e75be4c1cea7e45c047e77",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Carly Rae Jepsen",
+      "featuredArtistId": "6sFIWsNpZYqfjUpaCgueju",
+      "trackName": "Good Time",
+      "trackId": "1kPpge9JDLpcj15qgrPbYX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8d0c364782a76794f8e75be4c1cea7e45c047e77",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Shawn Chrystopher",
+      "featuredArtistId": "2RIAZJVGT3qjZ5BNw0yVxH",
+      "trackName": "Alligator Sky",
+      "trackId": "777AJwXfOrx4hN72RflQSW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/89703db30b9ba3cb5ee758cabb8b3ec042342fcb",
+      "release_date": "2011-01-01"
+    }
+  ]
+}

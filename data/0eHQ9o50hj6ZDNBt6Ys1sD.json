@@ -1,0 +1,374 @@
+{
+  "artistName": "Yandel",
+  "features": [
+    {
+      "featuredArtist": "Wisin",
+      "featuredArtistId": "3E6xrwgnVfYCrCs0ePERDz",
+      "trackName": "Como Antes",
+      "trackId": "5YzA563GXTuwQaRq24z1k5",
+      "preview": "https://p.scdn.co/mp3-preview/f7260768b0712cb7db18e6bb59be6bb9e8127ce5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f06259a378f1425ce9e2ed73d3fccd041862a395",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Zion & Lennox",
+      "featuredArtistId": "21451j1KhjAiaYKflxBjr1",
+      "trackName": "Llégale",
+      "trackId": "2hlifRYLYFRiPN9XmRkCFz",
+      "preview": "https://p.scdn.co/mp3-preview/b9125ecdf3c25e098c885eb5b6367d7bc151ed74?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f06259a378f1425ce9e2ed73d3fccd041862a395",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Maluma",
+      "featuredArtistId": "1r4hJ1h58CWwUQe3MxPuau",
+      "trackName": "Sólo Mía",
+      "trackId": "1ei3g2hMYh1VKvik9FoUQR",
+      "preview": "https://p.scdn.co/mp3-preview/c7c2d06ecf567de3001dec73ab1d5f7ea6b5b9f0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f06259a378f1425ce9e2ed73d3fccd041862a395",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "J Balvin",
+      "featuredArtistId": "1vyhD5VmyZ7KMfW5gqLgo5",
+      "trackName": "Muy Personal",
+      "trackId": "1oNtIPC2XBWpE7A1x9YjQi",
+      "preview": "https://p.scdn.co/mp3-preview/8c7dac71a653aa59139c565bab4cd779d09c04a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f06259a378f1425ce9e2ed73d3fccd041862a395",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Plan B",
+      "featuredArtistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "Si Se Da",
+      "trackId": "2BeW7YcnlJeMFWvBEUuCeU",
+      "preview": "https://p.scdn.co/mp3-preview/9f591d193c12b5bb7de34ff02f044250ee54d806?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f06259a378f1425ce9e2ed73d3fccd041862a395",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Ozuna",
+      "featuredArtistId": "1i8SpTcr7yvPOmcqrbnVXY",
+      "trackName": "No Quiero Amores",
+      "trackId": "37sexcbewtWiE8PDuLRFrY",
+      "preview": "https://p.scdn.co/mp3-preview/f8394db676eaf71c61daecf74b30f26efb2b5ac3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f06259a378f1425ce9e2ed73d3fccd041862a395",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Luis Fonsi",
+      "featuredArtistId": "4V8Sr092TqfHkfAA5fXXqG",
+      "trackName": "Dónde Estás",
+      "trackId": "2cJSRBrlXYBgstxdG7t6YS",
+      "preview": "https://p.scdn.co/mp3-preview/99e50dd606c9fcd7b92a409defca3430c4874766?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f06259a378f1425ce9e2ed73d3fccd041862a395",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Becky G",
+      "featuredArtistId": "4obzFoKoKRHIphyHzJ35G3",
+      "trackName": "Todo Lo Que Quiero",
+      "trackId": "6PUONQSTF8rHUvT6G0qdk4",
+      "preview": "https://p.scdn.co/mp3-preview/f9df40b295347788b3ab3f6e80c5934832362f44?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f06259a378f1425ce9e2ed73d3fccd041862a395",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Bad Bunny",
+      "featuredArtistId": "4q3ewBCX7sLwd24euuV69X",
+      "trackName": "Explícale",
+      "trackId": "1LszjjoVwDDZcWUQbzeDLG",
+      "preview": "https://p.scdn.co/mp3-preview/7c8d8fa51b94f84abf818ba4b6cd898ff6280882?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f06259a378f1425ce9e2ed73d3fccd041862a395",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Lil Jon",
+      "featuredArtistId": "7sfl4Xt5KmfyDs2T3SVSMK",
+      "trackName": "Calentura Trap Edition",
+      "trackId": "0D6xHo3X5t9G0rDqXncF4G",
+      "preview": "https://p.scdn.co/mp3-preview/2f7cca5058d05d9725ed0c8524eb6fc33c28849c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03f85ff50f8629addccd53d6abda9523f337c10c",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Nicky Jam",
+      "featuredArtistId": "1SupJlEpv7RS2tPNRaHViT",
+      "trackName": "No Sales de Mi Mente",
+      "trackId": "2suE76uvhA05ks3YbvwRGT",
+      "preview": "https://p.scdn.co/mp3-preview/ef7ff057affe632ca9d241455df4808912fc59dc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03f85ff50f8629addccd53d6abda9523f337c10c",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Pitbull",
+      "featuredArtistId": "0TnOYISbd1XYRBk9myaseg",
+      "trackName": "Asesina",
+      "trackId": "6q9yrX559lgdFQwq4nZ4v0",
+      "preview": "https://p.scdn.co/mp3-preview/6ac277a9a8324e3f992afcbf32254086abaf5845?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03f85ff50f8629addccd53d6abda9523f337c10c",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "French Montana",
+      "featuredArtistId": "6vXTefBL93Dj5IqAWq6OTv",
+      "trackName": "Déjame Explorar",
+      "trackId": "2KBMOci5lnEDO4KwXmX09x",
+      "preview": "https://p.scdn.co/mp3-preview/5249c5f02a21f6fe7a428306542234a3c66add57?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03f85ff50f8629addccd53d6abda9523f337c10c",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Shaggy",
+      "featuredArtistId": "5EvFsr3kj42KNv97ZEnqij",
+      "trackName": "Báilame",
+      "trackId": "4KJKj5GS0bLzbbFZkdsIyE",
+      "preview": "https://p.scdn.co/mp3-preview/00e045c46a744863913d6b927700d0c2973f8c63?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03f85ff50f8629addccd53d6abda9523f337c10c",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Alex Sensation",
+      "featuredArtistId": "0OROVBEZCocg0FcgJpyBse",
+      "trackName": "Báilame",
+      "trackId": "4KJKj5GS0bLzbbFZkdsIyE",
+      "preview": "https://p.scdn.co/mp3-preview/00e045c46a744863913d6b927700d0c2973f8c63?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03f85ff50f8629addccd53d6abda9523f337c10c",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Tego Calderon",
+      "featuredArtistId": "3SUT1jjM5hzZj9TLfLZGIP",
+      "trackName": "Yo Soy del Barrio",
+      "trackId": "5FKQN7DqWDb7uVDcwLMFIh",
+      "preview": "https://p.scdn.co/mp3-preview/afa3ff7cca487f7b6434ace18952986f1d076da8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03f85ff50f8629addccd53d6abda9523f337c10c",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Spiff TV",
+      "featuredArtistId": "1PruL3P8slDEQAjSuOjuPd",
+      "trackName": "Mi Combo",
+      "trackId": "3LSqDDfuAbEQcPIEzgYqjf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/03f85ff50f8629addccd53d6abda9523f337c10c",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Future",
+      "featuredArtistId": "1RyvyyTE3xzB2ZywiAwp0i",
+      "trackName": "Mi Combo",
+      "trackId": "3LSqDDfuAbEQcPIEzgYqjf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/03f85ff50f8629addccd53d6abda9523f337c10c",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Gadiel",
+      "featuredArtistId": "4Esb8jfP35nF3O85C0jgKC",
+      "trackName": "Tu Cura",
+      "trackId": "0Bm1x6DtDni4xLlvc1Gm65",
+      "preview": "https://p.scdn.co/mp3-preview/ce252279df4124217d8e7bb848795aec7be3e6ad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03f85ff50f8629addccd53d6abda9523f337c10c",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "De La Ghetto",
+      "featuredArtistId": "3EiLUeyEcA6fbRPSHkG5kb",
+      "trackName": "Riversa",
+      "trackId": "1DI6sWvF1LSEOCFfJ70HIY",
+      "preview": "https://p.scdn.co/mp3-preview/83d4181f6d9e4d63da8efc27dc5bfac15143fa79?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03f85ff50f8629addccd53d6abda9523f337c10c",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Tony Dize",
+      "featuredArtistId": "3LKXWvXFWrkwUzJWxzwVpW",
+      "trackName": "Permítame - En Vivo",
+      "trackId": "41mjmdPrzEocGbVwlCeoNH",
+      "preview": "https://p.scdn.co/mp3-preview/806faee5182230acd30592723f8077cf0aab7c12?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c3364cfe99c376479b0f8df947a14b25d6a88e53",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "J Alvarez",
+      "featuredArtistId": "6XFITTl7cFTdopDY3lUdlY",
+      "trackName": "Junto al Amanecer - En Vivo",
+      "trackId": "2zuyQA5dM38XfGmUvFcFCp",
+      "preview": "https://p.scdn.co/mp3-preview/77ca608ee4972068c959a0b4bff2a49ee1afc5bb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c3364cfe99c376479b0f8df947a14b25d6a88e53",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "El General Gadiel",
+      "featuredArtistId": "7tETQjUDr6hqeJVd0WyuhH",
+      "trackName": "Para Irnos (A Fuego) - En Vivo",
+      "trackId": "5ge5IU6izyFPZs6DU89JDN",
+      "preview": "https://p.scdn.co/mp3-preview/11b07271e6f6009a2ae6f7084e989163aa5b048f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c3364cfe99c376479b0f8df947a14b25d6a88e53",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "Farruko",
+      "featuredArtistId": "329e4yvIujISKGKz1BZZbO",
+      "trackName": "6 AM - En Vivo",
+      "trackId": "0Jx2Zw453e27Ypt36GNnbw",
+      "preview": "https://p.scdn.co/mp3-preview/7bbb5c9f55913698bc3192468f40eb5188869bc5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c3364cfe99c376479b0f8df947a14b25d6a88e53",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "Gilberto Santa Rosa",
+      "featuredArtistId": "27vNK840zYq6IfDijHPsv1",
+      "trackName": "En la Oscuridad - Versión Salsa",
+      "trackId": "0XjAph8ojlL8veLwpwUTAJ",
+      "preview": "https://p.scdn.co/mp3-preview/25ede6afabb79ce7e44867f108f69fc74467ecd4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c3364cfe99c376479b0f8df947a14b25d6a88e53",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "Reykon",
+      "featuredArtistId": "3PAwspMN27PDm81WwXDsMf",
+      "trackName": "Déjate Amar - Remix",
+      "trackId": "3aBPiUbP0bJ4rHIFIl5dvJ",
+      "preview": "https://p.scdn.co/mp3-preview/4322f5fb085601da66ab52ffdada75fc928a9404?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c3364cfe99c376479b0f8df947a14b25d6a88e53",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "D.OZI",
+      "featuredArtistId": "7a9gFzWS5uEHtbNNgA6xyM",
+      "trackName": "Déjate Amar - Remix",
+      "trackId": "3aBPiUbP0bJ4rHIFIl5dvJ",
+      "preview": "https://p.scdn.co/mp3-preview/4322f5fb085601da66ab52ffdada75fc928a9404?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c3364cfe99c376479b0f8df947a14b25d6a88e53",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "Nengo Flow",
+      "featuredArtistId": "12vb80Km0Ew53ABfJOepVz",
+      "trackName": "La Calle Me Llama",
+      "trackId": "5nf5VCVtgVcYbkb7JzEVXm",
+      "preview": "https://p.scdn.co/mp3-preview/3aaed89a52facddd2959adc1132f7acc3d45ebda?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c3364cfe99c376479b0f8df947a14b25d6a88e53",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "Don Omar",
+      "featuredArtistId": "33ScadVnbm2X8kkUqOkC6Z",
+      "trackName": "Enamorado de Ti",
+      "trackId": "6PWnBXeGVy2fQVSeloKuc8",
+      "preview": "https://p.scdn.co/mp3-preview/129c553440e742a184b53afb6c03f5719291e73f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/77aa9869aed9c17fbb89b32eda3df707d3378f88",
+      "release_date": "2013-11-05"
+    },
+    {
+      "featuredArtist": "Daddy Yankee",
+      "featuredArtistId": "4VMYDCV2IEDYJArk749S6m",
+      "trackName": "Moviendo Caderas",
+      "trackId": "0bdL8X3MrX51dRz231BFtv",
+      "preview": "https://p.scdn.co/mp3-preview/6ae71d2b0247ac4e7a523e3ce5a0584d08726cf4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/77aa9869aed9c17fbb89b32eda3df707d3378f88",
+      "release_date": "2013-11-05"
+    },
+    {
+      "featuredArtist": "Alexis",
+      "featuredArtistId": "6iyPY9ZvEGeB5mswBjwwNi",
+      "trackName": "Mami Yo Quisiera Quedarme",
+      "trackId": "0EKUpcn9qMWIehj6H2stwD",
+      "preview": "https://p.scdn.co/mp3-preview/f2b6ad35fe49a3af85b0e35f0a80f05054141d60?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5d6cc880cce03da8a55cf9b61a4148e8519fd48e",
+      "release_date": "2003"
+    },
+    {
+      "featuredArtist": "Fido",
+      "featuredArtistId": "7H4WTvvOCWtAuj3gMoldrt",
+      "trackName": "En la Disco Me Conocio",
+      "trackId": "64slobJKQVunO87oa14ZMd",
+      "preview": "https://p.scdn.co/mp3-preview/151d400f1b88378357e6d5418cc6c3e6cfce372f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5d6cc880cce03da8a55cf9b61a4148e8519fd48e",
+      "release_date": "2003"
+    },
+    {
+      "featuredArtist": "Abraham Mateo",
+      "featuredArtistId": "2bxxlINUlcMQQb39K7IopR",
+      "trackName": "Se Acabó el Amor - Urban Version",
+      "trackId": "37ZbdPsSjAZjPTVKPi8Dii",
+      "preview": "https://p.scdn.co/mp3-preview/b948bbfd285346c095f52d1b4f94daa5985c801a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9e59be3defb2b87e9e0c80b250f24e6ec2eeee10",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Jennifer Lopez",
+      "featuredArtistId": "2DlGxzQSjYe5N6G9nkYghR",
+      "trackName": "Se Acabó el Amor - Urban Version",
+      "trackId": "37ZbdPsSjAZjPTVKPi8Dii",
+      "preview": "https://p.scdn.co/mp3-preview/b948bbfd285346c095f52d1b4f94daa5985c801a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9e59be3defb2b87e9e0c80b250f24e6ec2eeee10",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Noriel",
+      "featuredArtistId": "3RtNN1VnooWEn3KQk03DUL",
+      "trackName": "Desperte Sin Ti (Remix)",
+      "trackId": "4QYQgJhBryglC2hEpVGrZU",
+      "preview": "https://p.scdn.co/mp3-preview/6598c37fa988b46e5c44285823276676b1627489?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0456999e98b9f41bf72e14f488180ab44088642e",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Trap Capos",
+      "featuredArtistId": "2pQAUIesBqfT87PaM1ijtk",
+      "trackName": "Doble Personalidad",
+      "trackId": "6F23RA4YzxmSOS7StCKEXb",
+      "preview": "https://p.scdn.co/mp3-preview/a840d171ef8b1eb1018811502d82aca3153f6930?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/04047a1a1ddb4801d6e153f5f5176484b7097e4e",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Nacho",
+      "featuredArtistId": "2ayNSoKPCRAfjp6hQ76hRu",
+      "trackName": "Báilame - Remix",
+      "trackId": "4ocmZDCb43B5WRYMKZSxhM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aa34eaa2c3d839dd0167e839fbc80f1b650d9674",
+      "release_date": "2017-07-31"
+    },
+    {
+      "featuredArtist": "Mambo Kingz",
+      "featuredArtistId": "2T1aUibqR2QC2sINIDQOAK",
+      "trackName": "Báilame - Remix",
+      "trackId": "4ocmZDCb43B5WRYMKZSxhM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aa34eaa2c3d839dd0167e839fbc80f1b650d9674",
+      "release_date": "2017-07-31"
+    },
+    {
+      "featuredArtist": "DJ Luian",
+      "featuredArtistId": "64aJYyrXljOodnUG6jvhRD",
+      "trackName": "Báilame - Remix",
+      "trackId": "4ocmZDCb43B5WRYMKZSxhM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aa34eaa2c3d839dd0167e839fbc80f1b650d9674",
+      "release_date": "2017-07-31"
+    },
+    {
+      "featuredArtist": "CNCO",
+      "featuredArtistId": "0eecdvMrqBftK0M1VKhaF4",
+      "trackName": "Hey DJ",
+      "trackId": "209gZgcfLq2aUuu51vOWBl",
+      "preview": "https://p.scdn.co/mp3-preview/2f5806d124555f6d2d011dfd7342d718ac2b9d00?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d994664fe58a6436a4ba4195617463cc8d60ed1d",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Egbert Rosa aka Haze",
+      "featuredArtistId": "2UBLJyUgCq6XMiSVV7oGv8",
+      "trackName": "Encantadora - Remix",
+      "trackId": "0EpFfFZpCuqYFzHvxOtrZS",
+      "preview": "https://p.scdn.co/mp3-preview/cd8164c04c8009552d5c4eb6ce9f8ae08d7d0710?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/beb2ae4b5a10c6fd833faefadb69127ae356166b",
+      "release_date": "2016-03-18"
+    }
+  ]
+}

@@ -1,0 +1,932 @@
+{
+  "artistName": "DJ Nelson",
+  "features": [
+    {
+      "featuredArtist": "DJ Rafy Mercenario",
+      "featuredArtistId": "7t2ido73e3s8chD2oasxNo",
+      "trackName": "No Tiene Novio (feat. Nejo & Tego Calderon)",
+      "trackId": "1zvDUlmkqV3AEMKppmmgOj",
+      "preview": "https://p.scdn.co/mp3-preview/0c9eae0290c47c70f02b6b46487a2e297bf494ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49f21911974a0d41cc4334353a5b38fdbea21e5b",
+      "release_date": "2017-08-27"
+    },
+    {
+      "featuredArtist": "Nejo",
+      "featuredArtistId": "4j9XNrWT5F3BErF608KVOB",
+      "trackName": "No Tiene Novio (feat. Nejo & Tego Calderon)",
+      "trackId": "1zvDUlmkqV3AEMKppmmgOj",
+      "preview": "https://p.scdn.co/mp3-preview/0c9eae0290c47c70f02b6b46487a2e297bf494ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49f21911974a0d41cc4334353a5b38fdbea21e5b",
+      "release_date": "2017-08-27"
+    },
+    {
+      "featuredArtist": "Tego Calderon",
+      "featuredArtistId": "3SUT1jjM5hzZj9TLfLZGIP",
+      "trackName": "No Tiene Novio (feat. Nejo & Tego Calderon)",
+      "trackId": "1zvDUlmkqV3AEMKppmmgOj",
+      "preview": "https://p.scdn.co/mp3-preview/0c9eae0290c47c70f02b6b46487a2e297bf494ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49f21911974a0d41cc4334353a5b38fdbea21e5b",
+      "release_date": "2017-08-27"
+    },
+    {
+      "featuredArtist": "Arcangel",
+      "featuredArtistId": "4SsVbpTthjScTS7U2hmr1X",
+      "trackName": "Siente El Bajo (feat. Arcangel & De La Guetto)",
+      "trackId": "7AOClIMxTV7dz2iLznyvyH",
+      "preview": "https://p.scdn.co/mp3-preview/e389645eba2e8835d0cd1da8e7605e7a452bdfe0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49f21911974a0d41cc4334353a5b38fdbea21e5b",
+      "release_date": "2017-08-27"
+    },
+    {
+      "featuredArtist": "De La Guetto",
+      "featuredArtistId": "72NDJs7g9xCJvveGPz3aEw",
+      "trackName": "Siente El Bajo (feat. Arcangel & De La Guetto)",
+      "trackId": "7AOClIMxTV7dz2iLznyvyH",
+      "preview": "https://p.scdn.co/mp3-preview/e389645eba2e8835d0cd1da8e7605e7a452bdfe0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49f21911974a0d41cc4334353a5b38fdbea21e5b",
+      "release_date": "2017-08-27"
+    },
+    {
+      "featuredArtist": "Tommy Viera",
+      "featuredArtistId": "27abSaAjyUkVoBhZSmF38a",
+      "trackName": "Revota (feat. Tommy Viera)",
+      "trackId": "0ZcC4acorxlLQDsspW0ZCf",
+      "preview": "https://p.scdn.co/mp3-preview/43336624104b7108d4743381f119a7cf8a910c95?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49f21911974a0d41cc4334353a5b38fdbea21e5b",
+      "release_date": "2017-08-27"
+    },
+    {
+      "featuredArtist": "Andy Boy",
+      "featuredArtistId": "0rwGi85qFYUZjTt0wrvokT",
+      "trackName": "Siente La Candela (feat. Andy Boy)",
+      "trackId": "7pxbv8HqDbBxDmmvss04T4",
+      "preview": "https://p.scdn.co/mp3-preview/13771906d3183382b144ffe5427ae9d29fb2ee3a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49f21911974a0d41cc4334353a5b38fdbea21e5b",
+      "release_date": "2017-08-27"
+    },
+    {
+      "featuredArtist": "Oneil",
+      "featuredArtistId": "7xSksUev0FtLXUv29M1cPB",
+      "trackName": "Contra La Pared (feat. Oneil)",
+      "trackId": "5cXuoi56Rue1w3zeYvKYce",
+      "preview": "https://p.scdn.co/mp3-preview/40bf59d3eec60783fac02bf53928902cbbcd7d61?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49f21911974a0d41cc4334353a5b38fdbea21e5b",
+      "release_date": "2017-08-27"
+    },
+    {
+      "featuredArtist": "Aldo",
+      "featuredArtistId": "5W0u1B4jfLZtsVifdIGgtv",
+      "trackName": "Te Voy a Fuetiar (feat. Aldo & Dandy)",
+      "trackId": "77fydWwsOc0V1cx7lxj6Mt",
+      "preview": "https://p.scdn.co/mp3-preview/46c95d7d8f5ae795c76efa308562ddf3f22eceb3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49f21911974a0d41cc4334353a5b38fdbea21e5b",
+      "release_date": "2017-08-27"
+    },
+    {
+      "featuredArtist": "Dandy",
+      "featuredArtistId": "7B7MaTmT8ro6H38KjmTO0a",
+      "trackName": "Te Voy a Fuetiar (feat. Aldo & Dandy)",
+      "trackId": "77fydWwsOc0V1cx7lxj6Mt",
+      "preview": "https://p.scdn.co/mp3-preview/46c95d7d8f5ae795c76efa308562ddf3f22eceb3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49f21911974a0d41cc4334353a5b38fdbea21e5b",
+      "release_date": "2017-08-27"
+    },
+    {
+      "featuredArtist": "John Erick",
+      "featuredArtistId": "24qL5ZxURtlUiZsh38mMp7",
+      "trackName": "Mueve El Booty (feat. John Erick)",
+      "trackId": "2nBVBXY2U0Bm4ofySNXj5l",
+      "preview": "https://p.scdn.co/mp3-preview/b0511e610802780048a0528c9aff17aff2bfa146?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49f21911974a0d41cc4334353a5b38fdbea21e5b",
+      "release_date": "2017-08-27"
+    },
+    {
+      "featuredArtist": "Carlos",
+      "featuredArtistId": "5YYbSUNzTPWjvBoKWxLfKc",
+      "trackName": "Persigueme (feat. Carlos, Omy & NewTone)",
+      "trackId": "1Zp60a0fjOgHM73adcWpEO",
+      "preview": "https://p.scdn.co/mp3-preview/35f42b97be004f7472826a2fde0f5755c09636a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49f21911974a0d41cc4334353a5b38fdbea21e5b",
+      "release_date": "2017-08-27"
+    },
+    {
+      "featuredArtist": "Omy",
+      "featuredArtistId": "55AJ9963z8zh4bsgkiOBEc",
+      "trackName": "Persigueme (feat. Carlos, Omy & NewTone)",
+      "trackId": "1Zp60a0fjOgHM73adcWpEO",
+      "preview": "https://p.scdn.co/mp3-preview/35f42b97be004f7472826a2fde0f5755c09636a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49f21911974a0d41cc4334353a5b38fdbea21e5b",
+      "release_date": "2017-08-27"
+    },
+    {
+      "featuredArtist": "Newtone",
+      "featuredArtistId": "2ou8uYWmrmdDswx8F5BDiK",
+      "trackName": "Persigueme (feat. Carlos, Omy & NewTone)",
+      "trackId": "1Zp60a0fjOgHM73adcWpEO",
+      "preview": "https://p.scdn.co/mp3-preview/35f42b97be004f7472826a2fde0f5755c09636a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49f21911974a0d41cc4334353a5b38fdbea21e5b",
+      "release_date": "2017-08-27"
+    },
+    {
+      "featuredArtist": "Las Guanabanas",
+      "featuredArtistId": "0MNbjdRcXpvAwnXgWd1Im1",
+      "trackName": "Vengan No Se Detengan (feat. Las Guanabanas)",
+      "trackId": "6oDgRE9y7tYrIPf5ROzxk9",
+      "preview": "https://p.scdn.co/mp3-preview/44b146c5282a3fce7c884c7974583870420e85f2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49f21911974a0d41cc4334353a5b38fdbea21e5b",
+      "release_date": "2017-08-27"
+    },
+    {
+      "featuredArtist": "Mr Notty",
+      "featuredArtistId": "2CAfzhqwtrnbmrR190YYst",
+      "trackName": "The Flow Intro 1997",
+      "trackId": "1p3PWu5r4tSOECXZfX2LId",
+      "preview": "https://p.scdn.co/mp3-preview/4f7c742d0319f13433f8c9438d49483ebb0ac47a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6484a8c4c8b2172ae6d994e9bc7a0f35e689159e",
+      "release_date": "2017-06-06"
+    },
+    {
+      "featuredArtist": "Alberto Stylee",
+      "featuredArtistId": "5mgqYTU6dhKlEdi7DOy4uU",
+      "trackName": "Vengo Acabando",
+      "trackId": "4j0f9OudYbMheEIM2nO08e",
+      "preview": "https://p.scdn.co/mp3-preview/1b2201cfe5d07dfa39b642b6c8f1afd323c54de2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6484a8c4c8b2172ae6d994e9bc7a0f35e689159e",
+      "release_date": "2017-06-06"
+    },
+    {
+      "featuredArtist": "Miguel Play",
+      "featuredArtistId": "7I9CxIzvayu1cKDdAbmi9l",
+      "trackName": "Brinquen",
+      "trackId": "3ycZRs7RZpab2PACGSNIS8",
+      "preview": "https://p.scdn.co/mp3-preview/ed65c9f32a33e855a0f0436a3e97545db89f81ea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6484a8c4c8b2172ae6d994e9bc7a0f35e689159e",
+      "release_date": "2017-06-06"
+    },
+    {
+      "featuredArtist": "Maicol y Manuel",
+      "featuredArtistId": "6P3WZjRn6nYJ7xIpCZsxTZ",
+      "trackName": "Shailen",
+      "trackId": "2Ahj0YQxuncmceIHQOocZS",
+      "preview": "https://p.scdn.co/mp3-preview/5f8ecd49424c9729af1734cb33c04b48454aa809?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6484a8c4c8b2172ae6d994e9bc7a0f35e689159e",
+      "release_date": "2017-06-06"
+    },
+    {
+      "featuredArtist": "Hector & Tito",
+      "featuredArtistId": "5aB4SpKYteOJ8pAleoKkg7",
+      "trackName": "Quieren Imitarme",
+      "trackId": "4i4U4tGw0hKt3dH7oDzLbE",
+      "preview": "https://p.scdn.co/mp3-preview/18a02d937f980a2611d4f8899afd550592ee54e3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6484a8c4c8b2172ae6d994e9bc7a0f35e689159e",
+      "release_date": "2017-06-06"
+    },
+    {
+      "featuredArtist": "Danny Banton",
+      "featuredArtistId": "67z27VRE9QuO1KLyRZALn7",
+      "trackName": "Enemigo",
+      "trackId": "2neIXId8Jbbd4NLQu1F8rB",
+      "preview": "https://p.scdn.co/mp3-preview/9a1d27502b3dc4bb6ef4b1b2be15cee4c56aa1cf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6484a8c4c8b2172ae6d994e9bc7a0f35e689159e",
+      "release_date": "2017-06-06"
+    },
+    {
+      "featuredArtist": "Eddie Dee",
+      "featuredArtistId": "7zLcnirfgw1VEHHshuGcDR",
+      "trackName": "Como El Eddie No Hay Dos",
+      "trackId": "3eCtSmXBc9AMorQYnLiFfj",
+      "preview": "https://p.scdn.co/mp3-preview/95291cebd3ea9080f877fc2740ad566feb923a0b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6484a8c4c8b2172ae6d994e9bc7a0f35e689159e",
+      "release_date": "2017-06-06"
+    },
+    {
+      "featuredArtist": "Horny Man Y Panty Man",
+      "featuredArtistId": "1XNzq3VhnDYuyxTZJzZRf0",
+      "trackName": "Atencion",
+      "trackId": "7KYQqljg3GKCTyRvIVxYS5",
+      "preview": "https://p.scdn.co/mp3-preview/434516964b9f79495bbf9a6a5f8b73d42845de34?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6484a8c4c8b2172ae6d994e9bc7a0f35e689159e",
+      "release_date": "2017-06-06"
+    },
+    {
+      "featuredArtist": "Bebe",
+      "featuredArtistId": "76vQoatgrOLvxeFo5yf8qa",
+      "trackName": "Escuchalo",
+      "trackId": "2QUCcWe37JEFelp0RppFMR",
+      "preview": "https://p.scdn.co/mp3-preview/08c225a356977ce2c3d4699c9e551ebe3c8569a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6484a8c4c8b2172ae6d994e9bc7a0f35e689159e",
+      "release_date": "2017-06-06"
+    },
+    {
+      "featuredArtist": "Baby Rasta & Gringo",
+      "featuredArtistId": "3IEvQoAohcGX7CdrbtIle7",
+      "trackName": "Escuchalo",
+      "trackId": "2QUCcWe37JEFelp0RppFMR",
+      "preview": "https://p.scdn.co/mp3-preview/08c225a356977ce2c3d4699c9e551ebe3c8569a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6484a8c4c8b2172ae6d994e9bc7a0f35e689159e",
+      "release_date": "2017-06-06"
+    },
+    {
+      "featuredArtist": "Daddy Yankee",
+      "featuredArtistId": "4VMYDCV2IEDYJArk749S6m",
+      "trackName": "Donde Estan",
+      "trackId": "5RwRksTJayCZWCW6r2c9cV",
+      "preview": "https://p.scdn.co/mp3-preview/341c7bcad6f373fd96c76628a84ea92c10b2982f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6484a8c4c8b2172ae6d994e9bc7a0f35e689159e",
+      "release_date": "2017-06-06"
+    },
+    {
+      "featuredArtist": "Rey Pirin",
+      "featuredArtistId": "1ViM1nVwtJmRm5CSXyU0U9",
+      "trackName": "Enemigo Voy Pa Ya",
+      "trackId": "3K4ZLs6KvL35UDFth1TtqV",
+      "preview": "https://p.scdn.co/mp3-preview/91e1391353de499bd27b3acc5cd7fb6fc7fad09b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6484a8c4c8b2172ae6d994e9bc7a0f35e689159e",
+      "release_date": "2017-06-06"
+    },
+    {
+      "featuredArtist": "Duke",
+      "featuredArtistId": "1xgVCcYNfe2Xt81W9pZ8n4",
+      "trackName": "Mi Movida",
+      "trackId": "4P6K9ovo3gszodOUZr54qa",
+      "preview": "https://p.scdn.co/mp3-preview/3061a9581374f6d817097bc4b2411ae555a9da41?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6484a8c4c8b2172ae6d994e9bc7a0f35e689159e",
+      "release_date": "2017-06-06"
+    },
+    {
+      "featuredArtist": "Baby Rasta",
+      "featuredArtistId": "0GgyFUpOyzWDRDqx8FCTDN",
+      "trackName": "40 Y 45",
+      "trackId": "5BlRJergFXeb9ZlI6QFT94",
+      "preview": "https://p.scdn.co/mp3-preview/524dcac52fb5ec234401160016f28d9323254342?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6484a8c4c8b2172ae6d994e9bc7a0f35e689159e",
+      "release_date": "2017-06-06"
+    },
+    {
+      "featuredArtist": "Cavalucci",
+      "featuredArtistId": "5Xbyx2yxjkD6Wcsr6F7s1V",
+      "trackName": "Voodoo",
+      "trackId": "1I73XeeiAF1qqyE6l2G3N2",
+      "preview": "https://p.scdn.co/mp3-preview/34f24d443a2e3921fc6f668fab576cca131889ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6484a8c4c8b2172ae6d994e9bc7a0f35e689159e",
+      "release_date": "2017-06-06"
+    },
+    {
+      "featuredArtist": "Gringo",
+      "featuredArtistId": "29cNzWXrkNaGVL74hZK0jU",
+      "trackName": "Como Una Bala",
+      "trackId": "3WrTatBAmvBy66vNOUMtTd",
+      "preview": "https://p.scdn.co/mp3-preview/429e12f7bd38c08d28f16c268971c8d198b9a935?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6484a8c4c8b2172ae6d994e9bc7a0f35e689159e",
+      "release_date": "2017-06-06"
+    },
+    {
+      "featuredArtist": "Yaviah",
+      "featuredArtistId": "0Y30TbA4p8SAfCzy2AFBa8",
+      "trackName": "Se Acelera El Flow",
+      "trackId": "5DbHcCZa3b7M94n94F4a9K",
+      "preview": "https://p.scdn.co/mp3-preview/ba11882cc4e2ac264a544a375fbee9d282dbabcc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6484a8c4c8b2172ae6d994e9bc7a0f35e689159e",
+      "release_date": "2017-06-06"
+    },
+    {
+      "featuredArtist": "Biga Demus",
+      "featuredArtistId": "7sooTLoiYaoms9YdRtdTqN",
+      "trackName": "No Time to Cry",
+      "trackId": "47iMwZ6H1e62WyTztdphjK",
+      "preview": "https://p.scdn.co/mp3-preview/42dae23218260234c7d12c32383927209575f88e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6484a8c4c8b2172ae6d994e9bc7a0f35e689159e",
+      "release_date": "2017-06-06"
+    },
+    {
+      "featuredArtist": "Camaleon",
+      "featuredArtistId": "6JclD9xvwpGsmXq1dEMNNj",
+      "trackName": "Nuevo Estilo",
+      "trackId": "2oIhksCQ7Rdge7PfLyJBtZ",
+      "preview": "https://p.scdn.co/mp3-preview/bc1e3efdad3f60151558ea408f80c7094368c3f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6484a8c4c8b2172ae6d994e9bc7a0f35e689159e",
+      "release_date": "2017-06-06"
+    },
+    {
+      "featuredArtist": "Divino",
+      "featuredArtistId": "3PkVrt8lRBTV2RDSICxz5X",
+      "trackName": "Esa Nena (feat. Divino)",
+      "trackId": "4Er44wPFxvz7adD7KXZrib",
+      "preview": "https://p.scdn.co/mp3-preview/d00d6df8b9e655d87c3385733465a5a6cd4381a4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f011525fc7772489f0be51d5ffdafef10500d8c",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Notty Play",
+      "featuredArtistId": "1m5LVKalSAbpqNSOLGwCkr",
+      "trackName": "Abuso De Poder",
+      "trackId": "14hfyjRyeqvMqiwSDd9ldc",
+      "preview": "https://p.scdn.co/mp3-preview/f95a75acf2572904e403acb95b9e968a7c5223c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f011525fc7772489f0be51d5ffdafef10500d8c",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Nicky Jam",
+      "featuredArtistId": "1SupJlEpv7RS2tPNRaHViT",
+      "trackName": "Eres Tu",
+      "trackId": "6KKZJddgMZ77RMXZhpseVt",
+      "preview": "https://p.scdn.co/mp3-preview/01f3acd8b73b19982b2de18e1dbb450cf4bb4bbb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f011525fc7772489f0be51d5ffdafef10500d8c",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Hector Y Ti To",
+      "featuredArtistId": "3fjZsF21bp7PVtTQVzW6NK",
+      "trackName": "Pegate",
+      "trackId": "7FiFtORHYHlgmOaImqhOob",
+      "preview": "https://p.scdn.co/mp3-preview/44394decf3cc323b086e9b84b3f28d7b6567778b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f011525fc7772489f0be51d5ffdafef10500d8c",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Mr. Notty",
+      "featuredArtistId": "5G6F3WzppVq1BZOL8Lh8Fv",
+      "trackName": "Puerto Rico Te La Dedico",
+      "trackId": "39XqPlE5W9faj0PgzMQfjw",
+      "preview": "https://p.scdn.co/mp3-preview/23dc71fbc9d347740e788b10b48130ea5f80a4e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f011525fc7772489f0be51d5ffdafef10500d8c",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Rankin Stone",
+      "featuredArtistId": "2uen1XggPa4iLdTAVd8Oeh",
+      "trackName": "Mambo",
+      "trackId": "6k5He4ZpJHeyNkP3uvZjro",
+      "preview": "https://p.scdn.co/mp3-preview/f2f154ca6836bb03bdc55312a0f2d72785b3fd48?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f011525fc7772489f0be51d5ffdafef10500d8c",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Gringo Felo Man",
+      "featuredArtistId": "5DlaY8FVIoogQ1qcPqiGqV",
+      "trackName": "Chicas Buscan",
+      "trackId": "6UWGA4Rszd8wVw5xGNrcE5",
+      "preview": "https://p.scdn.co/mp3-preview/70c8836ea2b5b48628a3a40627a8c1d2cc084480?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f011525fc7772489f0be51d5ffdafef10500d8c",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Yaga & Mackie",
+      "featuredArtistId": "16Juw2gfa9IxEL3Vu69cH7",
+      "trackName": "Sientes Tu",
+      "trackId": "7bErh3lcPFWMtU3tzMwEjE",
+      "preview": "https://p.scdn.co/mp3-preview/b10ad8c4a0648194f2f6fd896207c1951df1afd2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f011525fc7772489f0be51d5ffdafef10500d8c",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Magnate Y Valentino",
+      "featuredArtistId": "5hhclzZsaNfmBh0eQI44JQ",
+      "trackName": "Quiero Tu Cuerpo",
+      "trackId": "0b96zSd8JB6lDreQplWGdr",
+      "preview": "https://p.scdn.co/mp3-preview/98912f8f194c7a59e62fe7130662f2caae3e727a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f011525fc7772489f0be51d5ffdafef10500d8c",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Ivy Queen",
+      "featuredArtistId": "6p2442ymrT9lZEuCZJdYcH",
+      "trackName": "Hoy Voy Pal Party",
+      "trackId": "35FMpLDvZGireOgvlErZdD",
+      "preview": "https://p.scdn.co/mp3-preview/8637ebaa3b7c4b4eae9edf71f3acae76c2d3486a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f011525fc7772489f0be51d5ffdafef10500d8c",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "J Alvarez",
+      "featuredArtistId": "6XFITTl7cFTdopDY3lUdlY",
+      "trackName": "Estas Aqui (feat. Daddy Yankee, Nicky Jam, Zion & J Alvarez)",
+      "trackId": "3EJ6E7wx5unXwzGaQjWBt9",
+      "preview": "https://p.scdn.co/mp3-preview/fad423048f0d0b4ff9262e9f7dd6719e5aba76aa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03f8fc9cb56b8fadea256a57d6ad65baaa96e465",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Zion",
+      "featuredArtistId": "68Yelg8HOZqYn4EjOnXsZy",
+      "trackName": "Estas Aqui (feat. Daddy Yankee, Nicky Jam, Zion & J Alvarez)",
+      "trackId": "3EJ6E7wx5unXwzGaQjWBt9",
+      "preview": "https://p.scdn.co/mp3-preview/fad423048f0d0b4ff9262e9f7dd6719e5aba76aa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03f8fc9cb56b8fadea256a57d6ad65baaa96e465",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Dalmata",
+      "featuredArtistId": "3jGlU8UMMo44I2xeLQ6FD3",
+      "trackName": "Pasarela (feat. Dalmata)",
+      "trackId": "0NB8JnfbbTmJ8sDWvBCdOd",
+      "preview": "https://p.scdn.co/mp3-preview/7d8837cd068e7aa215e9b2dcc9b2f1c46c67dbc2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03f8fc9cb56b8fadea256a57d6ad65baaa96e465",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Tejo Calderon",
+      "featuredArtistId": "0NXFKE1cg2xTasxzotAcPN",
+      "trackName": "No Quiere Novio (remix) [feat. Nejo & Tego Calderon]",
+      "trackId": "5XxOOXTiDicBrQXv0PAAH6",
+      "preview": "https://p.scdn.co/mp3-preview/359cc9ed7ad6243cf9fe10d0a0be2540eb3c62e2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03f8fc9cb56b8fadea256a57d6ad65baaa96e465",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Ñejo",
+      "featuredArtistId": "2OHKEe204spO7G7NcbeO2o",
+      "trackName": "No Quiere Novio (remix) [feat. Nejo & Tego Calderon]",
+      "trackId": "5XxOOXTiDicBrQXv0PAAH6",
+      "preview": "https://p.scdn.co/mp3-preview/359cc9ed7ad6243cf9fe10d0a0be2540eb3c62e2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03f8fc9cb56b8fadea256a57d6ad65baaa96e465",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Ñejo & Dalmata",
+      "featuredArtistId": "1ykothWH0xl8drRyJWuw7I",
+      "trackName": "Algo Muscial (feat. Nejo & Dalmata & Arcangel)",
+      "trackId": "4ciqKOT2Tvh2r9g6Ga5Oen",
+      "preview": "https://p.scdn.co/mp3-preview/330402b57dffbacb4b50808842a2ae7aeec94281?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03f8fc9cb56b8fadea256a57d6ad65baaa96e465",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Héctor \"El Father\"",
+      "featuredArtistId": "2TjgzYcbTdsZjbT9OItIeB",
+      "trackName": "Esta Noche De Travesuras (feat. Hector \"El Father\")",
+      "trackId": "3XEEc0K6EZMyO0sIHr9X6V",
+      "preview": "https://p.scdn.co/mp3-preview/2dc184a889374e8544282f122dde34f37d5a0a07?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03f8fc9cb56b8fadea256a57d6ad65baaa96e465",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "JD",
+      "featuredArtistId": "6aXB7Cbxlva09fEmfzUMFc",
+      "trackName": "Brincando Sin Parar (feat. JD)",
+      "trackId": "5Hm1QgK9hRmcaexhjNVCPi",
+      "preview": "https://p.scdn.co/mp3-preview/e2c13318189ae1e57114644e3ad67abb346326f0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03f8fc9cb56b8fadea256a57d6ad65baaa96e465",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "The Maniax",
+      "featuredArtistId": "6v13q9miaITRUDEHqbCmWz",
+      "trackName": "A Lo Loco (feat. The Maniax)",
+      "trackId": "4fCQfSr1hArOvKR8mtmxnS",
+      "preview": "https://p.scdn.co/mp3-preview/a6ae7250b3dc7e0c3f53378796657e5c8386281e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/467480abe6207f3f8f000362d13711e61a975d5b",
+      "release_date": "2013-04-20"
+    },
+    {
+      "featuredArtist": "Zion",
+      "featuredArtistId": "4zPVVxxHRDSZ43lCr823IZ",
+      "trackName": "Que Pasara (feat. Zion)",
+      "trackId": "5yqgL6V8d8TvHjt8u2G1S3",
+      "preview": "https://p.scdn.co/mp3-preview/0dd6cfc542beb55000c59c6624fe67ad1c3e8926?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f45fa1c209ced97d7b288f72ea4af8974ba0eb0",
+      "release_date": "2007-04-03"
+    },
+    {
+      "featuredArtist": "Jo-Well",
+      "featuredArtistId": "5XEOUCB6Jv1UGIbpJYIsVr",
+      "trackName": "La Soledad (feat. Jowell & Randy)",
+      "trackId": "1nByf6KG2nZA1vIRsIz1nB",
+      "preview": "https://p.scdn.co/mp3-preview/33939ac5e72237ba2cb4d389c931d297b5b48f41?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f45fa1c209ced97d7b288f72ea4af8974ba0eb0",
+      "release_date": "2007-04-03"
+    },
+    {
+      "featuredArtist": "Randy",
+      "featuredArtistId": "7qYeIN2r4H1kBvr0Gm9Iav",
+      "trackName": "La Soledad (feat. Jowell & Randy)",
+      "trackId": "1nByf6KG2nZA1vIRsIz1nB",
+      "preview": "https://p.scdn.co/mp3-preview/33939ac5e72237ba2cb4d389c931d297b5b48f41?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f45fa1c209ced97d7b288f72ea4af8974ba0eb0",
+      "release_date": "2007-04-03"
+    },
+    {
+      "featuredArtist": "Voltio",
+      "featuredArtistId": "3Okcq0dqLVlEFHRZ5t22bA",
+      "trackName": "Dale Mami Damelo (feat. Voltio)",
+      "trackId": "1d6W274wiiQ1nzyK5Z4T5O",
+      "preview": "https://p.scdn.co/mp3-preview/390a90e2b7808daf6f8d756baf7eb922a7059444?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f45fa1c209ced97d7b288f72ea4af8974ba0eb0",
+      "release_date": "2007-04-03"
+    },
+    {
+      "featuredArtist": "Huey Dumbar",
+      "featuredArtistId": "462HojXJx5H9M0ajW27gwo",
+      "trackName": "Anoche (feat. Huey Dumbar & Dela Ghetto)",
+      "trackId": "5qxo5bvRkwFX692T1l95fC",
+      "preview": "https://p.scdn.co/mp3-preview/5bced20cd1010762981c715d1a4d52368e558118?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f45fa1c209ced97d7b288f72ea4af8974ba0eb0",
+      "release_date": "2007-04-03"
+    },
+    {
+      "featuredArtist": "De La Ghetto",
+      "featuredArtistId": "3EiLUeyEcA6fbRPSHkG5kb",
+      "trackName": "Anoche (feat. Huey Dumbar & Dela Ghetto)",
+      "trackId": "5qxo5bvRkwFX692T1l95fC",
+      "preview": "https://p.scdn.co/mp3-preview/5bced20cd1010762981c715d1a4d52368e558118?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f45fa1c209ced97d7b288f72ea4af8974ba0eb0",
+      "release_date": "2007-04-03"
+    },
+    {
+      "featuredArtist": "Abrante",
+      "featuredArtistId": "2j1QJ5H8CXv5AGAuxWKVnJ",
+      "trackName": "Bambula (feat. Abrante & Tego Calderon)",
+      "trackId": "6l50Uwa1sQKgnQWertTorV",
+      "preview": "https://p.scdn.co/mp3-preview/e1bae25cb1b0e048498c6e91392aa0ea3f3f232c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f45fa1c209ced97d7b288f72ea4af8974ba0eb0",
+      "release_date": "2007-04-03"
+    },
+    {
+      "featuredArtist": "AJ",
+      "featuredArtistId": "64wH6aBemJtATvGp5zAWzt",
+      "trackName": "Love Sex and Disco (feat. AJ)",
+      "trackId": "1GpozhasIISQfxXdn4WiqM",
+      "preview": "https://p.scdn.co/mp3-preview/1a18879c05b0b547b3c0ab72cd27aa1c73529309?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f45fa1c209ced97d7b288f72ea4af8974ba0eb0",
+      "release_date": "2007-04-03"
+    },
+    {
+      "featuredArtist": "Chillin'",
+      "featuredArtistId": "2AnHIt4OOQy4sHPWg2qlsW",
+      "trackName": "Mami Get Low (feat. Chillin)",
+      "trackId": "5JeeuTTq1Zf5OXzXiDpSUQ",
+      "preview": "https://p.scdn.co/mp3-preview/ccfa3c467b40c579ae8682f35bf66b4f057b4d76?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f45fa1c209ced97d7b288f72ea4af8974ba0eb0",
+      "release_date": "2007-04-03"
+    },
+    {
+      "featuredArtist": "Guelo Star",
+      "featuredArtistId": "54AbdWd0XTHGLorkVwINN2",
+      "trackName": "Dime Si Tu Quieres Mas (feat. Guelo Star)",
+      "trackId": "7HUHoHB036lqep1S7asxzF",
+      "preview": "https://p.scdn.co/mp3-preview/cf38de37c34d4724a4d807e79a36c97d91870c9c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f45fa1c209ced97d7b288f72ea4af8974ba0eb0",
+      "release_date": "2007-04-03"
+    },
+    {
+      "featuredArtist": "Geo Guanábanas",
+      "featuredArtistId": "5GcMMvUnTLxY1h8PFxrbqZ",
+      "trackName": "Guayandote (feat. Geo Guanabanas & Noriega)",
+      "trackId": "1ehEFgJNmHP2bVT4AF4jF1",
+      "preview": "https://p.scdn.co/mp3-preview/ffdb32d0c6e1c59c1d38ac1cf302307fe55b02ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f45fa1c209ced97d7b288f72ea4af8974ba0eb0",
+      "release_date": "2007-04-03"
+    },
+    {
+      "featuredArtist": "Noriega",
+      "featuredArtistId": "3P4VNQLuN1qQQnL8rMaIkL",
+      "trackName": "Guayandote (feat. Geo Guanabanas & Noriega)",
+      "trackId": "1ehEFgJNmHP2bVT4AF4jF1",
+      "preview": "https://p.scdn.co/mp3-preview/ffdb32d0c6e1c59c1d38ac1cf302307fe55b02ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f45fa1c209ced97d7b288f72ea4af8974ba0eb0",
+      "release_date": "2007-04-03"
+    },
+    {
+      "featuredArtist": "ELIOT",
+      "featuredArtistId": "1FBs2NQcXTTcfu3NXvmk4U",
+      "trackName": "Me Enamore de Mi Prima (feat. Eliot)",
+      "trackId": "0olAPB1MaLdZLXaVJJ7X0y",
+      "preview": "https://p.scdn.co/mp3-preview/49a7ca205d1c6d055567b3dd6c46d2a97d08fd0e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f45fa1c209ced97d7b288f72ea4af8974ba0eb0",
+      "release_date": "2007-04-03"
+    },
+    {
+      "featuredArtist": "O'neil",
+      "featuredArtistId": "5fEB8ol3Eg9yEE9atyQK1x",
+      "trackName": "Algo de Ti Me Llama (feat. Oneil)",
+      "trackId": "1c50m5M7t699k99LmYdid6",
+      "preview": "https://p.scdn.co/mp3-preview/77e6c875c6447856a58f2eeebb964ee9b1304929?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f45fa1c209ced97d7b288f72ea4af8974ba0eb0",
+      "release_date": "2007-04-03"
+    },
+    {
+      "featuredArtist": "JQ",
+      "featuredArtistId": "3LcqurGnjF0EsDeRh5j8hu",
+      "trackName": "Depende (feat. Jq)",
+      "trackId": "1yNg6nFAh2lUllm0Da5z2F",
+      "preview": "https://p.scdn.co/mp3-preview/dd9297219da95d6341bc01400dad7934722bd9c3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f45fa1c209ced97d7b288f72ea4af8974ba0eb0",
+      "release_date": "2007-04-03"
+    },
+    {
+      "featuredArtist": "El Niño",
+      "featuredArtistId": "2L2WKbH89SpB6pWQhniUW2",
+      "trackName": "Gracias MaMa (feat. El Nino)",
+      "trackId": "6YWrddj2LXMkSA1uXn6TCb",
+      "preview": "https://p.scdn.co/mp3-preview/fb813c134d4cdf6bdd4a131b417473c43dbc2514?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f45fa1c209ced97d7b288f72ea4af8974ba0eb0",
+      "release_date": "2007-04-03"
+    },
+    {
+      "featuredArtist": "Zion",
+      "featuredArtistId": "1pgDilWYDWLoOgGjf1iHNu",
+      "trackName": "Que Pasara",
+      "trackId": "1HfI0fPlRahRgZzatswT9a",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ded890e537c64c38586762962f3ec94b732ae690",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Jowel Y Randy",
+      "featuredArtistId": "1JsKWTZN3nIdrDlV0I1RhU",
+      "trackName": "La Soledad",
+      "trackId": "6gvBQGoDkcBmc2YcjCBBNR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ded890e537c64c38586762962f3ec94b732ae690",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "De La Getto",
+      "featuredArtistId": "4yu0xzW7M6F8XN3VRCs5hk",
+      "trackName": "Anoche",
+      "trackId": "3OgqRsTkBubD1ue8n7yL5D",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ded890e537c64c38586762962f3ec94b732ae690",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Andy Boy",
+      "featuredArtistId": "5VoXoba3C2AkL1HldZaBC9",
+      "trackName": "Mami Que Tu Necesitas",
+      "trackId": "49uqo0CidDTNwfCoeFvdjS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ded890e537c64c38586762962f3ec94b732ae690",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "A:J",
+      "featuredArtistId": "0SeTgKclHWAU4wMfA9jixP",
+      "trackName": "Love, Sex And Disco",
+      "trackId": "1TLBJZYj9HsZ0TgUxTP6YU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ded890e537c64c38586762962f3ec94b732ae690",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Gringo",
+      "featuredArtistId": "1PZE4wMiweZeEUCAb5TTmt",
+      "trackName": "Club Bango",
+      "trackId": "481khuq1Go47yOXhebg2fK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ded890e537c64c38586762962f3ec94b732ae690",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Gello Star",
+      "featuredArtistId": "1CtFN8Y2YqPJFOiyggkVhr",
+      "trackName": "Dime Si Tu Quieres Mas",
+      "trackId": "2lLohhuAvLe2SHnl2I7WcW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ded890e537c64c38586762962f3ec94b732ae690",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Guanabanas",
+      "featuredArtistId": "65PHKFCs7HHGUXdOlqHwvK",
+      "trackName": "Guayandote",
+      "trackId": "01cI6kfdTDZ6UoK3A2qRjy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ded890e537c64c38586762962f3ec94b732ae690",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Noriega",
+      "featuredArtistId": "64vksQMUEvJOoJuOOltiZQ",
+      "trackName": "Guayandote",
+      "trackId": "01cI6kfdTDZ6UoK3A2qRjy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ded890e537c64c38586762962f3ec94b732ae690",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "JQ",
+      "featuredArtistId": "17wdRM2mHFKssHJDkDDGvW",
+      "trackName": "Depende",
+      "trackId": "4jREjGyDMMFOcMWDcc2QUU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ded890e537c64c38586762962f3ec94b732ae690",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "El Niño",
+      "featuredArtistId": "3lqRUZE6AwXQBWNZhUO3jr",
+      "trackName": "Gracias Mama",
+      "trackId": "3jcwmrI5LATuw5cEUGODR7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ded890e537c64c38586762962f3ec94b732ae690",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Don Omar",
+      "featuredArtistId": "33ScadVnbm2X8kkUqOkC6Z",
+      "trackName": "Vamo' A Matarnos (Remix)",
+      "trackId": "735BeBWJbW8o72Qdbrrypw",
+      "preview": "https://p.scdn.co/mp3-preview/376d07dd7fe0d3ab9af799f1f119c910c4070437?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f8df5c9c2d22185a2ba5114a7bd7168858dd51b",
+      "release_date": "2005-06-25"
+    },
+    {
+      "featuredArtist": "Valerie",
+      "featuredArtistId": "0L3TIKXUVKRoRSKKeWhUli",
+      "trackName": "Te Exitare",
+      "trackId": "0cZ4ZtzTXrwPoaakt7toK5",
+      "preview": "https://p.scdn.co/mp3-preview/3dc18fff8be4ef30526533b8ad32a5db08cf3754?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f8df5c9c2d22185a2ba5114a7bd7168858dd51b",
+      "release_date": "2005-06-25"
+    },
+    {
+      "featuredArtist": "John Eric",
+      "featuredArtistId": "0IUvQ8DrCymt5IHywZsda2",
+      "trackName": "Trakata (Remix)",
+      "trackId": "42Oun3fxywJ2mlj61wQhnY",
+      "preview": "https://p.scdn.co/mp3-preview/18eb6d8ca75fa96300048d0d0879c451e82b0176?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f8df5c9c2d22185a2ba5114a7bd7168858dd51b",
+      "release_date": "2005-06-25"
+    },
+    {
+      "featuredArtist": "Ranking Stone",
+      "featuredArtistId": "2vThUcryaKNLhULHOzP3eH",
+      "trackName": "Metele El Dembow",
+      "trackId": "0DNMiNl7oxsumZWOHieJTD",
+      "preview": "https://p.scdn.co/mp3-preview/9d61783686387516f68522e1d22b88d9ea6768b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f8df5c9c2d22185a2ba5114a7bd7168858dd51b",
+      "release_date": "2005-06-25"
+    },
+    {
+      "featuredArtist": "Trebol Clan",
+      "featuredArtistId": "3YXpTiyVmYCfANOlnWv6vr",
+      "trackName": "Me Gente",
+      "trackId": "6FHWiPRfwBYQgLnleqXuFg",
+      "preview": "https://p.scdn.co/mp3-preview/fc99bbf78d20e78dda5de4592ae03628cc5c706c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f8df5c9c2d22185a2ba5114a7bd7168858dd51b",
+      "release_date": "2005-06-25"
+    },
+    {
+      "featuredArtist": "K-Mil",
+      "featuredArtistId": "1N4ZqNW13GWwdMZxwUFLWt",
+      "trackName": "Gatas",
+      "trackId": "3TDzCVVqGrONt2H4sPv40P",
+      "preview": "https://p.scdn.co/mp3-preview/c7663eacae74ad1d0885a589bf5c264cfadb87df?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f8df5c9c2d22185a2ba5114a7bd7168858dd51b",
+      "release_date": "2005-06-25"
+    },
+    {
+      "featuredArtist": "Cidely",
+      "featuredArtistId": "0uCCLGG093SF3ct47bjv5p",
+      "trackName": "Hoy",
+      "trackId": "03QRqCvlMOLOTNb3ws5Hzv",
+      "preview": "https://p.scdn.co/mp3-preview/889390353a147c2f5c15fcbf7ed50ef5c3396681?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f8df5c9c2d22185a2ba5114a7bd7168858dd51b",
+      "release_date": "2005-06-25"
+    },
+    {
+      "featuredArtist": "Zion",
+      "featuredArtistId": "1CVKHwcsqgtMXbKZJlBYID",
+      "trackName": "Yo Voy a Llegar (feat. Zion)",
+      "trackId": "5sOmeVI8Zk3Uck2Y6b4Vev",
+      "preview": "https://p.scdn.co/mp3-preview/9c7874468d24cb1af65015f70eefa1c429764cbb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a8a6dd7d2aaa285bcbb47253af3694385f4e8756",
+      "release_date": "2004-03-02"
+    },
+    {
+      "featuredArtist": "Joan y Oniell",
+      "featuredArtistId": "2Jnr5q8v7KYjTFfRB5VIVY",
+      "trackName": "Ella Es de la Calle (feat. Joan y Oniell)",
+      "trackId": "3s9fi1i9ToZ23frSugOHlD",
+      "preview": "https://p.scdn.co/mp3-preview/84c2f8f4dadf633d01f2cdca80a25dd613486f4e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a8a6dd7d2aaa285bcbb47253af3694385f4e8756",
+      "release_date": "2004-03-02"
+    },
+    {
+      "featuredArtist": "Wibal Y Alex",
+      "featuredArtistId": "4EG9Lq1bQBzJLH3pPwSTQ5",
+      "trackName": "Hace Tiempo (feat. Wibal y Alex)",
+      "trackId": "5OVSUknIfV1vk5maj9yb54",
+      "preview": "https://p.scdn.co/mp3-preview/e4ab11b089c992ce35c56bffe74082df7bb6b1d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a8a6dd7d2aaa285bcbb47253af3694385f4e8756",
+      "release_date": "2004-03-02"
+    },
+    {
+      "featuredArtist": "El Calvo",
+      "featuredArtistId": "3wqsP3K7896pe0VSvFRwbY",
+      "trackName": "Tengo un Problema (feat. El Calvo)",
+      "trackId": "3xGy9iYyPBGpwVbPKBahcI",
+      "preview": "https://p.scdn.co/mp3-preview/1d230a6fef0f18c0899aa1a67044c3ecfa75b0d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a8a6dd7d2aaa285bcbb47253af3694385f4e8756",
+      "release_date": "2004-03-02"
+    },
+    {
+      "featuredArtist": "Nano",
+      "featuredArtistId": "7pCSleSLYSpqJaWfDzBr1q",
+      "trackName": "Estamos en Baja (feat. Nano)",
+      "trackId": "5wmUWimgorfJxqnDsWdpRr",
+      "preview": "https://p.scdn.co/mp3-preview/953eaad6ce6d2e525407c928b060c3e808ccc3e0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a8a6dd7d2aaa285bcbb47253af3694385f4e8756",
+      "release_date": "2004-03-02"
+    },
+    {
+      "featuredArtist": "Aldo Y Dandy",
+      "featuredArtistId": "3k9ytrAmkIrixTXxgItHyZ",
+      "trackName": "Escapate (feat. Aldo y Dandy)",
+      "trackId": "0OKjLssmaOpvHeNiDVUf3X",
+      "preview": "https://p.scdn.co/mp3-preview/34154766f0a7ab0d3da161d9cb7cdfb24afd0a3f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a8a6dd7d2aaa285bcbb47253af3694385f4e8756",
+      "release_date": "2004-03-02"
+    },
+    {
+      "featuredArtist": "Juzt 2 Brothers",
+      "featuredArtistId": "3MXBi96Jd1LH1hRc8oHTq5",
+      "trackName": "Puerto Rico - Introlude",
+      "trackId": "2o70bixURPiJC7CFFrqMj2",
+      "preview": "https://p.scdn.co/mp3-preview/06383988a77b12219c1006ed15be043eead420fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8867ef5914e86f568da144b52c07b610e7fd2d2e",
+      "release_date": "2001-05-08"
+    },
+    {
+      "featuredArtist": "Sancocho",
+      "featuredArtistId": "4Fm5ZOqg1GJIZbrovgQTlX",
+      "trackName": "A Las Mujeres",
+      "trackId": "1HNZ4VuyYQuenBK0Y2oK78",
+      "preview": "https://p.scdn.co/mp3-preview/df53ecb22e1e11efa55cfe896041df490fbde40d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8867ef5914e86f568da144b52c07b610e7fd2d2e",
+      "release_date": "2001-05-08"
+    },
+    {
+      "featuredArtist": "Wepa Man",
+      "featuredArtistId": "5utZKl2UuLC6RJSI2NsoXp",
+      "trackName": "Vamo´a Gozar",
+      "trackId": "6GqCedeEDWmjav6dbHiS6P",
+      "preview": "https://p.scdn.co/mp3-preview/5c67cfdfafaa6d2f8a6cceaf01d95fc150c97778?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8867ef5914e86f568da144b52c07b610e7fd2d2e",
+      "release_date": "2001-05-08"
+    },
+    {
+      "featuredArtist": "DJ Blass",
+      "featuredArtistId": "1ZijgA5CMnToosMd24krUH",
+      "trackName": "Bomba - interlude",
+      "trackId": "08isAgATLhaBg0DKKSag7s",
+      "preview": "https://p.scdn.co/mp3-preview/806b0d1789ce8f52f685afb6c1be300346261798?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8867ef5914e86f568da144b52c07b610e7fd2d2e",
+      "release_date": "2001-05-08"
+    },
+    {
+      "featuredArtist": "Fun City",
+      "featuredArtistId": "4YXol7mQTYvPg3yFaozb0o",
+      "trackName": "Pa´dentro",
+      "trackId": "7LmdWsUetKg8SRuEdUINC4",
+      "preview": "https://p.scdn.co/mp3-preview/4e5bd8b1f3a38aa393c579311df682fc22e44176?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8867ef5914e86f568da144b52c07b610e7fd2d2e",
+      "release_date": "2001-05-08"
+    },
+    {
+      "featuredArtist": "Screechie Dan",
+      "featuredArtistId": "0H99upYhj9oeJae40l2NzS",
+      "trackName": "Give It To Me",
+      "trackId": "5YIBcVupRnURA5RwIRw0vH",
+      "preview": "https://p.scdn.co/mp3-preview/8c5b01a373bb1b868d278d2a5ed18d71aab5ba26?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8867ef5914e86f568da144b52c07b610e7fd2d2e",
+      "release_date": "2001-05-08"
+    },
+    {
+      "featuredArtist": "2 In A Room",
+      "featuredArtistId": "2029eJThczywCgnjE33s33",
+      "trackName": "Aqui Yo Quiero Un Trago",
+      "trackId": "3YINbTWCT2ObTKxlaV0wMF",
+      "preview": "https://p.scdn.co/mp3-preview/1f061d22ec90c0c7fa01ea325a3d787c0af0e90a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8867ef5914e86f568da144b52c07b610e7fd2d2e",
+      "release_date": "2001-05-08"
+    },
+    {
+      "featuredArtist": "Coro",
+      "featuredArtistId": "1rKi6kZNi8iUz2mMlaAwQ9",
+      "trackName": "Where Are You Tonight - RMX",
+      "trackId": "2uU22B77TT9WkCnt2CSRKb",
+      "preview": "https://p.scdn.co/mp3-preview/1730778922e98366b1edf6009577d810159acfa4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8867ef5914e86f568da144b52c07b610e7fd2d2e",
+      "release_date": "2001-05-08"
+    },
+    {
+      "featuredArtist": "The Body Shakers",
+      "featuredArtistId": "2ejhW2k0qzr9hWY6rk06Br",
+      "trackName": "El Sonido (Del Ritmo)",
+      "trackId": "52URTVdmKP0MPCxLkssdFT",
+      "preview": "https://p.scdn.co/mp3-preview/492decdc8abbc29c3ec30bd014b53d78e53013b1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8867ef5914e86f568da144b52c07b610e7fd2d2e",
+      "release_date": "2001-05-08"
+    },
+    {
+      "featuredArtist": "MC Ceja",
+      "featuredArtistId": "3bsVWNKxP3oEpR1I7OnKkg",
+      "trackName": "Bacalao",
+      "trackId": "0xxWyCc3yLNEGM1ZuXMsz4",
+      "preview": "https://p.scdn.co/mp3-preview/bc1c4e9fee844ff157354004d1f30e4190e39b9b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7d7bb7fcb6d08bec0a7a0b78d99b5e37f41b7489",
+      "release_date": "2018-03-16"
+    }
+  ]
+}

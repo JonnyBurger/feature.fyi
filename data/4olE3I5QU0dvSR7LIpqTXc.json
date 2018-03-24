@@ -1,0 +1,50 @@
+{
+  "artistName": "watt",
+  "features": [
+    {
+      "featuredArtist": "Post Malone",
+      "featuredArtistId": "246dkjvS1zLTtiykXe5h60",
+      "trackName": "Burning Man (with Post Malone)",
+      "trackId": "1sbuJB4qjnA7NscUTj7lsN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d79b24beef4eb036fbc4c2c57d59f773a7804792",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Hailee Steinfeld",
+      "featuredArtistId": "5p7f24Rk5HkUZsaS3BLG5F",
+      "trackName": "Let Me Go",
+      "trackId": "3I7bVeBnbcg32FkzoROPbK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f36f0df5cb09ac6b6d198d19ae922c534c19f1fb",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Alesso",
+      "featuredArtistId": "4AVFqumd2ogHFlRbKIjp1t",
+      "trackName": "Let Me Go",
+      "trackId": "3I7bVeBnbcg32FkzoROPbK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f36f0df5cb09ac6b6d198d19ae922c534c19f1fb",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Florida Georgia Line",
+      "featuredArtistId": "3b8QkneNDz4JHKKKlLgYZg",
+      "trackName": "Let Me Go",
+      "trackId": "3I7bVeBnbcg32FkzoROPbK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f36f0df5cb09ac6b6d198d19ae922c534c19f1fb",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Edinburgh City Police Pipe Band",
+      "featuredArtistId": "7AXJHGpQYpnKF1oE9waksd",
+      "trackName": "The Rowan Tree",
+      "trackId": "2AurP3UdiaJwVBLnNPzoVj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8f06541371bac2380e429790aaf6e454a1f97c71",
+      "release_date": "2006-01-01"
+    }
+  ]
+}

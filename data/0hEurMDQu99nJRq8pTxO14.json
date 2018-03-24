@@ -1,0 +1,32 @@
+{
+  "artistName": "John Mayer",
+  "features": [
+    {
+      "featuredArtist": "Katy Perry",
+      "featuredArtistId": "6jJ0s89eD6GaHleKKya26X",
+      "trackName": "Who You Love",
+      "trackId": "7IByJvSqRFltGyiiIiL4wn",
+      "preview": "https://p.scdn.co/mp3-preview/189ff69a7243412de5d003bc52ffcbbc9496f238?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a615f09cdf83957cde9e43ca5b96bebed7fae938",
+      "release_date": "2013-08-16"
+    },
+    {
+      "featuredArtist": "Frank Ocean",
+      "featuredArtistId": "2h93pZq0e7k5yf4dywlkpM",
+      "trackName": "Wildfire",
+      "trackId": "4wOYt5nULk1Cu8pwJWk26m",
+      "preview": "https://p.scdn.co/mp3-preview/638965171c7adccd64736480a093bfb3585ff375?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a615f09cdf83957cde9e43ca5b96bebed7fae938",
+      "release_date": "2013-08-16"
+    },
+    {
+      "featuredArtist": "DJ Logic",
+      "featuredArtistId": "75GlHUh2Mr5IthCCRptIQV",
+      "trackName": "Inner City Blues (Make Me Wanna Holler) - Live from Kansas City",
+      "trackId": "40akG3NM0dfLmL5rWEQepG",
+      "preview": "https://p.scdn.co/mp3-preview/eea3a0adf058bb1f45d7f199c02418844e5b62cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/333b19f6df335ebcc42fa1a194aecd7e95af0120",
+      "release_date": "2004"
+    }
+  ]
+}

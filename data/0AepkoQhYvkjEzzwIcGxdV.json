@@ -1,0 +1,50 @@
+{
+  "artistName": "Jacob Banks",
+  "features": [
+    {
+      "featuredArtist": "Avelino",
+      "featuredArtistId": "039zhJoEkboZ8Ii6K40Fb6",
+      "trackName": "Monster",
+      "trackId": "1u9iIukLvxQgahsrPjqcmV",
+      "preview": "https://p.scdn.co/mp3-preview/c1ea59b2710513d80d96ffe62fd0c9c827e6da6e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f2713e9c2d0d3cb5f0984eafec0d94a1213c08c",
+      "release_date": "2015-07-22"
+    },
+    {
+      "featuredArtist": "Timbaland",
+      "featuredArtistId": "5Y5TRrQiqgUO4S36tzjIRZ",
+      "trackName": "Unknown (To You) - Timbaland Remix",
+      "trackId": "6c7hjV8BQIyR2S5dht8oVM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6de4aa1c1e89611cab0172d98362c144947c08d4",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Boogie",
+      "featuredArtistId": "5usbqiU7sjvszjWecANDL6",
+      "trackName": "Monster 2.0",
+      "trackId": "518FskyLfAyWBU27iUZYfL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0e527d376fb133c3c788e64f703189b5d25caead",
+      "release_date": "2016-12-09"
+    },
+    {
+      "featuredArtist": "Seinabo Sey",
+      "featuredArtistId": "4X0v8sFoDZ6rIfkeOeVm2i",
+      "trackName": "Remember",
+      "trackId": "3GMy4AOJogX3mMsoom1s0Z",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/962041f49893776d337ea3595cae3cabef2cd5f5",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Louis The Child",
+      "featuredArtistId": "7wg1qvie3KqDNQbAkTdbX0",
+      "trackName": "Diddy Bop",
+      "trackId": "6WsFYB2DKTNRYU8cydDryh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dc77793680e3a16e97d7edfda6a704726ee78f09",
+      "release_date": "2018-03-09"
+    }
+  ]
+}

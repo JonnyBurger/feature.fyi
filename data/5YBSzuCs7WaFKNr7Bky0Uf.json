@@ -1,0 +1,50 @@
+{
+  "artistName": "Olivia",
+  "features": [
+    {
+      "featuredArtist": "50 Cent",
+      "featuredArtistId": "3q7HBObVc0L8jNeTe5Gofh",
+      "trackName": "Best Friend - Remix",
+      "trackId": "1wI3UvluGGKUeFeVFsP9do",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d0d583f69cdc4ab341f9652e296b413a1ad9f6a3",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Lloyd Banks",
+      "featuredArtistId": "3vDUJHQtqT3jFRZ2ECXDTi",
+      "trackName": "Twist It",
+      "trackId": "2NlZzSCrVLNVCRoRrltDho",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cf4fc081abc0e8752aad97f9454928aebcfdf7a0",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Tafnaz",
+      "featuredArtistId": "5q5sn221lzMx5IKzT1hNpm",
+      "trackName": "Secret",
+      "trackId": "6RjuPK1bSu5ZFQa6RcmfQ5",
+      "preview": "https://p.scdn.co/mp3-preview/0d276a5676739bf1990e40e202ee3caf64bdb243?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01f9af5337acb40e280dcccf55bb31f9df109e05",
+      "release_date": "2018-03-21"
+    },
+    {
+      "featuredArtist": "Badda",
+      "featuredArtistId": "1BOrmVuyIUjRYgkkJVMetr",
+      "trackName": "Secret",
+      "trackId": "6RjuPK1bSu5ZFQa6RcmfQ5",
+      "preview": "https://p.scdn.co/mp3-preview/0d276a5676739bf1990e40e202ee3caf64bdb243?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01f9af5337acb40e280dcccf55bb31f9df109e05",
+      "release_date": "2018-03-21"
+    },
+    {
+      "featuredArtist": "Project 46",
+      "featuredArtistId": "2RhRT6DNOVoDTfS0rG31pZ",
+      "trackName": "Forgettable",
+      "trackId": "5iBQeObS4FYCle6qoNUULJ",
+      "preview": "https://p.scdn.co/mp3-preview/f5e65886b5829051f698a0f985e2ba6c07722bf2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6303a5b7f7f2cf488a7cf25aa0a3d3afc81c5b96",
+      "release_date": "2015-07-30"
+    }
+  ]
+}

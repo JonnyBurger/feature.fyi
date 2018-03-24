@@ -1,0 +1,77 @@
+{
+  "artistName": "Alejandro Fernandez",
+  "features": [
+    {
+      "featuredArtist": "Morat",
+      "featuredArtistId": "5C4PDR4LnhZTbVnKWXuDKD",
+      "trackName": "Sé Que Te Duele",
+      "trackId": "0YnErLuB0DSUqtQLE8NyrO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b7b5254b50bc4a34ab626ae3a154b43819d4806a",
+      "release_date": "2017-09-29"
+    },
+    {
+      "featuredArtist": "Beyoncé",
+      "featuredArtistId": "6vWDO969PvNqNYHIOW5v0m",
+      "trackName": "Amor Gitano",
+      "trackId": "0oOtMANXSIzL6Ri0BTX0g6",
+      "preview": "https://p.scdn.co/mp3-preview/57c02d570d5eaefb1f6afc7b35a7396aaa87effd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/22daa1e6a61017dd6c413a14d6b64ce125365031",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Gloria Estefan",
+      "featuredArtistId": "5IFCkqu9J6xdWeYMk5I889",
+      "trackName": "En el Jardín",
+      "trackId": "3oKWmixaPNtL9Ev1NqDdVT",
+      "preview": "https://p.scdn.co/mp3-preview/78baeca541967c42f2cb0d3a5ef1ce34dd0a696f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/22daa1e6a61017dd6c413a14d6b64ce125365031",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "La Sonora Santanera",
+      "featuredArtistId": "3CsPxFJGyNa9ep79CFWN77",
+      "trackName": "Perfume de Gardenia",
+      "trackId": "2rlaKZfXpC3OeeBvzil54g",
+      "preview": "https://p.scdn.co/mp3-preview/bd599f8ed11e791079be78a2ebba16378f4b6054?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/22daa1e6a61017dd6c413a14d6b64ce125365031",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Vicente Fernández",
+      "featuredArtistId": "4PPoI9LuYeFX8V674Z1R6l",
+      "trackName": "Amor de los Dos",
+      "trackId": "0mIQ6PUSYXx6rcTqY1qMfV",
+      "preview": "https://p.scdn.co/mp3-preview/7a41a73d729a4b15b398dcb990e0f348c48aeddd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/22daa1e6a61017dd6c413a14d6b64ce125365031",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Christina Aguilera",
+      "featuredArtistId": "1l7ZsJRRS8wlW3WfJfPfNS",
+      "trackName": "Hoy Tengo Ganas De Ti",
+      "trackId": "0qO4GfXADY9QfgcgtrasT9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fe8cd5cee2a6152538d1f804787bf28cbce7362a",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Rod Stewart",
+      "featuredArtistId": "2y8Jo9CKhJvtfeKOsYzRdT",
+      "trackName": "Nobody Knows You When You're Down And Out",
+      "trackId": "5kTEE2Ps9EMpnLrMvaebMq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fe8cd5cee2a6152538d1f804787bf28cbce7362a",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Joan Sebastian",
+      "featuredArtistId": "7FsRH5bw8iWpSbMX1G7xf1",
+      "trackName": "La Seven",
+      "trackId": "6dCAeVGQPqV8y9o7J1LIJF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/140d275d46c19d7538e34913e31abe34e2ef5162",
+      "release_date": "2009-01-01"
+    }
+  ]
+}

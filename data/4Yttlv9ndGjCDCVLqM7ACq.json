@@ -1,0 +1,554 @@
+{
+  "artistName": "Sido",
+  "features": [
+    {
+      "featuredArtist": "Savas",
+      "featuredArtistId": "5C5hEZzr3BmvYcIPfWMnnC",
+      "trackName": "Haste nich gesehen",
+      "trackId": "7qUVI7t6pQqqgECENQakMD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2991b8fb31e974b9c6dbe7f773e31754116c7bf4",
+      "release_date": "2017-09-29"
+    },
+    {
+      "featuredArtist": "Lakman",
+      "featuredArtistId": "7AzihkjJH5ZRRHdrdkg1Nu",
+      "trackName": "Neue Welt",
+      "trackId": "3PZALIvOHbLE8vseq0UNnL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2991b8fb31e974b9c6dbe7f773e31754116c7bf4",
+      "release_date": "2017-09-29"
+    },
+    {
+      "featuredArtist": "Nico Santos",
+      "featuredArtistId": "3A9B6c1CrSPauiOblw7pWz",
+      "trackName": "Haie",
+      "trackId": "6AGtEN7h5ZZcfc1XQkNkWl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2991b8fb31e974b9c6dbe7f773e31754116c7bf4",
+      "release_date": "2017-09-29"
+    },
+    {
+      "featuredArtist": "Marteria",
+      "featuredArtistId": "3nDNDLcZuSto4k9u4AbcLB",
+      "trackName": "Normale Leute",
+      "trackId": "30lrdO0iubobuGiktWAwwN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2991b8fb31e974b9c6dbe7f773e31754116c7bf4",
+      "release_date": "2017-09-29"
+    },
+    {
+      "featuredArtist": "Olexesh",
+      "featuredArtistId": "2Z9KL8Zmqx5Sg3cd7Fldhl",
+      "trackName": "Löwenzahn",
+      "trackId": "2kvukmN0vuSUO9pjOSLvgJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/87a1862e77dfe597ee71d4332c9de01e58a5c0ba",
+      "release_date": "2015-09-04"
+    },
+    {
+      "featuredArtist": "Andreas Bourani",
+      "featuredArtistId": "6quRLJ5SiWHgcVMoE9TEJj",
+      "trackName": "Astronaut",
+      "trackId": "0pQr5WsobmdZHnuObT0sc2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/87a1862e77dfe597ee71d4332c9de01e58a5c0ba",
+      "release_date": "2015-09-04"
+    },
+    {
+      "featuredArtist": "Dillon Cooper",
+      "featuredArtistId": "3N4cYzn6HQGkiGCVwdZNPd",
+      "trackName": "Ackan",
+      "trackId": "3OqbJh3CuzC1WQkfswb7xb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/87a1862e77dfe597ee71d4332c9de01e58a5c0ba",
+      "release_date": "2015-09-04"
+    },
+    {
+      "featuredArtist": "Adel Tawil",
+      "featuredArtistId": "3rZBkgoRHG8M9jQL0QPNMi",
+      "trackName": "Zuhause ist die Welt noch in Ordnung",
+      "trackId": "2a1FABbh4m7Di2jS9MFeJ4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/87a1862e77dfe597ee71d4332c9de01e58a5c0ba",
+      "release_date": "2015-09-04"
+    },
+    {
+      "featuredArtist": "Tony D.",
+      "featuredArtistId": "13ksGd7F8xLuAjROYMzYxL",
+      "trackName": "Entspannt",
+      "trackId": "3jmbGpHCFpvuXCsfmB8LHt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/87a1862e77dfe597ee71d4332c9de01e58a5c0ba",
+      "release_date": "2015-09-04"
+    },
+    {
+      "featuredArtist": "Estikay",
+      "featuredArtistId": "4DMzvwya65eu1LsYZ3BLV6",
+      "trackName": "Eier",
+      "trackId": "7d8Xf8Cf5x5LJp0Pm4Cyei",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/87a1862e77dfe597ee71d4332c9de01e58a5c0ba",
+      "release_date": "2015-09-04"
+    },
+    {
+      "featuredArtist": "Adesse",
+      "featuredArtistId": "7EWemnOZ5SxADQ1z8bf0r9",
+      "trackName": "BoomBidiByeBye",
+      "trackId": "6p3qaSLyfx1c2q53xtiP0f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/87a1862e77dfe597ee71d4332c9de01e58a5c0ba",
+      "release_date": "2015-09-04"
+    },
+    {
+      "featuredArtist": "Mark Forster",
+      "featuredArtistId": "7qXzy6c5RWT0XlVQcOBIDG",
+      "trackName": "Irgendwo wartet jemand",
+      "trackId": "2ZGFh84otCUiUUajNm3jIX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2165c80a48f81d0b36783c8f6acd56ed3f1b283a",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Helge Schneider",
+      "featuredArtistId": "05OMHvPpkWnblSy9Kl7e9l",
+      "trackName": "Arbeit",
+      "trackId": "6T1TBePEPaeZi2KN6dBUA0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2165c80a48f81d0b36783c8f6acd56ed3f1b283a",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Genetikk",
+      "featuredArtistId": "41LLNWUptvfbQ9Q7oCefmg",
+      "trackName": "Maskerade",
+      "trackId": "3QDdUv3PNaES1pyoMScELy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2165c80a48f81d0b36783c8f6acd56ed3f1b283a",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Marsimoto",
+      "featuredArtistId": "6jL3G5P8rxfUamkyqmRJNU",
+      "trackName": "Maskerade",
+      "trackId": "3QDdUv3PNaES1pyoMScELy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2165c80a48f81d0b36783c8f6acd56ed3f1b283a",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Westernhagen",
+      "featuredArtistId": "6El2bDJ8PlTKVYyEPWxfAS",
+      "trackName": "Grenzenlos",
+      "trackId": "0XPMp1NRDV2YtRfy6Bq0Wz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2165c80a48f81d0b36783c8f6acd56ed3f1b283a",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Kurt Krömer",
+      "featuredArtistId": "5zmwsjb47KV5V24NpF4EiQ",
+      "trackName": "Hey Du! - Unplugged Version",
+      "trackId": "0KCXRqEo9EGZkqFso6oGdX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3cb6a3530e6db0952ebe312d69226506ab93e016",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "K.I.Z",
+      "featuredArtistId": "0bMt8SJlp0gFRUufzifS05",
+      "trackName": "Der Tanz - Unplugged Version",
+      "trackId": "437LzuOGgQlI0DPx94fpa6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3cb6a3530e6db0952ebe312d69226506ab93e016",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Canzonetta Kinderchor",
+      "featuredArtistId": "6ONYeyuxDhCsfeQAivnlYw",
+      "trackName": "Augen Auf - Unplugged Version",
+      "trackId": "3Cqk5LBRFcqclZM7kyakdA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3cb6a3530e6db0952ebe312d69226506ab93e016",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Doreen",
+      "featuredArtistId": "1WFyP3nsTOSgfVTmPa4tyt",
+      "trackName": "Nein! - Unplugged Version",
+      "trackId": "0c2aXUMrixvsTvDkwUqKIh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3cb6a3530e6db0952ebe312d69226506ab93e016",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Stephan Remmler",
+      "featuredArtistId": "7eLCDzaCPnvXqveBrwroez",
+      "trackName": "Da Da Da (Ich lieb dich nicht, du liebst mich nicht) - Unplugged Version",
+      "trackId": "47tgCKp2zFfN7I1nZfq9eD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3cb6a3530e6db0952ebe312d69226506ab93e016",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "J-Luv",
+      "featuredArtistId": "6l5KRjh7Pzbn0JiIW88W8y",
+      "trackName": "Wenn das alles ist",
+      "trackId": "4I3e4UqQtXhQOhQC4lcN0y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/915e386e59b539a5128aa72faa6dc683cdc86a01",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "G-Hot",
+      "featuredArtistId": "1eS65w4u5vCe98lQkSZiQ7",
+      "trackName": "Ich Bereue Nichts",
+      "trackId": "7u0CZmNJa6GHZCOVjMXYvr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/915e386e59b539a5128aa72faa6dc683cdc86a01",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Samy Deluxe",
+      "featuredArtistId": "7J207fU1tty4DWCIhJSzh0",
+      "trackName": "Seniorenstatus",
+      "trackId": "7ooTo3CVizMX6G9yqs4met",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/915e386e59b539a5128aa72faa6dc683cdc86a01",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Harris",
+      "featuredArtistId": "56GZTHLEziPrsg4rNfz0pa",
+      "trackName": "Siggi & Harry",
+      "trackId": "61ksbfscVU9pKiM2DOWSTd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/915e386e59b539a5128aa72faa6dc683cdc86a01",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Kitty Kat",
+      "featuredArtistId": "2YkKzgHa7xT6aW8QaSsQMd",
+      "trackName": "Ruf Mich",
+      "trackId": "56V3GI31PPTQW0hl3OF2ez",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/915e386e59b539a5128aa72faa6dc683cdc86a01",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Bintia",
+      "featuredArtistId": "1Q2q7VrUw5jDMUbzeM6rly",
+      "trackName": "Ruf Mich",
+      "trackId": "56V3GI31PPTQW0hl3OF2ez",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/915e386e59b539a5128aa72faa6dc683cdc86a01",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "B-Tight",
+      "featuredArtistId": "3qd7OFf9RCmk6wIqVrZH1L",
+      "trackName": "Für Jeden",
+      "trackId": "7rZ1qcWbMEEYv2yBvAwkqH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/915e386e59b539a5128aa72faa6dc683cdc86a01",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Alpa Gun",
+      "featuredArtistId": "6nHDuiu6PIpfWt6DswQHvL",
+      "trackName": "Für Jeden",
+      "trackId": "7rZ1qcWbMEEYv2yBvAwkqH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/915e386e59b539a5128aa72faa6dc683cdc86a01",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Die Sekte",
+      "featuredArtistId": "25PaK9cDaDC4N7RMaGoLmV",
+      "trackName": "10 Jahre",
+      "trackId": "5YyWrxxYx2MKYbza5DwwwG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/915e386e59b539a5128aa72faa6dc683cdc86a01",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Azad",
+      "featuredArtistId": "7LQLsKs1Qulq0BxYdhRnBU",
+      "trackName": "Pack schlägt sich",
+      "trackId": "2wvLxNqhF6VHjrNnClVMg4",
+      "preview": "https://p.scdn.co/mp3-preview/455cf695ea7cc8147472fca74f18217ecceb4b65?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f2f6251146d439da0eaf3b1a79e794196887f19",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Fler",
+      "featuredArtistId": "75ctWsRuGXmxMxnFPkuEwA",
+      "trackName": "Unser Leben",
+      "trackId": "2JvrGwdBFvfe0uW3ifDvwD",
+      "preview": "https://p.scdn.co/mp3-preview/d81c702d0cb5637fdec79cf60e6521f12dc29308?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f2f6251146d439da0eaf3b1a79e794196887f19",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Shizoe",
+      "featuredArtistId": "2msZIODTemsOSXZhoH9ZKq",
+      "trackName": "Unser Leben",
+      "trackId": "2JvrGwdBFvfe0uW3ifDvwD",
+      "preview": "https://p.scdn.co/mp3-preview/d81c702d0cb5637fdec79cf60e6521f12dc29308?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f2f6251146d439da0eaf3b1a79e794196887f19",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Greckoe",
+      "featuredArtistId": "4SjZ5jaqEsCWqN9Fi1csOH",
+      "trackName": "Schule",
+      "trackId": "1GsxilspVijxoHafbh1zLW",
+      "preview": "https://p.scdn.co/mp3-preview/ff615f1edd2e863d9d4e7298c2f67402b8abd5f8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f2f6251146d439da0eaf3b1a79e794196887f19",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Tony D",
+      "featuredArtistId": "76oboLTPExOfWFyfhulmOo",
+      "trackName": "Jeder kriegt, was er verdient",
+      "trackId": "3fYQ6FfAwpdylkcJeb2ZzP",
+      "preview": "https://p.scdn.co/mp3-preview/020a885d4777215dc13e28d16d33ba1f1a3fec3d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f2f6251146d439da0eaf3b1a79e794196887f19",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Bass Sultan Hengzt",
+      "featuredArtistId": "5jYPpt8OQR5IRc2w4RFEJj",
+      "trackName": "Ich bin so gaga",
+      "trackId": "7E1LnfO2s8FgDY42ow09Y9",
+      "preview": "https://p.scdn.co/mp3-preview/b7efa07077ad2f611d96ab2f232419b2e84d3908?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f2f6251146d439da0eaf3b1a79e794196887f19",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Pillath",
+      "featuredArtistId": "6ZhSAhthwyV6WoyuM4CSbb",
+      "trackName": "Tage",
+      "trackId": "6qHGEcBHZPJwP3tUlNfijk",
+      "preview": "https://p.scdn.co/mp3-preview/0c73741f866f9c85f49fa37646f9ae9d7fba764a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f2f6251146d439da0eaf3b1a79e794196887f19",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Scooter",
+      "featuredArtistId": "0HlxL5hisLf59ETEPM3cUA",
+      "trackName": "Beweg dein Arsch",
+      "trackId": "0IA4pLpJ0gw86P0b6MBoOy",
+      "preview": "https://p.scdn.co/mp3-preview/b88fea9dc5a9132f117f90a3a60e3cf62fd5686b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f2f6251146d439da0eaf3b1a79e794196887f19",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Joe Rilla",
+      "featuredArtistId": "0S0au2NweVJkOI40n52pUI",
+      "trackName": "Kanacks & Hools",
+      "trackId": "4POkRbBEpv6JhhHCWSa2Jr",
+      "preview": "https://p.scdn.co/mp3-preview/ca28bb87bb437fa8d6a2b3c3333f385d839d7944?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f2f6251146d439da0eaf3b1a79e794196887f19",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Willi Murda",
+      "featuredArtistId": "1d32iFiSwSWjQr62ATMc7Z",
+      "trackName": "Halt dein Maul - Remix",
+      "trackId": "5mQRSUHuak0vJkkfRQfVQt",
+      "preview": "https://p.scdn.co/mp3-preview/622c48dee129af24e74b2bc019622a51d3124e9f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f2f6251146d439da0eaf3b1a79e794196887f19",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Automatikk",
+      "featuredArtistId": "190Qcd935tzMS5RXjd5dUG",
+      "trackName": "Halt dein Maul - Remix",
+      "trackId": "5mQRSUHuak0vJkkfRQfVQt",
+      "preview": "https://p.scdn.co/mp3-preview/622c48dee129af24e74b2bc019622a51d3124e9f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f2f6251146d439da0eaf3b1a79e794196887f19",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Massiv",
+      "featuredArtistId": "33Dtwad3snCG92mhmi17WM",
+      "trackName": "Ihr habt uns so gemacht",
+      "trackId": "3CaJFeaLhEUTiSb42kuGll",
+      "preview": "https://p.scdn.co/mp3-preview/2685a81fd58ed921f99cb206c7a575cb23c7e2e3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b0fdc084a8c031fc71164ed5a1a9d1e84607b977",
+      "release_date": "2006-12-01"
+    },
+    {
+      "featuredArtist": "Peter Fox",
+      "featuredArtistId": "6rqlONGmPuP2wJVSfliLBI",
+      "trackName": "Rodeo",
+      "trackId": "3DJYgrPYN4nBEFAAQ3p0Hl",
+      "preview": "https://p.scdn.co/mp3-preview/bac1a387777ccf0ad53bb2dcb20747d8499d5d37?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b0fdc084a8c031fc71164ed5a1a9d1e84607b977",
+      "release_date": "2006-12-01"
+    },
+    {
+      "featuredArtist": "Smif-N-Wessun",
+      "featuredArtistId": "2p0Hf0MF8Nw8lwAXokczf0",
+      "trackName": "Get Ya Paper",
+      "trackId": "2DjAU9n5Cpgu4VtCaLmEN4",
+      "preview": "https://p.scdn.co/mp3-preview/f739010ea1618e5ad0591546c399b275d37f7cd2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b0fdc084a8c031fc71164ed5a1a9d1e84607b977",
+      "release_date": "2006-12-01"
+    },
+    {
+      "featuredArtist": "Aggro Allstarz",
+      "featuredArtistId": "6KGHxrESd0CvB5k2unK756",
+      "trackName": "Bergab - Remix",
+      "trackId": "0au23Rxc6kAJ2PVjukjD28",
+      "preview": "https://p.scdn.co/mp3-preview/d6720d9cb475fb0a98967d0692e8d32ca54a4dd1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b0fdc084a8c031fc71164ed5a1a9d1e84607b977",
+      "release_date": "2006-12-01"
+    },
+    {
+      "featuredArtist": "Deine Lieblingsrapper",
+      "featuredArtistId": "05AEgoWM0zLohKlLpwnPsQ",
+      "trackName": "Los gehts",
+      "trackId": "60fjJgnJrMUCb5Mnt1BT0o",
+      "preview": "https://p.scdn.co/mp3-preview/38d8e8dcc02a2469c525bcdfce2ef70564922412?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1e0dc87a06890c847846429a52114819195bb2da",
+      "release_date": "2005-10-07"
+    },
+    {
+      "featuredArtist": "M.J.",
+      "featuredArtistId": "0nTZdZ6hE64x0pE0iHt9rz",
+      "trackName": "Gib mir die Flasche",
+      "trackId": "7zenBndTJZiSK5eRcEKVab",
+      "preview": "https://p.scdn.co/mp3-preview/db43c48c6c1725752ba3dc7bc4fe9a6d6c8c0978?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1e0dc87a06890c847846429a52114819195bb2da",
+      "release_date": "2005-10-07"
+    },
+    {
+      "featuredArtist": "Nino Garris",
+      "featuredArtistId": "23eFx3NMjVtzA2cYhJCJ8D",
+      "trackName": "Kling wie du",
+      "trackId": "7KfbqVzkEq4Ecz2ZTCuCdq",
+      "preview": "https://p.scdn.co/mp3-preview/704899041cc2914295c41736d1cdf781fa719245?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1e0dc87a06890c847846429a52114819195bb2da",
+      "release_date": "2005-10-07"
+    },
+    {
+      "featuredArtist": "MOK",
+      "featuredArtistId": "1JSEsx3FcQHEVWomVedVfU",
+      "trackName": "Die Sekte Und SRK",
+      "trackId": "7EK4V3eacGUGdguJvxbJKP",
+      "preview": "https://p.scdn.co/mp3-preview/277f071418a436a2fb2ec726f6a8957200514d3d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1e0dc87a06890c847846429a52114819195bb2da",
+      "release_date": "2005-10-07"
+    },
+    {
+      "featuredArtist": "Tony Tone",
+      "featuredArtistId": "6subdr1to7SgyVLIL4stPX",
+      "trackName": "Die Sekte Und SRK",
+      "trackId": "7EK4V3eacGUGdguJvxbJKP",
+      "preview": "https://p.scdn.co/mp3-preview/277f071418a436a2fb2ec726f6a8957200514d3d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1e0dc87a06890c847846429a52114819195bb2da",
+      "release_date": "2005-10-07"
+    },
+    {
+      "featuredArtist": "Said",
+      "featuredArtistId": "1wgIhm7dhhyPFBzSxfGR8b",
+      "trackName": "Die Sekte Und SRK",
+      "trackId": "7EK4V3eacGUGdguJvxbJKP",
+      "preview": "https://p.scdn.co/mp3-preview/277f071418a436a2fb2ec726f6a8957200514d3d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1e0dc87a06890c847846429a52114819195bb2da",
+      "release_date": "2005-10-07"
+    },
+    {
+      "featuredArtist": "Cisse",
+      "featuredArtistId": "48SXll69svPsCjbf9iO93a",
+      "trackName": "Die Sekte Und SRK",
+      "trackId": "7EK4V3eacGUGdguJvxbJKP",
+      "preview": "https://p.scdn.co/mp3-preview/277f071418a436a2fb2ec726f6a8957200514d3d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1e0dc87a06890c847846429a52114819195bb2da",
+      "release_date": "2005-10-07"
+    },
+    {
+      "featuredArtist": "Tony",
+      "featuredArtistId": "370P5LHahZabxxt5zzSUZV",
+      "trackName": "Garnich so schlimm!",
+      "trackId": "5oaDec57K9pZDJrThOL31g",
+      "preview": "https://p.scdn.co/mp3-preview/3aba636cebe1fb41b20a01b2b5488a3b6428c42e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/96008004721aaa6262a269b04efcc98a6ec0cf37",
+      "release_date": "2003-08-04"
+    },
+    {
+      "featuredArtist": "MesU.T.",
+      "featuredArtistId": "2KCL6VqXPBOkWYTMR5Ur0b",
+      "trackName": "Alles oder nichts",
+      "trackId": "5m5Dp0iWmaJGh4ePWikRvX",
+      "preview": "https://p.scdn.co/mp3-preview/d59a9176e42ee435a166f6e624b2fc82383d33bc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/96008004721aaa6262a269b04efcc98a6ec0cf37",
+      "release_date": "2003-08-04"
+    },
+    {
+      "featuredArtist": "PSX",
+      "featuredArtistId": "69dRu3McVxYIVlGdVpw2uu",
+      "trackName": "Du weißt Bescheid - PSX Remix",
+      "trackId": "5P6GuGRRKGQY9f4wlETysO",
+      "preview": "https://p.scdn.co/mp3-preview/76e803289b093c087b637d941256822250c56fb7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aef4487a84ac544b23776a35aab1c9ab7cc58d30",
+      "release_date": "2002-05-13"
+    },
+    {
+      "featuredArtist": "Mesut",
+      "featuredArtistId": "7sn83l3bE72guBJiv5CAMh",
+      "trackName": "Passgenauauf",
+      "trackId": "1oMwcL7bphm67Mqq7ivUk6",
+      "preview": "https://p.scdn.co/mp3-preview/5fedc44101f9fad8672218dd481f8e0480377e6f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aef4487a84ac544b23776a35aab1c9ab7cc58d30",
+      "release_date": "2002-05-13"
+    },
+    {
+      "featuredArtist": "Bektas",
+      "featuredArtistId": "3vhvfnZFBOABVOX7XUBuH6",
+      "trackName": "Hör auf zu leben",
+      "trackId": "2STyIJva4vcqZUc62ytuB0",
+      "preview": "https://p.scdn.co/mp3-preview/78975709e418f15a7188b954f4a09e4d78f46a5c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aef4487a84ac544b23776a35aab1c9ab7cc58d30",
+      "release_date": "2002-05-13"
+    },
+    {
+      "featuredArtist": "Drew",
+      "featuredArtistId": "1plhUXSRe9eMoM7pj2hg8V",
+      "trackName": "Haltdichraus!",
+      "trackId": "1Zf82sf1GfH3PmGArgPEwX",
+      "preview": "https://p.scdn.co/mp3-preview/7b5da084bc712edd12c3324dad7283ecea4fc57b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aef4487a84ac544b23776a35aab1c9ab7cc58d30",
+      "release_date": "2002-05-13"
+    },
+    {
+      "featuredArtist": "Bendt",
+      "featuredArtistId": "5MiNdJtd2pYF9CiiX8emPc",
+      "trackName": "Aber Lan",
+      "trackId": "03ghlZy40mXxGDG8fzcEIq",
+      "preview": "https://p.scdn.co/mp3-preview/3cfbe2ae916ffffe34586b1dd52d9b79371fe090?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aef4487a84ac544b23776a35aab1c9ab7cc58d30",
+      "release_date": "2002-05-13"
+    },
+    {
+      "featuredArtist": "Atilla",
+      "featuredArtistId": "3LB10Cy46TnlCSxkwdU1hv",
+      "trackName": "G's & B's (Open Mic)",
+      "trackId": "3XVMPt7t9iyEYHhs55PJ5Y",
+      "preview": "https://p.scdn.co/mp3-preview/6a8a96b7638b064ac3879af25ca65d1b72bd3400?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aef4487a84ac544b23776a35aab1c9ab7cc58d30",
+      "release_date": "2002-05-13"
+    },
+    {
+      "featuredArtist": "Cipo",
+      "featuredArtistId": "4Sl1LKuv114uO49BhpQyu9",
+      "trackName": "G's & B's (Open Mic)",
+      "trackId": "3XVMPt7t9iyEYHhs55PJ5Y",
+      "preview": "https://p.scdn.co/mp3-preview/6a8a96b7638b064ac3879af25ca65d1b72bd3400?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aef4487a84ac544b23776a35aab1c9ab7cc58d30",
+      "release_date": "2002-05-13"
+    }
+  ]
+}

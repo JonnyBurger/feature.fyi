@@ -1,0 +1,32 @@
+{
+  "artistName": "Lily Allen",
+  "features": [
+    {
+      "featuredArtist": "Joshua Harvey",
+      "featuredArtistId": "0GvYkhi6vdI7fdiItnCcdh",
+      "trackName": "The Count (aka Hervé) And Lily Face The Fear",
+      "trackId": "1mbgWCvGHmZg1vAESHFMaU",
+      "preview": "https://p.scdn.co/mp3-preview/c77d5742a8d8835db31aabe1eb2faf61933627a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/452b7284621c1b89128b51197ed7438a9e757ed2",
+      "release_date": "2009-11-16"
+    },
+    {
+      "featuredArtist": "Linus Eklöw",
+      "featuredArtistId": "3JBf5foQJHncxoocxrM4WV",
+      "trackName": "Not Fair - Style Of Eye Remix",
+      "trackId": "6jsP1MAESUIlssRjl2kuCp",
+      "preview": "https://p.scdn.co/mp3-preview/85bc72f36c97fb34fae5fc261355e856c8ad8a1b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/452b7284621c1b89128b51197ed7438a9e757ed2",
+      "release_date": "2009-11-16"
+    },
+    {
+      "featuredArtist": "Ours",
+      "featuredArtistId": "4ejFPEH0usmNOKnk6l2l3H",
+      "trackName": "22 (feat. Ours)",
+      "trackId": "5wecZPxZ8bXccbo2jWhU3C",
+      "preview": "https://p.scdn.co/mp3-preview/a899d0d948163f48bd424822c634bc252c44546d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/452b7284621c1b89128b51197ed7438a9e757ed2",
+      "release_date": "2009-01-26"
+    }
+  ]
+}

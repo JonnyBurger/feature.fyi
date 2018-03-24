@@ -1,0 +1,41 @@
+{
+  "artistName": "Ina Wroldsen",
+  "features": [
+    {
+      "featuredArtist": "Jax Jones",
+      "featuredArtistId": "4Q6nIcaBED8qUel8bBx6Cr",
+      "trackName": "Breathe",
+      "trackId": "6tvQzeCPwOytDlBYCIOY0n",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ee9eaa648e8ed4ffc6cdc4b0db1be96ef94883cf",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Alan Walker",
+      "featuredArtistId": "7vk5e3vY1uw9plTHJAMwjN",
+      "trackName": "Strongest - Alan Walker Remix",
+      "trackId": "2r9hCNjupNy2C2g3r6SNz6",
+      "preview": "https://p.scdn.co/mp3-preview/49cd140c60e85a9cc563350de307d6556be4b12c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b943d43845e967388da5c0e169ef96c06c38925c",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Broiler",
+      "featuredArtistId": "3836OTICMPjhTMMcpPw4EC",
+      "trackName": "Lay It On Me - TDK Remix",
+      "trackId": "0JlksrLbi0AJTMVUsQ5v8k",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/95d91ac9260ef80f3cd481bfe2ffa7384ef189b7",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "TDK",
+      "featuredArtistId": "5Clu9Zqi4iZJGdLGkNEQms",
+      "trackName": "Lay It On Me - TDK Remix",
+      "trackId": "0JlksrLbi0AJTMVUsQ5v8k",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/95d91ac9260ef80f3cd481bfe2ffa7384ef189b7",
+      "release_date": "2016-06-17"
+    }
+  ]
+}

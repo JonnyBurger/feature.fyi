@@ -1,0 +1,518 @@
+{
+  "artistName": "Yo Gotti",
+  "features": [
+    {
+      "featuredArtist": "Nicki Minaj",
+      "featuredArtistId": "0hCNtLu0JehylgoiP8L4Gh",
+      "trackName": "Rake It Up",
+      "trackId": "4knL4iPxPOZjQzTUlELGSY",
+      "preview": "https://p.scdn.co/mp3-preview/38cc2e650376ae1a606ce952ad21a44dc73d8674?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/879a95183dfa9866e208fec57213c4a4e1018568",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Chris Brown",
+      "featuredArtistId": "7bXgB6jMjp9ATFy66eO08Z",
+      "trackName": "Save It for Me",
+      "trackId": "06zGABieonkb95GQTBb7Mz",
+      "preview": "https://p.scdn.co/mp3-preview/0c9ac2a2afa67d91eaed9c8116485f8c5db09494?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/879a95183dfa9866e208fec57213c4a4e1018568",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "YFN Lucci",
+      "featuredArtistId": "5Berubt6ysOy2LCMyqhmXP",
+      "trackName": "One on One",
+      "trackId": "4z4aIN7Pmo3rpumYH0krXf",
+      "preview": "https://p.scdn.co/mp3-preview/2cd0045849b992b2c4276fe6d245153af2c2fe73?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/879a95183dfa9866e208fec57213c4a4e1018568",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Meek Mill",
+      "featuredArtistId": "20sxb77xiYeusSH8cVdatc",
+      "trackName": "One on One",
+      "trackId": "4z4aIN7Pmo3rpumYH0krXf",
+      "preview": "https://p.scdn.co/mp3-preview/2cd0045849b992b2c4276fe6d245153af2c2fe73?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/879a95183dfa9866e208fec57213c4a4e1018568",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "French Montana",
+      "featuredArtistId": "6vXTefBL93Dj5IqAWq6OTv",
+      "trackName": "Oh Yeah",
+      "trackId": "0p0xkRvMgGMlJhJzo2CuJk",
+      "preview": "https://p.scdn.co/mp3-preview/ec2542022f1458430f5da00f3fa92ca23026e2b0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/879a95183dfa9866e208fec57213c4a4e1018568",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "21 Savage",
+      "featuredArtistId": "1URnnhqYAYcrqrcwql10ft",
+      "trackName": "Yellow Tape",
+      "trackId": "0dI3G3tjLkyLOwqQebIFUO",
+      "preview": "https://p.scdn.co/mp3-preview/78159cb428cb906e2b6d1cca50af556cf88b25a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/879a95183dfa9866e208fec57213c4a4e1018568",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Ink",
+      "featuredArtistId": "37JsC7B8cn5BkNzFrV9Px4",
+      "trackName": "Power of Money",
+      "trackId": "26z0PyPWLQNDByatk2GRuJ",
+      "preview": "https://p.scdn.co/mp3-preview/84f4546456c2c9b2520fa9811aad3798eb865a72?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/336e12ef17bc2a3b496f4aca1e9eaef4dc863bfd",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "LunchMoney Lewis",
+      "featuredArtistId": "2iUbk5KhZYZt4CRvWbwb7S",
+      "trackName": "Lifestyle",
+      "trackId": "2R9KA2YmSk4GZ9EJ1n2OFY",
+      "preview": "https://p.scdn.co/mp3-preview/79a695e0066a6b3ea52b407f6d9b485e8232edce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/336e12ef17bc2a3b496f4aca1e9eaef4dc863bfd",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "Kodak Black",
+      "featuredArtistId": "46SHBwWsqBkxI7EeeBEQG7",
+      "trackName": "Weatherman",
+      "trackId": "1X7vn3wK94zWTqV8lngq95",
+      "preview": "https://p.scdn.co/mp3-preview/ed1895b2615d0efe1ff3a1d9cf9e8cdfc4ddc671?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/336e12ef17bc2a3b496f4aca1e9eaef4dc863bfd",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "DJ Khaled",
+      "featuredArtistId": "0QHgL1lAIqAw0HtD7YldmP",
+      "trackName": "I Remember",
+      "trackId": "11ZJjtd9pgNBsNbNpywUJD",
+      "preview": "https://p.scdn.co/mp3-preview/a3a5493bc45a35515eb9d46430e98fdacd8eecaf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/336e12ef17bc2a3b496f4aca1e9eaef4dc863bfd",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "Kanye West",
+      "featuredArtistId": "5K4W6rqBFWDnAN6FQUkS6x",
+      "trackName": "Castro",
+      "trackId": "0rHJxNaQRMGK6Y4TUx3xRO",
+      "preview": "https://p.scdn.co/mp3-preview/17e77aed1602db129e4c33d66dc0b8a930a43ea5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/336e12ef17bc2a3b496f4aca1e9eaef4dc863bfd",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "Big Sean",
+      "featuredArtistId": "0c173mlxpT3dSFRgMO8XPh",
+      "trackName": "Castro",
+      "trackId": "0rHJxNaQRMGK6Y4TUx3xRO",
+      "preview": "https://p.scdn.co/mp3-preview/17e77aed1602db129e4c33d66dc0b8a930a43ea5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/336e12ef17bc2a3b496f4aca1e9eaef4dc863bfd",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "Quavo",
+      "featuredArtistId": "0VRj0yCOv2FXJNP47XQnx5",
+      "trackName": "Castro",
+      "trackId": "0rHJxNaQRMGK6Y4TUx3xRO",
+      "preview": "https://p.scdn.co/mp3-preview/17e77aed1602db129e4c33d66dc0b8a930a43ea5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/336e12ef17bc2a3b496f4aca1e9eaef4dc863bfd",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "2 Chainz",
+      "featuredArtistId": "17lzZA2AlOHwCwFALHttmp",
+      "trackName": "Castro",
+      "trackId": "0rHJxNaQRMGK6Y4TUx3xRO",
+      "preview": "https://p.scdn.co/mp3-preview/17e77aed1602db129e4c33d66dc0b8a930a43ea5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/336e12ef17bc2a3b496f4aca1e9eaef4dc863bfd",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "Blac Youngsta",
+      "featuredArtistId": "41klVmDluQZmGGqoidNfbe",
+      "trackName": "Free Lunch",
+      "trackId": "4h0rWy3JbHyWHCgeTLO8ub",
+      "preview": "https://p.scdn.co/mp3-preview/06257ff4583b5938ed9308be9c48b484bb404860?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/336e12ef17bc2a3b496f4aca1e9eaef4dc863bfd",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "Moneybagg Yo",
+      "featuredArtistId": "3tJoFztHeIJkJWMrx0td2f",
+      "trackName": "Can't Do It",
+      "trackId": "2GU5I7OQ8PtkLScEjTmcok",
+      "preview": "https://p.scdn.co/mp3-preview/fca7bca32740ca9a820ee89cb2edc3e24240ddbc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29a27ea86f3a34e45bb423f9cf7ac8b6e20abee2",
+      "release_date": "2016-11-04"
+    },
+    {
+      "featuredArtist": "K. Michelle",
+      "featuredArtistId": "2retT7MFwHDVTeGKDdybEx",
+      "trackName": "My City",
+      "trackId": "7FB5GWffHejisEp6HZ9Bwr",
+      "preview": "https://p.scdn.co/mp3-preview/0b5085d2bd0236d6259b5538e7ffb12aad566f2b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/593eb98955ff3e8f1e364ac627b4270c2a532104",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Lil Wayne",
+      "featuredArtistId": "55Aa2cqylxrFIXC767Z865",
+      "trackName": "Bible",
+      "trackId": "4VksxNeObBK9aaWMc6ZXK8",
+      "preview": "https://p.scdn.co/mp3-preview/f27fe647c86db34526c5d980644c85c9dae27a77?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/593eb98955ff3e8f1e364ac627b4270c2a532104",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "E-40",
+      "featuredArtistId": "3crnzLy8R4lVwaigKEOz7V",
+      "trackName": "Law",
+      "trackId": "7mhk9WyqZZzvTTCQKfh2iV",
+      "preview": "https://p.scdn.co/mp3-preview/3b956290a35d512849acaf8ba4f31dae5cdf28ce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/593eb98955ff3e8f1e364ac627b4270c2a532104",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Timbaland",
+      "featuredArtistId": "5Y5TRrQiqgUO4S36tzjIRZ",
+      "trackName": "Smile",
+      "trackId": "5Spjpne6Of1zxBpqcZHZIf",
+      "preview": "https://p.scdn.co/mp3-preview/5c52d0f43185b80181707e35586757ed6d8e2445?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/593eb98955ff3e8f1e364ac627b4270c2a532104",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Future",
+      "featuredArtistId": "1RyvyyTE3xzB2ZywiAwp0i",
+      "trackName": "General",
+      "trackId": "3AEApBFbT5Gx0muD5vNqDH",
+      "preview": "https://p.scdn.co/mp3-preview/f7d4a9d4bce70297eb79711b949468f31eefec7c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/593eb98955ff3e8f1e364ac627b4270c2a532104",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Pusha T",
+      "featuredArtistId": "0ONHkAv9pCAFxb0zJwDNTy",
+      "trackName": "Hunnid",
+      "trackId": "3tWlMND2vBl4alTGCoyYsH",
+      "preview": "https://p.scdn.co/mp3-preview/4fb7cd18a0fc087bb199ad23fa740fa5cd1100eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/593eb98955ff3e8f1e364ac627b4270c2a532104",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "DJ Smallz",
+      "featuredArtistId": "7xZeKNfo16bYxvEcnDBjuF",
+      "trackName": "Intro",
+      "trackId": "0rz5wo4WGloQqz8aCICRhA",
+      "preview": "https://p.scdn.co/mp3-preview/d05916c2671ba8a3b0eb1a6c172c00da3a17baa3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f28858bce82454eb9f6f564644f1f06b8fa43465",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "Gucci Mane",
+      "featuredArtistId": "13y7CgLHjMVRMDqxdx0Xdo",
+      "trackName": "Pure Cocaine",
+      "trackId": "1mvA4D6RRtWPUGMetIK3BR",
+      "preview": "https://p.scdn.co/mp3-preview/f0145ece5e14437deaf75adef191d9a081973302?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f28858bce82454eb9f6f564644f1f06b8fa43465",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "Young Cash",
+      "featuredArtistId": "0SY9EobiFWDqxhC2h1RNNg",
+      "trackName": "Pure Cocaine",
+      "trackId": "1mvA4D6RRtWPUGMetIK3BR",
+      "preview": "https://p.scdn.co/mp3-preview/f0145ece5e14437deaf75adef191d9a081973302?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f28858bce82454eb9f6f564644f1f06b8fa43465",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "Juelz Santana",
+      "featuredArtistId": "6Uh8uJyN9g7oFjDK16nJgb",
+      "trackName": "Aww Man",
+      "trackId": "33HqPCE4SumxRjQ8tGCjh4",
+      "preview": "https://p.scdn.co/mp3-preview/ae40c1511deb625220521bac4ef2daada6972859?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f28858bce82454eb9f6f564644f1f06b8fa43465",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "Birdman",
+      "featuredArtistId": "35sCXuy5gN6Or69rZ9vqBs",
+      "trackName": "We Gangsta",
+      "trackId": "3wdk1xVAJLZMyy5hViWMZs",
+      "preview": "https://p.scdn.co/mp3-preview/fafeb14a4f7c350b9babcec574eb2cb9009af87d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f28858bce82454eb9f6f564644f1f06b8fa43465",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "All Star",
+      "featuredArtistId": "2pIAY2s8wWRiV9VlkdAsJ3",
+      "trackName": "We Gangsta",
+      "trackId": "3wdk1xVAJLZMyy5hViWMZs",
+      "preview": "https://p.scdn.co/mp3-preview/fafeb14a4f7c350b9babcec574eb2cb9009af87d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f28858bce82454eb9f6f564644f1f06b8fa43465",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "Boosie Badazz",
+      "featuredArtistId": "6z7xFFHxYkE9t8bwIF0Bvg",
+      "trackName": "Keep It Gangsta",
+      "trackId": "3PGzBq9h2yS073ClDAeFiP",
+      "preview": "https://p.scdn.co/mp3-preview/9a7d6ea383a08cdf499502e0c427417c3ca67f27?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f28858bce82454eb9f6f564644f1f06b8fa43465",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "Webbie",
+      "featuredArtistId": "6aIm51fHkokqlJn2vzNTH8",
+      "trackName": "Keep It Gangsta",
+      "trackId": "3PGzBq9h2yS073ClDAeFiP",
+      "preview": "https://p.scdn.co/mp3-preview/9a7d6ea383a08cdf499502e0c427417c3ca67f27?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f28858bce82454eb9f6f564644f1f06b8fa43465",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "Pleasure P",
+      "featuredArtistId": "6dROiL44pIQZVNZ6Bc0OJO",
+      "trackName": "Lets Vibe",
+      "trackId": "776qrcSHvyK2KUCI5hiL0Y",
+      "preview": "https://p.scdn.co/mp3-preview/364715c284b4cbf9944ea219d6711be68a917ac5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f28858bce82454eb9f6f564644f1f06b8fa43465",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "Bohagon",
+      "featuredArtistId": "4z9vT1dkrovMxFPrEnbkP4",
+      "trackName": "What It Is",
+      "trackId": "5M03PaB5kmlcE6nrePgZ5R",
+      "preview": "https://p.scdn.co/mp3-preview/e6aab1019b1db7ed969759768b3d29af04d01eda?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f28858bce82454eb9f6f564644f1f06b8fa43465",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "Zed Zilla",
+      "featuredArtistId": "5ygIMAnMVdeTje3JtDjUTU",
+      "trackName": "Both Sides",
+      "trackId": "4OfJH7SvtSmOXGgH7PyFG7",
+      "preview": "https://p.scdn.co/mp3-preview/85538892d6b5377ff42e3380a570052a8acb2d29?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/649a9e4a6a36dea433080f516eb944f1c7d67f42",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "Yung L.A",
+      "featuredArtistId": "7A7J1ApUbEeyPUKL80NnmJ",
+      "trackName": "Any Nigga",
+      "trackId": "0JtPYH0T8RQ3cqbXKsDyvA",
+      "preview": "https://p.scdn.co/mp3-preview/9efbbd0dd2b37b71993ac7964ae6178577c5cbba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/649a9e4a6a36dea433080f516eb944f1c7d67f42",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "J.Futuristic",
+      "featuredArtistId": "0Crgj0BS4ILd8XkSrIGz5z",
+      "trackName": "Any Nigga",
+      "trackId": "0JtPYH0T8RQ3cqbXKsDyvA",
+      "preview": "https://p.scdn.co/mp3-preview/9efbbd0dd2b37b71993ac7964ae6178577c5cbba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/649a9e4a6a36dea433080f516eb944f1c7d67f42",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "Allstar",
+      "featuredArtistId": "2tK9SJjQzrPGo81grge1vi",
+      "trackName": "Spend It Cuz We Got It",
+      "trackId": "2UTOF8UGkrFSZnyWNmXkua",
+      "preview": "https://p.scdn.co/mp3-preview/b2c05076ff466aaa4d44f2c59de36918ce35705e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1e7f173e61357b6779bc44fd3886be903a7793f6",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "La Chat",
+      "featuredArtistId": "5hDwYJ7KaXEQV2XBeijKNt",
+      "trackName": "Drop It Off",
+      "trackId": "5GZT3GOwZS8Ik897adUPUy",
+      "preview": "https://p.scdn.co/mp3-preview/99240b7924311cc51408d4895f507762ab6a60b9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1e7f173e61357b6779bc44fd3886be903a7793f6",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "The Block Burnaz",
+      "featuredArtistId": "146fFeoWTge6v0I2aErSYc",
+      "trackName": "Work Hard Play Hard",
+      "trackId": "3ibW1VGhgFSBmbkTLbIfpg",
+      "preview": "https://p.scdn.co/mp3-preview/f5285ead27417cd2f2ab8916183d61a95a3d59b1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1e7f173e61357b6779bc44fd3886be903a7793f6",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "Slim Thug",
+      "featuredArtistId": "0st5vgzw9XkH5ALJiUM1lE",
+      "trackName": "Lean on Me Re1",
+      "trackId": "08ouR5AXMm4lLBvSs7WoPu",
+      "preview": "https://p.scdn.co/mp3-preview/1e43bf7b8df4e81c06ccb1385f2c21768aebec1e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1e7f173e61357b6779bc44fd3886be903a7793f6",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "Lil Keke",
+      "featuredArtistId": "1grI9x4Uzos1Asx8JmRW6T",
+      "trackName": "Lean on Me Re1",
+      "trackId": "08ouR5AXMm4lLBvSs7WoPu",
+      "preview": "https://p.scdn.co/mp3-preview/1e43bf7b8df4e81c06ccb1385f2c21768aebec1e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1e7f173e61357b6779bc44fd3886be903a7793f6",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "Young Buck",
+      "featuredArtistId": "4pr7J7wzgObkE3DD3Izi7q",
+      "trackName": "Gangsta Party - Remix",
+      "trackId": "2lxPGJA3LHMTqpjQsehftu",
+      "preview": "https://p.scdn.co/mp3-preview/207d49375ee92dbafeb3ac5b27c4f985da293d5a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1e7f173e61357b6779bc44fd3886be903a7793f6",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "Sylver Karatz",
+      "featuredArtistId": "6yS57ExnlRwkcWaQb2X9ir",
+      "trackName": "Kill Dem Hoes",
+      "trackId": "2TynYNO46r9ZtuG9EkbPqF",
+      "preview": "https://p.scdn.co/mp3-preview/3951b7747f3335ab7335654f4f37954bda5b1f43?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b10665639416ffcbe7a94c03d3867813303d0e0b",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "DJ Drama",
+      "featuredArtistId": "5oNgAs7j5XcBMzWv3HAnHG",
+      "trackName": "Breathe Freestyle",
+      "trackId": "18hivafneeFWH2PkU5i4st",
+      "preview": "https://p.scdn.co/mp3-preview/e0897be208c5a9034aa498fa96489aab274e293d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b05d586a12bf6efc59b01520fb60c00ec07faf6b",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "Snootie",
+      "featuredArtistId": "2sMutPN70DeY43dOkZbNmE",
+      "trackName": "Yayo",
+      "trackId": "6iZAmCxnGmoMraKoS7Dtz4",
+      "preview": "https://p.scdn.co/mp3-preview/3c69bf9fce833efe04c43220a226fa81cc41466b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b05d586a12bf6efc59b01520fb60c00ec07faf6b",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "Jordan Hollywood",
+      "featuredArtistId": "1mGW7MpR3kesskLHY3Q5WX",
+      "trackName": "10 Shots",
+      "trackId": "4wvNAzeRPjwMJ8DfBKYoyh",
+      "preview": "https://p.scdn.co/mp3-preview/9c127023790787c05643bc456c0001b113ecea6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b05d586a12bf6efc59b01520fb60c00ec07faf6b",
+      "release_date": "2015-11-24"
+    },
+    {
+      "featuredArtist": "Starlito",
+      "featuredArtistId": "4SjND9kT6Ja5TSPZTyUUab",
+      "trackName": "Who Want It",
+      "trackId": "1whcNocmjt8sH5DFMaXwO6",
+      "preview": "https://p.scdn.co/mp3-preview/92315cc4396ad8c880ea5d0fd32fd58327fed87a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1b3e2e89f5709d0197000e14cc2e6f3d7d0f2d4e",
+      "release_date": "2015-11-19"
+    },
+    {
+      "featuredArtist": "Jeezy",
+      "featuredArtistId": "4yBK75WVCQXej1p04GWqxH",
+      "trackName": "Four",
+      "trackId": "7EC8LYhR8QSiMekR82S9Ex",
+      "preview": "https://p.scdn.co/mp3-preview/5ff71c151321f6088ed02ab92084888891904576?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1b3e2e89f5709d0197000e14cc2e6f3d7d0f2d4e",
+      "release_date": "2015-11-19"
+    },
+    {
+      "featuredArtist": "Rick Ross",
+      "featuredArtistId": "1sBkRIssrMs1AbVkOJbc7a",
+      "trackName": "Cocaine Muzik",
+      "trackId": "2VxAf5Rlz3OXamHQ0D4IlW",
+      "preview": "https://p.scdn.co/mp3-preview/42e1d814686b25ffee79591f29af4ded9c2c1425?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5870c7a3bcc5b30ebbaf6369ecb43fd637376d8b",
+      "release_date": "2015-11-19"
+    },
+    {
+      "featuredArtist": "The Clipse",
+      "featuredArtistId": "1CaP9UeUvBtkvYvZzzcspL",
+      "trackName": "Cocaine Muzik",
+      "trackId": "2VxAf5Rlz3OXamHQ0D4IlW",
+      "preview": "https://p.scdn.co/mp3-preview/42e1d814686b25ffee79591f29af4ded9c2c1425?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5870c7a3bcc5b30ebbaf6369ecb43fd637376d8b",
+      "release_date": "2015-11-19"
+    },
+    {
+      "featuredArtist": "Waka Flocka Flame",
+      "featuredArtistId": "6f4XkbvYlXMH0QgVRzW0sM",
+      "trackName": "Blow Your Ass Off",
+      "trackId": "5cRHbtLd5Y5yKfu8OmHm1P",
+      "preview": "https://p.scdn.co/mp3-preview/4caff352997b578f70ea1962891ac43b41c8093c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/93aceb1b8d312ad5ef4c95f96b508c246e340e87",
+      "release_date": "2015-11-19"
+    },
+    {
+      "featuredArtist": "D'Nero",
+      "featuredArtistId": "1c1kLf2ROgbIWccfcxCYqW",
+      "trackName": "Sweet Dreams",
+      "trackId": "17UkHJAbZIHSveBsEURY7a",
+      "preview": "https://p.scdn.co/mp3-preview/4b53278bba72ad1b6bbfc037641afbaef771edb7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/93aceb1b8d312ad5ef4c95f96b508c246e340e87",
+      "release_date": "2015-11-19"
+    },
+    {
+      "featuredArtist": "Ciara",
+      "featuredArtistId": "2NdeV5rLm47xAvogXrYhJX",
+      "trackName": "We Can Get It On",
+      "trackId": "321iFivBBJcl6I2MEQnhec",
+      "preview": "https://p.scdn.co/mp3-preview/1d915397431afc48d575a0572d275a83e7feee0e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/93aceb1b8d312ad5ef4c95f96b508c246e340e87",
+      "release_date": "2015-11-19"
+    },
+    {
+      "featuredArtist": "Jadakiss",
+      "featuredArtistId": "5pnbUBPifNnlusY8kTBivi",
+      "trackName": "Ain't No Turning Around",
+      "trackId": "108siL21F5k3wbFsBtQEjV",
+      "preview": "https://p.scdn.co/mp3-preview/4effa50b6bfc9cdeb098da2b51663664441e0603?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1b6007db800cd946089841754e5871317e6423c5",
+      "release_date": "2015-11-19"
+    },
+    {
+      "featuredArtist": "Drama",
+      "featuredArtistId": "5ke2DqyhNpgK6HqKBrgS8E",
+      "trackName": "Every Chance I Get",
+      "trackId": "3woZTI8AhMmA4Pgp4syBCk",
+      "preview": "https://p.scdn.co/mp3-preview/b65e84094998694d0e65f17a40bd439388438658?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/75045f091f855ad27610bd967a5a99993fdf5a2d",
+      "release_date": "2015-11-19"
+    },
+    {
+      "featuredArtist": "Lil Scrappy",
+      "featuredArtistId": "5einkgXXrjhfYCyac1FANB",
+      "trackName": "Everybody Quiet (feat. Lil Scrappy)",
+      "trackId": "10Yb58p9msYzzFPxePwHi5",
+      "preview": "https://p.scdn.co/mp3-preview/720af527dfa49c32896ec47bc1347a6d9d091e4f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/caec24a618095ce41b695d13ef467d0b0ac6966f",
+      "release_date": "2015-10-20"
+    },
+    {
+      "featuredArtist": "OJ Da Juiceman",
+      "featuredArtistId": "0t5qZrvVCo9YIUT87SQrTn",
+      "trackName": "She’s Weak (feat. OJ Da Juiceman)",
+      "trackId": "3jPtbrmgs2lgUvxFS711i5",
+      "preview": "https://p.scdn.co/mp3-preview/324ea2bfedd7df39d4505a99a3240947e92e8b4e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/caec24a618095ce41b695d13ef467d0b0ac6966f",
+      "release_date": "2015-10-20"
+    },
+    {
+      "featuredArtist": "Fetty Wap",
+      "featuredArtistId": "6PXS4YHDkKvl1wkIl4V8DL",
+      "trackName": "Tell Me",
+      "trackId": "1E8E8pWmr362hW30OsFOAk",
+      "preview": "https://p.scdn.co/mp3-preview/8aae2bf4b5904a68252533548ce277ab64b2b9e3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ceb928c37adc403f075c0f9d72b6a35caf798037",
+      "release_date": "2015-09-11"
+    }
+  ]
+}

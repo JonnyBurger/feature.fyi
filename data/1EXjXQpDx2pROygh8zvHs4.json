@@ -1,0 +1,50 @@
+{
+  "artistName": "Melendi",
+  "features": [
+    {
+      "featuredArtist": "Carlos Vives",
+      "featuredArtistId": "4vhNDa5ycK0ST968ek7kRr",
+      "trackName": "El Arrepentido",
+      "trackId": "42uFuC0Ob1JykwGlcrllDl",
+      "preview": "https://p.scdn.co/mp3-preview/1b3cb74fc8b5bc8b97ae147211036878d7a2cd9c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9ecd4c33b1ad64645f2f93deede13374f6c28e9",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Alejandro Sanz",
+      "featuredArtistId": "5sUrlPAHlS9NEirDB8SEbF",
+      "trackName": "Déjala Que Baile",
+      "trackId": "2KK9N6iBAisA0booTu3bGd",
+      "preview": "https://p.scdn.co/mp3-preview/330975ffaa921235ab1a9fca0f57f1b2b87db2ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9ecd4c33b1ad64645f2f93deede13374f6c28e9",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Arkano",
+      "featuredArtistId": "5ACyfaynUH9FpBaR8uZprQ",
+      "trackName": "Déjala Que Baile",
+      "trackId": "2KK9N6iBAisA0booTu3bGd",
+      "preview": "https://p.scdn.co/mp3-preview/330975ffaa921235ab1a9fca0f57f1b2b87db2ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9ecd4c33b1ad64645f2f93deede13374f6c28e9",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Ha*Ash",
+      "featuredArtistId": "5xd2Tg7Zo8755eCy8Gxkp8",
+      "trackName": "Destino o casualidad (feat. Ha-Ash)",
+      "trackId": "0Y780giEcTd5C75ZZm1yCe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fc736338fe052b61f60eb763e8c2beb1dc438b5c",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "ChocQuibTown",
+      "featuredArtistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "Mi Mayor Fortuna",
+      "trackId": "2ohQN4UOfgXGwtF2ISUkFb",
+      "preview": "https://p.scdn.co/mp3-preview/88cebdcd7f5beb4097a4ce23c47407f7c2b43a68?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49a210e8d1d49e7aa6d56e03066b30cc3135397d",
+      "release_date": "2016-11-11"
+    }
+  ]
+}

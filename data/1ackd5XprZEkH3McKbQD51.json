@@ -1,0 +1,617 @@
+{
+  "artistName": "Juan Magán",
+  "features": [
+    {
+      "featuredArtist": "Nayer",
+      "featuredArtistId": "1ruutHJcECI7cos2n5TqpO",
+      "trackName": "Latina En Ibiza",
+      "trackId": "2eKtvC7qQ94kzGbki5bnHA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/92bc60ca75c425d200646b7f88786dd5764dd521",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Dasoul",
+      "featuredArtistId": "0lNg9YtW8USxeZZnEqz3RQ",
+      "trackName": "Latina En Ibiza",
+      "trackId": "2eKtvC7qQ94kzGbki5bnHA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/92bc60ca75c425d200646b7f88786dd5764dd521",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Lafame",
+      "featuredArtistId": "2ap4aQTG8zcKmzRjqlVmMd",
+      "trackName": "Contéstale",
+      "trackId": "4DUwFzP5kpIriRy7JSezVM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/92bc60ca75c425d200646b7f88786dd5764dd521",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Micha",
+      "featuredArtistId": "1C4V1yVMnEg7OdwrOnAsPu",
+      "trackName": "Contéstale",
+      "trackId": "4DUwFzP5kpIriRy7JSezVM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/92bc60ca75c425d200646b7f88786dd5764dd521",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Mozart La Para",
+      "featuredArtistId": "0odliLZMTk45CEVzF3Zocl",
+      "trackName": "Soy Un Don",
+      "trackId": "0f7hD4LbGB8GZ67LrgZJZQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/92bc60ca75c425d200646b7f88786dd5764dd521",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "DCS",
+      "featuredArtistId": "0JEkNB86dtSUW9Gq1BNuJM",
+      "trackName": "Soy Un Don",
+      "trackId": "0f7hD4LbGB8GZ67LrgZJZQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/92bc60ca75c425d200646b7f88786dd5764dd521",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Samo",
+      "featuredArtistId": "68QUssU8KffP7KmgO3Z6Ye",
+      "trackName": "Dame Tu Amor",
+      "trackId": "54JqzuOWBUuBRJCdfZNPwB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/92bc60ca75c425d200646b7f88786dd5764dd521",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Luciana",
+      "featuredArtistId": "4ugGMtXC28CVR5hlYJy9wV",
+      "trackName": "Baila Conmigo",
+      "trackId": "772io14jrMTxGJbijtDccQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/92bc60ca75c425d200646b7f88786dd5764dd521",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Jhoni The Voice",
+      "featuredArtistId": "6grrtSwMegDAZVtJgUQtJl",
+      "trackName": "Única",
+      "trackId": "46eh1dLpBHR4UKvYHBX4Ef",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/92bc60ca75c425d200646b7f88786dd5764dd521",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Micha",
+      "featuredArtistId": "5fjXwEPUkg5ucxmw4TpurV",
+      "trackName": "Contéstale",
+      "trackId": "2Ji12OmQSnAr2KcUQIwgrC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dba5969a75fdebe9dd99cd4af8592750592da033",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "DCS",
+      "featuredArtistId": "7s02NaYKlhBogAMJ94W8CW",
+      "trackName": "Soy Un Don",
+      "trackId": "7toR0V2tWDjzMPSUOqITjv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dba5969a75fdebe9dd99cd4af8592750592da033",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Luciana",
+      "featuredArtistId": "3Zr8dNu3neSH31shBBT9UM",
+      "trackName": "Baila Conmigo",
+      "trackId": "6qqG1BHZv1G8A80S7EYeBs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dba5969a75fdebe9dd99cd4af8592750592da033",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Paulina Rubio",
+      "featuredArtistId": "1d6dwipPrsFSJVmFTTdFSS",
+      "trackName": "Vuelve",
+      "trackId": "535Wgqb2M1WmqlkwUYsuWV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c89eec464f50b4f0c53e5dcee95a67e93c3b3f21",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Gente De Zona",
+      "featuredArtistId": "2cy1zPcrFcXAJTP0APWewL",
+      "trackName": "He Llorado (Como Un Niño)",
+      "trackId": "72iOihHEQp0LA0hZcjfLaA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c89eec464f50b4f0c53e5dcee95a67e93c3b3f21",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Belinda",
+      "featuredArtistId": "5LeiVcEnsZcwc133TUhJNW",
+      "trackName": "Si No Te Quisiera",
+      "trackId": "56J9sf5j7T8cPg1fOGmBRs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c89eec464f50b4f0c53e5dcee95a67e93c3b3f21",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Lapiz Conciente",
+      "featuredArtistId": "0UTsdD7VIsEB9i7a6DDx5t",
+      "trackName": "Si No Te Quisiera",
+      "trackId": "56J9sf5j7T8cPg1fOGmBRs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c89eec464f50b4f0c53e5dcee95a67e93c3b3f21",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "J Balvin",
+      "featuredArtistId": "1vyhD5VmyZ7KMfW5gqLgo5",
+      "trackName": "Mal De Amores",
+      "trackId": "0uolNhegIkj0Q5YBeZ1Yq2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c89eec464f50b4f0c53e5dcee95a67e93c3b3f21",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Zion & Lennox",
+      "featuredArtistId": "21451j1KhjAiaYKflxBjr1",
+      "trackName": "Falling In Love",
+      "trackId": "5ewZV6zU1OaECDosDl42TV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c89eec464f50b4f0c53e5dcee95a67e93c3b3f21",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Farruko",
+      "featuredArtistId": "329e4yvIujISKGKz1BZZbO",
+      "trackName": "Como El Viento",
+      "trackId": "0fgTvk1WYERr7HvLKHZSSm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c89eec464f50b4f0c53e5dcee95a67e93c3b3f21",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Sky Blu",
+      "featuredArtistId": "1h3Va3QBqMcvGWvNy7TLAg",
+      "trackName": "Maldito Jumo",
+      "trackId": "4Os2iDFsug1dlhPwTyruHL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c89eec464f50b4f0c53e5dcee95a67e93c3b3f21",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Sensato",
+      "featuredArtistId": "7iJrDbKM5fEkGdm5kpjFzS",
+      "trackName": "Maldito Jumo",
+      "trackId": "4Os2iDFsug1dlhPwTyruHL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c89eec464f50b4f0c53e5dcee95a67e93c3b3f21",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Victor Magan",
+      "featuredArtistId": "6alFyA4PruPsPkMVpXgKdO",
+      "trackName": "Maldito Jumo",
+      "trackId": "4Os2iDFsug1dlhPwTyruHL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c89eec464f50b4f0c53e5dcee95a67e93c3b3f21",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Reek Rude",
+      "featuredArtistId": "0DJaPnMcROzgcWONmdjjLK",
+      "trackName": "Maldito Jumo",
+      "trackId": "4Os2iDFsug1dlhPwTyruHL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c89eec464f50b4f0c53e5dcee95a67e93c3b3f21",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Maffio",
+      "featuredArtistId": "5RzT7CM6Ot0sh0EHefMicV",
+      "trackName": "Tentándome",
+      "trackId": "3jnw4c0qCQzSp3Ozmohp3a",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c89eec464f50b4f0c53e5dcee95a67e93c3b3f21",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Danny Romero",
+      "featuredArtistId": "30HlKUFTsqlFQsPfyv2yuM",
+      "trackName": "18 Años",
+      "trackId": "5E8Mf8Ywk6mCeuA1fN7H1q",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c89eec464f50b4f0c53e5dcee95a67e93c3b3f21",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Buxxi",
+      "featuredArtistId": "08Cb5OwPZ7SrS19MNYaHqz",
+      "trackName": "Te Quiero Conmigo",
+      "trackId": "6TJkBUOVvOxhXrrV06JINk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c89eec464f50b4f0c53e5dcee95a67e93c3b3f21",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "A-Killer & Manny Tun Tun",
+      "featuredArtistId": "5r1MKC1cfdufN98wDMylfS",
+      "trackName": "Puro Bla Bla Bla",
+      "trackId": "676Z3w5YbsoKfpSMvVrYQt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c89eec464f50b4f0c53e5dcee95a67e93c3b3f21",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Jo C",
+      "featuredArtistId": "6Qp2VzewvqOXT0TZRpN8pm",
+      "trackName": "Ratitos De Placer",
+      "trackId": "3yONP43fZ31DgoaTFbtwlh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c89eec464f50b4f0c53e5dcee95a67e93c3b3f21",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Enrique Iglesias",
+      "featuredArtistId": "7qG3b048QCHVRO5Pv1T5lw",
+      "trackName": "Noche Y De Día - Victor Magan Remix",
+      "trackId": "64LvsgRo6CoTV3q4vpQB9B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c89eec464f50b4f0c53e5dcee95a67e93c3b3f21",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Yandel",
+      "featuredArtistId": "0eHQ9o50hj6ZDNBt6Ys1sD",
+      "trackName": "Noche Y De Día - Victor Magan Remix",
+      "trackId": "64LvsgRo6CoTV3q4vpQB9B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c89eec464f50b4f0c53e5dcee95a67e93c3b3f21",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "DCS",
+      "featuredArtistId": "13hkFKVdPgtSvL1M0ia18q",
+      "trackName": "Vuelve",
+      "trackId": "1mNJT19BzMjOoUrxSUp0xi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/782d8f689b6a732bf9c7c5c62615a168a34d1afc",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Sensato",
+      "featuredArtistId": "2v2Hl9vbm7iRhKOEbYjfFT",
+      "trackName": "Maldito Jumo",
+      "trackId": "7yxWJYrISknIpjwtVSVUa8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/782d8f689b6a732bf9c7c5c62615a168a34d1afc",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Aridian",
+      "featuredArtistId": "4AeKTgK9RtxWNTDSQRRgzV",
+      "trackName": "20 Años",
+      "trackId": "476hhPH9mmedGRNsvAtnQD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/572578854df2cedf47352aab5dc017453614d3d7",
+      "release_date": "2013-07-22"
+    },
+    {
+      "featuredArtist": "PeeWee",
+      "featuredArtistId": "34w2CxXOMbQeaIkoKDiJhp",
+      "trackName": "Lo Que Me Pasa",
+      "trackId": "4UJL3cPGa4d4vwAKA4oyP5",
+      "preview": "https://p.scdn.co/mp3-preview/b1d687cc7af453107e1b0c126fc11d6a38c2b1c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/22250bcf309204a2e5f7b31acdfdeb7238396cca",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Don Omar",
+      "featuredArtistId": "33ScadVnbm2X8kkUqOkC6Z",
+      "trackName": "Ella No Sigue Modas",
+      "trackId": "75Bw1oAGH3uPGVwIPBxRrw",
+      "preview": "https://p.scdn.co/mp3-preview/207f893bdfce359b1a9c2b612310c89f251a05d9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/22250bcf309204a2e5f7b31acdfdeb7238396cca",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Gocho",
+      "featuredArtistId": "1E2ZsvpZKP4qMPNARv36W5",
+      "trackName": "Fiesta",
+      "trackId": "1vo83lbRzj5m5RPCSbTBGB",
+      "preview": "https://p.scdn.co/mp3-preview/9345ed073210b57276c92651f9cfd5f182f14003?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/22250bcf309204a2e5f7b31acdfdeb7238396cca",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Fuego",
+      "featuredArtistId": "7wU2WGCJ8HxkekHHE2QLul",
+      "trackName": "Te Soñe",
+      "trackId": "1NSbx7spvwr3Tcutft7MMD",
+      "preview": "https://p.scdn.co/mp3-preview/915cdd2108c849b6a9013c46f1ecf20bc0fa830c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/22250bcf309204a2e5f7b31acdfdeb7238396cca",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Grupo Extra",
+      "featuredArtistId": "4L5SLCIDWPPNGzrLraYCOS",
+      "trackName": "Te Soñe",
+      "trackId": "1NSbx7spvwr3Tcutft7MMD",
+      "preview": "https://p.scdn.co/mp3-preview/915cdd2108c849b6a9013c46f1ecf20bc0fa830c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/22250bcf309204a2e5f7b31acdfdeb7238396cca",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Denis Naidanow",
+      "featuredArtistId": "6bpaXj4NWQQcITuNAxz2Hk",
+      "trackName": "Shuri Shuri (Let's Get Loco)",
+      "trackId": "6xmMYG0TkZLjJcR2LNgSmS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/22250bcf309204a2e5f7b31acdfdeb7238396cca",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Lil Jon",
+      "featuredArtistId": "7sfl4Xt5KmfyDs2T3SVSMK",
+      "trackName": "Shuri Shuri (Let's Get Loco)",
+      "trackId": "6xmMYG0TkZLjJcR2LNgSmS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/22250bcf309204a2e5f7b31acdfdeb7238396cca",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Baby Bash",
+      "featuredArtistId": "12PSlydMSjEHzSCj9X5qv7",
+      "trackName": "Shuri Shuri (Let's Get Loco)",
+      "trackId": "6xmMYG0TkZLjJcR2LNgSmS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/22250bcf309204a2e5f7b31acdfdeb7238396cca",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Pitbull",
+      "featuredArtistId": "0TnOYISbd1XYRBk9myaseg",
+      "trackName": "Bailando por el Mundo",
+      "trackId": "5S8k4eRnuQVKBKRmnjhndc",
+      "preview": "https://p.scdn.co/mp3-preview/03690b70911b8b1d7708a1b888063557c35f4d71?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/22250bcf309204a2e5f7b31acdfdeb7238396cca",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "El Cata",
+      "featuredArtistId": "52aHqEQZ802daFzuMHfcES",
+      "trackName": "Bailando por el Mundo",
+      "trackId": "5S8k4eRnuQVKBKRmnjhndc",
+      "preview": "https://p.scdn.co/mp3-preview/03690b70911b8b1d7708a1b888063557c35f4d71?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/22250bcf309204a2e5f7b31acdfdeb7238396cca",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Crossfire",
+      "featuredArtistId": "5FjLalodJFIdREt5JFZtWH",
+      "trackName": "Lady Loca",
+      "trackId": "6kaIwtwB0WzfNfDLp8SO8v",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/22250bcf309204a2e5f7b31acdfdeb7238396cca",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Salgado",
+      "featuredArtistId": "5Z09V5ytr1lURpgehSAPRx",
+      "trackName": "Chica Latina",
+      "trackId": "2Qxks8Ku4LFGjskoOtHi4O",
+      "preview": "https://p.scdn.co/mp3-preview/a81808f843c4a353d56cbc2baf9ad54b851d93f3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/22250bcf309204a2e5f7b31acdfdeb7238396cca",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Luis López",
+      "featuredArtistId": "0LfgcdlfcwBrFt1ytEl2p1",
+      "trackName": "Not the One",
+      "trackId": "3YPVKlxaVIvPYTsVuZDU8E",
+      "preview": "https://p.scdn.co/mp3-preview/77619f456fc8ce0b033e48a954ee2781555f0187?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/22250bcf309204a2e5f7b31acdfdeb7238396cca",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Barbara Muñoz",
+      "featuredArtistId": "3ObByYn7DJS4pgTfH37kur",
+      "trackName": "Not the One",
+      "trackId": "3YPVKlxaVIvPYTsVuZDU8E",
+      "preview": "https://p.scdn.co/mp3-preview/77619f456fc8ce0b033e48a954ee2781555f0187?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/22250bcf309204a2e5f7b31acdfdeb7238396cca",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Javi Mula",
+      "featuredArtistId": "2oHatss0GNd5558xweZfcN",
+      "trackName": "King Size Heart - Megamix Version",
+      "trackId": "5n5gTOnpUvPFhSqLjJnOof",
+      "preview": "https://p.scdn.co/mp3-preview/a1703f727a5d6448aba34ccaf76771c4de8b3fb2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/22250bcf309204a2e5f7b31acdfdeb7238396cca",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Dyland & Lenny",
+      "featuredArtistId": "6EiZOxfG8B5evnLH4KnJeF",
+      "trackName": "Pégate Más (Juan Magan Remix)",
+      "trackId": "0TNzJe2dCoNKecFfnwQozK",
+      "preview": "https://p.scdn.co/mp3-preview/99d0e9632ae8aa62465e098f36e5ca17cdd5663b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/22250bcf309204a2e5f7b31acdfdeb7238396cca",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Mohombi",
+      "featuredArtistId": "37GUqxafAvAKGMZbXCUnmr",
+      "trackName": "Coconut Tree - Juan Magan Remix",
+      "trackId": "0TLQDAUZe5ZUUJ1WG9YjIy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/22250bcf309204a2e5f7b31acdfdeb7238396cca",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Josepo & Salgado",
+      "featuredArtistId": "5Te6edkZhAM25YU8xrOItH",
+      "trackName": "Bailando Por Ahi - Josepo & Salgado Rmx Radio Edit",
+      "trackId": "6c90tr4WXshRxTDmeOR5oq",
+      "preview": "https://p.scdn.co/mp3-preview/6f954ee830aff6341cffb2a13fdc5679e0206c3f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/22250bcf309204a2e5f7b31acdfdeb7238396cca",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Marcos Rodriguez",
+      "featuredArtistId": "3DfbxaUNBPIxuBhk48c4tx",
+      "trackName": "Suck My - Spanglish Radio Edit",
+      "trackId": "0WCQKfLb0RpcqkJmi7njYv",
+      "preview": "https://p.scdn.co/mp3-preview/5504913bae702165975b0e947defc70f64d22659?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b165e516fb5f18ccb707fe6645883bf6a9e6527c",
+      "release_date": "2008-04-30"
+    },
+    {
+      "featuredArtist": "Sergio Perez",
+      "featuredArtistId": "7iEd7wz4GawDCSNchs3I6u",
+      "trackName": "Merenguito",
+      "trackId": "3TTJT21CXU1EBqfJuJwRqq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/27457625428b857dd91897b3e25ece7cef997bb8",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Danny Mendiola",
+      "featuredArtistId": "3DcX9Ua9S8RXF0VeXs9Nfu",
+      "trackName": "The Rumba",
+      "trackId": "3lDooZyx7YPjXbZZLkfVxJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/27457625428b857dd91897b3e25ece7cef997bb8",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Peter Mac",
+      "featuredArtistId": "7Mhz1M75zSycHBVkr9LzvQ",
+      "trackName": "The Rumba",
+      "trackId": "3lDooZyx7YPjXbZZLkfVxJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/27457625428b857dd91897b3e25ece7cef997bb8",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Tony Martinez",
+      "featuredArtistId": "2dfryICReGy8BR7MJvzLOo",
+      "trackName": "El Otro Soy Yo",
+      "trackId": "4kYXMIMgIKuq8sFEJcSLHS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/27457625428b857dd91897b3e25ece7cef997bb8",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Josepo",
+      "featuredArtistId": "3FnRIPNsMOnyhx2sOEgKH7",
+      "trackName": "El Otro Soy Yo",
+      "trackId": "4kYXMIMgIKuq8sFEJcSLHS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/27457625428b857dd91897b3e25ece7cef997bb8",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Javi Garcia",
+      "featuredArtistId": "0ZhyRe7IGh6xMRUjLNzAyQ",
+      "trackName": "Loco",
+      "trackId": "6kGJYoDgztIEfhSxJvqetA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/27457625428b857dd91897b3e25ece7cef997bb8",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Jonathan N",
+      "featuredArtistId": "72CWh52pTijtwfgQxJzJUH",
+      "trackName": "Loco",
+      "trackId": "6kGJYoDgztIEfhSxJvqetA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/27457625428b857dd91897b3e25ece7cef997bb8",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Manu GZ",
+      "featuredArtistId": "76OwyRPZKFTd27NMSJtVNC",
+      "trackName": "El Señor de la Noche - Extended Version",
+      "trackId": "6r91d7WTZ6wNcf7j887Drh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ee25cda83aa821f75697fb3b248aca44e8672467",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Jason Tregebov",
+      "featuredArtistId": "5o2hPxgmluA5k3iqvaM5HL",
+      "trackName": "Bora Bora - Jason Tregebov Remix",
+      "trackId": "7pkjgSveNLyBQILYYih1vi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ee25cda83aa821f75697fb3b248aca44e8672467",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Dumore",
+      "featuredArtistId": "2Kf3AVBzmQGZHLKSWMfdZV",
+      "trackName": "Maleanta",
+      "trackId": "6AHPBQO8ZKHVaIVymsCcrQ",
+      "preview": "https://p.scdn.co/mp3-preview/0cfca0b9bfa18d30d78ef1c0b72bfb0f32742142?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6baa93fb7ba72b608892b751038b413429d21299",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Rangel",
+      "featuredArtistId": "7BvtSZ4E3E0dR6ROUvdqRS",
+      "trackName": "Maleanta",
+      "trackId": "6AHPBQO8ZKHVaIVymsCcrQ",
+      "preview": "https://p.scdn.co/mp3-preview/0cfca0b9bfa18d30d78ef1c0b72bfb0f32742142?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6baa93fb7ba72b608892b751038b413429d21299",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Sete Sousa",
+      "featuredArtistId": "16K4DFLVTGLCeoYEG1vaNa",
+      "trackName": "Maleanta",
+      "trackId": "6AHPBQO8ZKHVaIVymsCcrQ",
+      "preview": "https://p.scdn.co/mp3-preview/0cfca0b9bfa18d30d78ef1c0b72bfb0f32742142?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6baa93fb7ba72b608892b751038b413429d21299",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "B-Case",
+      "featuredArtistId": "1o9x7ez0NvhDb7gBqrYnUj",
+      "trackName": "Le Encanta",
+      "trackId": "5MucM2zqn6ugfL7jQdhf0s",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a247a11536629366b32e603e7db61a71b6dd9927",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Manuel Turizo",
+      "featuredArtistId": "0tmwSHipWxN12fsoLcFU3B",
+      "trackName": "Déjate Llevar",
+      "trackId": "3xWEI23MLJrD0dpDcDUTW6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5d82693d9b81475cccdc83efe143aed71a3af811",
+      "release_date": "2017-11-28"
+    },
+    {
+      "featuredArtist": "Snova",
+      "featuredArtistId": "5oOyEfGd8NxAKA41zGQhoj",
+      "trackName": "Déjate Llevar",
+      "trackId": "3xWEI23MLJrD0dpDcDUTW6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5d82693d9b81475cccdc83efe143aed71a3af811",
+      "release_date": "2017-11-28"
+    },
+    {
+      "featuredArtist": "Rangel",
+      "featuredArtistId": "0HXAyVdQVNTCNHgbBAPxfA",
+      "trackName": "Vuelve Conmigo",
+      "trackId": "61eVr953tIgLO1aVfUM4J2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/491ebbd195b1558975d7ed862ff8bf0d1d994267",
+      "release_date": "2017-09-29"
+    }
+  ]
+}

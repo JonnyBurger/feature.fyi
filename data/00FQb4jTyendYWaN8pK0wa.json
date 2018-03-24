@@ -1,0 +1,77 @@
+{
+  "artistName": "Lana Del Rey",
+  "features": [
+    {
+      "featuredArtist": "The Weeknd",
+      "featuredArtistId": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "trackName": "Lust For Life (with The Weeknd)",
+      "trackId": "2Q4LPFmpHNY8c8gEkaM9yy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/705866136850ebd8d6c1c9f7a9002f007c270134",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "A$AP Rocky",
+      "featuredArtistId": "13ubrt8QOOCPljQ2FL1Kca",
+      "trackName": "Summer Bummer (feat. A$AP Rocky & Playboi Carti)",
+      "trackId": "64evf7xlmc13iP0H9hyrGT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/705866136850ebd8d6c1c9f7a9002f007c270134",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Playboi Carti",
+      "featuredArtistId": "699OTQXzgjhIYAHMy9RyPD",
+      "trackName": "Summer Bummer (feat. A$AP Rocky & Playboi Carti)",
+      "trackId": "64evf7xlmc13iP0H9hyrGT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/705866136850ebd8d6c1c9f7a9002f007c270134",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Stevie Nicks",
+      "featuredArtistId": "7crPfGd2k81ekOoSqQKWWz",
+      "trackName": "Beautiful People Beautiful Problems (feat. Stevie Nicks)",
+      "trackId": "4iY8WGhLnMyLMizMgCrYt4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/705866136850ebd8d6c1c9f7a9002f007c270134",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Sean Ono Lennon",
+      "featuredArtistId": "5JUYSPkis2Mk6HUbmMqk1m",
+      "trackName": "Tomorrow Never Came (feat. Sean Ono Lennon)",
+      "trackId": "4CRTbP2tKouuXkgObk3IjN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/705866136850ebd8d6c1c9f7a9002f007c270134",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Cedric Gervais",
+      "featuredArtistId": "4Wjf8diP59VmPG7fi4y724",
+      "trackName": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] - Cedric Gervais Remix",
+      "trackId": "0G3jYpb8NmvvHhPC7Ai2xc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5a1506208b845616bcb407d85039faafc7cf389f",
+      "release_date": "2012-11-12"
+    },
+    {
+      "featuredArtist": "Carlos Cid",
+      "featuredArtistId": "0ofxTUijAHvkf6wKyPEBFa",
+      "trackName": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] - Cedric Gervais Remix",
+      "trackId": "0G3jYpb8NmvvHhPC7Ai2xc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5a1506208b845616bcb407d85039faafc7cf389f",
+      "release_date": "2012-11-12"
+    },
+    {
+      "featuredArtist": "Photek",
+      "featuredArtistId": "3LEJCwzE1MAryYfOUoPMGI",
+      "trackName": "Ride - Photek Remix",
+      "trackId": "1dSzy5TN2mpbNuLNhLMoXW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d0b1088e6172acbe186bd7cdb47b099d252261ff",
+      "release_date": "2012-11-12"
+    }
+  ]
+}

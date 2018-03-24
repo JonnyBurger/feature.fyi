@@ -1,0 +1,68 @@
+{
+  "artistName": "Dawin",
+  "features": [
+    {
+      "featuredArtist": "ToothPick",
+      "featuredArtistId": "6AJpEKfyrkYqPgnnjywqeP",
+      "trackName": "Road Trip",
+      "trackId": "427rcFfKQvy7EFwhHQfGJf",
+      "preview": "https://p.scdn.co/mp3-preview/51f05e3a7e03c31e2a3493c1e35284e9186e6e3e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/adb72c22e33eacf71e9dc6c065b7c14e59514caf",
+      "release_date": "2018-01-15"
+    },
+    {
+      "featuredArtist": "R. City",
+      "featuredArtistId": "4TH4BHy0LdBi3dpBW4P2UX",
+      "trackName": "Bikini Body",
+      "trackId": "6SULfvvRflfNzfwJlUGcpr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/33f5f306a77349f969f694b7b33cb20668897e3a",
+      "release_date": "2016-07-29"
+    },
+    {
+      "featuredArtist": "Silentó",
+      "featuredArtistId": "7juKTDFlPesGeWQ1GmjmOv",
+      "trackName": "Dessert - Remix",
+      "trackId": "7dsOFVXYce81r76fUMzVUx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/91dc700382453b3172243532a1b7b7265e2c45f0",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "Kalin and Myles",
+      "featuredArtistId": "2BL5VxhQadpc4v2VlZyKY5",
+      "trackName": "Just Girly Things - Remix",
+      "trackId": "5tV0Ab3mbydeBgafB2rPgi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/91dc700382453b3172243532a1b7b7265e2c45f0",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "Caked Up",
+      "featuredArtistId": "3Zff3EMJTNTYcu1FH3oH8y",
+      "trackName": "Just Girly Things - Caked Up Remix",
+      "trackId": "0WRZckvgStyq1uo1qhV57O",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b3c6b7a7d3546722584db1900369a09a14656ce1",
+      "release_date": "2014-08-19"
+    },
+    {
+      "featuredArtist": "Imanos",
+      "featuredArtistId": "26fsavNxrXVdRK7wL3jZKb",
+      "trackName": "Just Girly Things - Imanos Remix",
+      "trackId": "5E4QkojieWFkPQG2ylFskb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b3c6b7a7d3546722584db1900369a09a14656ce1",
+      "release_date": "2014-08-19"
+    },
+    {
+      "featuredArtist": "Kiely Rich",
+      "featuredArtistId": "4SvgdCJVgJWTe5mIThOJ2t",
+      "trackName": "Just Girly Things - Kiely Rich Remix",
+      "trackId": "6n7alyz2NPDPtJBzaA257t",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b3c6b7a7d3546722584db1900369a09a14656ce1",
+      "release_date": "2014-08-19"
+    }
+  ]
+}

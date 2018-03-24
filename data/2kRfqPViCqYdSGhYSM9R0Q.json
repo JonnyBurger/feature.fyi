@@ -1,0 +1,41 @@
+{
+  "artistName": "Madison Beer",
+  "features": [
+    {
+      "featuredArtist": "Laibert",
+      "featuredArtistId": "1oH366tKCWDnpu9L0RwAzn",
+      "trackName": "Dead - Laibert Remix Radio Edit",
+      "trackId": "2EWI3svUSWPIryunbvlAzn",
+      "preview": "https://p.scdn.co/mp3-preview/1202498f54b18b770184094986a480a8026485bf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ea1ade42975327d4a38abbcbac519a8ab1516916",
+      "release_date": "2017-12-29"
+    },
+    {
+      "featuredArtist": "Wideboys",
+      "featuredArtistId": "2fLCjXwadBsnYmn05uxFpi",
+      "trackName": "Say It to My Face - The Wideboys Remix Radio Edit",
+      "trackId": "2gHooPecFTOiNmA7SK3IHS",
+      "preview": "https://p.scdn.co/mp3-preview/edc1f85b6ecae9c484021faefd72be598d407e08?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/446ab593058a69c21207c34258fcb8529293b0a8",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Cedric Gervais",
+      "featuredArtistId": "4Wjf8diP59VmPG7fi4y724",
+      "trackName": "Dead (Madison Beer vs. Cedric Gervais) - Cedric Gervais Remix",
+      "trackId": "7hM7lPg7mVQx1UnzGRLm6n",
+      "preview": "https://p.scdn.co/mp3-preview/c251814be65ab9adbb1d9f000b3f186f268eae41?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/217ceba283365ead38fa2b1096052f2638f7faf3",
+      "release_date": "2017-08-11"
+    },
+    {
+      "featuredArtist": "Jack & Jack",
+      "featuredArtistId": "1INuLZXjjVbcJRyWvD1iSq",
+      "trackName": "All For Love",
+      "trackId": "7lqsmY0ifoZsqBU6DpbCIq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dfe039ee3e8699a91e0836d9a6e54a8f12866ff4",
+      "release_date": "2015-09-18"
+    }
+  ]
+}

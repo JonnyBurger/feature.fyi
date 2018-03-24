@@ -1,0 +1,41 @@
+{
+  "artistName": "Paramore",
+  "features": [
+    {
+      "featuredArtist": "Joy Williams",
+      "featuredArtistId": "4TCXgdDPm10ensLNCVnIYa",
+      "trackName": "Hate To See Your Heart Break (feat. Joy Williams)",
+      "trackId": "3dkF3fiPOHbaV3lPwneGKN",
+      "preview": "https://p.scdn.co/mp3-preview/611a7e319071ecc47f6150cc321096b6a5e2cde6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad1474d4707f8d3c9bd33c10e653655319231a42",
+      "release_date": "2013-04-09"
+    },
+    {
+      "featuredArtist": "Dutch Uncles",
+      "featuredArtistId": "77bjO3iNEdkJfszgcf6YnB",
+      "trackName": "Ain't It Fun - Dutch Uncles Remix",
+      "trackId": "1EXAJXOprPlwj5pfBVp15B",
+      "preview": "https://p.scdn.co/mp3-preview/0d88ea9c7f8439c8b98971a574b3e83be54b4c9f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cb84d60c41949e581f837eb671510c5fb5eac434",
+      "release_date": "2014-06-24"
+    },
+    {
+      "featuredArtist": "Kye Kye",
+      "featuredArtistId": "7hB1zE5jfaEcmtLjnFpOGZ",
+      "trackName": "Ain't It Fun - Kye Kye Remix",
+      "trackId": "5xJobDsuIj34YBdOJJxvwb",
+      "preview": "https://p.scdn.co/mp3-preview/495a952623ff908dd7a702095d0993be24b43d60?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cb84d60c41949e581f837eb671510c5fb5eac434",
+      "release_date": "2014-06-24"
+    },
+    {
+      "featuredArtist": "Smash Mode",
+      "featuredArtistId": "4vpTmnsT3BkoGvukOmtYck",
+      "trackName": "Ain't It Fun - Smash Mode Remix",
+      "trackId": "63FiUEvnub2zVUEy6QrT13",
+      "preview": "https://p.scdn.co/mp3-preview/7db3a8bdaa0cc5e3d61ee58c80326ab99fbe756d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cb84d60c41949e581f837eb671510c5fb5eac434",
+      "release_date": "2014-06-24"
+    }
+  ]
+}

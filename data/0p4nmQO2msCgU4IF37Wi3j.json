@@ -1,0 +1,68 @@
+{
+  "artistName": "Avril Lavigne",
+  "features": [
+    {
+      "featuredArtist": "Chad Kroeger",
+      "featuredArtistId": "7fJYw1vK9yWb8o51I8qHin",
+      "trackName": "Let Me Go",
+      "trackId": "0Swvh86QCHSVk3yXUDeEM8",
+      "preview": "https://p.scdn.co/mp3-preview/990d8af244bcd03bf19d2a387dc63ad2e12f39fa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/220cd00f9e63e284c45a2af524ff32ebc336b354",
+      "release_date": "2013-11-06"
+    },
+    {
+      "featuredArtist": "Marilyn Manson",
+      "featuredArtistId": "2VYQTNDsvvKN9wmU5W7xpj",
+      "trackName": "Bad Girl",
+      "trackId": "0DJLpR7cv97zg4indE9kQT",
+      "preview": "https://p.scdn.co/mp3-preview/0c92cd0d54c80e46d03a64b442e9eaf2d3d9ce67?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/220cd00f9e63e284c45a2af524ff32ebc336b354",
+      "release_date": "2013-11-06"
+    },
+    {
+      "featuredArtist": "Marc Jackson Burrows",
+      "featuredArtistId": "3IoIRHbV0weqdZmN6ewOtH",
+      "trackName": "What The Hell - Bimbo Jones Remix",
+      "trackId": "4Y78yNxp84dLTW6WKznShn",
+      "preview": "https://p.scdn.co/mp3-preview/e13aaf6a8b186eda08f25a14d890d05c614bfe7d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/600e5716b5a7c791c9cef01ef0336c2918a6598e",
+      "release_date": "2011-12-21"
+    },
+    {
+      "featuredArtist": "Lee Dagger",
+      "featuredArtistId": "7hEDdJUgflzNOt4ow0OnuC",
+      "trackName": "What The Hell - Bimbo Jones Remix",
+      "trackId": "4Y78yNxp84dLTW6WKznShn",
+      "preview": "https://p.scdn.co/mp3-preview/e13aaf6a8b186eda08f25a14d890d05c614bfe7d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/600e5716b5a7c791c9cef01ef0336c2918a6598e",
+      "release_date": "2011-12-21"
+    },
+    {
+      "featuredArtist": "The Submarines",
+      "featuredArtistId": "2lqwJq9YvuK2QitwKxmZ2B",
+      "trackName": "Girlfriend - The Submarines' Time Warp '66 Mix - English",
+      "trackId": "4TOX8K8H3tJaKU6mXqiPN0",
+      "preview": "https://p.scdn.co/mp3-preview/ed6ee12d3630742221d412e81a0ca2fa06efc88c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2044bb4a77d50d5949cd90276c3497f7a0bc426e",
+      "release_date": "2007-11-08"
+    },
+    {
+      "featuredArtist": "Lil Mama",
+      "featuredArtistId": "5qK5bOC6wLtuLhG5KvU17c",
+      "trackName": "Girlfriend - Dr. Luke mix featuring Lil Mama",
+      "trackId": "1wwt0TvrGY3lnvTAVIx8mO",
+      "preview": "https://p.scdn.co/mp3-preview/28e98ee2ea3ed8e99b508732880e9249244dc1f4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2044bb4a77d50d5949cd90276c3497f7a0bc426e",
+      "release_date": "2007-11-08"
+    },
+    {
+      "featuredArtist": "Dr. Luke",
+      "featuredArtistId": "3qk8IBcwEDBKBdExVhSLIb",
+      "trackName": "Girlfriend - Dr. Luke mix featuring Lil Mama",
+      "trackId": "1wwt0TvrGY3lnvTAVIx8mO",
+      "preview": "https://p.scdn.co/mp3-preview/28e98ee2ea3ed8e99b508732880e9249244dc1f4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2044bb4a77d50d5949cd90276c3497f7a0bc426e",
+      "release_date": "2007-11-08"
+    }
+  ]
+}

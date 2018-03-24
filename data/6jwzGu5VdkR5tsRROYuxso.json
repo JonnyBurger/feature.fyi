@@ -1,0 +1,23 @@
+{
+  "artistName": "DrefGold",
+  "features": [
+    {
+      "featuredArtist": "Daves The Kid",
+      "featuredArtistId": "4qIoIeQMYVvtWqJYMF354H",
+      "trackName": "Boss",
+      "trackId": "66eqL56FRz3LJMCWINapai",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/04107098dd0cae114da5d8e0c58e6264648b0bbb",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Sfera Ebbasta",
+      "featuredArtistId": "23TFHmajVfBtlRx5MXqgoz",
+      "trackName": "Sciroppo (feat. DrefGold)",
+      "trackId": "4VVG3HBGaqSNZqIpmewIA6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52143c238394cb45285a820fb3f81f97cc424e7f",
+      "release_date": "2018-01-19"
+    }
+  ]
+}

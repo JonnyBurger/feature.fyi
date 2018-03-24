@@ -1,0 +1,671 @@
+{
+  "artistName": "Pitbull",
+  "features": [
+    {
+      "featuredArtist": "Kiesza",
+      "featuredArtistId": "4zxvC7CRGvggq9EWXOpwAo",
+      "trackName": "We Are Strong",
+      "trackId": "7LFJv28DFDAVSkpvpozJ1D",
+      "preview": "https://p.scdn.co/mp3-preview/f7f85f8baa151eee20ac1f3aed65a73a5448de54?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1ca3a27d6b2d897ec72425c95685f0475c35be3",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Robin Thicke",
+      "featuredArtistId": "0ZrpamOxcZybMHGg1AYtHP",
+      "trackName": "Bad Man",
+      "trackId": "4eRrRWQ06cnqhXUwJOOnKJ",
+      "preview": "https://p.scdn.co/mp3-preview/8e6a733c8feda260e900d81fd3402b7eaba11c4b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1ca3a27d6b2d897ec72425c95685f0475c35be3",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Joe Perry",
+      "featuredArtistId": "1SDxIHIJ3wvYiG22xckLKL",
+      "trackName": "Bad Man",
+      "trackId": "4eRrRWQ06cnqhXUwJOOnKJ",
+      "preview": "https://p.scdn.co/mp3-preview/8e6a733c8feda260e900d81fd3402b7eaba11c4b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1ca3a27d6b2d897ec72425c95685f0475c35be3",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Travis Barker",
+      "featuredArtistId": "4exLIFE8sISLr28sqG1qNX",
+      "trackName": "Bad Man",
+      "trackId": "4eRrRWQ06cnqhXUwJOOnKJ",
+      "preview": "https://p.scdn.co/mp3-preview/8e6a733c8feda260e900d81fd3402b7eaba11c4b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1ca3a27d6b2d897ec72425c95685f0475c35be3",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Flo Rida",
+      "featuredArtistId": "0jnsk9HBra6NMjO2oANoPY",
+      "trackName": "Greenlight",
+      "trackId": "3lJA6dGqvaKtVxqHbTtQiQ",
+      "preview": "https://p.scdn.co/mp3-preview/e16346bf0c291a63fb3442eed2512dac24929ffe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1ca3a27d6b2d897ec72425c95685f0475c35be3",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "LunchMoney Lewis",
+      "featuredArtistId": "2iUbk5KhZYZt4CRvWbwb7S",
+      "trackName": "Greenlight",
+      "trackId": "3lJA6dGqvaKtVxqHbTtQiQ",
+      "preview": "https://p.scdn.co/mp3-preview/e16346bf0c291a63fb3442eed2512dac24929ffe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1ca3a27d6b2d897ec72425c95685f0475c35be3",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Enrique Iglesias",
+      "featuredArtistId": "7qG3b048QCHVRO5Pv1T5lw",
+      "trackName": "Messin' Around",
+      "trackId": "0bG61MsnxRxRHc007PxA2o",
+      "preview": "https://p.scdn.co/mp3-preview/564abb1ba5476e45384f256b4bfb27bc184597ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1ca3a27d6b2d897ec72425c95685f0475c35be3",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Ty Dolla $ign",
+      "featuredArtistId": "7c0XG5cIJTrrAgEC3ULPiq",
+      "trackName": "Better On Me",
+      "trackId": "0vLlEo1D4VRiGzMLxLbsh2",
+      "preview": "https://p.scdn.co/mp3-preview/abe960929ff4b8ea931f5008a932791cfc93412d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1ca3a27d6b2d897ec72425c95685f0475c35be3",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Jennifer Lopez",
+      "featuredArtistId": "2DlGxzQSjYe5N6G9nkYghR",
+      "trackName": "Sexy Body",
+      "trackId": "7IsJihZTqwODrRfrrv3zWB",
+      "preview": "https://p.scdn.co/mp3-preview/5f8b5f8e75309f985d8a1afc98e96094ef87f159?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1ca3a27d6b2d897ec72425c95685f0475c35be3",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Stephen Marley",
+      "featuredArtistId": "0CIwCGmQMqHqiblnZlFia1",
+      "trackName": "Options",
+      "trackId": "1B0DvDgNgvmccdfdEK4wB5",
+      "preview": "https://p.scdn.co/mp3-preview/d5baa0a41f5fe9a6c99dfe722510941e4f7718e5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1ca3a27d6b2d897ec72425c95685f0475c35be3",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Jason Derulo",
+      "featuredArtistId": "07YZf4WDAMNwqr4jfgOZ8y",
+      "trackName": "Educate Ya",
+      "trackId": "2QPUaxEdbxIQbnATYjTXLW",
+      "preview": "https://p.scdn.co/mp3-preview/d851fac507e4660f564caabbf8c4f04332321427?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1ca3a27d6b2d897ec72425c95685f0475c35be3",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Leona Lewis",
+      "featuredArtistId": "5lKZWd6HiSCLfnDGrq9RAm",
+      "trackName": "Only Ones To Know",
+      "trackId": "64XOpjIAmHElXLV1OqhaOH",
+      "preview": "https://p.scdn.co/mp3-preview/2ee24bf45345809c1ac621f845fc9dec571e4499?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1ca3a27d6b2d897ec72425c95685f0475c35be3",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "R. Kelly",
+      "featuredArtistId": "2mxe0TnaNL039ysAj51xPQ",
+      "trackName": "Dedicated",
+      "trackId": "16iHofweOVofNFKqni3QvK",
+      "preview": "https://p.scdn.co/mp3-preview/76a8e7eb9886023d3e20cfc982a867cae0361ef8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1ca3a27d6b2d897ec72425c95685f0475c35be3",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Austin Mahone",
+      "featuredArtistId": "04abdnqPQe2N4fjztDea6z",
+      "trackName": "Dedicated",
+      "trackId": "16iHofweOVofNFKqni3QvK",
+      "preview": "https://p.scdn.co/mp3-preview/76a8e7eb9886023d3e20cfc982a867cae0361ef8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1ca3a27d6b2d897ec72425c95685f0475c35be3",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Steven A. Clark",
+      "featuredArtistId": "2EwZTE4cjewxoigHD5Y3UF",
+      "trackName": "Can't Have",
+      "trackId": "6ADhQWuCv54VfU3NM8Uyse",
+      "preview": "https://p.scdn.co/mp3-preview/009415209ff497e37706eda8e94dd52ada576e79?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1ca3a27d6b2d897ec72425c95685f0475c35be3",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Ape Drums",
+      "featuredArtistId": "4HJnsUVBubdKJ2aV0sr48u",
+      "trackName": "Can't Have",
+      "trackId": "6ADhQWuCv54VfU3NM8Uyse",
+      "preview": "https://p.scdn.co/mp3-preview/009415209ff497e37706eda8e94dd52ada576e79?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1ca3a27d6b2d897ec72425c95685f0475c35be3",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Gente De Zona",
+      "featuredArtistId": "2cy1zPcrFcXAJTP0APWewL",
+      "trackName": "Piensas (Dile la Verdad)",
+      "trackId": "2IgMrQPUuWRlmJjCnnxhvM",
+      "preview": "https://p.scdn.co/mp3-preview/a187a2d0bfabfb49dbc1b4524326e6b65525970a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cc6c9be0e7d92b6779e1ac1346fcd40bf90102ca",
+      "release_date": "2015-08-05"
+    },
+    {
+      "featuredArtist": "Don Miguelo",
+      "featuredArtistId": "1noWnd8QFQD9VLxWEeo4Zf",
+      "trackName": "Como Yo Le Doy - Spanglish Version",
+      "trackId": "1gphwE6XfZfQulb5Bj9NBA",
+      "preview": "https://p.scdn.co/mp3-preview/06b69f4bf1dda4a3376196cd784ef964878b7f40?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cc6c9be0e7d92b6779e1ac1346fcd40bf90102ca",
+      "release_date": "2015-08-05"
+    },
+    {
+      "featuredArtist": "Sensato",
+      "featuredArtistId": "7iJrDbKM5fEkGdm5kpjFzS",
+      "trackName": "El Taxi - Radio Edit",
+      "trackId": "3vfgAeoLiMqJKPlZP451dU",
+      "preview": "https://p.scdn.co/mp3-preview/6cb851ff155f2657a444e74545f13d76a3c760c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cc6c9be0e7d92b6779e1ac1346fcd40bf90102ca",
+      "release_date": "2015-08-05"
+    },
+    {
+      "featuredArtist": "Osmani Garcia \"La Voz\"",
+      "featuredArtistId": "37G8DfNgO4mQ3PKh5droSo",
+      "trackName": "El Taxi - Radio Edit",
+      "trackId": "3vfgAeoLiMqJKPlZP451dU",
+      "preview": "https://p.scdn.co/mp3-preview/6cb851ff155f2657a444e74545f13d76a3c760c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cc6c9be0e7d92b6779e1ac1346fcd40bf90102ca",
+      "release_date": "2015-08-05"
+    },
+    {
+      "featuredArtist": "El Micha",
+      "featuredArtistId": "0d7jzRhjOifL8X9hxNvbEn",
+      "trackName": "El Party",
+      "trackId": "6RuG1ij7sTMrxcTs9aLcjB",
+      "preview": "https://p.scdn.co/mp3-preview/23da077950d960ca6ab5632741c43d558181c606?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cc6c9be0e7d92b6779e1ac1346fcd40bf90102ca",
+      "release_date": "2015-08-05"
+    },
+    {
+      "featuredArtist": "Fuego",
+      "featuredArtistId": "7wU2WGCJ8HxkekHHE2QLul",
+      "trackName": "Mami Mami",
+      "trackId": "7r2S4tRWa3oS8lpmrGWEfS",
+      "preview": "https://p.scdn.co/mp3-preview/37cc2a802159293e5eb11a13754e6be00dce0a81?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cc6c9be0e7d92b6779e1ac1346fcd40bf90102ca",
+      "release_date": "2015-08-05"
+    },
+    {
+      "featuredArtist": "Mohombi",
+      "featuredArtistId": "37GUqxafAvAKGMZbXCUnmr",
+      "trackName": "Baddest Girl in Town",
+      "trackId": "0dVmxpjlTtMsMMqSSEZYWZ",
+      "preview": "https://p.scdn.co/mp3-preview/e12b702d75c6f304d074be553d6d2daad243969a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cc6c9be0e7d92b6779e1ac1346fcd40bf90102ca",
+      "release_date": "2015-08-05"
+    },
+    {
+      "featuredArtist": "Wisin",
+      "featuredArtistId": "3E6xrwgnVfYCrCs0ePERDz",
+      "trackName": "Baddest Girl in Town",
+      "trackId": "0dVmxpjlTtMsMMqSSEZYWZ",
+      "preview": "https://p.scdn.co/mp3-preview/e12b702d75c6f304d074be553d6d2daad243969a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cc6c9be0e7d92b6779e1ac1346fcd40bf90102ca",
+      "release_date": "2015-08-05"
+    },
+    {
+      "featuredArtist": "Ricky Martin",
+      "featuredArtistId": "7slfeZO9LsJbWgpkIoXBUJ",
+      "trackName": "Haciendo Ruido",
+      "trackId": "5ugnbuYLXCzXtnrmIwO7cs",
+      "preview": "https://p.scdn.co/mp3-preview/f825fce02908ddeb2da75697126dda6a7b615c10?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cc6c9be0e7d92b6779e1ac1346fcd40bf90102ca",
+      "release_date": "2015-08-05"
+    },
+    {
+      "featuredArtist": "Farruko",
+      "featuredArtistId": "329e4yvIujISKGKz1BZZbO",
+      "trackName": "Hoy Se Bebe",
+      "trackId": "2YuRuFsN5Lmew9v8BDV66a",
+      "preview": "https://p.scdn.co/mp3-preview/38f6a091472ae9de70a1e7e363f176b27217e411?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cc6c9be0e7d92b6779e1ac1346fcd40bf90102ca",
+      "release_date": "2015-08-05"
+    },
+    {
+      "featuredArtist": "Yandel",
+      "featuredArtistId": "0eHQ9o50hj6ZDNBt6Ys1sD",
+      "trackName": "No Puedo Más",
+      "trackId": "5K5mbBdWuDYUIaeBlM9gFG",
+      "preview": "https://p.scdn.co/mp3-preview/d26052234a01d58e90c4d17da77813285f83a22c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cc6c9be0e7d92b6779e1ac1346fcd40bf90102ca",
+      "release_date": "2015-08-05"
+    },
+    {
+      "featuredArtist": "Papayo",
+      "featuredArtistId": "5F2Bwl7Is7KVwTbNbMclIS",
+      "trackName": "Que Lo Que",
+      "trackId": "7eFVox7eQyAhRKcI74JzGp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cc6c9be0e7d92b6779e1ac1346fcd40bf90102ca",
+      "release_date": "2015-08-05"
+    },
+    {
+      "featuredArtist": "El Chevo",
+      "featuredArtistId": "2vC9dN2ebF9lBbAFlIUeL4",
+      "trackName": "Que Lo Que",
+      "trackId": "7eFVox7eQyAhRKcI74JzGp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cc6c9be0e7d92b6779e1ac1346fcd40bf90102ca",
+      "release_date": "2015-08-05"
+    },
+    {
+      "featuredArtist": "Chris Brown",
+      "featuredArtistId": "7bXgB6jMjp9ATFy66eO08Z",
+      "trackName": "Fun - Damaged Goods Remix",
+      "trackId": "47vb2gEofz4XBht7WkaM4D",
+      "preview": "https://p.scdn.co/mp3-preview/a6c7efe285196bcb5a576f4a9180a8a9555db11c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e8a34a8c0bb8e16c63fb0ac784639aebda667d65",
+      "release_date": "2015-06-23"
+    },
+    {
+      "featuredArtist": "Damaged Goods",
+      "featuredArtistId": "0txPKco59Ikf29in2CeuEC",
+      "trackName": "Fun - Damaged Goods Remix",
+      "trackId": "47vb2gEofz4XBht7WkaM4D",
+      "preview": "https://p.scdn.co/mp3-preview/a6c7efe285196bcb5a576f4a9180a8a9555db11c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e8a34a8c0bb8e16c63fb0ac784639aebda667d65",
+      "release_date": "2015-06-23"
+    },
+    {
+      "featuredArtist": "Noodles",
+      "featuredArtistId": "3srbUCksiGwEbEXDZoAouD",
+      "trackName": "Fun - Noodles Remix",
+      "trackId": "0ki9el4CTJbV4iNyh4zO9f",
+      "preview": "https://p.scdn.co/mp3-preview/56bcfd6ca57d19f5f7c674ba7d27e8069521af03?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e8a34a8c0bb8e16c63fb0ac784639aebda667d65",
+      "release_date": "2015-06-23"
+    },
+    {
+      "featuredArtist": "Wallem Brothers",
+      "featuredArtistId": "79Tpz9wRW9P7uqDnHCckyM",
+      "trackName": "Fun - Wallem Brothers 808 Remix",
+      "trackId": "65Jb815uGML0s7qGco1Uf9",
+      "preview": "https://p.scdn.co/mp3-preview/875659ab964d6e8828a1c425f68dcdc0821b0eb9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e8a34a8c0bb8e16c63fb0ac784639aebda667d65",
+      "release_date": "2015-06-23"
+    },
+    {
+      "featuredArtist": "KASSIANO",
+      "featuredArtistId": "2MzzwDQ7n8wSGCJIqKJH5r",
+      "trackName": "Fun - Kassiano Remix",
+      "trackId": "5dL5Gd0vDnvluuWP3tuDkr",
+      "preview": "https://p.scdn.co/mp3-preview/0ae840d56bdbceace65406fbdddc7f1d0fcca5b7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e8a34a8c0bb8e16c63fb0ac784639aebda667d65",
+      "release_date": "2015-06-23"
+    },
+    {
+      "featuredArtist": "Jerome Price",
+      "featuredArtistId": "4EREP1nDxGjXE6V4sOuUy8",
+      "trackName": "Fun - Jerome Price Radio Mix",
+      "trackId": "18kbYc4l4MCqkHhjdNJzx3",
+      "preview": "https://p.scdn.co/mp3-preview/4a49120b152ee39e1d19767e7a8e9e8e6da741a4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e8a34a8c0bb8e16c63fb0ac784639aebda667d65",
+      "release_date": "2015-06-23"
+    },
+    {
+      "featuredArtist": "G-Wizard",
+      "featuredArtistId": "0QhpvxCgFNXTvof7lqRrKW",
+      "trackName": "Fun - G-Wizard Remix",
+      "trackId": "4vdDVYp62dUzv5csocne8B",
+      "preview": "https://p.scdn.co/mp3-preview/93211a0fa2f9618f0125080b528f7fafc6ce1bf8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e8a34a8c0bb8e16c63fb0ac784639aebda667d65",
+      "release_date": "2015-06-23"
+    },
+    {
+      "featuredArtist": "Jump Smokers",
+      "featuredArtistId": "5I7l0lSOyusetwCv1aQPMf",
+      "trackName": "Fun - Jump Smokers Radio Mix",
+      "trackId": "7LMjrpYke79GZzxLwL7OWa",
+      "preview": "https://p.scdn.co/mp3-preview/c536641f61818f23147cc27be670ffb410825be6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e8a34a8c0bb8e16c63fb0ac784639aebda667d65",
+      "release_date": "2015-06-23"
+    },
+    {
+      "featuredArtist": "Xenia Ghali",
+      "featuredArtistId": "4iw0Pf0ZeTekpc6yqlGKYE",
+      "trackName": "Fun - Xenia Ghali Radio Mix",
+      "trackId": "6nk1fGPZKl67Uk1VMDPc63",
+      "preview": "https://p.scdn.co/mp3-preview/370ce49c730bde9fa24eb5de2eab24b5f00149a0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e8a34a8c0bb8e16c63fb0ac784639aebda667d65",
+      "release_date": "2015-06-23"
+    },
+    {
+      "featuredArtist": "Sean Paul",
+      "featuredArtistId": "3Isy6kedDrgPYoTS1dazA9",
+      "trackName": "Ah Leke",
+      "trackId": "08HaoA7L1K3cWIp0GhwePE",
+      "preview": "https://p.scdn.co/mp3-preview/af0e9ab12fa6777a8bf5754836812ca29aec2d30?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/81d150a1f2f639b52df9030cae97c43c63dfa976",
+      "release_date": "2014-11-26"
+    },
+    {
+      "featuredArtist": "John Ryan",
+      "featuredArtistId": "02vdR0APmv7kuQA2HUlA92",
+      "trackName": "Fireball",
+      "trackId": "6Ogvaawfb7F47OTBxPfMmU",
+      "preview": "https://p.scdn.co/mp3-preview/4f2949aea7c9b2a77a79c297fe67aa73793a568c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/81d150a1f2f639b52df9030cae97c43c63dfa976",
+      "release_date": "2014-11-26"
+    },
+    {
+      "featuredArtist": "Ne-Yo",
+      "featuredArtistId": "21E3waRsmPlU7jZsS13rcj",
+      "trackName": "Time of Our Lives",
+      "trackId": "1QhkBwWaOqP4xeqMP4OWoZ",
+      "preview": "https://p.scdn.co/mp3-preview/456046f512b8da97b84928f67cf9d8b2594db484?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/81d150a1f2f639b52df9030cae97c43c63dfa976",
+      "release_date": "2014-11-26"
+    },
+    {
+      "featuredArtist": "Chloe Angelides",
+      "featuredArtistId": "79A4RmgwxYGIDkqQDUHLXK",
+      "trackName": "Sexy Beaches",
+      "trackId": "7slaBwXBhDktm7TxHQTil7",
+      "preview": "https://p.scdn.co/mp3-preview/dfbb045ce336314e69637650f73a99b26178624d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/81d150a1f2f639b52df9030cae97c43c63dfa976",
+      "release_date": "2014-11-26"
+    },
+    {
+      "featuredArtist": "Heymous Molly",
+      "featuredArtistId": "5M2gxYpF3uzcsyifR9WEgE",
+      "trackName": "Day Drinking",
+      "trackId": "62W9c82MaYyp5CObaJVyLe",
+      "preview": "https://p.scdn.co/mp3-preview/5cd5fb4bcec10401cd013df65b01725609b8835d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/81d150a1f2f639b52df9030cae97c43c63dfa976",
+      "release_date": "2014-11-26"
+    },
+    {
+      "featuredArtist": "Juicy J",
+      "featuredArtistId": "5gCRApTajqwbnHHPbr2Fpi",
+      "trackName": "Drive You Crazy",
+      "trackId": "1VBsaGlehrPQqFcpcFjEm6",
+      "preview": "https://p.scdn.co/mp3-preview/04e2a9f3200645fa4db40e24b277f1f46fb97af2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/81d150a1f2f639b52df9030cae97c43c63dfa976",
+      "release_date": "2014-11-26"
+    },
+    {
+      "featuredArtist": "G.R.L.",
+      "featuredArtistId": "3Yl4nkmEa8BSuGWbwhdLDq",
+      "trackName": "Wild Wild Love",
+      "trackId": "65DhzH54HdhGpB6Yj5XXP1",
+      "preview": "https://p.scdn.co/mp3-preview/76d1cb8fca141de891c38a95a023f43e1f8bbed3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/81d150a1f2f639b52df9030cae97c43c63dfa976",
+      "release_date": "2014-11-26"
+    },
+    {
+      "featuredArtist": "Bebe Rexha",
+      "featuredArtistId": "64M6ah0SkkRsnPGtGiRAbb",
+      "trackName": "This Is Not A Drill",
+      "trackId": "6dKSH1pAtjK36GzEMyE0ey",
+      "preview": "https://p.scdn.co/mp3-preview/84c06286019e5ca87a6a277e27473db528b59fc9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/81d150a1f2f639b52df9030cae97c43c63dfa976",
+      "release_date": "2014-11-26"
+    },
+    {
+      "featuredArtist": "Claudia Leitte",
+      "featuredArtistId": "2OjoIDVPQKT9B7loZbPEfp",
+      "trackName": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song]",
+      "trackId": "6avNXKjYMuUwk5JGVAYb0t",
+      "preview": "https://p.scdn.co/mp3-preview/a8eacb79f291327ea7adf41073335e9261a4f569?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/81d150a1f2f639b52df9030cae97c43c63dfa976",
+      "release_date": "2014-11-26"
+    },
+    {
+      "featuredArtist": "Kesha",
+      "featuredArtistId": "6LqNN22kT3074XbTVUrhzX",
+      "trackName": "Timber - Jump Smokers Radio Mix",
+      "trackId": "4x8VAa7yhYGPhn6PJeRRRS",
+      "preview": "https://p.scdn.co/mp3-preview/d30f5d7f139d4aa7d5635bb81557db5b1513f263?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f05f7bfbe07a44a06ffa4d975b36c1f6fcb1729b",
+      "release_date": "2014-02-19"
+    },
+    {
+      "featuredArtist": "Panic City",
+      "featuredArtistId": "06ZovViW0M37qCp8uTluKv",
+      "trackName": "Timber - Panic City Radio Remix",
+      "trackId": "41dZKIKwnxVyzBPNPmTSmb",
+      "preview": "https://p.scdn.co/mp3-preview/e33442e6de535c1441fe7a6d6444cd9386390e5f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f05f7bfbe07a44a06ffa4d975b36c1f6fcb1729b",
+      "release_date": "2014-02-19"
+    },
+    {
+      "featuredArtist": "R3HAB",
+      "featuredArtistId": "6cEuCEZu7PAE9ZSzLLc2oQ",
+      "trackName": "Timber - R3hab Radio Mix",
+      "trackId": "0iInLdf1XM5kOm8wDGJBPi",
+      "preview": "https://p.scdn.co/mp3-preview/3cd9eda0d050e72b568efba0d84515d312bf60b3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f05f7bfbe07a44a06ffa4d975b36c1f6fcb1729b",
+      "release_date": "2014-02-19"
+    },
+    {
+      "featuredArtist": "Rich \"DJ Riddler\" Pangilinan",
+      "featuredArtistId": "6IAZEwHZT4xVdw9ORTQS4q",
+      "trackName": "Timber - Riddler Club Mix",
+      "trackId": "0RKlyZ9kMEH8V7AZnI1UwQ",
+      "preview": "https://p.scdn.co/mp3-preview/5371f27ebf26be0750daf85740987a956554b850?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f05f7bfbe07a44a06ffa4d975b36c1f6fcb1729b",
+      "release_date": "2014-02-19"
+    },
+    {
+      "featuredArtist": "Tjr",
+      "featuredArtistId": "3if5kERjnWL9N0g3e9yEm5",
+      "trackName": "Don't Stop the Party",
+      "trackId": "3fH4OhbOHlFGMqBpPzct3t",
+      "preview": "https://p.scdn.co/mp3-preview/1af1dee0e3e02e59430d3dbd6f270d6298ac7c7e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/53722c2f4e6ea41bc73f255131d7e0ab8ccd7ae4",
+      "release_date": "2013-12-18"
+    },
+    {
+      "featuredArtist": "Christina Aguilera",
+      "featuredArtistId": "1l7ZsJRRS8wlW3WfJfPfNS",
+      "trackName": "Feel This Moment",
+      "trackId": "6Nptp24WeW3gSfik75CLmE",
+      "preview": "https://p.scdn.co/mp3-preview/68f4c7804fff74deba04b861d13d2743101233d5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/53722c2f4e6ea41bc73f255131d7e0ab8ccd7ae4",
+      "release_date": "2013-12-18"
+    },
+    {
+      "featuredArtist": "Usher",
+      "featuredArtistId": "23zg3TcAtWQy7J6upgbUnj",
+      "trackName": "Party Ain't Over",
+      "trackId": "70cO5CqJf7Eg2QGgJpZHP4",
+      "preview": "https://p.scdn.co/mp3-preview/229faa0a5237bfb9f02f49a5a4aa34d16e44f9c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/53722c2f4e6ea41bc73f255131d7e0ab8ccd7ae4",
+      "release_date": "2013-12-18"
+    },
+    {
+      "featuredArtist": "Afrojack",
+      "featuredArtistId": "4D75GcNG95ebPtNvoNVXhz",
+      "trackName": "Party Ain't Over",
+      "trackId": "70cO5CqJf7Eg2QGgJpZHP4",
+      "preview": "https://p.scdn.co/mp3-preview/229faa0a5237bfb9f02f49a5a4aa34d16e44f9c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/53722c2f4e6ea41bc73f255131d7e0ab8ccd7ae4",
+      "release_date": "2013-12-18"
+    },
+    {
+      "featuredArtist": "J.Lo",
+      "featuredArtistId": "2BICa6b3GtjSqhOkgnDUu6",
+      "trackName": "Drinks for You (Ladies Anthem)",
+      "trackId": "4v09iv2LczW00Ss4imQ3WP",
+      "preview": "https://p.scdn.co/mp3-preview/713864d0f5b6c72e1921861a9cb1c4fd4416a867?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/53722c2f4e6ea41bc73f255131d7e0ab8ccd7ae4",
+      "release_date": "2013-12-18"
+    },
+    {
+      "featuredArtist": "The Wanted",
+      "featuredArtistId": "7yvTVBk6rPyekp664Vi6rF",
+      "trackName": "Have Some Fun",
+      "trackId": "58HVUeWWkUkEIMA5NxKxEM",
+      "preview": "https://p.scdn.co/mp3-preview/4ed18a859542f8f71217ab357b5a76996e1e2c35?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/53722c2f4e6ea41bc73f255131d7e0ab8ccd7ae4",
+      "release_date": "2013-12-18"
+    },
+    {
+      "featuredArtist": "Danny Mercer",
+      "featuredArtistId": "0e9P96siQmxphVXAwTy2pa",
+      "trackName": "Outta Nowhere",
+      "trackId": "6RBJTLdQkFXWaRSeD1i2k8",
+      "preview": "https://p.scdn.co/mp3-preview/016fe7944e8406af2d638dcff49420c3a20220b6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/53722c2f4e6ea41bc73f255131d7e0ab8ccd7ae4",
+      "release_date": "2013-12-18"
+    },
+    {
+      "featuredArtist": "Havana Brown",
+      "featuredArtistId": "1EVWYRr2obCRDoSoD6KSuM",
+      "trackName": "Last Night",
+      "trackId": "1mOiDvC1qI6bK4grr74x2W",
+      "preview": "https://p.scdn.co/mp3-preview/aa945023c0779be01e6bb609ab77624679d3ee6c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/53722c2f4e6ea41bc73f255131d7e0ab8ccd7ae4",
+      "release_date": "2013-12-18"
+    },
+    {
+      "featuredArtist": "Akon",
+      "featuredArtistId": "0z4gvV4rjIZ9wHck67ucSV",
+      "trackName": "Everybody Fucks",
+      "trackId": "2upLsYLU6XignYBWGbQXNC",
+      "preview": "https://p.scdn.co/mp3-preview/0849fac76bd425a2c1a9f52ee23a45921c9673e7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/53722c2f4e6ea41bc73f255131d7e0ab8ccd7ae4",
+      "release_date": "2013-12-18"
+    },
+    {
+      "featuredArtist": "David Rush",
+      "featuredArtistId": "5IqWDVLGThjmkm22e3oBU3",
+      "trackName": "Everybody Fucks",
+      "trackId": "2upLsYLU6XignYBWGbQXNC",
+      "preview": "https://p.scdn.co/mp3-preview/0849fac76bd425a2c1a9f52ee23a45921c9673e7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/53722c2f4e6ea41bc73f255131d7e0ab8ccd7ae4",
+      "release_date": "2013-12-18"
+    },
+    {
+      "featuredArtist": "Shakira",
+      "featuredArtistId": "0EmeFodog0BfCgMzAIvKQp",
+      "trackName": "Get It Started",
+      "trackId": "7fSPfhzHnH8t7Ah6VHmNWN",
+      "preview": "https://p.scdn.co/mp3-preview/727121c7020c2f9280a9e16eee44b8cc2be124e4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/53722c2f4e6ea41bc73f255131d7e0ab8ccd7ae4",
+      "release_date": "2013-12-18"
+    },
+    {
+      "featuredArtist": "Vein",
+      "featuredArtistId": "3BnF35ARlp8mMeyXTjUZsr",
+      "trackName": "11:59",
+      "trackId": "3UjDrVdM5B5f0IkGzCINn4",
+      "preview": "https://p.scdn.co/mp3-preview/cce74ffcdfe34d2116538058906c0041dd061bce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/53722c2f4e6ea41bc73f255131d7e0ab8ccd7ae4",
+      "release_date": "2013-12-18"
+    },
+    {
+      "featuredArtist": "Kelly Rowland",
+      "featuredArtistId": "3AuMNF8rQAKOzjYppFNAoB",
+      "trackName": "That High",
+      "trackId": "5t8o66iRJDTMMCNuclADpS",
+      "preview": "https://p.scdn.co/mp3-preview/86ded53a0627f14e232e6ad5019fb7cf86ec34d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/53722c2f4e6ea41bc73f255131d7e0ab8ccd7ae4",
+      "release_date": "2013-12-18"
+    },
+    {
+      "featuredArtist": "Mayer Hawthorne",
+      "featuredArtistId": "4d53BMrRlQkrQMz5d59f2O",
+      "trackName": "Do It",
+      "trackId": "5XSSpzGHuNcdN1RAkIDEP8",
+      "preview": "https://p.scdn.co/mp3-preview/900568bc0c617e29cdd954896b355ab7d77f9fd9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/53722c2f4e6ea41bc73f255131d7e0ab8ccd7ae4",
+      "release_date": "2013-12-18"
+    },
+    {
+      "featuredArtist": "PLAYB4CK",
+      "featuredArtistId": "3e4xwkRUZyECVrJAp1YYx1",
+      "trackName": "Sun in California",
+      "trackId": "2mqnmvZlRUyjkJzjOZSgmN",
+      "preview": "https://p.scdn.co/mp3-preview/9cd9702a31945b5a7eaa4b6522d979f729897177?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/53722c2f4e6ea41bc73f255131d7e0ab8ccd7ae4",
+      "release_date": "2013-12-18"
+    },
+    {
+      "featuredArtist": "Inna",
+      "featuredArtistId": "33LWaNxL1mOj8UAfyuyCsD",
+      "trackName": "All the Things",
+      "trackId": "7vBU3388hnVFaf7XlaLwIi",
+      "preview": "https://p.scdn.co/mp3-preview/56f9a75901a7bdaeb2cd4fe5106b4368bda15eb8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/53722c2f4e6ea41bc73f255131d7e0ab8ccd7ae4",
+      "release_date": "2013-12-18"
+    },
+    {
+      "featuredArtist": "TJR",
+      "featuredArtistId": "69XeznHT7ZrjHaG9GND72h",
+      "trackName": "Don't Stop the Party",
+      "trackId": "0dPFCPEc8R468BklXNl4lk",
+      "preview": "https://p.scdn.co/mp3-preview/dba7c192ec3794497184098c11c753b50501bb17?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3edb3f970f4a3af9ef922efd18cdb4dabaf85ced",
+      "release_date": "2012-11-19"
+    },
+    {
+      "featuredArtist": "TJR",
+      "featuredArtistId": "2L8yW8GIoirHEdeW4bWQXq",
+      "trackName": "Don't Stop The Party",
+      "trackId": "4vnTI9iS5uwt2ryBA5teCU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3edb3f970f4a3af9ef922efd18cdb4dabaf85ced",
+      "release_date": "2012-11-19"
+    },
+    {
+      "featuredArtist": "Marc Anthony",
+      "featuredArtistId": "4wLXwxDeWQ8mtUIRPxGiD6",
+      "trackName": "Rain Over Me",
+      "trackId": "0rjIDy5qiqlyb5Ztog0eAG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3edb3f970f4a3af9ef922efd18cdb4dabaf85ced",
+      "release_date": "2012-11-19"
+    },
+    {
+      "featuredArtist": "Nayer",
+      "featuredArtistId": "1ruutHJcECI7cos2n5TqpO",
+      "trackName": "Give Me Everything",
+      "trackId": "4ZcfMnoYsXee46lBckekVK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3edb3f970f4a3af9ef922efd18cdb4dabaf85ced",
+      "release_date": "2012-11-19"
+    },
+    {
+      "featuredArtist": "T-Pain",
+      "featuredArtistId": "3aQeKQSyrW4qWr35idm0cy",
+      "trackName": "Hey Baby (Drop It To The Floor)",
+      "trackId": "3J49jzfw2BsR9TXyG0HhhO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3edb3f970f4a3af9ef922efd18cdb4dabaf85ced",
+      "release_date": "2012-11-19"
+    },
+    {
+      "featuredArtist": "Alle",
+      "featuredArtistId": "4MHssKddnziCghmwBHRiEY",
+      "trackName": "Rain Over Me - Benny Benassi Remix",
+      "trackId": "6GPER1Sx8MrBiwWxdulg5Q",
+      "preview": "https://p.scdn.co/mp3-preview/9f46c3fdcba938e03adb09f6ec509220b7bc1569?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3edb3f970f4a3af9ef922efd18cdb4dabaf85ced",
+      "release_date": "2012-11-16"
+    },
+    {
+      "featuredArtist": "Benny Benassi",
+      "featuredArtistId": "4Ws2otunReOa6BbwxxpCt6",
+      "trackName": "Rain Over Me - Benny Benassi Remix",
+      "trackId": "6GPER1Sx8MrBiwWxdulg5Q",
+      "preview": "https://p.scdn.co/mp3-preview/9f46c3fdcba938e03adb09f6ec509220b7bc1569?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3edb3f970f4a3af9ef922efd18cdb4dabaf85ced",
+      "release_date": "2012-11-16"
+    }
+  ]
+}

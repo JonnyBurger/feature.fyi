@@ -1,0 +1,59 @@
+{
+  "artistName": "Vicente Fernández",
+  "features": [
+    {
+      "featuredArtist": "Alejandro Fernandez",
+      "featuredArtistId": "6sq1yF0OZEWA4xoXVKW1L9",
+      "trackName": "Paloma Querida - En Vivo [Un Azteca en el Azteca]",
+      "trackId": "6UrOMFzdhbURLO3Bl2BKNU",
+      "preview": "https://p.scdn.co/mp3-preview/51ae76e362a84c72f24b63b38d96bae55b9ba024?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/786394aa21212a33689f43553e64d08b85b606a8",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "Vicente Fernández Hijo",
+      "featuredArtistId": "5lGsLZE90LVgeCOEorndIu",
+      "trackName": "Vamos a Cuidarla Mas",
+      "trackId": "6YrKjGLcqQAsDIUH5ze8p8",
+      "preview": "https://p.scdn.co/mp3-preview/58974dc62f1dc2b2460aa1190d5c8159ec9230aa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0aebb63131f901018f0ddb28b850a445ea6f0925",
+      "release_date": "2012-09-11"
+    },
+    {
+      "featuredArtist": "Joan Sebastian",
+      "featuredArtistId": "7FsRH5bw8iWpSbMX1G7xf1",
+      "trackName": "El Ultimo Barco",
+      "trackId": "66wcyuFLhTSFupAwMFBIQK",
+      "preview": "https://p.scdn.co/mp3-preview/d618ba769378271bd80f09a732b6cc2a28159234?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/04a41a8cdb32fd1f499e22090c3125fe40be3467",
+      "release_date": "2011-11-21"
+    },
+    {
+      "featuredArtist": "Antonio Aguilar",
+      "featuredArtistId": "0PN0fbe41KbuzlRYnoajNm",
+      "trackName": "La Tumba Abandonada",
+      "trackId": "1rpxnyRN3E1r0JDpUG0x4I",
+      "preview": "https://p.scdn.co/mp3-preview/76962e8ebd2e9f6b6ca972bb64a0ba15c1ced4c7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/42a946341842d9ddd0c3c889ac965f26f49e7477",
+      "release_date": "2009-03-24"
+    },
+    {
+      "featuredArtist": "Pedro Infante",
+      "featuredArtistId": "7y33enVLfDvft6HGNmcxdV",
+      "trackName": "El Charro Mexicano (Album Version)",
+      "trackId": "1tI3qXoXcrgV0dEd5x3Lu0",
+      "preview": "https://p.scdn.co/mp3-preview/274a74ac44010d315308730f71deb6dbda577931?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/499e6b42d361aab48b118f3359df2720120f19ce",
+      "release_date": "2008-08-01"
+    },
+    {
+      "featuredArtist": "Jorge Negrete",
+      "featuredArtistId": "4W5RbLZybsLfAzE7QqdibE",
+      "trackName": "El Charro Mexicano (Album Version)",
+      "trackId": "1tI3qXoXcrgV0dEd5x3Lu0",
+      "preview": "https://p.scdn.co/mp3-preview/274a74ac44010d315308730f71deb6dbda577931?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/499e6b42d361aab48b118f3359df2720120f19ce",
+      "release_date": "2008-08-01"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "artistName": "Stanaj",
+  "features": [
+    {
+      "featuredArtist": "Afrojack",
+      "featuredArtistId": "4D75GcNG95ebPtNvoNVXhz",
+      "trackName": "Bed Of Roses (feat. Stanaj)",
+      "trackId": "0jb8yv9BI9BEOPDBXiwTnc",
+      "preview": "https://p.scdn.co/mp3-preview/426c480bbd20ee409e8aecc34b9506fc63bd45b9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/42f3388228d2db27ebcb3af18931783366d233b0",
+      "release_date": "2018-02-14"
+    },
+    {
+      "featuredArtist": "NOTD",
+      "featuredArtistId": "5jAMCwdNHWr7JThxtMuEyy",
+      "trackName": "Romantic - NOTD Remix",
+      "trackId": "3SGWp9fJCzgK0WcpcKSQdy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1ad1be8ca4f5e79e4af13ff16babc9d20534cb03",
+      "release_date": "2017-01-27"
+    },
+    {
+      "featuredArtist": "Lemaitre",
+      "featuredArtistId": "4CTKqs11Zgsv8EZTVzx764",
+      "trackName": "Playing To Lose",
+      "trackId": "2w6xACPA4jjAiI3jmPC8dj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5726ca65966fab9d4006827a846d4d9bfba01f63",
+      "release_date": "2017-06-02"
+    },
+    {
+      "featuredArtist": "Coucheron",
+      "featuredArtistId": "6ly2Z6h9dOerORbK1l2N8D",
+      "trackName": "Playing To Lose - Coucheron Remix",
+      "trackId": "7k1WUP7ADvuRL9UN8TsTTD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5726ca65966fab9d4006827a846d4d9bfba01f63",
+      "release_date": "2017-06-02"
+    },
+    {
+      "featuredArtist": "Mazde",
+      "featuredArtistId": "60ELFqAhwT7jwRKJV6Rgfx",
+      "trackName": "Playing To Lose - Mazde Remix",
+      "trackId": "0XBzkfkYvjdscgvgSjGDdp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e0e55cd8d9b140c18064ab570be54357019f1067",
+      "release_date": "2017-04-07"
+    }
+  ]
+}

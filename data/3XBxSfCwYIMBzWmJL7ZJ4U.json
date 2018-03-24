@@ -1,0 +1,23 @@
+{
+  "artistName": "Jason Walker",
+  "features": [
+    {
+      "featuredArtist": "Molly Reed",
+      "featuredArtistId": "5EnLvjl2LaEypAYuJCTpzP",
+      "trackName": "The Way Back (feat. Molly Reed)",
+      "trackId": "64RcdMCjYJcz3zv0TX10k8",
+      "preview": "https://p.scdn.co/mp3-preview/18cf6e5b314be61ee9af547bd67944d166d32f9a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/71ea57e0b8a98dc930c982e28e10054fc99a1956",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Kygo",
+      "featuredArtistId": "23fqKkggKUBHNkbKtXEls4",
+      "trackName": "Sunrise",
+      "trackId": "4ODnJrz0C3AJ4DFv8YQhJ8",
+      "preview": "https://p.scdn.co/mp3-preview/7da1d2af23a56a2f44ddf77b37ff12ab9f2a8bee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f4381e0dbbe8f3f8a7407fbeb7bb45cc7f490319",
+      "release_date": "2017-11-03"
+    }
+  ]
+}

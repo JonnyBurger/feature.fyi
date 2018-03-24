@@ -1,0 +1,113 @@
+{
+  "artistName": "The Weeknd",
+  "features": [
+    {
+      "featuredArtist": "Kendrick Lamar",
+      "featuredArtistId": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "trackName": "Pray For Me (with Kendrick Lamar)",
+      "trackId": "4FKqLfrZNloY0vp8Pxjz6c",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dfc8859cfa4ac0a761742f6b64e45f4ea65ece50",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Daft Punk",
+      "featuredArtistId": "4tZwfgrHOc3mvqYlEYSvVi",
+      "trackName": "Starboy",
+      "trackId": "5aAx2yezTd8zXrkmtKl66Z",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c7ef91e8327dec51919d1f3be37a411b4028306",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "Lana Del Rey",
+      "featuredArtistId": "00FQb4jTyendYWaN8pK0wa",
+      "trackName": "Stargirl Interlude",
+      "trackId": "3QvwFrhH9MTpeskhOaNDl4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c7ef91e8327dec51919d1f3be37a411b4028306",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "Future",
+      "featuredArtistId": "1RyvyyTE3xzB2ZywiAwp0i",
+      "trackName": "All I Know",
+      "trackId": "7LjrpYAKy6hPmncnK2Ju9s",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c7ef91e8327dec51919d1f3be37a411b4028306",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "Labrinth",
+      "featuredArtistId": "2feDdbD5araYcm6JhFHHw7",
+      "trackName": "Losers",
+      "trackId": "2bWO9puW3hXQcZZsehDRCo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51a60fbb7daba6e6fbc0d3b47e34017dce6f3921",
+      "release_date": "2016-03-16"
+    },
+    {
+      "featuredArtist": "Ed Sheeran",
+      "featuredArtistId": "6eUKZXaKkcviH0Ku9w2n3V",
+      "trackName": "Dark Times",
+      "trackId": "3JOh1LxSDVjTLF5DAB8R5M",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51a60fbb7daba6e6fbc0d3b47e34017dce6f3921",
+      "release_date": "2016-03-16"
+    },
+    {
+      "featuredArtist": "Martin Garrix",
+      "featuredArtistId": "60d24wfXkVzDSfLS6hyCjZ",
+      "trackName": "Can't Feel My Face - Martin Garrix Remix",
+      "trackId": "5KIfOGEy5DM2TaT0ph5nYM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51a60fbb7daba6e6fbc0d3b47e34017dce6f3921",
+      "release_date": "2016-03-16"
+    },
+    {
+      "featuredArtist": "Eminem",
+      "featuredArtistId": "7dGJo4pcD2V6oG8kP0tJRR",
+      "trackName": "The Hills - Remix",
+      "trackId": "2jpBr2dJrIgrpkqorINSAa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51a60fbb7daba6e6fbc0d3b47e34017dce6f3921",
+      "release_date": "2016-03-16"
+    },
+    {
+      "featuredArtist": "Nicki Minaj",
+      "featuredArtistId": "0hCNtLu0JehylgoiP8L4Gh",
+      "trackName": "The Hills - Remix",
+      "trackId": "019FM2BxcPE2vyGWeOWhvS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51a60fbb7daba6e6fbc0d3b47e34017dce6f3921",
+      "release_date": "2016-03-16"
+    },
+    {
+      "featuredArtist": "Drake",
+      "featuredArtistId": "3TVXtAsR1Inumwj472S9r4",
+      "trackName": "Live For",
+      "trackId": "4ER9305DBAmJqj2P96TfBr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fde042d83420fb598bc180b7a52e547e4474595f",
+      "release_date": "2013-09-10"
+    },
+    {
+      "featuredArtist": "Kavinsky",
+      "featuredArtistId": "0UF7XLthtbSF2Eur7559oV",
+      "trackName": "Odd Look",
+      "trackId": "7xcqbjV2NfxlnJzqdRuO7E",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fde042d83420fb598bc180b7a52e547e4474595f",
+      "release_date": "2013-09-10"
+    },
+    {
+      "featuredArtist": "Juicy J",
+      "featuredArtistId": "5gCRApTajqwbnHHPbr2Fpi",
+      "trackName": "Same Old Song",
+      "trackId": "3nE2A8sGDAI2nzGSI8Rzd6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5eeea2eae09dae3f224f4d440e8222825c124b28",
+      "release_date": "2013-01-01"
+    }
+  ]
+}

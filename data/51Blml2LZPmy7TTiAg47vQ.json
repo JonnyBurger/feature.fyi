@@ -1,0 +1,50 @@
+{
+  "artistName": "U2",
+  "features": [
+    {
+      "featuredArtist": "Kygo",
+      "featuredArtistId": "23fqKkggKUBHNkbKtXEls4",
+      "trackName": "You’re The Best Thing About Me - U2 Vs. Kygo",
+      "trackId": "69cfoDJXbbDr8K5WeAUovq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cf6df046315e3f28af7f5ffb569343c3b66d87de",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Jacknife Lee",
+      "featuredArtistId": "1fixTBy0r22vTuK2sQNAqY",
+      "trackName": "The Blackout - Jacknife Lee Remix",
+      "trackId": "2OEKjqZMbRTf4EXZaHGfi7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cf6df046315e3f28af7f5ffb569343c3b66d87de",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Lykke Li",
+      "featuredArtistId": "6oBm8HB0yfrIc9IHbxs6in",
+      "trackName": "The Troubles",
+      "trackId": "6Y5gGZ0EmnixJ65KA6RaJl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0737936f39dc7479ac65f68f52311680eaaeead0",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "The Edge",
+      "featuredArtistId": "1X8wFHJFucBUmBc7spQ4jP",
+      "trackName": "The Wanderer",
+      "trackId": "4163s5AIcfezLq6kpncyvB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cd348474fbf3ffb521aa8a856ef1c71462783d77",
+      "release_date": "1993-07-05"
+    },
+    {
+      "featuredArtist": "Johnny Cash",
+      "featuredArtistId": "6kACVPfCOnqzgfEF5ryl0x",
+      "trackName": "The Wanderer",
+      "trackId": "4163s5AIcfezLq6kpncyvB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cd348474fbf3ffb521aa8a856ef1c71462783d77",
+      "release_date": "1993-07-05"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "artistName": "Empire of the Sun",
+  "features": [
+    {
+      "featuredArtist": "Cornelius",
+      "featuredArtistId": "2vJObElaIZWYDLpiXiJMo9",
+      "trackName": "Way To Go - Cornelius Mix",
+      "trackId": "6xBXeD4TnRahBycP0Std89",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2dba94ca150d927532af414618592a0d0b4666fb",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Gomez & Tritter",
+      "featuredArtistId": "1kLwvrdz4RnNBxg1kd1BzP",
+      "trackName": "Way To Go - Gomez & Tritter Remix",
+      "trackId": "0v1clhvSL0fXkufjCQJ3vv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2dba94ca150d927532af414618592a0d0b4666fb",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Cornelius",
+      "featuredArtistId": "4ZME0SddXHldae8wVke7Hq",
+      "trackName": "Way To Go - Cornelius Mix",
+      "trackId": "0jE8LoiBKNQJTV5WEr1VCo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/35a7c41f416d1b415f6a57df5a261018e56b1718",
+      "release_date": "2017-11-10"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "artistName": "Katy Perry",
+  "features": [
+    {
+      "featuredArtist": "Nicki Minaj",
+      "featuredArtistId": "0hCNtLu0JehylgoiP8L4Gh",
+      "trackName": "Swish Swish",
+      "trackId": "2kVHAQKVtczchKctctzbtK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d5d9826e2a0f63a63c6c32d11d5a114d69559739",
+      "release_date": "2017-06-09"
+    },
+    {
+      "featuredArtist": "Skip Marley",
+      "featuredArtistId": "4ryoUS0W8qXokfMxrlJt6O",
+      "trackName": "Chained To The Rhythm",
+      "trackId": "6520aj0B4FSKGVuKNsOCOi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d5d9826e2a0f63a63c6c32d11d5a114d69559739",
+      "release_date": "2017-06-09"
+    },
+    {
+      "featuredArtist": "Migos",
+      "featuredArtistId": "6oMuImdp5ZcFhWP0ESe6mG",
+      "trackName": "Bon appétit",
+      "trackId": "61WbtB6ujkpNAsAf5LjF4b",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d5d9826e2a0f63a63c6c32d11d5a114d69559739",
+      "release_date": "2017-06-09"
+    },
+    {
+      "featuredArtist": "Juicy J",
+      "featuredArtistId": "5gCRApTajqwbnHHPbr2Fpi",
+      "trackName": "Dark Horse",
+      "trackId": "3dcnygRsyW2U390tK79Ck5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e68e1a8046af77e2c9f23ef348d3c88c3a9f5f01",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Timbaland",
+      "featuredArtistId": "5Y5TRrQiqgUO4S36tzjIRZ",
+      "trackName": "If We Ever Meet Again - feat. Katy Perry",
+      "trackId": "0PRqWiyOFMHVee81mr1bp6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3e731d978d24885af970ca865818d60ecd66b787",
+      "release_date": "2010-08-24"
+    },
+    {
+      "featuredArtist": "3OH!3",
+      "featuredArtistId": "0FWzNDaEu9jdgcYTbcOa4F",
+      "trackName": "Starstrukk - feat. Katy Perry",
+      "trackId": "1CuzzAbJ4q28V5JOLCzQVp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3e731d978d24885af970ca865818d60ecd66b787",
+      "release_date": "2010-08-24"
+    },
+    {
+      "featuredArtist": "Snoop Dogg",
+      "featuredArtistId": "7hJcb9fa4alzcOq3EaNPoG",
+      "trackName": "California Gurls (feat. Snoop Dogg) [Passion Pit Main Mix]",
+      "trackId": "7BAuEd5WLrd4gHKyInRk4B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3e731d978d24885af970ca865818d60ecd66b787",
+      "release_date": "2010-08-24"
+    }
+  ]
+}

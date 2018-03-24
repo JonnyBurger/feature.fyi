@@ -1,0 +1,32 @@
+{
+  "artistName": "Alex Clare",
+  "features": [
+    {
+      "featuredArtist": "Distance",
+      "featuredArtistId": "1FvQZpPhaVvSoQnpslxnvb",
+      "trackName": "Too Close - Distance Remix",
+      "trackId": "0D0CrN6cgr2QNNmmY8Jukw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4a3e9b97df3abe096c9a2a6ad8ded9cc2e25ba1b",
+      "release_date": "2011"
+    },
+    {
+      "featuredArtist": "Still",
+      "featuredArtistId": "0H8W5Tl3kcRtvFWS8ZPiFV",
+      "trackName": "Love Can Heal (Still Remix)",
+      "trackId": "7DTxcybpDpNSsV4lkynkD7",
+      "preview": "https://p.scdn.co/mp3-preview/387ea71a0bd1e6dbd40f1531d4adbf26c573da11?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8fea8a895086f7c91fc28cf245e92626f9cd8c6c",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Tropics",
+      "featuredArtistId": "0d00ssafltw8HYv2zxe4fD",
+      "trackName": "Tell Me What You Need (Tropics Remix)",
+      "trackId": "2diwDlADXH1MNMguCNKADX",
+      "preview": "https://p.scdn.co/mp3-preview/7689ae14ca2aeac908230b12a6dc2ccf03755ab5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8ac14b019c9eb53cf8386d5a223c4533a69da5e4",
+      "release_date": "2016-11-28"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "artistName": "Janet Jackson",
+  "features": [
+    {
+      "featuredArtist": "Missy Elliott",
+      "featuredArtistId": "2wIVse2owClT7go1WT98tk",
+      "trackName": "BURNITUP! (feat. Missy Elliott)",
+      "trackId": "4DPchY1gI9GsYpowAPjsWg",
+      "preview": "https://p.scdn.co/mp3-preview/39b1def3fc4f80d3574c1ed4af793e27d3155a05?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f42a8d92daa1d3f2581d39d171325b86bc47b8b4",
+      "release_date": "2015-10-02"
+    },
+    {
+      "featuredArtist": "J. Cole",
+      "featuredArtistId": "6l3HvQ5sa6mXTsMTB19rO5",
+      "trackName": "No Sleeep (feat. J. Cole)",
+      "trackId": "68h9sAKceAX0hCieBq9BFm",
+      "preview": "https://p.scdn.co/mp3-preview/328cf91dc95b63527dfad48bbe352c979f80651a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f42a8d92daa1d3f2581d39d171325b86bc47b8b4",
+      "release_date": "2015-10-02"
+    },
+    {
+      "featuredArtist": "AFSHeeN",
+      "featuredArtistId": "5iwLVxdLzgm1cLrZunXzWR",
+      "trackName": "No Sleeep (feat. J. Cole) - AFSHeeN Remix",
+      "trackId": "79LdJs1zaxRp8nZAfzdyYD",
+      "preview": "https://p.scdn.co/mp3-preview/1d772cb64c7cd3e98d4a3bf3a54dd02c2f97d967?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f42a8d92daa1d3f2581d39d171325b86bc47b8b4",
+      "release_date": "2015-10-02"
+    },
+    {
+      "featuredArtist": "AFSHeeN",
+      "featuredArtistId": "004n5buuwjn1Gu9sOeM0vX",
+      "trackName": "No Sleeep - AFSHeeN Remix",
+      "trackId": "6HJW1en7UFUhKyuF4kiZV9",
+      "preview": "https://p.scdn.co/mp3-preview/0927ad8c104d8d3ccf461a01a76ebc4bbdb74819?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/433f5312e8c7f3e1b3ee3264006dd854204e0f49",
+      "release_date": "2015-10-02"
+    },
+    {
+      "featuredArtist": "Carly Simon",
+      "featuredArtistId": "4FtSnMlCVxCswABUmdhwpm",
+      "trackName": "Clouds (Interlude)",
+      "trackId": "1YH1uNdhWVu4eLlp39OKSj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dd6fef1078a3f6a8adf404ef850f5141ada0225e",
+      "release_date": "2001-01-01"
+    }
+  ]
+}

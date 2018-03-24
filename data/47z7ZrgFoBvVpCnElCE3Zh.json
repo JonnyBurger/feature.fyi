@@ -1,0 +1,689 @@
+{
+  "artistName": "Yellow Claw",
+  "features": [
+    {
+      "featuredArtist": "Sophie Simmons",
+      "featuredArtistId": "7AOCUMe3rKW4o3uADBNwVy",
+      "trackName": "Home - feat. Sophie Simmons",
+      "trackId": "0HT7mg4SUaIUI4jBjE2awZ",
+      "preview": "https://p.scdn.co/mp3-preview/df773657a6b0035c9c6b8f4b131d40ead5844d69?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/78445db6c107dcee9d20ede1d39ec3ecefa4d68f",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Gia Koka",
+      "featuredArtistId": "71WExccCBN2mw0klSzfYzz",
+      "trackName": "Without You - feat. Gia Koka & The Galaxy",
+      "trackId": "4K88dZISv9PJ6tCqZql2OF",
+      "preview": "https://p.scdn.co/mp3-preview/d6fa9901b3e1312f49002fbb7d6a5f4a44b7fb73?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/78445db6c107dcee9d20ede1d39ec3ecefa4d68f",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "The Galaxy",
+      "featuredArtistId": "1a7aOqigZ5aWIaagMLlHC4",
+      "trackName": "Without You - feat. Gia Koka & The Galaxy",
+      "trackId": "4K88dZISv9PJ6tCqZql2OF",
+      "preview": "https://p.scdn.co/mp3-preview/d6fa9901b3e1312f49002fbb7d6a5f4a44b7fb73?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/78445db6c107dcee9d20ede1d39ec3ecefa4d68f",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Yade Lauren",
+      "featuredArtistId": "2YkP9pfIZ6hJKeuppuz8qT",
+      "trackName": "Love & War - feat. Yade Lauren",
+      "trackId": "2EqwwnEhcQHvKcadeyWZR2",
+      "preview": "https://p.scdn.co/mp3-preview/7cfaef124650cdfc03a4756b4b622fee7c14e629?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/78445db6c107dcee9d20ede1d39ec3ecefa4d68f",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "DJ Snake",
+      "featuredArtistId": "540vIaP2JwjQb9dm3aArA4",
+      "trackName": "Good Day - feat. DJ Snake & Elliphant",
+      "trackId": "3BtDZt1UEH3vc9bg62fRwJ",
+      "preview": "https://p.scdn.co/mp3-preview/52c98cf76d8b05d0e9ea97aa7aef01c7b8ef2dab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/78445db6c107dcee9d20ede1d39ec3ecefa4d68f",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Elliphant",
+      "featuredArtistId": "134GdR5tUtxJrf8cpsfpyY",
+      "trackName": "Good Day - feat. DJ Snake & Elliphant",
+      "trackId": "3BtDZt1UEH3vc9bg62fRwJ",
+      "preview": "https://p.scdn.co/mp3-preview/52c98cf76d8b05d0e9ea97aa7aef01c7b8ef2dab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/78445db6c107dcee9d20ede1d39ec3ecefa4d68f",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Jonna Fraser",
+      "featuredArtistId": "5adKMaYrGOMyOfnbiLPuHg",
+      "trackName": "Open - feat. Jonna Fraser & Moksi",
+      "trackId": "2xMmy1HADwqSGVAPAQJu3N",
+      "preview": "https://p.scdn.co/mp3-preview/9f035bb203d35b35befe668b71e0860916097ff5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/78445db6c107dcee9d20ede1d39ec3ecefa4d68f",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Moksi",
+      "featuredArtistId": "5jm3x1qIibWdKSEMw2G011",
+      "trackName": "Open - feat. Jonna Fraser & Moksi",
+      "trackId": "2xMmy1HADwqSGVAPAQJu3N",
+      "preview": "https://p.scdn.co/mp3-preview/9f035bb203d35b35befe668b71e0860916097ff5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/78445db6c107dcee9d20ede1d39ec3ecefa4d68f",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Juicy J",
+      "featuredArtistId": "5gCRApTajqwbnHHPbr2Fpi",
+      "trackName": "City on Lockdown - feat. Juicy J & Lil Debbie",
+      "trackId": "4toJBaULG9UTOghbHtJzQ7",
+      "preview": "https://p.scdn.co/mp3-preview/97488545e1d4c2e05d542596934c3f61e8e65769?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/78445db6c107dcee9d20ede1d39ec3ecefa4d68f",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Lil Debbie",
+      "featuredArtistId": "3FNZcjyqT7F5upP99JV0oN",
+      "trackName": "City on Lockdown - feat. Juicy J & Lil Debbie",
+      "trackId": "4toJBaULG9UTOghbHtJzQ7",
+      "preview": "https://p.scdn.co/mp3-preview/97488545e1d4c2e05d542596934c3f61e8e65769?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/78445db6c107dcee9d20ede1d39ec3ecefa4d68f",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Otis Parker",
+      "featuredArtistId": "4FwSZpYrcRPxXhBhkpXY8N",
+      "trackName": "Friends In The Dark - feat. Otis Parker",
+      "trackId": "6GyIdHJsaDnZFNYt8ahe5T",
+      "preview": "https://p.scdn.co/mp3-preview/5292bc544644cd624119a76ad656992e0ca6adfe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/78445db6c107dcee9d20ede1d39ec3ecefa4d68f",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Quavo",
+      "featuredArtistId": "0VRj0yCOv2FXJNP47XQnx5",
+      "trackName": "Stacks - feat. Quavo, Tinie Tempah & Cesqeaux",
+      "trackId": "5yNgZfToWkYr5WZvtJqi8W",
+      "preview": "https://p.scdn.co/mp3-preview/b33ccd6e0fe5536638d4aacdef89ad3cee1dc5fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/78445db6c107dcee9d20ede1d39ec3ecefa4d68f",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Tinie Tempah",
+      "featuredArtistId": "0Tob4H0FLtEONHU1MjpUEp",
+      "trackName": "Stacks - feat. Quavo, Tinie Tempah & Cesqeaux",
+      "trackId": "5yNgZfToWkYr5WZvtJqi8W",
+      "preview": "https://p.scdn.co/mp3-preview/b33ccd6e0fe5536638d4aacdef89ad3cee1dc5fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/78445db6c107dcee9d20ede1d39ec3ecefa4d68f",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Cesqeaux",
+      "featuredArtistId": "1EAFXic0Cfiwpe7nSuTrGL",
+      "trackName": "Stacks - feat. Quavo, Tinie Tempah & Cesqeaux",
+      "trackId": "5yNgZfToWkYr5WZvtJqi8W",
+      "preview": "https://p.scdn.co/mp3-preview/b33ccd6e0fe5536638d4aacdef89ad3cee1dc5fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/78445db6c107dcee9d20ede1d39ec3ecefa4d68f",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Sody",
+      "featuredArtistId": "01y8iBZYk8aeNfPsuTVrAt",
+      "trackName": "Last Paradise - feat. Sody",
+      "trackId": "2rXosD0EXXgOhohTGZrnzi",
+      "preview": "https://p.scdn.co/mp3-preview/415a7a16ac9d365feabf94271f848ec56681c5ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/78445db6c107dcee9d20ede1d39ec3ecefa4d68f",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Rochelle",
+      "featuredArtistId": "55RKbZHb1yAXuvEHTIyaxJ",
+      "trackName": "Light Years - feat. Rochelle",
+      "trackId": "4uTL18SDpuG9Cebkqtazdi",
+      "preview": "https://p.scdn.co/mp3-preview/4be1e6b775fd80c2efc30afc3ee873108b20a470?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/78445db6c107dcee9d20ede1d39ec3ecefa4d68f",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "GTA",
+      "featuredArtistId": "6M7RdR9ZP52h2mfNLmiHtU",
+      "trackName": "Hold On To Me - feat. GTA",
+      "trackId": "5Q20cyI2vDvmizjrMPI1Y3",
+      "preview": "https://p.scdn.co/mp3-preview/227c6cfbdc539d5874e55287e09c54be01325784?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/78445db6c107dcee9d20ede1d39ec3ecefa4d68f",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Stor-I",
+      "featuredArtistId": "2MQntc01CbulLUsR5tz4lU",
+      "trackName": "Rose Horizon - feat. STORi",
+      "trackId": "1ETiTQeGni6XQ2fb4PBKMD",
+      "preview": "https://p.scdn.co/mp3-preview/45e1109dec947a4f853a3c6bca4abf35d1004c7d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/78445db6c107dcee9d20ede1d39ec3ecefa4d68f",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "STORi",
+      "featuredArtistId": "0cNL0rBLHK5qIViN1EYM6h",
+      "trackName": "Rose Horizon (feat. STORi)",
+      "trackId": "4qAvyvaUGLYQVJnPR6THDc",
+      "preview": "https://p.scdn.co/mp3-preview/61d5700986e1fc027cb42fa0f15e6c75407273d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/11f09338a429d1ab80855eee311fedff29656be9",
+      "release_date": "2017-03-31"
+    },
+    {
+      "featuredArtist": "DJ Snake",
+      "featuredArtistId": "6LfRKKiOHyxMuei2Pn3kMl",
+      "trackName": "Slow Down",
+      "trackId": "1IOJScEHlIcpQ1UmGbnSTM",
+      "preview": "https://p.scdn.co/mp3-preview/78c313320cfa1fbe8693036d4523ad9c2b8c019d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4d004fb0e12fd42d12461ae4b9398d3825d68d4c",
+      "release_date": "2017-01-06"
+    },
+    {
+      "featuredArtist": "Spanker",
+      "featuredArtistId": "6wMnkPepu5AcV3w9rtIw09",
+      "trackName": "Slow Down",
+      "trackId": "1IOJScEHlIcpQ1UmGbnSTM",
+      "preview": "https://p.scdn.co/mp3-preview/78c313320cfa1fbe8693036d4523ad9c2b8c019d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4d004fb0e12fd42d12461ae4b9398d3825d68d4c",
+      "release_date": "2017-01-06"
+    },
+    {
+      "featuredArtist": "Tropkillaz",
+      "featuredArtistId": "5bzWtCkjIAMgN93gLt56SO",
+      "trackName": "Assets",
+      "trackId": "2j7l1AoC4xMSDEvWl38wyn",
+      "preview": "https://p.scdn.co/mp3-preview/cba6d1bc4ebf2cc9863428bada7f57edf855ddbd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4d004fb0e12fd42d12461ae4b9398d3825d68d4c",
+      "release_date": "2017-01-06"
+    },
+    {
+      "featuredArtist": "The Kemist",
+      "featuredArtistId": "1HvF89QVwGlk74nQZC6MCG",
+      "trackName": "Assets",
+      "trackId": "2j7l1AoC4xMSDEvWl38wyn",
+      "preview": "https://p.scdn.co/mp3-preview/cba6d1bc4ebf2cc9863428bada7f57edf855ddbd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4d004fb0e12fd42d12461ae4b9398d3825d68d4c",
+      "release_date": "2017-01-06"
+    },
+    {
+      "featuredArtist": "Adje",
+      "featuredArtistId": "5erZiBCKPxe9FaTiXHO00m",
+      "trackName": "P*$$YRICH",
+      "trackId": "4OaHQdiiEDbJbAH5n0O09x",
+      "preview": "https://p.scdn.co/mp3-preview/9075c6079cb5d4049c84fba79917765ccb9eee12?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4d004fb0e12fd42d12461ae4b9398d3825d68d4c",
+      "release_date": "2017-01-06"
+    },
+    {
+      "featuredArtist": "San Holo",
+      "featuredArtistId": "0jNDKefhfSbLR9sFvcPLHo",
+      "trackName": "Old Days",
+      "trackId": "1qtu6ZCKfqBXWkGfcE4ln9",
+      "preview": "https://p.scdn.co/mp3-preview/b846ad110e655fdebb60433730876c30f8c0d97e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7328ba2f6e8e0e63b1e38ccad1e9d291774ea25",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "Dirtcaps",
+      "featuredArtistId": "2PC3QVYzOPekKLIppjFUoi",
+      "trackName": "Money Machine",
+      "trackId": "5QfGakZDDXE9C1Gk4fo6yP",
+      "preview": "https://p.scdn.co/mp3-preview/9ec14dbf728a0f8212f75f68ff2c68b540c9f1e1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7328ba2f6e8e0e63b1e38ccad1e9d291774ea25",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "Tellem",
+      "featuredArtistId": "0S19RorEJ6KAg48DNRDGrV",
+      "trackName": "Money Machine",
+      "trackId": "5QfGakZDDXE9C1Gk4fo6yP",
+      "preview": "https://p.scdn.co/mp3-preview/9ec14dbf728a0f8212f75f68ff2c68b540c9f1e1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7328ba2f6e8e0e63b1e38ccad1e9d291774ea25",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "Eyelar",
+      "featuredArtistId": "3u4qXYRgHgU7YtjZt9sduX",
+      "trackName": "Roller (feat. Eyelar) - The Galaxy Remix",
+      "trackId": "2BQKZ2DQ8kxIanJj1WWXiZ",
+      "preview": "https://p.scdn.co/mp3-preview/b26527709356a5ac8b3cc26972a531165bc635ff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "The Galaxy",
+      "featuredArtistId": "6HYUJiVOXkIPG8ci1QL4PN",
+      "trackName": "Roller (feat. Eyelar) - The Galaxy Remix",
+      "trackId": "2BQKZ2DQ8kxIanJj1WWXiZ",
+      "preview": "https://p.scdn.co/mp3-preview/b26527709356a5ac8b3cc26972a531165bc635ff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Lil Eddie",
+      "featuredArtistId": "5CY0QKsbUBpQJIE2yycsYi",
+      "trackName": "Higher (feat. Lil Eddie) - Cesqeaux Remix",
+      "trackId": "4kRMwXQuggpsYV4MMvlnYW",
+      "preview": "https://p.scdn.co/mp3-preview/1ca613fe58c08e4e576c7e72981d82f46b34432a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Becky G",
+      "featuredArtistId": "4obzFoKoKRHIphyHzJ35G3",
+      "trackName": "For The Thrill (feat. Becky G) - LNY TNZ Remix",
+      "trackId": "7jfe2ebwB3qC4Meo3bo6ji",
+      "preview": "https://p.scdn.co/mp3-preview/5f00ae3e70e29f5243fb73c02bed5ee7eedde626?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "LNY TNZ",
+      "featuredArtistId": "1x0ScxgiyFRQDKT4VwcLHa",
+      "trackName": "For The Thrill (feat. Becky G) - LNY TNZ Remix",
+      "trackId": "7jfe2ebwB3qC4Meo3bo6ji",
+      "preview": "https://p.scdn.co/mp3-preview/5f00ae3e70e29f5243fb73c02bed5ee7eedde626?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Barrington Levy",
+      "featuredArtistId": "5mMuiFhh7faS7qxnTLRA6u",
+      "trackName": "Nightmare (feat. Pusha T & Barrington Levy) - Ape Drums Remix",
+      "trackId": "3VYswlbAOcOiPeKHhKboux",
+      "preview": "https://p.scdn.co/mp3-preview/e3e53ec3ad433d2772310f50c1629402992df43c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Pusha T",
+      "featuredArtistId": "0ONHkAv9pCAFxb0zJwDNTy",
+      "trackName": "Nightmare (feat. Pusha T & Barrington Levy) - Ape Drums Remix",
+      "trackId": "3VYswlbAOcOiPeKHhKboux",
+      "preview": "https://p.scdn.co/mp3-preview/e3e53ec3ad433d2772310f50c1629402992df43c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Ape Drums",
+      "featuredArtistId": "4HJnsUVBubdKJ2aV0sr48u",
+      "trackName": "Nightmare (feat. Pusha T & Barrington Levy) - Ape Drums Remix",
+      "trackId": "3VYswlbAOcOiPeKHhKboux",
+      "preview": "https://p.scdn.co/mp3-preview/e3e53ec3ad433d2772310f50c1629402992df43c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Mustard",
+      "featuredArtistId": "0YinUQ50QDB7ZxSCLyQ40k",
+      "trackName": "In My Room (feat. Ty Dolla $ign & Tyga) - Midas Hutch Remix",
+      "trackId": "1ckI2nWqjE4zlOQEBvKQcB",
+      "preview": "https://p.scdn.co/mp3-preview/d5ba1a8a6a6c78e8674461da67f7546252ca1051?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Tyga",
+      "featuredArtistId": "5LHRHt1k9lMyONurDHEdrp",
+      "trackName": "In My Room (feat. Ty Dolla $ign & Tyga) - Midas Hutch Remix",
+      "trackId": "1ckI2nWqjE4zlOQEBvKQcB",
+      "preview": "https://p.scdn.co/mp3-preview/d5ba1a8a6a6c78e8674461da67f7546252ca1051?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Ty Dolla $ign",
+      "featuredArtistId": "7c0XG5cIJTrrAgEC3ULPiq",
+      "trackName": "In My Room (feat. Ty Dolla $ign & Tyga) - Midas Hutch Remix",
+      "trackId": "1ckI2nWqjE4zlOQEBvKQcB",
+      "preview": "https://p.scdn.co/mp3-preview/d5ba1a8a6a6c78e8674461da67f7546252ca1051?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Midas Hutch",
+      "featuredArtistId": "3sN7A6NULbpDrV5bAD9B6g",
+      "trackName": "In My Room (feat. Ty Dolla $ign & Tyga) - Midas Hutch Remix",
+      "trackId": "1ckI2nWqjE4zlOQEBvKQcB",
+      "preview": "https://p.scdn.co/mp3-preview/d5ba1a8a6a6c78e8674461da67f7546252ca1051?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Tiësto",
+      "featuredArtistId": "2o5jDhtHVPhrJdv3cEQ99Z",
+      "trackName": "Lifetime (feat. Kyler England) - Victor Niglio Remix",
+      "trackId": "4jKhhI9yV9LdsYxB7SulFN",
+      "preview": "https://p.scdn.co/mp3-preview/780316f171abfaca041308faf80767564319fea1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Kyler England",
+      "featuredArtistId": "6YvjlSVLWjXqSvATafQkSK",
+      "trackName": "Lifetime (feat. Kyler England) - Victor Niglio Remix",
+      "trackId": "4jKhhI9yV9LdsYxB7SulFN",
+      "preview": "https://p.scdn.co/mp3-preview/780316f171abfaca041308faf80767564319fea1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Victor Niglio",
+      "featuredArtistId": "1KAvgimTLG9YZew4b9B4bG",
+      "trackName": "Lifetime (feat. Kyler England) - Victor Niglio Remix",
+      "trackId": "4jKhhI9yV9LdsYxB7SulFN",
+      "preview": "https://p.scdn.co/mp3-preview/780316f171abfaca041308faf80767564319fea1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Flux Pavilion",
+      "featuredArtistId": "7muzHifhMdnfN1xncRLOqk",
+      "trackName": "Catch Me (feat. Naaz) - Candlelight Remix",
+      "trackId": "5c8l70hlhwAgPKAPa49oEh",
+      "preview": "https://p.scdn.co/mp3-preview/c2a268ecb902dd882f8a2e16b2d036310d642761?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Naaz",
+      "featuredArtistId": "736HGQRGr9rjG4VmmSpkz8",
+      "trackName": "Catch Me (feat. Naaz) - Candlelight Remix",
+      "trackId": "5c8l70hlhwAgPKAPa49oEh",
+      "preview": "https://p.scdn.co/mp3-preview/c2a268ecb902dd882f8a2e16b2d036310d642761?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Candlelight",
+      "featuredArtistId": "11B2eOIY0Z2FxU2d3L1hth",
+      "trackName": "Catch Me (feat. Naaz) - Candlelight Remix",
+      "trackId": "5c8l70hlhwAgPKAPa49oEh",
+      "preview": "https://p.scdn.co/mp3-preview/c2a268ecb902dd882f8a2e16b2d036310d642761?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Snavs",
+      "featuredArtistId": "4xFadP7L1YVwVSjDDfjKjM",
+      "trackName": "We Made It (feat. Lil Eddie) - Snavs Remix",
+      "trackId": "2Og1ef3v1ZwfSGKd0iSz2i",
+      "preview": "https://p.scdn.co/mp3-preview/73635b851d90cd1bd94415ab6bd7cab92d8f1bd8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Maty Noyes",
+      "featuredArtistId": "5JSXWmQO8csVUy6hSRu8TA",
+      "trackName": "Drowning In Champagne (feat. Maty Noyes) - Chace Remix",
+      "trackId": "56m0uhi6Vz8zSxHUz3CduT",
+      "preview": "https://p.scdn.co/mp3-preview/e5e61e255068166ff0dba930362bac766987f1d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Chace",
+      "featuredArtistId": "63sI6ES0BCfnJte6CVweUc",
+      "trackName": "Drowning In Champagne (feat. Maty Noyes) - Chace Remix",
+      "trackId": "56m0uhi6Vz8zSxHUz3CduT",
+      "preview": "https://p.scdn.co/mp3-preview/e5e61e255068166ff0dba930362bac766987f1d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Serebro",
+      "featuredArtistId": "1Ulwacsns9Me7dz4OVwkiQ",
+      "trackName": "Blood Diamond (feat. Serebro) - Zeskullz Remix",
+      "trackId": "76ZEa9AWwjJSbnXgXgpnmp",
+      "preview": "https://p.scdn.co/mp3-preview/87f3ec962d1de2012f159b3de1b9646330684a39?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "ZESKULLZ",
+      "featuredArtistId": "4zabwkG88qhz28AcgglRE3",
+      "trackName": "Blood Diamond (feat. Serebro) - Zeskullz Remix",
+      "trackId": "76ZEa9AWwjJSbnXgXgpnmp",
+      "preview": "https://p.scdn.co/mp3-preview/87f3ec962d1de2012f159b3de1b9646330684a39?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Rain Man",
+      "featuredArtistId": "6J4zegMTYP4nGJSpSDvy49",
+      "trackName": "Sin City - Rain Man Remix",
+      "trackId": "1QC0FsbynvBig6xDKQuH1x",
+      "preview": "https://p.scdn.co/mp3-preview/e8567f6eab724244e42eb04c446a22bebf169ca3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Beenie Man",
+      "featuredArtistId": "4L3GTE04bW5N7azA9QPhjA",
+      "trackName": "Bun It Up (feat. Beenie Man) - Moth Circuit Remix",
+      "trackId": "1wFgwL7LZ3wBZ8Dolh2r5k",
+      "preview": "https://p.scdn.co/mp3-preview/ebcde0ef4f128f9c82a1104ddbfa669d39329ec8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Moth Circuit",
+      "featuredArtistId": "6DICHk6Kuiy6Em2aaOJ6i0",
+      "trackName": "Bun It Up (feat. Beenie Man) - Moth Circuit Remix",
+      "trackId": "1wFgwL7LZ3wBZ8Dolh2r5k",
+      "preview": "https://p.scdn.co/mp3-preview/ebcde0ef4f128f9c82a1104ddbfa669d39329ec8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Mike Cervello",
+      "featuredArtistId": "4zYX8Aa744hQ5O2hpAYQI3",
+      "trackName": "Wild Mustang (feat. Becky G) - Mike Cervello Remix",
+      "trackId": "2zM1WrVxbGeUN9XUHpl9ts",
+      "preview": "https://p.scdn.co/mp3-preview/592da93a433ce83874057ef89cab33af22b235ce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Kalibwoy",
+      "featuredArtistId": "3xhksfxjNLUAyxUdijvk4x",
+      "trackName": "Ride Or Die (feat. Kalibwoy) - Modestep Remix",
+      "trackId": "7qGKp6thKLAu2Pa7urMMRI",
+      "preview": "https://p.scdn.co/mp3-preview/272c6c0ec5e97768cf131d1e51a1a31a766a21de?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Modestep",
+      "featuredArtistId": "5zYJziKktyqWwmoAWXrShP",
+      "trackName": "Ride Or Die (feat. Kalibwoy) - Modestep Remix",
+      "trackId": "7qGKp6thKLAu2Pa7urMMRI",
+      "preview": "https://p.scdn.co/mp3-preview/272c6c0ec5e97768cf131d1e51a1a31a766a21de?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Mightyfools",
+      "featuredArtistId": "5XJWi5Ev0zwaRiXnN8Oo5O",
+      "trackName": "Kaolo Pt. 3 - Mighty Fools Remix",
+      "trackId": "2EwSSHX1S2lYTCwkKrkUyD",
+      "preview": "https://p.scdn.co/mp3-preview/1788423d165621db84824e0e12506ef3f094aded?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e4ead61b6b8a1a247f3876d5198274fd13fb06d",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Naaz",
+      "featuredArtistId": "6wksa5VjKmlwo8UQd9js8N",
+      "trackName": "Catch Me (feat. Naaz) - Candlelight Remix",
+      "trackId": "1B171IzbPjILXp4m48rL4n",
+      "preview": "https://p.scdn.co/mp3-preview/0b6f246ae75ec75c2181434aa6536976aa06782b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e814a04cc2f781150e8049fb46b8c746d7a58aa5",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Chace",
+      "featuredArtistId": "5kPhAZL6iV8iDywUmIPC3g",
+      "trackName": "Drowning in Champagne (feat. Maty Noyes) - Chace Remix",
+      "trackId": "4e6yDcRuzEvP3VOJKQFEr8",
+      "preview": "https://p.scdn.co/mp3-preview/9b150a258c0db1e80b3b63e566668a9d531263b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e814a04cc2f781150e8049fb46b8c746d7a58aa5",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Rain Man",
+      "featuredArtistId": "41yp7ZrIPSK3UW1u9fbgsR",
+      "trackName": "Sin City - Rain Man Remix",
+      "trackId": "0UUL1H3a6B6rKe4KSra8Jx",
+      "preview": "https://p.scdn.co/mp3-preview/b3c6f9350029a016266489bd008cd9f69502f9a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e814a04cc2f781150e8049fb46b8c746d7a58aa5",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Bok Nero",
+      "featuredArtistId": "7rnzdGq1qPizursGNI1P0V",
+      "trackName": "Loudest MF",
+      "trackId": "6XAducN3QxvTWilGO0weHQ",
+      "preview": "https://p.scdn.co/mp3-preview/63b8631e9cdec6187a451f9a06668b77acf9a6a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/454c1d5f2448ff71ba11f98fe932c50f1f4dbcb3",
+      "release_date": "2018-03-14"
+    },
+    {
+      "featuredArtist": "Valentino Khan",
+      "featuredArtistId": "0deIjoDjl9g9Zpw0sCIOHh",
+      "trackName": "Don't Stop",
+      "trackId": "2g7l8B1ZXh73ROETH89a08",
+      "preview": "https://p.scdn.co/mp3-preview/460831030a2117ae69b7941999fe99c7dcf26ae2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/454c1d5f2448ff71ba11f98fe932c50f1f4dbcb3",
+      "release_date": "2018-03-14"
+    },
+    {
+      "featuredArtist": "Stoltenhoff",
+      "featuredArtistId": "6HKR0MHpgba3ZRBXYfPiq0",
+      "trackName": "Beastmode",
+      "trackId": "73bxofHLEBNPVGxfRNBHbZ",
+      "preview": "https://p.scdn.co/mp3-preview/7740019bed931a36b9eb6b1e87d9bea07aa84679?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/454c1d5f2448ff71ba11f98fe932c50f1f4dbcb3",
+      "release_date": "2018-03-14"
+    },
+    {
+      "featuredArtist": "Krewella",
+      "featuredArtistId": "0Cd6nHYwecCNM1sVEXKlYr",
+      "trackName": "New World ft. Vava",
+      "trackId": "1vn7Y9dR0e6i58R71yccG9",
+      "preview": "https://p.scdn.co/mp3-preview/9929d6b594cebdfbc736938e22362a3bc5e55916?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3477a6fdf8bb83350437f3aea89c101aa7647260",
+      "release_date": "2018-01-24"
+    },
+    {
+      "featuredArtist": "Vava",
+      "featuredArtistId": "2qkHW4sO2LpxEQyUiCE9U6",
+      "trackName": "New World ft. Vava",
+      "trackId": "1vn7Y9dR0e6i58R71yccG9",
+      "preview": "https://p.scdn.co/mp3-preview/9929d6b594cebdfbc736938e22362a3bc5e55916?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3477a6fdf8bb83350437f3aea89c101aa7647260",
+      "release_date": "2018-01-24"
+    },
+    {
+      "featuredArtist": "Juyen Sebulba",
+      "featuredArtistId": "5DrDb5tvBFk7sJxsMyA06r",
+      "trackName": "Do You Like Bass? - Stoltenhoff Remix",
+      "trackId": "4B8C0g3myQwOy6dabvcnDR",
+      "preview": "https://p.scdn.co/mp3-preview/b79287750c4a0f46696888a7184f5687e9728084?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3689b4169314ee6642e06e93cca26f9457583181",
+      "release_date": "2017-11-08"
+    },
+    {
+      "featuredArtist": "DOLF",
+      "featuredArtistId": "3Xq2UDTRsQqQnfR3FIGoFG",
+      "trackName": "Vertigo (feat. Caroline Pennell)",
+      "trackId": "7B109wzCWzXI5LFvjXWie1",
+      "preview": "https://p.scdn.co/mp3-preview/f3a822828749ffc76fc74ca962f12d0c83575bb9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bd3c9a89266664b7f45d6b67b7165364d81b1af3",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Caroline Pennell",
+      "featuredArtistId": "0cZPTEmf3mlwj5kjVXR4po",
+      "trackName": "Vertigo (feat. Caroline Pennell)",
+      "trackId": "7B109wzCWzXI5LFvjXWie1",
+      "preview": "https://p.scdn.co/mp3-preview/f3a822828749ffc76fc74ca962f12d0c83575bb9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bd3c9a89266664b7f45d6b67b7165364d81b1af3",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Crisis Era",
+      "featuredArtistId": "4G6enmlHQQ4ktgVMIR9op0",
+      "trackName": "DO YOU LIKE BASS? - Crisis Era Remix",
+      "trackId": "7avMIi1pJ3mjfDMGsyeoiw",
+      "preview": "https://p.scdn.co/mp3-preview/9cdebc90067be3e6c71bc35fdafd9aa509ddf24b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f360f37bdc3788d47c76fbc5399fe70bbfc69a3b",
+      "release_date": "2017-10-10"
+    },
+    {
+      "featuredArtist": "Angger Dimas",
+      "featuredArtistId": "5tuOpj3ofDA06hxQjvjdGZ",
+      "trackName": "DO YOU LIKE BASS? - Angger Dimas Remix",
+      "trackId": "0N4CLwkJKsAPJNGtWBUSFW",
+      "preview": "https://p.scdn.co/mp3-preview/f2d92ff1d8d466faf8f30e07af41362bdb34a451?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f360f37bdc3788d47c76fbc5399fe70bbfc69a3b",
+      "release_date": "2017-10-10"
+    },
+    {
+      "featuredArtist": "Menasa",
+      "featuredArtistId": "5jVEmgqUWoV06fNlLj6i5e",
+      "trackName": "DO YOU LIKE BASS? - Menasa Remix",
+      "trackId": "7EQjz3Stf929U7BlW1LLzl",
+      "preview": "https://p.scdn.co/mp3-preview/07d26b694ef95b9b5e6d192c6ff93b722c564070?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f360f37bdc3788d47c76fbc5399fe70bbfc69a3b",
+      "release_date": "2017-10-10"
+    },
+    {
+      "featuredArtist": "KMKZ",
+      "featuredArtistId": "3zH5LKR5OUkNAAB1WCf8DO",
+      "trackName": "DO YOU LIKE BASS? - KMKZ, Bleu Clair, Sihk Remix",
+      "trackId": "1UxEOGl2tkn0aHJn9AAOvD",
+      "preview": "https://p.scdn.co/mp3-preview/2ff4be49d95ddeea2f61d5798a16f8419e230d33?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f360f37bdc3788d47c76fbc5399fe70bbfc69a3b",
+      "release_date": "2017-10-10"
+    },
+    {
+      "featuredArtist": "Bleu Clair",
+      "featuredArtistId": "7kA4sEagpoNK91I7wr9tYr",
+      "trackName": "DO YOU LIKE BASS? - KMKZ, Bleu Clair, Sihk Remix",
+      "trackId": "1UxEOGl2tkn0aHJn9AAOvD",
+      "preview": "https://p.scdn.co/mp3-preview/2ff4be49d95ddeea2f61d5798a16f8419e230d33?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f360f37bdc3788d47c76fbc5399fe70bbfc69a3b",
+      "release_date": "2017-10-10"
+    },
+    {
+      "featuredArtist": "Sihk",
+      "featuredArtistId": "0GRYh4b8TJ9LQelJhQuKh6",
+      "trackName": "DO YOU LIKE BASS? - KMKZ, Bleu Clair, Sihk Remix",
+      "trackId": "1UxEOGl2tkn0aHJn9AAOvD",
+      "preview": "https://p.scdn.co/mp3-preview/2ff4be49d95ddeea2f61d5798a16f8419e230d33?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f360f37bdc3788d47c76fbc5399fe70bbfc69a3b",
+      "release_date": "2017-10-10"
+    },
+    {
+      "featuredArtist": "Nymfo",
+      "featuredArtistId": "2Pdhwac5oHsY95PeUq6VBS",
+      "trackName": "DO YOU LIKE BASS? - Nymfo Remix",
+      "trackId": "1h2v1Y2GKYCYeHunZfoPSG",
+      "preview": "https://p.scdn.co/mp3-preview/da1393230df7a14fe5106441a8b8d1b7aa78d715?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f360f37bdc3788d47c76fbc5399fe70bbfc69a3b",
+      "release_date": "2017-10-10"
+    },
+    {
+      "featuredArtist": "Dither",
+      "featuredArtistId": "2CTPZndAY5BwdgHk8AX0B7",
+      "trackName": "DO YOU LIKE BASS? - Dither Remix",
+      "trackId": "1IIolgW62FEecg7jL6fPIp",
+      "preview": "https://p.scdn.co/mp3-preview/82efec9eed28095e63d84c9ed46600436eca1435?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f360f37bdc3788d47c76fbc5399fe70bbfc69a3b",
+      "release_date": "2017-10-10"
+    }
+  ]
+}

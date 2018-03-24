@@ -1,0 +1,23 @@
+{
+  "artistName": "Ziv Zaifman",
+  "features": [
+    {
+      "featuredArtist": "Hugh Jackman",
+      "featuredArtistId": "5F1aoppMtU3OMiltO8ymJ2",
+      "trackName": "A Million Dreams",
+      "trackId": "6HGvj9NlbV5M6pXVl3KCTr",
+      "preview": "https://p.scdn.co/mp3-preview/e44d17b8f828c6e7e1875f4b29dde899dd6f66d4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32dbd227fc8cc94fb7ec9ab5bddc8e9ca72db125",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Michelle Williams",
+      "featuredArtistId": "2LAqcqAQ8KPTsl1HBgBrqM",
+      "trackName": "A Million Dreams",
+      "trackId": "6HGvj9NlbV5M6pXVl3KCTr",
+      "preview": "https://p.scdn.co/mp3-preview/e44d17b8f828c6e7e1875f4b29dde899dd6f66d4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32dbd227fc8cc94fb7ec9ab5bddc8e9ca72db125",
+      "release_date": "2017-12-08"
+    }
+  ]
+}

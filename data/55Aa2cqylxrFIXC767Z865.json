@@ -1,0 +1,473 @@
+{
+  "artistName": "Lil Wayne",
+  "features": [
+    {
+      "featuredArtist": "Turk",
+      "featuredArtistId": "3CCnfGrTPgEJoHFk4UOe0O",
+      "trackName": "You Made Yet - Remix",
+      "trackId": "1lLoj3Fcux9TnTqa6cau4v",
+      "preview": "https://p.scdn.co/mp3-preview/26f7a98f561f3c9a43240edce92550c7bcefa2b0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba52876e0e0a562d872ca2a2ce9f5478dd09b450",
+      "release_date": "2015-07-08"
+    },
+    {
+      "featuredArtist": "A$AP Rocky",
+      "featuredArtistId": "13ubrt8QOOCPljQ2FL1Kca",
+      "trackName": "Ms",
+      "trackId": "07NfxnfOSa8VtpfhqzBshv",
+      "preview": "https://p.scdn.co/mp3-preview/1f4c1f8f841b84a54a8c1df6052af546456ecc9d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba52876e0e0a562d872ca2a2ce9f5478dd09b450",
+      "release_date": "2015-07-08"
+    },
+    {
+      "featuredArtist": "French Montana",
+      "featuredArtistId": "6vXTefBL93Dj5IqAWq6OTv",
+      "trackName": "I Aint Gonna Lie",
+      "trackId": "4xWzeOTftGCOWBqj4oTVEi",
+      "preview": "https://p.scdn.co/mp3-preview/49557c39ba3651a59e4ee168f612af949e8cdd84?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba52876e0e0a562d872ca2a2ce9f5478dd09b450",
+      "release_date": "2015-07-08"
+    },
+    {
+      "featuredArtist": "Monica",
+      "featuredArtistId": "3Hq3X6lbrlNp7RPNyuYc6q",
+      "trackName": "Just Right for Me",
+      "trackId": "7kg92ixg8VaelDvgg2NTWr",
+      "preview": "https://p.scdn.co/mp3-preview/6bdc662d8e18f0e62583041e19ac707c48c8bfe9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba52876e0e0a562d872ca2a2ce9f5478dd09b450",
+      "release_date": "2015-07-08"
+    },
+    {
+      "featuredArtist": "Ray J",
+      "featuredArtistId": "26HhH7eqeHFijRwtXiNJm0",
+      "trackName": "Brown Sugar",
+      "trackId": "5YEOrYnE9t0OjiaRcmF2jO",
+      "preview": "https://p.scdn.co/mp3-preview/be6d8fd3a6f965837591085d9d157a6104b4e7b0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba52876e0e0a562d872ca2a2ce9f5478dd09b450",
+      "release_date": "2015-07-08"
+    },
+    {
+      "featuredArtist": "DeJ Loaf",
+      "featuredArtistId": "7kFfY4UjNdNyaeUgLIEbIF",
+      "trackName": "Me U and Hennessy",
+      "trackId": "5xzcgldpCjPqgpE5clKkQO",
+      "preview": "https://p.scdn.co/mp3-preview/6456796339ecca2bf54f693d7e321471064dd2dc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba52876e0e0a562d872ca2a2ce9f5478dd09b450",
+      "release_date": "2015-07-08"
+    },
+    {
+      "featuredArtist": "future",
+      "featuredArtistId": "1Bm4dgOCEHAuuSwpysuq24",
+      "trackName": "Commas",
+      "trackId": "4TOC84gDnkvb31yonq4o5u",
+      "preview": "https://p.scdn.co/mp3-preview/7cc1fe86acfcd6d7f927f4aafd5365caa2f7faa8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba52876e0e0a562d872ca2a2ce9f5478dd09b450",
+      "release_date": "2015-07-08"
+    },
+    {
+      "featuredArtist": "Young Money",
+      "featuredArtistId": "5OrB6Jhhrl9y2PK0pSV4VP",
+      "trackName": "Next up Cypher",
+      "trackId": "15aIHlxcob6ghXvwRSYS3w",
+      "preview": "https://p.scdn.co/mp3-preview/12497c0e8abc71d279d0a52c32bdbc75ddd53ac8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba52876e0e0a562d872ca2a2ce9f5478dd09b450",
+      "release_date": "2015-07-08"
+    },
+    {
+      "featuredArtist": "Big Sean",
+      "featuredArtistId": "0c173mlxpT3dSFRgMO8XPh",
+      "trackName": "Deep",
+      "trackId": "66abp9XIEaMOw4JZhdSLPV",
+      "preview": "https://p.scdn.co/mp3-preview/54dc86935e9fbd921266891b1c2756a70579e575?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba52876e0e0a562d872ca2a2ce9f5478dd09b450",
+      "release_date": "2015-07-08"
+    },
+    {
+      "featuredArtist": "Juelz Santana",
+      "featuredArtistId": "6Uh8uJyN9g7oFjDK16nJgb",
+      "trackName": "Welcome To Tha Concrete Jungle",
+      "trackId": "2kINk5T3K1bWRZ3fCrxVNi",
+      "preview": "https://p.scdn.co/mp3-preview/e53d6ca6432940c28a7a45af3741e58a6a2f544e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6a8fb933f63de2bfd07a565782b14f308172c77e",
+      "release_date": "2015-06-19"
+    },
+    {
+      "featuredArtist": "Curren$y",
+      "featuredArtistId": "6X8WdFjrNhXATMDSs26aCc",
+      "trackName": "Where The Cash At",
+      "trackId": "6Ilm9PehjMHtdWsibp39Yp",
+      "preview": "https://p.scdn.co/mp3-preview/eddda5cb53edc35bcd9e61533b6e123556f82796?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6a8fb933f63de2bfd07a565782b14f308172c77e",
+      "release_date": "2015-06-19"
+    },
+    {
+      "featuredArtist": "Remy Ma",
+      "featuredArtistId": "39mHYiNmLR7p8PXNG8Wll6",
+      "trackName": "Where The Cash At",
+      "trackId": "6Ilm9PehjMHtdWsibp39Yp",
+      "preview": "https://p.scdn.co/mp3-preview/eddda5cb53edc35bcd9e61533b6e123556f82796?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6a8fb933f63de2bfd07a565782b14f308172c77e",
+      "release_date": "2015-06-19"
+    },
+    {
+      "featuredArtist": "Drake",
+      "featuredArtistId": "3TVXtAsR1Inumwj472S9r4",
+      "trackName": "Used To",
+      "trackId": "1GPjx8WOcdZCmqAXn5ULhQ",
+      "preview": "https://p.scdn.co/mp3-preview/8b78538359bd2141e43160fc9024239369295a2e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bbd9fcd4e62f9183c715eb27431210cb89c6426",
+      "release_date": "2015-02-17"
+    },
+    {
+      "featuredArtist": "Christina Milian",
+      "featuredArtistId": "4eAOcbAXIF4BmbN6E1QIlw",
+      "trackName": "Drunk in Love",
+      "trackId": "27hITLjUcx8NjyBpbCmicy",
+      "preview": "https://p.scdn.co/mp3-preview/4a6d45d7dc52d9c5de73c6c735940e55ae86c561?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bbd9fcd4e62f9183c715eb27431210cb89c6426",
+      "release_date": "2015-02-17"
+    },
+    {
+      "featuredArtist": "Mack Maine",
+      "featuredArtistId": "18AOdS1Qw4XXnQSiPJQr1B",
+      "trackName": "Try Me",
+      "trackId": "5j808GZ2p8jLbY49Mx0Kzo",
+      "preview": "https://p.scdn.co/mp3-preview/27cb0e1c451e028f1c388a0bad6f023a416b296c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bbd9fcd4e62f9183c715eb27431210cb89c6426",
+      "release_date": "2015-02-17"
+    },
+    {
+      "featuredArtist": "2 Chainz",
+      "featuredArtistId": "17lzZA2AlOHwCwFALHttmp",
+      "trackName": "Preach",
+      "trackId": "5PmOw2fREEOqQ7LbYnw8qK",
+      "preview": "https://p.scdn.co/mp3-preview/3c4597b803c70fb25aa391eaf1895a4579c6de0b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bbd9fcd4e62f9183c715eb27431210cb89c6426",
+      "release_date": "2015-02-17"
+    },
+    {
+      "featuredArtist": "SNL",
+      "featuredArtistId": "0Mm1rl3vQqz7RdMtAhVUiR",
+      "trackName": "Admit It",
+      "trackId": "4dQsay1RD34Zc8EXsbfuLK",
+      "preview": "https://p.scdn.co/mp3-preview/6f1e7bb1d744453110e95dd081a59188aefff75e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bbd9fcd4e62f9183c715eb27431210cb89c6426",
+      "release_date": "2015-02-17"
+    },
+    {
+      "featuredArtist": "Young Thug",
+      "featuredArtistId": "50co4Is1HCEo8bhOyUWKpn",
+      "trackName": "Take Kare",
+      "trackId": "3BOoSdPFWkDrskE3gW646N",
+      "preview": "https://p.scdn.co/mp3-preview/488db40e4c28a2c7642e7944e6b602afc5876274?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dbf7d1567bb15403a75595de8fc1608d27805552",
+      "release_date": "2015-01-18"
+    },
+    {
+      "featuredArtist": "Yo Gotti",
+      "featuredArtistId": "6Ha4aES39QiVjR0L2lwuwq",
+      "trackName": "Errbody - Remix",
+      "trackId": "2ApTIkymBf5JaPsSQcOjak",
+      "preview": "https://p.scdn.co/mp3-preview/3d5435279d167959f8f92c6f9a29663322119053?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dbf7d1567bb15403a75595de8fc1608d27805552",
+      "release_date": "2015-01-18"
+    },
+    {
+      "featuredArtist": "Ludacris",
+      "featuredArtistId": "3ipn9JLAPI5GUEo4y4jcoi",
+      "trackName": "Errbody - Remix",
+      "trackId": "2ApTIkymBf5JaPsSQcOjak",
+      "preview": "https://p.scdn.co/mp3-preview/3d5435279d167959f8f92c6f9a29663322119053?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dbf7d1567bb15403a75595de8fc1608d27805552",
+      "release_date": "2015-01-18"
+    },
+    {
+      "featuredArtist": "Game",
+      "featuredArtistId": "2RCKYP9ONF6gsOh8F3dXPt",
+      "trackName": "Fuck Yo Feelings",
+      "trackId": "2T6mzKu0YqFMJffCO23tAF",
+      "preview": "https://p.scdn.co/mp3-preview/2dc022369ddd6368a883c8c40bd2509c64c67553?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dbf7d1567bb15403a75595de8fc1608d27805552",
+      "release_date": "2015-01-18"
+    },
+    {
+      "featuredArtist": "Chris Brown",
+      "featuredArtistId": "396wvM69VtHgLZSfFB0pyH",
+      "trackName": "Fuck Yo Feelings",
+      "trackId": "2T6mzKu0YqFMJffCO23tAF",
+      "preview": "https://p.scdn.co/mp3-preview/2dc022369ddd6368a883c8c40bd2509c64c67553?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dbf7d1567bb15403a75595de8fc1608d27805552",
+      "release_date": "2015-01-18"
+    },
+    {
+      "featuredArtist": "Kendrick Lamar",
+      "featuredArtistId": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "trackName": "Buy the World",
+      "trackId": "4jxCOWZ9Fv0Q028l4UtcsK",
+      "preview": "https://p.scdn.co/mp3-preview/dce11069aa362676c4485aa5a775f7b9cc15cca0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dbf7d1567bb15403a75595de8fc1608d27805552",
+      "release_date": "2015-01-18"
+    },
+    {
+      "featuredArtist": "Rocko",
+      "featuredArtistId": "0T5OJgMVjKIX3b3W3ekqOl",
+      "trackName": "Good",
+      "trackId": "4wMyUIbw0we3ncc9TErzGz",
+      "preview": "https://p.scdn.co/mp3-preview/dabfeab4c4aac891db0e71e272f89eaa85dafb3e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dbf7d1567bb15403a75595de8fc1608d27805552",
+      "release_date": "2015-01-18"
+    },
+    {
+      "featuredArtist": "Boo",
+      "featuredArtistId": "7CeDn8VgJbHknzCOspMCdz",
+      "trackName": "Curtains",
+      "trackId": "5XFfgOzJL4wKI8MgUtL8N4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/29a59515ab82130b90f426d7f792d6ae08da687e",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Gudda Gudda",
+      "featuredArtistId": "7s47glsDg6fwq9KXNTsTpa",
+      "trackName": "Gunwalk",
+      "trackId": "1dxrfrSFxD4NrSVVzgiDQm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/29a59515ab82130b90f426d7f792d6ae08da687e",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Detail",
+      "featuredArtistId": "4sglKanXuoU0gqGYP3wiNv",
+      "trackName": "No Worries",
+      "trackId": "3YNAIdsC6ZEeBMZXi2zIsz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/29a59515ab82130b90f426d7f792d6ae08da687e",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Soulja Boy",
+      "featuredArtistId": "6GMYJwaziB4ekv1Y6wCDWS",
+      "trackName": "Trigger Finger",
+      "trackId": "4oRp6HK34jj2NtwdMRA07R",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/29a59515ab82130b90f426d7f792d6ae08da687e",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Gunplay",
+      "featuredArtistId": "7cvtOrIEaUrqbGmYA9Kj34",
+      "trackName": "Beat The Shit",
+      "trackId": "7dbuK9YbF8f0kcYwEbN1aj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/29a59515ab82130b90f426d7f792d6ae08da687e",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Juicy J",
+      "featuredArtistId": "5gCRApTajqwbnHHPbr2Fpi",
+      "trackName": "Trippy",
+      "trackId": "2zj80HNr6YpkAwm7t2HFiI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/29a59515ab82130b90f426d7f792d6ae08da687e",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Future",
+      "featuredArtistId": "1RyvyyTE3xzB2ZywiAwp0i",
+      "trackName": "Love Me",
+      "trackId": "2Z1xlKT0QeaOuGokgc3aUV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/29a59515ab82130b90f426d7f792d6ae08da687e",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Trina",
+      "featuredArtistId": "4PrinKSrmILmo0kERG0Ogn",
+      "trackName": "Wowzerz",
+      "trackId": "1ueB5N65hbMbQE2vcbxBnK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/29a59515ab82130b90f426d7f792d6ae08da687e",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Shane Heyl",
+      "featuredArtistId": "0ZOxs5WAQsPEa1HgBf7BTt",
+      "trackName": "Hello",
+      "trackId": "6GOK0PWwYA9I562zxeA9XK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/29a59515ab82130b90f426d7f792d6ae08da687e",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Boo",
+      "featuredArtistId": "5Z3tsYTS1kfBUfGjCLXmqy",
+      "trackName": "Curtains",
+      "trackId": "19Db1OtlnbPXIG9tfcuvWB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9d63af5af31658bedfc7444364f9a90bc66154d1",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Future",
+      "featuredArtistId": "7FAnawAJI7lHt4s1Ohde8w",
+      "trackName": "Love Me",
+      "trackId": "5LL5mK7OdCZ2FEldMOExNT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9d63af5af31658bedfc7444364f9a90bc66154d1",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Boo",
+      "featuredArtistId": "29DBUmC5K9c7gB1aq4Y6ea",
+      "trackName": "Curtains - Album Version (Edited)",
+      "trackId": "7cM1GTEK6H9vQ78aOjGzMc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e422cb1c389f4ba869ec7be9c650dfe945a4f1eb",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Nicki Minaj",
+      "featuredArtistId": "0hCNtLu0JehylgoiP8L4Gh",
+      "trackName": "Lay It Down",
+      "trackId": "70vyPOk2VdMN53oOsLtPYJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9ea9889e18816427374c1e6f86d170ea6553ef5f",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Corey Gunz",
+      "featuredArtistId": "0VyVI2zGDVeE4YEQkKHzwa",
+      "trackName": "Lay It Down",
+      "trackId": "70vyPOk2VdMN53oOsLtPYJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9ea9889e18816427374c1e6f86d170ea6553ef5f",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Dre",
+      "featuredArtistId": "2YKqI0pz6dY15GpzxT66HD",
+      "trackName": "Hot Revolver",
+      "trackId": "2xv4vRPukRNAtdgyj7EqrT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9ea9889e18816427374c1e6f86d170ea6553ef5f",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Dre",
+      "featuredArtistId": "3JRLFRAE6bDodbmvzgY2cH",
+      "trackName": "Hot Revolver",
+      "trackId": "01Ynfp1UOc9Tep3a25ySqX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9d63af5af31658bedfc7444364f9a90bc66154d1",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Dre",
+      "featuredArtistId": "3gPvtMVcRsFlji02WrCvmy",
+      "trackName": "Hot Revolver - Album Version (Edited)",
+      "trackId": "2IzQkVT6p3UuMnraUkNqrH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fa1b186e82f984396b1ad73120ef29c73e69aab3",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Cory Gunz",
+      "featuredArtistId": "7BAaznGSsqcksud4R5ou5z",
+      "trackName": "6 Foot 7 Foot",
+      "trackId": "6BCs8vxnGgKL9eMCOrG2wm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7e7b4158d178ff4afd5926bf79d6d6069adb8a35",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "T-Pain",
+      "featuredArtistId": "3aQeKQSyrW4qWr35idm0cy",
+      "trackName": "How To Hate",
+      "trackId": "2WqaCqAFLJ5JrAmgZoWt8I",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7e7b4158d178ff4afd5926bf79d6d6069adb8a35",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Tech N9ne",
+      "featuredArtistId": "6UBA15slIuadJ8h2lPRPos",
+      "trackName": "Interlude",
+      "trackId": "0emo69UJwa1ndlrGnCH5IK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7e7b4158d178ff4afd5926bf79d6d6069adb8a35",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Rick Ross",
+      "featuredArtistId": "1sBkRIssrMs1AbVkOJbc7a",
+      "trackName": "John",
+      "trackId": "2UgszKS00OHz6oUX9MMA9P",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7e7b4158d178ff4afd5926bf79d6d6069adb8a35",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "John Legend",
+      "featuredArtistId": "5y2Xq6xcjJb2jVM54GHK3t",
+      "trackName": "So Special",
+      "trackId": "2ZGSdNe9Vr8Y6uSyxwqQ1J",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7e7b4158d178ff4afd5926bf79d6d6069adb8a35",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Jadakiss",
+      "featuredArtistId": "5pnbUBPifNnlusY8kTBivi",
+      "trackName": "It's Good",
+      "trackId": "3bZdz2cw3NMKl8P2BoCApt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7e7b4158d178ff4afd5926bf79d6d6069adb8a35",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Bun B",
+      "featuredArtistId": "45a6gCQWq61lIUDmr1tKuO",
+      "trackName": "Outro",
+      "trackId": "7zZnR099UsBhAnzFC11K6x",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7e7b4158d178ff4afd5926bf79d6d6069adb8a35",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Nas",
+      "featuredArtistId": "20qISvAhX20dpIbOOzGK3q",
+      "trackName": "Outro",
+      "trackId": "7zZnR099UsBhAnzFC11K6x",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7e7b4158d178ff4afd5926bf79d6d6069adb8a35",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Shyne",
+      "featuredArtistId": "64ovxBmjJ9ZDqkzEXVWpVc",
+      "trackName": "Outro",
+      "trackId": "7zZnR099UsBhAnzFC11K6x",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7e7b4158d178ff4afd5926bf79d6d6069adb8a35",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Busta Rhymes",
+      "featuredArtistId": "1YfEcTuGvBQ8xSD1f53UnK",
+      "trackName": "Outro",
+      "trackId": "7zZnR099UsBhAnzFC11K6x",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7e7b4158d178ff4afd5926bf79d6d6069adb8a35",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Bruno Mars",
+      "featuredArtistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Mirror",
+      "trackId": "3eC50FhXqyTGBZyeelRPxW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4fd7947e747e6eb5e6f3a4b83c977280e9c207bf",
+      "release_date": "2011-01-01"
+    }
+  ]
+}

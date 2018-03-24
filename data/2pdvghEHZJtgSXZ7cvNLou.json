@@ -1,0 +1,50 @@
+{
+  "artistName": "Crosby, Stills & Nash",
+  "features": [
+    {
+      "featuredArtist": "Tom Petty",
+      "featuredArtistId": "2UZMlIwnkgAEDBsw1Rejkn",
+      "trackName": "For What It's Worth",
+      "trackId": "71BxnXYeCkGwCigQfYZxBg",
+      "preview": "https://p.scdn.co/mp3-preview/6808a1104e3dae6bf7c57ec01a5fa82b831ece16?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7514940284ae5355d36a06f9489cb0ced8481ee7",
+      "release_date": "2011-11-15"
+    },
+    {
+      "featuredArtist": "Bonnie Raitt",
+      "featuredArtistId": "4KDyYWR7IpxZ7xrdYbKrqY",
+      "trackName": "Love Has No Pride (with Bonnie Raitt)",
+      "trackId": "3Yu08KtR7UlHpKMgnWsEBZ",
+      "preview": "https://p.scdn.co/mp3-preview/8eaa85485e0cb582b28c5623971135ef6c4a47de?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1225fe066d0e715b39412026c0c611a7cd32af09",
+      "release_date": "2010-11-02"
+    },
+    {
+      "featuredArtist": "Jackson Browne / 1037732",
+      "featuredArtistId": "7AhMxrdkwdLCvzG0vMANaN",
+      "trackName": "The Pretender (with Jackson Browne)",
+      "trackId": "70AU24ZFypl5Cta2v84kRx",
+      "preview": "https://p.scdn.co/mp3-preview/de74ea196f17e7862340dd69d3b75a469faab0f7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1225fe066d0e715b39412026c0c611a7cd32af09",
+      "release_date": "2010-11-02"
+    },
+    {
+      "featuredArtist": "James Browne",
+      "featuredArtistId": "1FSeK4VQeNAbAHL0UZ8BSi",
+      "trackName": "Mexico (with James Browne) - Bonus Track",
+      "trackId": "6rLFIA5XUtLpKxLTy5VDHj",
+      "preview": "https://p.scdn.co/mp3-preview/12df5981b14a4c92cd23ef0b4467ae6cf06a6672?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1225fe066d0e715b39412026c0c611a7cd32af09",
+      "release_date": "2010-11-02"
+    },
+    {
+      "featuredArtist": "James Taylor",
+      "featuredArtistId": "0vn7UBvSQECKJm2817Yf1P",
+      "trackName": "Love The One You're With (with James Taylor)",
+      "trackId": "7AoYrOByWdIUK0NvZf0wqT",
+      "preview": "https://p.scdn.co/mp3-preview/28712d7c29c126cad46bf2778acb108ba84c92e2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1225fe066d0e715b39412026c0c611a7cd32af09",
+      "release_date": "2010-11-02"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "artistName": "Oh Wonder",
+  "features": [
+    {
+      "featuredArtist": "Lil Uzi Vert",
+      "featuredArtistId": "4O15NlyKLIASxsJ0PrXPfz",
+      "trackName": "The Way Life Goes (feat. Nicki Minaj & Oh Wonder) - Remix",
+      "trackId": "6GNifiuBPrKFpwNBYnooFm",
+      "preview": "https://p.scdn.co/mp3-preview/39e9d24f0c7ef9ae50d4326f2492d6254fedde73?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/04ccb28b0602fe535f0ddb2cc82396c4a65ec4a4",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Nicki Minaj",
+      "featuredArtistId": "0hCNtLu0JehylgoiP8L4Gh",
+      "trackName": "The Way Life Goes (feat. Nicki Minaj & Oh Wonder) - Remix",
+      "trackId": "6GNifiuBPrKFpwNBYnooFm",
+      "preview": "https://p.scdn.co/mp3-preview/39e9d24f0c7ef9ae50d4326f2492d6254fedde73?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/04ccb28b0602fe535f0ddb2cc82396c4a65ec4a4",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Everything Everything",
+      "featuredArtistId": "1HOeqtP7tHkKNJNLzQ2tnr",
+      "trackName": "Lifetimes - Everything Everything Remix",
+      "trackId": "3uLfGj1mNsIivCiRLzG3Ka",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/01e0862f49e57a3e7e5047aee8c485638cb5562c",
+      "release_date": "2017-10-26"
+    }
+  ]
+}

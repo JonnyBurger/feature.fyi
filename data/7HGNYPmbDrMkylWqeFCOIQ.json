@@ -1,0 +1,41 @@
+{
+  "artistName": "Caetano Veloso",
+  "features": [
+    {
+      "featuredArtist": "Gilberto Gil",
+      "featuredArtistId": "7oEkUINVIj1Nr3Wnj8tzqr",
+      "trackName": "Back in Bahia - Ao Vivo",
+      "trackId": "42XOOCltwfAiy8AdUHA4MT",
+      "preview": "https://p.scdn.co/mp3-preview/5cd372a49530f3e22ca990a8aa20b71a28d6b2af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/38179a72cfd163516eb79b9ba3a63669e254e1eb",
+      "release_date": "2016-04-08"
+    },
+    {
+      "featuredArtist": "Ivete Sangalo",
+      "featuredArtistId": "7dzq55YG3wjViqexDwiycQ",
+      "trackName": "A Novidade - Live",
+      "trackId": "2PyfVkaoyVIFK4KaJHKRSY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ab62a2185ada488119a7cdc0e2cca0e73a20daf5",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Maria Gadú",
+      "featuredArtistId": "3uCu2WgyG0Iw50ylOYDSpH",
+      "trackName": "Beleza Pura - Live",
+      "trackId": "3fcBy4hcij2efXs6vIR8h8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dbea34ace36f2311df4740224d09978c7f180ae6",
+      "release_date": "2011-10-21"
+    },
+    {
+      "featuredArtist": "David Byrne",
+      "featuredArtistId": "20vuBdFblWUo2FCOvUzusB",
+      "trackName": "Desde Que O Samba é Samba",
+      "trackId": "26Q0zHhzfvdAdKr7FV3MHN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5310a5cdcc8428e8932253d7be5326c7153fc705",
+      "release_date": "2011-01-01"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "artistName": "Florence + The Machine",
+  "features": [
+    {
+      "featuredArtist": "Josh Homme",
+      "featuredArtistId": "03xb2BUdIFzuRQ6o88yfCB",
+      "trackName": "Jackson - MTV Unplugged, 2012",
+      "trackId": "20PouZEBOvMVEpAbgT4GWC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5a2ccac1f3c9830afbd4bc3ea5f45961b4e04acb",
+      "release_date": "2012-04-17"
+    },
+    {
+      "featuredArtist": "Dizzee Rascal",
+      "featuredArtistId": "0gusqTJKxtU1UTmNRMHZcv",
+      "trackName": "You've Got The Dirtee Love - Live At The Brit Awards / 2010",
+      "trackId": "4pzVY0kWRiro7Qbk3nb7PV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5dab00558e4fabc6dd8aa1d18134a2bf9833d9e",
+      "release_date": "2011-03-15"
+    },
+    {
+      "featuredArtist": "Yeasayer",
+      "featuredArtistId": "04HvbIwBccFmRie5ATX4ft",
+      "trackName": "Dog Days Are Over - Yeasayer Remix",
+      "trackId": "6husQiF0jRFbM3xVScDNDw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/476305f0b76f3bf3c01cda005065557e43e62885",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Calvin Harris",
+      "featuredArtistId": "7CajNmpbOovFoOoasH2HaY",
+      "trackName": "Spectrum (Say My Name) - Calvin Harris Remix",
+      "trackId": "2bE6bIHyp8CJ5BosfRJxPo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/75c1be006328c8b1888b29728deec0f455ac8207",
+      "release_date": "2011"
+    },
+    {
+      "featuredArtist": "The Horrors",
+      "featuredArtistId": "7EFB09NxZrMi9pGlOnuBpd",
+      "trackName": "Hurricane Drunk - Horrors Remix",
+      "trackId": "6KFmoVtdqnJdyWL6GOmDSH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/404c87c652f6b1f9d0f22bbc055744bc2569b000",
+      "release_date": "2010-01-01"
+    }
+  ]
+}

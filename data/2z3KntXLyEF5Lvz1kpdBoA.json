@@ -1,0 +1,50 @@
+{
+  "artistName": "Caloncho",
+  "features": [
+    {
+      "featuredArtist": "Esteman",
+      "featuredArtistId": "3ZtIhDSOuRkpDyqjx53X1R",
+      "trackName": "Todos Quieren Ser Un Gato Jazz",
+      "trackId": "3swlv2aqqH5GePiiVJpTgh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/46772701c60fa34f6485ef255e1207c6770344bc",
+      "release_date": "2016-03-18"
+    },
+    {
+      "featuredArtist": "Mon Laferte",
+      "featuredArtistId": "4boI7bJtmB1L3b1cuL75Zr",
+      "trackName": "Todos Quieren Ser Un Gato Jazz",
+      "trackId": "3swlv2aqqH5GePiiVJpTgh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/46772701c60fa34f6485ef255e1207c6770344bc",
+      "release_date": "2016-03-18"
+    },
+    {
+      "featuredArtist": "Carlos Sadness",
+      "featuredArtistId": "2LCcy9CZWwZ7Vvykt8IVVq",
+      "trackName": "Amor Papaya",
+      "trackId": "5uktfjnSHsfmc42wnGsC8l",
+      "preview": "https://p.scdn.co/mp3-preview/38eb4da467904ee90eb0d38545084ccaf3fb211e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f9686ddf1cbf93f077e87de087848939af01f0e",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Technicolor Fabrics",
+      "featuredArtistId": "2GtdjV9W8RmiI4W2AUl4Pl",
+      "trackName": "Bienvenidos",
+      "trackId": "48b1GxaxSxevpuFfvsY8MP",
+      "preview": "https://p.scdn.co/mp3-preview/c354961e482d85abe2d4b39bde9fe93519fa49cb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3e8eb3b125aae24d6068273c691506d96910303a",
+      "release_date": "2017-12-07"
+    },
+    {
+      "featuredArtist": "Los Master Plus",
+      "featuredArtistId": "5mrBEGdNTaiavWCmaNet6z",
+      "trackName": "Vengache Pa'ca",
+      "trackId": "0DrXABpRKW9iZ2wA6vaIIF",
+      "preview": "https://p.scdn.co/mp3-preview/96bbba285b5e320c12b840f695de3cede313f1df?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5d2519ff3dcc1e0aadd6ca5594938eef771b607c",
+      "release_date": "2017-11-10"
+    }
+  ]
+}

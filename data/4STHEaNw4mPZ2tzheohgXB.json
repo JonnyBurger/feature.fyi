@@ -1,0 +1,41 @@
+{
+  "artistName": "Paul McCartney",
+  "features": [
+    {
+      "featuredArtist": "London Classical Orchestra",
+      "featuredArtistId": "0JC2AA39PFMTEqVzZqx0I8",
+      "trackName": "Movement 1: Ocean's Kingdom",
+      "trackId": "4QKB02QhumVdRYdA98iP6C",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/28bde5f0dfffe35a57988320701d63b515ebbc5c",
+      "release_date": "2011-10-02"
+    },
+    {
+      "featuredArtist": "John Wilson",
+      "featuredArtistId": "1Y6MR8p9QIPxDXS99IYmyh",
+      "trackName": "Movement 1: Ocean's Kingdom",
+      "trackId": "4QKB02QhumVdRYdA98iP6C",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/28bde5f0dfffe35a57988320701d63b515ebbc5c",
+      "release_date": "2011-10-02"
+    },
+    {
+      "featuredArtist": "New York City Ballet Orchestra",
+      "featuredArtistId": "1L9dHbVoLLQZMQ4fFwutjo",
+      "trackName": "Movement 1: Ocean's Kingdom - Live",
+      "trackId": "4swTLGZ3qKwLwy01boYx40",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/28bde5f0dfffe35a57988320701d63b515ebbc5c",
+      "release_date": "2011-10-02"
+    },
+    {
+      "featuredArtist": "Faycal Karoui",
+      "featuredArtistId": "13mBcVOTeF5ef2DvMfPNcU",
+      "trackName": "Movement 1: Ocean's Kingdom - Live",
+      "trackId": "4swTLGZ3qKwLwy01boYx40",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/28bde5f0dfffe35a57988320701d63b515ebbc5c",
+      "release_date": "2011-10-02"
+    }
+  ]
+}

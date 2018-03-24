@@ -1,0 +1,50 @@
+{
+  "artistName": "Carlos Baute",
+  "features": [
+    {
+      "featuredArtist": "Marta Sánchez",
+      "featuredArtistId": "0QDR55DvuJKISY08Eu2Nyd",
+      "trackName": "Colgando en tus manos (con Marta Sánchez)",
+      "trackId": "4EMbybK0uJ7HORa61dEgHs",
+      "preview": "https://p.scdn.co/mp3-preview/d516cf9159df2722a3f7f8d4cb117d39c2442b2b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f290b0125181a097f0eb0ecfbc16130c85e4d1ad",
+      "release_date": "2016-11-18"
+    },
+    {
+      "featuredArtist": "Franco De Vita",
+      "featuredArtistId": "4NEYQeEYBUjfaXgDQGvFvu",
+      "trackName": "Nada se compara a ti (con Franco de Vita)",
+      "trackId": "66TSsTwuoEVO9nO5Be1DwS",
+      "preview": "https://p.scdn.co/mp3-preview/db189a1265d11cd273e3bd39b79413254c80d5d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f290b0125181a097f0eb0ecfbc16130c85e4d1ad",
+      "release_date": "2016-11-18"
+    },
+    {
+      "featuredArtist": "Chyno Miranda",
+      "featuredArtistId": "1VrWc8r4AjrR8YfT0vlsc7",
+      "trackName": "Vamo' a la calle - RMX",
+      "trackId": "0pXxA3VUedvwKgFsnhZvO0",
+      "preview": "https://p.scdn.co/mp3-preview/aff43c7a55efa941494462f0e27d7c0e9b7d4bdd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/858dbab3759dcae2216b920590c0cf5a6bf2ff32",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Piso 21",
+      "featuredArtistId": "4bw2Am3p9ji3mYsXNXtQcd",
+      "trackName": "Ando buscando",
+      "trackId": "7BwJtE8KSbCQKOCTIAY3jX",
+      "preview": "https://p.scdn.co/mp3-preview/e52ac3dfb8309e92e057bff3484ca2f7dac2e3ad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7f630ee2845312f43f47b0ac319c1a2b1a71d28a",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Alexis y Fido",
+      "featuredArtistId": "7tU1VKOuxiNZwBZC6RHidA",
+      "trackName": "Amor y dolor",
+      "trackId": "4efQTJSX6Jca1hHZNi74Zd",
+      "preview": "https://p.scdn.co/mp3-preview/020656e3dfb0bad872d73f34a639211adc57c0a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aba83005500cbfd586ad6e4c66183b62c5fbfaac",
+      "release_date": "2016-06-17"
+    }
+  ]
+}

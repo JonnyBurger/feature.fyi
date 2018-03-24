@@ -1,0 +1,23 @@
+{
+  "artistName": "Riah",
+  "features": [
+    {
+      "featuredArtist": "Shallou",
+      "featuredArtistId": "7C3Cbtr2PkH2l4tOGhtCsk",
+      "trackName": "Lie",
+      "trackId": "2kbqbzvtneTypTMVaONXqL",
+      "preview": "https://p.scdn.co/mp3-preview/4d0997d17c5ab93100d6b35b454f680237f5f10d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/25e6777bb4ae48713929b32f21baf8bbce78bc9f",
+      "release_date": "2018-01-25"
+    },
+    {
+      "featuredArtist": "Yung Chef",
+      "featuredArtistId": "42qt8NrikzpOrdJZlszPFe",
+      "trackName": "Recipe",
+      "trackId": "48ILVKflLcg5sBgcnDKmZv",
+      "preview": "https://p.scdn.co/mp3-preview/a3ba7299ec5fbdaba435957c028afa682acd269a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e85b6c9c28a6608795879b4b78a31449c0ace3c1",
+      "release_date": "2018-03-14"
+    }
+  ]
+}

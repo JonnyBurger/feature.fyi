@@ -1,0 +1,536 @@
+{
+  "artistName": "The Chainsmokers",
+  "features": [
+    {
+      "featuredArtist": "Emily Warren",
+      "featuredArtistId": "1oKdM70mJD8VvDOTKeS8t1",
+      "trackName": "Don't Say",
+      "trackId": "1pJQAHpD51J7GYaFrrFO9S",
+      "preview": "https://p.scdn.co/mp3-preview/3487c521077bb9097a82f9b0b03c24c3d56208ce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/df3b17e748de56e4ce78ac29b216d3f99afd0c5a",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Coldplay",
+      "featuredArtistId": "4gzpq5DPGxSnKTe4SA8HAU",
+      "trackName": "Something Just Like This",
+      "trackId": "6RUKPb4LETWmmr3iAEQktW",
+      "preview": "https://p.scdn.co/mp3-preview/cb1ae1f9e2f874dd2d19e4c29edb552777eb1e7a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/df3b17e748de56e4ce78ac29b216d3f99afd0c5a",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Louane",
+      "featuredArtistId": "7wjeXCtRND2ZdKfMJFu6JC",
+      "trackName": "It Won't Kill Ya",
+      "trackId": "5xhJmd0I15jFcEdqxfCzKk",
+      "preview": "https://p.scdn.co/mp3-preview/ae87698a20998312d341f1e7d5ab8b3f073ba8d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/df3b17e748de56e4ce78ac29b216d3f99afd0c5a",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Jhene Aiko",
+      "featuredArtistId": "5ZS223C6JyBfXasXxrRqOk",
+      "trackName": "Wake Up Alone",
+      "trackId": "0dj1CtyRxZ4bnIT4Q20jNT",
+      "preview": "https://p.scdn.co/mp3-preview/def45dd636f0e17b5ad2aa7d985ce8cd4b79e989?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/df3b17e748de56e4ce78ac29b216d3f99afd0c5a",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Florida Georgia Line",
+      "featuredArtistId": "3b8QkneNDz4JHKKKlLgYZg",
+      "trackName": "Last Day Alive",
+      "trackId": "6GeD5g9vZTz25Egf8kxoIY",
+      "preview": "https://p.scdn.co/mp3-preview/edfb3c100dbc0730cc90328e2d9095384abdf489?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/df3b17e748de56e4ce78ac29b216d3f99afd0c5a",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "ROZES",
+      "featuredArtistId": "6jsjhAEteAlY0vCiLvMLBA",
+      "trackName": "Roses",
+      "trackId": "6O6M7pJLABmfBRoGZMu76Y",
+      "preview": "https://p.scdn.co/mp3-preview/939d9371fbd0b70604d827ae3561abd096e35c59?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1659f267dfe09603ff693c581f6b65ee1d8b9cd4",
+      "release_date": "2016-08-10"
+    },
+    {
+      "featuredArtist": "Tritonal",
+      "featuredArtistId": "521qvhdobR0GzhvU6TFw76",
+      "trackName": "Until You Were Gone",
+      "trackId": "3PHAN9g1qziYB16D7Vs91A",
+      "preview": "https://p.scdn.co/mp3-preview/9d8420cb75e178379e72cbcb61590fceeaeb4df4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1659f267dfe09603ff693c581f6b65ee1d8b9cd4",
+      "release_date": "2016-08-10"
+    },
+    {
+      "featuredArtist": "Waterbed",
+      "featuredArtistId": "41yTdTDoHOK9dG7iupSZx4",
+      "trackName": "Waterbed",
+      "trackId": "3aWabkDk3jW0WGpT5hp3eM",
+      "preview": "https://p.scdn.co/mp3-preview/659c14ae0db99ea7ca048027d376c61e6374661d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1659f267dfe09603ff693c581f6b65ee1d8b9cd4",
+      "release_date": "2016-08-10"
+    },
+    {
+      "featuredArtist": "BullySongs",
+      "featuredArtistId": "5YMqwPmb7ViNXM63g1MUH5",
+      "trackName": "Good Intentions",
+      "trackId": "0mRHzC25cj7ENZC7JDSzA2",
+      "preview": "https://p.scdn.co/mp3-preview/d4d510c8cc832705b40b38314c84bb75a66e9543?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1659f267dfe09603ff693c581f6b65ee1d8b9cd4",
+      "release_date": "2016-08-10"
+    },
+    {
+      "featuredArtist": "Daya",
+      "featuredArtistId": "6Dd3NScHWwnW6obMFbl1BH",
+      "trackName": "Don't Let Me Down",
+      "trackId": "0QsvXIfqM0zZoerQfsI9lm",
+      "preview": "https://p.scdn.co/mp3-preview/0281cbb98db4324c1da09cea0f1c3b36868851fa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1659f267dfe09603ff693c581f6b65ee1d8b9cd4",
+      "release_date": "2016-08-10"
+    },
+    {
+      "featuredArtist": "Hardwell",
+      "featuredArtistId": "6BrvowZBreEkXzJQMpL174",
+      "trackName": "Don't Let Me Down - Hardwell & Sephyx Remix",
+      "trackId": "0Iz5oWKGyV6vo6sG99pNh7",
+      "preview": "https://p.scdn.co/mp3-preview/edc556e3e80b9254fbc23367bd9a49402c60de4a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1659f267dfe09603ff693c581f6b65ee1d8b9cd4",
+      "release_date": "2016-08-10"
+    },
+    {
+      "featuredArtist": "Sephyx",
+      "featuredArtistId": "7MXzeG7zoG8pKpqKCOqcZL",
+      "trackName": "Don't Let Me Down - Hardwell & Sephyx Remix",
+      "trackId": "0Iz5oWKGyV6vo6sG99pNh7",
+      "preview": "https://p.scdn.co/mp3-preview/edc556e3e80b9254fbc23367bd9a49402c60de4a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1659f267dfe09603ff693c581f6b65ee1d8b9cd4",
+      "release_date": "2016-08-10"
+    },
+    {
+      "featuredArtist": "Whyel",
+      "featuredArtistId": "49VoPmXaPH0vInz18MTeaM",
+      "trackName": "You Owe Me - Whyel Remix",
+      "trackId": "1Er7sc4uGT6xNuRhNSYaBF",
+      "preview": "https://p.scdn.co/mp3-preview/42bc915eb86b1fb886914d266fa861a952223f6c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1568a590b0bb33c59371cbdd68b21b9bd47fc82d",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Nonsens",
+      "featuredArtistId": "09GJU4jF4zhNfN72mTyMCi",
+      "trackName": "You Owe Me - Nonsens Remix",
+      "trackId": "3owbWlM89q53TbnMPJTpnh",
+      "preview": "https://p.scdn.co/mp3-preview/c2172f09f317400caa3d0d0c0c9798a0910de320?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1568a590b0bb33c59371cbdd68b21b9bd47fc82d",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Subfer",
+      "featuredArtistId": "0CFUv5iCAvSy9DkMxIkUwG",
+      "trackName": "You Owe Me - Subfer Remix",
+      "trackId": "793L9VYMEBkbA6pzT53usi",
+      "preview": "https://p.scdn.co/mp3-preview/fd59fb93594e8eedadce41177787d924da00f1f0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1568a590b0bb33c59371cbdd68b21b9bd47fc82d",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Inverness",
+      "featuredArtistId": "17aCDXnpzF1XYVe0QrsRvs",
+      "trackName": "You Owe Me - inverness Remix",
+      "trackId": "7h7HhUwiROy72UfyT6O2d4",
+      "preview": "https://p.scdn.co/mp3-preview/31b600f49a223d49e228a5b3a2feebb1f56f2417?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1568a590b0bb33c59371cbdd68b21b9bd47fc82d",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Magnace",
+      "featuredArtistId": "1svxSK71lvIBpFfLQvca8A",
+      "trackName": "You Owe Me - Magnace Remix",
+      "trackId": "6EJMN1wW6ciSAB57yRLErU",
+      "preview": "https://p.scdn.co/mp3-preview/7e710197ad1c6d2e1a27eb94e873db5eb32a46be?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1568a590b0bb33c59371cbdd68b21b9bd47fc82d",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Zaxx",
+      "featuredArtistId": "1VF81Q4Usmpf2fgjEV3HPJ",
+      "trackName": "Sick Boy - Zaxx Remix",
+      "trackId": "7D3lo0ShsjY84Yh9m7hn0J",
+      "preview": "https://p.scdn.co/mp3-preview/b323736657f5030cca9e261a6869a8a0b0d7ae93?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/74994be9645ad3e4e75121540810c6b5d8f26153",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Prismo",
+      "featuredArtistId": "23ostNBoB9z6GMXLtHdg7y",
+      "trackName": "Sick Boy - Prismo Remix",
+      "trackId": "42ZPwraf4eA3q5Fqtdacjr",
+      "preview": "https://p.scdn.co/mp3-preview/56dfe35342fcd486217bf52e3c4f4ce762cdc9d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/74994be9645ad3e4e75121540810c6b5d8f26153",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Owen Norton",
+      "featuredArtistId": "4ZjJmxiWDURUeXl9erCsE5",
+      "trackName": "Sick Boy - Owen Norton Remix",
+      "trackId": "4B3NahKokb7lLkvaLFZFzn",
+      "preview": "https://p.scdn.co/mp3-preview/05089d492f496c4b61553b29658808ab4fb1e84c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/74994be9645ad3e4e75121540810c6b5d8f26153",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Kuur",
+      "featuredArtistId": "71QLIIyx26UdND1sHEskNs",
+      "trackName": "Sick Boy - Kuur Remix",
+      "trackId": "7uGDVBUBtf1SblnoeSGCYQ",
+      "preview": "https://p.scdn.co/mp3-preview/9864203b013a72f1e36ac547241d4534a021885f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/74994be9645ad3e4e75121540810c6b5d8f26153",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Trobi",
+      "featuredArtistId": "0MBLQbpbPvJ4oXM0Cj4aKR",
+      "trackName": "Sick Boy - Trobi Remix",
+      "trackId": "5wY5vXuojS9V4e9Nh9yrwS",
+      "preview": "https://p.scdn.co/mp3-preview/2ef26bbd2ee6cd749505bd8fe2aeb7ee693b7758?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/74994be9645ad3e4e75121540810c6b5d8f26153",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "neutral.",
+      "featuredArtistId": "0zg4soTKKYncxkL8w50WtW",
+      "trackName": "Sick Boy - neutral. Remix",
+      "trackId": "3rESShKCG2y6GJyL28N0Z0",
+      "preview": "https://p.scdn.co/mp3-preview/2db9cd4edf086b5efa913f2d1c17b07ed9c307f9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/74994be9645ad3e4e75121540810c6b5d8f26153",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "k?d",
+      "featuredArtistId": "714O3xvBNiclo82vxBn8Bf",
+      "trackName": "Young - K?D Remix",
+      "trackId": "0ZEPdiFgQcWxmGU4uVMsHm",
+      "preview": "https://p.scdn.co/mp3-preview/dc4ec3435c5cd9212c263b6c69ad05597c000988?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dd4f9502b09308e9639ebea11874833db664321d",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "KO:YU",
+      "featuredArtistId": "2wIIoaTkGrgMdkZENiCcJo",
+      "trackName": "Young - KO:YU Remix",
+      "trackId": "4GNBJYRTHfXqRCNa5mpTC2",
+      "preview": "https://p.scdn.co/mp3-preview/1acaf69f728401a898d379bdc04d604c2df4cc20?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dd4f9502b09308e9639ebea11874833db664321d",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Midnight Kids",
+      "featuredArtistId": "5w39eY1aNDybnDGTNgVt3r",
+      "trackName": "Young - Midnight Kids Remix",
+      "trackId": "6m2xm05irfWrrewq1Q3fyN",
+      "preview": "https://p.scdn.co/mp3-preview/15971532c53338cba4b899e547fd033198a17242?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dd4f9502b09308e9639ebea11874833db664321d",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Lifelike",
+      "featuredArtistId": "3sa5sqxJqYjDZhGxmo4Ko5",
+      "trackName": "Honest - Lifelike Remix",
+      "trackId": "4kityrbupfQVvc6p8LL68m",
+      "preview": "https://p.scdn.co/mp3-preview/d8e71f482881c92d6e3ea851a49263d56f816bd4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/19bbed29b9773b9f689eaa93a238477d6eed3c4b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Rootkit",
+      "featuredArtistId": "01olvHW7uzIInQx9VTNuJm",
+      "trackName": "Honest - Rootkit Remix",
+      "trackId": "2D7F8RfrbKNt348E5UIs7S",
+      "preview": "https://p.scdn.co/mp3-preview/0f936e421fde26063f53c29a0d7482ed902ee96f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/19bbed29b9773b9f689eaa93a238477d6eed3c4b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Savi",
+      "featuredArtistId": "1H72fTOUAUl0WQ4kH5DPVW",
+      "trackName": "Honest - SAVI Remix",
+      "trackId": "5CYYljiI0WgstAMtsTALSw",
+      "preview": "https://p.scdn.co/mp3-preview/c545195d92107e8d754c08623366876fccf395ed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/19bbed29b9773b9f689eaa93a238477d6eed3c4b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Gil Glaze",
+      "featuredArtistId": "6pNzdcgIaKQKsYNS5agP4V",
+      "trackName": "Honest - Gil Glaze Remix",
+      "trackId": "2Yp9RZD8reu2mQ2mgFGfOZ",
+      "preview": "https://p.scdn.co/mp3-preview/f9655030af2477af03fb835f6055f391f584096d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/19bbed29b9773b9f689eaa93a238477d6eed3c4b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Maliboux",
+      "featuredArtistId": "157IWDnr2hC9SFL5OJF8j7",
+      "trackName": "Honest - Maliboux & UNKWN Remix",
+      "trackId": "1e3eob0upYbHldLUMLBz8b",
+      "preview": "https://p.scdn.co/mp3-preview/cd6c74b55a236ed1ed42e1ccac1dded9015c880c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/19bbed29b9773b9f689eaa93a238477d6eed3c4b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "UNKWN",
+      "featuredArtistId": "6Pf0NA2j6Q9gr1jDzCn2Nf",
+      "trackName": "Honest - Maliboux & UNKWN Remix",
+      "trackId": "1e3eob0upYbHldLUMLBz8b",
+      "preview": "https://p.scdn.co/mp3-preview/cd6c74b55a236ed1ed42e1ccac1dded9015c880c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/19bbed29b9773b9f689eaa93a238477d6eed3c4b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Alesso",
+      "featuredArtistId": "4AVFqumd2ogHFlRbKIjp1t",
+      "trackName": "Something Just Like This - Alesso Remix",
+      "trackId": "50RJdoxw8iajGNtHQe6QeS",
+      "preview": "https://p.scdn.co/mp3-preview/b80b1fa88e9aaf5a28a10975c6e17950d50efb5f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/828800643d3429dd6aa2ba61cf435beed00aba3b",
+      "release_date": "2017-04-28"
+    },
+    {
+      "featuredArtist": "R3HAB",
+      "featuredArtistId": "6cEuCEZu7PAE9ZSzLLc2oQ",
+      "trackName": "Something Just Like This - R3hab Remix",
+      "trackId": "0jTFKCb21Yd4UMV5Xk9EUz",
+      "preview": "https://p.scdn.co/mp3-preview/f39a25a9f3bbb82399254b82bb87282953ce31be?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/828800643d3429dd6aa2ba61cf435beed00aba3b",
+      "release_date": "2017-04-28"
+    },
+    {
+      "featuredArtist": "Dimitri Vegas & Like Mike",
+      "featuredArtistId": "73jBynjsVtofjRpdpRAJGk",
+      "trackName": "Something Just Like This - Dimitri Vegas & Like Mike Remix",
+      "trackId": "3LewMbGqmR4IYtifSNxbGz",
+      "preview": "https://p.scdn.co/mp3-preview/cea38c1b745c44d57f878a0944d37ccf98c65f3a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/828800643d3429dd6aa2ba61cf435beed00aba3b",
+      "release_date": "2017-04-28"
+    },
+    {
+      "featuredArtist": "Don Diablo",
+      "featuredArtistId": "1l2ekx5skC4gJH8djERwh1",
+      "trackName": "Something Just Like This - Don Diablo Remix",
+      "trackId": "15MTd64KUMG7CF6mOyovsQ",
+      "preview": "https://p.scdn.co/mp3-preview/4cc676d6eff3da91900ea510915743ab433d288e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/828800643d3429dd6aa2ba61cf435beed00aba3b",
+      "release_date": "2017-04-28"
+    },
+    {
+      "featuredArtist": "Jai Wolf",
+      "featuredArtistId": "24V5UY0nChKpnb1TBPJhCw",
+      "trackName": "Something Just Like This - Jai Wolf Remix",
+      "trackId": "2oF42D2udxtL7Kr6WFFlGb",
+      "preview": "https://p.scdn.co/mp3-preview/b6bd144bb6573114c7a3c6888426afa5b30f2994?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/828800643d3429dd6aa2ba61cf435beed00aba3b",
+      "release_date": "2017-04-28"
+    },
+    {
+      "featuredArtist": "ARMNHMR",
+      "featuredArtistId": "23zIiWVqqdxTtjMbKCBxB2",
+      "trackName": "Something Just Like This - ARMNHMR Remix",
+      "trackId": "2f3dQn9jfUwkgnPreXgByt",
+      "preview": "https://p.scdn.co/mp3-preview/71a9e44fb47f4fd633b805fdb54a87b6fc8cc54e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/828800643d3429dd6aa2ba61cf435beed00aba3b",
+      "release_date": "2017-04-28"
+    },
+    {
+      "featuredArtist": "VINAI",
+      "featuredArtistId": "4mrBetqy378Jf1y6NLszlx",
+      "trackName": "Paris - VINAI Remix",
+      "trackId": "7ldlgbsVshuUnFWyimgBxn",
+      "preview": "https://p.scdn.co/mp3-preview/9e3b963d87239fe5d721e2fa389ef346c5ee0182?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01ece4e0344cd37357420d12cd74d68b3356c0bd",
+      "release_date": "2017-02-17"
+    },
+    {
+      "featuredArtist": "LOUDPVCK",
+      "featuredArtistId": "0rQ0WMIrOt6MzfiGaNWh3D",
+      "trackName": "Paris - LOUDPVCK Remix",
+      "trackId": "5ZQM4NzvXB4Hc0BG0ZHufF",
+      "preview": "https://p.scdn.co/mp3-preview/99826b453991886ba5679ab5e1611a50bcea2c1f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01ece4e0344cd37357420d12cd74d68b3356c0bd",
+      "release_date": "2017-02-17"
+    },
+    {
+      "featuredArtist": "Pegboard Nerds",
+      "featuredArtistId": "0lLY20XpZ9yDobkbHI7u1y",
+      "trackName": "Paris - Pegboard Nerds Remix",
+      "trackId": "0zl9JGNm3Ob7XyMO0jqRwz",
+      "preview": "https://p.scdn.co/mp3-preview/8cddf90b4488c24fd5b38a056750728eedac0f96?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01ece4e0344cd37357420d12cd74d68b3356c0bd",
+      "release_date": "2017-02-17"
+    },
+    {
+      "featuredArtist": "Jewelz & Sparks",
+      "featuredArtistId": "50kceDjknh0CjwOko7kx7V",
+      "trackName": "Paris - Jewelz & Sparks Remix",
+      "trackId": "5srtUQuIEmo9pqiIT8h2BG",
+      "preview": "https://p.scdn.co/mp3-preview/6b280751beec2fb5e94d69aabd11b447d6f15f32?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01ece4e0344cd37357420d12cd74d68b3356c0bd",
+      "release_date": "2017-02-17"
+    },
+    {
+      "featuredArtist": "Party Thieves",
+      "featuredArtistId": "0l6M2vf0lC8N42B4spXUSn",
+      "trackName": "Paris - Party Thieves Remix",
+      "trackId": "1LrsP52ihuiVCpe3Lsxyze",
+      "preview": "https://p.scdn.co/mp3-preview/d675ba00931d85c120609b658e5d6067c0826ce6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01ece4e0344cd37357420d12cd74d68b3356c0bd",
+      "release_date": "2017-02-17"
+    },
+    {
+      "featuredArtist": "FKYA",
+      "featuredArtistId": "7AGL6rHRzH2FSmJaG0Mjb0",
+      "trackName": "Paris - FKYA Remix",
+      "trackId": "40120Gj8DGFiTb4h1ElwF9",
+      "preview": "https://p.scdn.co/mp3-preview/7f51bd96f60b6b8dd4a9560687cf6f3ceb778ef9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01ece4e0344cd37357420d12cd74d68b3356c0bd",
+      "release_date": "2017-02-17"
+    },
+    {
+      "featuredArtist": "XYLØ",
+      "featuredArtistId": "6ioOEWNNGK40H8xrGj6XPW",
+      "trackName": "Setting Fires - Blasterjaxx Remix",
+      "trackId": "3dqGLyXoP2Bo32eU6Rd8SQ",
+      "preview": "https://p.scdn.co/mp3-preview/805456aae40c4b06e36172bc1db21ff0174d5be5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/14a3637a95910396b75242d0d6e37ba259cba183",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "Blasterjaxx",
+      "featuredArtistId": "37awA8DFCAnCCL7aqYbDnD",
+      "trackName": "Setting Fires - Blasterjaxx Remix",
+      "trackId": "3dqGLyXoP2Bo32eU6Rd8SQ",
+      "preview": "https://p.scdn.co/mp3-preview/805456aae40c4b06e36172bc1db21ff0174d5be5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/14a3637a95910396b75242d0d6e37ba259cba183",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "Sigma",
+      "featuredArtistId": "6VMWP5vzSXgbV4VdRspAfK",
+      "trackName": "Setting Fires - Sigma Remix",
+      "trackId": "73iR1IX5l9vHZEWk1XSpry",
+      "preview": "https://p.scdn.co/mp3-preview/17cf8c5885743d278782d08260bbad0da9b77a8b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/14a3637a95910396b75242d0d6e37ba259cba183",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "Vanic",
+      "featuredArtistId": "2LY0E3xg8svCVYXVNTze5T",
+      "trackName": "Setting Fires - Vanic Remix",
+      "trackId": "4Cka9hWfkA8o0N8m0tPR0g",
+      "preview": "https://p.scdn.co/mp3-preview/42bedaeeb6c4aa31a7635b1d325e6a9855d73c25?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/14a3637a95910396b75242d0d6e37ba259cba183",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "Qulinez",
+      "featuredArtistId": "6d7AYr4nvqHPhfPaDLLeRU",
+      "trackName": "Setting Fires - Qulinez Remix",
+      "trackId": "0QnVeGfbr0POpGZG0o0gA3",
+      "preview": "https://p.scdn.co/mp3-preview/750078c332b5c3fee158e7fba95d93595c8c183b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/14a3637a95910396b75242d0d6e37ba259cba183",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "BOXINLION",
+      "featuredArtistId": "7qwAI0giylcoVaHSO3GkW9",
+      "trackName": "Setting Fires - BOXINLION Remix",
+      "trackId": "1Jfprqfanwu3w0uIddBuYs",
+      "preview": "https://p.scdn.co/mp3-preview/c6388078a95a805b4fdf8397dc72af022410100c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/14a3637a95910396b75242d0d6e37ba259cba183",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "Phoebe Ryan",
+      "featuredArtistId": "4N874uPqBka1QiCvnCVOtr",
+      "trackName": "All We Know - Oliver Heldens Remix",
+      "trackId": "5sWevAyvYSRzGpIsdsRvJi",
+      "preview": "https://p.scdn.co/mp3-preview/736ad89550bbb753db0468a542bf6a3d71fb6914?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1eaf92b4f7872f0a7262e9f8cd5da0431db4c8e5",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Oliver Heldens",
+      "featuredArtistId": "5nki7yRhxgM509M5ADlN1p",
+      "trackName": "All We Know - Oliver Heldens Remix",
+      "trackId": "5sWevAyvYSRzGpIsdsRvJi",
+      "preview": "https://p.scdn.co/mp3-preview/736ad89550bbb753db0468a542bf6a3d71fb6914?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1eaf92b4f7872f0a7262e9f8cd5da0431db4c8e5",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Halsey",
+      "featuredArtistId": "26VFTg2z8YR0cCuwLzESi2",
+      "trackName": "Closer",
+      "trackId": "7crMiinWx373rNBZBaVske",
+      "preview": "https://p.scdn.co/mp3-preview/cf59f26b733e20af6a8fe225ad92be9943bde0bc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1fe0c714864de352d0092d3c30a9522d0e0e727",
+      "release_date": "2016-11-04"
+    },
+    {
+      "featuredArtist": "Charlee",
+      "featuredArtistId": "6qaQDRYp95AylkA1FnEI3Q",
+      "trackName": "Inside Out",
+      "trackId": "4GdYM1hIvRfK8keBF2eQ1a",
+      "preview": "https://p.scdn.co/mp3-preview/74f9aa366bda4565fdebca73bfab90aae903f283?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1fe0c714864de352d0092d3c30a9522d0e0e727",
+      "release_date": "2016-11-04"
+    },
+    {
+      "featuredArtist": "Shaun Frank",
+      "featuredArtistId": "0BBwlSQvHHtahgYpLj1wJE",
+      "trackName": "Closer - Shaun Frank Remix",
+      "trackId": "7e8TWUFkE0wSF78cLJEgwe",
+      "preview": "https://p.scdn.co/mp3-preview/d1824d513e4622a62ba35c4c0e61accd286ad2ad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6b0f6c9611245c7b1ebe716b876a44dc99c5b3ee",
+      "release_date": "2016-09-23"
+    },
+    {
+      "featuredArtist": "T-Mass",
+      "featuredArtistId": "0M3cZtjQZ8fz3Hbw1A4CwF",
+      "trackName": "Closer - T-Mass Remix",
+      "trackId": "33ecyF2OHCK4HFUSp1hItE",
+      "preview": "https://p.scdn.co/mp3-preview/c0929eef77af51748ba625404913ebae577e9c0a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6b0f6c9611245c7b1ebe716b876a44dc99c5b3ee",
+      "release_date": "2016-09-23"
+    },
+    {
+      "featuredArtist": "Wuki",
+      "featuredArtistId": "6Se1y4vDcu9fVHLqdj1N3q",
+      "trackName": "Closer - Wuki Remix",
+      "trackId": "2PG9yLaY0zR2oWHPMl4tea",
+      "preview": "https://p.scdn.co/mp3-preview/f6c8818d3c8750a3c69696f2a458b9bdc86c71e7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6b0f6c9611245c7b1ebe716b876a44dc99c5b3ee",
+      "release_date": "2016-09-23"
+    },
+    {
+      "featuredArtist": "ARMNHMR",
+      "featuredArtistId": "0P2bZXPyjHYRW4guHVAFl1",
+      "trackName": "Closer - ARMNHMR Remix",
+      "trackId": "5MfstOgBJxNikoR2z8eyFX",
+      "preview": "https://p.scdn.co/mp3-preview/5ba479b1a78290c513b94f406eca9902953a7e2f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6b0f6c9611245c7b1ebe716b876a44dc99c5b3ee",
+      "release_date": "2016-09-23"
+    },
+    {
+      "featuredArtist": "Robotaki",
+      "featuredArtistId": "5ar4zFgUQG1RsH8nhmjOeM",
+      "trackName": "Closer - Robotaki Remix",
+      "trackId": "14FxT9UrYFQup38Ub3CBDu",
+      "preview": "https://p.scdn.co/mp3-preview/e8e638cd19f04785587ca62ca5034d0f44d53ba9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6b0f6c9611245c7b1ebe716b876a44dc99c5b3ee",
+      "release_date": "2016-09-23"
+    }
+  ]
+}

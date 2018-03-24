@@ -1,0 +1,302 @@
+{
+  "artistName": "The Lonely Island",
+  "features": [
+    {
+      "featuredArtist": "Adam Levine",
+      "featuredArtistId": "4bYPcJP5jwMhSivRcqie2n",
+      "trackName": "I’m So Humble - From \"Popstar: Never Stop Never Stopping\" Original Motion Picture Soundtrack",
+      "trackId": "0yD1rumDBT0cO6X5Qa6MPb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c17bb6e1d01f911f300da134328b5e583026ba4",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "P!nk",
+      "featuredArtistId": "1KCSPY1glIKqW2TotWuXOR",
+      "trackName": "Equal Rights - From \"Popstar: Never Stop Never Stopping\" Original Motion Picture Soundtrack",
+      "trackId": "5Swbm2NiZWkOyXuuFI18XO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c17bb6e1d01f911f300da134328b5e583026ba4",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Emma Stone",
+      "featuredArtistId": "68Uwx1d3EbjDJhYsLjqvIq",
+      "trackName": "Turn Up The Beef - From \"Popstar: Never Stop Never Stopping\" Original Motion Picture Soundtrack",
+      "trackId": "4DHt4z21lSFkEbeJZsl07X",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c17bb6e1d01f911f300da134328b5e583026ba4",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Chris Redd",
+      "featuredArtistId": "4lK0RCHb60euk21wlSsXCe",
+      "trackName": "Hunter The Hungry Is Gon’ Eat - From \"Popstar: Never Stop Never Stopping\" Original Motion Picture Soundtrack",
+      "trackId": "3HSXnflynpmWUqJ63k7imI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c17bb6e1d01f911f300da134328b5e583026ba4",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Akon",
+      "featuredArtistId": "0z4gvV4rjIZ9wHck67ucSV",
+      "trackName": "Should I Move? - BONUS TRACK",
+      "trackId": "5DjjEtHI9FiJ1eTtGJ03Ju",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c17bb6e1d01f911f300da134328b5e583026ba4",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Linkin Park",
+      "featuredArtistId": "6XyY86QOPPrYVGvF9ch6wz",
+      "trackName": "Things In My Jeep - From \"Popstar: Never Stop Never Stopping\" Original Motion Picture Soundtrack",
+      "trackId": "2QVLEmV8eesYE7bAYMkWuw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c17bb6e1d01f911f300da134328b5e583026ba4",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Seal",
+      "featuredArtistId": "5GtMEZEeFFsuHY8ad4kOxv",
+      "trackName": "Ashley Wednesday - From \"Popstar: Never Stop Never Stopping\" Original Motion Picture Soundtrack",
+      "trackId": "5lQF6c6KQiFsNg9zrCzloi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c17bb6e1d01f911f300da134328b5e583026ba4",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Michael Bolton",
+      "featuredArtistId": "6YHEMoNPbcheiWS2haGzkn",
+      "trackName": "Incredible Thoughts - From \"Popstar: Never Stop Never Stopping\" Original Motion Picture Soundtrack",
+      "trackId": "4XulsDg8lpCD2JtQcMm9Yy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c17bb6e1d01f911f300da134328b5e583026ba4",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Mr. Fish",
+      "featuredArtistId": "5gPV64KDjM19c1aeRMH43b",
+      "trackName": "Incredible Thoughts - From \"Popstar: Never Stop Never Stopping\" Original Motion Picture Soundtrack",
+      "trackId": "4XulsDg8lpCD2JtQcMm9Yy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c17bb6e1d01f911f300da134328b5e583026ba4",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Robyn",
+      "featuredArtistId": "6UE7nl9mha6s8z0wFQFIZ2",
+      "trackName": "Go Kindergarten",
+      "trackId": "4UnEP3e1QfTLffaSJXWMpt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b46955ec5e9f564b434d5b91957d639af86e67e6",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Pharrell Williams",
+      "featuredArtistId": "2RdwBSPQiwcmiDo9kixcl8",
+      "trackName": "Hugs",
+      "trackId": "641VgRfGrvmWir1zVDAvaX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b46955ec5e9f564b434d5b91957d639af86e67e6",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Kendrick Lamar",
+      "featuredArtistId": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "trackName": "YOLO",
+      "trackId": "6XmT1eehtQjAtuZL3gMBNT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b46955ec5e9f564b434d5b91957d639af86e67e6",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Solange",
+      "featuredArtistId": "2auiVi8sUZo17dLy1HwrTU",
+      "trackName": "Semicolon",
+      "trackId": "5oAyGEvCOvwKwcd3KH6xZ4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b46955ec5e9f564b434d5b91957d639af86e67e6",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Hugh Jackman",
+      "featuredArtistId": "5F1aoppMtU3OMiltO8ymJ2",
+      "trackName": "You've Got The Look",
+      "trackId": "2dQtB7vivJLQVoXa9gjiIG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b46955ec5e9f564b434d5b91957d639af86e67e6",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Kristen Wiig",
+      "featuredArtistId": "7MypuUAk2WmPRi8G1VNkyE",
+      "trackName": "You've Got The Look",
+      "trackId": "2dQtB7vivJLQVoXa9gjiIG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b46955ec5e9f564b434d5b91957d639af86e67e6",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Billie Joe Armstrong",
+      "featuredArtistId": "1MrEurzLcL8ugfP1PrUPWG",
+      "trackName": "I Run NY",
+      "trackId": "5vWyrbiq1bZ0g7BkgJhsRq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b46955ec5e9f564b434d5b91957d639af86e67e6",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Justin Timberlake",
+      "featuredArtistId": "31TPClRtHm23RisEBtV3X7",
+      "trackName": "3-Way (The Golden Rule)",
+      "trackId": "5orUhwRVuVCtRYxg3FzidD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b46955ec5e9f564b434d5b91957d639af86e67e6",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Lady Gaga",
+      "featuredArtistId": "1HY2Jd0NmPuamShAr6KMms",
+      "trackName": "3-Way (The Golden Rule)",
+      "trackId": "5orUhwRVuVCtRYxg3FzidD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b46955ec5e9f564b434d5b91957d639af86e67e6",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "T-Pain",
+      "featuredArtistId": "3aQeKQSyrW4qWr35idm0cy",
+      "trackName": "I F****d My Aunt",
+      "trackId": "2H8ojDP7xp73tZKVcoz06r",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b46955ec5e9f564b434d5b91957d639af86e67e6",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Too $hort",
+      "featuredArtistId": "4sb7rZNN93BSS6Gqgepo4v",
+      "trackName": "The Compliments",
+      "trackId": "1UsjyBXKWqXNNzArBsVOAc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b46955ec5e9f564b434d5b91957d639af86e67e6",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Beck",
+      "featuredArtistId": "3vbKDsSS70ZX9D2OcvbZmS",
+      "trackName": "Attracted To Us",
+      "trackId": "7GApMdJaL2THdNpVx21Lel",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/792870d594efba2ecad7ef7039f1eb9a9c743280",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Snoop Dogg",
+      "featuredArtistId": "7hJcb9fa4alzcOq3EaNPoG",
+      "trackName": "Turtleneck & Chain",
+      "trackId": "27DAMhrjvRIuVim6j904dA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/792870d594efba2ecad7ef7039f1eb9a9c743280",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Rihanna",
+      "featuredArtistId": "5pKCCKE2ajJHZ9KAiaK11H",
+      "trackName": "Shy Ronnie 2: Ronnie & Clyde",
+      "trackId": "5YBZNqsqTatF5LZMKDv4HC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/792870d594efba2ecad7ef7039f1eb9a9c743280",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Nicki Minaj",
+      "featuredArtistId": "0hCNtLu0JehylgoiP8L4Gh",
+      "trackName": "The Creep",
+      "trackId": "1ad1OnamsvSyg18hQAoeV3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/792870d594efba2ecad7ef7039f1eb9a9c743280",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Santigold",
+      "featuredArtistId": "6Jrxnp0JgqmeUX1veU591p",
+      "trackName": "After Party",
+      "trackId": "32iVW6utmY65FqeU3g7jas",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/792870d594efba2ecad7ef7039f1eb9a9c743280",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "E-40",
+      "featuredArtistId": "3crnzLy8R4lVwaigKEOz7V",
+      "trackName": "Santana DVX",
+      "trackId": "2WDc0NjJq5uq65XQC2kJME",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5ce12904e8f4ddd653d0befe4aa623b373584ab3",
+      "release_date": "2009"
+    },
+    {
+      "featuredArtist": "Jack Black",
+      "featuredArtistId": "0qpMYTgbXRi1ZcX6vend3T",
+      "trackName": "Sax Man",
+      "trackId": "2oJnewcmY02HnOd1KbVwPe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5ce12904e8f4ddd653d0befe4aa623b373584ab3",
+      "release_date": "2009"
+    },
+    {
+      "featuredArtist": "Chris Parnell",
+      "featuredArtistId": "6kqtuAMKwo799YDTpwY8QK",
+      "trackName": "Lazy Sunday",
+      "trackId": "1yNfLRErwcn3vkRW2kCIVr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5ce12904e8f4ddd653d0befe4aa623b373584ab3",
+      "release_date": "2009"
+    },
+    {
+      "featuredArtist": "Julian Casablancas",
+      "featuredArtistId": "1rAv1GhTQ2rmG94p9lU3rB",
+      "trackName": "Boombox",
+      "trackId": "0EvSy0XrbY1RHswHv5maqy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5ce12904e8f4ddd653d0befe4aa623b373584ab3",
+      "release_date": "2009"
+    },
+    {
+      "featuredArtist": "Norah Jones",
+      "featuredArtistId": "2Kx7MNY7cI1ENniW7vT30N",
+      "trackName": "Dreamgirl",
+      "trackId": "2TBvioRDdFMzry2rGaOJPJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5ce12904e8f4ddd653d0befe4aa623b373584ab3",
+      "release_date": "2009"
+    },
+    {
+      "featuredArtist": "Natalie Portman",
+      "featuredArtistId": "1r3yFdQpEfM9Ip9rNRLzL1",
+      "trackName": "Natalie's Rap",
+      "trackId": "1f0VlUeHwIUVa9xkFUCZ9I",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5ce12904e8f4ddd653d0befe4aa623b373584ab3",
+      "release_date": "2009"
+    },
+    {
+      "featuredArtist": "Lil Jon",
+      "featuredArtistId": "7sfl4Xt5KmfyDs2T3SVSMK",
+      "trackName": "When Will the Bass Drop (feat. Lil Jon & Sam F)",
+      "trackId": "1pgwcR07BqXt558I8YjtWS",
+      "preview": "https://p.scdn.co/mp3-preview/a4a6c5c81ad816167c7c5190ed149341c6478932?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/34b89a1774c09b6d5f3c8a87bf345b7ad13d890c",
+      "release_date": "2014-05-24"
+    },
+    {
+      "featuredArtist": "Sam F",
+      "featuredArtistId": "7KCdHGc5N4oYz2Ekg3CRdb",
+      "trackName": "When Will the Bass Drop (feat. Lil Jon & Sam F)",
+      "trackId": "1pgwcR07BqXt558I8YjtWS",
+      "preview": "https://p.scdn.co/mp3-preview/a4a6c5c81ad816167c7c5190ed149341c6478932?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/34b89a1774c09b6d5f3c8a87bf345b7ad13d890c",
+      "release_date": "2014-05-24"
+    }
+  ]
+}

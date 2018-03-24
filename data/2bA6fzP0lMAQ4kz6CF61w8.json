@@ -1,0 +1,32 @@
+{
+  "artistName": "Toby Keith",
+  "features": [
+    {
+      "featuredArtist": "Jimmy Buffett",
+      "featuredArtistId": "28AyklUmMECPwdfo8NEsV0",
+      "trackName": "Sailboat For Sale",
+      "trackId": "5wEPS6o1frkAsqr2XKX1FB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f55144e784325099428cb4f0fe514b09844e69b8",
+      "release_date": "2015-10-09"
+    },
+    {
+      "featuredArtist": "Sammy Hagar",
+      "featuredArtistId": "1hXjTjJzZTXDZ75AclOo6N",
+      "trackName": "Margaritaville",
+      "trackId": "2xMmnwrfjMy3vkog3QJKYO",
+      "preview": "https://p.scdn.co/mp3-preview/b6154eb1e5d43f03855a73ce7980b08380f0efe9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/115e4ddad735555bb732d74742b21e6978d4d2d5",
+      "release_date": "2013-10-28"
+    },
+    {
+      "featuredArtist": "Jason Nevins",
+      "featuredArtistId": "5w0ka9nPOmEH6CcZrutyP2",
+      "trackName": "Beers Ago - Jason Nevins Remix",
+      "trackId": "6sezkUrqOgW8xfoNdwLFMc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3537cca2e693b435e854530b72ff4bbc79866779",
+      "release_date": "2012-01-01"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "artistName": "X Ambassadors",
+  "features": [
+    {
+      "featuredArtist": "Imagine Dragons",
+      "featuredArtistId": "53XhwfbYqKCa1cC15pYq2q",
+      "trackName": "Fear",
+      "trackId": "2KP1vYjDXCj7p2u7QXcxtH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/98cf338f338f803c92522887fba7d570f45a2c20",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Jamie N Commons",
+      "featuredArtistId": "2FsZnS8gQ8jG1HGnPYNlm9",
+      "trackName": "Low Life",
+      "trackId": "3E1BbOMqKUlN4VyXZKlEkk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/98cf338f338f803c92522887fba7d570f45a2c20",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "A$AP Ferg",
+      "featuredArtistId": "5dHt1vcEm9qb8fCyLcB3HL",
+      "trackName": "Low Life 2.0",
+      "trackId": "5COKU86j0iPUfZ8IAU8Vqs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/98cf338f338f803c92522887fba7d570f45a2c20",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Tom Morello",
+      "featuredArtistId": "74NBPbyyftqJ4SpDZ4c1Ed",
+      "trackName": "Collider",
+      "trackId": "0eATgkWG5F2S0pLFK95ImZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/98cf338f338f803c92522887fba7d570f45a2c20",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Machine Gun Kelly",
+      "featuredArtistId": "6TIYQ3jFPwQSRmorSezPxX",
+      "trackName": "Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",
+      "trackId": "0OI7AFifLSoGzpb8bdBLLV",
+      "preview": "https://p.scdn.co/mp3-preview/4d9606979b5c6e138811ef7d90c10efc4cfe4fcf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d1b02acc298a3d1ddeb69dee182b400e071473aa",
+      "release_date": "2017-11-18"
+    },
+    {
+      "featuredArtist": "Bebe Rexha",
+      "featuredArtistId": "64M6ah0SkkRsnPGtGiRAbb",
+      "trackName": "Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",
+      "trackId": "0OI7AFifLSoGzpb8bdBLLV",
+      "preview": "https://p.scdn.co/mp3-preview/4d9606979b5c6e138811ef7d90c10efc4cfe4fcf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d1b02acc298a3d1ddeb69dee182b400e071473aa",
+      "release_date": "2017-11-18"
+    }
+  ]
+}

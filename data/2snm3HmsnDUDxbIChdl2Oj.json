@@ -1,0 +1,32 @@
+{
+  "artistName": "Justin Hurwitz",
+  "features": [
+    {
+      "featuredArtist": "Ryan Gosling",
+      "featuredArtistId": "6kXm2YCtdUOpRYNKeKhfue",
+      "trackName": "City Of Stars / May Finally Come True",
+      "trackId": "0Zwz1reeqSoTkGsfFV1ssn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5dda7d3592f98c6d1fb01c131b8ec5539089bf72",
+      "release_date": "2016-12-09"
+    },
+    {
+      "featuredArtist": "Emma Stone",
+      "featuredArtistId": "68Uwx1d3EbjDJhYsLjqvIq",
+      "trackName": "City Of Stars / May Finally Come True",
+      "trackId": "0Zwz1reeqSoTkGsfFV1ssn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5dda7d3592f98c6d1fb01c131b8ec5539089bf72",
+      "release_date": "2016-12-09"
+    },
+    {
+      "featuredArtist": "Nicholas Britell",
+      "featuredArtistId": "18oYqNtcLUHrqO7LfX7qni",
+      "trackName": "No Two Words",
+      "trackId": "6wgj1eXiSqp18yWHaTJZby",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/577d1b34ec3605ab54183d9ed3fe64295ccb3507",
+      "release_date": "2014-10-06"
+    }
+  ]
+}

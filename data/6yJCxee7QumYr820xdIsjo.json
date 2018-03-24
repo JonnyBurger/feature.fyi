@@ -1,0 +1,59 @@
+{
+  "artistName": "Zac Brown Band",
+  "features": [
+    {
+      "featuredArtist": "Sara Bareilles",
+      "featuredArtistId": "2Sqr0DXoaYABbjBo9HaMkM",
+      "trackName": "Mango Tree",
+      "trackId": "0ysrkmNrfdrD5HKivpXp7Y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a3a4ddecb4b78c6b73301169dd7f43d09fcf8dd1",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Chris Cornell",
+      "featuredArtistId": "0XHiH53dHrvbwfjYM7en7I",
+      "trackName": "Heavy Is the Head",
+      "trackId": "5rpjEBQVAVKDDIPa5dI37A",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a3a4ddecb4b78c6b73301169dd7f43d09fcf8dd1",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Alan Jackson",
+      "featuredArtistId": "4mxWe1mtYIYfP040G38yvS",
+      "trackName": "As She's Walking Away (feat. Alan Jackson)",
+      "trackId": "1jxR2ZtJo0O3Zq993R4MV7",
+      "preview": "https://p.scdn.co/mp3-preview/13fe645197c9b2725e3ab2bce0312147aad32fbb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2587ff1b4d4d301feb7547609eccaec3f9381ba",
+      "release_date": "2014-11-07"
+    },
+    {
+      "featuredArtist": "Jimmy Buffett",
+      "featuredArtistId": "28AyklUmMECPwdfo8NEsV0",
+      "trackName": "Knee Deep (feat. Jimmy Buffett)",
+      "trackId": "3t0y8mhPWVRsXmk1QpW410",
+      "preview": "https://p.scdn.co/mp3-preview/4d1e9266bc051819e3180e3b75ff7bdad75bcd06?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2587ff1b4d4d301feb7547609eccaec3f9381ba",
+      "release_date": "2014-11-07"
+    },
+    {
+      "featuredArtist": "Trombone Shorty",
+      "featuredArtistId": "37ZvFp654tY74Z1D2TLOGR",
+      "trackName": "Overnight (feat. Trombone Shorty)",
+      "trackId": "0UoLKEUBiLdjDY6HHzwB2B",
+      "preview": "https://p.scdn.co/mp3-preview/fef7caf89377ce96bc43d5613554dbbcab30a5db?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/422630a31e3240b4512cdf6648bd7e9262874f48",
+      "release_date": "2012-07-06"
+    },
+    {
+      "featuredArtist": "Amos Lee",
+      "featuredArtistId": "0QrowybipCKUDnq5y10PD2",
+      "trackName": "Day That I Die (feat. Amos Lee)",
+      "trackId": "5tMdNsKOlNr0iUFtSE1BwG",
+      "preview": "https://p.scdn.co/mp3-preview/f31216ee1825e0595449597d66c29fd019ce3f5a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/422630a31e3240b4512cdf6648bd7e9262874f48",
+      "release_date": "2012-07-06"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "artistName": "Jack & Jack",
+  "features": [
+    {
+      "featuredArtist": "Olivia O'Brien",
+      "featuredArtistId": "1QRj3hoop9Mv5VvHQkwPEp",
+      "trackName": "Beg - Acoustic",
+      "trackId": "13eCd407TGUYH00vXjpK38",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b334fcee400ecbb51ca5c17130a720e97e47f076",
+      "release_date": "2018-01-26"
+    },
+    {
+      "featuredArtist": "Skate",
+      "featuredArtistId": "26YfTnYYiKNMF2PUlpY6n9",
+      "trackName": "I'm In Love (Feat. Jack & Jack)",
+      "trackId": "7h9Wi5vYfXddHYETSIHVu9",
+      "preview": "https://p.scdn.co/mp3-preview/c886c33d528083986bf99606b56ff22d827c43d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d2c45e9afe8c0c2b3aebf23f68e93a9dc3bf6a92",
+      "release_date": "2016-01-02"
+    }
+  ]
+}

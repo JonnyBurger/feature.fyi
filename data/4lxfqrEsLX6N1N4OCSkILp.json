@@ -1,0 +1,32 @@
+{
+  "artistName": "Phil Collins",
+  "features": [
+    {
+      "featuredArtist": "Philip Bailey",
+      "featuredArtistId": "6ZNeppgfBLPUyugks9Yn1u",
+      "trackName": "Easy Lover",
+      "trackId": "5ImB84KIudntOyb89107Ob",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/96cb0c5dd6d0a9ae4c845f21183014fb8bfe0237",
+      "release_date": "2016-10-14"
+    },
+    {
+      "featuredArtist": "Marilyn Martin",
+      "featuredArtistId": "3vtjCpFunIFNdbXkBVx0gL",
+      "trackName": "Separate Lives (Love Theme From White Nights) - 2016 Remastered",
+      "trackId": "6DEFVerhYVJ6ZkPJiPl5Sm",
+      "preview": "https://p.scdn.co/mp3-preview/7e196827ec813ee7fd4f94662af6868d244410ff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/96cb0c5dd6d0a9ae4c845f21183014fb8bfe0237",
+      "release_date": "2016-10-14"
+    },
+    {
+      "featuredArtist": "Mark Mancina",
+      "featuredArtistId": "4pVaQcaBqbvk0ucB4r65e3",
+      "trackName": "Three Brothers - Score",
+      "trackId": "29zinNMdwWJggVvc0maJ1y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/67a100fb3c05f99eb5cb1ae41d7fdb26670aa8da",
+      "release_date": "2003-01-01"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "artistName": "RIN",
+  "features": [
+    {
+      "featuredArtist": "Shindy",
+      "featuredArtistId": "5j21TGkrNEAJe3gG9VlS34",
+      "trackName": "Hallelujah",
+      "trackId": "5wExm3smficf6dgIPjlqfX",
+      "preview": "https://p.scdn.co/mp3-preview/31bf176a0825ee5e4d0cd5dddec201bec4006802?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/16c1bbd434ff15f9b5cbf434e08a6c4928dde98b",
+      "release_date": "2017-06-02"
+    },
+    {
+      "featuredArtist": "Joy Denalane",
+      "featuredArtistId": "5vP3nmsaGrondXXS5BvrSH",
+      "trackName": "Zwischen den Zeilen",
+      "trackId": "4OAhzT0Rz6e3rTwLIA3tIE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ecd9ed70f90ad9d9d7771da979a0879983ff31ab",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Yung Hurn",
+      "featuredArtistId": "4PvnP3yCzrT289cX3wCdOx",
+      "trackName": "Bianco - Prod. Lex Lugner",
+      "trackId": "0ekFioHmdtwcITYOYXavl6",
+      "preview": "https://p.scdn.co/mp3-preview/198f12755f3cb7beffd3fafd661736d4c55c9a97?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/35770c84da1327c8c37fd0b0d1358ccd3dcf419c",
+      "release_date": "2016-12-23"
+    }
+  ]
+}

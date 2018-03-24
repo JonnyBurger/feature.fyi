@@ -1,0 +1,32 @@
+{
+  "artistName": "Alex Ubago",
+  "features": [
+    {
+      "featuredArtist": "Luis Fonsi",
+      "featuredArtistId": "4V8Sr092TqfHkfAA5fXXqG",
+      "trackName": "Cuenta conmigo (feat. Luis Fonsi)",
+      "trackId": "0nAbMslhWDnGhnLdzlckoh",
+      "preview": "https://p.scdn.co/mp3-preview/df5d31e8e0feb9360213bcf0e603c3dd94142872?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2432211b4a9fa9e1a32cea4c8c78845cbcc245e8",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Amaia Montero",
+      "featuredArtistId": "4LbuSjHhhAddvN44qXpRJo",
+      "trackName": "Sin miedo a nada (feat. Amaia Montero)",
+      "trackId": "3PH6yYtnyiOnHzWNLYJb1f",
+      "preview": "https://p.scdn.co/mp3-preview/076f6ddfca03b73f565c3a902128c9b0ba6bbf1d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d131328ac3b1fc6d2af99325f60df4c9ae5b1e2d",
+      "release_date": "2007-08-10"
+    },
+    {
+      "featuredArtist": "Paty Cantú",
+      "featuredArtistId": "7K9rdoOJSiKXoVXPlSkGKT",
+      "trackName": "Entre tu boca y la mía (feat. Paty Cantú) - Remix",
+      "trackId": "1vNMaEJExj9dPET1K7IoN7",
+      "preview": "https://p.scdn.co/mp3-preview/499530997d49e4c2aef2155837b1fcdc50f8b4ca?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/93c66317df691f4801ac58a2337ef012f6e9156c",
+      "release_date": "2017-12-01"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "artistName": "Jeon",
+  "features": [
+    {
+      "featuredArtist": "J Balvin",
+      "featuredArtistId": "1vyhD5VmyZ7KMfW5gqLgo5",
+      "trackName": "Machika",
+      "trackId": "4vKltMFviBKMdhYu3FDLY0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/62ac50b3411d1933d1b171880a0bed2db3c24caf",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Anitta",
+      "featuredArtistId": "7FNnA9vBm6EKceENgCGRMb",
+      "trackName": "Machika",
+      "trackId": "4vKltMFviBKMdhYu3FDLY0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/62ac50b3411d1933d1b171880a0bed2db3c24caf",
+      "release_date": "2018-01-19"
+    }
+  ]
+}

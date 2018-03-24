@@ -1,0 +1,32 @@
+{
+  "artistName": "Darin",
+  "features": [
+    {
+      "featuredArtist": "Smith & Thell",
+      "featuredArtistId": "1ZrBGJWLL8NiAjgNifCy90",
+      "trackName": "Mardröm",
+      "trackId": "2wx5Wpss70wOpYA6MM7goQ",
+      "preview": "https://p.scdn.co/mp3-preview/3db19d55ebb38c08b1daff9227e5d1133fcacd80?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/00364cd97b3111482f49d6b7808dcdbfb7ee0f23",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Lil Jon",
+      "featuredArtistId": "7sfl4Xt5KmfyDs2T3SVSMK",
+      "trackName": "Before I Pass Out",
+      "trackId": "5feyar66CoJbhA7A6dAt9c",
+      "preview": "https://p.scdn.co/mp3-preview/592b6ef94b583bd736db0c28bc55110c0b8896a1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/37aba7b730d7cfcc20e66a91a9b91bdd055cd480",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Kat Deluna",
+      "featuredArtistId": "0bOlhT8OcoC1lCpN69NcFP",
+      "trackName": "Breathing Your Love",
+      "trackId": "3iAODa3tOuHUgNW1keMfQo",
+      "preview": "https://p.scdn.co/mp3-preview/4e3cef30dfe2934033fc9059dc1f3a25f3377cec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b8a315ad68602fff9d3a321f1dee8c667bc7236",
+      "release_date": "2012-11-02"
+    }
+  ]
+}

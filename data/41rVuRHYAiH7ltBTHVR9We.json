@@ -1,0 +1,68 @@
+{
+  "artistName": "Slushii",
+  "features": [
+    {
+      "featuredArtist": "Marshmello",
+      "featuredArtistId": "64KEffDW9EtZ1y2vBYgq8T",
+      "trackName": "There x2",
+      "trackId": "1tndktY8ZFXapGYIeHUGR2",
+      "preview": "https://p.scdn.co/mp3-preview/789d517bb3af1dbd62f7a13c2d85c90164dfc2dd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ed15a431a1686ab24a5fbc154e1218ad9f6c29f",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Khalid",
+      "featuredArtistId": "6LuN9FCkKOj5PcnpouEgny",
+      "trackName": "Silence - Slushii Remix",
+      "trackId": "2jt1zmAB5VEY9TLNNiXLKW",
+      "preview": "https://p.scdn.co/mp3-preview/eeb32f51fd618078b8e8c545258c7e2ef598ba75?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a382fdefe05d0953b43c7d09580b6c75e5e6ca59",
+      "release_date": "2017-10-12"
+    },
+    {
+      "featuredArtist": "Maroon 5",
+      "featuredArtistId": "04gDigrS5kc9YWfZHwBETP",
+      "trackName": "What Lovers Do (feat. SZA) - Slushii Remix",
+      "trackId": "3d5rKHPJ0ybgApDfeRMsvV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc66ec6aa453578217d744eb255b2d597ad40760",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "SZA",
+      "featuredArtistId": "7tYKF4w9nC0nq9CsPZTHyP",
+      "trackName": "What Lovers Do (feat. SZA) - Slushii Remix",
+      "trackId": "3d5rKHPJ0ybgApDfeRMsvV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc66ec6aa453578217d744eb255b2d597ad40760",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "French Montana",
+      "featuredArtistId": "6vXTefBL93Dj5IqAWq6OTv",
+      "trackName": "Unforgettable - Slushii Remix",
+      "trackId": "2X4e6NJt9YJy7C93JNnTqO",
+      "preview": "https://p.scdn.co/mp3-preview/526208698f6999ea15192165b4ee2e3935d5e527?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f7b0c85afd0e464b0b0ccede3f77924b60396f0c",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Swae Lee",
+      "featuredArtistId": "1zNqQNIdeOUZHb8zbZRFMX",
+      "trackName": "Unforgettable - Slushii Remix",
+      "trackId": "2X4e6NJt9YJy7C93JNnTqO",
+      "preview": "https://p.scdn.co/mp3-preview/526208698f6999ea15192165b4ee2e3935d5e527?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f7b0c85afd0e464b0b0ccede3f77924b60396f0c",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Madi",
+      "featuredArtistId": "5KtyvSnzn6NcqukCOsjfe0",
+      "trackName": "So Long (feat. Madi)",
+      "trackId": "7ppz0b5ecGXM8xHg5yGDhK",
+      "preview": "https://p.scdn.co/mp3-preview/101e0a585a6f5c0eb4a70ad4ce6d46e583e2c79b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d40876d10d077529c464af453d6ef1106f19166d",
+      "release_date": "2016-07-29"
+    }
+  ]
+}

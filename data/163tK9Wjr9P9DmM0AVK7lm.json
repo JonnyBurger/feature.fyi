@@ -1,0 +1,68 @@
+{
+  "artistName": "Lorde",
+  "features": [
+    {
+      "featuredArtist": "Khalid",
+      "featuredArtistId": "6LuN9FCkKOj5PcnpouEgny",
+      "trackName": "Homemade Dynamite - REMIX",
+      "trackId": "2rE9TX3VQ0WNt7kziFhKep",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/20a546e75d213ffcb87f9bda7aecb55760c330a1",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Post Malone",
+      "featuredArtistId": "246dkjvS1zLTtiykXe5h60",
+      "trackName": "Homemade Dynamite - REMIX",
+      "trackId": "2rE9TX3VQ0WNt7kziFhKep",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/20a546e75d213ffcb87f9bda7aecb55760c330a1",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "SZA",
+      "featuredArtistId": "7tYKF4w9nC0nq9CsPZTHyP",
+      "trackName": "Homemade Dynamite - REMIX",
+      "trackId": "2rE9TX3VQ0WNt7kziFhKep",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/20a546e75d213ffcb87f9bda7aecb55760c330a1",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Fffrrannno",
+      "featuredArtistId": "3SnDPORZBWg1zJEmnN9eT2",
+      "trackName": "Bravado - Fffrrannno Remix",
+      "trackId": "4NANEz86igmnKs0ZzqMBOw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/302e2799b8aedce74eef43b15e19e815ddcb4926",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Run The Jewels",
+      "featuredArtistId": "4RnBFZRiMLRyZy0AzzTg2C",
+      "trackName": "Supercut - El-P Remix",
+      "trackId": "4qT0DUcwUHzbxXcitzRzwn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b22caf53d33a5e1b47fbda0362b1064f826da29b",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "El-P",
+      "featuredArtistId": "57UnSUpae3SbRekxNa5Kgl",
+      "trackName": "Supercut - El-P Remix",
+      "trackId": "4qT0DUcwUHzbxXcitzRzwn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b22caf53d33a5e1b47fbda0362b1064f826da29b",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Chromeo",
+      "featuredArtistId": "2mV8aJphiSHYJf43DxL7Gt",
+      "trackName": "Green Light - Chromeo Remix",
+      "trackId": "2sbtixigDCbjXBTMRSEECS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d7ed8c9f576babd5a7b78e40415ddf590533da3f",
+      "release_date": "2017-05-19"
+    }
+  ]
+}

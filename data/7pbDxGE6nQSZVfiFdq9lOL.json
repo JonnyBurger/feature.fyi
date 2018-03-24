@@ -1,0 +1,41 @@
+{
+  "artistName": "Rex Orange County",
+  "features": [
+    {
+      "featuredArtist": "Marco Mckinnis",
+      "featuredArtistId": "2hnEiOVSXzO81ruLVH0KUR",
+      "trackName": "Nothing",
+      "trackId": "3rIKurK8njiyQvZQsSU6bl",
+      "preview": "https://p.scdn.co/mp3-preview/6cd7fd6787045417fa35a636e16f049eecd09c72?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ddeb8ae3915337969d3bcda0b3a1fed04fdf67cf",
+      "release_date": "2017-04-26"
+    },
+    {
+      "featuredArtist": "Benny Sings",
+      "featuredArtistId": "4gHcu2JoaXJ0mV4aNPCd7N",
+      "trackName": "Loving Is Easy",
+      "trackId": "5EYi2rH4LYs6M21ZLOyQTx",
+      "preview": "https://p.scdn.co/mp3-preview/bce0365b96538116e07cb65fe3b3dbec560faae6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b1a4cf8418bb4c13847a1d2f007d49c1b47f15f",
+      "release_date": "2017-10-11"
+    },
+    {
+      "featuredArtist": "Tyler, The Creator",
+      "featuredArtistId": "4V8LLVI7PbaPR0K2TGSxFF",
+      "trackName": "Foreword",
+      "trackId": "33i3xxHB4YSYGYbtJrwwO8",
+      "preview": "https://p.scdn.co/mp3-preview/1f4b5e8c8fd2f0afa00311695a2f567e2c178546?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d68defc78c8c70b3fb733e8ac9892cd0455fdddc",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Anna Of The North",
+      "featuredArtistId": "1mSJCvDX0W7Dn7S9C6vmvI",
+      "trackName": "Boredom",
+      "trackId": "5WNYg3usc6H8N3MBEp4zVk",
+      "preview": "https://p.scdn.co/mp3-preview/ee5750bdd065b2bab155601ca00994bcfeee1537?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d68defc78c8c70b3fb733e8ac9892cd0455fdddc",
+      "release_date": "2017-07-21"
+    }
+  ]
+}

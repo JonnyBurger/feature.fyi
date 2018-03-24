@@ -1,0 +1,50 @@
+{
+  "artistName": "Ricardo Arjona",
+  "features": [
+    {
+      "featuredArtist": "Buena Fe",
+      "featuredArtistId": "0vq2EzqxetHZj0NtymUtXm",
+      "trackName": "Para Bien o Para Mal - Acústico",
+      "trackId": "13YgNj0LnAHVFPDhhfMMt4",
+      "preview": "https://p.scdn.co/mp3-preview/20855e10496b575868319947cf0f172975632f6b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5d1dc5e4b76689392220635ab35d4d0c8bd08c61",
+      "release_date": "2016-07-29"
+    },
+    {
+      "featuredArtist": "Carlos Varela",
+      "featuredArtistId": "2KVT6XgP2vgdUat355J7hy",
+      "trackName": "Mi Novia Se Me Está Poniendo Vieja - Acústico",
+      "trackId": "7hFCFGKlCPIMz6skFA39nV",
+      "preview": "https://p.scdn.co/mp3-preview/2ae125717ab3fb8d5472173b25fa74c658a3520d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5d1dc5e4b76689392220635ab35d4d0c8bd08c61",
+      "release_date": "2016-07-29"
+    },
+    {
+      "featuredArtist": "Gaby Moreno",
+      "featuredArtistId": "0K9pSmFx0kWESA9jqx8aCW",
+      "trackName": "Fuiste Tú - En Vivo",
+      "trackId": "6hc7IfiPv2iahMNeJXK0cB",
+      "preview": "https://p.scdn.co/mp3-preview/737c3a3fca83a2e293e3729f406cd1d8496a5a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e46998b56cc56201ec6d46ddefb0bbe3e7f98af0",
+      "release_date": "2014-12-02"
+    },
+    {
+      "featuredArtist": "Vicky Echeverri",
+      "featuredArtistId": "4NnbcOjHZ324SALNhNTvn1",
+      "trackName": "Fuiste Tú - Versión Demo",
+      "trackId": "3dLzhDM3kWaUlPzURoTmTq",
+      "preview": "https://p.scdn.co/mp3-preview/a2b71f44eaee9e70ca5bca8d4ecfcc503d58dd94?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f240caf3400dc691c1401174b88a17c930f3be7",
+      "release_date": "2011"
+    },
+    {
+      "featuredArtist": "Paquita La Del Barrio",
+      "featuredArtistId": "1q18ngxrhXlHasoNpc2dt7",
+      "trackName": "Ni Tú Ni Yo",
+      "trackId": "02JbTH4sGnaUWp11vCR9yI",
+      "preview": "https://p.scdn.co/mp3-preview/fcc7c670807b4fddd70132e6ca719b95d983eccc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4366feca57c2ce7e1b013992da4ab39b182297bc",
+      "release_date": "2008"
+    }
+  ]
+}

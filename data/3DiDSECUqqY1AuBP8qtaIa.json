@@ -1,0 +1,158 @@
+{
+  "artistName": "Alicia Keys",
+  "features": [
+    {
+      "featuredArtist": "A$AP Rocky",
+      "featuredArtistId": "13ubrt8QOOCPljQ2FL1Kca",
+      "trackName": "Blended Family (What You Do For Love)",
+      "trackId": "6AvmBz6VkSMOPhIpdQD0I7",
+      "preview": "https://p.scdn.co/mp3-preview/1a74dc13236323ed341ee4127519910ac4cabf92?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb1ae619024e7ad6e3cc8ef37d14ca18cc5ca5dd",
+      "release_date": "2016-11-30"
+    },
+    {
+      "featuredArtist": "Black Coffee",
+      "featuredArtistId": "45Rw7IvoNZJoJgy21xEWzw",
+      "trackName": "In Common - Black Coffee Remix",
+      "trackId": "5xKLUk3qy5AGLJy2i8zKQN",
+      "preview": "https://p.scdn.co/mp3-preview/fdd6aaa68fc027df5aaecbea8c9dd35b05e7eecf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb1ae619024e7ad6e3cc8ef37d14ca18cc5ca5dd",
+      "release_date": "2016-11-30"
+    },
+    {
+      "featuredArtist": "Kaskade",
+      "featuredArtistId": "6TQj5BFPooTa08A7pk8AQ1",
+      "trackName": "In Common - Kaskade Remix",
+      "trackId": "00XCPYFqZQ3AKNH6q00io4",
+      "preview": "https://p.scdn.co/mp3-preview/cf3bc90f413073313ff189c8295cff55013fd3f2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb1ae619024e7ad6e3cc8ef37d14ca18cc5ca5dd",
+      "release_date": "2016-11-30"
+    },
+    {
+      "featuredArtist": "Nicki Minaj",
+      "featuredArtistId": "0hCNtLu0JehylgoiP8L4Gh",
+      "trackName": "Girl On Fire - Inferno Version",
+      "trackId": "3XyMPyuWwHcGMvXeJY6Qt0",
+      "preview": "https://p.scdn.co/mp3-preview/101ba2909b243f1122d681da32723d2cb1265366?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b25d12930e181e043491cb4c404f040bb797dbc9",
+      "release_date": "2012-11-23"
+    },
+    {
+      "featuredArtist": "Maxwell",
+      "featuredArtistId": "2AOt5htsbtyaHd5Eq3kl3j",
+      "trackName": "Fire We Make",
+      "trackId": "5VIUVUvwHPM2vJaQpznd5W",
+      "preview": "https://p.scdn.co/mp3-preview/f78f8d84c1a8de703b6b565734c7bd25982fcfd0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b25d12930e181e043491cb4c404f040bb797dbc9",
+      "release_date": "2012-11-23"
+    },
+    {
+      "featuredArtist": "Beyoncé",
+      "featuredArtistId": "6vWDO969PvNqNYHIOW5v0m",
+      "trackName": "Put It In A Love Song",
+      "trackId": "2PxefLyJ3Fw7ZZlROnbpTp",
+      "preview": "https://p.scdn.co/mp3-preview/8f28b26180050fd0cfdc07e268d33287647ecb61?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4648b19822339825b9299b923150976fda553bfc",
+      "release_date": "2009-12-11"
+    },
+    {
+      "featuredArtist": "John Mayer",
+      "featuredArtistId": "0hEurMDQu99nJRq8pTxO14",
+      "trackName": "Lesson Learned",
+      "trackId": "2c3jpiVWrH2l8O5HHRkJ5e",
+      "preview": "https://p.scdn.co/mp3-preview/46f42c100b2188d213fb0410c04ffc1bf7aa4338?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dbe807ac68431e4550767c6cbd71f716bf20fd13",
+      "release_date": "2008-11-07"
+    },
+    {
+      "featuredArtist": "Jack White",
+      "featuredArtistId": "4FZ3j1oH43e7cukCALsCwf",
+      "trackName": "Another Way to Die",
+      "trackId": "3ODl8J0TZAykdMCtCIO28n",
+      "preview": "https://p.scdn.co/mp3-preview/f37dfafd1402324ec51d61a9000508c0066f8803?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dbe807ac68431e4550767c6cbd71f716bf20fd13",
+      "release_date": "2008-11-07"
+    },
+    {
+      "featuredArtist": "Adam Levine",
+      "featuredArtistId": "4bYPcJP5jwMhSivRcqie2n",
+      "trackName": "Wild Horses - Unplugged",
+      "trackId": "6zo52JP3T62BJWN1Fd802D",
+      "preview": "https://p.scdn.co/mp3-preview/360e1e566dac98aa3e383a59b691ce2f5606f193?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cb9a318f94e7ddb45a4c51cdc66b99fbcef23b37",
+      "release_date": "2005-10-10"
+    },
+    {
+      "featuredArtist": "Damian Marley",
+      "featuredArtistId": "3QJzdZJYIAcoET1GcfpNGi",
+      "trackName": "Love It Or Leave It Alone/Welcome To Jamrock - Unplugged",
+      "trackId": "3Z3HiCJT6fxv4uEx88wftl",
+      "preview": "https://p.scdn.co/mp3-preview/e2c5ab14e6bd4c2513e94ff885defa8e19d45a66?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cb9a318f94e7ddb45a4c51cdc66b99fbcef23b37",
+      "release_date": "2005-10-10"
+    },
+    {
+      "featuredArtist": "Mos Def",
+      "featuredArtistId": "0Mz5XE0kb1GBnbLQm2VbcO",
+      "trackName": "Love It Or Leave It Alone/Welcome To Jamrock - Unplugged",
+      "trackId": "3Z3HiCJT6fxv4uEx88wftl",
+      "preview": "https://p.scdn.co/mp3-preview/e2c5ab14e6bd4c2513e94ff885defa8e19d45a66?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cb9a318f94e7ddb45a4c51cdc66b99fbcef23b37",
+      "release_date": "2005-10-10"
+    },
+    {
+      "featuredArtist": "Common",
+      "featuredArtistId": "2GHclqNVjqGuiE5mA7BEoc",
+      "trackName": "Love It Or Leave It Alone/Welcome To Jamrock - Unplugged",
+      "trackId": "3Z3HiCJT6fxv4uEx88wftl",
+      "preview": "https://p.scdn.co/mp3-preview/e2c5ab14e6bd4c2513e94ff885defa8e19d45a66?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cb9a318f94e7ddb45a4c51cdc66b99fbcef23b37",
+      "release_date": "2005-10-10"
+    },
+    {
+      "featuredArtist": "Common & Friends",
+      "featuredArtistId": "47qrZJjX1iODSVzRUEbP2o",
+      "trackName": "Love It Or Leave It Alone/Welcome To Jamrock - Unplugged",
+      "trackId": "3Z3HiCJT6fxv4uEx88wftl",
+      "preview": "https://p.scdn.co/mp3-preview/e2c5ab14e6bd4c2513e94ff885defa8e19d45a66?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cb9a318f94e7ddb45a4c51cdc66b99fbcef23b37",
+      "release_date": "2005-10-10"
+    },
+    {
+      "featuredArtist": "Tony! Toni! Toné!",
+      "featuredArtistId": "7vWlb4pM85jCHvV771qZZW",
+      "trackName": "Diary",
+      "trackId": "5dxHF4lrDimKqnI3GaZUmC",
+      "preview": "https://p.scdn.co/mp3-preview/7a310d3fe4701d4fcd33f592a082946f223c576e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a813876558ffb2251ba4492f72059d217a816e62",
+      "release_date": "2003-12-01"
+    },
+    {
+      "featuredArtist": "Jermaine Paul",
+      "featuredArtistId": "302jOsgU7aZW71XhLem57k",
+      "trackName": "Diary",
+      "trackId": "5dxHF4lrDimKqnI3GaZUmC",
+      "preview": "https://p.scdn.co/mp3-preview/7a310d3fe4701d4fcd33f592a082946f223c576e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a813876558ffb2251ba4492f72059d217a816e62",
+      "release_date": "2003-12-01"
+    },
+    {
+      "featuredArtist": "Lellow",
+      "featuredArtistId": "1HWJoW0XfznpegdxFQXXPQ",
+      "trackName": "So Simple",
+      "trackId": "4SZOVptbDIwRegbsYCOHRJ",
+      "preview": "https://p.scdn.co/mp3-preview/2f9640057fa656d99a6a8e0dd8950d5ca56db974?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a813876558ffb2251ba4492f72059d217a816e62",
+      "release_date": "2003-12-01"
+    },
+    {
+      "featuredArtist": "Nas",
+      "featuredArtistId": "20qISvAhX20dpIbOOzGK3q",
+      "trackName": "A Woman's Worth - Remix",
+      "trackId": "0G5yBg1Ct7yjrALCMRGalP",
+      "preview": "https://p.scdn.co/mp3-preview/32218ddfa0f064a165f83217801cd3dfda39a29e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/39db00020a15c975b8ad5a4284da2545ffc03771",
+      "release_date": "2001-06-26"
+    }
+  ]
+}

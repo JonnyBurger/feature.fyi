@@ -1,0 +1,23 @@
+{
+  "artistName": "Bon Iver",
+  "features": [
+    {
+      "featuredArtist": "James Blake",
+      "featuredArtistId": "53KwLdlmrlCelAZMaLVZqU",
+      "trackName": "Fall Creek Boys Choir",
+      "trackId": "2BMx3N1HFThlRbiScVcDez",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/67d55b5cb4a03d216051b39bd8dde0fa7959a00a",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Francis and the Lights",
+      "featuredArtistId": "23EA28263XvtIrXuySX6oI",
+      "trackName": "Friends (feat. Bon Iver)",
+      "trackId": "0ZpBPavoID3eDbaXKSWpAD",
+      "preview": "https://p.scdn.co/mp3-preview/c1a247ae5a6e0396724036c30c00705fbb96ae4e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6cb1624530293573981885139c87af2aeca39701",
+      "release_date": "2016-09-26"
+    }
+  ]
+}

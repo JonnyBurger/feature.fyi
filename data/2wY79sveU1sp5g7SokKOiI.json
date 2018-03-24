@@ -1,0 +1,95 @@
+{
+  "artistName": "Sam Smith",
+  "features": [
+    {
+      "featuredArtist": "YEBBA",
+      "featuredArtistId": "1ooV8YZC1KbpEcrmI8WH0F",
+      "trackName": "No Peace",
+      "trackId": "5ZX1X9Rl4zbx1Wwyn3idVD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/811f6e45de756f0f292813bdb1133e6a07d996ce",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Naughty Boy",
+      "featuredArtistId": "1bT7m67vi78r2oqvxrP3X5",
+      "trackName": "La La La",
+      "trackId": "0PPXEgevjLKKso0QVhEFZ4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8fb547581c3d012d625314349feab78411fc48b8",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Disclosure",
+      "featuredArtistId": "6nS5roXSAGhTGr34W6n7Et",
+      "trackName": "Latch - Live From Madison Square Garden",
+      "trackId": "1M6IbIQY2yf9we4LlT2keJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8fb547581c3d012d625314349feab78411fc48b8",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Mary J. Blige",
+      "featuredArtistId": "1XkoF8ryArs86LZvFOkbyr",
+      "trackName": "Stay With Me",
+      "trackId": "3C08A6WXAl2XAsI5hZtTSR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8fb547581c3d012d625314349feab78411fc48b8",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "A$AP Rocky",
+      "featuredArtistId": "13ubrt8QOOCPljQ2FL1Kca",
+      "trackName": "I'm Not The Only One",
+      "trackId": "4yQbvhT4qMtcmY2FkKVc6Z",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8fb547581c3d012d625314349feab78411fc48b8",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "John Legend",
+      "featuredArtistId": "5y2Xq6xcjJb2jVM54GHK3t",
+      "trackName": "Lay Me Down",
+      "trackId": "64GRDrL1efgXclrhVCeuA0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8fb547581c3d012d625314349feab78411fc48b8",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Nile Rodgers",
+      "featuredArtistId": "3yDIp0kaq9EFKe07X1X2rz",
+      "trackName": "Together",
+      "trackId": "2jXoq7wC0cxvVwkoX9temt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a8b7e069b5e188d006091e57171b3402358a732e",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Jimmy Napes",
+      "featuredArtistId": "0lwmhJGJcTgbcY4bnXGDgj",
+      "trackName": "Together",
+      "trackId": "2jXoq7wC0cxvVwkoX9temt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a8b7e069b5e188d006091e57171b3402358a732e",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Galantis",
+      "featuredArtistId": "4sTQVOfp9vEMCemLw50sbu",
+      "trackName": "Too Good At Goodbyes - Galantis Remix",
+      "trackId": "1wRiDqvt2mY6ueADB3R8sl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4831b3611f8380bcd23e6be0eb191c43ad2795b6",
+      "release_date": "2017-09-29"
+    },
+    {
+      "featuredArtist": "Snakehips",
+      "featuredArtistId": "2FwJwEswyIUAljqgjNSHgP",
+      "trackName": "Too Good At Goodbyes - Snakehips Remix",
+      "trackId": "78Q9PNyXiXRTalIX7xf4Cj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4e816c714267203605f7328b75d87c8653b4585c",
+      "release_date": "2017-09-29"
+    }
+  ]
+}

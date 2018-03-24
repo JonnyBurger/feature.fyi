@@ -1,0 +1,41 @@
+{
+  "artistName": "Lia Marie Johnson",
+  "features": [
+    {
+      "featuredArtist": "R3HAB",
+      "featuredArtistId": "6cEuCEZu7PAE9ZSzLLc2oQ",
+      "trackName": "The Wave",
+      "trackId": "54VhMO14MfyB9I9IUtjR6p",
+      "preview": "https://p.scdn.co/mp3-preview/f5fb933637947853f773be6271732cfc5b7d925a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8c4229c501b1551d19ac4a22b488b1ecedf921c8",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Norman Doray",
+      "featuredArtistId": "1UmLUPNgy8HS6oI05zdGjD",
+      "trackName": "Falling for You (feat. Lia Marie Johnson)",
+      "trackId": "6oRH0WaIaYL90sb0vZ8ay3",
+      "preview": "https://p.scdn.co/mp3-preview/7a40c19504f004b9bfb6c3331cad3f74b5966b81?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ea127f59fdbc63e61bbbe4b0c3df56269be19558",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Anevo",
+      "featuredArtistId": "1FmrdSfTqWOzQoEoaS7MWb",
+      "trackName": "Falling for You (feat. Lia Marie Johnson)",
+      "trackId": "6oRH0WaIaYL90sb0vZ8ay3",
+      "preview": "https://p.scdn.co/mp3-preview/7a40c19504f004b9bfb6c3331cad3f74b5966b81?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ea127f59fdbc63e61bbbe4b0c3df56269be19558",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Meg DeLacy",
+      "featuredArtistId": "585EB3pmy8XVcOJ1VV2bzF",
+      "trackName": "Mean - Side Effects Cast Version",
+      "trackId": "41lUWx6SEJGPAgBQVfFfpH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/671d593960c1c04e5db15722beadfdd6bbf597fb",
+      "release_date": "2013-01-01"
+    }
+  ]
+}

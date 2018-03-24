@@ -1,0 +1,59 @@
+{
+  "artistName": "Emma Stone",
+  "features": [
+    {
+      "featuredArtist": "Ryan Gosling",
+      "featuredArtistId": "6kXm2YCtdUOpRYNKeKhfue",
+      "trackName": "City Of Stars - Hollywood Remix",
+      "trackId": "5GUZfJ58XYGTMrnciBF0Xr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc0e4ccfff12166e8c038b4673968afa7bb4054d",
+      "release_date": "2017-02-24"
+    },
+    {
+      "featuredArtist": "Callie Hernandez",
+      "featuredArtistId": "13kKxNPnxPeeWQaAaZwvCP",
+      "trackName": "Someone In The Crowd",
+      "trackId": "46AqogC1jSpTJkXJnNc7Yz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/654d093296e130b4e71cfa0b5b47a0895226a1ff",
+      "release_date": "2017-02-24"
+    },
+    {
+      "featuredArtist": "Sonoya Mizuno",
+      "featuredArtistId": "4FFGJ9ERSX06Sl8hD7GRVv",
+      "trackName": "Someone In The Crowd",
+      "trackId": "46AqogC1jSpTJkXJnNc7Yz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/654d093296e130b4e71cfa0b5b47a0895226a1ff",
+      "release_date": "2017-02-24"
+    },
+    {
+      "featuredArtist": "Jessica Rothe",
+      "featuredArtistId": "21yiGQIpkiP8edfxDipQaW",
+      "trackName": "Someone In The Crowd",
+      "trackId": "46AqogC1jSpTJkXJnNc7Yz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/654d093296e130b4e71cfa0b5b47a0895226a1ff",
+      "release_date": "2017-02-24"
+    },
+    {
+      "featuredArtist": "Justin Hurwitz",
+      "featuredArtistId": "2snm3HmsnDUDxbIChdl2Oj",
+      "trackName": "City Of Stars / May Finally Come True",
+      "trackId": "7g2TPRMeSFVvmsiOn3KdBE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/654d093296e130b4e71cfa0b5b47a0895226a1ff",
+      "release_date": "2017-02-24"
+    },
+    {
+      "featuredArtist": "The Lonely Island",
+      "featuredArtistId": "1f5GqyOPo0CkotzzRwviBu",
+      "trackName": "Turn Up The Beef - From \"Popstar: Never Stop Never Stopping\" Original Motion Picture Soundtrack",
+      "trackId": "4DHt4z21lSFkEbeJZsl07X",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c17bb6e1d01f911f300da134328b5e583026ba4",
+      "release_date": "2016-06-03"
+    }
+  ]
+}

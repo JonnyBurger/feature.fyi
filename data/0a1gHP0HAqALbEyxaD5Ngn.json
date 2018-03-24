@@ -1,0 +1,32 @@
+{
+  "artistName": "Rascal Flatts",
+  "features": [
+    {
+      "featuredArtist": "Lauren Alaina",
+      "featuredArtistId": "1v3tdpIdBSW14rHUfiEVOv",
+      "trackName": "Are You Happy Now",
+      "trackId": "3zLj05WcNEHrGjj70OcTug",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bdac56c6d79d3ca41dcf75bb32d6857e21bc9da8",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "Natasha Bedingfield",
+      "featuredArtistId": "7o95ZoZt5ZYn31e9z1Hc0a",
+      "trackName": "Easy",
+      "trackId": "6TrbH1eeNZ8L5anvaGEWqO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/343a495cc09650feb282c48429936adf0aaf00ee",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Jill Johnson",
+      "featuredArtistId": "2aaGbpl5Y2ykZsNFZM6ofw",
+      "trackName": "Come Wake Me Up",
+      "trackId": "5LMR14r4CTliMeyfaE6R6R",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dcc8ccb0df170f72a1c44c7cd418396ce467f760",
+      "release_date": "2012"
+    }
+  ]
+}

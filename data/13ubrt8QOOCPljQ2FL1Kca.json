@@ -1,0 +1,392 @@
+{
+  "artistName": "A$AP Rocky",
+  "features": [
+    {
+      "featuredArtist": "Joe Fox",
+      "featuredArtistId": "7cIIT7vt2nR3y89zXTmg7x",
+      "trackName": "Holy Ghost",
+      "trackId": "34BMAuAAB1Eh8TvYWLbMHD",
+      "preview": "https://p.scdn.co/mp3-preview/f8ccbd11d845a51a17d85ef2ebf8fd276fa5d23f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3ca53f6681831e00096de868f3d52384dea8df40",
+      "release_date": "2015-06-17"
+    },
+    {
+      "featuredArtist": "Bones",
+      "featuredArtistId": "7qUnx2B8Lf6QROKUCKLsOQ",
+      "trackName": "Canal St.",
+      "trackId": "2ioVOy4F66Vp2GNEOPUN36",
+      "preview": "https://p.scdn.co/mp3-preview/3558e295d9ab905e783c3d688cd7c9b0fc2c6438?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3ca53f6681831e00096de868f3d52384dea8df40",
+      "release_date": "2015-06-17"
+    },
+    {
+      "featuredArtist": "Future",
+      "featuredArtistId": "1RyvyyTE3xzB2ZywiAwp0i",
+      "trackName": "Fine Whine",
+      "trackId": "1eoJUx8vvEiPDfk43C1n7L",
+      "preview": "https://p.scdn.co/mp3-preview/9f9eab110a66efa7960f3dc4881303110cd86315?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3ca53f6681831e00096de868f3d52384dea8df40",
+      "release_date": "2015-06-17"
+    },
+    {
+      "featuredArtist": "M.I.A.",
+      "featuredArtistId": "451jqMEf2cDjJKgw1uBFGe",
+      "trackName": "Fine Whine",
+      "trackId": "1eoJUx8vvEiPDfk43C1n7L",
+      "preview": "https://p.scdn.co/mp3-preview/9f9eab110a66efa7960f3dc4881303110cd86315?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3ca53f6681831e00096de868f3d52384dea8df40",
+      "release_date": "2015-06-17"
+    },
+    {
+      "featuredArtist": "ScHoolboy Q",
+      "featuredArtistId": "5IcR3N7QB1j6KBL8eImZ8m",
+      "trackName": "Electric Body",
+      "trackId": "6kW1T715B5bwH7YZxT1BMI",
+      "preview": "https://p.scdn.co/mp3-preview/2714069b03643d28841cceaa9728fedee96b9662?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3ca53f6681831e00096de868f3d52384dea8df40",
+      "release_date": "2015-06-17"
+    },
+    {
+      "featuredArtist": "Kanye West",
+      "featuredArtistId": "5K4W6rqBFWDnAN6FQUkS6x",
+      "trackName": "Jukebox Joints",
+      "trackId": "3nUzLfcuq7oXW0OsBAuCVP",
+      "preview": "https://p.scdn.co/mp3-preview/6a38a0756cf60123fd8bbd8e453651ceb621d306?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3ca53f6681831e00096de868f3d52384dea8df40",
+      "release_date": "2015-06-17"
+    },
+    {
+      "featuredArtist": "Juicy J",
+      "featuredArtistId": "5gCRApTajqwbnHHPbr2Fpi",
+      "trackName": "Wavybone",
+      "trackId": "3QMhEsjvG0cpHcvJJCkrV2",
+      "preview": "https://p.scdn.co/mp3-preview/b93ece85c77c91cae0e8d479e6cebadf7d226179?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3ca53f6681831e00096de868f3d52384dea8df40",
+      "release_date": "2015-06-17"
+    },
+    {
+      "featuredArtist": "UGK",
+      "featuredArtistId": "6ZhjJOJXXwnPS8PrXdmjLw",
+      "trackName": "Wavybone",
+      "trackId": "3QMhEsjvG0cpHcvJJCkrV2",
+      "preview": "https://p.scdn.co/mp3-preview/b93ece85c77c91cae0e8d479e6cebadf7d226179?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3ca53f6681831e00096de868f3d52384dea8df40",
+      "release_date": "2015-06-17"
+    },
+    {
+      "featuredArtist": "James Fauntleroy",
+      "featuredArtistId": "5ooSG9S0glqP5ZrqqaHBvT",
+      "trackName": "West Side Highway",
+      "trackId": "05OPepeS7vhvIflS405oqp",
+      "preview": "https://p.scdn.co/mp3-preview/fff3f0e0c67063e07e47c6b3a2a935a6a9fc2658?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3ca53f6681831e00096de868f3d52384dea8df40",
+      "release_date": "2015-06-17"
+    },
+    {
+      "featuredArtist": "Lil Wayne",
+      "featuredArtistId": "55Aa2cqylxrFIXC767Z865",
+      "trackName": "M'$",
+      "trackId": "377JFI9V7sszZerqCno65V",
+      "preview": "https://p.scdn.co/mp3-preview/1b1956f7ac5ab9d5e5561ffe6cdf2fb59bcbe940?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3ca53f6681831e00096de868f3d52384dea8df40",
+      "release_date": "2015-06-17"
+    },
+    {
+      "featuredArtist": "Rod Stewart",
+      "featuredArtistId": "2y8Jo9CKhJvtfeKOsYzRdT",
+      "trackName": "Everyday",
+      "trackId": "2JIGx5xnbOVpF0a7FPZJFW",
+      "preview": "https://p.scdn.co/mp3-preview/ec10fc9aa9e1f346ee26a8fde86956df68f8e7a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3ca53f6681831e00096de868f3d52384dea8df40",
+      "release_date": "2015-06-17"
+    },
+    {
+      "featuredArtist": "Miguel",
+      "featuredArtistId": "360IAlyVv4PCEVjgyMZrxK",
+      "trackName": "Everyday",
+      "trackId": "2JIGx5xnbOVpF0a7FPZJFW",
+      "preview": "https://p.scdn.co/mp3-preview/ec10fc9aa9e1f346ee26a8fde86956df68f8e7a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3ca53f6681831e00096de868f3d52384dea8df40",
+      "release_date": "2015-06-17"
+    },
+    {
+      "featuredArtist": "Mark Ronson",
+      "featuredArtistId": "3hv9jJF3adDNsBSIQDqcjp",
+      "trackName": "Everyday",
+      "trackId": "2JIGx5xnbOVpF0a7FPZJFW",
+      "preview": "https://p.scdn.co/mp3-preview/ec10fc9aa9e1f346ee26a8fde86956df68f8e7a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3ca53f6681831e00096de868f3d52384dea8df40",
+      "release_date": "2015-06-17"
+    },
+    {
+      "featuredArtist": "Mos Def",
+      "featuredArtistId": "0Mz5XE0kb1GBnbLQm2VbcO",
+      "trackName": "Back Home",
+      "trackId": "1mBdmjLM7Rh3M7x4xch8po",
+      "preview": "https://p.scdn.co/mp3-preview/a2be5dbf962121f2fe03852e09fc55d4f0026959?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3ca53f6681831e00096de868f3d52384dea8df40",
+      "release_date": "2015-06-17"
+    },
+    {
+      "featuredArtist": "Acyde",
+      "featuredArtistId": "1wgSZX1emWA4eS3vT1rgFA",
+      "trackName": "Back Home",
+      "trackId": "1mBdmjLM7Rh3M7x4xch8po",
+      "preview": "https://p.scdn.co/mp3-preview/a2be5dbf962121f2fe03852e09fc55d4f0026959?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3ca53f6681831e00096de868f3d52384dea8df40",
+      "release_date": "2015-06-17"
+    },
+    {
+      "featuredArtist": "Yams",
+      "featuredArtistId": "3gkOi34XdI1wVZbTiM4GMW",
+      "trackName": "Back Home",
+      "trackId": "1mBdmjLM7Rh3M7x4xch8po",
+      "preview": "https://p.scdn.co/mp3-preview/a2be5dbf962121f2fe03852e09fc55d4f0026959?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3ca53f6681831e00096de868f3d52384dea8df40",
+      "release_date": "2015-06-17"
+    },
+    {
+      "featuredArtist": "Joe Fox",
+      "featuredArtistId": "2Dbnk0YRTPpKu46XzMf9nu",
+      "trackName": "Holy Ghost",
+      "trackId": "6AHNkRbVzkh95xilnYzDT7",
+      "preview": "https://p.scdn.co/mp3-preview/c4eb7611ba9b0e8b6cf14aa9785e949028cd809e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5b443d8535895230eee04fde7172ccfb399ccf64",
+      "release_date": "2015-05-26"
+    },
+    {
+      "featuredArtist": "M.I.A.",
+      "featuredArtistId": "0QJIPDAEDILuo8AIq3pMuU",
+      "trackName": "Fine Whine",
+      "trackId": "2WxzLbJfPA2vJGxQiKd7Jq",
+      "preview": "https://p.scdn.co/mp3-preview/8549b8c9a8508e0b2cf4b061693364abd635c144?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5b443d8535895230eee04fde7172ccfb399ccf64",
+      "release_date": "2015-05-26"
+    },
+    {
+      "featuredArtist": "Santigold",
+      "featuredArtistId": "6Jrxnp0JgqmeUX1veU591p",
+      "trackName": "Hell",
+      "trackId": "0ROJprHC6NW1CT3md5tn7Y",
+      "preview": "https://p.scdn.co/mp3-preview/6e3635272d041484f555bb8c14afbf76702cd36c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/070855f0075eeaadea1a2e823e34a21886cc42ca",
+      "release_date": "2013-01-16"
+    },
+    {
+      "featuredArtist": "OverDoz.",
+      "featuredArtistId": "5I81SUgzZ0g7dWkWKDc4QY",
+      "trackName": "Pain",
+      "trackId": "1HAA07X3wiIuLNunEhRGqS",
+      "preview": "https://p.scdn.co/mp3-preview/2038fdac2f5218a65de8a7b8b355035940b3f308?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/070855f0075eeaadea1a2e823e34a21886cc42ca",
+      "release_date": "2013-01-16"
+    },
+    {
+      "featuredArtist": "Drake",
+      "featuredArtistId": "3TVXtAsR1Inumwj472S9r4",
+      "trackName": "F**kin' Problems",
+      "trackId": "74opj4L4bNHnd5Mg279kr7",
+      "preview": "https://p.scdn.co/mp3-preview/c41fcd74105f8de75965739c1b425896aca2c8e9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/070855f0075eeaadea1a2e823e34a21886cc42ca",
+      "release_date": "2013-01-16"
+    },
+    {
+      "featuredArtist": "2 Chainz",
+      "featuredArtistId": "17lzZA2AlOHwCwFALHttmp",
+      "trackName": "F**kin' Problems",
+      "trackId": "74opj4L4bNHnd5Mg279kr7",
+      "preview": "https://p.scdn.co/mp3-preview/c41fcd74105f8de75965739c1b425896aca2c8e9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/070855f0075eeaadea1a2e823e34a21886cc42ca",
+      "release_date": "2013-01-16"
+    },
+    {
+      "featuredArtist": "Kendrick Lamar",
+      "featuredArtistId": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "trackName": "F**kin' Problems",
+      "trackId": "74opj4L4bNHnd5Mg279kr7",
+      "preview": "https://p.scdn.co/mp3-preview/c41fcd74105f8de75965739c1b425896aca2c8e9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/070855f0075eeaadea1a2e823e34a21886cc42ca",
+      "release_date": "2013-01-16"
+    },
+    {
+      "featuredArtist": "Skrillex",
+      "featuredArtistId": "5he5w2lnU9x7JFhnwcekXX",
+      "trackName": "Wild for the Night",
+      "trackId": "1KWHYcEj3N3Tkf8PvE70DJ",
+      "preview": "https://p.scdn.co/mp3-preview/397b042d2b81390f7fe25527393dbe083e345828?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/070855f0075eeaadea1a2e823e34a21886cc42ca",
+      "release_date": "2013-01-16"
+    },
+    {
+      "featuredArtist": "Birdy Nam Nam",
+      "featuredArtistId": "4e7qJTThm5uI3CplqZObfT",
+      "trackName": "Wild for the Night",
+      "trackId": "1KWHYcEj3N3Tkf8PvE70DJ",
+      "preview": "https://p.scdn.co/mp3-preview/397b042d2b81390f7fe25527393dbe083e345828?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/070855f0075eeaadea1a2e823e34a21886cc42ca",
+      "release_date": "2013-01-16"
+    },
+    {
+      "featuredArtist": "Lord Flacko",
+      "featuredArtistId": "5XJdV8h0NLbf3CZdfwX3lg",
+      "trackName": "Wild for the Night",
+      "trackId": "1KWHYcEj3N3Tkf8PvE70DJ",
+      "preview": "https://p.scdn.co/mp3-preview/397b042d2b81390f7fe25527393dbe083e345828?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/070855f0075eeaadea1a2e823e34a21886cc42ca",
+      "release_date": "2013-01-16"
+    },
+    {
+      "featuredArtist": "Joey Bada$$",
+      "featuredArtistId": "2P5sC9cVZDToPxyomzF1UH",
+      "trackName": "1Train",
+      "trackId": "67NqAirZwTVQKpRBxI7kYM",
+      "preview": "https://p.scdn.co/mp3-preview/45c9be9f51c812b0c8669d000474844f4f9561b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/070855f0075eeaadea1a2e823e34a21886cc42ca",
+      "release_date": "2013-01-16"
+    },
+    {
+      "featuredArtist": "Yelawolf",
+      "featuredArtistId": "68DWke2VjdDmA75aJX5C57",
+      "trackName": "1Train",
+      "trackId": "67NqAirZwTVQKpRBxI7kYM",
+      "preview": "https://p.scdn.co/mp3-preview/45c9be9f51c812b0c8669d000474844f4f9561b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/070855f0075eeaadea1a2e823e34a21886cc42ca",
+      "release_date": "2013-01-16"
+    },
+    {
+      "featuredArtist": "Danny Brown",
+      "featuredArtistId": "7aA592KWirLsnfb5ulGWvU",
+      "trackName": "1Train",
+      "trackId": "67NqAirZwTVQKpRBxI7kYM",
+      "preview": "https://p.scdn.co/mp3-preview/45c9be9f51c812b0c8669d000474844f4f9561b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/070855f0075eeaadea1a2e823e34a21886cc42ca",
+      "release_date": "2013-01-16"
+    },
+    {
+      "featuredArtist": "Action Bronson",
+      "featuredArtistId": "7BMccF0hQFBpP6417k1OtQ",
+      "trackName": "1Train",
+      "trackId": "67NqAirZwTVQKpRBxI7kYM",
+      "preview": "https://p.scdn.co/mp3-preview/45c9be9f51c812b0c8669d000474844f4f9561b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/070855f0075eeaadea1a2e823e34a21886cc42ca",
+      "release_date": "2013-01-16"
+    },
+    {
+      "featuredArtist": "Big K.R.I.T.",
+      "featuredArtistId": "0CKa42Jqrc9fSFbDjePaXP",
+      "trackName": "1Train",
+      "trackId": "67NqAirZwTVQKpRBxI7kYM",
+      "preview": "https://p.scdn.co/mp3-preview/45c9be9f51c812b0c8669d000474844f4f9561b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/070855f0075eeaadea1a2e823e34a21886cc42ca",
+      "release_date": "2013-01-16"
+    },
+    {
+      "featuredArtist": "Gunplay",
+      "featuredArtistId": "7cvtOrIEaUrqbGmYA9Kj34",
+      "trackName": "Ghetto Symphony",
+      "trackId": "0UnUOGKulpmtfMF4hKaH5x",
+      "preview": "https://p.scdn.co/mp3-preview/24b5c1e444b0b4a10fb94ecb3aa64b9c0a907c61?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/070855f0075eeaadea1a2e823e34a21886cc42ca",
+      "release_date": "2013-01-16"
+    },
+    {
+      "featuredArtist": "A$AP Ferg",
+      "featuredArtistId": "5dHt1vcEm9qb8fCyLcB3HL",
+      "trackName": "Ghetto Symphony",
+      "trackId": "0UnUOGKulpmtfMF4hKaH5x",
+      "preview": "https://p.scdn.co/mp3-preview/24b5c1e444b0b4a10fb94ecb3aa64b9c0a907c61?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/070855f0075eeaadea1a2e823e34a21886cc42ca",
+      "release_date": "2013-01-16"
+    },
+    {
+      "featuredArtist": "Florence Welch",
+      "featuredArtistId": "0IROOdQ2fQUcoaEPqt1Isg",
+      "trackName": "I Come Apart",
+      "trackId": "409svftIBjJpOcFo4oLWJ4",
+      "preview": "https://p.scdn.co/mp3-preview/a3b3baeecc67b0351487aa589e1460eb474de556?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/070855f0075eeaadea1a2e823e34a21886cc42ca",
+      "release_date": "2013-01-16"
+    },
+    {
+      "featuredArtist": "Bun B",
+      "featuredArtistId": "45a6gCQWq61lIUDmr1tKuO",
+      "trackName": "Purple Swag REMIX",
+      "trackId": "0lvseicqj6q1yGF3QexqjH",
+      "preview": "https://p.scdn.co/mp3-preview/5273ca26941f80505091ca330e537355493551e5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/070855f0075eeaadea1a2e823e34a21886cc42ca",
+      "release_date": "2013-01-16"
+    },
+    {
+      "featuredArtist": "Paul Wall",
+      "featuredArtistId": "0k7Xl1pqI3tu8sSEjo5oEg",
+      "trackName": "Purple Swag REMIX",
+      "trackId": "0lvseicqj6q1yGF3QexqjH",
+      "preview": "https://p.scdn.co/mp3-preview/5273ca26941f80505091ca330e537355493551e5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/070855f0075eeaadea1a2e823e34a21886cc42ca",
+      "release_date": "2013-01-16"
+    },
+    {
+      "featuredArtist": "Killa Kyleon",
+      "featuredArtistId": "0uzlfGNw35ha8bszBDhKy7",
+      "trackName": "Purple Swag REMIX",
+      "trackId": "0lvseicqj6q1yGF3QexqjH",
+      "preview": "https://p.scdn.co/mp3-preview/5273ca26941f80505091ca330e537355493551e5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/070855f0075eeaadea1a2e823e34a21886cc42ca",
+      "release_date": "2013-01-16"
+    },
+    {
+      "featuredArtist": "Gucci Mane",
+      "featuredArtistId": "13y7CgLHjMVRMDqxdx0Xdo",
+      "trackName": "Cocky",
+      "trackId": "1nO2NjuFkGaAWcMdJ1pNrp",
+      "preview": "https://p.scdn.co/mp3-preview/de825fd13bc3f9482dc55a4da296ac8ee548bcef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/041c52a7ad7190e0758963169e6e5e1a0836a135",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "21 Savage",
+      "featuredArtistId": "1URnnhqYAYcrqrcwql10ft",
+      "trackName": "Cocky",
+      "trackId": "1nO2NjuFkGaAWcMdJ1pNrp",
+      "preview": "https://p.scdn.co/mp3-preview/de825fd13bc3f9482dc55a4da296ac8ee548bcef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/041c52a7ad7190e0758963169e6e5e1a0836a135",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "London On Da Track",
+      "featuredArtistId": "5Nf5yishRW9Ye174sJISkg",
+      "trackName": "Cocky",
+      "trackId": "1nO2NjuFkGaAWcMdJ1pNrp",
+      "preview": "https://p.scdn.co/mp3-preview/de825fd13bc3f9482dc55a4da296ac8ee548bcef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/041c52a7ad7190e0758963169e6e5e1a0836a135",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Tom Morello",
+      "featuredArtistId": "74NBPbyyftqJ4SpDZ4c1Ed",
+      "trackName": "FTW (F**k The World) [with A$AP Rocky & Tom Morello]",
+      "trackId": "7hoQEkOJojMIm93o0upvxx",
+      "preview": "https://p.scdn.co/mp3-preview/b5135df8134610da478093487f1d92e966153981?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5cb477fe93a86f20942f74c2264f0aeb187a3225",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Ty Dolla $ign",
+      "featuredArtistId": "7c0XG5cIJTrrAgEC3ULPiq",
+      "trackName": "Dawsin's Breek (feat. A$AP Rocky) - Remix",
+      "trackId": "4dF64aLXD44dyt1DJfc29x",
+      "preview": "https://p.scdn.co/mp3-preview/6c52ef79accc72f1b7911a5c125d3e548b93e90a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/510b1a062f2bbfbdd702accc4f154cd29097f0cd",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Famous Dex",
+      "featuredArtistId": "0WOxhx4hikIsyF3CRPLC8W",
+      "trackName": "Pick It Up (feat. A$AP Rocky)",
+      "trackId": "3ncgNpxLoBQ65ABk4djDyd",
+      "preview": "https://p.scdn.co/mp3-preview/6d6199fd979de1aef83c9b8b7056f7ec4adbb3c7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/022abcff17f31aa2f304b60e4035d44c32268dee",
+      "release_date": "2017-10-20"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "artistName": "Coldplay",
+  "features": [
+    {
+      "featuredArtist": "Tove Lo",
+      "featuredArtistId": "4NHQUGzhtTLFvgF5SZesLK",
+      "trackName": "Fun (feat. Tove Lo)",
+      "trackId": "7fJFDK6XjYsXcMKNHESbot",
+      "preview": "https://p.scdn.co/mp3-preview/189a20e3dcd6208297eac62343777b27229886a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9c2c4a9ac9726bfd996ff96383178bbb5efc59ab",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Matoma",
+      "featuredArtistId": "4YXycRbyyAE0wozTk7QMEq",
+      "trackName": "Adventure Of A Lifetime - Matoma Remix",
+      "trackId": "3RateSD2PJ9fGZzHnRmIAT",
+      "preview": "https://p.scdn.co/mp3-preview/167cd00b936fed203b62831098b833c60dd23769?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/137af97fb53cafdb739158955020c1e8ff58f427",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Seeb",
+      "featuredArtistId": "5iNrZmtVMtYev5M9yoWpEq",
+      "trackName": "Hymn For The Weekend - Seeb Remix",
+      "trackId": "1OAiWI2oPmglaOiv9fdioU",
+      "preview": "https://p.scdn.co/mp3-preview/d36ebf2b3d829b008bfea00bca48536fa510b6f0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/137af97fb53cafdb739158955020c1e8ff58f427",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Freedo",
+      "featuredArtistId": "2b6Cbp1cgD0hwisrGbKsZJ",
+      "trackName": "Up&Up - Freedo Remix",
+      "trackId": "5QOpPsNwbi3IfUH0TffBpn",
+      "preview": "https://p.scdn.co/mp3-preview/127b5493bda5a9005b0a20db3b86bf9e5cdf7e0e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/137af97fb53cafdb739158955020c1e8ff58f427",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Rihanna",
+      "featuredArtistId": "5pKCCKE2ajJHZ9KAiaK11H",
+      "trackName": "Princess of China",
+      "trackId": "67Jkx4WJZ0ZbDhld0COOri",
+      "preview": "https://p.scdn.co/mp3-preview/1c9c585de24ee7948526813caefc054499180980?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7a649b3890dc849e0f1597d6d12b4342e03ce5f",
+      "release_date": "2011-10-24"
+    },
+    {
+      "featuredArtist": "JAY Z",
+      "featuredArtistId": "3nFkdlSjzX9mRTtwJOzDYB",
+      "trackName": "Lost+ (with Jay-Z)",
+      "trackId": "0VVXyrNseVUjMvpwEZwi0c",
+      "preview": "https://p.scdn.co/mp3-preview/ceb7817e80f52e54ea21c879532ce31291ed87c8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/009aa1548af52b1d834648c6452f3804f086fead",
+      "release_date": "2008-11-24"
+    }
+  ]
+}

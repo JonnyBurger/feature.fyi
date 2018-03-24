@@ -1,0 +1,50 @@
+{
+  "artistName": "Carole King",
+  "features": [
+    {
+      "featuredArtist": "Louise Goffin",
+      "featuredArtistId": "03sAQYI6xlXSc3bsFU9RCC",
+      "trackName": "Where You Lead - Live",
+      "trackId": "7JxelNoECE0oxV3eaHNANl",
+      "preview": "https://p.scdn.co/mp3-preview/07162f9cfcf95ef8cf1fb493780a8a47a822f82a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f39ba00c1191d4e8bd412884b4258b7e7dcff427",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "The Cast of Beautiful: The Carole King Musical",
+      "featuredArtistId": "17inbEtDeEIzCpDnLgVrSG",
+      "trackName": "You've Got a Friend (Reprise) - Live",
+      "trackId": "0vay8kaQDN4KVXte6W83eT",
+      "preview": "https://p.scdn.co/mp3-preview/47a25d47b5b3023ab7fae9a53d64cba1305f8e4d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f39ba00c1191d4e8bd412884b4258b7e7dcff427",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "James Taylor",
+      "featuredArtistId": "0vn7UBvSQECKJm2817Yf1P",
+      "trackName": "Blossom",
+      "trackId": "0TtyTyOnVLJnpAWwg9o1PY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/958bf204d61de3aeb1f658a2ad3eae05a4a261b6",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Gary Burr",
+      "featuredArtistId": "5UYgaDsEcf7jd3pqMZDWDo",
+      "trackName": "Loving You Forever - Live",
+      "trackId": "3w4nrgY0hJLJTEYnxUohGX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b543cbdad7497c88d245cc9aa5e71ce44b1fa82c",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Slash",
+      "featuredArtistId": "4Cqia9vrAbm7ANXbJGXsTE",
+      "trackName": "Hold Out For Love",
+      "trackId": "4StBaivV2aAkqWtUGvi7fc",
+      "preview": "https://p.scdn.co/mp3-preview/334507541550f3207a26d4555d5a42d31f2925fb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba6be89440535321178b3a06ce38393ee2671e4c",
+      "release_date": "1994"
+    }
+  ]
+}

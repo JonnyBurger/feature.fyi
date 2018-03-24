@@ -1,0 +1,59 @@
+{
+  "artistName": "Thomas Rhett",
+  "features": [
+    {
+      "featuredArtist": "Maren Morris",
+      "featuredArtistId": "6WY7D3jk8zTrHtmkqqo5GI",
+      "trackName": "Craving You",
+      "trackId": "2d48mamATjby7wgPjdrSOQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1090f87e1e23cfcafd5a4b513e3fa08f63862c3d",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Rhett Akins",
+      "featuredArtistId": "4qivGtDBIkQFLCeduRpi24",
+      "trackName": "Drink A Little Beer",
+      "trackId": "1mJFIsUzfbeh0KBuXLVe16",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1090f87e1e23cfcafd5a4b513e3fa08f63862c3d",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Jordin Sparks",
+      "featuredArtistId": "2AQjGvtT0pFYfxR3neFcvz",
+      "trackName": "Playing With Fire",
+      "trackId": "0EYHmLw7ZaFTwe5ychALZk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/11b9b63a3a7eea77b35edbbfc82cd81c0848acd9",
+      "release_date": "2016-10-28"
+    },
+    {
+      "featuredArtist": "LunchMoney Lewis",
+      "featuredArtistId": "2iUbk5KhZYZt4CRvWbwb7S",
+      "trackName": "I Feel Good",
+      "trackId": "1qH2p20N5CoKD29xDzFVZ7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/11b9b63a3a7eea77b35edbbfc82cd81c0848acd9",
+      "release_date": "2016-10-28"
+    },
+    {
+      "featuredArtist": "Danielle Bradbery",
+      "featuredArtistId": "5iqStkZi6QmG8sgQZQrfGN",
+      "trackName": "Playing With Fire",
+      "trackId": "5oi5FZxnsT6jno2seBjmZM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/11b9b63a3a7eea77b35edbbfc82cd81c0848acd9",
+      "release_date": "2016-10-28"
+    },
+    {
+      "featuredArtist": "Tori Kelly",
+      "featuredArtistId": "1vSN1fsvrzpbttOYGsliDr",
+      "trackName": "Die A Happy Man - The Remix",
+      "trackId": "3bxXbmUmpJFlHaeX9CTJ38",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/11b9b63a3a7eea77b35edbbfc82cd81c0848acd9",
+      "release_date": "2016-10-28"
+    }
+  ]
+}

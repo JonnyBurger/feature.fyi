@@ -1,0 +1,23 @@
+{
+  "artistName": "Mark Knopfler",
+  "features": [
+    {
+      "featuredArtist": "Evelyn Glennie",
+      "featuredArtistId": "6MYiQGy8MIcBps6Ez0IQA8",
+      "trackName": "Altamira",
+      "trackId": "4r5M7k2tWM6PuESO4AgMh4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/342f878304d7733f78b90dcc5309c497171d6abd",
+      "release_date": "2015-04-22"
+    },
+    {
+      "featuredArtist": "Emmylou Harris",
+      "featuredArtistId": "5s6TJEuHTr9GR894wc6VfP",
+      "trackName": "Right Now - Live",
+      "trackId": "2q0iblqlXnr52SHNCqwatl",
+      "preview": "https://p.scdn.co/mp3-preview/c20027d7e34a6c73c117770153ade78c02321ee4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9e7982ab94b303d8e9389040dd3bb1664355747d",
+      "release_date": "2006-11-14"
+    }
+  ]
+}

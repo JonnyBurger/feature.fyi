@@ -1,0 +1,59 @@
+{
+  "artistName": "Carrie Underwood",
+  "features": [
+    {
+      "featuredArtist": "Keith Urban",
+      "featuredArtistId": "0u2FHSq3ln94y5Q57xazwf",
+      "trackName": "The Fighter",
+      "trackId": "7JsB50CwF7r5QTH1XsZ2Tn",
+      "preview": "https://p.scdn.co/mp3-preview/9c7b0ec51022c20d0e29de3798a468b3d80a21ae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/80c24ee3a754d257b471f20d880f3960f0ab6727",
+      "release_date": "2016-10-14"
+    },
+    {
+      "featuredArtist": "Randy Travis",
+      "featuredArtistId": "1pTuR132U5b4Rizal2Pr7m",
+      "trackName": "I Told You So - feat. Randy Travis",
+      "trackId": "0yQ19y1DiB531flksTac8j",
+      "preview": "https://p.scdn.co/mp3-preview/eb22a65af35ae627e69ec8feeb0cb10a6b619d3a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/80c24ee3a754d257b471f20d880f3960f0ab6727",
+      "release_date": "2016-10-14"
+    },
+    {
+      "featuredArtist": "Brad Paisley",
+      "featuredArtistId": "13YmWQJFwgZrd4bf5IjMY4",
+      "trackName": "Remind Me - duet with Brad Paisley",
+      "trackId": "0NNwNBx3N9Y5AtYyhUWcFT",
+      "preview": "https://p.scdn.co/mp3-preview/808177208e818961e705105111621a6a12f013e1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/80c24ee3a754d257b471f20d880f3960f0ab6727",
+      "release_date": "2016-10-14"
+    },
+    {
+      "featuredArtist": "Vince Gill",
+      "featuredArtistId": "3IhWQSrLj8EJjdvjFTpCyo",
+      "trackName": "How Great Thou Art (with Vince Gill) - Live from ACM Presents: Girls' Night Out",
+      "trackId": "08GgrfyFzAQWpXYTxWc1RJ",
+      "preview": "https://p.scdn.co/mp3-preview/b340d81b51713396f5265e8addb2eb16aa050ec3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/80c24ee3a754d257b471f20d880f3960f0ab6727",
+      "release_date": "2016-10-14"
+    },
+    {
+      "featuredArtist": "Sons Of Sylvia",
+      "featuredArtistId": "3fNfzmI5XfHHVHtS76dvMj",
+      "trackName": "What Can I Say",
+      "trackId": "5ozPMxbdBvXJHc0yzW8ZSW",
+      "preview": "https://p.scdn.co/mp3-preview/9b82065006a0dea4075ec54832f392e8d253c978?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8d9474d35bf0b61f3ae1ee47069bc57756baf1f9",
+      "release_date": "2009"
+    },
+    {
+      "featuredArtist": "Ludacris",
+      "featuredArtistId": "3ipn9JLAPI5GUEo4y4jcoi",
+      "trackName": "The Champion",
+      "trackId": "6y9F8w0czsmJHR6j7hqnkk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6921a3d372af17e7652c9993f943a725924c93ea",
+      "release_date": "2018-01-12"
+    }
+  ]
+}

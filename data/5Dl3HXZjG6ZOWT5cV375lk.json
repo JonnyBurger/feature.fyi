@@ -1,0 +1,761 @@
+{
+  "artistName": "Yo-Yo Ma",
+  "features": [
+    {
+      "featuredArtist": "The Silk Road Ensemble",
+      "featuredArtistId": "33Jkw9vRz13pxeEU7zcump",
+      "trackName": "The Wounded Soldier",
+      "trackId": "4vavlNjDSlQTxpdPXC9n7D",
+      "preview": "https://p.scdn.co/mp3-preview/dcc44f4d4d7e20dce3c1bb3c5ee83ebf612269f2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/748cdfbc78eb5cd9d25474ca0cd465fa9dee2e69",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Camille Saint-Saëns",
+      "featuredArtistId": "436sYg6CZhNefQJogaXeK0",
+      "trackName": "The Swan (From \"Carnival of the Animals, R. 125\")",
+      "trackId": "6FznYEXatsBUX8Q0jeR5Q4",
+      "preview": "https://p.scdn.co/mp3-preview/ede4dab6042bcbd16778a0899f35aca744b3aadd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Kathryn Stott",
+      "featuredArtistId": "7JmDqds7Y1LRSWZVM8e0Og",
+      "trackName": "The Swan (From \"Carnival of the Animals, R. 125\")",
+      "trackId": "6FznYEXatsBUX8Q0jeR5Q4",
+      "preview": "https://p.scdn.co/mp3-preview/ede4dab6042bcbd16778a0899f35aca744b3aadd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "John Williams",
+      "featuredArtistId": "6mBYeMZZUhJKEvRXagJYzY",
+      "trackName": "Seven Years in Tibet",
+      "trackId": "4JjrVW4Nz31RsRchlsjYyc",
+      "preview": "https://p.scdn.co/mp3-preview/84e0603e9fc77f29505c3dc9da02e9370f96485e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Ludwig van Beethoven",
+      "featuredArtistId": "2wOqMjp9TyABvtHdOSOTUS",
+      "trackName": "II. Andante cantabile",
+      "trackId": "4OvNyRRVTsK0Cy0QwGMy7E",
+      "preview": "https://p.scdn.co/mp3-preview/61f1a8edda75ca3379469850eddff55fed1fec7f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Emanuel Ax",
+      "featuredArtistId": "17yd2V3A2UmwD0a00hmjX5",
+      "trackName": "II. Andante cantabile",
+      "trackId": "4OvNyRRVTsK0Cy0QwGMy7E",
+      "preview": "https://p.scdn.co/mp3-preview/61f1a8edda75ca3379469850eddff55fed1fec7f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Isaac Stern",
+      "featuredArtistId": "3HYV4ZdJ1LSOhPo5ehlEqF",
+      "trackName": "II. Andante cantabile",
+      "trackId": "4OvNyRRVTsK0Cy0QwGMy7E",
+      "preview": "https://p.scdn.co/mp3-preview/61f1a8edda75ca3379469850eddff55fed1fec7f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Jaime Laredo",
+      "featuredArtistId": "3f6FlxZfcsNeOZCXgbp1yW",
+      "trackName": "II. Andante cantabile",
+      "trackId": "4OvNyRRVTsK0Cy0QwGMy7E",
+      "preview": "https://p.scdn.co/mp3-preview/61f1a8edda75ca3379469850eddff55fed1fec7f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Fritz Kreisler",
+      "featuredArtistId": "0HdNDZaNm7xLt18v9aWDfe",
+      "trackName": "3 Old Viennese Dances: No. 2, Liebesleid (Transcribed for Cello & Piano)",
+      "trackId": "2Z9GLz2QkQRZo7nzBx7pkz",
+      "preview": "https://p.scdn.co/mp3-preview/a5430743b2b726e3db5fca8840a8224b4df61d33?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Antonín Dvořák",
+      "featuredArtistId": "6n7nd5iceYpXVwcx8VPpxF",
+      "trackName": "Songs My Mother Taught Me (from \"Gypsy Songs\", Op. 55, No. 4)",
+      "trackId": "4FzWFhlAApEctnLkvgRKoB",
+      "preview": "https://p.scdn.co/mp3-preview/2bc66690ad811e1be101b2c8572e121b6b0f4ea8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Franz Joseph Haydn",
+      "featuredArtistId": "656RXuyw7CE0dtjdPgjJV6",
+      "trackName": "III. Allegro",
+      "trackId": "5iXY7atoE62rucn5epDkFE",
+      "preview": "https://p.scdn.co/mp3-preview/04759d4a0bdf41299f7a0eb299583a5ae00129d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "José-Luis Garcia",
+      "featuredArtistId": "3cQxD3FIUmh3VTeXAcAaoS",
+      "trackName": "III. Allegro",
+      "trackId": "5iXY7atoE62rucn5epDkFE",
+      "preview": "https://p.scdn.co/mp3-preview/04759d4a0bdf41299f7a0eb299583a5ae00129d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "English Chamber Orchestra",
+      "featuredArtistId": "2DO4p3CPDnInsJfg0jFfaF",
+      "trackName": "III. Allegro",
+      "trackId": "5iXY7atoE62rucn5epDkFE",
+      "preview": "https://p.scdn.co/mp3-preview/04759d4a0bdf41299f7a0eb299583a5ae00129d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Luigi Boccherini",
+      "featuredArtistId": "2l4vGfFV7e46yO8lxfxR76",
+      "trackName": "III. Allegro piacere",
+      "trackId": "4GO8I5OZSguomLnQisDBbj",
+      "preview": "https://p.scdn.co/mp3-preview/4c69eaf124f1eba533dc06deb872559f979fc355?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Ton Koopman",
+      "featuredArtistId": "7Fu8GId2mQkNzqDbZbcDWM",
+      "trackName": "III. Allegro piacere",
+      "trackId": "4GO8I5OZSguomLnQisDBbj",
+      "preview": "https://p.scdn.co/mp3-preview/4c69eaf124f1eba533dc06deb872559f979fc355?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Amsterdam Baroque Orchestra",
+      "featuredArtistId": "2CMg8J0WjftvFR5zFbufVA",
+      "trackName": "III. Allegro piacere",
+      "trackId": "4GO8I5OZSguomLnQisDBbj",
+      "preview": "https://p.scdn.co/mp3-preview/4c69eaf124f1eba533dc06deb872559f979fc355?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Ennio Morricone",
+      "featuredArtistId": "1nIUhcKHnK6iyumRyoV68C",
+      "trackName": "Gabriel's Oboe",
+      "trackId": "2dJdvGTFt6aEuY8QL0rBu8",
+      "preview": "https://p.scdn.co/mp3-preview/6701f2012cd1c093489d1fc3f2ca0c1a6d96b4bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Roma Sinfonietta",
+      "featuredArtistId": "4YfTc2eW16fPZ1O7Yncj9I",
+      "trackName": "Gabriel's Oboe",
+      "trackId": "2dJdvGTFt6aEuY8QL0rBu8",
+      "preview": "https://p.scdn.co/mp3-preview/6701f2012cd1c093489d1fc3f2ca0c1a6d96b4bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Johann Sebastian Bach",
+      "featuredArtistId": "5aIqB5nVVvmFsvSdExz408",
+      "trackName": "Ave Maria",
+      "trackId": "0SB5g1pWWokhBpbxK4rw4S",
+      "preview": "https://p.scdn.co/mp3-preview/aef03373d01b2013a5e74501705358df90c910d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Charles Gounod",
+      "featuredArtistId": "42Vmza0WYHdhsgxFmf9Tui",
+      "trackName": "Ave Maria",
+      "trackId": "0SB5g1pWWokhBpbxK4rw4S",
+      "preview": "https://p.scdn.co/mp3-preview/aef03373d01b2013a5e74501705358df90c910d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Itzhak Perlman",
+      "featuredArtistId": "0hIG9FXgjQxT8fKaYceFbA",
+      "trackName": "Sayuri's Theme and End Credits",
+      "trackId": "6HgDc4Mx4P0OVBt6z9UjF9",
+      "preview": "https://p.scdn.co/mp3-preview/92f76001d6742b232fb412eb82b237a1a53d0060?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Antonio Vivaldi",
+      "featuredArtistId": "2QOIawHpSlOwXDvSqQ9YJR",
+      "trackName": "The Four Sesons - Violin Concerto in F Minor, RV 297, \"Winter\": II. Largo",
+      "trackId": "6WjxpEsTv0UqcExDjYT1JX",
+      "preview": "https://p.scdn.co/mp3-preview/ed3239363378263b94f21bb0c77297ec6e1fc07a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Gabriel Fauré",
+      "featuredArtistId": "2gClsBep1tt1rv1CN210SO",
+      "trackName": "Après un rêve, Op. 7, No. 1",
+      "trackId": "6LMqiKd3Hpgk9VNnTxm7F7",
+      "preview": "https://p.scdn.co/mp3-preview/0bba30e4972fa45ecd3154050fd8d4b1096154c8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Tan Dun",
+      "featuredArtistId": "1GhO4jjafkz7yzMcGjGizT",
+      "trackName": "The Eternal Vow (From \"Crouching Tiger, Hidden Dragon\")",
+      "trackId": "0UD7AjgR8MddNu87TfOLab",
+      "preview": "https://p.scdn.co/mp3-preview/bb9dc501cf148cebf1dba5d0f25e022f616cb815?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Chen Xie Yang",
+      "featuredArtistId": "3juRubM58lmWiBDGBw5wGH",
+      "trackName": "The Eternal Vow (From \"Crouching Tiger, Hidden Dragon\")",
+      "trackId": "0UD7AjgR8MddNu87TfOLab",
+      "preview": "https://p.scdn.co/mp3-preview/bb9dc501cf148cebf1dba5d0f25e022f616cb815?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Shanghai Symphony Orchestra",
+      "featuredArtistId": "5axjIS5grj9EJYzXJW10IY",
+      "trackName": "The Eternal Vow (From \"Crouching Tiger, Hidden Dragon\")",
+      "trackId": "0UD7AjgR8MddNu87TfOLab",
+      "preview": "https://p.scdn.co/mp3-preview/bb9dc501cf148cebf1dba5d0f25e022f616cb815?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Shanghai National Orchestra",
+      "featuredArtistId": "4LjEV5Uda7vRVQtxOc57QD",
+      "trackName": "The Eternal Vow (From \"Crouching Tiger, Hidden Dragon\")",
+      "trackId": "0UD7AjgR8MddNu87TfOLab",
+      "preview": "https://p.scdn.co/mp3-preview/bb9dc501cf148cebf1dba5d0f25e022f616cb815?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec6e195ddd154d3b1df70d4855a7edf75d9e1c4b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Johannes Brahms",
+      "featuredArtistId": "5wTAi7QkpP6kp8a54lmTOq",
+      "trackName": "Piano Trio No. 2 in C Major, Op. 87: Allegro",
+      "trackId": "3s3JXAYWhs5rhzKZjEQGis",
+      "preview": "https://p.scdn.co/mp3-preview/7c3e814c3b0ff11b107e57a706d1f06b909e5de7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1daa05843ce6da24474dbe5cfc76e9bc9593e8f8",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Leonidas Kavakos",
+      "featuredArtistId": "16XP6b4v1MdN8UYRBlgVKn",
+      "trackName": "Piano Trio No. 2 in C Major, Op. 87: Allegro",
+      "trackId": "3s3JXAYWhs5rhzKZjEQGis",
+      "preview": "https://p.scdn.co/mp3-preview/7c3e814c3b0ff11b107e57a706d1f06b909e5de7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1daa05843ce6da24474dbe5cfc76e9bc9593e8f8",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Bobby McFerrin",
+      "featuredArtistId": "2FjkZT851ez950cyPjeYid",
+      "trackName": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air",
+      "trackId": "0L9ASDcpRIMqIjo5HIa7Bs",
+      "preview": "https://p.scdn.co/mp3-preview/11f20a50d0a02a9c6d5b66b74c227a3778bb9f13?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/187e323e6bf91f545d1de472f4a17b4d263a8e5f",
+      "release_date": "2017-05-12"
+    },
+    {
+      "featuredArtist": "John Corigliano",
+      "featuredArtistId": "0aHSAeZ39EVErXuOjm2XDR",
+      "trackName": "Fancy on a Bach Air",
+      "trackId": "2viJ30FK8OTjXxpYSF4KBx",
+      "preview": "https://p.scdn.co/mp3-preview/d55e9cdffffcac85a649b940ac5fce068b96deb6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/187e323e6bf91f545d1de472f4a17b4d263a8e5f",
+      "release_date": "2017-05-12"
+    },
+    {
+      "featuredArtist": "Chris Thile",
+      "featuredArtistId": "1dyGPAYZZHHW6WIqwKN5QF",
+      "trackName": "Trio Sonata No. 6 in G Major, BWV 530: I. Vivace",
+      "trackId": "5SorLavJ0bCz4T9XyxchiY",
+      "preview": "https://p.scdn.co/mp3-preview/5472ff6062283a83dfc4c924d7c8899c1537b146?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b678bc2fea592e094bd6926f15dff05355c23b34",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Edgar Meyer",
+      "featuredArtistId": "7jkhwa4XMe9XSt1r0AWNqD",
+      "trackName": "Trio Sonata No. 6 in G Major, BWV 530: I. Vivace",
+      "trackId": "5SorLavJ0bCz4T9XyxchiY",
+      "preview": "https://p.scdn.co/mp3-preview/5472ff6062283a83dfc4c924d7c8899c1537b146?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b678bc2fea592e094bd6926f15dff05355c23b34",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Jacob Gade",
+      "featuredArtistId": "1a13nFgYRHWF6IHCOfymmN",
+      "trackName": "Tango Jalousie",
+      "trackId": "30N8hjrMdkWdL1o3SYOHbG",
+      "preview": "https://p.scdn.co/mp3-preview/27226f11f44fe35532d8abfbe0cc0f5c0cdbf639?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45eae47caa4d70ff01f72c1d910d6e8f8209606d",
+      "release_date": "2015-09-23"
+    },
+    {
+      "featuredArtist": "Robert Schumann",
+      "featuredArtistId": "2UqjDAXnDxejEyE0CzfUrZ",
+      "trackName": "I. Vanitas vanitatum (from \"Five Pieces in the Popular Style\", Op. 102)",
+      "trackId": "7qTLTK0DyYl7UgEGhqWhd2",
+      "preview": "https://p.scdn.co/mp3-preview/9caebdef61b6aa57207207a517ac1d0caf5811d4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45eae47caa4d70ff01f72c1d910d6e8f8209606d",
+      "release_date": "2015-09-23"
+    },
+    {
+      "featuredArtist": "Jean Sibelius",
+      "featuredArtistId": "7jzR5qj8vFnSu5JHaXgFEr",
+      "trackName": "Was it a Dream?, Op. 37, No. 4",
+      "trackId": "0Vcr8aFjd17hM4lCaDCJFc",
+      "preview": "https://p.scdn.co/mp3-preview/a8547eaa4f2cd7bbe54a51ae0fd8373c52c49dce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45eae47caa4d70ff01f72c1d910d6e8f8209606d",
+      "release_date": "2015-09-23"
+    },
+    {
+      "featuredArtist": "Edward Elgar",
+      "featuredArtistId": "430byzy0c5bPn5opiu0SRd",
+      "trackName": "Salut d'Amour, Op. 12",
+      "trackId": "2imNYe9jsDGANC6IyTNIxB",
+      "preview": "https://p.scdn.co/mp3-preview/6a115d367da9bc61aecc823a0e435a4e9fe39f68?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45eae47caa4d70ff01f72c1d910d6e8f8209606d",
+      "release_date": "2015-09-23"
+    },
+    {
+      "featuredArtist": "George Gershwin",
+      "featuredArtistId": "1YuknfkSYTTbolRpwZBOv4",
+      "trackName": "Prelude No. 1 (From \"Three Preludes\")",
+      "trackId": "0kCDuVBQeh5pLXHzZ9RHk7",
+      "preview": "https://p.scdn.co/mp3-preview/8d9625152771ede724606f2d9857ce78880a81ee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45eae47caa4d70ff01f72c1d910d6e8f8209606d",
+      "release_date": "2015-09-23"
+    },
+    {
+      "featuredArtist": "Frederick Delius",
+      "featuredArtistId": "65YhYi4Fz5Ibgq7ueev2Rm",
+      "trackName": "Romance for Cello and Piano",
+      "trackId": "2G9g8Ecpek2qsP8d5vmpNJ",
+      "preview": "https://p.scdn.co/mp3-preview/f77d0ec7ef6ef1cb54bc7baa1b07f97f8b513f20?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45eae47caa4d70ff01f72c1d910d6e8f8209606d",
+      "release_date": "2015-09-23"
+    },
+    {
+      "featuredArtist": "Giovanni Sollima",
+      "featuredArtistId": "6WfFPnmAsusQHokvSZL8XB",
+      "trackName": "Il bell'Antonio, Tema III",
+      "trackId": "4xkrXlEitxXPgVsccG3nmH",
+      "preview": "https://p.scdn.co/mp3-preview/835c5ecf823234f6dd4e277df24347890867c0c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45eae47caa4d70ff01f72c1d910d6e8f8209606d",
+      "release_date": "2015-09-23"
+    },
+    {
+      "featuredArtist": "Edvard Grieg",
+      "featuredArtistId": "5ihY290YPGc3aY2xTyx7Gy",
+      "trackName": "The Wounded Heart, Op. 34, No. 1 (From \"Elegiac Melodies\")",
+      "trackId": "2k7fDwvo6R1jbbSPhgEUC4",
+      "preview": "https://p.scdn.co/mp3-preview/3901ac045ef9f9a5ff98d90b71eee72036ef301b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45eae47caa4d70ff01f72c1d910d6e8f8209606d",
+      "release_date": "2015-09-23"
+    },
+    {
+      "featuredArtist": "Pyotr Ilyich Tchaikovsky",
+      "featuredArtistId": "3MKCzCnpzw3TjUYs2v7vDA",
+      "trackName": "Valse Sentimentale, Op. 51, No. 6 (Arr. for Cello and Piano)",
+      "trackId": "1VfB5PpSMjtdqeAwfaIRyA",
+      "preview": "https://p.scdn.co/mp3-preview/6769b7e25cc4db9e5c0dd8563a92248cd6e7379d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45eae47caa4d70ff01f72c1d910d6e8f8209606d",
+      "release_date": "2015-09-23"
+    },
+    {
+      "featuredArtist": "Olivier Messiaen",
+      "featuredArtistId": "6CS9O2pE67oq44GZuBEBuD",
+      "trackName": "Louange à l'Éternité de Jésus (From \"Quartet for the End of Time\")",
+      "trackId": "1R3wVKsx4eA7jJxfRxM4vF",
+      "preview": "https://p.scdn.co/mp3-preview/7ca82def6d0a5fa1cfbbfc97915382e6534213fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45eae47caa4d70ff01f72c1d910d6e8f8209606d",
+      "release_date": "2015-09-23"
+    },
+    {
+      "featuredArtist": "Claude Debussy",
+      "featuredArtistId": "1Uff91EOsvd99rtAupatMP",
+      "trackName": "Beau Soir",
+      "trackId": "78daz6bEa5vDQrPTvtSE8m",
+      "preview": "https://p.scdn.co/mp3-preview/ec82c4a8a698460adb97f756d5c5a9c00a841e60?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45eae47caa4d70ff01f72c1d910d6e8f8209606d",
+      "release_date": "2015-09-23"
+    },
+    {
+      "featuredArtist": "Franz Schubert",
+      "featuredArtistId": "2p0UyoPfYfI76PCStuXfOP",
+      "trackName": "Ave Maria, D. 839, Op. 52, No. 6 (Ellens Gesang III from \"Ein Fräulein vom See\") [Arr. for Cello and Piano]",
+      "trackId": "3CgCZWe8tXrNy0UqWeW6pK",
+      "preview": "https://p.scdn.co/mp3-preview/c48cfb5c1e67bdf374752148ccf173ca1448f198?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45eae47caa4d70ff01f72c1d910d6e8f8209606d",
+      "release_date": "2015-09-23"
+    },
+    {
+      "featuredArtist": "Stuart Duncan",
+      "featuredArtistId": "53pmIwVqcTM68qW6PVhjW2",
+      "trackName": "Attaboy",
+      "trackId": "6wveI8SQOs4ffhMpeYsiIP",
+      "preview": "https://p.scdn.co/mp3-preview/182c8eec334a00ee65cab900e0015aeb2e178ea6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0dca63c375d42a81a9e800754aad7bacb8fd2766",
+      "release_date": "2011-10-24"
+    },
+    {
+      "featuredArtist": "James Taylor",
+      "featuredArtistId": "0vn7UBvSQECKJm2817Yf1P",
+      "trackName": "Helping Hand",
+      "trackId": "4yrF6BduSOERyHT8bFnEQF",
+      "preview": "https://p.scdn.co/mp3-preview/756e32e79c2551ef53ef866831a97c96538d2a93?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0dca63c375d42a81a9e800754aad7bacb8fd2766",
+      "release_date": "2011-10-24"
+    },
+    {
+      "featuredArtist": "Aoife O'Donovan",
+      "featuredArtistId": "1f3ubTd6eyxuy30ddDJQQa",
+      "trackName": "Here and Heaven",
+      "trackId": "4sP8F8qJDsNjDE57OGbI2s",
+      "preview": "https://p.scdn.co/mp3-preview/b8446ac8579a10006f583c11bc362573b01ce6a1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0dca63c375d42a81a9e800754aad7bacb8fd2766",
+      "release_date": "2011-10-24"
+    },
+    {
+      "featuredArtist": "Philippe Entremont",
+      "featuredArtistId": "4x2fCu6MNErew0pb64yOBO",
+      "trackName": "The Swan",
+      "trackId": "1ZS9SsAz9G434SdwhoQnEi",
+      "preview": "https://p.scdn.co/mp3-preview/9f3ec3297a1f1abb03e0324eace1eab8a6f98f7e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/957627b84924fcf6727fbd72881bb2b0af10219e",
+      "release_date": "2011-01-07"
+    },
+    {
+      "featuredArtist": "Gaby Casadesus",
+      "featuredArtistId": "5NfGdfTxSNHjKdwjNKwh5c",
+      "trackName": "The Swan",
+      "trackId": "1ZS9SsAz9G434SdwhoQnEi",
+      "preview": "https://p.scdn.co/mp3-preview/9f3ec3297a1f1abb03e0324eace1eab8a6f98f7e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/957627b84924fcf6727fbd72881bb2b0af10219e",
+      "release_date": "2011-01-07"
+    },
+    {
+      "featuredArtist": "Sir Colin Davis",
+      "featuredArtistId": "0TrG2LSot4KhaXqdf5K2zE",
+      "trackName": "III. Sehr lebhaft",
+      "trackId": "0sAuQMPMk36T3dP0KUIl3w",
+      "preview": "https://p.scdn.co/mp3-preview/28a2ace57687c27e18fc3b4cb18ec6e80c7f129c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/957627b84924fcf6727fbd72881bb2b0af10219e",
+      "release_date": "2011-01-07"
+    },
+    {
+      "featuredArtist": "Bavarian Radio Symphony Orchestra",
+      "featuredArtistId": "74gWOpgM97HU3Mn8A8d0Vm",
+      "trackName": "III. Sehr lebhaft",
+      "trackId": "0sAuQMPMk36T3dP0KUIl3w",
+      "preview": "https://p.scdn.co/mp3-preview/28a2ace57687c27e18fc3b4cb18ec6e80c7f129c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/957627b84924fcf6727fbd72881bb2b0af10219e",
+      "release_date": "2011-01-07"
+    },
+    {
+      "featuredArtist": "Astor Piazzolla",
+      "featuredArtistId": "7dsugSamBB7enWE2IrlbFg",
+      "trackName": "Libertango",
+      "trackId": "02PGj0bZLPMxk39oAOON7x",
+      "preview": "https://p.scdn.co/mp3-preview/dc7bbf62a2fed4cc940da07aabab768b92d175ab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/957627b84924fcf6727fbd72881bb2b0af10219e",
+      "release_date": "2011-01-07"
+    },
+    {
+      "featuredArtist": "Blossom Dearie",
+      "featuredArtistId": "5bWApG9Vdshhd1J50UnNf6",
+      "trackName": "Touch the Hand of Love",
+      "trackId": "6RV98VMSXglFk0IUKfVWhV",
+      "preview": "https://p.scdn.co/mp3-preview/fa10dde4c5f4ed42a87343740aa0c8fd719923d5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/957627b84924fcf6727fbd72881bb2b0af10219e",
+      "release_date": "2011-01-07"
+    },
+    {
+      "featuredArtist": "Renée Fleming",
+      "featuredArtistId": "3SK3gLBgy1jRuA4VnLlcs8",
+      "trackName": "Touch the Hand of Love",
+      "trackId": "6RV98VMSXglFk0IUKfVWhV",
+      "preview": "https://p.scdn.co/mp3-preview/fa10dde4c5f4ed42a87343740aa0c8fd719923d5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/957627b84924fcf6727fbd72881bb2b0af10219e",
+      "release_date": "2011-01-07"
+    },
+    {
+      "featuredArtist": "Richard Rodgers",
+      "featuredArtistId": "4IbAZwt75dpehMOgcC3GnP",
+      "trackName": "Love of My Life",
+      "trackId": "2faCSdqKzqzJ5We9M5va4R",
+      "preview": "https://p.scdn.co/mp3-preview/f5d6f82e506879d5eb988fe38bfac8f4152f0469?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/957627b84924fcf6727fbd72881bb2b0af10219e",
+      "release_date": "2011-01-07"
+    },
+    {
+      "featuredArtist": "Mark O'Connor",
+      "featuredArtistId": "5zfaMrd5q4szVTxVYWuoDV",
+      "trackName": "First Impressions - Instrumental",
+      "trackId": "7xVFOWl8Ls5eXCWm81eJLY",
+      "preview": "https://p.scdn.co/mp3-preview/ee5040b4ba135e8f99a98a809622bac598418526?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/957627b84924fcf6727fbd72881bb2b0af10219e",
+      "release_date": "2011-01-07"
+    },
+    {
+      "featuredArtist": "Michio Mamiya",
+      "featuredArtistId": "565VPLepKkITgfySHhTC5j",
+      "trackName": "No. 3 Miero vuotti uutta kuuta from Five Finnish Folk Songs - Edited Version",
+      "trackId": "3fJGSFxVoBuBk97TZrO2j8",
+      "preview": "https://p.scdn.co/mp3-preview/5560de603dee8015fca5def038e24b6e7f5b0ceb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/957627b84924fcf6727fbd72881bb2b0af10219e",
+      "release_date": "2011-01-07"
+    },
+    {
+      "featuredArtist": "Paquito D'Rivera",
+      "featuredArtistId": "30Mx3ZadPgGZTcs38FvYP8",
+      "trackName": "Wapango - Live",
+      "trackId": "45mu6cdcMYAU4AR6Ma4EDg",
+      "preview": "https://p.scdn.co/mp3-preview/c7208ff94fe8eb49dbebde08dffb2dca48e02e8b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/957627b84924fcf6727fbd72881bb2b0af10219e",
+      "release_date": "2011-01-07"
+    },
+    {
+      "featuredArtist": "Traditional",
+      "featuredArtistId": "1U5zgr455OGyIkLNXvDdrf",
+      "trackName": "Joy to the World",
+      "trackId": "48apkKjDiTFvrQxtGb8EjG",
+      "preview": "https://p.scdn.co/mp3-preview/3121e5fe49898bdf1a80dc45ffb9b38d0688c50c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/957627b84924fcf6727fbd72881bb2b0af10219e",
+      "release_date": "2011-01-07"
+    },
+    {
+      "featuredArtist": "Dave Brubeck",
+      "featuredArtistId": "3kUKwTJdH8FuWzF8p6Dg9E",
+      "trackName": "Joy to the World",
+      "trackId": "48apkKjDiTFvrQxtGb8EjG",
+      "preview": "https://p.scdn.co/mp3-preview/3121e5fe49898bdf1a80dc45ffb9b38d0688c50c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/957627b84924fcf6727fbd72881bb2b0af10219e",
+      "release_date": "2011-01-07"
+    },
+    {
+      "featuredArtist": "John Williams",
+      "featuredArtistId": "3dRfiJ2650SZu6GbydcHNb",
+      "trackName": "Seven Years in Tibet",
+      "trackId": "2ODUzFCAgnt4hLBqAjVeUD",
+      "preview": "https://p.scdn.co/mp3-preview/a5e4d264ee805104d17ba177369e612f511e4d4b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/957627b84924fcf6727fbd72881bb2b0af10219e",
+      "release_date": "2011-01-07"
+    },
+    {
+      "featuredArtist": "Felix Mendelssohn",
+      "featuredArtistId": "6MF58APd3YV72Ln2eVg710",
+      "trackName": "Piano Trio No. 1 in D Minor, Op. 49: I. Molto allegro e agitato",
+      "trackId": "5K1QdhCmq6XGP4gBx3IWPD",
+      "preview": "https://p.scdn.co/mp3-preview/531df0e1d02b7d9283ed25b365aed5e0441b51ae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db4a82ee98236717b083ace9e39b0edb0c13477f",
+      "release_date": "2010-02-02"
+    },
+    {
+      "featuredArtist": "Diana Krall",
+      "featuredArtistId": "5z1VAFwT35EVvCp1XlZZuL",
+      "trackName": "You Couldn't Be Cuter",
+      "trackId": "1r9aznLKdbtoMrt9iUyPuv",
+      "preview": "https://p.scdn.co/mp3-preview/3866044380f737fd32e87a788c32cde4a344b8af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/629babb06a19fe429a2d7104cfeead7a7abd217f",
+      "release_date": "2008-10-10"
+    },
+    {
+      "featuredArtist": "Natalie MacMaster",
+      "featuredArtistId": "4ybzO54FX2pbiKx209CB0t",
+      "trackName": "A Christmas Jig / Mouth of the Tobique Reel",
+      "trackId": "0UJeSxvSR8Xxa9RgH8eyRS",
+      "preview": "https://p.scdn.co/mp3-preview/241d92c1abde9e1f786f28fcff1be6b8ecf47d89?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/629babb06a19fe429a2d7104cfeead7a7abd217f",
+      "release_date": "2008-10-10"
+    },
+    {
+      "featuredArtist": "Alison Krauss",
+      "featuredArtistId": "5J6L7N6B4nI1M5cwa29mQG",
+      "trackName": "The Wexford Carol",
+      "trackId": "2OVCLE9fplTVMAYn2NsQW3",
+      "preview": "https://p.scdn.co/mp3-preview/45131e815fcf8901c973eb95d92664c6f15cf5a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/629babb06a19fe429a2d7104cfeead7a7abd217f",
+      "release_date": "2008-10-10"
+    },
+    {
+      "featuredArtist": "Cristina Pato",
+      "featuredArtistId": "77BeMktShzkB46MzJChNtK",
+      "trackName": "Panxoliña: a Galician Carol",
+      "trackId": "4UdTX91W3tF5qM9DxtNUOI",
+      "preview": "https://p.scdn.co/mp3-preview/f00587ebc9c6c14458c1e4a27ae5d0abff4335e2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/629babb06a19fe429a2d7104cfeead7a7abd217f",
+      "release_date": "2008-10-10"
+    },
+    {
+      "featuredArtist": "Joshua Redman",
+      "featuredArtistId": "3uaHfXYx9Fh4HjqMbrWn5S",
+      "trackName": "My One and Only Love",
+      "trackId": "52X67Yzy5Bn0JKwzRWDEAs",
+      "preview": "https://p.scdn.co/mp3-preview/8afa30f55e11b0218fb28ceb5de35921394cf0bc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/629babb06a19fe429a2d7104cfeead7a7abd217f",
+      "release_date": "2008-10-10"
+    },
+    {
+      "featuredArtist": "Chris Botti",
+      "featuredArtistId": "3eFo5fMv53RYZBYlvT5Z6a",
+      "trackName": "My Favorite Things",
+      "trackId": "7vDQDC4wtDZ5WCIi1X0VHk",
+      "preview": "https://p.scdn.co/mp3-preview/3f9db36cf73c4b3890418a44fb0d34195bc781a1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/629babb06a19fe429a2d7104cfeead7a7abd217f",
+      "release_date": "2008-10-10"
+    },
+    {
+      "featuredArtist": "Amelia Zirin-Brown",
+      "featuredArtistId": "7Fn8eYQxiuaEkfpjvDdvki",
+      "trackName": "This Little Light of Mine",
+      "trackId": "3j6M6b9dLVT0fzbH3UJeih",
+      "preview": "https://p.scdn.co/mp3-preview/33f70e00d335b44eea87d71d92aa66011919f742?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/629babb06a19fe429a2d7104cfeead7a7abd217f",
+      "release_date": "2008-10-10"
+    },
+    {
+      "featuredArtist": "Jake Shimabukuro",
+      "featuredArtistId": "69NjH5MsRLr0CX0zSlGmN3",
+      "trackName": "Happy Xmas (War is Over)",
+      "trackId": "4nC5Ap034pzhNT7vfqGRpE",
+      "preview": "https://p.scdn.co/mp3-preview/6b10f74b8ef1a1b4af5061c084a6b49afba57d2a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/629babb06a19fe429a2d7104cfeead7a7abd217f",
+      "release_date": "2008-10-10"
+    },
+    {
+      "featuredArtist": "Gerald Finzi",
+      "featuredArtistId": "4CDMSd6tmH66svpunz3aWP",
+      "trackName": "Concerto for Cello and Orchestra, Op. 40: I. Allegro moderato",
+      "trackId": "4VKw2G7QXiWKeDnxuEHUhc",
+      "preview": "https://p.scdn.co/mp3-preview/2050a71d3aa91d9b89a6db9ff43825efd9e47fa2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7fbb2d53ae470892f73883bbbf4454515fcf5304",
+      "release_date": "2007-03-01"
+    },
+    {
+      "featuredArtist": "Vernon Handley",
+      "featuredArtistId": "2lfhRHLz3kC17tcVKJqJ4Y",
+      "trackName": "Concerto for Cello and Orchestra, Op. 40: I. Allegro moderato",
+      "trackId": "4VKw2G7QXiWKeDnxuEHUhc",
+      "preview": "https://p.scdn.co/mp3-preview/2050a71d3aa91d9b89a6db9ff43825efd9e47fa2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7fbb2d53ae470892f73883bbbf4454515fcf5304",
+      "release_date": "2007-03-01"
+    },
+    {
+      "featuredArtist": "Royal Philharmonic Orchestra",
+      "featuredArtistId": "0MvSBMGRQJY3mRwIbJsqF1",
+      "trackName": "Concerto for Cello and Orchestra, Op. 40: I. Allegro moderato",
+      "trackId": "4VKw2G7QXiWKeDnxuEHUhc",
+      "preview": "https://p.scdn.co/mp3-preview/2050a71d3aa91d9b89a6db9ff43825efd9e47fa2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7fbb2d53ae470892f73883bbbf4454515fcf5304",
+      "release_date": "2007-03-01"
+    },
+    {
+      "featuredArtist": "Sergio Assad",
+      "featuredArtistId": "4swcKk3MACehmkZYDvPr5z",
+      "trackName": "Libertango - Live",
+      "trackId": "0OiRU06U42cg1uWGpyhWOm",
+      "preview": "https://p.scdn.co/mp3-preview/27f4107abafbfbebba93d8821e62d499ee59d178?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/17fbedf64b75ebceb0fa39aa2d7ea273b2248b30",
+      "release_date": "2004-02-09"
+    },
+    {
+      "featuredArtist": "Odair Assad",
+      "featuredArtistId": "2MuI5yugf77Xp7StmmTOql",
+      "trackName": "Libertango - Live",
+      "trackId": "0OiRU06U42cg1uWGpyhWOm",
+      "preview": "https://p.scdn.co/mp3-preview/27f4107abafbfbebba93d8821e62d499ee59d178?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/17fbedf64b75ebceb0fa39aa2d7ea273b2248b30",
+      "release_date": "2004-02-09"
+    },
+    {
+      "featuredArtist": "Antônio Carlos Jobim",
+      "featuredArtistId": "3pO5VjZ4wOHCMBXOvbMISG",
+      "trackName": "Chega de Saudade - Live",
+      "trackId": "0io1sJZEpZsHwh5Q2xiUSU",
+      "preview": "https://p.scdn.co/mp3-preview/ce55fc855704cbfe597d4b61f77dc1f45f1bebb5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/17fbedf64b75ebceb0fa39aa2d7ea273b2248b30",
+      "release_date": "2004-02-09"
+    },
+    {
+      "featuredArtist": "Vinícius de Moraes",
+      "featuredArtistId": "5HlnN6xF2MD87KhGRmCRTd",
+      "trackName": "Chega de Saudade - Live",
+      "trackId": "0io1sJZEpZsHwh5Q2xiUSU",
+      "preview": "https://p.scdn.co/mp3-preview/ce55fc855704cbfe597d4b61f77dc1f45f1bebb5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/17fbedf64b75ebceb0fa39aa2d7ea273b2248b30",
+      "release_date": "2004-02-09"
+    },
+    {
+      "featuredArtist": "Rosa Passos",
+      "featuredArtistId": "1ztbuuZdlymbE7XnHlj0nP",
+      "trackName": "Chega de Saudade - Live",
+      "trackId": "0io1sJZEpZsHwh5Q2xiUSU",
+      "preview": "https://p.scdn.co/mp3-preview/ce55fc855704cbfe597d4b61f77dc1f45f1bebb5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/17fbedf64b75ebceb0fa39aa2d7ea273b2248b30",
+      "release_date": "2004-02-09"
+    },
+    {
+      "featuredArtist": "Jacob Do Bandolim",
+      "featuredArtistId": "1uLk9teQumztDMDlIv4jwS",
+      "trackName": "Doce de coco - Live",
+      "trackId": "78XZfJe3TcZTCcreDfJGPV",
+      "preview": "https://p.scdn.co/mp3-preview/715f6cb8089be33ab74e48b11cff8a57e76e3ccb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/17fbedf64b75ebceb0fa39aa2d7ea273b2248b30",
+      "release_date": "2004-02-09"
+    },
+    {
+      "featuredArtist": "Cesar Camargo Mariano",
+      "featuredArtistId": "43B6M32q64TmvCjO9WAhWd",
+      "trackName": "Cristal - Live",
+      "trackId": "0R69DcdkDPPctPHCPqvdrb",
+      "preview": "https://p.scdn.co/mp3-preview/1f1e6c0c7080c11690e7d749c47f2c61d1f994e2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/17fbedf64b75ebceb0fa39aa2d7ea273b2248b30",
+      "release_date": "2004-02-09"
+    },
+    {
+      "featuredArtist": "Geraldo Carneiro",
+      "featuredArtistId": "44ElooWX6WCCS9p66ToWyJ",
+      "trackName": "Bodas de Prata & Quatro Cantos - Live",
+      "trackId": "6s8pe3O57mrYRGKGg6OSuf",
+      "preview": "https://p.scdn.co/mp3-preview/e181336c73810961ac20e8c80941dc2cca0a8b97?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/17fbedf64b75ebceb0fa39aa2d7ea273b2248b30",
+      "release_date": "2004-02-09"
+    },
+    {
+      "featuredArtist": "Egberto Gismonti",
+      "featuredArtistId": "6L31zhaK3DUZEze55P3lYJ",
+      "trackName": "Bodas de Prata & Quatro Cantos - Live",
+      "trackId": "6s8pe3O57mrYRGKGg6OSuf",
+      "preview": "https://p.scdn.co/mp3-preview/e181336c73810961ac20e8c80941dc2cca0a8b97?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/17fbedf64b75ebceb0fa39aa2d7ea273b2248b30",
+      "release_date": "2004-02-09"
+    },
+    {
+      "featuredArtist": "Ary Barroso",
+      "featuredArtistId": "5vUHb4AHUaKiNXohz4Z7Ay",
+      "trackName": "Aquarela do Brazil - Live",
+      "trackId": "7jCUmoMEZVSGPkLb0HlQfA",
+      "preview": "https://p.scdn.co/mp3-preview/12edf1ca2eff021bf5f0e930768fc6d1f7dbc001?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/17fbedf64b75ebceb0fa39aa2d7ea273b2248b30",
+      "release_date": "2004-02-09"
+    }
+  ]
+}

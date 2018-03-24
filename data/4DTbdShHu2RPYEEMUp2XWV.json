@@ -1,0 +1,41 @@
+{
+  "artistName": "Anjulie",
+  "features": [
+    {
+      "featuredArtist": "VINAI",
+      "featuredArtistId": "4mrBetqy378Jf1y6NLszlx",
+      "trackName": "Where the Water Ends",
+      "trackId": "5Qh8DqDqD0BxHbI2f8P3j2",
+      "preview": "https://p.scdn.co/mp3-preview/cd567864825dee46688624d435b4797ff1b16cbd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/92a57ca497f889c3cf00be36532cb5bdeeefba32",
+      "release_date": "2017-07-28"
+    },
+    {
+      "featuredArtist": "Oskar Flood",
+      "featuredArtistId": "3Zif00eSvBUECxu8grzURU",
+      "trackName": "Where The Love Goes (feat. Oskar Flood)",
+      "trackId": "5nV4nOYPxJPB92gZwk60Ms",
+      "preview": "https://p.scdn.co/mp3-preview/4f36f768759082c1420f468f759e061f45413f92?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8e10396947fac663b31dc09ca87dcd111283288c",
+      "release_date": "2017-06-23"
+    },
+    {
+      "featuredArtist": "KOWL",
+      "featuredArtistId": "4B0aMQVh2SI0uZ9rOQiUXv",
+      "trackName": "Just Words",
+      "trackId": "4ufbcsg6qSAEn6z6HVBqVN",
+      "preview": "https://p.scdn.co/mp3-preview/0a214135907fe4983d5b2e6f9e93c953b4bd338d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/18cf233b04e00a72185d45605aed923080e18be3",
+      "release_date": "2017-06-05"
+    },
+    {
+      "featuredArtist": "TheFatRat",
+      "featuredArtistId": "3OKg7YbOIatODzkRIbLJR4",
+      "trackName": "Fly Away",
+      "trackId": "0hTrQoqDmFnA4S1PC265e1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1007cb909aa4cf3b66ef09fc792e8c805c0865d7",
+      "release_date": "2017-06-02"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "artistName": "Matheus & Kauan",
+  "features": [
+    {
+      "featuredArtist": "Jorge & Mateus",
+      "featuredArtistId": "1elUiq4X7pxej6FRlrEzjM",
+      "trackName": "Mundo Paralelo - Ao Vivo",
+      "trackId": "5CZo46sgJ2Mh3ZYAOymapH",
+      "preview": "https://p.scdn.co/mp3-preview/28fbcbb47f641da3f30b32c465d03cfefac69374?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/36462d1c78910c58ab385b838625744803220a3e",
+      "release_date": "2013-12-01"
+    },
+    {
+      "featuredArtist": "Michel Teló",
+      "featuredArtistId": "1sDVuztNhGcetCLChkleDA",
+      "trackName": "Flash - Ao Vivo",
+      "trackId": "7fkxAKpYKRu9CZe35s620Q",
+      "preview": "https://p.scdn.co/mp3-preview/76396f568fafc1fb2c6810d2fdc89bef5762e3d9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/36462d1c78910c58ab385b838625744803220a3e",
+      "release_date": "2013-12-01"
+    },
+    {
+      "featuredArtist": "Humberto & Ronaldo",
+      "featuredArtistId": "1zEo6Fk1iaaOYFlFPBHCFn",
+      "trackName": "Vou Te Merecer - Ao Vivo",
+      "trackId": "6Gf8V2gZj6IVMF1sJqHBGJ",
+      "preview": "https://p.scdn.co/mp3-preview/cc70dee488b0027391cdbaa7812847bff27b2bf8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/36462d1c78910c58ab385b838625744803220a3e",
+      "release_date": "2013-12-01"
+    },
+    {
+      "featuredArtist": "Mateus",
+      "featuredArtistId": "2ygYjjjQ92onXh9nWhbfRh",
+      "trackName": "Eu Tentei (Acústico) - Ao Vivo",
+      "trackId": "5BJKY9mvCI6gkbMNVNfLsV",
+      "preview": "https://p.scdn.co/mp3-preview/369724e3dadfefd9a15e18d58cb017f18301de74?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/36462d1c78910c58ab385b838625744803220a3e",
+      "release_date": "2013-12-01"
+    },
+    {
+      "featuredArtist": "Luan Santana",
+      "featuredArtistId": "3qvcCP2J0fWi0m0uQDUf6r",
+      "trackName": "Você Me Dominou - Ao Vivo",
+      "trackId": "2JNrwDDTSsy1D4nsbecry6",
+      "preview": "https://p.scdn.co/mp3-preview/49a695c21acd87d6fa343772e05c746aedc9b38a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/36462d1c78910c58ab385b838625744803220a3e",
+      "release_date": "2013-12-01"
+    },
+    {
+      "featuredArtist": "MC Kevinho",
+      "featuredArtistId": "1mXAhKnZEdF6rotyyd4GBi",
+      "trackName": "Deixa Ela Beijar",
+      "trackId": "7q5agbUOzZnVF4Yes3AD7I",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6d3a7cd33520072a1e68fd1cebe22fc59de9777",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Matheus Aleixo",
+      "featuredArtistId": "4qgcCtVAAFoOaF62FlLaB8",
+      "trackName": "Nessas Horas - Matheus Aleixo e Lucas Santos Remix",
+      "trackId": "0TeEqUba2MPQToEm2ybQeO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/931ceabd857de90ca65cb276939087028ffc2740",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Lucas Santos",
+      "featuredArtistId": "216ebrw2DF5jcgmTR06rtR",
+      "trackName": "Nessas Horas - Matheus Aleixo e Lucas Santos Remix",
+      "trackId": "0TeEqUba2MPQToEm2ybQeO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/931ceabd857de90ca65cb276939087028ffc2740",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Alok",
+      "featuredArtistId": "0NGAZxHanS9e0iNHpR8f2W",
+      "trackName": "Villamix (Suave)",
+      "trackId": "0fh1MI1FLtcabwSEiD2mJw",
+      "preview": "https://p.scdn.co/mp3-preview/59649aba51edd650b3a31674b5ea0ebcd01f9e61?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3e5a1841527b714c00f28c3347bcdc917567b69b",
+      "release_date": "2017-07-28"
+    }
+  ]
+}

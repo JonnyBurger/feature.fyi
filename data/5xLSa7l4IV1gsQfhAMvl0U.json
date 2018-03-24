@@ -1,0 +1,95 @@
+{
+  "artistName": "B.B. King",
+  "features": [
+    {
+      "featuredArtist": "Unknown Artist",
+      "featuredArtistId": "74Ch11L4833kZ9VfyziR3K",
+      "trackName": "Sweet Sixteen",
+      "trackId": "79RjKBXRBpqNX41nAfAgxS",
+      "preview": "https://p.scdn.co/mp3-preview/7e71d37d7e5d800f0ddd4bde0c2e4b571be680cf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8cb846c52400198b50c9479fad44146fb45ee220",
+      "release_date": "2015-10-29"
+    },
+    {
+      "featuredArtist": "Bobby \"Blue\" Bland",
+      "featuredArtistId": "48nwxUvPJZkm8uPa7xMzmj",
+      "trackName": "It's My Own Fault",
+      "trackId": "6FQll7bkDb9XPgXdBedutx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/78e5951f8cb03bdc30cd16ae0f583e237e091b1e",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "Buddy Guy",
+      "featuredArtistId": "2gCsNOpiBaMNh20jQ5prf0",
+      "trackName": "I Pity the Fool",
+      "trackId": "67OVgu5sQppYNfS9y7jZ1a",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/78e5951f8cb03bdc30cd16ae0f583e237e091b1e",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "Joe Louis Walker",
+      "featuredArtistId": "5MPJKwuEzyWgfueKrogllD",
+      "trackName": "T-Bone Shuffle (feat. Joe Louis Walker)",
+      "trackId": "39ryA5O62Uun6QG3vhV2UL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/78e5951f8cb03bdc30cd16ae0f583e237e091b1e",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "Robert Cray",
+      "featuredArtistId": "6eMlKSBFAoXVJLoeHmwKEj",
+      "trackName": "Playin' With My Friends (feat. Robert Cray)",
+      "trackId": "4UHN6l5LbeuO2v2jzEYMQv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/78e5951f8cb03bdc30cd16ae0f583e237e091b1e",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "Count Basie Orchestra",
+      "featuredArtistId": "2Hn9fch2OLB5jZuEAVjTCe",
+      "trackName": "Everyday I Have The Blues",
+      "trackId": "4CsJdZ7fGF9ezcuvRToKxw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1f9ed10265a56196bbd2f840fbd18c29cbe3b11a",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Ms. Martha King",
+      "featuredArtistId": "3jF771baCcz5GnBuLhe8uH",
+      "trackName": "Miss Martha King",
+      "trackId": "55z3A8kRWgYnpjUANG7Qt3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/facae7ff7b0ea1b3d1ee3ef1098d9e5bdda09536",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "The Crusaders",
+      "featuredArtistId": "3Bhgbs9kIwl8SuU0eIqN6b",
+      "trackName": "Hold On (I Feel Our Love Is Changing)",
+      "trackId": "1dsJsvWA8bkTAJkPwZkuZx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/facae7ff7b0ea1b3d1ee3ef1098d9e5bdda09536",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "U2",
+      "featuredArtistId": "51Blml2LZPmy7TTiAg47vQ",
+      "trackName": "When Love Comes To Town",
+      "trackId": "3xUaFqAIK5aLNJzo526fjh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/facae7ff7b0ea1b3d1ee3ef1098d9e5bdda09536",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Eric Clapton",
+      "featuredArtistId": "6PAt558ZEZl0DmdXlnjMgD",
+      "trackName": "Riding With The King",
+      "trackId": "69t1OS2MQFMUQLuRK1ZoYe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/facae7ff7b0ea1b3d1ee3ef1098d9e5bdda09536",
+      "release_date": "2012-01-01"
+    }
+  ]
+}

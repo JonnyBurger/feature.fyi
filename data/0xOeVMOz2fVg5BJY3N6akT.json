@@ -1,0 +1,23 @@
+{
+  "artistName": "Jaden Smith",
+  "features": [
+    {
+      "featuredArtist": "A$AP Rocky",
+      "featuredArtistId": "13ubrt8QOOCPljQ2FL1Kca",
+      "trackName": "Breakfast (feat. A$AP Rocky)",
+      "trackId": "08GMwsvnrVZqBDE9djqAia",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cb6a0a80a409926bb9bf976bb19cc2b299e6f3fd",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Raury",
+      "featuredArtistId": "2PU4qFehXQF7WnlFsJpBiJ",
+      "trackName": "Falcon (feat. Raury)",
+      "trackId": "4hai7Z8BgLKtPpbk7eF5IR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cb6a0a80a409926bb9bf976bb19cc2b299e6f3fd",
+      "release_date": "2017-11-17"
+    }
+  ]
+}

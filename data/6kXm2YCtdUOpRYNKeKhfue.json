@@ -1,0 +1,23 @@
+{
+  "artistName": "Ryan Gosling",
+  "features": [
+    {
+      "featuredArtist": "Emma Stone",
+      "featuredArtistId": "68Uwx1d3EbjDJhYsLjqvIq",
+      "trackName": "City Of Stars - Hollywood Remix",
+      "trackId": "5GUZfJ58XYGTMrnciBF0Xr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc0e4ccfff12166e8c038b4673968afa7bb4054d",
+      "release_date": "2017-02-24"
+    },
+    {
+      "featuredArtist": "Justin Hurwitz",
+      "featuredArtistId": "2snm3HmsnDUDxbIChdl2Oj",
+      "trackName": "City Of Stars / May Finally Come True",
+      "trackId": "7g2TPRMeSFVvmsiOn3KdBE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/654d093296e130b4e71cfa0b5b47a0895226a1ff",
+      "release_date": "2017-02-24"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "artistName": "Djavan",
+  "features": [
+    {
+      "featuredArtist": "Cássia Eller",
+      "featuredArtistId": "10naVTwNjE50daQVrN0bXh",
+      "trackName": "Milagreiro",
+      "trackId": "0YWlQ9gq2q3KBm9J5mmRIO",
+      "preview": "https://p.scdn.co/mp3-preview/9667b78cfde6cad9e596d43eb5d0dea82dbeb4b6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1ab16385f6c6e1ce6387085e52d4f12f62c3dce8",
+      "release_date": "2001"
+    },
+    {
+      "featuredArtist": "Marcus Miller",
+      "featuredArtistId": "6fmq5mv6HnduZdlTOEYBC9",
+      "trackName": "Além de Amar",
+      "trackId": "1eJnS2SB7awo5RmkO9CuPU",
+      "preview": "https://p.scdn.co/mp3-preview/7f5e90ac982e25344671896501bbfba5bfcf61af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1ab16385f6c6e1ce6387085e52d4f12f62c3dce8",
+      "release_date": "2001"
+    },
+    {
+      "featuredArtist": "Adoniran Barbosa",
+      "featuredArtistId": "7vTlV3ajnMxl5l0ahupUeP",
+      "trackName": "Aguenta a Mão, João - feat. Djavan",
+      "trackId": "4M0rxavK4j74VRHwlVdeDC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ceb438397bfa9222182df43ce52db0f5fc9b69e2",
+      "release_date": "2000"
+    }
+  ]
+}

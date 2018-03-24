@@ -1,0 +1,59 @@
+{
+  "artistName": "Maren Morris",
+  "features": [
+    {
+      "featuredArtist": "Zedd",
+      "featuredArtistId": "2qxJFvFYMEDqd7ui6kSAcq",
+      "trackName": "The Middle",
+      "trackId": "2ARqIya5NAuvFVHSN3bL0m",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3757dc06d7fa51f0fa238b7feb0cd3382502db0f",
+      "release_date": "2018-01-23"
+    },
+    {
+      "featuredArtist": "Grey",
+      "featuredArtistId": "4lDBihdpMlOalxy1jkUbPl",
+      "trackName": "The Middle",
+      "trackId": "2ARqIya5NAuvFVHSN3bL0m",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3757dc06d7fa51f0fa238b7feb0cd3382502db0f",
+      "release_date": "2018-01-23"
+    },
+    {
+      "featuredArtist": "Vince Gill",
+      "featuredArtistId": "3IhWQSrLj8EJjdvjFTpCyo",
+      "trackName": "Dear Hate",
+      "trackId": "7zOoHxDt1duHL8czY7o7ab",
+      "preview": "https://p.scdn.co/mp3-preview/e82aab24039e83da8ee0cdd10bf4097c41339ae9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e196e2899a886888b20db5ea97c967375fc6f1a",
+      "release_date": "2017-10-03"
+    },
+    {
+      "featuredArtist": "Thomas Rhett",
+      "featuredArtistId": "6x2LnllRG5uGarZMsD4iO8",
+      "trackName": "Craving You",
+      "trackId": "2z1vhhWeXr7rn0ASqKSo5H",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7f245edd2fb8c4fa2a0bb07dff06c9bd0bce1ff5",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Niall Horan",
+      "featuredArtistId": "1Hsdzj7Dlq2I7tHP7501T4",
+      "trackName": "Seeing Blind",
+      "trackId": "1CxLWO9XW1aK4yv7zViVdn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ba46318025b0a89163deb083806643e75b039a72",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "AIMP Nashville",
+      "featuredArtistId": "1ZErafHGtMZeSem9789LMo",
+      "trackName": "Rich (feat. Maren Morris)",
+      "trackId": "0MrUYdswBJIUh7qi4iOTO9",
+      "preview": "https://p.scdn.co/mp3-preview/5f51e185dd2c2bf399232b5fe673ebfb09b964a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4dd18c3f51c8044d74048db84ff8f20dad228f46",
+      "release_date": "2017-05-04"
+    }
+  ]
+}

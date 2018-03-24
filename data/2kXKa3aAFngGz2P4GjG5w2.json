@@ -1,0 +1,50 @@
+{
+  "artistName": "SCH",
+  "features": [
+    {
+      "featuredArtist": "Lacrim",
+      "featuredArtistId": "7DUTsWY3RBd64vh8UtgtYA",
+      "trackName": "Ca va",
+      "trackId": "4zUK2F46GuIjAA0mmlTKJh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/caa87c67e99fc9344bf15cafdeeb7afd8247823c",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Sfera Ebbasta",
+      "featuredArtistId": "23TFHmajVfBtlRx5MXqgoz",
+      "trackName": "Cartine Cartier",
+      "trackId": "62GsHKWBpyjeq0fuoQjgwL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cc66cc53ff78d90589f0223f2e6a768676e2c9e",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Sadek",
+      "featuredArtistId": "63MCBZRiUdnqRsAOJwijiB",
+      "trackName": "Pas de manières",
+      "trackId": "1hE8svxjmy00ArT2s2HtCu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b3ce62324b802c27505f843ae1570e1a1a563428",
+      "release_date": "2015-11-13"
+    },
+    {
+      "featuredArtist": "Lapso",
+      "featuredArtistId": "4kCfeQJtfCikfn5biFC2FT",
+      "trackName": "Pas de manières",
+      "trackId": "1hE8svxjmy00ArT2s2HtCu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b3ce62324b802c27505f843ae1570e1a1a563428",
+      "release_date": "2015-11-13"
+    },
+    {
+      "featuredArtist": "Rim'K",
+      "featuredArtistId": "2eh8cEKZk4VeruUrGq748D",
+      "trackName": "Rien de lavable",
+      "trackId": "1qJ2SCY2olNauDpD7kmop9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ca4215c22b200a3a56d7e804e7b79d99f9cb1db7",
+      "release_date": "2017-03-03"
+    }
+  ]
+}

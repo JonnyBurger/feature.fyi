@@ -1,0 +1,185 @@
+{
+  "artistName": "Kanye West",
+  "features": [
+    {
+      "featuredArtist": "God",
+      "featuredArtistId": "5wRpXhZHeCxsz9LMR2EZH3",
+      "trackName": "I Am A God",
+      "trackId": "0hhNR8YFUEYNhWNuSoMErM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3d003b7bb9e93a101d412f475fe2d1e7df62b3c7",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Kid Cudi",
+      "featuredArtistId": "0fA0VVWsXO9YnASrzqfmYu",
+      "trackName": "Gorgeous",
+      "trackId": "1yhQGEykn7ZTNLwcIjOAwZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52995daccd814da6e73ac594e0eeabb55beecfb0",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Raekwon",
+      "featuredArtistId": "2yQf6b8hxahZaT5dHlWaB1",
+      "trackName": "Gorgeous",
+      "trackId": "1yhQGEykn7ZTNLwcIjOAwZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52995daccd814da6e73ac594e0eeabb55beecfb0",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "JAY Z",
+      "featuredArtistId": "3nFkdlSjzX9mRTtwJOzDYB",
+      "trackName": "Monster",
+      "trackId": "5jXNOgH5A7yI76BU9kaP6N",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52995daccd814da6e73ac594e0eeabb55beecfb0",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Rick Ross",
+      "featuredArtistId": "1sBkRIssrMs1AbVkOJbc7a",
+      "trackName": "Monster",
+      "trackId": "5jXNOgH5A7yI76BU9kaP6N",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52995daccd814da6e73ac594e0eeabb55beecfb0",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Nicki Minaj",
+      "featuredArtistId": "0hCNtLu0JehylgoiP8L4Gh",
+      "trackName": "Monster",
+      "trackId": "5jXNOgH5A7yI76BU9kaP6N",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52995daccd814da6e73ac594e0eeabb55beecfb0",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Bon Iver",
+      "featuredArtistId": "4LEiUm1SRbFMgfqnQTwUbQ",
+      "trackName": "Monster",
+      "trackId": "5jXNOgH5A7yI76BU9kaP6N",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52995daccd814da6e73ac594e0eeabb55beecfb0",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Pusha T",
+      "featuredArtistId": "0ONHkAv9pCAFxb0zJwDNTy",
+      "trackName": "So Appalled",
+      "trackId": "3VZc8N6q192Z0mKIoGQtRP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52995daccd814da6e73ac594e0eeabb55beecfb0",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "CyHi The Prynce",
+      "featuredArtistId": "18HVMQsV3tINaTyzT5UIjH",
+      "trackName": "So Appalled",
+      "trackId": "3VZc8N6q192Z0mKIoGQtRP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52995daccd814da6e73ac594e0eeabb55beecfb0",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Swizz Beatz",
+      "featuredArtistId": "2cADQgiLMjNhbsfeN52Bf3",
+      "trackName": "So Appalled",
+      "trackId": "3VZc8N6q192Z0mKIoGQtRP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52995daccd814da6e73ac594e0eeabb55beecfb0",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "RZA",
+      "featuredArtistId": "4iCwCMnqsNZ6atvRiADgtn",
+      "trackName": "So Appalled",
+      "trackId": "3VZc8N6q192Z0mKIoGQtRP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52995daccd814da6e73ac594e0eeabb55beecfb0",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "John Legend",
+      "featuredArtistId": "5y2Xq6xcjJb2jVM54GHK3t",
+      "trackName": "Blame Game",
+      "trackId": "48HUDhfl4ssbc5xuIrZ6UD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52995daccd814da6e73ac594e0eeabb55beecfb0",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "T-Pain",
+      "featuredArtistId": "3aQeKQSyrW4qWr35idm0cy",
+      "trackName": "Good Life",
+      "trackId": "58ZTLQn8qC3KrQdIbFCNrh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9f506a47a98bf255bd0ee8f241366cecdcb33b76",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Lil Wayne",
+      "featuredArtistId": "55Aa2cqylxrFIXC767Z865",
+      "trackName": "Barry Bonds",
+      "trackId": "1o6BlHo3LNDfVsmsfVn4of",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9f506a47a98bf255bd0ee8f241366cecdcb33b76",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Mos Def",
+      "featuredArtistId": "0Mz5XE0kb1GBnbLQm2VbcO",
+      "trackName": "Drunk and Hot Girls",
+      "trackId": "4fRzOUTrF7SEZi3i0PFS2R",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9f506a47a98bf255bd0ee8f241366cecdcb33b76",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "DJ Premier",
+      "featuredArtistId": "6GEykX11lQqp92UVOQQCC7",
+      "trackName": "Everything I Am",
+      "trackId": "4obw0Xx6EAIJ21DEowOSsT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9f506a47a98bf255bd0ee8f241366cecdcb33b76",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Chris Martin",
+      "featuredArtistId": "0LQoZQIV0mIs0y0XQb0Sw2",
+      "trackName": "Homecoming",
+      "trackId": "6wy2HQeZGTyyNHxLM7kRRJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9f506a47a98bf255bd0ee8f241366cecdcb33b76",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Albe Back",
+      "featuredArtistId": "1i4q97Tz8xmGWJps51J7WT",
+      "trackName": "Good Night - Bonus Track",
+      "trackId": "2l3LY8dyswk0LxoVuNQ26u",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9f506a47a98bf255bd0ee8f241366cecdcb33b76",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Jeezy",
+      "featuredArtistId": "4yBK75WVCQXej1p04GWqxH",
+      "trackName": "Amazing",
+      "trackId": "7ygvoc9UtzQyhg7dJmfEki",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ff309a4e2920c338737f3d11996315ec47d3e920",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Mr Hudson",
+      "featuredArtistId": "1zV9UjTUevjp5VUddqIUUn",
+      "trackName": "Paranoid",
+      "trackId": "5O7CyrJfufo4eQS0IJi8w6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ff309a4e2920c338737f3d11996315ec47d3e920",
+      "release_date": "2008-01-01"
+    }
+  ]
+}

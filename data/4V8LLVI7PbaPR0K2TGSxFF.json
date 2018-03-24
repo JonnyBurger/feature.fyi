@@ -1,0 +1,419 @@
+{
+  "artistName": "Tyler, The Creator",
+  "features": [
+    {
+      "featuredArtist": "Rex Orange County",
+      "featuredArtistId": "7pbDxGE6nQSZVfiFdq9lOL",
+      "trackName": "Foreword",
+      "trackId": "33i3xxHB4YSYGYbtJrwwO8",
+      "preview": "https://p.scdn.co/mp3-preview/1f4b5e8c8fd2f0afa00311695a2f567e2c178546?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d68defc78c8c70b3fb733e8ac9892cd0455fdddc",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Frank Ocean",
+      "featuredArtistId": "2h93pZq0e7k5yf4dywlkpM",
+      "trackName": "Where This Flower Blooms",
+      "trackId": "6KuXb26rHuRy3ZDse1VRmx",
+      "preview": "https://p.scdn.co/mp3-preview/bb4bc51e1bd0b4cb806a108f6d68c8e42ac5a659?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d68defc78c8c70b3fb733e8ac9892cd0455fdddc",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Kali Uchis",
+      "featuredArtistId": "1U1el3k54VvEUzo3ybLPlM",
+      "trackName": "See You Again",
+      "trackId": "7KA4W4McWYRpgf0fWsJZWB",
+      "preview": "https://p.scdn.co/mp3-preview/e9e8d9fce04ab59c61ed9708d9bee03910d5e205?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d68defc78c8c70b3fb733e8ac9892cd0455fdddc",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "A$AP Rocky",
+      "featuredArtistId": "13ubrt8QOOCPljQ2FL1Kca",
+      "trackName": "Who Dat Boy",
+      "trackId": "21yRtB6B8EMounImAfHRCP",
+      "preview": "https://p.scdn.co/mp3-preview/b150fc166941abb97b0c12d622ddbdcd54b00d11?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d68defc78c8c70b3fb733e8ac9892cd0455fdddc",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Jaden Smith",
+      "featuredArtistId": "0xOeVMOz2fVg5BJY3N6akT",
+      "trackName": "Pothole",
+      "trackId": "5SxlUF7J8tyFIEF22EomeP",
+      "preview": "https://p.scdn.co/mp3-preview/add27c46555b937ce7139239e3e1f173be0db030?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d68defc78c8c70b3fb733e8ac9892cd0455fdddc",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Estelle",
+      "featuredArtistId": "5T0MSzX9RC5NA6gAI6irSn",
+      "trackName": "Garden Shed",
+      "trackId": "6ACiYjq5Q7e6BlhZEHz7cd",
+      "preview": "https://p.scdn.co/mp3-preview/f5a01310988bf8d24e9c398621d5a9f3a8586e73?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d68defc78c8c70b3fb733e8ac9892cd0455fdddc",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Anna Of The North",
+      "featuredArtistId": "1mSJCvDX0W7Dn7S9C6vmvI",
+      "trackName": "Boredom",
+      "trackId": "5WNYg3usc6H8N3MBEp4zVk",
+      "preview": "https://p.scdn.co/mp3-preview/ee5750bdd065b2bab155601ca00994bcfeee1537?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d68defc78c8c70b3fb733e8ac9892cd0455fdddc",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Steve Lacy",
+      "featuredArtistId": "57vWImR43h4CaDao012Ofp",
+      "trackName": "911 / Mr. Lonely",
+      "trackId": "4bEcoz1OcfMgUbp2ft8ieQ",
+      "preview": "https://p.scdn.co/mp3-preview/002eb6aa7a732e4c44dc98d2a20f0828995b594a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d68defc78c8c70b3fb733e8ac9892cd0455fdddc",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Lil Wayne",
+      "featuredArtistId": "55Aa2cqylxrFIXC767Z865",
+      "trackName": "Droppin' Seeds",
+      "trackId": "39u2PsqrAZpZ0KPx6CjasV",
+      "preview": "https://p.scdn.co/mp3-preview/b935e2a6d96a9375d876faef784a2c40c8a2b18b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d68defc78c8c70b3fb733e8ac9892cd0455fdddc",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Cole Alexander",
+      "featuredArtistId": "1DB04hRRMsK7frWSjxQOxn",
+      "trackName": "DEATHCAMP",
+      "trackId": "1dXYBALYTj3AMxa8hgiQhA",
+      "preview": "https://p.scdn.co/mp3-preview/b1db366fe47248d6c395194d442ace1587b193dd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/804ab1ee507cdada99c9f59612749813addbbcaf",
+      "release_date": "2015-04-13"
+    },
+    {
+      "featuredArtist": "Shane Powers",
+      "featuredArtistId": "6nmXUacZtfhZEgnV8n4jCU",
+      "trackName": "BUFFALO",
+      "trackId": "1qkPQxOTLFmx3bwUOV8Kzw",
+      "preview": "https://p.scdn.co/mp3-preview/b0d492263440c302f2175bda5338d6aca9137da7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/804ab1ee507cdada99c9f59612749813addbbcaf",
+      "release_date": "2015-04-13"
+    },
+    {
+      "featuredArtist": "Syd",
+      "featuredArtistId": "3jk39CGeaaSO3FPKNx1RUx",
+      "trackName": "PILOT",
+      "trackId": "332Yig3HD2IdDigzlf5Ndl",
+      "preview": "https://p.scdn.co/mp3-preview/0cb5b466a187a21071ea2e9c66d7103d8c160727?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/804ab1ee507cdada99c9f59612749813addbbcaf",
+      "release_date": "2015-04-13"
+    },
+    {
+      "featuredArtist": "Chaz Bundick",
+      "featuredArtistId": "57ZTzIn5GLxNLzWgnTTcHj",
+      "trackName": "RUN",
+      "trackId": "586xfl7VsCFPD9z5iJoKEp",
+      "preview": "https://p.scdn.co/mp3-preview/143a295f5e30d4c43e848fb606ddc320a6e3e8d9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/804ab1ee507cdada99c9f59612749813addbbcaf",
+      "release_date": "2015-04-13"
+    },
+    {
+      "featuredArtist": "ScHoolboy Q",
+      "featuredArtistId": "5IcR3N7QB1j6KBL8eImZ8m",
+      "trackName": "RUN",
+      "trackId": "586xfl7VsCFPD9z5iJoKEp",
+      "preview": "https://p.scdn.co/mp3-preview/143a295f5e30d4c43e848fb606ddc320a6e3e8d9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/804ab1ee507cdada99c9f59612749813addbbcaf",
+      "release_date": "2015-04-13"
+    },
+    {
+      "featuredArtist": "Roy Ayers",
+      "featuredArtistId": "6R9Mv0bgGE4Tqxna1q5Mrj",
+      "trackName": "FIND YOUR WINGS",
+      "trackId": "7er0EUMY653mxZ1NVD9mwQ",
+      "preview": "https://p.scdn.co/mp3-preview/b102604d5eb4f99246cf51b7c0109f5998dab6b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/804ab1ee507cdada99c9f59612749813addbbcaf",
+      "release_date": "2015-04-13"
+    },
+    {
+      "featuredArtist": "Wanya Morris",
+      "featuredArtistId": "1BUKOA8zRAhTbh3xPE6gDm",
+      "trackName": "BLOW MY LOAD",
+      "trackId": "5DXJ7agkkKytxX8Z2x1fY3",
+      "preview": "https://p.scdn.co/mp3-preview/75fa0928aee4e843c90e42d7b8b9dc89ca8e7eb5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/804ab1ee507cdada99c9f59612749813addbbcaf",
+      "release_date": "2015-04-13"
+    },
+    {
+      "featuredArtist": "Dâm-Funk",
+      "featuredArtistId": "1AEcpjnSCmm53IBZQo3g9z",
+      "trackName": "BLOW MY LOAD",
+      "trackId": "5DXJ7agkkKytxX8Z2x1fY3",
+      "preview": "https://p.scdn.co/mp3-preview/75fa0928aee4e843c90e42d7b8b9dc89ca8e7eb5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/804ab1ee507cdada99c9f59612749813addbbcaf",
+      "release_date": "2015-04-13"
+    },
+    {
+      "featuredArtist": "Austin Feinstein",
+      "featuredArtistId": "5pJ6edBo4sBzfyJpJW5UdS",
+      "trackName": "BLOW MY LOAD",
+      "trackId": "5DXJ7agkkKytxX8Z2x1fY3",
+      "preview": "https://p.scdn.co/mp3-preview/75fa0928aee4e843c90e42d7b8b9dc89ca8e7eb5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/804ab1ee507cdada99c9f59612749813addbbcaf",
+      "release_date": "2015-04-13"
+    },
+    {
+      "featuredArtist": "Aaron Shaw",
+      "featuredArtistId": "0qPySm8H94HasHkSadRyie",
+      "trackName": "2SEATER",
+      "trackId": "6Xw3iWrQKgArwlRhVuU9CK",
+      "preview": "https://p.scdn.co/mp3-preview/8d0edb5cb008e525da1aa63a97d34d93aa20f22f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/804ab1ee507cdada99c9f59612749813addbbcaf",
+      "release_date": "2015-04-13"
+    },
+    {
+      "featuredArtist": "Samantha Nelson",
+      "featuredArtistId": "3fzwnXOacJxjIFyGEr2WEN",
+      "trackName": "2SEATER",
+      "trackId": "6Xw3iWrQKgArwlRhVuU9CK",
+      "preview": "https://p.scdn.co/mp3-preview/8d0edb5cb008e525da1aa63a97d34d93aa20f22f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/804ab1ee507cdada99c9f59612749813addbbcaf",
+      "release_date": "2015-04-13"
+    },
+    {
+      "featuredArtist": "Charlie Wilson",
+      "featuredArtistId": "6CxZzQFUTM6AzgluGwtq5w",
+      "trackName": "FUCKING YOUNG / PERFECT",
+      "trackId": "46CA1H0T1r7u5lDUtVveAh",
+      "preview": "https://p.scdn.co/mp3-preview/8cce64260f9e1a859d6f6ab09f6aa962446d4ad5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/804ab1ee507cdada99c9f59612749813addbbcaf",
+      "release_date": "2015-04-13"
+    },
+    {
+      "featuredArtist": "Kanye West",
+      "featuredArtistId": "5K4W6rqBFWDnAN6FQUkS6x",
+      "trackName": "SMUCKERS",
+      "trackId": "078C2jXg7XsMgW78Gfx1JA",
+      "preview": "https://p.scdn.co/mp3-preview/ba1aa8d3c3ec31d24ee07ed66e939ccf07873d7c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/804ab1ee507cdada99c9f59612749813addbbcaf",
+      "release_date": "2015-04-13"
+    },
+    {
+      "featuredArtist": "Pharrell Williams",
+      "featuredArtistId": "2RdwBSPQiwcmiDo9kixcl8",
+      "trackName": "KEEP DA O'S",
+      "trackId": "7zdanauvITJaq9OE7bBz0c",
+      "preview": "https://p.scdn.co/mp3-preview/25c1c127c5a9be90b367319fc1aa17cca1f9f9fc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/804ab1ee507cdada99c9f59612749813addbbcaf",
+      "release_date": "2015-04-13"
+    },
+    {
+      "featuredArtist": "Coco O.",
+      "featuredArtistId": "4cc6PmIfhsUCGJUU9QsxEy",
+      "trackName": "KEEP DA O'S",
+      "trackId": "7zdanauvITJaq9OE7bBz0c",
+      "preview": "https://p.scdn.co/mp3-preview/25c1c127c5a9be90b367319fc1aa17cca1f9f9fc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/804ab1ee507cdada99c9f59612749813addbbcaf",
+      "release_date": "2015-04-13"
+    },
+    {
+      "featuredArtist": "Alice Smith",
+      "featuredArtistId": "4srikj7R58tanh2S0FpoVw",
+      "trackName": "OKAGA, CA",
+      "trackId": "2CnrJj6Jz4vSe5E1hsWtpg",
+      "preview": "https://p.scdn.co/mp3-preview/585e5d0bfe2285b01615821fd06875f661a5c299?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/804ab1ee507cdada99c9f59612749813addbbcaf",
+      "release_date": "2015-04-13"
+    },
+    {
+      "featuredArtist": "Leon Ware",
+      "featuredArtistId": "3DwcX6M6GF3KGWbVmfNp8G",
+      "trackName": "OKAGA, CA",
+      "trackId": "2CnrJj6Jz4vSe5E1hsWtpg",
+      "preview": "https://p.scdn.co/mp3-preview/585e5d0bfe2285b01615821fd06875f661a5c299?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/804ab1ee507cdada99c9f59612749813addbbcaf",
+      "release_date": "2015-04-13"
+    },
+    {
+      "featuredArtist": "Clem Creevy",
+      "featuredArtistId": "0B5GFW22aAZnJHd9AdVQOS",
+      "trackName": "OKAGA, CA",
+      "trackId": "2CnrJj6Jz4vSe5E1hsWtpg",
+      "preview": "https://p.scdn.co/mp3-preview/585e5d0bfe2285b01615821fd06875f661a5c299?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/804ab1ee507cdada99c9f59612749813addbbcaf",
+      "release_date": "2015-04-13"
+    },
+    {
+      "featuredArtist": "Hodgy",
+      "featuredArtistId": "4sXi6Uq6IzBaLfFi8wlb3I",
+      "trackName": "Jamba",
+      "trackId": "3Z5pXxCb0O6L53vejFHhqQ",
+      "preview": "https://p.scdn.co/mp3-preview/a61bb1f71c2ea0d139d2b64c412d46a80680f550?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d609dc6df4b4dda2041394afb8de35f8f11914c",
+      "release_date": "2013-04-01"
+    },
+    {
+      "featuredArtist": "Laetitia Sadier",
+      "featuredArtistId": "5s8mrbpjYHWIuGYUzNTpEb",
+      "trackName": "PartyIsntOver/Campfire/Bimmer",
+      "trackId": "04QTBqa3IA4ZAKEuqRPzEH",
+      "preview": "https://p.scdn.co/mp3-preview/1669b0a139c6e1d759ce461f4dd45680e6003f5b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d609dc6df4b4dda2041394afb8de35f8f11914c",
+      "release_date": "2013-04-01"
+    },
+    {
+      "featuredArtist": "Casey Veggies",
+      "featuredArtistId": "0uFc6StTmJBvdHPZFDkdJy",
+      "trackName": "Parking Lot",
+      "trackId": "1UBLglX9fPtTBZSwJj4yVG",
+      "preview": "https://p.scdn.co/mp3-preview/ae28d1d39264179d7ee52e84a6e9fa33c73507cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d609dc6df4b4dda2041394afb8de35f8f11914c",
+      "release_date": "2013-04-01"
+    },
+    {
+      "featuredArtist": "Mike G",
+      "featuredArtistId": "1QdjL34EAib5zndNoqA2ly",
+      "trackName": "Parking Lot",
+      "trackId": "1UBLglX9fPtTBZSwJj4yVG",
+      "preview": "https://p.scdn.co/mp3-preview/ae28d1d39264179d7ee52e84a6e9fa33c73507cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d609dc6df4b4dda2041394afb8de35f8f11914c",
+      "release_date": "2013-04-01"
+    },
+    {
+      "featuredArtist": "Domo Genesis",
+      "featuredArtistId": "6vHBuUxrcpn1do5UaEJ7g6",
+      "trackName": "Rusty",
+      "trackId": "4oQkcfukOHfKsmeoeXQLWC",
+      "preview": "https://p.scdn.co/mp3-preview/d41201de6c4939b96de528e1f516fdbf831abe86?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d609dc6df4b4dda2041394afb8de35f8f11914c",
+      "release_date": "2013-04-01"
+    },
+    {
+      "featuredArtist": "Earl Sweatshirt",
+      "featuredArtistId": "3A5tHz1SfngyOZM2gItYKu",
+      "trackName": "Rusty",
+      "trackId": "4oQkcfukOHfKsmeoeXQLWC",
+      "preview": "https://p.scdn.co/mp3-preview/d41201de6c4939b96de528e1f516fdbf831abe86?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d609dc6df4b4dda2041394afb8de35f8f11914c",
+      "release_date": "2013-04-01"
+    },
+    {
+      "featuredArtist": "Na' kel",
+      "featuredArtistId": "5KvS7q9AHzNev6dXwXYD9Z",
+      "trackName": "Trashwang",
+      "trackId": "2OaPyH3JLuft6iuNFHFJl0",
+      "preview": "https://p.scdn.co/mp3-preview/769c2a965daf7c7b71d4a972154b5ccb92124770?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d609dc6df4b4dda2041394afb8de35f8f11914c",
+      "release_date": "2013-04-01"
+    },
+    {
+      "featuredArtist": "Jasper Dolphin",
+      "featuredArtistId": "50L4k6UGxXZ1h5CzoK9Gqk",
+      "trackName": "Trashwang",
+      "trackId": "2OaPyH3JLuft6iuNFHFJl0",
+      "preview": "https://p.scdn.co/mp3-preview/769c2a965daf7c7b71d4a972154b5ccb92124770?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d609dc6df4b4dda2041394afb8de35f8f11914c",
+      "release_date": "2013-04-01"
+    },
+    {
+      "featuredArtist": "Lucas.",
+      "featuredArtistId": "6z5JGyujI9tfjT4fCwSDJu",
+      "trackName": "Trashwang",
+      "trackId": "2OaPyH3JLuft6iuNFHFJl0",
+      "preview": "https://p.scdn.co/mp3-preview/769c2a965daf7c7b71d4a972154b5ccb92124770?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d609dc6df4b4dda2041394afb8de35f8f11914c",
+      "release_date": "2013-04-01"
+    },
+    {
+      "featuredArtist": "L-Boy",
+      "featuredArtistId": "6VOG1fNK3bKEcpyq9xuuxa",
+      "trackName": "Trashwang",
+      "trackId": "2OaPyH3JLuft6iuNFHFJl0",
+      "preview": "https://p.scdn.co/mp3-preview/769c2a965daf7c7b71d4a972154b5ccb92124770?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d609dc6df4b4dda2041394afb8de35f8f11914c",
+      "release_date": "2013-04-01"
+    },
+    {
+      "featuredArtist": "TACO",
+      "featuredArtistId": "3a9LDII7qRmrGXplLf3fZu",
+      "trackName": "Trashwang",
+      "trackId": "2OaPyH3JLuft6iuNFHFJl0",
+      "preview": "https://p.scdn.co/mp3-preview/769c2a965daf7c7b71d4a972154b5ccb92124770?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d609dc6df4b4dda2041394afb8de35f8f11914c",
+      "release_date": "2013-04-01"
+    },
+    {
+      "featuredArtist": "Left Brain",
+      "featuredArtistId": "4vSjwZEchIL4yA0uLzoNjr",
+      "trackName": "Trashwang",
+      "trackId": "2OaPyH3JLuft6iuNFHFJl0",
+      "preview": "https://p.scdn.co/mp3-preview/769c2a965daf7c7b71d4a972154b5ccb92124770?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d609dc6df4b4dda2041394afb8de35f8f11914c",
+      "release_date": "2013-04-01"
+    },
+    {
+      "featuredArtist": "Lee Spielman",
+      "featuredArtistId": "6euAIqQHNU8VoCMUykrJdd",
+      "trackName": "Trashwang",
+      "trackId": "2OaPyH3JLuft6iuNFHFJl0",
+      "preview": "https://p.scdn.co/mp3-preview/769c2a965daf7c7b71d4a972154b5ccb92124770?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d609dc6df4b4dda2041394afb8de35f8f11914c",
+      "release_date": "2013-04-01"
+    },
+    {
+      "featuredArtist": "Coco Owino",
+      "featuredArtistId": "1DajYN827JuEA1bE1VkJnR",
+      "trackName": "Treehome95",
+      "trackId": "2vLwhcsvRd1f2ETft1kWDN",
+      "preview": "https://p.scdn.co/mp3-preview/9e691108ca67d1d671d188719e333baf82d75d4f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d609dc6df4b4dda2041394afb8de35f8f11914c",
+      "release_date": "2013-04-01"
+    },
+    {
+      "featuredArtist": "Erykah Badu",
+      "featuredArtistId": "7IfculRW2WXyzNQ8djX8WX",
+      "trackName": "Treehome95",
+      "trackId": "2vLwhcsvRd1f2ETft1kWDN",
+      "preview": "https://p.scdn.co/mp3-preview/9e691108ca67d1d671d188719e333baf82d75d4f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d609dc6df4b4dda2041394afb8de35f8f11914c",
+      "release_date": "2013-04-01"
+    },
+    {
+      "featuredArtist": "Bootsy Collins",
+      "featuredArtistId": "5K0rbdBrs2tNXe5LeWMATT",
+      "trackName": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
+      "trackId": "63FiNJq6AkZTgjEggmcX4j",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3640ee1dbab1205086e510dd94aa6482272946e5",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Waka Flocka Flame",
+      "featuredArtistId": "6f4XkbvYlXMH0QgVRzW0sM",
+      "trackName": "I'm A Hater (feat. Tyler The Creator & D Dash)",
+      "trackId": "2yeomNFPeO6GdEh9IeV0Vi",
+      "preview": "https://p.scdn.co/mp3-preview/a1b126272b41d6757ba62e4886b9b0a9e2709226?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2b7c0e97c898fe108423b8e1bb6db6ae28e8dc62",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "D Dash",
+      "featuredArtistId": "42fEmli5CdBNaBDDQkHgvO",
+      "trackName": "I'm A Hater (feat. Tyler The Creator & D Dash)",
+      "trackId": "2yeomNFPeO6GdEh9IeV0Vi",
+      "preview": "https://p.scdn.co/mp3-preview/a1b126272b41d6757ba62e4886b9b0a9e2709226?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2b7c0e97c898fe108423b8e1bb6db6ae28e8dc62",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "JAY Z",
+      "featuredArtistId": "3nFkdlSjzX9mRTtwJOzDYB",
+      "trackName": "Biking",
+      "trackId": "2q0VexHJirnUPnEOhr2DxK",
+      "preview": "https://p.scdn.co/mp3-preview/35a608d4813f00f58d1c99b018531184d0c1e242?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d693dc8837c944e60528746f13c3a8e076d36dee",
+      "release_date": "2017-04-10"
+    }
+  ]
+}

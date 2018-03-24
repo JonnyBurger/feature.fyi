@@ -1,0 +1,23 @@
+{
+  "artistName": "Heart",
+  "features": [
+    {
+      "featuredArtist": "Royal Philharmonic Orchestra",
+      "featuredArtistId": "0MvSBMGRQJY3mRwIbJsqF1",
+      "trackName": "Heaven - Live",
+      "trackId": "2HHiPnx2dOD7zZ4p91AFPA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6bf61311eb7b43d6a24a4f48320f18e9975b1ae5",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "Sarah McLachlan",
+      "featuredArtistId": "4NgNsOXSwIzXlUIJcpnNUp",
+      "trackName": "Walkin' Good",
+      "trackId": "33YJpoNm67ycJk7EjH9pkW",
+      "preview": "https://p.scdn.co/mp3-preview/9f23e42ddec2f54a1c1afebb2d855136c30f0e38?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bcec01b91ccae96678c798fbfbc4648dc5e990a3",
+      "release_date": "2012-09-28"
+    }
+  ]
+}

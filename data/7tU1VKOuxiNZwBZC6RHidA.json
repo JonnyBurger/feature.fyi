@@ -1,0 +1,329 @@
+{
+  "artistName": "Alexis y Fido",
+  "features": [
+    {
+      "featuredArtist": "Plan B",
+      "featuredArtistId": "5rM8dB5rqWAN4WhQpOHcEy",
+      "trackName": "Salvaje",
+      "trackId": "1FZV0q3kvl9uVk5OOfd85Q",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ca29bed40ea6681ecade8938ce6375714ef0dfcb",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Zion & Lennox",
+      "featuredArtistId": "21451j1KhjAiaYKflxBjr1",
+      "trackName": "Sudao",
+      "trackId": "5WFbd2XLywovrI21j0a70a",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ca29bed40ea6681ecade8938ce6375714ef0dfcb",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "J Alvarez",
+      "featuredArtistId": "6XFITTl7cFTdopDY3lUdlY",
+      "trackName": "Juiciosa",
+      "trackId": "2kLwseIlaFEJDyoicaEYcp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ca29bed40ea6681ecade8938ce6375714ef0dfcb",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Tego Calderon",
+      "featuredArtistId": "3SUT1jjM5hzZj9TLfLZGIP",
+      "trackName": "Aquí Es Que Ehh",
+      "trackId": "2NUNa98fV1nx7w59EfisjC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ca29bed40ea6681ecade8938ce6375714ef0dfcb",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Farruko",
+      "featuredArtistId": "329e4yvIujISKGKz1BZZbO",
+      "trackName": "Ya Era Hora",
+      "trackId": "2PtWUzpG0X2lTKHa3UzU6k",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ec02d2b235a7d9c7b96affd541d701599a0218d8",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Gotay \"El Autentiko\"",
+      "featuredArtistId": "6ieK9Ddas29reReO60on3o",
+      "trackName": "Problemático",
+      "trackId": "6EGlEg1qCSQLsjT8Tuye0b",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ec02d2b235a7d9c7b96affd541d701599a0218d8",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Arcangel",
+      "featuredArtistId": "4SsVbpTthjScTS7U2hmr1X",
+      "trackName": "Algaretismo - Remix",
+      "trackId": "6jFKYSOk7efjSNTd3GNwQH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ec02d2b235a7d9c7b96affd541d701599a0218d8",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "De La Ghetto",
+      "featuredArtistId": "3EiLUeyEcA6fbRPSHkG5kb",
+      "trackName": "Algaretismo - Remix",
+      "trackId": "6jFKYSOk7efjSNTd3GNwQH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ec02d2b235a7d9c7b96affd541d701599a0218d8",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Maluma",
+      "featuredArtistId": "1r4hJ1h58CWwUQe3MxPuau",
+      "trackName": "Imagínate - Remix",
+      "trackId": "3NUhiMPVAzhVm2sITzNKfO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ec02d2b235a7d9c7b96affd541d701599a0218d8",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Toby Love",
+      "featuredArtistId": "72R3RMGmSmzG57R7OUaDaN",
+      "trackName": "No Debe Tocarte",
+      "trackId": "5IR4HDdVPKzuGTIDLx7SIx",
+      "preview": "https://p.scdn.co/mp3-preview/148b15549114557ed485403f8b63b48595c1a6a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4a0a9d10380ab30338ae7e8ad3b81ebe4d4bace9",
+      "release_date": "2014-08-05"
+    },
+    {
+      "featuredArtist": "Tony Dize",
+      "featuredArtistId": "3LKXWvXFWrkwUzJWxzwVpW",
+      "trackName": "Deja Ver",
+      "trackId": "03uUI3sHJHaj5kGpS2zPoT",
+      "preview": "https://p.scdn.co/mp3-preview/7083523e76113c60cbf88cf0f6f2ed9cd3dc4ef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4a0a9d10380ab30338ae7e8ad3b81ebe4d4bace9",
+      "release_date": "2014-08-05"
+    },
+    {
+      "featuredArtist": "Flex",
+      "featuredArtistId": "1TuQmYJdsmdJc48SM3rtV4",
+      "trackName": "Contéstame el Teléfono",
+      "trackId": "2OEvC7Evt3PkZeOJN8DctX",
+      "preview": "https://p.scdn.co/mp3-preview/9f527f6fe9a36cc746206bb5a80dfaf352b3c8a1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4a0a9d10380ab30338ae7e8ad3b81ebe4d4bace9",
+      "release_date": "2014-08-05"
+    },
+    {
+      "featuredArtist": "DJ Chazal",
+      "featuredArtistId": "33Zdvo7qXsgRB9MagJM4NC",
+      "trackName": "Bartender - DJ Chazal Tribal Mix",
+      "trackId": "28L5vTVArBAnlMkRHCfkl3",
+      "preview": "https://p.scdn.co/mp3-preview/79cc62a2fa15336c87d2a7fce17b46333d4cb044?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4a0a9d10380ab30338ae7e8ad3b81ebe4d4bace9",
+      "release_date": "2014-08-05"
+    },
+    {
+      "featuredArtist": "Plan B",
+      "featuredArtistId": "0GSn8RJEGacB93oWvCPfuA",
+      "trackName": "Salvaje",
+      "trackId": "7vEweqNKMAj3wBB7tyLDa8",
+      "preview": "https://p.scdn.co/mp3-preview/84dd065be87f408a2a0341bce2509d5a8bf655b3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7413db7a7c15caf71edc3d9f6170bf1e06480dec",
+      "release_date": "2014-04-01"
+    },
+    {
+      "featuredArtist": "Yomo",
+      "featuredArtistId": "4myAXQmMuS1lZe8T6Y7eBg",
+      "trackName": "Malas Influencias",
+      "trackId": "7ribCpYzwb2WsGWVjyCU96",
+      "preview": "https://p.scdn.co/mp3-preview/9cad4c6df1951e5415e869c8ed3720666dd0f796?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7413db7a7c15caf71edc3d9f6170bf1e06480dec",
+      "release_date": "2014-04-01"
+    },
+    {
+      "featuredArtist": "Franco \"El Gorilla\"",
+      "featuredArtistId": "2biH2I1TvZlIIIc5W14oIJ",
+      "trackName": "Doble Castigo",
+      "trackId": "2SzYpYYwBsxUYFrf0aFLst",
+      "preview": "https://p.scdn.co/mp3-preview/097497ac4f606954619bc2236e6a69d479a56d51?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7413db7a7c15caf71edc3d9f6170bf1e06480dec",
+      "release_date": "2014-04-01"
+    },
+    {
+      "featuredArtist": "Daddy Yankee",
+      "featuredArtistId": "4VMYDCV2IEDYJArk749S6m",
+      "trackName": "Rescate",
+      "trackId": "4lZTzhpL4y1ywLjdUfCDCL",
+      "preview": "https://p.scdn.co/mp3-preview/8dc557536ed99ca88b490de6d0e7052637a3f269?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/678b9c6a1fe7a72fd21560079ee33480d9ac9165",
+      "release_date": "2014-03-03"
+    },
+    {
+      "featuredArtist": "Don Omar",
+      "featuredArtistId": "33ScadVnbm2X8kkUqOkC6Z",
+      "trackName": "Súbete - Remix Version",
+      "trackId": "6bF21XFFlBVWeFukk1c1Cg",
+      "preview": "https://p.scdn.co/mp3-preview/c784fc0ee5412f2c86d591a4b412bb1601875e54?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/678b9c6a1fe7a72fd21560079ee33480d9ac9165",
+      "release_date": "2014-03-03"
+    },
+    {
+      "featuredArtist": "Flex",
+      "featuredArtistId": "13VwGEitoK8J0qjNjbgeTN",
+      "trackName": "Contéstame el Teléfono",
+      "trackId": "2ZsqiUoZMmpCBDfsGZVmZP",
+      "preview": "https://p.scdn.co/mp3-preview/047fb6115730687adbb9ac18274b29b8a1acc00a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/603b904cc9e34e87f94251398b1f9bc0783d1733",
+      "release_date": "2012-08-20"
+    },
+    {
+      "featuredArtist": "Cosculluela",
+      "featuredArtistId": "00me4Ke1LsvMxt5kydlMyU",
+      "trackName": "Blam Blam",
+      "trackId": "0qCAxf2WYyyD2dReUg6MfL",
+      "preview": "https://p.scdn.co/mp3-preview/f07b098505fe9ec50a27257380ab708b4f9fdeb1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0359da7714968cf2063a64cc03f4cf3303390950",
+      "release_date": "2011-03-21"
+    },
+    {
+      "featuredArtist": "Eddie \"D\"",
+      "featuredArtistId": "2l3MRazZMswGo1qx1nP4WC",
+      "trackName": "La Trampa",
+      "trackId": "1tMCdZfq88GbZAXpA1rJXV",
+      "preview": "https://p.scdn.co/mp3-preview/f3cab50474f8ddcb937c7869ac2b9731aed5472b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0359da7714968cf2063a64cc03f4cf3303390950",
+      "release_date": "2011-03-21"
+    },
+    {
+      "featuredArtist": "Nova y Jory",
+      "featuredArtistId": "6ZK8loFAzWKSFe3b7Lrq4V",
+      "trackName": "Yo Sé Que Quieres",
+      "trackId": "56mdjOAB8KZpf4dhmd3JZP",
+      "preview": "https://p.scdn.co/mp3-preview/93f3f50c430d0d8a9533bc504c4c809d3c77fa93?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0359da7714968cf2063a64cc03f4cf3303390950",
+      "release_date": "2011-03-21"
+    },
+    {
+      "featuredArtist": "Yaviah",
+      "featuredArtistId": "0Y30TbA4p8SAfCzy2AFBa8",
+      "trackName": "Zombie",
+      "trackId": "5xCIkrRd5XauKGiK8SUxna",
+      "preview": "https://p.scdn.co/mp3-preview/647eb1019e561e73876acf8410191e60f8849158?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0359da7714968cf2063a64cc03f4cf3303390950",
+      "release_date": "2011-03-21"
+    },
+    {
+      "featuredArtist": "Los Yetzons",
+      "featuredArtistId": "4BH231zeP2bOxRxLSRUhoZ",
+      "trackName": "Somos Tal Para Cual",
+      "trackId": "6oL0ib27diOV7aoNFTrVLq",
+      "preview": "https://p.scdn.co/mp3-preview/8c692b5285c355864ac4d98813b6c7a8858701d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d1240064f5c3f49fc89781c95f6976668b784e03",
+      "release_date": "2007-09-28"
+    },
+    {
+      "featuredArtist": "Erick Right",
+      "featuredArtistId": "0UJxz6hs52fNYbl3L59vVU",
+      "trackName": "Go Go Girls",
+      "trackId": "6dFqgCI6rtQRuYC6rA08is",
+      "preview": "https://p.scdn.co/mp3-preview/beac842d2fd7a926729c21a3ed357aa548ba130c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d1240064f5c3f49fc89781c95f6976668b784e03",
+      "release_date": "2007-09-28"
+    },
+    {
+      "featuredArtist": "Ñejo & Dalmata",
+      "featuredArtistId": "1ykothWH0xl8drRyJWuw7I",
+      "trackName": "Olvídate De'so",
+      "trackId": "6MkuZCf9uWbolxjdZGRn5A",
+      "preview": "https://p.scdn.co/mp3-preview/df009737a6b1f23cd718d299470dbddda87a8c9e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d1240064f5c3f49fc89781c95f6976668b784e03",
+      "release_date": "2007-09-28"
+    },
+    {
+      "featuredArtist": "Arcangel & De La Ghetto",
+      "featuredArtistId": "6Yb68zdKvB3CqPh3Cxo5fe",
+      "trackName": "Dulce",
+      "trackId": "6wmjrhEaDsfTKEPj8BLxc8",
+      "preview": "https://p.scdn.co/mp3-preview/76667692d06d7dd83a2bd96153ff093a4e8a3ef7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/38e2a8d937e404424474f63368c6e5c7f7492865",
+      "release_date": "2006"
+    },
+    {
+      "featuredArtist": "Anthony y Omega",
+      "featuredArtistId": "7dDqvgmwB5Q237umL7Dt23",
+      "trackName": "Descontrol",
+      "trackId": "0BbljRogrssX8bSfU5uOka",
+      "preview": "https://p.scdn.co/mp3-preview/1233ae3d2038338d5379b208a89894001016a9a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/38e2a8d937e404424474f63368c6e5c7f7492865",
+      "release_date": "2006"
+    },
+    {
+      "featuredArtist": "Wisin & Yandel",
+      "featuredArtistId": "1wZtkThiXbVNtj6hee6dz9",
+      "trackName": "Piden Perreo",
+      "trackId": "1tDDjmar0AIWp9g6AhnEGB",
+      "preview": "https://p.scdn.co/mp3-preview/ae465bb01f95af06856e7182041b2acfc82b0288?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/38e2a8d937e404424474f63368c6e5c7f7492865",
+      "release_date": "2006"
+    },
+    {
+      "featuredArtist": "Yandel",
+      "featuredArtistId": "0eHQ9o50hj6ZDNBt6Ys1sD",
+      "trackName": "La Calle Me Llama",
+      "trackId": "1iAhcvqDmkynrguFXE70CN",
+      "preview": "https://p.scdn.co/mp3-preview/3ca193a2b9f18a2205ada2cd420cd64e4a95a4c2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/38e2a8d937e404424474f63368c6e5c7f7492865",
+      "release_date": "2006"
+    },
+    {
+      "featuredArtist": "Wisin",
+      "featuredArtistId": "3E6xrwgnVfYCrCs0ePERDz",
+      "trackName": "Jinete",
+      "trackId": "3He5mWvPejDbcEDiTWoZUP",
+      "preview": "https://p.scdn.co/mp3-preview/3a34d3e5641a2b7f2c409a653bc0f20198d4df7d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/38e2a8d937e404424474f63368c6e5c7f7492865",
+      "release_date": "2006"
+    },
+    {
+      "featuredArtist": "Héctor \"El Father\"",
+      "featuredArtistId": "2TjgzYcbTdsZjbT9OItIeB",
+      "trackName": "El Lobo",
+      "trackId": "08qJhrSXs45H2MMceYIHQP",
+      "preview": "https://p.scdn.co/mp3-preview/c3a01981907c1b419280187c134595c31365504a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/44b5dae16372a42c4bda28c4d79c3ab3d3e9c32c",
+      "release_date": "2005-11-15"
+    },
+    {
+      "featuredArtist": "Baby Rasta",
+      "featuredArtistId": "0GgyFUpOyzWDRDqx8FCTDN",
+      "trackName": "El Lobo",
+      "trackId": "08qJhrSXs45H2MMceYIHQP",
+      "preview": "https://p.scdn.co/mp3-preview/c3a01981907c1b419280187c134595c31365504a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/44b5dae16372a42c4bda28c4d79c3ab3d3e9c32c",
+      "release_date": "2005-11-15"
+    },
+    {
+      "featuredArtist": "Trebol Clan",
+      "featuredArtistId": "3YXpTiyVmYCfANOlnWv6vr",
+      "trackName": "Salgan A Cazarnos",
+      "trackId": "51n4ZDmOXHZsaDbZfJNyi9",
+      "preview": "https://p.scdn.co/mp3-preview/5a8c22c968e71ec7c319436032e7075bcfbe976f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/44b5dae16372a42c4bda28c4d79c3ab3d3e9c32c",
+      "release_date": "2005-11-15"
+    },
+    {
+      "featuredArtist": "Tony Sunshine",
+      "featuredArtistId": "6FNA65HkfMcw20mEKIK9eA",
+      "trackName": "Tributo Borincano",
+      "trackId": "3IEANvB4Oujd8YgcmQ0am2",
+      "preview": "https://p.scdn.co/mp3-preview/400475c4967e36ee3d85b3a6038317bc0a354cba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/44b5dae16372a42c4bda28c4d79c3ab3d3e9c32c",
+      "release_date": "2005-11-15"
+    },
+    {
+      "featuredArtist": "Mr. Phillips",
+      "featuredArtistId": "1VxpWjhdpv8oVX7fHSgyuQ",
+      "trackName": "Tributo Borincano",
+      "trackId": "3IEANvB4Oujd8YgcmQ0am2",
+      "preview": "https://p.scdn.co/mp3-preview/400475c4967e36ee3d85b3a6038317bc0a354cba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/44b5dae16372a42c4bda28c4d79c3ab3d3e9c32c",
+      "release_date": "2005-11-15"
+    }
+  ]
+}

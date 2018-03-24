@@ -1,0 +1,23 @@
+{
+  "artistName": "Marina and the Diamonds",
+  "features": [
+    {
+      "featuredArtist": "BURNS",
+      "featuredArtistId": "5eKqhPrKad0J9xGAtq3rW7",
+      "trackName": "Primadonna - BURNS Remix",
+      "trackId": "4qUdC0piwrCoNciVEo1k3d",
+      "preview": "https://p.scdn.co/mp3-preview/3ba30a979c3f865e6d9d32ce8735479216d4f44c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01c213c9e6c4f784f0629d2febd826bd0ad0ae28",
+      "release_date": "2012-04-30"
+    },
+    {
+      "featuredArtist": "Clean Bandit",
+      "featuredArtistId": "6MDME20pz9RveH9rEXvrOM",
+      "trackName": "Disconnect",
+      "trackId": "0cNH1IsjBVRdeDcpwHAfve",
+      "preview": "https://p.scdn.co/mp3-preview/de7ecb93a7db7a2412102e54efd495de2545e770?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6938db7b147343661697ea665ec561fe582a80b8",
+      "release_date": "2017-06-23"
+    }
+  ]
+}

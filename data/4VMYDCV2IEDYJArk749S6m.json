@@ -1,0 +1,464 @@
+{
+  "artistName": "Daddy Yankee",
+  "features": [
+    {
+      "featuredArtist": "Divino",
+      "featuredArtistId": "0akwFJC217vsXvFRi0Ns8v",
+      "trackName": "Nada Ha Cambiao’",
+      "trackId": "2dxd1q3rCRyt3OoPl2yBzg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/37776f5de1938d9b31d07fd2295561f4822faacd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Yandel",
+      "featuredArtistId": "0eHQ9o50hj6ZDNBt6Ys1sD",
+      "trackName": "Calentón",
+      "trackId": "5m3JK8xXGGAWGnHf2CYUDa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/37776f5de1938d9b31d07fd2295561f4822faacd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Farruko",
+      "featuredArtistId": "329e4yvIujISKGKz1BZZbO",
+      "trackName": "Dónde Es El Party",
+      "trackId": "1g8znKyO3F1ykMHCGfkKjq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/37776f5de1938d9b31d07fd2295561f4822faacd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Arcangel",
+      "featuredArtistId": "4SsVbpTthjScTS7U2hmr1X",
+      "trackName": "Millonarios",
+      "trackId": "6HNlJfShPz2uHxv7Giiemg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/37776f5de1938d9b31d07fd2295561f4822faacd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "J Alvarez",
+      "featuredArtistId": "6XFITTl7cFTdopDY3lUdlY",
+      "trackName": "Una Respuesta",
+      "trackId": "2nB7egaWkuCcnyRW96yypl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/37776f5de1938d9b31d07fd2295561f4822faacd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Natalia Jiménez",
+      "featuredArtistId": "0j8QSBQZ9MNSGjHr1Vll1R",
+      "trackName": "La Noche de los Dos - feat. Natalia Jimenez",
+      "trackId": "6nikjnfJXkUPQ1XDM07Coq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5fde53b334bd0c9f5d731d30d3ed72bc986cd71d",
+      "release_date": "2012-09-11"
+    },
+    {
+      "featuredArtist": "Carlos Reyes Rosado",
+      "featuredArtistId": "02I3q1OyoG6bVXI17JKjzq",
+      "trackName": "Llegamos a la Disco - feat. De la Ghetto, Ñengo Flow, Arcangel, Farruko, Baby Rasta y Gringo, Kyza, Kendo",
+      "trackId": "0CJCS1CaZPy6DEKxoNBoXa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5fde53b334bd0c9f5d731d30d3ed72bc986cd71d",
+      "release_date": "2012-09-11"
+    },
+    {
+      "featuredArtist": "Kyza",
+      "featuredArtistId": "2Y6klg1vvEktRN9oscr2TS",
+      "trackName": "Llegamos a la Disco - feat. De la Ghetto, Ñengo Flow, Arcangel, Farruko, Baby Rasta y Gringo, Kyza, Kendo",
+      "trackId": "0CJCS1CaZPy6DEKxoNBoXa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5fde53b334bd0c9f5d731d30d3ed72bc986cd71d",
+      "release_date": "2012-09-11"
+    },
+    {
+      "featuredArtist": "Kendo",
+      "featuredArtistId": "2rTqhyJsi7l2q4c2HAs4VY",
+      "trackName": "Llegamos a la Disco - feat. De la Ghetto, Ñengo Flow, Arcangel, Farruko, Baby Rasta y Gringo, Kyza, Kendo",
+      "trackId": "0CJCS1CaZPy6DEKxoNBoXa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5fde53b334bd0c9f5d731d30d3ed72bc986cd71d",
+      "release_date": "2012-09-11"
+    },
+    {
+      "featuredArtist": "De La Ghetto",
+      "featuredArtistId": "3EiLUeyEcA6fbRPSHkG5kb",
+      "trackName": "Llegamos a la Disco - feat. De la Ghetto, Ñengo Flow, Arcangel, Farruko, Baby Rasta y Gringo, Kyza, Kendo",
+      "trackId": "0CJCS1CaZPy6DEKxoNBoXa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5fde53b334bd0c9f5d731d30d3ed72bc986cd71d",
+      "release_date": "2012-09-11"
+    },
+    {
+      "featuredArtist": "Nengo Flow",
+      "featuredArtistId": "12vb80Km0Ew53ABfJOepVz",
+      "trackName": "Llegamos a la Disco - feat. De la Ghetto, Ñengo Flow, Arcangel, Farruko, Baby Rasta y Gringo, Kyza, Kendo",
+      "trackId": "0CJCS1CaZPy6DEKxoNBoXa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5fde53b334bd0c9f5d731d30d3ed72bc986cd71d",
+      "release_date": "2012-09-11"
+    },
+    {
+      "featuredArtist": "Baby Rasta & Gringo",
+      "featuredArtistId": "3IEvQoAohcGX7CdrbtIle7",
+      "trackName": "Llegamos a la Disco - feat. De la Ghetto, Ñengo Flow, Arcangel, Farruko, Baby Rasta y Gringo, Kyza, Kendo",
+      "trackId": "0CJCS1CaZPy6DEKxoNBoXa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5fde53b334bd0c9f5d731d30d3ed72bc986cd71d",
+      "release_date": "2012-09-11"
+    },
+    {
+      "featuredArtist": "Randy",
+      "featuredArtistId": "6J4e8oWHITp1msfeyZg66B",
+      "trackName": "Baby - feat. Randy",
+      "trackId": "5R6nhJJnn2MhllmUq6ix08",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5fde53b334bd0c9f5d731d30d3ed72bc986cd71d",
+      "release_date": "2012-09-11"
+    },
+    {
+      "featuredArtist": "Prince Royce",
+      "featuredArtistId": "3MHaV05u0io8fQbZ2XPtlC",
+      "trackName": "Ven Conmigo - feat. Prince Royce",
+      "trackId": "02wM7ucmUu1MRanSIZfgv7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5fde53b334bd0c9f5d731d30d3ed72bc986cd71d",
+      "release_date": "2012-09-11"
+    },
+    {
+      "featuredArtist": "Kyza",
+      "featuredArtistId": "5QZvUiPTvanrNdda7sGzuO",
+      "trackName": "Llegamos a la Disco - feat. De la Ghetto, Ñengo Flow, Arcangel, Farruko, Baby Rasta y Gringo, Kyza, Kendo",
+      "trackId": "4nfn4q3ygnHhriDyYW6Fkf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5fde53b334bd0c9f5d731d30d3ed72bc986cd71d",
+      "release_date": "2012-09-07"
+    },
+    {
+      "featuredArtist": "Kendo",
+      "featuredArtistId": "6b5p6f9tl48tnYCfQAjAP7",
+      "trackName": "Llegamos a la Disco - feat. De la Ghetto, Ñengo Flow, Arcangel, Farruko, Baby Rasta y Gringo, Kyza, Kendo",
+      "trackId": "4nfn4q3ygnHhriDyYW6Fkf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5fde53b334bd0c9f5d731d30d3ed72bc986cd71d",
+      "release_date": "2012-09-07"
+    },
+    {
+      "featuredArtist": "Tito \"El Bambino\"",
+      "featuredArtistId": "5fJsY7afrbsyzJj9wdzJMh",
+      "trackName": "Me Enteré",
+      "trackId": "2yTDWOCN0jpezKGhAHG68o",
+      "preview": "https://p.scdn.co/mp3-preview/efd0d68239e42fd10fd5ada58cd52f2b471d721e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4d6a9aa7fac876f735af0085cfb605583a4eb1be",
+      "release_date": "2010-04-27"
+    },
+    {
+      "featuredArtist": "Randy",
+      "featuredArtistId": "7GxFU8LaNQLKl54JIYCNFm",
+      "trackName": "Salgo Pa' la Calle",
+      "trackId": "3nCFiwtuVqVJmnSasApvr3",
+      "preview": "https://p.scdn.co/mp3-preview/94caa6aebeb0b841bcd261956de2039f3ece51ff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1aa429a68a7567c033b8c20b1f76632686400778",
+      "release_date": "2008-08-12"
+    },
+    {
+      "featuredArtist": "Akon",
+      "featuredArtistId": "0z4gvV4rjIZ9wHck67ucSV",
+      "trackName": "Bring It On",
+      "trackId": "4bmYilmgAivxOg8C8TCyy1",
+      "preview": "https://p.scdn.co/mp3-preview/2c4949e1e5de4f42846d685052222484f6d42974?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0719fa77d27ac3c532e32dbd3e8e4eb1d3549259",
+      "release_date": "2007-06-05"
+    },
+    {
+      "featuredArtist": "Nicole Sherzinger",
+      "featuredArtistId": "3uDjChpoKF5ZnHFero6A3P",
+      "trackName": "Papi Lover",
+      "trackId": "2T73BObNu18gxtNKCFwIae",
+      "preview": "https://p.scdn.co/mp3-preview/1ad7961a52291c82644ca32cee2eecedaa8797b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0719fa77d27ac3c532e32dbd3e8e4eb1d3549259",
+      "release_date": "2007-06-05"
+    },
+    {
+      "featuredArtist": "Héctor \"El Father\"",
+      "featuredArtistId": "2TjgzYcbTdsZjbT9OItIeB",
+      "trackName": "Tensión",
+      "trackId": "3qGFDJkivzzKdzG6bQYFzk",
+      "preview": "https://p.scdn.co/mp3-preview/f7d2390595abfb98466bbb7e350189871c29ead6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0719fa77d27ac3c532e32dbd3e8e4eb1d3549259",
+      "release_date": "2007-06-05"
+    },
+    {
+      "featuredArtist": "will.i.am",
+      "featuredArtistId": "085pc2PYOi8bGKj0PNjekA",
+      "trackName": "Plane To P.R.",
+      "trackId": "2PCHUD9kbvOT6bOF7KkeS9",
+      "preview": "https://p.scdn.co/mp3-preview/8fe6cef801ef0a5468e2c75c974788e514b8c111?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0719fa77d27ac3c532e32dbd3e8e4eb1d3549259",
+      "release_date": "2007-06-05"
+    },
+    {
+      "featuredArtist": "Fergie",
+      "featuredArtistId": "1si6WHnb1ywwJ2lpFRUHcc",
+      "trackName": "Impacto - Remix",
+      "trackId": "68Jb134jJi2Q0NrTKjh0NJ",
+      "preview": "https://p.scdn.co/mp3-preview/1f6d0172095c76b2f953594e8fd6071fcbb0688f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0719fa77d27ac3c532e32dbd3e8e4eb1d3549259",
+      "release_date": "2007-06-05"
+    },
+    {
+      "featuredArtist": "Snoop Dogg",
+      "featuredArtistId": "7hJcb9fa4alzcOq3EaNPoG",
+      "trackName": "Gangsta Zone",
+      "trackId": "5MH4HoyPDHFuKMmHn1gbT6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/926319c05bb6862f02f10edf0b7456be731ea28e",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Paul Wall",
+      "featuredArtistId": "0k7Xl1pqI3tu8sSEjo5oEg",
+      "trackName": "Machete - Remix",
+      "trackId": "60bjsxrzXM5jsZKwyPf5QG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/926319c05bb6862f02f10edf0b7456be731ea28e",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Lloyd Banks",
+      "featuredArtistId": "3vDUJHQtqT3jFRZ2ECXDTi",
+      "trackName": "Rompe - International Remix featuring Lloyd Banks, Young Buck & Nelly Furtado",
+      "trackId": "6GHMgepkswhKOPZeBC7FEM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/926319c05bb6862f02f10edf0b7456be731ea28e",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Young Buck",
+      "featuredArtistId": "4pr7J7wzgObkE3DD3Izi7q",
+      "trackName": "Rompe - International Remix featuring Lloyd Banks, Young Buck & Nelly Furtado",
+      "trackId": "6GHMgepkswhKOPZeBC7FEM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/926319c05bb6862f02f10edf0b7456be731ea28e",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Nelly Furtado",
+      "featuredArtistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Rompe - International Remix featuring Lloyd Banks, Young Buck & Nelly Furtado",
+      "trackId": "6GHMgepkswhKOPZeBC7FEM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/926319c05bb6862f02f10edf0b7456be731ea28e",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Wisin & Yandel",
+      "featuredArtistId": "1wZtkThiXbVNtj6hee6dz9",
+      "trackName": "No Me Dejes Solo",
+      "trackId": "1EhM7nYYRpH2kzPdlnEpHa",
+      "preview": "https://p.scdn.co/mp3-preview/2c2956ee597631b4e9d2736e78e5471be9e21750?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f0db84463098670417dea29c6423ce3ed5481ff0",
+      "release_date": "2004-07-13"
+    },
+    {
+      "featuredArtist": "Zion & Lennox",
+      "featuredArtistId": "21451j1KhjAiaYKflxBjr1",
+      "trackName": "Tu Príncipe",
+      "trackId": "0Q7ZM15J0cJA9rd7pQYdRq",
+      "preview": "https://p.scdn.co/mp3-preview/badfeb9155b4fbd330d11c6dfab478c2b0c871ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f0db84463098670417dea29c6423ce3ed5481ff0",
+      "release_date": "2004-07-13"
+    },
+    {
+      "featuredArtist": "Andy Montañez",
+      "featuredArtistId": "6RMWFexOHVj5ctezneQH5v",
+      "trackName": "Sabor a Melao",
+      "trackId": "0RCYZ7YKJRY1titgA7cKc1",
+      "preview": "https://p.scdn.co/mp3-preview/8249f8c20488f831ad02ac29fb9cf8f35918cc49?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f0db84463098670417dea29c6423ce3ed5481ff0",
+      "release_date": "2004-07-13"
+    },
+    {
+      "featuredArtist": "May-Be",
+      "featuredArtistId": "4v1zVCcc5f9c7bdODjaqwe",
+      "trackName": "Qué Vas a Hacer?",
+      "trackId": "7McEcxA3Pp6iUZFePT3fS7",
+      "preview": "https://p.scdn.co/mp3-preview/760823c5732c8eb01b42f93f9bf04bc6159f8f20?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f0db84463098670417dea29c6423ce3ed5481ff0",
+      "release_date": "2004-07-13"
+    },
+    {
+      "featuredArtist": "Tommy Viera",
+      "featuredArtistId": "27abSaAjyUkVoBhZSmF38a",
+      "trackName": "Golpe de Estado",
+      "trackId": "7qm884sKOAoF5AuZUgBUfa",
+      "preview": "https://p.scdn.co/mp3-preview/403ccf33dc179c41810913a3be6d0c2bcdd9dc4f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f0db84463098670417dea29c6423ce3ed5481ff0",
+      "release_date": "2004-07-13"
+    },
+    {
+      "featuredArtist": "Nicky Jam",
+      "featuredArtistId": "1SupJlEpv7RS2tPNRaHViT",
+      "trackName": "Musica Killa",
+      "trackId": "3jNeBl7KFgwsiF49IqHxO6",
+      "preview": "https://p.scdn.co/mp3-preview/a3c59148477013e3fe9ce7964dafe198825bbc59?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a648b1b97a5d56631b15ef204996ce1574889d6f",
+      "release_date": "2003-09-23"
+    },
+    {
+      "featuredArtist": "Don Omar",
+      "featuredArtistId": "33ScadVnbm2X8kkUqOkC6Z",
+      "trackName": "Gata Gangster",
+      "trackId": "0vpEg6cBXfG0PZXRSKZ4bE",
+      "preview": "https://p.scdn.co/mp3-preview/b562920cfca1b23a0ad46e7917d3617381afd997?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a648b1b97a5d56631b15ef204996ce1574889d6f",
+      "release_date": "2003-09-23"
+    },
+    {
+      "featuredArtist": "Julio Voltio",
+      "featuredArtistId": "0eHWAfgyxZWAKR6NZ8nsd9",
+      "trackName": "No Te Canses, El Funeral",
+      "trackId": "3awjaLfo0kMxpttsspRdZn",
+      "preview": "https://p.scdn.co/mp3-preview/751581ecfc8d2be597021a1d13ae63a1d7c3ad6c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a648b1b97a5d56631b15ef204996ce1574889d6f",
+      "release_date": "2003-09-23"
+    },
+    {
+      "featuredArtist": "Nas",
+      "featuredArtistId": "20qISvAhX20dpIbOOzGK3q",
+      "trackName": "Mix Rap 1: 30-30 / Mi Fanatico / Se Acelera el Flow",
+      "trackId": "3Q1crohicdIO9TklACLjO7",
+      "preview": "https://p.scdn.co/mp3-preview/8b72f78ff8599f82660a2158621bb01973d59d3e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a648b1b97a5d56631b15ef204996ce1574889d6f",
+      "release_date": "2003-09-23"
+    },
+    {
+      "featuredArtist": "Yaviah",
+      "featuredArtistId": "0Y30TbA4p8SAfCzy2AFBa8",
+      "trackName": "Mix Rap 1: 30-30 / Mi Fanatico / Se Acelera el Flow",
+      "trackId": "3Q1crohicdIO9TklACLjO7",
+      "preview": "https://p.scdn.co/mp3-preview/8b72f78ff8599f82660a2158621bb01973d59d3e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a648b1b97a5d56631b15ef204996ce1574889d6f",
+      "release_date": "2003-09-23"
+    },
+    {
+      "featuredArtist": "Notty",
+      "featuredArtistId": "1XWQvHMnUr3CZQf88Pe4De",
+      "trackName": "Mix Rap 1: 30-30 / Mi Fanatico / Se Acelera el Flow",
+      "trackId": "3Q1crohicdIO9TklACLjO7",
+      "preview": "https://p.scdn.co/mp3-preview/8b72f78ff8599f82660a2158621bb01973d59d3e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a648b1b97a5d56631b15ef204996ce1574889d6f",
+      "release_date": "2003-09-23"
+    },
+    {
+      "featuredArtist": "Speedy",
+      "featuredArtistId": "5DMTLrpmTZO8GLDZ5Je1yT",
+      "trackName": "¿Recuerdas?",
+      "trackId": "4kVXXv24O8BEQCh7GFSdhO",
+      "preview": "https://p.scdn.co/mp3-preview/00e5121deb411ea817e51d9287a9533aff8fa82b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3dc4d6797113b8785d3d39a6f2d189d504027fa7",
+      "release_date": "2002-06-20"
+    },
+    {
+      "featuredArtist": "Divino",
+      "featuredArtistId": "3PkVrt8lRBTV2RDSICxz5X",
+      "trackName": "¡Dimelo!",
+      "trackId": "0mWBXDvPdvgfIP5XWv46Su",
+      "preview": "https://p.scdn.co/mp3-preview/1171e8f2fb90436c173bb46b722f38fb2a499b10?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3dc4d6797113b8785d3d39a6f2d189d504027fa7",
+      "release_date": "2002-06-20"
+    },
+    {
+      "featuredArtist": "Yaga & Mackie",
+      "featuredArtistId": "16Juw2gfa9IxEL3Vu69cH7",
+      "trackName": "Le Gusta a la Mujer",
+      "trackId": "5qvD1IECgeiq8YxEiBxmR2",
+      "preview": "https://p.scdn.co/mp3-preview/f10f6befa4a3592dcc9b9a1cf78aa77993b4e042?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3dc4d6797113b8785d3d39a6f2d189d504027fa7",
+      "release_date": "2002-06-20"
+    },
+    {
+      "featuredArtist": "Lito y Polaco",
+      "featuredArtistId": "1CLPoZyoqBo2z444JtmBAF",
+      "trackName": "El Cangri",
+      "trackId": "3gSnUPrP1T8mIlgRiuZ8T8",
+      "preview": "https://p.scdn.co/mp3-preview/7e4fa1c5581d22746f8ac5136eebb1b38279b980?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3dc4d6797113b8785d3d39a6f2d189d504027fa7",
+      "release_date": "2002-06-20"
+    },
+    {
+      "featuredArtist": "RedOne",
+      "featuredArtistId": "6O9WquDfQTxGRZqZUXVEQx",
+      "trackName": "Boom Boom - Mr. Pauer Remix",
+      "trackId": "79NHjwywinRcOPooz2sspw",
+      "preview": "https://p.scdn.co/mp3-preview/c6d5bb7f106b59185152a3c7dbb9585ffa1cdfb6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ddd04e5bd6bd1163b5c9d728d372920063744a04",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "French Montana",
+      "featuredArtistId": "6vXTefBL93Dj5IqAWq6OTv",
+      "trackName": "Boom Boom - Mr. Pauer Remix",
+      "trackId": "79NHjwywinRcOPooz2sspw",
+      "preview": "https://p.scdn.co/mp3-preview/c6d5bb7f106b59185152a3c7dbb9585ffa1cdfb6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ddd04e5bd6bd1163b5c9d728d372920063744a04",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Dinah Jane",
+      "featuredArtistId": "59KQTERLpPa7M0F25fRH6V",
+      "trackName": "Boom Boom - Mr. Pauer Remix",
+      "trackId": "79NHjwywinRcOPooz2sspw",
+      "preview": "https://p.scdn.co/mp3-preview/c6d5bb7f106b59185152a3c7dbb9585ffa1cdfb6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ddd04e5bd6bd1163b5c9d728d372920063744a04",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Mr. Pauer",
+      "featuredArtistId": "70ZNKWnAq0VfiKpqyp6blW",
+      "trackName": "Boom Boom - Mr. Pauer Remix",
+      "trackId": "79NHjwywinRcOPooz2sspw",
+      "preview": "https://p.scdn.co/mp3-preview/c6d5bb7f106b59185152a3c7dbb9585ffa1cdfb6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ddd04e5bd6bd1163b5c9d728d372920063744a04",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Vice",
+      "featuredArtistId": "0q4NrXqJnc367PieejuROJ",
+      "trackName": "Boom Boom - Vice Remix",
+      "trackId": "3b6QLqYirIdcrJKwe0aKhE",
+      "preview": "https://p.scdn.co/mp3-preview/f64bd46854c53c7df88c4af584343f7e6287f9d1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/227c6cf9cf655cef2b52aea1c4cd75f564396b26",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Steve Aoki",
+      "featuredArtistId": "77AiFEVeAVj2ORpC85QVJs",
+      "trackName": "Azukita (Steve Aoki, Daddy Yankee, Play-N-Skillz & Elvis Crespo)",
+      "trackId": "5e45GhSF18JYoLpaq2F48h",
+      "preview": "https://p.scdn.co/mp3-preview/021f88c286e21750422783d802150296d275aaae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/548bf2eeca2c064835f369bc1540c1ecbd803ab6",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Play-N-Skillz",
+      "featuredArtistId": "7MP4jhYmFEgb0AtiOkw55s",
+      "trackName": "Azukita (Steve Aoki, Daddy Yankee, Play-N-Skillz & Elvis Crespo)",
+      "trackId": "5e45GhSF18JYoLpaq2F48h",
+      "preview": "https://p.scdn.co/mp3-preview/021f88c286e21750422783d802150296d275aaae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/548bf2eeca2c064835f369bc1540c1ecbd803ab6",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Elvis Crespo",
+      "featuredArtistId": "1c22GXH30ijlOfXhfLz9Df",
+      "trackName": "Azukita (Steve Aoki, Daddy Yankee, Play-N-Skillz & Elvis Crespo)",
+      "trackId": "5e45GhSF18JYoLpaq2F48h",
+      "preview": "https://p.scdn.co/mp3-preview/021f88c286e21750422783d802150296d275aaae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/548bf2eeca2c064835f369bc1540c1ecbd803ab6",
+      "release_date": "2018-02-02"
+    }
+  ]
+}

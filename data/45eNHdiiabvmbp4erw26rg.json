@@ -1,0 +1,536 @@
+{
+  "artistName": "Illenium",
+  "features": [
+    {
+      "featuredArtist": "Dia Frampton",
+      "featuredArtistId": "3ppkM4QtM781APpaX7H9t7",
+      "trackName": "Needed You",
+      "trackId": "4d42YQbGZxwYq7YZiCkTDb",
+      "preview": "https://p.scdn.co/mp3-preview/4824b5ebfd156e08fb5cfa1c0ab19c89624d799d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/85f63e6d3b84e250702c360ee33590b77d8049de",
+      "release_date": "2017-09-21"
+    },
+    {
+      "featuredArtist": "Annika Wells",
+      "featuredArtistId": "0kErUwb6xgWfkdn0RyZWHZ",
+      "trackName": "Crawl Outta Love",
+      "trackId": "0q7oMII7kWTj1ZSX6GT6LU",
+      "preview": "https://p.scdn.co/mp3-preview/321f217e87c33274fa519e7e9aa91219279ae9db?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/85f63e6d3b84e250702c360ee33590b77d8049de",
+      "release_date": "2017-09-21"
+    },
+    {
+      "featuredArtist": "RUNN",
+      "featuredArtistId": "3l0H4QNiYYNdIsnZ4JgJAg",
+      "trackName": "Free Fall",
+      "trackId": "4ZAerT2NicBmzZ4VkpmWEn",
+      "preview": "https://p.scdn.co/mp3-preview/36ac19a1cefa0754ab94d1e0c55cdd3149bac455?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/85f63e6d3b84e250702c360ee33590b77d8049de",
+      "release_date": "2017-09-21"
+    },
+    {
+      "featuredArtist": "Said the Sky",
+      "featuredArtistId": "4LZ4De2MoO3lP6QaNCfvcu",
+      "trackName": "Where'd U Go",
+      "trackId": "2oL0HIuo0cxIycDtJWbpuN",
+      "preview": "https://p.scdn.co/mp3-preview/3499bc36aab4ad4ce6c031a23b2359c2aa53311c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/85f63e6d3b84e250702c360ee33590b77d8049de",
+      "release_date": "2017-09-21"
+    },
+    {
+      "featuredArtist": "Nevve",
+      "featuredArtistId": "3RTklnRcfHgkQJwFpgOq3t",
+      "trackName": "Fractures",
+      "trackId": "4G3IXyVRxSx5lLhUvv3fu3",
+      "preview": "https://p.scdn.co/mp3-preview/c72096150a0bd249060e51e8d91b3f9924b090e0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/85f63e6d3b84e250702c360ee33590b77d8049de",
+      "release_date": "2017-09-21"
+    },
+    {
+      "featuredArtist": "Emilie Brandt",
+      "featuredArtistId": "5ooIuCvSBl6Eo4cHixvB7x",
+      "trackName": "Lost",
+      "trackId": "4rIAqwhHGfWChQvQGYwEfR",
+      "preview": "https://p.scdn.co/mp3-preview/1c70d1886bf8178269290eb7c10d38186eca9c94?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/85f63e6d3b84e250702c360ee33590b77d8049de",
+      "release_date": "2017-09-21"
+    },
+    {
+      "featuredArtist": "Kerli",
+      "featuredArtistId": "4IFgewC2urR62Fwt7uAU03",
+      "trackName": "Sound of Walking Away",
+      "trackId": "5WggjuxMubr94bo33Aan4K",
+      "preview": "https://p.scdn.co/mp3-preview/504a8dc18df8b3e6fe7148d0cca379560f1d6970?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/85f63e6d3b84e250702c360ee33590b77d8049de",
+      "release_date": "2017-09-21"
+    },
+    {
+      "featuredArtist": "Gryffin",
+      "featuredArtistId": "2ZRQcIgzPCVaT9XKhXZIzh",
+      "trackName": "Feel Good",
+      "trackId": "0e0UxWGgjXoYAYUFhJgwji",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/85f63e6d3b84e250702c360ee33590b77d8049de",
+      "release_date": "2017-09-21"
+    },
+    {
+      "featuredArtist": "Daya",
+      "featuredArtistId": "5zFq3Hg9GPVzQqDVviQ9mU",
+      "trackName": "Feel Good",
+      "trackId": "0e0UxWGgjXoYAYUFhJgwji",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/85f63e6d3b84e250702c360ee33590b77d8049de",
+      "release_date": "2017-09-21"
+    },
+    {
+      "featuredArtist": "MAX",
+      "featuredArtistId": "1bqxdqvUtPWZri43cKHac8",
+      "trackName": "Beautiful Creatures (feat. MAX)",
+      "trackId": "4pWawf1Rq4qHDv4Ktqjg2D",
+      "preview": "https://p.scdn.co/mp3-preview/1e0a65e084ffa72af52ff111cd2f06587f2f274d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/85f63e6d3b84e250702c360ee33590b77d8049de",
+      "release_date": "2017-09-21"
+    },
+    {
+      "featuredArtist": "Ember Island",
+      "featuredArtistId": "1I5eQkzyM8jCVZIM3k2bKL",
+      "trackName": "Let You Go",
+      "trackId": "43hcHVoAiHpkJ2gMbmO72h",
+      "preview": "https://p.scdn.co/mp3-preview/4b51b98a369a228b6c0e8e6127ec14b5e9aac9fe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/85f63e6d3b84e250702c360ee33590b77d8049de",
+      "release_date": "2017-09-21"
+    },
+    {
+      "featuredArtist": "King Deco",
+      "featuredArtistId": "4OEToyI1vqVhG1b9wxXzTV",
+      "trackName": "Reverie - Synchronice Remix",
+      "trackId": "5960THFwuK9Q3fY9e4ga7Y",
+      "preview": "https://p.scdn.co/mp3-preview/5d4a9672d4f324eff2cf95b661585025d15135e3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Synchronice",
+      "featuredArtistId": "1pOmjpg4X03jcvS2R0FY53",
+      "trackName": "Reverie - Synchronice Remix",
+      "trackId": "5960THFwuK9Q3fY9e4ga7Y",
+      "preview": "https://p.scdn.co/mp3-preview/5d4a9672d4f324eff2cf95b661585025d15135e3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Joni Fatora",
+      "featuredArtistId": "43NRjpCGCIj6GkhnAMdC60",
+      "trackName": "Fortress - Just A Gent Remix",
+      "trackId": "2vtXB4ShP4eprgRW1IYpAp",
+      "preview": "https://p.scdn.co/mp3-preview/b1e2948fa3256e297f1797c4d241433abf77a543?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Just A Gent",
+      "featuredArtistId": "1kwGj7uDO5WXVXtQLvGJr0",
+      "trackName": "Fortress - Just A Gent Remix",
+      "trackId": "2vtXB4ShP4eprgRW1IYpAp",
+      "preview": "https://p.scdn.co/mp3-preview/b1e2948fa3256e297f1797c4d241433abf77a543?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Quinn XCII",
+      "featuredArtistId": "3ApUX1o6oSz321MMECyIYd",
+      "trackName": "With You - Crystal Skies Remix",
+      "trackId": "5LirGk5blsOuGu2Emb3YfQ",
+      "preview": "https://p.scdn.co/mp3-preview/c643fe88e3a3a66cbf99e5d88a046fa7180950da?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Crystal Skies",
+      "featuredArtistId": "6HraHl4uwIQFixUu3J49BK",
+      "trackName": "With You - Crystal Skies Remix",
+      "trackId": "5LirGk5blsOuGu2Emb3YfQ",
+      "preview": "https://p.scdn.co/mp3-preview/c643fe88e3a3a66cbf99e5d88a046fa7180950da?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "VIRTU",
+      "featuredArtistId": "0QehxnZckus8HjzxCMnPGY",
+      "trackName": "Sleepwalker - Virtu Remix",
+      "trackId": "6oh9UTCsoT7kxbiK9Fz9bq",
+      "preview": "https://p.scdn.co/mp3-preview/5a91ab41079d2ba02ece41980af7cfce57bb3220?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Liam O'Donnell",
+      "featuredArtistId": "75aiMKKxzFHGFRxyLwvL2d",
+      "trackName": "It's All On U - K?d Remix",
+      "trackId": "1t5heM81ZBUc6V2muwDnx3",
+      "preview": "https://p.scdn.co/mp3-preview/932a8c08f81d3769303dea3dcad0a98b1a54e1d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "k?d",
+      "featuredArtistId": "714O3xvBNiclo82vxBn8Bf",
+      "trackName": "It's All On U - K?d Remix",
+      "trackId": "1t5heM81ZBUc6V2muwDnx3",
+      "preview": "https://p.scdn.co/mp3-preview/932a8c08f81d3769303dea3dcad0a98b1a54e1d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Sound Remedy",
+      "featuredArtistId": "1UtzKaSQyctQO8GN8EyzOn",
+      "trackName": "Spirals - William Black Remix",
+      "trackId": "0fPHWE7meGCm5d4A0zVLDe",
+      "preview": "https://p.scdn.co/mp3-preview/d952fecdfabcdd95baaf0aca97739513d751c80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "William Black",
+      "featuredArtistId": "7d5SfGXKpgS3JK8BFIq59h",
+      "trackName": "Spirals - William Black Remix",
+      "trackId": "0fPHWE7meGCm5d4A0zVLDe",
+      "preview": "https://p.scdn.co/mp3-preview/d952fecdfabcdd95baaf0aca97739513d751c80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "SKYLR",
+      "featuredArtistId": "6gcm8fzBWiEtBenCnesdle",
+      "trackName": "Without You - William James Remix",
+      "trackId": "7dh4FR3gqvF6CjNEXxiAMS",
+      "preview": "https://p.scdn.co/mp3-preview/0551a5177b44715fdc5fcbb13d67782d324d4a44?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "William James",
+      "featuredArtistId": "0nw7jBTdrx8KsNrIUlCLjs",
+      "trackName": "Without You - William James Remix",
+      "trackId": "7dh4FR3gqvF6CjNEXxiAMS",
+      "preview": "https://p.scdn.co/mp3-preview/0551a5177b44715fdc5fcbb13d67782d324d4a44?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Nina Sung",
+      "featuredArtistId": "3IDGSw4dPbHMSnd93gkeXG",
+      "trackName": "Only One - Kill Paris Remix",
+      "trackId": "37aWRKYcDZHAzEFpbBZagy",
+      "preview": "https://p.scdn.co/mp3-preview/479ae74ad2cf87c0596ff1545afc0dca1012e30d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Kill Paris",
+      "featuredArtistId": "6BNaPZdAIZAJnbgJRiZz2w",
+      "trackName": "Only One - Kill Paris Remix",
+      "trackId": "37aWRKYcDZHAzEFpbBZagy",
+      "preview": "https://p.scdn.co/mp3-preview/479ae74ad2cf87c0596ff1545afc0dca1012e30d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "WE ARE FURY",
+      "featuredArtistId": "44Wi4QHWK4CzACCqCyxo3x",
+      "trackName": "I'll Be Your Reason - WE ARE FURY Remix",
+      "trackId": "3ordKNaLsF9zWDqROQd0I9",
+      "preview": "https://p.scdn.co/mp3-preview/38932eaba57914a43fcfaa74ff1406ade831b822?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Echos",
+      "featuredArtistId": "6SnMMbLQ4iS8WIyt3ksmCR",
+      "trackName": "Afterlife - Dabin Remix",
+      "trackId": "5HsiNqB85NFP7sTwtlaoJI",
+      "preview": "https://p.scdn.co/mp3-preview/97a19eff94f8eb7747fb0a774a9a3d3f7c0c7ae4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Dabin",
+      "featuredArtistId": "7lZauDnRoAC3kmaYae2opv",
+      "trackName": "Afterlife - Dabin Remix",
+      "trackId": "5HsiNqB85NFP7sTwtlaoJI",
+      "preview": "https://p.scdn.co/mp3-preview/97a19eff94f8eb7747fb0a774a9a3d3f7c0c7ae4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Hazey Eyes",
+      "featuredArtistId": "3r0RZ55RKisnnF0jVcYrVR",
+      "trackName": "With You - Hazey Eyes Remix",
+      "trackId": "6KqJe8tNKU6HAdFkyY2PE6",
+      "preview": "https://p.scdn.co/mp3-preview/b9198eafa3f19e0fa487d5a652fff2d1d0a488ad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Ryan Exley",
+      "featuredArtistId": "6QKIFtoqBYaNigkPHIk5x2",
+      "trackName": "Without You - Ryan Exley Remix",
+      "trackId": "60tozXf2pmq28TPNE1KB38",
+      "preview": "https://p.scdn.co/mp3-preview/bf14b31f465f3264b03da3bec21ab70c29914de7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "It's Different",
+      "featuredArtistId": "60ETw93KnLzkysVpiZ3VYA",
+      "trackName": "Only One - it's different Remix",
+      "trackId": "3b48bKj6OLeRh1zkR1vSHD",
+      "preview": "https://p.scdn.co/mp3-preview/6dddc5bae1d7924820d21d284e7e779c25ec8e2b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "T-Mass",
+      "featuredArtistId": "0M3cZtjQZ8fz3Hbw1A4CwF",
+      "trackName": "It's All on U - T-Mass & LZRD Remix",
+      "trackId": "0Vc3nfRMdvY5iX6AHVWSMN",
+      "preview": "https://p.scdn.co/mp3-preview/02753c969161dde9df37419abbcbfc8f1a361316?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "LZRD",
+      "featuredArtistId": "6O2ODylN42JL651p1vcIYQ",
+      "trackName": "It's All on U - T-Mass & LZRD Remix",
+      "trackId": "0Vc3nfRMdvY5iX6AHVWSMN",
+      "preview": "https://p.scdn.co/mp3-preview/02753c969161dde9df37419abbcbfc8f1a361316?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "MrFijiWiji",
+      "featuredArtistId": "1FaxvEC5bNr5ZfSjmJ23IA",
+      "trackName": "Fortress - Mr FijiWiji Remix",
+      "trackId": "6AVjwE1dw2DY1J1ktXV7th",
+      "preview": "https://p.scdn.co/mp3-preview/f4635ac640d39565c17108b7665132267c41ce00?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db47525fde84a104708d23247b41b714c7c34ab0",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Skylr",
+      "featuredArtistId": "1CsOCboPedU50U4FUM1SHi",
+      "trackName": "Without You",
+      "trackId": "7cA3OHUSgQdcG332ZAx8Lj",
+      "preview": "https://p.scdn.co/mp3-preview/0684af3a2cc3301085b5a9f4cb126ed2fd41f9c3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f5fb45d44c46565ef47ce65654b0192ffaa74627",
+      "release_date": "2016-02-15"
+    },
+    {
+      "featuredArtist": "Chilled Velvet",
+      "featuredArtistId": "3lzs1jpHLayP0330RYco6g",
+      "trackName": "Jester - Bonus Track",
+      "trackId": "33eO3yOyKqrOSySHy0Bo8T",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f5fb45d44c46565ef47ce65654b0192ffaa74627",
+      "release_date": "2016-02-15"
+    },
+    {
+      "featuredArtist": "Dirt Monkey",
+      "featuredArtistId": "5dNqUwGTZcQQ09ecTKkCGH",
+      "trackName": "Bring Forth the Pressure - Bonus Track",
+      "trackId": "6vL63qMzhDK6ABVGrcnTUS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f5fb45d44c46565ef47ce65654b0192ffaa74627",
+      "release_date": "2016-02-15"
+    },
+    {
+      "featuredArtist": "AWAY",
+      "featuredArtistId": "2ZmerElhvxg8uVKCmlZ4ij",
+      "trackName": "Leaving - AWAY Remix",
+      "trackId": "44Bx3NmZ97V4IMT9unRn4N",
+      "preview": "https://p.scdn.co/mp3-preview/c5bc91ffe70f6947f943780ca75bcf1b259f17b5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c877404a547cda4eb3c36d854be0e6c56c23150e",
+      "release_date": "2018-03-19"
+    },
+    {
+      "featuredArtist": "Zeds Dead",
+      "featuredArtistId": "67qogtRNI0GjUr8PlaG6Zh",
+      "trackName": "Where The Wild Things Are - Chuurch Remix",
+      "trackId": "632kDZcrIyBWHXYrk29Rlt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/315677ba02bf1829c3370bbb11d72ce8c4671539",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Chuurch",
+      "featuredArtistId": "4gJ3UKYnmB63uNuqlcAhTA",
+      "trackName": "Where The Wild Things Are - Chuurch Remix",
+      "trackId": "632kDZcrIyBWHXYrk29Rlt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/315677ba02bf1829c3370bbb11d72ce8c4671539",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Dr. Ozi",
+      "featuredArtistId": "2tKDLqWxsyXDmWoA4tHspF",
+      "trackName": "Where The Wild Things Are - Dr. Ozi Remix",
+      "trackId": "7mtQri8HgROW175TEmWY4l",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/315677ba02bf1829c3370bbb11d72ce8c4671539",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Golf Clap",
+      "featuredArtistId": "2NBV0SMMP4gvzmqibFlwjN",
+      "trackName": "Where The Wild Things Are - Golf Clap Remix",
+      "trackId": "0TI2NreUM2LRdllun0lt6F",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/315677ba02bf1829c3370bbb11d72ce8c4671539",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Cozway",
+      "featuredArtistId": "6UcfclmOCVpsC2xzQJmX4g",
+      "trackName": "Where The Wild Things Are - Cozway Remix",
+      "trackId": "01aFuWIfua8Pvrd0dPkcP3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/315677ba02bf1829c3370bbb11d72ce8c4671539",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Smalltown DJs",
+      "featuredArtistId": "1qPcb4gGRO6ZsefrOWsh8f",
+      "trackName": "Where The Wild Things Are - Smalltown DJs Remix",
+      "trackId": "0s9VEndhmVXFDS6EJKcsSY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/315677ba02bf1829c3370bbb11d72ce8c4671539",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Michael Grimes",
+      "featuredArtistId": "6nwNkrHrhdfDmFLBJxmc98",
+      "trackName": "Where The Wild Things Are - Smalltown DJs Remix",
+      "trackId": "0s9VEndhmVXFDS6EJKcsSY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/315677ba02bf1829c3370bbb11d72ce8c4671539",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "The Glitch Mob",
+      "featuredArtistId": "3a9qv6NLHnsVxJUtKOMHvD",
+      "trackName": "Crawl Outta Love - The Glitch Mob Remix",
+      "trackId": "1FbnBSVi5kMIkxzYewgG4o",
+      "preview": "https://p.scdn.co/mp3-preview/2d2b77d934dc4e3760f2cb4aa781e58282667463?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/23914a8a64dcc4b8a9f9de87a7b7102afaab82e7",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Kill The Noise",
+      "featuredArtistId": "3qnMl4DHT4gndzFAcG4FlM",
+      "trackName": "Don't Give up on Me",
+      "trackId": "0wO6oeF9kMp1FuIUe1AGWZ",
+      "preview": "https://p.scdn.co/mp3-preview/742ae25a023a4c08a8cf78f9c7c4235efa1df587?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c43c126f5c94e3460fdae65a935ecab5738883",
+      "release_date": "2018-02-13"
+    },
+    {
+      "featuredArtist": "Mako",
+      "featuredArtistId": "0Ye4nfYAA91T1X56gnlXAA",
+      "trackName": "Don't Give up on Me",
+      "trackId": "0wO6oeF9kMp1FuIUe1AGWZ",
+      "preview": "https://p.scdn.co/mp3-preview/742ae25a023a4c08a8cf78f9c7c4235efa1df587?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c43c126f5c94e3460fdae65a935ecab5738883",
+      "release_date": "2018-02-13"
+    },
+    {
+      "featuredArtist": "Julien Marchal",
+      "featuredArtistId": "7e4AmALFiKR69Xra2EksPU",
+      "trackName": "Beautiful Creatures - Julien Marchal Piano Cover",
+      "trackId": "69i2UyZC5RiLbgAuwyLZBL",
+      "preview": "https://p.scdn.co/mp3-preview/232cdcff8df5cd030ded17dfb369a38bef48f956?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/de100575394917501da035500855e76dc4815085",
+      "release_date": "2017-12-22"
+    },
+    {
+      "featuredArtist": "Lorcan Rooney",
+      "featuredArtistId": "1ob0ECrK6QTgGQsTVPQuwq",
+      "trackName": "Fractures - Lorcan Rooney Piano Cover",
+      "trackId": "1lf8E9Z3aywSjrEmwlxIhS",
+      "preview": "https://p.scdn.co/mp3-preview/10586d9964db96940c44c3b3c2b5b279c55b4188?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/de100575394917501da035500855e76dc4815085",
+      "release_date": "2017-12-22"
+    },
+    {
+      "featuredArtist": "Lambert",
+      "featuredArtistId": "5d65Yn3k0jMOLVBWGWDbxH",
+      "trackName": "Crawl Outta Love - Lambert Piano Cover",
+      "trackId": "7HZHENx2hjedVbTR57XgwC",
+      "preview": "https://p.scdn.co/mp3-preview/4db78f4b9c07a65ccc1ae1f2c14f4294a64f3983?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/de100575394917501da035500855e76dc4815085",
+      "release_date": "2017-12-22"
+    },
+    {
+      "featuredArtist": "Marshmello",
+      "featuredArtistId": "64KEffDW9EtZ1y2vBYgq8T",
+      "trackName": "Silence - Illenium Remix",
+      "trackId": "5ip3FCi89E2eDtId6kcJmo",
+      "preview": "https://p.scdn.co/mp3-preview/e4f0e8b7dc5744761a0db1a7c4c969bb242d9d41?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bc5a29b39ae0b90d01f3c06a0f1841657216a070",
+      "release_date": "2017-10-12"
+    },
+    {
+      "featuredArtist": "Khalid",
+      "featuredArtistId": "6LuN9FCkKOj5PcnpouEgny",
+      "trackName": "Silence - Illenium Remix",
+      "trackId": "5ip3FCi89E2eDtId6kcJmo",
+      "preview": "https://p.scdn.co/mp3-preview/e4f0e8b7dc5744761a0db1a7c4c969bb242d9d41?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bc5a29b39ae0b90d01f3c06a0f1841657216a070",
+      "release_date": "2017-10-12"
+    },
+    {
+      "featuredArtist": "Daya",
+      "featuredArtistId": "6Dd3NScHWwnW6obMFbl1BH",
+      "trackName": "Feel Good (feat. Daya) - Abandoned Remix",
+      "trackId": "5IozkntkaQIYnlb961I5Xo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a9bb30dbdd71efbdca00fe840b4bff564891fc14",
+      "release_date": "2017-07-26"
+    },
+    {
+      "featuredArtist": "Abandoned",
+      "featuredArtistId": "1qs72LBhNBAQGwxFAnlo0x",
+      "trackName": "Feel Good (feat. Daya) - Abandoned Remix",
+      "trackId": "5IozkntkaQIYnlb961I5Xo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a9bb30dbdd71efbdca00fe840b4bff564891fc14",
+      "release_date": "2017-07-26"
+    },
+    {
+      "featuredArtist": "Brooks",
+      "featuredArtistId": "4mHAu7NX2UNsnGXjviBD9e",
+      "trackName": "Feel Good (feat. Daya) - Brooks Remix",
+      "trackId": "1GPRHgVXzRfzoc44HEZZQI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a0881ca1b79db7946f9f1ee7fdac087a4df0796c",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Crankdat",
+      "featuredArtistId": "5lCekoJW9jNq01B1wiqdAb",
+      "trackName": "Feel Good (feat. Daya) - Crankdat Remix",
+      "trackId": "0pjeNQwXZ1uzrsyIC2SPCu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a0881ca1b79db7946f9f1ee7fdac087a4df0796c",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Valy Mo",
+      "featuredArtistId": "2GOqvtSlw1DetJcV3p0fYH",
+      "trackName": "Feel Good (feat. Daya) - Valy Mo Remix",
+      "trackId": "4BMacvOZJ7c2VEHp2l5kSn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a0881ca1b79db7946f9f1ee7fdac087a4df0796c",
+      "release_date": "2017-07-21"
+    }
+  ]
+}

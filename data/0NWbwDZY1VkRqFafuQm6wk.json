@@ -1,0 +1,392 @@
+{
+  "artistName": "Mike WiLL Made-It",
+  "features": [
+    {
+      "featuredArtist": "Big Sean",
+      "featuredArtistId": "0c173mlxpT3dSFRgMO8XPh",
+      "trackName": "On The Come Up (feat. Big Sean)",
+      "trackId": "2D68ESzWucbATnxeOrVqIA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Young Thug",
+      "featuredArtistId": "50co4Is1HCEo8bhOyUWKpn",
+      "trackName": "W Y O (What You On) (feat. Young Thug)",
+      "trackId": "4FquJFHPVlvoTit5BLyj0O",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Lil Yachty",
+      "featuredArtistId": "6icQOAFXDZKsumw3YXyusw",
+      "trackName": "Hasselhoff (feat. Lil Yachty)",
+      "trackId": "7sSAByxFjMu9HS2hilBJCH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "21 Savage",
+      "featuredArtistId": "1URnnhqYAYcrqrcwql10ft",
+      "trackName": "Gucci On My (feat. 21 Savage, YG & Migos)",
+      "trackId": "1lxzL05z6JawHE9ETnu06l",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "YG",
+      "featuredArtistId": "0A0FS04o6zMoto8OKPsDwY",
+      "trackName": "Gucci On My (feat. 21 Savage, YG & Migos)",
+      "trackId": "1lxzL05z6JawHE9ETnu06l",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Migos",
+      "featuredArtistId": "6oMuImdp5ZcFhWP0ESe6mG",
+      "trackName": "Gucci On My (feat. 21 Savage, YG & Migos)",
+      "trackId": "1lxzL05z6JawHE9ETnu06l",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Fortune",
+      "featuredArtistId": "0fyK8ccRwCH4QzJS8L9xoZ",
+      "trackName": "Oh Hi Hater (Hiatus) (feat. Fortune)",
+      "trackId": "5Oue1JGa4IvUM9v9S1j6eP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Kendrick Lamar",
+      "featuredArtistId": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "trackName": "Perfect Pint (feat. Kendrick Lamar, Gucci Mane & Rae Sremmurd)",
+      "trackId": "3H1JaS0NUNFjwVcJZ76SgC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Gucci Mane",
+      "featuredArtistId": "13y7CgLHjMVRMDqxdx0Xdo",
+      "trackName": "Perfect Pint (feat. Kendrick Lamar, Gucci Mane & Rae Sremmurd)",
+      "trackId": "3H1JaS0NUNFjwVcJZ76SgC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Rae Sremmurd",
+      "featuredArtistId": "7iZtZyCzp3LItcw1wtPI3D",
+      "trackName": "Perfect Pint (feat. Kendrick Lamar, Gucci Mane & Rae Sremmurd)",
+      "trackId": "3H1JaS0NUNFjwVcJZ76SgC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Future",
+      "featuredArtistId": "1RyvyyTE3xzB2ZywiAwp0i",
+      "trackName": "Razzle Dazzle (feat. Future)",
+      "trackId": "161pKvRQI1JIhk1MWnhlKf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Swae Lee",
+      "featuredArtistId": "1zNqQNIdeOUZHb8zbZRFMX",
+      "trackName": "Bars Of Soap (feat. Swae Lee)",
+      "trackId": "3yywwUANS9Dc74wOGWjizL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Andrea",
+      "featuredArtistId": "74Wo9Z7MKVLYiTpBv46Ern",
+      "trackName": "Burnin (feat. Andrea)",
+      "trackId": "116JNoUTyUAXyNXMqzVsfw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "2 Chainz",
+      "featuredArtistId": "17lzZA2AlOHwCwFALHttmp",
+      "trackName": "Y'all Ain't Ready (feat. 2 Chainz)",
+      "trackId": "3AJDMspxLzpu0ejk1GOobc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Pharrell Williams",
+      "featuredArtistId": "2RdwBSPQiwcmiDo9kixcl8",
+      "trackName": "Aries (YuGo) (feat. Pharrell & Station Wagon P)",
+      "trackId": "6nMrtPMfXoH5iaG43XCsjW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Station Wagon P",
+      "featuredArtistId": "10bRsziCCdq9Ht20lVVrRf",
+      "trackName": "Aries (YuGo) (feat. Pharrell & Station Wagon P)",
+      "trackId": "6nMrtPMfXoH5iaG43XCsjW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Eearz",
+      "featuredArtistId": "1gM6j9hjPg1Mfkq0yPNRP3",
+      "trackName": "Emotions Unlocked (feat. Eearz)",
+      "trackId": "3PPxMN9pQs8LvnC9VR4LJe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Trouble",
+      "featuredArtistId": "0701LAQrkY5Il5vt06uNnC",
+      "trackName": "Big God (feat. Trouble & Problem)",
+      "trackId": "5Z3bN8qE10Ot21TSjuRTHo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Problem",
+      "featuredArtistId": "08RxjVzdq6Xk9GriL5tu6V",
+      "trackName": "Big God (feat. Trouble & Problem)",
+      "trackId": "5Z3bN8qE10Ot21TSjuRTHo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Lil Wayne",
+      "featuredArtistId": "55Aa2cqylxrFIXC767Z865",
+      "trackName": "Faith (feat. Lil Wayne & HoodyBaby)",
+      "trackId": "5EreSRLVyT4PvBJWHGwqcP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Hoodybaby",
+      "featuredArtistId": "13lxs5lLGCBMyGLfmtfLEK",
+      "trackName": "Faith (feat. Lil Wayne & HoodyBaby)",
+      "trackId": "5EreSRLVyT4PvBJWHGwqcP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Chief Keef",
+      "featuredArtistId": "15iVAtD3s3FsQR4w1v6M0P",
+      "trackName": "Come Down (feat. Chief Keef & Rae Sremmurd)",
+      "trackId": "3ALxv9uXBVmApfquNOKWwP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Rihanna",
+      "featuredArtistId": "5pKCCKE2ajJHZ9KAiaK11H",
+      "trackName": "Nothing Is Promised (with Rihanna)",
+      "trackId": "2OKj8eJkeJAd0AcwZAqbhW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/960376b06b91eb2af81eac2838f954dce26f9647",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Problem",
+      "featuredArtistId": "0399oiMcmbOzzsYQDNYqxn",
+      "trackName": "Big God (feat. Trouble & Problem)",
+      "trackId": "7sDCXpzDXb2Kv8YfNltGTE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5f7314fff73a5e2ff6e4127ba962239af617d5bc",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Andrea",
+      "featuredArtistId": "30yi6GjoDDj0pVO9RB0MaG",
+      "trackName": "Burnin (feat. Andrea)",
+      "trackId": "0yTFCUdqpe3GBx4EHecRa6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/373ba906cdf51ce3c2915f90f106be1a090c916b",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Jace",
+      "featuredArtistId": "0q6NUA9CpgElWtjXAnBGri",
+      "trackName": "F*ck U Expect",
+      "trackId": "12CFeB10Qstqf2kTDxjYRw",
+      "preview": "https://p.scdn.co/mp3-preview/83da9d243897bb07d6e2deb7760eab691f9d4440?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b033ff292349f718dcd9ce694fc6e7bd85df92f7",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Cap 1",
+      "featuredArtistId": "7fgzPKgybjWkjRelApW4OF",
+      "trackName": "Someone To Love",
+      "trackId": "4px9K7OOinBsaq49oSE3WV",
+      "preview": "https://p.scdn.co/mp3-preview/3174b22f43d314a9511a1a33b5f4062e006d7d2d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b033ff292349f718dcd9ce694fc6e7bd85df92f7",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Skooly",
+      "featuredArtistId": "4gB2Nnsapxi4chX9f5zgku",
+      "trackName": "Someone To Love",
+      "trackId": "4px9K7OOinBsaq49oSE3WV",
+      "preview": "https://p.scdn.co/mp3-preview/3174b22f43d314a9511a1a33b5f4062e006d7d2d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b033ff292349f718dcd9ce694fc6e7bd85df92f7",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Fortune 5",
+      "featuredArtistId": "2RjP56Z8Iw7v2S5u1G8NL4",
+      "trackName": "Game For A Lame",
+      "trackId": "1nsTUokukMyQwuPzDxojc7",
+      "preview": "https://p.scdn.co/mp3-preview/6295264d6e204d6c338f74cb9440059d53edba11?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b033ff292349f718dcd9ce694fc6e7bd85df92f7",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Bankroll Fresh",
+      "featuredArtistId": "7FBDXY8U17aasVTH3rgxbS",
+      "trackName": "Game For A Lame",
+      "trackId": "1nsTUokukMyQwuPzDxojc7",
+      "preview": "https://p.scdn.co/mp3-preview/6295264d6e204d6c338f74cb9440059d53edba11?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b033ff292349f718dcd9ce694fc6e7bd85df92f7",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Peewee Longway",
+      "featuredArtistId": "0xTcxl35DKXUeYRWqY10w6",
+      "trackName": "Stop-Start",
+      "trackId": "4Jv6f7UyJCSaB6XzDKxEbo",
+      "preview": "https://p.scdn.co/mp3-preview/0d2e274ff13ddb5526fb91c0117a9b1c902a7fad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b033ff292349f718dcd9ce694fc6e7bd85df92f7",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "KEY",
+      "featuredArtistId": "2tMOCIpxj6jwM9e6pmwGiP",
+      "trackName": "Money Long",
+      "trackId": "1GFWGW05csrkmt2KTQ5Ezs",
+      "preview": "https://p.scdn.co/mp3-preview/e1c27cd451fc428f6adbbdb6827e5092e6381510?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b033ff292349f718dcd9ce694fc6e7bd85df92f7",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "LightSkinMac11",
+      "featuredArtistId": "5hXPhOSZNUNV2J9Zi3gh2o",
+      "trackName": "Money Long",
+      "trackId": "1GFWGW05csrkmt2KTQ5Ezs",
+      "preview": "https://p.scdn.co/mp3-preview/e1c27cd451fc428f6adbbdb6827e5092e6381510?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b033ff292349f718dcd9ce694fc6e7bd85df92f7",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Jody HiGHROLLER",
+      "featuredArtistId": "3R32p7BtvSASZmUMSIZQnE",
+      "trackName": "Choppin Blades",
+      "trackId": "3oRU55wJQBad15V0wrKVnS",
+      "preview": "https://p.scdn.co/mp3-preview/1c13d230e3b1ff8659e857bf889c1fa326c7ac2b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b033ff292349f718dcd9ce694fc6e7bd85df92f7",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Slim Jxmmi",
+      "featuredArtistId": "7EEiVZvj6RCEtVX2F2pyxu",
+      "trackName": "Choppin Blades",
+      "trackId": "3oRU55wJQBad15V0wrKVnS",
+      "preview": "https://p.scdn.co/mp3-preview/1c13d230e3b1ff8659e857bf889c1fa326c7ac2b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b033ff292349f718dcd9ce694fc6e7bd85df92f7",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Juicy J",
+      "featuredArtistId": "5gCRApTajqwbnHHPbr2Fpi",
+      "trackName": "Don't Trust",
+      "trackId": "28vfEcDk8O3Scds9m8yHCY",
+      "preview": "https://p.scdn.co/mp3-preview/e7f8019bbbc50b61f1deccfacc73e0e17acf5faf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b033ff292349f718dcd9ce694fc6e7bd85df92f7",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "ILoveMakonnen",
+      "featuredArtistId": "3aGFCoR8xGN6DKwvdzeSja",
+      "trackName": "Swerve",
+      "trackId": "0iYMvz1TYiwX6MFXqjAkIt",
+      "preview": "https://p.scdn.co/mp3-preview/5e9371cb12c11eac51f2d07ec33597117b286026?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b033ff292349f718dcd9ce694fc6e7bd85df92f7",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Yung Joey",
+      "featuredArtistId": "0IQvFUPc6CTOu387l9TV2J",
+      "trackName": "Possible",
+      "trackId": "1C1XE8OHQU3GRDnQtrTrUL",
+      "preview": "https://p.scdn.co/mp3-preview/de32fb31b8d946b76c53ecc27618b5ecbd7b9b1f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b033ff292349f718dcd9ce694fc6e7bd85df92f7",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "DeJ Loaf",
+      "featuredArtistId": "7kFfY4UjNdNyaeUgLIEbIF",
+      "trackName": "Possible",
+      "trackId": "1C1XE8OHQU3GRDnQtrTrUL",
+      "preview": "https://p.scdn.co/mp3-preview/de32fb31b8d946b76c53ecc27618b5ecbd7b9b1f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b033ff292349f718dcd9ce694fc6e7bd85df92f7",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Rich Homie Quan",
+      "featuredArtistId": "5lHRUCqkQZCIWeX7xG4sYT",
+      "trackName": "Hasta Lauego",
+      "trackId": "2Dc3BYBKEvhzhPqX9fPEDn",
+      "preview": "https://p.scdn.co/mp3-preview/c2c11845954d4d525e0cc34be9d937be9e99f854?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b033ff292349f718dcd9ce694fc6e7bd85df92f7",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Drake",
+      "featuredArtistId": "3TVXtAsR1Inumwj472S9r4",
+      "trackName": "Bring It Back (with Drake & Mike WiLL Made-It)",
+      "trackId": "6wQlT5VQU5eM4NYBIJ6wO5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/79a240b808c0da3208769c28d4fe72cab0995e5e",
+      "release_date": "2017-12-29"
+    },
+    {
+      "featuredArtist": "Nicki Minaj",
+      "featuredArtistId": "0hCNtLu0JehylgoiP8L4Gh",
+      "trackName": "Black Barbies",
+      "trackId": "1ophl8m9bAfb9arngrwc2K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/16430b875d1c139c9c419d3db2597bb4b07a89fc",
+      "release_date": "2016-11-30"
+    },
+    {
+      "featuredArtist": "The Weeknd",
+      "featuredArtistId": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "trackName": "Drinks On Us",
+      "trackId": "3Z4iF2sFcW63WclmUYd7IE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/abf574f6599e0b80285d14a4080ff638da16ef33",
+      "release_date": "2015-03-06"
+    }
+  ]
+}

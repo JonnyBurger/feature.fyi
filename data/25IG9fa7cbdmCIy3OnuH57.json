@@ -1,0 +1,23 @@
+{
+  "artistName": "Dixie Chicks",
+  "features": [
+    {
+      "featuredArtist": "Beyoncé",
+      "featuredArtistId": "6vWDO969PvNqNYHIOW5v0m",
+      "trackName": "Daddy Lessons",
+      "trackId": "7tTElNyvXsfFcxDXIiH5cm",
+      "preview": "https://p.scdn.co/mp3-preview/13abb16dc26f5bffca231c085ec5e4893e4a82d9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5926eb190d30789c669b6b8cf3f80f3e2fcbd43a",
+      "release_date": "2016-11-20"
+    },
+    {
+      "featuredArtist": "Tony Bennett",
+      "featuredArtistId": "2lolQgalUvZDfp5vvVtTYV",
+      "trackName": "Lullaby of Broadway",
+      "trackId": "0UNzA1NkPrkNGQKvx2vZk6",
+      "preview": "https://p.scdn.co/mp3-preview/9cbd17b492e934ca4575c9ec50d4a3bea3b48918?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4fcd0c1e4d1463ca3d198b8679467e8ef79e0a8",
+      "release_date": "2006-09-26"
+    }
+  ]
+}

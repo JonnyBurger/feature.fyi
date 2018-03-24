@@ -1,0 +1,23 @@
+{
+  "artistName": "Norah Jones",
+  "features": [
+    {
+      "featuredArtist": "Billie Joe Armstrong",
+      "featuredArtistId": "1MrEurzLcL8ugfP1PrUPWG",
+      "trackName": "Roving Gambler",
+      "trackId": "6W59dlVFXfY7pzQMbV5YNb",
+      "preview": "https://p.scdn.co/mp3-preview/a43ff96326a2db9f64820f98c20131f409ee256e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8bc940e127aa113255cc453ccad6f86ed949b7ca",
+      "release_date": "2013-11-22"
+    },
+    {
+      "featuredArtist": "Jim Campilongo",
+      "featuredArtistId": "0R7w4cJqP8ngw5DPDBDr9k",
+      "trackName": "Sweet Dreams (feat. Norah Jones)",
+      "trackId": "6a7VtbMAOqvakbyhH5zPEi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9d47dbd4a39fcd94fbafb36f399effd6fbcc0b30",
+      "release_date": "2012-10-31"
+    }
+  ]
+}

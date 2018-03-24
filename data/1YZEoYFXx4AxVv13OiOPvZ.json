@@ -1,0 +1,23 @@
+{
+  "artistName": "Devendra Banhart",
+  "features": [
+    {
+      "featuredArtist": "Marisa Monte",
+      "featuredArtistId": "0rSTXALHu0EKAawPLBdODH",
+      "trackName": "Nu Com A Minha Música",
+      "trackId": "4Ly6JWmClDCK5CKEf7zPbu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1e172c6f234dceec3af78742eb9612165d44a53f",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Rodrigo Amarante",
+      "featuredArtistId": "0UOrkpzPED604dKzxgfJqg",
+      "trackName": "Nu Com A Minha Música",
+      "trackId": "4Ly6JWmClDCK5CKEf7zPbu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1e172c6f234dceec3af78742eb9612165d44a53f",
+      "release_date": "2016-04-01"
+    }
+  ]
+}

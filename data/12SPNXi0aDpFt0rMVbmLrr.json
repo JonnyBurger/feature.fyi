@@ -1,0 +1,50 @@
+{
+  "artistName": "Jay Hardway",
+  "features": [
+    {
+      "featuredArtist": "MOTi",
+      "featuredArtistId": "1vo8zHmO1KzkuU9Xxh6J7W",
+      "trackName": "Wired (feat. Babet)",
+      "trackId": "149oWfWgLCtRW88xRCKXu1",
+      "preview": "https://p.scdn.co/mp3-preview/4438ad69cd81c5c5738c17b509bbf2c581e40665?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bd483c5c3d18483ba6b9694d9ac22d22f799c642",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Babet",
+      "featuredArtistId": "2Zx5UnYsOJTrLB7EerhsJh",
+      "trackName": "Wired (feat. Babet)",
+      "trackId": "149oWfWgLCtRW88xRCKXu1",
+      "preview": "https://p.scdn.co/mp3-preview/4438ad69cd81c5c5738c17b509bbf2c581e40665?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bd483c5c3d18483ba6b9694d9ac22d22f799c642",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Martin Garrix",
+      "featuredArtistId": "60d24wfXkVzDSfLS6hyCjZ",
+      "trackName": "Spotless",
+      "trackId": "3lBoISh2FvtpdQt1lsU9nN",
+      "preview": "https://p.scdn.co/mp3-preview/964480d26541fdd938144d1f7b7180feaebb7c4b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e56e064056679cd0f38d9557b8757cf2366bbfb6",
+      "release_date": "2016-10-17"
+    },
+    {
+      "featuredArtist": "Bassjackers",
+      "featuredArtistId": "6xQvQwZQQuq9R3TdPNbcR8",
+      "trackName": "El Mariachi",
+      "trackId": "1mYKiYH2Y9dhsQR0d11FVz",
+      "preview": "https://p.scdn.co/mp3-preview/cb2f68478fdca76ec393a341cb2f09983c7d911d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a776e037fde0b7073f549d0d526e97f1b24e7ec8",
+      "release_date": "2016-08-05"
+    },
+    {
+      "featuredArtist": "DVBBS",
+      "featuredArtistId": "5X4LWwbUFNzPkEas04uU82",
+      "trackName": "Voodoo",
+      "trackId": "0fexUpwvDwfHERi3w6qBKW",
+      "preview": "https://p.scdn.co/mp3-preview/2015ec0d07374a1fff2b8fefe10227adce40090a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/82403aad7ca6368ff634b93dce236b3766b1ece9",
+      "release_date": "2016-05-30"
+    }
+  ]
+}

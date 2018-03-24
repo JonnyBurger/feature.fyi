@@ -1,0 +1,32 @@
+{
+  "artistName": "Jorge Drexler",
+  "features": [
+    {
+      "featuredArtist": "Mon Laferte",
+      "featuredArtistId": "4boI7bJtmB1L3b1cuL75Zr",
+      "trackName": "Asilo (feat. Mon Laferte)",
+      "trackId": "41gpbNDcsSh4r8YgVMbQqh",
+      "preview": "https://p.scdn.co/mp3-preview/a93696ba4517210d1048188c6f41c44d4c7a7470?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c4c86d31404dae0b8765668801d65ed894365c91",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Julieta Venegas",
+      "featuredArtistId": "2QWIScpFDNxmS6ZEMIUvgm",
+      "trackName": "Abracadabras (feat. Julieta Venegas)",
+      "trackId": "2mJYTwrs3lMTJ0Z2TXnbZZ",
+      "preview": "https://p.scdn.co/mp3-preview/ca48c6e02405c0710c2068f8c6e038c382feaaff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c4c86d31404dae0b8765668801d65ed894365c91",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Natalia Lafourcade",
+      "featuredArtistId": "1hcdI2N1023RvSwLzTtdsp",
+      "trackName": "Salvavidas de hielo (feat. Natalia Lafourcade)",
+      "trackId": "70LZISLWsPXGBn1bpJuYAU",
+      "preview": "https://p.scdn.co/mp3-preview/9e3b6fd5faabba5a30ed0f4438f7a8b432ca44cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c4c86d31404dae0b8765668801d65ed894365c91",
+      "release_date": "2017-09-22"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "artistName": "Robin Thicke",
+  "features": [
+    {
+      "featuredArtist": "T.I.",
+      "featuredArtistId": "4OBJLual30L7gRl5UkeRcT",
+      "trackName": "Blurred Lines",
+      "trackId": "6Yqwz5ZgwWDE4znrcDwJWO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/30a010f809e3aedc03fc9c95852d6ad7002a18a6",
+      "release_date": "2014-12-15"
+    },
+    {
+      "featuredArtist": "Pharrell Williams",
+      "featuredArtistId": "2RdwBSPQiwcmiDo9kixcl8",
+      "trackName": "Blurred Lines",
+      "trackId": "6Yqwz5ZgwWDE4znrcDwJWO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/30a010f809e3aedc03fc9c95852d6ad7002a18a6",
+      "release_date": "2014-12-15"
+    },
+    {
+      "featuredArtist": "Kendrick Lamar",
+      "featuredArtistId": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "trackName": "Give It 2 U",
+      "trackId": "4koHu11ONzs3lSb4q54rsj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/30a010f809e3aedc03fc9c95852d6ad7002a18a6",
+      "release_date": "2014-12-15"
+    },
+    {
+      "featuredArtist": "2 Chainz",
+      "featuredArtistId": "17lzZA2AlOHwCwFALHttmp",
+      "trackName": "Give It 2 U - Remix",
+      "trackId": "2zTGOcGeLiUpMqVi8APyPf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/30a010f809e3aedc03fc9c95852d6ad7002a18a6",
+      "release_date": "2014-12-15"
+    },
+    {
+      "featuredArtist": "Cave Kings",
+      "featuredArtistId": "66kj3Mn6SIR3TyB3KTrCr6",
+      "trackName": "Blurred Lines - Bee's Knees Remix",
+      "trackId": "0ZN4YtnBxcKPMgmZlcpDHI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/30a010f809e3aedc03fc9c95852d6ad7002a18a6",
+      "release_date": "2014-12-15"
+    },
+    {
+      "featuredArtist": "Vitaa",
+      "featuredArtistId": "0Ntl0oWMPWfBOoi9Qcr9ht",
+      "trackName": "Feel Good",
+      "trackId": "6xHszEN8DZ2Jt6rxD9PkWT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4a907ab8330c6892075cc1e61c756f075c6a7468",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "J Balvin",
+      "featuredArtistId": "1vyhD5VmyZ7KMfW5gqLgo5",
+      "trackName": "Blurred Lines",
+      "trackId": "0iYXdwGOWedOKJXEd0RaTV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bdf1eb0a6760093ee663232537c21a58cefcf590",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Lil Wayne",
+      "featuredArtistId": "55Aa2cqylxrFIXC767Z865",
+      "trackName": "Pretty Lil' Heart",
+      "trackId": "7HitK2gaADytpuOjkHXmWH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/18fa68586250692d7024e42ade1592b4f2819c02",
+      "release_date": "2011-01-01"
+    }
+  ]
+}

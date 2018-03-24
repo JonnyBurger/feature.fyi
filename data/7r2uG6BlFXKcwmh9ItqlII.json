@@ -1,0 +1,59 @@
+{
+  "artistName": "Wrabel",
+  "features": [
+    {
+      "featuredArtist": "Magical Thinker",
+      "featuredArtistId": "6gPHdKkaoP152zp04WDdq1",
+      "trackName": "It's You",
+      "trackId": "3O8AgNdf569SM1tcUA4xnK",
+      "preview": "https://p.scdn.co/mp3-preview/d3ed632a1e9024fe236a566b7ce764792c8f6126?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d9fd2679c9bc4e993e79a183f44541442edfed5a",
+      "release_date": "2017-07-26"
+    },
+    {
+      "featuredArtist": "Galantis",
+      "featuredArtistId": "4sTQVOfp9vEMCemLw50sbu",
+      "trackName": "Bloodstain - Galantis Remix",
+      "trackId": "6dTtHp41q4sNdAxOR8oUaT",
+      "preview": "https://p.scdn.co/mp3-preview/96ac07f38c1ee42c94c476301bb2888720d33c9d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b7589d86aebc5ee8e7e9eeb122c7e6c4682a2c55",
+      "release_date": "2017-03-31"
+    },
+    {
+      "featuredArtist": "Kygo",
+      "featuredArtistId": "23fqKkggKUBHNkbKtXEls4",
+      "trackName": "With You",
+      "trackId": "7gleE2w0CsjsWCs184n522",
+      "preview": "https://p.scdn.co/mp3-preview/9e2108ea11e06fbb73b05bab78e6b733353f63f2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f4381e0dbbe8f3f8a7407fbeb7bb45cc7f490319",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Afrojack",
+      "featuredArtistId": "4D75GcNG95ebPtNvoNVXhz",
+      "trackName": "Ten Feet Tall",
+      "trackId": "3FpnqM01A1rFJgHbLvVimG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d0e625570e4fe42356e8e4fb8afc066c7a58d912",
+      "release_date": "2017-10-25"
+    },
+    {
+      "featuredArtist": "David Guetta",
+      "featuredArtistId": "1Cs0zKBU1kc0i8ypK3B9ai",
+      "trackName": "Ten Feet Tall - David Guetta Remix",
+      "trackId": "3ufYBVWnHN3W1HNKmFigdM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6002cb6e775362b5cdf66cb55f3320741be42681",
+      "release_date": "2017-04-19"
+    },
+    {
+      "featuredArtist": "Marshmello",
+      "featuredArtistId": "64KEffDW9EtZ1y2vBYgq8T",
+      "trackName": "Ritual (feat. Wrabel)",
+      "trackId": "04AYgtKFrpldRXe5y0LNGQ",
+      "preview": "https://p.scdn.co/mp3-preview/7e1a141528f3e3552c1f6fabc475e45c0d6a717e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a36a4285dedb3f3b0c2bfd7f50bc7897f2fd7188",
+      "release_date": "2016-10-27"
+    }
+  ]
+}

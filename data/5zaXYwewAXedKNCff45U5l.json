@@ -1,0 +1,41 @@
+{
+  "artistName": "Dusty Springfield",
+  "features": [
+    {
+      "featuredArtist": "The Echoes",
+      "featuredArtistId": "3NIenDn2OsCH7GDyY3Uw2w",
+      "trackName": "Go Ahead On - Mono Version",
+      "trackId": "5sODjNyiy9cNILV7GrOQO3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae9e12b79de91b64813f37b748504ec6546f43db",
+      "release_date": "2016-09-23"
+    },
+    {
+      "featuredArtist": "Mike Gill",
+      "featuredArtistId": "649rmWTqRuxL5Ny9VPIgjC",
+      "trackName": "What's It Gonna Be? - Remix / Mono Version",
+      "trackId": "48TMvTrnYFxs58JOKnNnGl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae9e12b79de91b64813f37b748504ec6546f43db",
+      "release_date": "2016-09-23"
+    },
+    {
+      "featuredArtist": "Roger Wake",
+      "featuredArtistId": "5JVhsbf4ZhuGBeTJBaqfEr",
+      "trackName": "What's It Gonna Be? - Remix / Mono Version",
+      "trackId": "48TMvTrnYFxs58JOKnNnGl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae9e12b79de91b64813f37b748504ec6546f43db",
+      "release_date": "2016-09-23"
+    },
+    {
+      "featuredArtist": "Daryl Hall",
+      "featuredArtistId": "5jit9WjiAxxvdA0onOHBLd",
+      "trackName": "Wherever Would I Be?",
+      "trackId": "7cOKFuFCYxW72IjsJo5hqY",
+      "preview": "https://p.scdn.co/mp3-preview/06279848a5829881cd27823c8609c2fa4d4ab6e0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/abdd108ad145ccad40599ffaf96b7ceba59da730",
+      "release_date": "1995-05-31"
+    }
+  ]
+}

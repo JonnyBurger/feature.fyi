@@ -1,0 +1,455 @@
+{
+  "artistName": "Big Boi",
+  "features": [
+    {
+      "featuredArtist": "Big Rube",
+      "featuredArtistId": "39uOfkRb9XnAEW9zs3JCbb",
+      "trackName": "Da Next Day (feat. Big Rube)",
+      "trackId": "5en4mR4gaalWze38yBXfmy",
+      "preview": "https://p.scdn.co/mp3-preview/a35a3a4026849d0fe9bbc9422291e521952309a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e10e5ee5a67af4cacfb17dc133ee280340c5bb9",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Killer Mike",
+      "featuredArtistId": "2N4EYkIlG1kv25g6Wv8LGI",
+      "trackName": "Kill Jill (feat. Killer Mike & Jeezy)",
+      "trackId": "2TYyvCJgikY7B2AfHPE67M",
+      "preview": "https://p.scdn.co/mp3-preview/1cb344e49f240ec1ae951c074f50fc9cb8c46216?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e10e5ee5a67af4cacfb17dc133ee280340c5bb9",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Jeezy",
+      "featuredArtistId": "4yBK75WVCQXej1p04GWqxH",
+      "trackName": "Kill Jill (feat. Killer Mike & Jeezy)",
+      "trackId": "2TYyvCJgikY7B2AfHPE67M",
+      "preview": "https://p.scdn.co/mp3-preview/1cb344e49f240ec1ae951c074f50fc9cb8c46216?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e10e5ee5a67af4cacfb17dc133ee280340c5bb9",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Adam Levine",
+      "featuredArtistId": "4bYPcJP5jwMhSivRcqie2n",
+      "trackName": "Mic Jack (feat. Adam Levine, Scar & Sleepy Brown)",
+      "trackId": "2O9VX0twMXnLpxiMZm6SPx",
+      "preview": "https://p.scdn.co/mp3-preview/d1c255e691f14e52988e8513de35eccdaf8b88eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e10e5ee5a67af4cacfb17dc133ee280340c5bb9",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Scar",
+      "featuredArtistId": "1coyeuSsdVsWKfDOa6QXQF",
+      "trackName": "Mic Jack (feat. Adam Levine, Scar & Sleepy Brown)",
+      "trackId": "2O9VX0twMXnLpxiMZm6SPx",
+      "preview": "https://p.scdn.co/mp3-preview/d1c255e691f14e52988e8513de35eccdaf8b88eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e10e5ee5a67af4cacfb17dc133ee280340c5bb9",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Sleepy Brown",
+      "featuredArtistId": "7Dnu2NmddNymEI2LMZVH5v",
+      "trackName": "Mic Jack (feat. Adam Levine, Scar & Sleepy Brown)",
+      "trackId": "2O9VX0twMXnLpxiMZm6SPx",
+      "preview": "https://p.scdn.co/mp3-preview/d1c255e691f14e52988e8513de35eccdaf8b88eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e10e5ee5a67af4cacfb17dc133ee280340c5bb9",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Gucci Mane",
+      "featuredArtistId": "13y7CgLHjMVRMDqxdx0Xdo",
+      "trackName": "In the South (feat. Gucci Mane & Pimp C)",
+      "trackId": "1QhR2Pr0jX5DSDtSQvMdlC",
+      "preview": "https://p.scdn.co/mp3-preview/2f02bd56f19bf77682bf0751c072c2f324f4edaf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e10e5ee5a67af4cacfb17dc133ee280340c5bb9",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Pimp C",
+      "featuredArtistId": "7v9bFXCdSMA2o3gS4nvp0F",
+      "trackName": "In the South (feat. Gucci Mane & Pimp C)",
+      "trackId": "1QhR2Pr0jX5DSDtSQvMdlC",
+      "preview": "https://p.scdn.co/mp3-preview/2f02bd56f19bf77682bf0751c072c2f324f4edaf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e10e5ee5a67af4cacfb17dc133ee280340c5bb9",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Snoop Dogg",
+      "featuredArtistId": "7hJcb9fa4alzcOq3EaNPoG",
+      "trackName": "Get Wit It (feat. Snoop Dogg)",
+      "trackId": "1Nrpn0TPX023rFeRayL5Po",
+      "preview": "https://p.scdn.co/mp3-preview/7b58e423a04c46239c2edbe6bd9f341748d88011?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e10e5ee5a67af4cacfb17dc133ee280340c5bb9",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Eric Bellinger",
+      "featuredArtistId": "7ibAWtDtmEfaVhc1FJ3Vl9",
+      "trackName": "Overthunk (feat. Eric Bellinger)",
+      "trackId": "16X7FkBX6L6j1Sul1twKRx",
+      "preview": "https://p.scdn.co/mp3-preview/840b1f431853ff4ecfeeeccb67436343b8dd5f78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e10e5ee5a67af4cacfb17dc133ee280340c5bb9",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Trozé",
+      "featuredArtistId": "1IPygUCTMzOMiY6Y7xPvnh",
+      "trackName": "Chocolate (feat. Trozé)",
+      "trackId": "4CSI3bZF7XqLjwfxxdpw0y",
+      "preview": "https://p.scdn.co/mp3-preview/3a50dc6fecd4e67a7a12ca6dc38c620ab2bb154a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e10e5ee5a67af4cacfb17dc133ee280340c5bb9",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Kurupt",
+      "featuredArtistId": "6NyJIFHAePjHR1pFxwisqz",
+      "trackName": "Made Man (feat. Killer Mike & Kurupt)",
+      "trackId": "1vJHlqa2iZ0LwSsfxl7zIp",
+      "preview": "https://p.scdn.co/mp3-preview/c798199a671d21295546bd076489c5e94c99fd12?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e10e5ee5a67af4cacfb17dc133ee280340c5bb9",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Curren$y",
+      "featuredArtistId": "6X8WdFjrNhXATMDSs26aCc",
+      "trackName": "Follow Deez (feat. Curren$y & Killer Mike)",
+      "trackId": "0aShO4sdT9zT6677WfRAbc",
+      "preview": "https://p.scdn.co/mp3-preview/1b02fa7167ee76a3035863450c98e946b0e7023f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e10e5ee5a67af4cacfb17dc133ee280340c5bb9",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Phantogram",
+      "featuredArtistId": "1l9d7B8W0IHy3LqWsxP2SH",
+      "trackName": "Objectum Sexuality",
+      "trackId": "636oMw3d8wT4Zzn195kErj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a40f064731a5adee84910f96cff98c27a2d10c5a",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "T.I.",
+      "featuredArtistId": "4OBJLual30L7gRl5UkeRcT",
+      "trackName": "In The A",
+      "trackId": "1k6zWOqWZQibu6Oxi8UEFf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a40f064731a5adee84910f96cff98c27a2d10c5a",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "Ludacris",
+      "featuredArtistId": "3ipn9JLAPI5GUEo4y4jcoi",
+      "trackName": "In The A",
+      "trackId": "1k6zWOqWZQibu6Oxi8UEFf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a40f064731a5adee84910f96cff98c27a2d10c5a",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "Kid Cudi",
+      "featuredArtistId": "0fA0VVWsXO9YnASrzqfmYu",
+      "trackName": "She Hates Me",
+      "trackId": "1MBoWQAUEzMkRtbbFKbtXb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a40f064731a5adee84910f96cff98c27a2d10c5a",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "Little Dragon",
+      "featuredArtistId": "6Tyzp9KzpiZ04DABQoedps",
+      "trackName": "Thom Pettie",
+      "trackId": "5XKDFZSF50OEBhyAKDgwRh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a40f064731a5adee84910f96cff98c27a2d10c5a",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "Kelly Rowland",
+      "featuredArtistId": "3AuMNF8rQAKOzjYppFNAoB",
+      "trackName": "Mama Told Me",
+      "trackId": "70YbK34W9UyEIQGmBW12Xq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a40f064731a5adee84910f96cff98c27a2d10c5a",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "A$AP Rocky",
+      "featuredArtistId": "13ubrt8QOOCPljQ2FL1Kca",
+      "trackName": "Lines",
+      "trackId": "2T5O5rE0vVBeb3IxCTxzND",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a40f064731a5adee84910f96cff98c27a2d10c5a",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "B.o.B",
+      "featuredArtistId": "5ndkK3dpZLKtBklKjxNQwT",
+      "trackName": "Shoes For Running",
+      "trackId": "225gqtTcsE8cfFtfKNTVjt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a40f064731a5adee84910f96cff98c27a2d10c5a",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "Wavves",
+      "featuredArtistId": "6bUJpbekaIlq2fT5FMV2mQ",
+      "trackName": "Shoes For Running",
+      "trackId": "225gqtTcsE8cfFtfKNTVjt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a40f064731a5adee84910f96cff98c27a2d10c5a",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "Mouche",
+      "featuredArtistId": "2HOUiJNxGAiWdnVENQ9I84",
+      "trackName": "Raspberries",
+      "trackId": "2b1zuzrbMK7dGOK9Y58RrS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a40f064731a5adee84910f96cff98c27a2d10c5a",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "Scar",
+      "featuredArtistId": "0TwInLbTQftxxBwFfURJb2",
+      "trackName": "Raspberries",
+      "trackId": "2b1zuzrbMK7dGOK9Y58RrS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a40f064731a5adee84910f96cff98c27a2d10c5a",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "Bosko",
+      "featuredArtistId": "35vghfijSgjpXlOMDjpLWc",
+      "trackName": "Tremendous Damage",
+      "trackId": "1yBSYK4iniUy4WW6xAckx1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a40f064731a5adee84910f96cff98c27a2d10c5a",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "Jaipaul",
+      "featuredArtistId": "03Tbyv64cxPOHasLgMlL4q",
+      "trackName": "Higher Res",
+      "trackId": "6NpygPnlP29MJxfSwre8rK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a40f064731a5adee84910f96cff98c27a2d10c5a",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "UGK",
+      "featuredArtistId": "6ZhjJOJXXwnPS8PrXdmjLw",
+      "trackName": "Gossip",
+      "trackId": "4zEgMFlGTMFYzPyVKSekNW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a40f064731a5adee84910f96cff98c27a2d10c5a",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "Big K.R.I.T.",
+      "featuredArtistId": "0CKa42Jqrc9fSFbDjePaXP",
+      "trackName": "Gossip",
+      "trackId": "4zEgMFlGTMFYzPyVKSekNW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a40f064731a5adee84910f96cff98c27a2d10c5a",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "Theophilus London",
+      "featuredArtistId": "4EMtGVFvfCSrEmWaGV0roE",
+      "trackName": "She Said OK",
+      "trackId": "1MGnGwSnhLddXLkmzldT2B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a40f064731a5adee84910f96cff98c27a2d10c5a",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "Tre Luce",
+      "featuredArtistId": "3KGMeBQG8sGlZTBtsNA4Im",
+      "trackName": "She Said OK",
+      "trackId": "1MGnGwSnhLddXLkmzldT2B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a40f064731a5adee84910f96cff98c27a2d10c5a",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "Scar",
+      "featuredArtistId": "2c6tGEUCx32UKeT5Xa8sJg",
+      "trackName": "Raspberries",
+      "trackId": "5nBpdGY8FsiG69eAJ33PvU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7a91e24683c6b5a477f3b1371e5c13992fda26ef",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Bosko",
+      "featuredArtistId": "3No12CB8EetIYpAX8jSjxe",
+      "trackName": "Tremendous Damage",
+      "trackId": "3KjoigawDh40ostPjOc1qU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7a91e24683c6b5a477f3b1371e5c13992fda26ef",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Jai Paul",
+      "featuredArtistId": "53wZLCnhshZKDRs3uopFBc",
+      "trackName": "Higher Res",
+      "trackId": "0k6ZgmXzHIsju159Xq4mQF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7a91e24683c6b5a477f3b1371e5c13992fda26ef",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Joi",
+      "featuredArtistId": "0ulZIID59tvIwcfTkiYLy5",
+      "trackName": "Turns Me On",
+      "trackId": "1SJ1nVT9E1YS04rrLoMzvD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c6bd58eaaa5146d1b73f7ded6148c4358bece239",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Vonnegutt",
+      "featuredArtistId": "71j2EC2cNElHoCWzvbyZJI",
+      "trackName": "Follow Us",
+      "trackId": "0ta9KivWqjZbGSrCYb0D0y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c6bd58eaaa5146d1b73f7ded6148c4358bece239",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Cutty",
+      "featuredArtistId": "3jhkLfgJKRu9Lb0AQd7fkB",
+      "trackName": "Shutterbugg",
+      "trackId": "6llAqB4o2GS2Sx0rKvDIK0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c6bd58eaaa5146d1b73f7ded6148c4358bece239",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Khujo Goodie",
+      "featuredArtistId": "28i3mntNBlXpjstb1nHhkJ",
+      "trackName": "Tangerine",
+      "trackId": "7EOcQ3n2pvC7MgzPWXA4R1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c6bd58eaaa5146d1b73f7ded6148c4358bece239",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Yelawolf",
+      "featuredArtistId": "68DWke2VjdDmA75aJX5C57",
+      "trackName": "You Ain't No DJ",
+      "trackId": "1nWPOeeeEaX3elRo01WsFI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c6bd58eaaa5146d1b73f7ded6148c4358bece239",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Jamie Foxx",
+      "featuredArtistId": "7LnaAXbDVIL75IVPnndf7w",
+      "trackName": "Hustle Blood",
+      "trackId": "5RCITmiAwXjCosvwJmJvSx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c6bd58eaaa5146d1b73f7ded6148c4358bece239",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Janelle Monáe",
+      "featuredArtistId": "6ueGR6SWhUJfvEhqkvMsVs",
+      "trackName": "Be Still",
+      "trackId": "0nz835zdEflBPOVm96NcRb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c6bd58eaaa5146d1b73f7ded6148c4358bece239",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "George Clinton",
+      "featuredArtistId": "2GVBp7QyHckoOg7rYkLvrA",
+      "trackName": "Fo Yo Sorrows",
+      "trackId": "4mVr1RaWOZb3hpYHv2651y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c6bd58eaaa5146d1b73f7ded6148c4358bece239",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Too $hort",
+      "featuredArtistId": "4sb7rZNN93BSS6Gqgepo4v",
+      "trackName": "Fo Yo Sorrows",
+      "trackId": "4mVr1RaWOZb3hpYHv2651y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c6bd58eaaa5146d1b73f7ded6148c4358bece239",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Sam Chris",
+      "featuredArtistId": "4PEmBKj3de3Sq1eadvYf11",
+      "trackName": "Fo Yo Sorrows",
+      "trackId": "4mVr1RaWOZb3hpYHv2651y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c6bd58eaaa5146d1b73f7ded6148c4358bece239",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Bun B",
+      "featuredArtistId": "45a6gCQWq61lIUDmr1tKuO",
+      "trackName": "Shine Blockas Remix",
+      "trackId": "1RNyGJZE4H3SGRTJIu9N1K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8d8dc82ab15ec1ef8886e47aaab1f222becbd1be",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Project Pat",
+      "featuredArtistId": "08Ld63UgKrJ0nZnCkzHtzc",
+      "trackName": "Shine Blockas Remix",
+      "trackId": "1RNyGJZE4H3SGRTJIu9N1K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8d8dc82ab15ec1ef8886e47aaab1f222becbd1be",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Dub Go Diesel",
+      "featuredArtistId": "3iNBxmJQ8z0U01ZAJouV9i",
+      "trackName": "My City (feat. Dub Go Diesel, B-Eazy, 834, Street Gov & Kae Wun)",
+      "trackId": "2ETIYoKhwsqeoM00F1WYNu",
+      "preview": "https://p.scdn.co/mp3-preview/a62571c46ffc671145d6eb477b3a1e68baa7b129?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/180340c846c051dacf9bc833108f1a882eea7c5c",
+      "release_date": "2015-09-12"
+    },
+    {
+      "featuredArtist": "B-Eazy",
+      "featuredArtistId": "2SXhQZWiqgfs3OU4M6PlZg",
+      "trackName": "My City (feat. Dub Go Diesel, B-Eazy, 834, Street Gov & Kae Wun)",
+      "trackId": "2ETIYoKhwsqeoM00F1WYNu",
+      "preview": "https://p.scdn.co/mp3-preview/a62571c46ffc671145d6eb477b3a1e68baa7b129?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/180340c846c051dacf9bc833108f1a882eea7c5c",
+      "release_date": "2015-09-12"
+    },
+    {
+      "featuredArtist": "8:34",
+      "featuredArtistId": "3qLMcoi3s9dscSPY3M6PlL",
+      "trackName": "My City (feat. Dub Go Diesel, B-Eazy, 834, Street Gov & Kae Wun)",
+      "trackId": "2ETIYoKhwsqeoM00F1WYNu",
+      "preview": "https://p.scdn.co/mp3-preview/a62571c46ffc671145d6eb477b3a1e68baa7b129?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/180340c846c051dacf9bc833108f1a882eea7c5c",
+      "release_date": "2015-09-12"
+    },
+    {
+      "featuredArtist": "Street Gov",
+      "featuredArtistId": "7bcaUmwEQ6f0hOX5H8fTDy",
+      "trackName": "My City (feat. Dub Go Diesel, B-Eazy, 834, Street Gov & Kae Wun)",
+      "trackId": "2ETIYoKhwsqeoM00F1WYNu",
+      "preview": "https://p.scdn.co/mp3-preview/a62571c46ffc671145d6eb477b3a1e68baa7b129?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/180340c846c051dacf9bc833108f1a882eea7c5c",
+      "release_date": "2015-09-12"
+    },
+    {
+      "featuredArtist": "Kae Wun",
+      "featuredArtistId": "2ZPC7LOTqzUQKSjbaVcufu",
+      "trackName": "My City (feat. Dub Go Diesel, B-Eazy, 834, Street Gov & Kae Wun)",
+      "trackId": "2ETIYoKhwsqeoM00F1WYNu",
+      "preview": "https://p.scdn.co/mp3-preview/a62571c46ffc671145d6eb477b3a1e68baa7b129?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/180340c846c051dacf9bc833108f1a882eea7c5c",
+      "release_date": "2015-09-12"
+    }
+  ]
+}

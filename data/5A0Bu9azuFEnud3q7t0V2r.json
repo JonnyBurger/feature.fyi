@@ -1,0 +1,752 @@
+{
+  "artistName": "Petter",
+  "features": [
+    {
+      "featuredArtist": "Martin Elisson",
+      "featuredArtistId": "7cv4q8seRBBiaAqO9TQiy1",
+      "trackName": "Håll om mig",
+      "trackId": "2GPCb8zrvGVCRi7IVoGuUC",
+      "preview": "https://p.scdn.co/mp3-preview/dcecaeac39bd4df5f2635a389c45e411732d4f23?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6fab9fc8e6002b757307f0efdb77707a8e8f57fb",
+      "release_date": "2016-10-28"
+    },
+    {
+      "featuredArtist": "Linnea Henriksson",
+      "featuredArtistId": "3IsULVZIf4iGp9ExB7yJVq",
+      "trackName": "Se på mig nu",
+      "trackId": "47yzp403ufJ9PABezNC6HY",
+      "preview": "https://p.scdn.co/mp3-preview/ddb668cb82448c08e45de601f01acc78335de258?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6fab9fc8e6002b757307f0efdb77707a8e8f57fb",
+      "release_date": "2016-10-28"
+    },
+    {
+      "featuredArtist": "Jubilees",
+      "featuredArtistId": "0Gayz1bEvEkaRb4D0y8Tif",
+      "trackName": "Mamma sa till mig",
+      "trackId": "0G85qYHElDOtEJ4bowk5us",
+      "preview": "https://p.scdn.co/mp3-preview/0fc908e28d5090b4a191438728bf22faad0db216?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6fab9fc8e6002b757307f0efdb77707a8e8f57fb",
+      "release_date": "2016-10-28"
+    },
+    {
+      "featuredArtist": "Håkan Hellström",
+      "featuredArtistId": "3H7Ez7cwaYw4L3ELy4v3Lc",
+      "trackName": "Storstadsidyll",
+      "trackId": "6fUu0Gr804Pb1TkYUHpGwo",
+      "preview": "https://p.scdn.co/mp3-preview/8e14c0fe470d01473c63163bf6161a7582936e03?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6fab9fc8e6002b757307f0efdb77707a8e8f57fb",
+      "release_date": "2016-10-28"
+    },
+    {
+      "featuredArtist": "Eva Dahlgren",
+      "featuredArtistId": "7IK2JpZglDYTrso4ILEKE0",
+      "trackName": "Längesen",
+      "trackId": "47XbvKkzaVLxrRhIwrXPch",
+      "preview": "https://p.scdn.co/mp3-preview/6c88e7d1622929226b72f9926c9f3349ca83f66b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6fab9fc8e6002b757307f0efdb77707a8e8f57fb",
+      "release_date": "2016-10-28"
+    },
+    {
+      "featuredArtist": "Franska Trion",
+      "featuredArtistId": "1oDZOVYmQduTh3G4nmsyqv",
+      "trackName": "Du vet att jag gråter",
+      "trackId": "6dwDyLt1Yut5YJvmM5hNQU",
+      "preview": "https://p.scdn.co/mp3-preview/00a62ec91f65d4c075f5bd54d56ff9ba066ee7ea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6fab9fc8e6002b757307f0efdb77707a8e8f57fb",
+      "release_date": "2016-10-28"
+    },
+    {
+      "featuredArtist": "Jonas Kullhammar",
+      "featuredArtistId": "3hHc4tqyPsRJOzzqaxkadB",
+      "trackName": "Du vet att jag gråter",
+      "trackId": "6dwDyLt1Yut5YJvmM5hNQU",
+      "preview": "https://p.scdn.co/mp3-preview/00a62ec91f65d4c075f5bd54d56ff9ba066ee7ea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6fab9fc8e6002b757307f0efdb77707a8e8f57fb",
+      "release_date": "2016-10-28"
+    },
+    {
+      "featuredArtist": "Eye N'I",
+      "featuredArtistId": "5NnyV6RNHKNEqZcS4tZl4Y",
+      "trackName": "Så klart",
+      "trackId": "1xcOmKrgqhpsooMGvXq80q",
+      "preview": "https://p.scdn.co/mp3-preview/b155dad94fd3a436490d6421e1c5ca18d5df01dd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6fab9fc8e6002b757307f0efdb77707a8e8f57fb",
+      "release_date": "2016-10-28"
+    },
+    {
+      "featuredArtist": "Martin Chandra",
+      "featuredArtistId": "3c9LhUagETuKLmGNj3yvkQ",
+      "trackName": "Själen",
+      "trackId": "3pnLlXi2bpbJBOc7A1OQJe",
+      "preview": "https://p.scdn.co/mp3-preview/2a35b3c7ca98a95367677521e96c2b41f1b4f8c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6fab9fc8e6002b757307f0efdb77707a8e8f57fb",
+      "release_date": "2016-10-28"
+    },
+    {
+      "featuredArtist": "Linnea Olsson",
+      "featuredArtistId": "5URaqWGLWi0maxmjctj8I0",
+      "trackName": "Natt & dag",
+      "trackId": "5VHJP2kifdGzDqsJSFNArP",
+      "preview": "https://p.scdn.co/mp3-preview/92746c44e4ae1f722377f5084c0a68d4126cef6a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6fab9fc8e6002b757307f0efdb77707a8e8f57fb",
+      "release_date": "2016-10-28"
+    },
+    {
+      "featuredArtist": "Lisa Isaksson",
+      "featuredArtistId": "5FPYrHhIeNE1C6YOWWD30s",
+      "trackName": "Vi är",
+      "trackId": "6lldbZKQ6pqUPourWgjRh1",
+      "preview": "https://p.scdn.co/mp3-preview/389a170314fb6d8e283caeac76cd2a2c986dcd4a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6fab9fc8e6002b757307f0efdb77707a8e8f57fb",
+      "release_date": "2016-10-28"
+    },
+    {
+      "featuredArtist": "Daniel Adams-Ray",
+      "featuredArtistId": "4C86wrjOUfXQDlt6A4oJOC",
+      "trackName": "Mitt folk",
+      "trackId": "7gcpLLB7MDQ7sNpKYtgPDU",
+      "preview": "https://p.scdn.co/mp3-preview/16c626a8904caec38781a065a47f97908840f2af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9a7cbae5815328a98286575e623a2077a8418c7",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Sabina Ddumba",
+      "featuredArtistId": "2Mp409M6EpFr3kGdQ1mwjS",
+      "trackName": "Kall vinter",
+      "trackId": "2DpTTZAlozQ2ottifrzr3z",
+      "preview": "https://p.scdn.co/mp3-preview/6b6895e4c43f5005a36374e437c3da61f0d6bc08?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9a7cbae5815328a98286575e623a2077a8418c7",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Sam-E",
+      "featuredArtistId": "2QimB7f411aWnSDwecMubJ",
+      "trackName": "Kul på vägen",
+      "trackId": "6wbhcpSJcizwAETyOdbgAi",
+      "preview": "https://p.scdn.co/mp3-preview/8569802aca933d95fe692dd30fabdef922b25750?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9a7cbae5815328a98286575e623a2077a8418c7",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Sara Zacharias",
+      "featuredArtistId": "5oLdTp4J7RJtC43nBnP9Hg",
+      "trackName": "Kul på vägen",
+      "trackId": "6wbhcpSJcizwAETyOdbgAi",
+      "preview": "https://p.scdn.co/mp3-preview/8569802aca933d95fe692dd30fabdef922b25750?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9a7cbae5815328a98286575e623a2077a8418c7",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Duvchi",
+      "featuredArtistId": "0Pv1zES3REvZ4OuYrW2tGc",
+      "trackName": "Tusen sorger",
+      "trackId": "5gJzMBmDxqNDow8XjzmbHI",
+      "preview": "https://p.scdn.co/mp3-preview/ec9dbade96d5da6b6ae11003e43c53b5a07fbaba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9a7cbae5815328a98286575e623a2077a8418c7",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Jaqe",
+      "featuredArtistId": "6GFNszjoVtonHtwNFGUABT",
+      "trackName": "Vandrar",
+      "trackId": "1Bv9R9XZ2c40EeapNQ55oB",
+      "preview": "https://p.scdn.co/mp3-preview/d9e6492c26c4b39a1e36e10aaf7b106b30c42fe0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9a7cbae5815328a98286575e623a2077a8418c7",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Lilla Namo",
+      "featuredArtistId": "2DsNd8GBB1y1J0XMq0nT6s",
+      "trackName": "Vandrar",
+      "trackId": "1Bv9R9XZ2c40EeapNQ55oB",
+      "preview": "https://p.scdn.co/mp3-preview/d9e6492c26c4b39a1e36e10aaf7b106b30c42fe0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9a7cbae5815328a98286575e623a2077a8418c7",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Daniel Boyacioglu",
+      "featuredArtistId": "6PRMHJ2Hs5eDWycajrl7fd",
+      "trackName": "Leva & dö",
+      "trackId": "3vnu0BowElxVfOOEbhotvQ",
+      "preview": "https://p.scdn.co/mp3-preview/b2759edb4330f0bebcfab28131906c9faa32a9ad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9a7cbae5815328a98286575e623a2077a8418c7",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Organismen",
+      "featuredArtistId": "3emB29NMQgg857lVCa241t",
+      "trackName": "Grönt ljus",
+      "trackId": "1XcoDVHICGTbcQ4ZZi9uWn",
+      "preview": "https://p.scdn.co/mp3-preview/aa807872df0ae3c5d0aa06415081e02325e4ef9e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9a7cbae5815328a98286575e623a2077a8418c7",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Blen",
+      "featuredArtistId": "6xRxLNPuTgJ56RyCRk1dB7",
+      "trackName": "Grönt ljus",
+      "trackId": "1XcoDVHICGTbcQ4ZZi9uWn",
+      "preview": "https://p.scdn.co/mp3-preview/aa807872df0ae3c5d0aa06415081e02325e4ef9e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9a7cbae5815328a98286575e623a2077a8418c7",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Fille",
+      "featuredArtistId": "5SqLkoaEA3HOgPkesCQkKx",
+      "trackName": "Firar",
+      "trackId": "6OaAg4cBUq69NgZG1fZLxe",
+      "preview": "https://p.scdn.co/mp3-preview/f9c3be88ccd9ccbf60e08cb5644994bb6864bee4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9a7cbae5815328a98286575e623a2077a8418c7",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Rosh",
+      "featuredArtistId": "739zjStIc6EHrV5thshKkp",
+      "trackName": "Följer mig",
+      "trackId": "7AQROlmlKAuWgHtPddvonL",
+      "preview": "https://p.scdn.co/mp3-preview/341d5977a3ddce869bbb7f980f158883d0a6b3de?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9a7cbae5815328a98286575e623a2077a8418c7",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Yasin",
+      "featuredArtistId": "6rYEqmajzlhGVaayOJ2bpJ",
+      "trackName": "Cityljus",
+      "trackId": "1ZCLZe8hSuZl9wxuK3NiZY",
+      "preview": "https://p.scdn.co/mp3-preview/d1afb88c88de0570238f982bbb713c0b167be9a1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9a7cbae5815328a98286575e623a2077a8418c7",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Mauro Scocco",
+      "featuredArtistId": "0qC4DawW3xCirhuq5cvaKV",
+      "trackName": "Då var då, nu är nu",
+      "trackId": "16OGx1GC9TlK3EVToSnvEG",
+      "preview": "https://p.scdn.co/mp3-preview/3d5e347f074896a328bd2d5f1c8af7306e0b95dc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9a7cbae5815328a98286575e623a2077a8418c7",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Newkid",
+      "featuredArtistId": "5wXRHaEx8AvtUv0gyZHGf6",
+      "trackName": "Mighty",
+      "trackId": "6nVWjCcFtABEhkoRu5uhj5",
+      "preview": "https://p.scdn.co/mp3-preview/68cb6ffa3d4583d66d412a132c4cdd85582a1ab3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2d9882eb566eb87d1d3e40bfc18acb1999d64ef5",
+      "release_date": "2013-04-03"
+    },
+    {
+      "featuredArtist": "Chords",
+      "featuredArtistId": "2s7biycbXw8gmviNBeoCx9",
+      "trackName": "Natt & dag",
+      "trackId": "75MY7L4J5TjaTgXMNZLJT7",
+      "preview": "https://p.scdn.co/mp3-preview/4cba83a5440d34c823126c9afd782c7f8dc5bdcd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2d9882eb566eb87d1d3e40bfc18acb1999d64ef5",
+      "release_date": "2013-04-03"
+    },
+    {
+      "featuredArtist": "Agnes",
+      "featuredArtistId": "6SsTlCsuCYleNza6xGwynu",
+      "trackName": "Alla vet",
+      "trackId": "36xtrrsUiTcmTy1eyTRFXY",
+      "preview": "https://p.scdn.co/mp3-preview/c3398af7f795ba48519b9cffa7158e207f5e0838?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2d9882eb566eb87d1d3e40bfc18acb1999d64ef5",
+      "release_date": "2013-04-03"
+    },
+    {
+      "featuredArtist": "Magnus Carlson",
+      "featuredArtistId": "4Ag5mrJhXH238pExZYJcaM",
+      "trackName": "Gör min dag",
+      "trackId": "6rCsqUmnQM1rf1SIIHWlll",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/889ea67c2ceb8962728b4815c1a63bb349dffaf1",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Niklas von Arnold",
+      "featuredArtistId": "4qxxOhWbUE0N7Nn6yfIjbQ",
+      "trackName": "Vad vi tänker på",
+      "trackId": "2yTT3uDZ7TcIufpltzzNxc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/889ea67c2ceb8962728b4815c1a63bb349dffaf1",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Veronica Maggio",
+      "featuredArtistId": "2OIWxN9xUhgUHkeUCWCaNs",
+      "trackName": "Längesen",
+      "trackId": "34d02NzZzjMBQaPg7AZZRl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/889ea67c2ceb8962728b4815c1a63bb349dffaf1",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Stor",
+      "featuredArtistId": "4XLISC9SzRTcR34fosyMtw",
+      "trackName": "Vem e stor",
+      "trackId": "1jsJNQQBuCQYLAbN4R2kTf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/889ea67c2ceb8962728b4815c1a63bb349dffaf1",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Mohammed Ali",
+      "featuredArtistId": "0PwLAFedFpxos2G2tlZ2ES",
+      "trackName": "Hård värld",
+      "trackId": "1cLk8aflE3fR3lKRSRKsNH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/889ea67c2ceb8962728b4815c1a63bb349dffaf1",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Timbuktu",
+      "featuredArtistId": "4bOG1sx3QHFbOUVLNmMpPe",
+      "trackName": "Älskar din stil",
+      "trackId": "2ehFPZ2TRlhvLM6MoePgRX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/889ea67c2ceb8962728b4815c1a63bb349dffaf1",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Natural Bond",
+      "featuredArtistId": "28HY5lIHxCvBnSxzpItfHY",
+      "trackName": "Slag under bältet - Remix",
+      "trackId": "7COxjJHrJANpV2iNqsDScJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/889ea67c2ceb8962728b4815c1a63bb349dffaf1",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Adolphson & Falk",
+      "featuredArtistId": "2PGhx95sJF2XfZyOyrDFo0",
+      "trackName": "Krafter",
+      "trackId": "058p7LTG6xSESzb7r0Xtfm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b9993585d7010852f53f89ebaabfd6957de509ee",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Pauline",
+      "featuredArtistId": "2J9Y7fT6BnCQVB4FZioKHc",
+      "trackName": "De där",
+      "trackId": "1qyQGxxKpCbSjpcdjA13hr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b9993585d7010852f53f89ebaabfd6957de509ee",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "September",
+      "featuredArtistId": "6VX2R9L0O0d6qPvqGuIH7b",
+      "trackName": "Baksmälla",
+      "trackId": "7sLPsw9vcSauSSFFiUCsJc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d4e609825585d36d27b3e60078b264254469daf2",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "A.D.L.",
+      "featuredArtistId": "1YWNkw3vg1uz85ZwElyYxI",
+      "trackName": "Rostig kärlek 2010",
+      "trackId": "4Mo3ur7k6Gd2I5q2kJ8G1K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d4e609825585d36d27b3e60078b264254469daf2",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Säkert!",
+      "featuredArtistId": "6aNouxfdfQCKjiZG0LJcjx",
+      "trackName": "Logiskt",
+      "trackId": "2De523MUQpoIMMLZnChF9v",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d4e609825585d36d27b3e60078b264254469daf2",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Mikael Persbrandt",
+      "featuredArtistId": "5dYdwQWoLTOL69zu5mHiPi",
+      "trackName": "Intro",
+      "trackId": "7eMG7yLe1KklolTgNsxGHY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1de87fd5347f6c758b6ce9461fa62ae7c4f7b1d5",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "AFC",
+      "featuredArtistId": "1gwrltwItm6M9qo3fROL4F",
+      "trackName": "Fresh",
+      "trackId": "5nsrPN3khX7uN08u2bQ9YA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1de87fd5347f6c758b6ce9461fa62ae7c4f7b1d5",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Makeba Riddick",
+      "featuredArtistId": "2zshvDfSoP43q4zJMFWg5e",
+      "trackName": "Get By",
+      "trackId": "6EjDxKHL6oGIpoUIdrNF2H",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1de87fd5347f6c758b6ce9461fa62ae7c4f7b1d5",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Kihlen",
+      "featuredArtistId": "32XRlaxMnfmJgRUe4ub6w6",
+      "trackName": "Stor stil",
+      "trackId": "313Qk7ZCzLpH26WMEQxX3Y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1de87fd5347f6c758b6ce9461fa62ae7c4f7b1d5",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Ison",
+      "featuredArtistId": "7zJdWmVoGsqxaEl09XOvM5",
+      "trackName": "Ställ dej upp/rör dej in",
+      "trackId": "00kd8iI4kGlcDIu329vEGv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1de87fd5347f6c758b6ce9461fa62ae7c4f7b1d5",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Kaah",
+      "featuredArtistId": "6K6JhPFZbq6tq35IOH4WBg",
+      "trackName": "Se dej igen",
+      "trackId": "1LXQBdJISFW9B4cl3eJza4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1de87fd5347f6c758b6ce9461fa62ae7c4f7b1d5",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Freddie Wadling",
+      "featuredArtistId": "4NZBruC8XBoC8lj8kkW05m",
+      "trackName": "Soptippsvärld",
+      "trackId": "6Ei3dP2nJ1iOe0M5Dbbvje",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1de87fd5347f6c758b6ce9461fa62ae7c4f7b1d5",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Ken",
+      "featuredArtistId": "7ChY1w2iG0DMIhwpHMHH5w",
+      "trackName": "Kom kom kom",
+      "trackId": "57YxkxrQw1VvVkTxT3YbKz",
+      "preview": "https://p.scdn.co/mp3-preview/259fb7f4ec57dc34af8e7664ef9c46aa48e4555f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2af79dfb256805b4d080f0d02c153cec4bfff152",
+      "release_date": "2004-04-21"
+    },
+    {
+      "featuredArtist": "Kaliffa",
+      "featuredArtistId": "0rJEJ9T9JwC6ajdnMeqREY",
+      "trackName": "Kom kom kom",
+      "trackId": "57YxkxrQw1VvVkTxT3YbKz",
+      "preview": "https://p.scdn.co/mp3-preview/259fb7f4ec57dc34af8e7664ef9c46aa48e4555f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2af79dfb256805b4d080f0d02c153cec4bfff152",
+      "release_date": "2004-04-21"
+    },
+    {
+      "featuredArtist": "AFC",
+      "featuredArtistId": "5EOi4iopwT7JCvwft1knJl",
+      "trackName": "Repa skivan",
+      "trackId": "62K8Xt3yTATChthdDnlneY",
+      "preview": "https://p.scdn.co/mp3-preview/67f4058899ed7edc23a216ea8e6daf45bcabb7c8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2af79dfb256805b4d080f0d02c153cec4bfff152",
+      "release_date": "2004-04-21"
+    },
+    {
+      "featuredArtist": "Martin Bentancourt",
+      "featuredArtistId": "5VEHoWxKyfekzuWKA8YUeh",
+      "trackName": "Tredje gången gillt",
+      "trackId": "2uC0g1OzUFW4eMF1ePt0QJ",
+      "preview": "https://p.scdn.co/mp3-preview/7c4b1d37a3933ddd70f04f88d93f45209b648a92?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2af79dfb256805b4d080f0d02c153cec4bfff152",
+      "release_date": "2004-04-21"
+    },
+    {
+      "featuredArtist": "Anna Maria",
+      "featuredArtistId": "2gUztgiXpfa7x012HtUTs0",
+      "trackName": "Vad som går runt kommer tillbaks",
+      "trackId": "2or7GuTNFOvhAvyyjv7anK",
+      "preview": "https://p.scdn.co/mp3-preview/126fd5149c9c0f067059bc2f56cecb471f1f4be7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2af79dfb256805b4d080f0d02c153cec4bfff152",
+      "release_date": "2004-04-21"
+    },
+    {
+      "featuredArtist": "Club Killers",
+      "featuredArtistId": "1w2xTCsgjDm8rkDBQ5IIwL",
+      "trackName": "Vad som går runt kommer tillbaks",
+      "trackId": "2or7GuTNFOvhAvyyjv7anK",
+      "preview": "https://p.scdn.co/mp3-preview/126fd5149c9c0f067059bc2f56cecb471f1f4be7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2af79dfb256805b4d080f0d02c153cec4bfff152",
+      "release_date": "2004-04-21"
+    },
+    {
+      "featuredArtist": "Moneybrother",
+      "featuredArtistId": "6O6kWwVAL4xK4G8SBcsNJR",
+      "trackName": "Showdown",
+      "trackId": "4WMoK7nIBFNYc8og2ltNNk",
+      "preview": "https://p.scdn.co/mp3-preview/e4a5a42a96f78bfd5721a2ce21ffd54b2df38bdf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2af79dfb256805b4d080f0d02c153cec4bfff152",
+      "release_date": "2004-04-21"
+    },
+    {
+      "featuredArtist": "Desmond Foster",
+      "featuredArtistId": "3qqFMYoELTj4g9yzuQEALf",
+      "trackName": "Softa ner",
+      "trackId": "288VKUjqMMNyub00v189rN",
+      "preview": "https://p.scdn.co/mp3-preview/99c14663caec3b033a8c8e50fea8c509e35e4968?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2af79dfb256805b4d080f0d02c153cec4bfff152",
+      "release_date": "2004-04-21"
+    },
+    {
+      "featuredArtist": "Pst/Q",
+      "featuredArtistId": "01SvE1zJxDTFdcL7UMd0rv",
+      "trackName": "Pissar på dig",
+      "trackId": "7Ffjpu1CQXeJH0FqpNVvMq",
+      "preview": "https://p.scdn.co/mp3-preview/bbfefa6a542ffdfba0c6714d18f9c43794353140?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef890f8f731985f2feec3f2a319ef6a432c8435b",
+      "release_date": "2001-11-30"
+    },
+    {
+      "featuredArtist": "DJ Sleepy",
+      "featuredArtistId": "5AKDYDvXKe1zy20Kp7aMl0",
+      "trackName": "Rock On",
+      "trackId": "2iySVJk4UIoHBsiLls46Xa",
+      "preview": "https://p.scdn.co/mp3-preview/ce05e443d42bd7f714eb57bc1b460f3f3c907bbb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef890f8f731985f2feec3f2a319ef6a432c8435b",
+      "release_date": "2001-11-30"
+    },
+    {
+      "featuredArtist": "Supreme",
+      "featuredArtistId": "6mhPlw68VRn4yKWPhgKw7c",
+      "trackName": "Va É På G ?",
+      "trackId": "7uSg5MQZPkwPm6iok7dezo",
+      "preview": "https://p.scdn.co/mp3-preview/1a21fbd5e405bb5eef39a3410e70f6132b02b1e5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef890f8f731985f2feec3f2a319ef6a432c8435b",
+      "release_date": "2001-11-30"
+    },
+    {
+      "featuredArtist": "ADL",
+      "featuredArtistId": "53qjxZgyBJiyquXFBUTJU5",
+      "trackName": "Ey yo",
+      "trackId": "3TuC6mrAdqvs1jUxjxfgGT",
+      "preview": "https://p.scdn.co/mp3-preview/8847f8686cc7a571799f18d0198fe84a53cf2b76?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef890f8f731985f2feec3f2a319ef6a432c8435b",
+      "release_date": "2001-11-30"
+    },
+    {
+      "featuredArtist": "Ett gäng fyllesvin",
+      "featuredArtistId": "2CLQjVLmYhw6Kp486ij6nt",
+      "trackName": "Anekdoter",
+      "trackId": "1brnq28VTyyFyGb9D7sdrQ",
+      "preview": "https://p.scdn.co/mp3-preview/8602baa29aabaec6922140249736626d02ccd426?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef890f8f731985f2feec3f2a319ef6a432c8435b",
+      "release_date": "2001-11-30"
+    },
+    {
+      "featuredArtist": "Luckz",
+      "featuredArtistId": "28lpCkqtl6WQJWmWrMPmG8",
+      "trackName": "En sonett till dig",
+      "trackId": "3d7CkaFJwBLVLKSKvMAFwL",
+      "preview": "https://p.scdn.co/mp3-preview/ff40ea67fbddeff4be38000e9b406f4d7e4133ce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef890f8f731985f2feec3f2a319ef6a432c8435b",
+      "release_date": "2001-11-30"
+    },
+    {
+      "featuredArtist": "Governor Andy",
+      "featuredArtistId": "6jMfbm9y64CESMB5wFtgZx",
+      "trackName": "En sonett till dig",
+      "trackId": "3d7CkaFJwBLVLKSKvMAFwL",
+      "preview": "https://p.scdn.co/mp3-preview/ff40ea67fbddeff4be38000e9b406f4d7e4133ce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef890f8f731985f2feec3f2a319ef6a432c8435b",
+      "release_date": "2001-11-30"
+    },
+    {
+      "featuredArtist": "Nougie Jah",
+      "featuredArtistId": "26nYNIAl6VkJY0SOTDZVTd",
+      "trackName": "Tar Det Tillbaka - Remix",
+      "trackId": "0CrDOspZ42KRi9huD8V7Ej",
+      "preview": "https://p.scdn.co/mp3-preview/50c6d202f4242da3942d133f82362191173a4d1b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef890f8f731985f2feec3f2a319ef6a432c8435b",
+      "release_date": "2001-11-30"
+    },
+    {
+      "featuredArtist": "Megaton",
+      "featuredArtistId": "2JV9W2ddMTFmgDtc2ZA4oF",
+      "trackName": "Tar Det Tillbaka - Remix",
+      "trackId": "0CrDOspZ42KRi9huD8V7Ej",
+      "preview": "https://p.scdn.co/mp3-preview/50c6d202f4242da3942d133f82362191173a4d1b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef890f8f731985f2feec3f2a319ef6a432c8435b",
+      "release_date": "2001-11-30"
+    },
+    {
+      "featuredArtist": "PeeWee",
+      "featuredArtistId": "1DBs5OPBD5sSenZiky8GWd",
+      "trackName": "Tar Det Tillbaka - Remix",
+      "trackId": "0CrDOspZ42KRi9huD8V7Ej",
+      "preview": "https://p.scdn.co/mp3-preview/50c6d202f4242da3942d133f82362191173a4d1b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef890f8f731985f2feec3f2a319ef6a432c8435b",
+      "release_date": "2001-11-30"
+    },
+    {
+      "featuredArtist": "Masayah",
+      "featuredArtistId": "18Y1nMdmyZehTny427yHlQ",
+      "trackName": "Tar Det Tillbaka - Remix",
+      "trackId": "0CrDOspZ42KRi9huD8V7Ej",
+      "preview": "https://p.scdn.co/mp3-preview/50c6d202f4242da3942d133f82362191173a4d1b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef890f8f731985f2feec3f2a319ef6a432c8435b",
+      "release_date": "2001-11-30"
+    },
+    {
+      "featuredArtist": "Ayo",
+      "featuredArtistId": "7pLOFiadR47iYhGBuRVqQq",
+      "trackName": "En Banger",
+      "trackId": "7KM1aw8srKM4rlrRabVoGx",
+      "preview": "https://p.scdn.co/mp3-preview/67b69a676cefdf6aaef98bd0e6e39792a8618712?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9b152d7aeb98bd660a510f03a90348dd0c21ff1",
+      "release_date": "1999"
+    },
+    {
+      "featuredArtist": "Clemens",
+      "featuredArtistId": "6M4RgHnN6u48xM8rbTintP",
+      "trackName": "Bygger broer",
+      "trackId": "0agFLjh2XPZ54ABbyr2iPE",
+      "preview": "https://p.scdn.co/mp3-preview/e031202509aa0cf4ee09fdbb74ebefe208773253?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9b152d7aeb98bd660a510f03a90348dd0c21ff1",
+      "release_date": "1999"
+    },
+    {
+      "featuredArtist": "Pugh Rogefeldt",
+      "featuredArtistId": "22Wo43V44RtrpJZsjeI9EA",
+      "trackName": "En liten snubbe",
+      "trackId": "2TbrzmGNyX5t9jHsyoJHs9",
+      "preview": "https://p.scdn.co/mp3-preview/b0c3ae3847143ad63391fc3bf62950ce0783e078?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9b152d7aeb98bd660a510f03a90348dd0c21ff1",
+      "release_date": "1999"
+    },
+    {
+      "featuredArtist": "Thomas Rusiak",
+      "featuredArtistId": "7amcWVAeY8e6YwgV9bXlKH",
+      "trackName": "Vinden har vänt",
+      "trackId": "2XkMVyMLZhrUivl7XuhidO",
+      "preview": "https://p.scdn.co/mp3-preview/26fe00fcf1f9409f305c9899a9f7304a58f6a85b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8b1bb67353f922b78f56af0cf901fa3086e07124",
+      "release_date": "1998-08-26"
+    },
+    {
+      "featuredArtist": "Ayo ett öga rött",
+      "featuredArtistId": "6o5wbLr8cE9TPpzZjDxNjO",
+      "trackName": "Verbal vendetta",
+      "trackId": "3fxK8uoDOudGyuMTJETBFH",
+      "preview": "https://p.scdn.co/mp3-preview/a8949f7685e77f873247df3578b9e02b2cc84458?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8b1bb67353f922b78f56af0cf901fa3086e07124",
+      "release_date": "1998-08-26"
+    },
+    {
+      "featuredArtist": "Profil",
+      "featuredArtistId": "6bLcOLyyApvcrCkhkX1R49",
+      "trackName": "Håller fortet",
+      "trackId": "2mJGdo2czOuNJWYYGxjYD9",
+      "preview": "https://p.scdn.co/mp3-preview/ea598b5dbbfb6af0331fe825712b681dcbd25900?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8b1bb67353f922b78f56af0cf901fa3086e07124",
+      "release_date": "1998-08-26"
+    },
+    {
+      "featuredArtist": "Ken",
+      "featuredArtistId": "7xxtZJWUTYcrp8aPsWFPGu",
+      "trackName": "Min tid",
+      "trackId": "36CpRNWWEJJaWK9tUMbNoa",
+      "preview": "https://p.scdn.co/mp3-preview/386e21fb1fcbabb56f4dab1ebed29b5b8195c72c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8b1bb67353f922b78f56af0cf901fa3086e07124",
+      "release_date": "1998-08-26"
+    },
+    {
+      "featuredArtist": "Frostis",
+      "featuredArtistId": "7uQaOAcbBvxsILhujw4Hxv",
+      "trackName": "Petter vs Sthlm",
+      "trackId": "6xu6NSh5BFmVNyiYSnu2nd",
+      "preview": "https://p.scdn.co/mp3-preview/4d2a7e1604e5a497332c45598610e566440bbaa8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8b1bb67353f922b78f56af0cf901fa3086e07124",
+      "release_date": "1998-08-26"
+    },
+    {
+      "featuredArtist": "Stora A",
+      "featuredArtistId": "0mUk3udAqX4KvuPAJcE6AB",
+      "trackName": "Petter vs Sthlm",
+      "trackId": "6xu6NSh5BFmVNyiYSnu2nd",
+      "preview": "https://p.scdn.co/mp3-preview/4d2a7e1604e5a497332c45598610e566440bbaa8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8b1bb67353f922b78f56af0cf901fa3086e07124",
+      "release_date": "1998-08-26"
+    },
+    {
+      "featuredArtist": "Theodor Hellborg",
+      "featuredArtistId": "4CCbwBwEiKHGE7CRKWzwyU",
+      "trackName": "Petter vs Sthlm",
+      "trackId": "6xu6NSh5BFmVNyiYSnu2nd",
+      "preview": "https://p.scdn.co/mp3-preview/4d2a7e1604e5a497332c45598610e566440bbaa8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8b1bb67353f922b78f56af0cf901fa3086e07124",
+      "release_date": "1998-08-26"
+    },
+    {
+      "featuredArtist": "Big Fred",
+      "featuredArtistId": "2i6NhT602tp83MjwV5xRvO",
+      "trackName": "Riddarna runt runda bordet",
+      "trackId": "0FdcHM52aFpX63Vpm8CpyK",
+      "preview": "https://p.scdn.co/mp3-preview/8ff2be096b2f62e6a226d04cfbe9430286d2ac80?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8b1bb67353f922b78f56af0cf901fa3086e07124",
+      "release_date": "1998-08-26"
+    },
+    {
+      "featuredArtist": "Homan",
+      "featuredArtistId": "1E4Qx8Gh8zMmtA6OwlmcPA",
+      "trackName": "Riddarna runt runda bordet",
+      "trackId": "0FdcHM52aFpX63Vpm8CpyK",
+      "preview": "https://p.scdn.co/mp3-preview/8ff2be096b2f62e6a226d04cfbe9430286d2ac80?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8b1bb67353f922b78f56af0cf901fa3086e07124",
+      "release_date": "1998-08-26"
+    },
+    {
+      "featuredArtist": "Nisse",
+      "featuredArtistId": "4KnUDY0asYB0Eb7vtNWIK7",
+      "trackName": "Riddarna runt runda bordet",
+      "trackId": "0FdcHM52aFpX63Vpm8CpyK",
+      "preview": "https://p.scdn.co/mp3-preview/8ff2be096b2f62e6a226d04cfbe9430286d2ac80?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8b1bb67353f922b78f56af0cf901fa3086e07124",
+      "release_date": "1998-08-26"
+    },
+    {
+      "featuredArtist": "1000$ Playboys",
+      "featuredArtistId": "3YqSbDjXCYCqwD16D77O2K",
+      "trackName": "Cowboylåten",
+      "trackId": "1PCFVAU0SPjNeUX9P9o6M0",
+      "preview": "https://p.scdn.co/mp3-preview/53ad5826a1b76d3bcea8b16e60ba4d7981ca3814?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8b1bb67353f922b78f56af0cf901fa3086e07124",
+      "release_date": "1998-08-26"
+    },
+    {
+      "featuredArtist": "Mapei",
+      "featuredArtistId": "6baWjwY7WiVPCZcW7pqqhz",
+      "trackName": "En grej i taget",
+      "trackId": "5CBoKaVfCjY5QkzsAt7viO",
+      "preview": "https://p.scdn.co/mp3-preview/22a57282bfcd76cf8c2fc57b1e87b04105a1fd6c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/722e14a5cd359116856c26f97b382e2ac6052f40",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "MagnusTheMagnus",
+      "featuredArtistId": "7xS4HWHJv4AKkOhzehHjSs",
+      "trackName": "En grej i taget",
+      "trackId": "5CBoKaVfCjY5QkzsAt7viO",
+      "preview": "https://p.scdn.co/mp3-preview/22a57282bfcd76cf8c2fc57b1e87b04105a1fd6c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/722e14a5cd359116856c26f97b382e2ac6052f40",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Madi Banja",
+      "featuredArtistId": "0LdzDrRc2RESpGqwyhbE3t",
+      "trackName": "Toppen av ett berg",
+      "trackId": "2N7claLHWD1ypZARTJNtjI",
+      "preview": "https://p.scdn.co/mp3-preview/cb043fdcd498a46a7357bef32a683c10f020cffb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/23a049aa4e3f491167dffe8ed75c209b2d2e2683",
+      "release_date": "2018-01-12"
+    }
+  ]
+}

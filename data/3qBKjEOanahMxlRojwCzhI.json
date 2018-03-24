@@ -1,0 +1,41 @@
+{
+  "artistName": "Zacari",
+  "features": [
+    {
+      "featuredArtist": "J.Louis",
+      "featuredArtistId": "0fRUtQHLIODEXWg1Uqt5D1",
+      "trackName": "Heaven Sent (feat. J-Louis)",
+      "trackId": "5YwuJotHN5IwK5Brb25nwe",
+      "preview": "https://p.scdn.co/mp3-preview/b917f753b174e9eeb50cdde13f80186e5686f6ed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cbd852d5aae416fd09ee04493680d79efd0f6778",
+      "release_date": "2015-07-23"
+    },
+    {
+      "featuredArtist": "Josh Jaramillo",
+      "featuredArtistId": "6fPKcKDLZypeNjs7dy2dtC",
+      "trackName": "I Should Be Dreaming (feat. Josh Jaramillo)",
+      "trackId": "3axz8G6xHd16bIpD4gFJGW",
+      "preview": "https://p.scdn.co/mp3-preview/9537c2be2d431a479d440974921501e406768976?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/adb2113460a8706547e88e79d8d9bd7fecdbdf4f",
+      "release_date": "2015-07-23"
+    },
+    {
+      "featuredArtist": "Kendrick Lamar",
+      "featuredArtistId": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "trackName": "LOVE.",
+      "trackId": "2QroLtVYUvpQ8i08pdqn1n",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f36f0df5cb09ac6b6d198d19ae922c534c19f1fb",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Babes Wodumo",
+      "featuredArtistId": "3jfVtv9mWfW0c5b3Fx440e",
+      "trackName": "Redemption (with Babes Wodumo)",
+      "trackId": "4YMHk2VRIQpRv4aFtRzH12",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dfc8859cfa4ac0a761742f6b64e45f4ea65ece50",
+      "release_date": "2018-02-09"
+    }
+  ]
+}

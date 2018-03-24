@@ -1,0 +1,374 @@
+{
+  "artistName": "Usher",
+  "features": [
+    {
+      "featuredArtist": "Young Thug",
+      "featuredArtistId": "50co4Is1HCEo8bhOyUWKpn",
+      "trackName": "No Limit",
+      "trackId": "6mfMuqczANFVpC09Hk8y4j",
+      "preview": "https://p.scdn.co/mp3-preview/0a5803c444446d458c6e9fd0946ce4b7c7cfebf9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f0b0c966e1e3c5fea0d6aa302cd70417e0e16694",
+      "release_date": "2016-10-05"
+    },
+    {
+      "featuredArtist": "Future",
+      "featuredArtistId": "1RyvyyTE3xzB2ZywiAwp0i",
+      "trackName": "Rivals",
+      "trackId": "30lvQwXgQ8QWT07RwUWaDt",
+      "preview": "https://p.scdn.co/mp3-preview/3c1fcce3f7a4109aff899e4d3b6e87fd03ff29ed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f0b0c966e1e3c5fea0d6aa302cd70417e0e16694",
+      "release_date": "2016-10-05"
+    },
+    {
+      "featuredArtist": "Rubén Blades",
+      "featuredArtistId": "5BwMgvRwlq61SmknvsVIQj",
+      "trackName": "Champions (from the Motion Picture \"Hands Of Stone\")",
+      "trackId": "6Aepl98SzXCDrngz2tVlfo",
+      "preview": "https://p.scdn.co/mp3-preview/e644a8573f3df2701162ebeebc261a58108e4ee6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f0b0c966e1e3c5fea0d6aa302cd70417e0e16694",
+      "release_date": "2016-10-05"
+    },
+    {
+      "featuredArtist": "Nicki Minaj",
+      "featuredArtistId": "0hCNtLu0JehylgoiP8L4Gh",
+      "trackName": "She Came II Give It II U",
+      "trackId": "0OQW83WE4hkmZUIeE0MNJY",
+      "preview": "https://p.scdn.co/mp3-preview/461b2665ca45750123973ec8aed04e195f4fc576?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f0b0c966e1e3c5fea0d6aa302cd70417e0e16694",
+      "release_date": "2016-10-05"
+    },
+    {
+      "featuredArtist": "Rick Ross",
+      "featuredArtistId": "1sBkRIssrMs1AbVkOJbc7a",
+      "trackName": "Lemme See",
+      "trackId": "0drVeoGy7njENU29Z3lPEy",
+      "preview": "https://p.scdn.co/mp3-preview/6ad3d814bcc132879ea2d4a179632593a595a842?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf435d274fd6e802986180e9d7228e0a8b7c2d14",
+      "release_date": "2012-06-08"
+    },
+    {
+      "featuredArtist": "Pharrell Williams",
+      "featuredArtistId": "2RdwBSPQiwcmiDo9kixcl8",
+      "trackName": "Twisted",
+      "trackId": "20aSvDaiIHit3ntgRpCR61",
+      "preview": "https://p.scdn.co/mp3-preview/aef2aa01ab6d8204c66d7fbf2cf4ee026473667a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf435d274fd6e802986180e9d7228e0a8b7c2d14",
+      "release_date": "2012-06-08"
+    },
+    {
+      "featuredArtist": "Luke Steele",
+      "featuredArtistId": "0CliOhi161ZCRIVw60prp0",
+      "trackName": "Looking 4 Myself",
+      "trackId": "4UtaWaGh9ptsaIY7CCA5PH",
+      "preview": "https://p.scdn.co/mp3-preview/e695db012b9e02063e8805fd2e7bf3d1736f6310?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf435d274fd6e802986180e9d7228e0a8b7c2d14",
+      "release_date": "2012-06-08"
+    },
+    {
+      "featuredArtist": "A$AP Rocky",
+      "featuredArtistId": "13ubrt8QOOCPljQ2FL1Kca",
+      "trackName": "Hot Thing",
+      "trackId": "2HnAC42GpISahjVDe7sIbJ",
+      "preview": "https://p.scdn.co/mp3-preview/50f02f4f0e5afbbfd9a5fadcd4a94eec775bca0a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf435d274fd6e802986180e9d7228e0a8b7c2d14",
+      "release_date": "2012-06-08"
+    },
+    {
+      "featuredArtist": "Diplo",
+      "featuredArtistId": "5fMUXHkw8R8eOP2RNVYEZX",
+      "trackName": "Climax - Diplo Remix",
+      "trackId": "3JGsrx2QpKHjN17n6MVXEf",
+      "preview": "https://p.scdn.co/mp3-preview/526b4cf65fbcd696daaac5a23ef463184e051417?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4019b7fb532c9e8b67c2f5e3f0a4011d6020ef78",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Timbaland",
+      "featuredArtistId": "5Y5TRrQiqgUO4S36tzjIRZ",
+      "trackName": "You Make Me Wanna... - Timbaland Remix",
+      "trackId": "0p4tKV2anBWhjyNSNdoZqc",
+      "preview": "https://p.scdn.co/mp3-preview/9a2517ab433c5c4d910cf0b15bf4a520fe24b87e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e8308c2894eab4a48727a28daef1d7eb873d6bf",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "Baron \"B-Rock\" Agee",
+      "featuredArtistId": "1aABcL989szKbTyLv9ah74",
+      "trackName": "Nice & Slow - B-Rock's Basement Mix",
+      "trackId": "4PHmLBkQIoXcLIrCHZPrSo",
+      "preview": "https://p.scdn.co/mp3-preview/2e6a8c9bff763fa6303c4050fce81d376cb88b6c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e8308c2894eab4a48727a28daef1d7eb873d6bf",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "SoulShock",
+      "featuredArtistId": "7LcBY38bKo1aZDoRyyQCeH",
+      "trackName": "U Got It Bad - Soulpower Remix",
+      "trackId": "0X67jDdNTccPE8LCm8fT6r",
+      "preview": "https://p.scdn.co/mp3-preview/be2c95416b9befcab39037db749317f8c04e9d0f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e8308c2894eab4a48727a28daef1d7eb873d6bf",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "Karin",
+      "featuredArtistId": "5ICjtTN72KtAU4ytR0W53o",
+      "trackName": "U Got It Bad - Soulpower Remix",
+      "trackId": "0X67jDdNTccPE8LCm8fT6r",
+      "preview": "https://p.scdn.co/mp3-preview/be2c95416b9befcab39037db749317f8c04e9d0f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e8308c2894eab4a48727a28daef1d7eb873d6bf",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "Omar Chandla",
+      "featuredArtistId": "1yxzkIQzYUHnh46HnDhaaA",
+      "trackName": "Moving Mountains - POKERFACE REMIX",
+      "trackId": "2vIXOcN7FoFPu0srl4Z7s1",
+      "preview": "https://p.scdn.co/mp3-preview/5fae66497e02b1b21a207f14f1d6231793197093?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e8308c2894eab4a48727a28daef1d7eb873d6bf",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "Ryan Munroe",
+      "featuredArtistId": "29uv73NgdUp0BNNBzE2sYn",
+      "trackName": "Moving Mountains - POKERFACE REMIX",
+      "trackId": "2vIXOcN7FoFPu0srl4Z7s1",
+      "preview": "https://p.scdn.co/mp3-preview/5fae66497e02b1b21a207f14f1d6231793197093?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e8308c2894eab4a48727a28daef1d7eb873d6bf",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "Craig C.",
+      "featuredArtistId": "02TRrfIIGhMw72AMw7tOPm",
+      "trackName": "U Don't Have To Call - Pound Boys Boogie Vocal",
+      "trackId": "3Nc9cVgtUWdPdmHc7NNchv",
+      "preview": "https://p.scdn.co/mp3-preview/dd52e5463c02535f79baba04ab236576ed27529b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e8308c2894eab4a48727a28daef1d7eb873d6bf",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "Dealer",
+      "featuredArtistId": "1lROFPs5wN79b4qv9o54tz",
+      "trackName": "U Don't Have To Call - Pound Boys Boogie Vocal",
+      "trackId": "3Nc9cVgtUWdPdmHc7NNchv",
+      "preview": "https://p.scdn.co/mp3-preview/dd52e5463c02535f79baba04ab236576ed27529b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e8308c2894eab4a48727a28daef1d7eb873d6bf",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "Dean Gillard",
+      "featuredArtistId": "5IMltI7AzMZmM9TdapGK8w",
+      "trackName": "Burn - Full Phatt Main Mix",
+      "trackId": "5ef5pVEP2HruTsg7qmEcCL",
+      "preview": "https://p.scdn.co/mp3-preview/e704b970657aea1f2ee8c0f2d95a1e55cec96b64?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e8308c2894eab4a48727a28daef1d7eb873d6bf",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "Matt Ward",
+      "featuredArtistId": "5u4TJDB53ZDkB9ueZ6A2fm",
+      "trackName": "Burn - Full Phatt Main Mix",
+      "trackId": "5ef5pVEP2HruTsg7qmEcCL",
+      "preview": "https://p.scdn.co/mp3-preview/e704b970657aea1f2ee8c0f2d95a1e55cec96b64?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e8308c2894eab4a48727a28daef1d7eb873d6bf",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "Lee Dagger",
+      "featuredArtistId": "7hEDdJUgflzNOt4ow0OnuC",
+      "trackName": "Caught Up - Bimbo Jones Radio Edit",
+      "trackId": "5yVpqzvsLQ5nMv5D9TQmOZ",
+      "preview": "https://p.scdn.co/mp3-preview/4d4322f9774b271568c315cfc7fe2093d510e703?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e8308c2894eab4a48727a28daef1d7eb873d6bf",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "Marc JB AKA Bimbo Jones",
+      "featuredArtistId": "2iabH8Ln3PGO25LSYULpD3",
+      "trackName": "Caught Up - Bimbo Jones Radio Edit",
+      "trackId": "5yVpqzvsLQ5nMv5D9TQmOZ",
+      "preview": "https://p.scdn.co/mp3-preview/4d4322f9774b271568c315cfc7fe2093d510e703?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e8308c2894eab4a48727a28daef1d7eb873d6bf",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "Monk & Prof",
+      "featuredArtistId": "5LE7llMHtCgQl05zVOmrB1",
+      "trackName": "Trading Places - Monk & Prof Remix (Edit)",
+      "trackId": "4z5ybEMblYAI7Xe28PRZOW",
+      "preview": "https://p.scdn.co/mp3-preview/cb829684e13f9039c9704ccf0971483fa0149d6b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e8308c2894eab4a48727a28daef1d7eb873d6bf",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "FP",
+      "featuredArtistId": "35CUyTE7SgwLLSlBsqAPqY",
+      "trackName": "Moving Mountains - FP REMIX",
+      "trackId": "59EXUJ2H7kH27eu3CWgCH1",
+      "preview": "https://p.scdn.co/mp3-preview/699dcec7b992782a7fa339a7a7c0b4a759f981e7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e8308c2894eab4a48727a28daef1d7eb873d6bf",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "Delinquent",
+      "featuredArtistId": "4nmkpPrhG9yn7rYdom9Umn",
+      "trackName": "Caught Up - Delinquent 'Whistle Crew' Re-Fix",
+      "trackId": "5pjvRpqWbv2AKy7kqYW4pe",
+      "preview": "https://p.scdn.co/mp3-preview/c31286369534bea3119921c769d78e5b7e54a0d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e8308c2894eab4a48727a28daef1d7eb873d6bf",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "Ludacris",
+      "featuredArtistId": "3ipn9JLAPI5GUEo4y4jcoi",
+      "trackName": "She Don't Know",
+      "trackId": "34PFCxQHHROuFl2OsDCvxH",
+      "preview": "https://p.scdn.co/mp3-preview/e2db4cde07ce3b9f503d60adf5a2434e5009b320?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/74161ccb71f357ad590dc7ac51fc26f0ab531094",
+      "release_date": "2010-08-24"
+    },
+    {
+      "featuredArtist": "will.i.am",
+      "featuredArtistId": "085pc2PYOi8bGKj0PNjekA",
+      "trackName": "OMG",
+      "trackId": "1bM50INir8voAkVoKuvEUI",
+      "preview": "https://p.scdn.co/mp3-preview/234ee33a94a9570edb638638576bc0015ce797e0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/74161ccb71f357ad590dc7ac51fc26f0ab531094",
+      "release_date": "2010-08-24"
+    },
+    {
+      "featuredArtist": "T.I.",
+      "featuredArtistId": "4OBJLual30L7gRl5UkeRcT",
+      "trackName": "Guilty",
+      "trackId": "7ERcLgXeNSWG3ktsgaH56i",
+      "preview": "https://p.scdn.co/mp3-preview/4adba49db21c60bf1c4085a9a5650c2c3c6d6ffc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/74161ccb71f357ad590dc7ac51fc26f0ab531094",
+      "release_date": "2010-08-24"
+    },
+    {
+      "featuredArtist": "Pitbull",
+      "featuredArtistId": "0TnOYISbd1XYRBk9myaseg",
+      "trackName": "DJ Got Us Fallin' In Love",
+      "trackId": "4356Typ82hUiFAynbLYbPn",
+      "preview": "https://p.scdn.co/mp3-preview/0689d89e44329ad113284715e599b39bd4fc166d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/74161ccb71f357ad590dc7ac51fc26f0ab531094",
+      "release_date": "2010-08-24"
+    },
+    {
+      "featuredArtist": "JAY Z",
+      "featuredArtistId": "3nFkdlSjzX9mRTtwJOzDYB",
+      "trackName": "Hot Tottie",
+      "trackId": "1Vot6YSxInL52SGTN0XN9n",
+      "preview": "https://p.scdn.co/mp3-preview/be7668bc926e6eb87554d4886e9026d4b6c3798b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/74161ccb71f357ad590dc7ac51fc26f0ab531094",
+      "release_date": "2010-08-24"
+    },
+    {
+      "featuredArtist": "Bun B",
+      "featuredArtistId": "45a6gCQWq61lIUDmr1tKuO",
+      "trackName": "Get In My Car",
+      "trackId": "4ImEeJ5Fsdg4ULiBCOKEPG",
+      "preview": "https://p.scdn.co/mp3-preview/30ce907997ede29cb1469b818c04fb1e14922a5e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/74161ccb71f357ad590dc7ac51fc26f0ab531094",
+      "release_date": "2010-08-24"
+    },
+    {
+      "featuredArtist": "Justin Bieber",
+      "featuredArtistId": "1uNFoZAHBGtllmzznpCI3s",
+      "trackName": "Somebody to Love - Remix",
+      "trackId": "6tnrFU8iLQ6orFXjCA3flL",
+      "preview": "https://p.scdn.co/mp3-preview/96c1041639686e4e7a4c524485af1f6da497bac3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/74161ccb71f357ad590dc7ac51fc26f0ab531094",
+      "release_date": "2010-08-24"
+    },
+    {
+      "featuredArtist": "Benny Blanco",
+      "featuredArtistId": "18lVbIzwvArI6wXtF09Mwh",
+      "trackName": "Somebody to Love - Remix",
+      "trackId": "6tnrFU8iLQ6orFXjCA3flL",
+      "preview": "https://p.scdn.co/mp3-preview/96c1041639686e4e7a4c524485af1f6da497bac3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/74161ccb71f357ad590dc7ac51fc26f0ab531094",
+      "release_date": "2010-08-24"
+    },
+    {
+      "featuredArtist": "Jeezy",
+      "featuredArtistId": "4yBK75WVCQXej1p04GWqxH",
+      "trackName": "Love in This Club",
+      "trackId": "4inlPvbzwjpkKCnE0YClRv",
+      "preview": "https://p.scdn.co/mp3-preview/91925a3b9cfe0e4ed99018bf019170c1dfff6005?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac19d625f28a0ead0eb1eb30ec7a9bf19835b4b5",
+      "release_date": "2008-05-27"
+    },
+    {
+      "featuredArtist": "Beyoncé",
+      "featuredArtistId": "6vWDO969PvNqNYHIOW5v0m",
+      "trackName": "Love in This Club, Pt. II",
+      "trackId": "1gPESy6u4AuuvkmksxUrkN",
+      "preview": "https://p.scdn.co/mp3-preview/4780506245493c220968437c312346e1239c8c3b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac19d625f28a0ead0eb1eb30ec7a9bf19835b4b5",
+      "release_date": "2008-05-27"
+    },
+    {
+      "featuredArtist": "Lil Wayne",
+      "featuredArtistId": "55Aa2cqylxrFIXC767Z865",
+      "trackName": "Love in This Club, Pt. II",
+      "trackId": "1gPESy6u4AuuvkmksxUrkN",
+      "preview": "https://p.scdn.co/mp3-preview/4780506245493c220968437c312346e1239c8c3b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac19d625f28a0ead0eb1eb30ec7a9bf19835b4b5",
+      "release_date": "2008-05-27"
+    },
+    {
+      "featuredArtist": "Jermaine Dupri",
+      "featuredArtistId": "6nfYGe7IIuuP5bMY1jkJP6",
+      "trackName": "Chivalry",
+      "trackId": "0TaHFWt7haRGAPoIf8fnAl",
+      "preview": "https://p.scdn.co/mp3-preview/f106a33df5392d25652c9e693b517f5af55a8ec2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fc0dc198e5c462eb98f79fa89e085acfd0958ba1",
+      "release_date": "2008-05-26"
+    },
+    {
+      "featuredArtist": "Lil Jon",
+      "featuredArtistId": "7sfl4Xt5KmfyDs2T3SVSMK",
+      "trackName": "Yeah!",
+      "trackId": "4ECm9N3tUoZCJvQNwsnbw6",
+      "preview": "https://p.scdn.co/mp3-preview/f9b2fb3efa4ea849eabe92d4172e1ed44d6de415?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5b3e46249bebd43ce83ca41e44e9069d7e28e32c",
+      "release_date": "2004-10-02"
+    },
+    {
+      "featuredArtist": "Alicia Keys",
+      "featuredArtistId": "3DiDSECUqqY1AuBP8qtaIa",
+      "trackName": "My Boo",
+      "trackId": "7f5WgDoj8V9zoavJyFRjv5",
+      "preview": "https://p.scdn.co/mp3-preview/d6346bb818c5d92e72719c1a4e9eed16f6889d0f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5b3e46249bebd43ce83ca41e44e9069d7e28e32c",
+      "release_date": "2004-10-02"
+    },
+    {
+      "featuredArtist": "Shyne",
+      "featuredArtistId": "64ovxBmjJ9ZDqkzEXVWpVc",
+      "trackName": "Confessions Part II Remix - Main",
+      "trackId": "0K9NNw4ICANy4AIfc25cY2",
+      "preview": "https://p.scdn.co/mp3-preview/41ae7ec314674c97ba25bbee12116810c83b87de?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5b3e46249bebd43ce83ca41e44e9069d7e28e32c",
+      "release_date": "2004-10-02"
+    },
+    {
+      "featuredArtist": "Twista",
+      "featuredArtistId": "6vbY3hOaCAhC7VjucswgdS",
+      "trackName": "Confessions Part II Remix - Main",
+      "trackId": "0K9NNw4ICANy4AIfc25cY2",
+      "preview": "https://p.scdn.co/mp3-preview/41ae7ec314674c97ba25bbee12116810c83b87de?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5b3e46249bebd43ce83ca41e44e9069d7e28e32c",
+      "release_date": "2004-10-02"
+    },
+    {
+      "featuredArtist": "Kanye West",
+      "featuredArtistId": "5K4W6rqBFWDnAN6FQUkS6x",
+      "trackName": "Confessions Part II Remix - Main",
+      "trackId": "0K9NNw4ICANy4AIfc25cY2",
+      "preview": "https://p.scdn.co/mp3-preview/41ae7ec314674c97ba25bbee12116810c83b87de?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5b3e46249bebd43ce83ca41e44e9069d7e28e32c",
+      "release_date": "2004-10-02"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "artistName": "Fabri Fibra",
+  "features": [
+    {
+      "featuredArtist": "Mahmood",
+      "featuredArtistId": "06nvjg4wBANK6DCHjqtPNd",
+      "trackName": "Luna",
+      "trackId": "44WPemrsF0NZzpZDacHCxg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5c3059312cba5b3617e41cf2f3022c96637eb776",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Big Fish",
+      "featuredArtistId": "7MAmAdNJ8JLL7JCHzIJkoo",
+      "trackName": "Le Vacanze - Big Fish Remix",
+      "trackId": "5uI9jhjvg50LEvot4tdNdk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5c3059312cba5b3617e41cf2f3022c96637eb776",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Thegiornalisti",
+      "featuredArtistId": "6YBgd2LKccEB3pX6UaW1Yp",
+      "trackName": "Pamplona",
+      "trackId": "3H452nrW7GsaU01lpfrQTf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/08371415bc5bc307c2b3adb4cdb3027f66c87c89",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Roberto Saviano",
+      "featuredArtistId": "4Ggle0UsVWHJaiyW54EInY",
+      "trackName": "Skit - Considerazioni",
+      "trackId": "7FoDdeos8jOZxHkU9gJ9Di",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/08371415bc5bc307c2b3adb4cdb3027f66c87c89",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Laïoung",
+      "featuredArtistId": "4RrtqH6egYYBfJrnLkhINz",
+      "trackName": "Dipinto Di Blu",
+      "trackId": "4jTvG91DldP55vedRBvTlf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/08371415bc5bc307c2b3adb4cdb3027f66c87c89",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Jake La Furia",
+      "featuredArtistId": "6JFRI91YaCXREGQYzHSnUH",
+      "trackName": "Rap In Guerra - Don Joe Remix",
+      "trackId": "4jDVfuMdOo70ZJuUJ7aZY1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1834f90a18024580941b3ac19a8814cf6e7ca23f",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Don Joe",
+      "featuredArtistId": "3WrMBQYO99lzSOhYGPiVoQ",
+      "trackName": "Rap In Guerra - Don Joe Remix",
+      "trackId": "4jDVfuMdOo70ZJuUJ7aZY1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1834f90a18024580941b3ac19a8814cf6e7ca23f",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Tolu Kuti",
+      "featuredArtistId": "1FdDbKkogGqCLgwqD5aZfo",
+      "trackName": "Su Le Mani",
+      "trackId": "7MDzlKTf0aCHp8RVx8whJk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1834f90a18024580941b3ac19a8814cf6e7ca23f",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Emis Killa",
+      "featuredArtistId": "6FtwCmLY6L1sqvjaQ2lV6G",
+      "trackName": "Mal Di Stomaco - Takagi & Ketra Remix",
+      "trackId": "2HyWSgWabm8cjtAbdhruot",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1834f90a18024580941b3ac19a8814cf6e7ca23f",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Ketra",
+      "featuredArtistId": "6ESLM0ugER9EsY3Qxilux9",
+      "trackName": "Mal Di Stomaco - Takagi & Ketra Remix",
+      "trackId": "2HyWSgWabm8cjtAbdhruot",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1834f90a18024580941b3ac19a8814cf6e7ca23f",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Takagi",
+      "featuredArtistId": "39zXfYXsZM0XBHGhPzlayM",
+      "trackName": "Mal Di Stomaco - Takagi & Ketra Remix",
+      "trackId": "2HyWSgWabm8cjtAbdhruot",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1834f90a18024580941b3ac19a8814cf6e7ca23f",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Gemitaiz",
+      "featuredArtistId": "4upwdFMlZBmQ68jP9jPzjK",
+      "trackName": "La Pula Bussò - 2016",
+      "trackId": "4Bdn6JSzSysi89GpghIw6Z",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1834f90a18024580941b3ac19a8814cf6e7ca23f",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Deleterio",
+      "featuredArtistId": "7b4WvxNQtqlXbprLRUyxt6",
+      "trackName": "Fai Come Noi - Deleterio Remix",
+      "trackId": "5PZgzKl8sK9lQgZhPO04nR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1834f90a18024580941b3ac19a8814cf6e7ca23f",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Madman",
+      "featuredArtistId": "3MkkSf3u5KU52Mb2iMrqeX",
+      "trackName": "Rompiti Il Collo",
+      "trackId": "753088MMKtlTjIcLOIQ93o",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1834f90a18024580941b3ac19a8814cf6e7ca23f",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Fuzzy",
+      "featuredArtistId": "4cL8jqrwkLwL1NpJtWeEV1",
+      "trackName": "Sono Un Soldato - Fuzzy Remix",
+      "trackId": "1LjWHkJINdI9O9QZ21vCza",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1834f90a18024580941b3ac19a8814cf6e7ca23f",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "PK",
+      "featuredArtistId": "1cxcEwdj0cgbBrz3ulDw0t",
+      "trackName": "Coccole - PK Remix",
+      "trackId": "5jTD43WezqC7I2qBUg68Px",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1834f90a18024580941b3ac19a8814cf6e7ca23f",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Nitro",
+      "featuredArtistId": "6jQZzWW3JlEtcRDSzFVKSP",
+      "trackName": "Vaffan***O Scemo - Yazee Remix",
+      "trackId": "6qPHZpGxeDFKWr1nAiRDna",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1834f90a18024580941b3ac19a8814cf6e7ca23f",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Yazee",
+      "featuredArtistId": "7CYwuhZwBcxavIrRhnZxQc",
+      "trackName": "Vaffan***O Scemo - Yazee Remix",
+      "trackId": "6qPHZpGxeDFKWr1nAiRDna",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1834f90a18024580941b3ac19a8814cf6e7ca23f",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "The Dope Squad",
+      "featuredArtistId": "4HK7XolbvDjBENUZpGfYe9",
+      "trackName": "Il Triangolo Sì - Dopesquad Remix",
+      "trackId": "5ZAfPbcRwBRv5uybkCwtZV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1834f90a18024580941b3ac19a8814cf6e7ca23f",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Aquadrop",
+      "featuredArtistId": "4YGy6z4x5e4DWNBw0oabzo",
+      "trackName": "Tutti Matti - Aquadrop Remix",
+      "trackId": "4FhAzN9xcVPT8KlF2eZJ1j",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1834f90a18024580941b3ac19a8814cf6e7ca23f",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Claver Gold",
+      "featuredArtistId": "65U1A6j2pIHfZXLoitJFXz",
+      "trackName": "Idee Stupide",
+      "trackId": "3L2bMl8tJzWN1eB5bVPom5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1834f90a18024580941b3ac19a8814cf6e7ca23f",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Lucariello",
+      "featuredArtistId": "1pv59RDMxb8WKREVPpLDK9",
+      "trackName": "Skit Squallor - Live @ Fabrique, Milano",
+      "trackId": "4ONoB3OYjHK3zA0rekOGO5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0d60c98c82ac826acb2a764fb66efd006d5e8e03",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Gue Pequeno",
+      "featuredArtistId": "7F2utINZ6tSokSiZTQBE27",
+      "trackName": "E Tu Ci Convivi - Live @ Fabrique, Milano",
+      "trackId": "5kKfBQfNGDAlPTDxcawWDa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0d60c98c82ac826acb2a764fb66efd006d5e8e03",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Marracash",
+      "featuredArtistId": "5AZuEF0feCXMkUCwQiQlW7",
+      "trackName": "Playboy - Live @ Fabrique, Milano",
+      "trackId": "7oQOjysg25SilegQIz1NEp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0d60c98c82ac826acb2a764fb66efd006d5e8e03",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Clementino",
+      "featuredArtistId": "0ba6wsfB7G2rhdHMebCdO3",
+      "trackName": "E.U.R.O. - Live @ Fabrique, Milano",
+      "trackId": "0o8Py8URSQzZADU3FGcMZ8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0d60c98c82ac826acb2a764fb66efd006d5e8e03",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Salmo",
+      "featuredArtistId": "3hBQ4zniNdQf1cqqo6hzuW",
+      "trackName": "Dexter - Live @ Fabrique, Milano",
+      "trackId": "0HLRauRh8FtMxgkqjqQI2a",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0d60c98c82ac826acb2a764fb66efd006d5e8e03",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Gel",
+      "featuredArtistId": "1zuJhiod70T3Kev0XIsfko",
+      "trackName": "A Volte - Live @ Fabrique, Milano",
+      "trackId": "3cYrj2KzWwaEpoW63kuJfj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0d60c98c82ac826acb2a764fb66efd006d5e8e03",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Youssoupha",
+      "featuredArtistId": "5DW7NxqQ2875JtjuV7KMn4",
+      "trackName": "Rock That Shit",
+      "trackId": "5VzPCJVRnyuQyiaGlNoiR6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a7d7c4da7bb7debba51d916d8bb86eb1ea87e001",
+      "release_date": "2015-04-07"
+    },
+    {
+      "featuredArtist": "Al Castellana",
+      "featuredArtistId": "6UVCwrEMPsmydH3KKffz4Z",
+      "trackName": "Che Tempi",
+      "trackId": "6fZ4d59VRSnj2B3NlBhRd9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/35cd2521cfa2479bd75b0556e3c2de1e286879e2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Neffa",
+      "featuredArtistId": "54dqxLAclwu0QSaTwCyCaF",
+      "trackName": "Panico",
+      "trackId": "0ecor3g04uErdVjzEvozKE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/35cd2521cfa2479bd75b0556e3c2de1e286879e2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Elisa",
+      "featuredArtistId": "2ARH58Hit3yC6ziGdhma23",
+      "trackName": "Dagli Sbagli Si Impara",
+      "trackId": "0l9EeLy4ZjtsqrDKtrgyau",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/35cd2521cfa2479bd75b0556e3c2de1e286879e2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Dargen D'Amico",
+      "featuredArtistId": "7muPB2GhV0sEg2K1Fgj0Xm",
+      "trackName": "Insensibile",
+      "trackId": "3BAOpNUjXTPkQwvOKN3EoX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bdc53f31c97da701fb6efbee42e80b0bb1c557f9",
+      "release_date": "2010-09-07"
+    },
+    {
+      "featuredArtist": "Entics",
+      "featuredArtistId": "6GNKEqtVedvHFdhsdDtg2d",
+      "trackName": "Troppo Famoso",
+      "trackId": "4AjxqdzeYvdnMd1ZhProav",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bdc53f31c97da701fb6efbee42e80b0bb1c557f9",
+      "release_date": "2010-09-07"
+    },
+    {
+      "featuredArtist": "Simona Barbieri",
+      "featuredArtistId": "0iB71em8mKqgne073vyymY",
+      "trackName": "In Alto",
+      "trackId": "5DO3XFMKRUgyky895lK30M",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bdc53f31c97da701fb6efbee42e80b0bb1c557f9",
+      "release_date": "2010-09-07"
+    },
+    {
+      "featuredArtist": "Dj Double S",
+      "featuredArtistId": "6dtsFkULezFnergRkRlQv0",
+      "trackName": "La Fretta",
+      "trackId": "5yRCaRTM3FhKHAlX6C5cRY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bdc53f31c97da701fb6efbee42e80b0bb1c557f9",
+      "release_date": "2010-09-07"
+    },
+    {
+      "featuredArtist": "Alborosie",
+      "featuredArtistId": "78u1jLVBjPSXQVmHBV43yG",
+      "trackName": "Un'Altra Chance",
+      "trackId": "5zzVTBV4Az7eeSDEpkRb2Y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6290f90e7ea23032e46a0c9d7bcd89d2aaa0195",
+      "release_date": "2007-11-13"
+    },
+    {
+      "featuredArtist": "Metal Carter",
+      "featuredArtistId": "0H4qKbzvpxPEz0Vbm7ULo4",
+      "trackName": "Cento Modi Per Morire",
+      "trackId": "2sH6wNRSV8Yyuzo1slE2hs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6290f90e7ea23032e46a0c9d7bcd89d2aaa0195",
+      "release_date": "2007-11-13"
+    },
+    {
+      "featuredArtist": "Nesli",
+      "featuredArtistId": "64J8DKMWjl0AxL30tawsLh",
+      "trackName": "Le Ragazze",
+      "trackId": "6ps0EltqHzd0aT1VEpCyaa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6290f90e7ea23032e46a0c9d7bcd89d2aaa0195",
+      "release_date": "2007-11-13"
+    },
+    {
+      "featuredArtist": "Diego Mancino",
+      "featuredArtistId": "31I1HN5ZEhzpomLVDzpvPH",
+      "trackName": "Idee Stupide",
+      "trackId": "2YqCT9WjdLCqhmGmNdarvX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ce1cf92f25ca75fac83dc92bc6ddb2eddde34c63",
+      "release_date": "2007-01-16"
+    },
+    {
+      "featuredArtist": "Gianna Nannini",
+      "featuredArtistId": "0h0p7RkMjCUMdcf0nXmHjX",
+      "trackName": "In Italia",
+      "trackId": "50ixQcvk3MJBJLU90FULm9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2a8aa7e34591746b2860de6202c3ed3af00a7496",
+      "release_date": "2007"
+    }
+  ]
+}

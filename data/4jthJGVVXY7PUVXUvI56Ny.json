@@ -1,0 +1,41 @@
+{
+  "artistName": "DJ Cassula",
+  "features": [
+    {
+      "featuredArtist": "MCs Deco e Luco",
+      "featuredArtistId": "3bYgC2s3ZytKuXKEGPnSlw",
+      "trackName": "Doidinha",
+      "trackId": "3TcYMrcfGvbuYqlJuD5Prw",
+      "preview": "https://p.scdn.co/mp3-preview/f86aa57b07abfd508e03e8e5d43a58b60dcacde1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/40ed44e0c7a03e2dfa4941d7916385b67c18e2f3",
+      "release_date": "2017-12-06"
+    },
+    {
+      "featuredArtist": "MC Leonne",
+      "featuredArtistId": "7kjUQzlAVjg1obOHxOQ53Q",
+      "trackName": "Vai Menina",
+      "trackId": "6SDeFo9Z27roLv2K2BM813",
+      "preview": "https://p.scdn.co/mp3-preview/24160e246abce77c0885a05bbcfd5cfd7f724e1a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65766dd54dcdc5291dabd3c17b77a000ff19ec12",
+      "release_date": "2017-12-05"
+    },
+    {
+      "featuredArtist": "Jerry Smith",
+      "featuredArtistId": "6OpOg5HVCc8xVf7OVrd5Fk",
+      "trackName": "Troféu do Ano",
+      "trackId": "7CtFr21TzdM4ntuBkwzpxg",
+      "preview": "https://p.scdn.co/mp3-preview/c254820cae49067e7820a3c6c966a873a9b8fa29?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/606e83678c51a604290133e777c1c1f68d403a61",
+      "release_date": "2017-11-01"
+    },
+    {
+      "featuredArtist": "Mc Nando Dk",
+      "featuredArtistId": "3lX6w0gmtgVeijiFxNz5O7",
+      "trackName": "Troféu do Ano",
+      "trackId": "7CtFr21TzdM4ntuBkwzpxg",
+      "preview": "https://p.scdn.co/mp3-preview/c254820cae49067e7820a3c6c966a873a9b8fa29?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/606e83678c51a604290133e777c1c1f68d403a61",
+      "release_date": "2017-11-01"
+    }
+  ]
+}

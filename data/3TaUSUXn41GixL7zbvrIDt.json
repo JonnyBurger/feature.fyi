@@ -1,0 +1,365 @@
+{
+  "artistName": "A-Trak",
+  "features": [
+    {
+      "featuredArtist": "Architecture In Helsinki",
+      "featuredArtistId": "60eT7q88iLWKnuSXed1AGr",
+      "trackName": "Heart It Races - Trizzy’s Rusty Tin Can Mix",
+      "trackId": "4gIUyGX85DpIcXyjgUetHB",
+      "preview": "https://p.scdn.co/mp3-preview/c1cd8c2b2522a18ebd9aff65a8eb3f751e8dde05?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8b1041f565e182136499b88b394a1def4f67301",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Scanners",
+      "featuredArtistId": "0PVEuLOb9xt4FX5icv2wm6",
+      "trackName": "Bombs - Trizzy’s Boom Bam Slam Mix",
+      "trackId": "7ieTK3WDjMhoJY0dTz8dvP",
+      "preview": "https://p.scdn.co/mp3-preview/cb386b4c1a853c32a0bf19014b9f70b73c31120e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8b1041f565e182136499b88b394a1def4f67301",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Boys Noize",
+      "featuredArtistId": "62k5LKMhymqlDNo2DWOvvv",
+      "trackName": "Oh! - A-Trak Remix",
+      "trackId": "77DTvQ0mCP2n4LEFS7ycFD",
+      "preview": "https://p.scdn.co/mp3-preview/ac26f24e40e730073a0c76c2e3f2b541f7e8c906?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8b1041f565e182136499b88b394a1def4f67301",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Sébastien Tellier",
+      "featuredArtistId": "23ymPLjbtAMzTJS2qRtQ8Z",
+      "trackName": "Kilometer - A-Trak Remix",
+      "trackId": "1AXYN3Qlai1Eo2JV6sY1NM",
+      "preview": "https://p.scdn.co/mp3-preview/a7dd57011772eda268410c90f6439de3fa904818?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8b1041f565e182136499b88b394a1def4f67301",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "The Rapture",
+      "featuredArtistId": "166Dz1GX3xonSQ3Z6CQW26",
+      "trackName": "How Deep Is Your Love? - A-Trak Remix",
+      "trackId": "30LDlGfqoqYxiLgLKvBOHA",
+      "preview": "https://p.scdn.co/mp3-preview/64dfb3aca52ffb24e21eedd4dc00735c72785fe0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8b1041f565e182136499b88b394a1def4f67301",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Surkin",
+      "featuredArtistId": "1XqqyIQYMonHgllb1uysL3",
+      "trackName": "Never Let Go - A-Trak Remix",
+      "trackId": "3KZRfp6k6mjHDRwsXyjbmo",
+      "preview": "https://p.scdn.co/mp3-preview/085db2c072889aa03b0ce9253486d0f9d549305d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8b1041f565e182136499b88b394a1def4f67301",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Phoenix",
+      "featuredArtistId": "0BISleNej6w4HkoIPJ7gaQ",
+      "trackName": "Trying To Be Cool - A-Trak Remix",
+      "trackId": "61kaWMhWPNaEP6fv53ICNW",
+      "preview": "https://p.scdn.co/mp3-preview/32426fb4c04d481653dc5da3105299b886917366?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8b1041f565e182136499b88b394a1def4f67301",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Bingo Players",
+      "featuredArtistId": "1pbHrVayIcVpHI9z97u4bK",
+      "trackName": "Cry (Just A Little) - A-Trak & Phantoms Remix",
+      "trackId": "6kHRVrLwwb2z4o4w31EAAv",
+      "preview": "https://p.scdn.co/mp3-preview/d98966c7fbeae7bfdea6d0765642c9b1fb94c8c2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8b1041f565e182136499b88b394a1def4f67301",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Phantoms",
+      "featuredArtistId": "65jboDskjam8csnZLqV4Fk",
+      "trackName": "Cry (Just A Little) - A-Trak & Phantoms Remix",
+      "trackId": "6kHRVrLwwb2z4o4w31EAAv",
+      "preview": "https://p.scdn.co/mp3-preview/d98966c7fbeae7bfdea6d0765642c9b1fb94c8c2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8b1041f565e182136499b88b394a1def4f67301",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Phantogram",
+      "featuredArtistId": "1l9d7B8W0IHy3LqWsxP2SH",
+      "trackName": "Parallel Lines (feat. Phantogram) - MSTRKRFT Remix",
+      "trackId": "6hvZsTouWP2PLMbuG9nhGg",
+      "preview": "https://p.scdn.co/mp3-preview/63c5ca8f133f6a78ef412a0d5656d7dc0ef265ee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8af6a2a0b75eafefbbbf894a4d087688ef5e449a",
+      "release_date": "2016-07-29"
+    },
+    {
+      "featuredArtist": "MSTRKRFT",
+      "featuredArtistId": "2squZ8HjM4AzR0j6jsPn4a",
+      "trackName": "Parallel Lines (feat. Phantogram) - MSTRKRFT Remix",
+      "trackId": "6hvZsTouWP2PLMbuG9nhGg",
+      "preview": "https://p.scdn.co/mp3-preview/63c5ca8f133f6a78ef412a0d5656d7dc0ef265ee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8af6a2a0b75eafefbbbf894a4d087688ef5e449a",
+      "release_date": "2016-07-29"
+    },
+    {
+      "featuredArtist": "Bart B More",
+      "featuredArtistId": "1eOOXqRHILTxqrEUAYyQU0",
+      "trackName": "Parallel Lines (feat. Phantogram) - Bart B More Remix",
+      "trackId": "6QuIEiCzVupXZ54Rd42U8S",
+      "preview": "https://p.scdn.co/mp3-preview/d990fa81f7015b87efd9eb0f7f1d43206adda0a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8af6a2a0b75eafefbbbf894a4d087688ef5e449a",
+      "release_date": "2016-07-29"
+    },
+    {
+      "featuredArtist": "Chris Lorenzo",
+      "featuredArtistId": "7tm9Tuc70geXOOyKhtZHIj",
+      "trackName": "Parallel Lines (feat. Phantogram) - Chris Lorenzo Remix",
+      "trackId": "6sCg3E8gDlvMjX0fZtY5cu",
+      "preview": "https://p.scdn.co/mp3-preview/f13d7a7df5f6eb57beb6f849d21c9e48d14384d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8af6a2a0b75eafefbbbf894a4d087688ef5e449a",
+      "release_date": "2016-07-29"
+    },
+    {
+      "featuredArtist": "Yolanda Be Cool",
+      "featuredArtistId": "4KkHjCe8ouh8C2P9LPoD4F",
+      "trackName": "Parallel Lines (feat. Phantogram) - Yolanda Be Cool Remix",
+      "trackId": "1SKDqgNy6CdkuH7IRZp6IF",
+      "preview": "https://p.scdn.co/mp3-preview/ea68fa31a7f0c8990753b0cf5eb8d372b1a19408?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8af6a2a0b75eafefbbbf894a4d087688ef5e449a",
+      "release_date": "2016-07-29"
+    },
+    {
+      "featuredArtist": "POOLCLVB",
+      "featuredArtistId": "2YuGcy0A3VKg9jRbadzoJL",
+      "trackName": "Parallel Lines (feat. Phantogram) - POOLCLVB Remix",
+      "trackId": "30XvWKtYv7NftrPy3XMNGh",
+      "preview": "https://p.scdn.co/mp3-preview/f2220e70a7115a145e243ae6422425ce6370ff9f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8af6a2a0b75eafefbbbf894a4d087688ef5e449a",
+      "release_date": "2016-07-29"
+    },
+    {
+      "featuredArtist": "Odd Mob",
+      "featuredArtistId": "4qLwtWhlhyAoQ4S9mSrDW9",
+      "trackName": "Parallel Lines (feat. Phantogram) - Odd Mob Remix",
+      "trackId": "1R5fwmRneI3uMR7tL5hkHM",
+      "preview": "https://p.scdn.co/mp3-preview/ecbe259d992b4dc2ac49c160a02918ae4a295553?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8af6a2a0b75eafefbbbf894a4d087688ef5e449a",
+      "release_date": "2016-07-29"
+    },
+    {
+      "featuredArtist": "Polographia",
+      "featuredArtistId": "41Vldqj1RWBrQurBwof2QT",
+      "trackName": "Parallel Lines (feat. Phantogram) - Polographia Remix",
+      "trackId": "4PVn36cyBd0s18MnEYGTfk",
+      "preview": "https://p.scdn.co/mp3-preview/8c0fba6e29359ea4e926c65da591b351a0166a3b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8af6a2a0b75eafefbbbf894a4d087688ef5e449a",
+      "release_date": "2016-07-29"
+    },
+    {
+      "featuredArtist": "Wongo",
+      "featuredArtistId": "7yx47vjNgvQXPtHis6Hi91",
+      "trackName": "Parallel Lines (feat. Phantogram) - Wongo Remix",
+      "trackId": "2QVzaLdyXpZEhp75aF0GXR",
+      "preview": "https://p.scdn.co/mp3-preview/0df41aeed6134e1d29105e4b650ac9daeb6fddae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8af6a2a0b75eafefbbbf894a4d087688ef5e449a",
+      "release_date": "2016-07-29"
+    },
+    {
+      "featuredArtist": "Holl & Rush",
+      "featuredArtistId": "0gT2b7kbRgn15nSNPe3lgf",
+      "trackName": "Parallel Lines (feat. Phantogram) [Holl & Rush Remix]",
+      "trackId": "0ppqtRgXBKWaIemP8cqN7t",
+      "preview": "https://p.scdn.co/mp3-preview/e04e9666ca30a830844676d5bd871c81d8fea962?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1366fc72c198a8f40feabc7c61a85d8d714fa52",
+      "release_date": "2016-07-01"
+    },
+    {
+      "featuredArtist": "Blu",
+      "featuredArtistId": "1KeJhR0ENFviw187pD4LPT",
+      "trackName": "Parallel Lines (feat. Phantogram) [BLU J Remix]",
+      "trackId": "57tr9wzeIdXY2xfv6mb4w8",
+      "preview": "https://p.scdn.co/mp3-preview/90c4034874cd0292a143e85613727165ea56ac84?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1366fc72c198a8f40feabc7c61a85d8d714fa52",
+      "release_date": "2016-07-01"
+    },
+    {
+      "featuredArtist": "Doobious",
+      "featuredArtistId": "4Si6bkuClXDbHbTTAH0xPC",
+      "trackName": "Parallel Lines (feat. Phantogram) [Doobious Remix]",
+      "trackId": "08d4x2KdfIQ053EFgwMPzR",
+      "preview": "https://p.scdn.co/mp3-preview/d146e8bb5ab4265fb75903bd295f6c80f729278d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1366fc72c198a8f40feabc7c61a85d8d714fa52",
+      "release_date": "2016-07-01"
+    },
+    {
+      "featuredArtist": "Jamie Lidell",
+      "featuredArtistId": "6ASGmWCYupa0CXGtsDdYSI",
+      "trackName": "We All Fall Down - Cory Enemy & Syre Remix",
+      "trackId": "7K4avjWmiV36ylLul3eVyf",
+      "preview": "https://p.scdn.co/mp3-preview/586162c79a696929b48bec26b7b2a05099c6200d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c0930f4c908e67b80260daa6abdb6832cf0f67f",
+      "release_date": "2015-12-11"
+    },
+    {
+      "featuredArtist": "Tommy Trash",
+      "featuredArtistId": "1tBU8jUEdVR3mqSsAqEGfD",
+      "trackName": "Tuna Melt - Les Rythmes Digitales",
+      "trackId": "6PhvhCRWiJ4ueYUXWKa1Zg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/17697b9bec6e919db7fa9bbc90a2053f6d214e75",
+      "release_date": "2013-03-19"
+    },
+    {
+      "featuredArtist": "Oliver",
+      "featuredArtistId": "0NDElNqwGRCmsYIQFapp6K",
+      "trackName": "Disco Nap - QBert's RocketCockPet Mix",
+      "trackId": "6uYfOK7xhmZPUmtOeB9Zyk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/17697b9bec6e919db7fa9bbc90a2053f6d214e75",
+      "release_date": "2013-03-19"
+    },
+    {
+      "featuredArtist": "GTA",
+      "featuredArtistId": "6M7RdR9ZP52h2mfNLmiHtU",
+      "trackName": "Landline 2.0 - Jack Beats Remix",
+      "trackId": "7fCmnGc71i3T1hrzxLVLT8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/17697b9bec6e919db7fa9bbc90a2053f6d214e75",
+      "release_date": "2013-03-19"
+    },
+    {
+      "featuredArtist": "Galantis",
+      "featuredArtistId": "4sTQVOfp9vEMCemLw50sbu",
+      "trackName": "Jumbo - The Partysquad Remix",
+      "trackId": "26WNV0rl39GfDBB7IdbLWS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/17697b9bec6e919db7fa9bbc90a2053f6d214e75",
+      "release_date": "2013-03-19"
+    },
+    {
+      "featuredArtist": "Les Rythmes Digitales",
+      "featuredArtistId": "02zMQvIvPXbVOLDdFqbFUn",
+      "trackName": "Tuna Melt - Les Rythmes Digitales Remix",
+      "trackId": "01RukQnT2qdBZXFhhPGbvd",
+      "preview": "https://p.scdn.co/mp3-preview/71e08ab318d538d21cddd864deb8ea9667f10ba1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ed2191c2562149b7ddebe918015a2a994fd535c",
+      "release_date": "2013-03-19"
+    },
+    {
+      "featuredArtist": "Grandtheft",
+      "featuredArtistId": "4R0EwsTKt1LIFcdezmuezM",
+      "trackName": "Tuna Melt - Grandtheft Remix",
+      "trackId": "7cl6tdZg7QaiFjrPAirDja",
+      "preview": "https://p.scdn.co/mp3-preview/23dbd13458bc5711e0147bccec5633e6ca01f916?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ed2191c2562149b7ddebe918015a2a994fd535c",
+      "release_date": "2013-03-19"
+    },
+    {
+      "featuredArtist": "DJ Qbert",
+      "featuredArtistId": "5MxgS8Fg1h5k4ccyioVcT0",
+      "trackName": "Disco Nap - Q-Bert's RocketCockPet Mix",
+      "trackId": "0b5uadbrun5GEbLZvyuqs5",
+      "preview": "https://p.scdn.co/mp3-preview/259e78d11e466469ab56c68fedc78511db6e0513?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ed2191c2562149b7ddebe918015a2a994fd535c",
+      "release_date": "2013-03-19"
+    },
+    {
+      "featuredArtist": "Funkin Matt",
+      "featuredArtistId": "11chB4Th19iMA7j65oGMk1",
+      "trackName": "Disco Nap - Funkin Matt Remix",
+      "trackId": "6ONTXExSZlbnraKrQtRizz",
+      "preview": "https://p.scdn.co/mp3-preview/b8f1723e4c8aa6263f9e95ce4782a40e9fbd3d64?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ed2191c2562149b7ddebe918015a2a994fd535c",
+      "release_date": "2013-03-19"
+    },
+    {
+      "featuredArtist": "Jack Beats",
+      "featuredArtistId": "5dUIQXIt7WeBKpETFZyTFW",
+      "trackName": "Landline - Jack Beats Remix",
+      "trackId": "2qsL13KUCknZi9DIl1aMkW",
+      "preview": "https://p.scdn.co/mp3-preview/3d052a14ae21b7473c1d65ff81184c012d29f8fe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ed2191c2562149b7ddebe918015a2a994fd535c",
+      "release_date": "2013-03-19"
+    },
+    {
+      "featuredArtist": "The Partysquad",
+      "featuredArtistId": "2dQgOfBP52UwjegY8FwJAY",
+      "trackName": "Jumbo - The Partysquad Remix",
+      "trackId": "6PHEjOALfDj8rdQMDJDnNw",
+      "preview": "https://p.scdn.co/mp3-preview/47f4692c5b4d5de1d23c67074b048f7a50c0b006?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ed2191c2562149b7ddebe918015a2a994fd535c",
+      "release_date": "2013-03-19"
+    },
+    {
+      "featuredArtist": "MSTRKRFT feat. N.O.R.E.",
+      "featuredArtistId": "4lej6G0hPkIUmV9JccJjij",
+      "trackName": "Bounce - A-Trak Remix",
+      "trackId": "5xEnSuMZEV2NoPBZoXvNrz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/85ac045519b5624352a753eff2d4056859be9257",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "N.O.R.E.",
+      "featuredArtistId": "4GMgdB3vwbBOc42hbXEi9p",
+      "trackName": "Bounce - A-Trak Remix",
+      "trackId": "5xEnSuMZEV2NoPBZoXvNrz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/85ac045519b5624352a753eff2d4056859be9257",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Dj Spinna",
+      "featuredArtistId": "44E0JWHttieVoD6vUHWoa2",
+      "trackName": "Say Whoa - DJ Spinna Remix",
+      "trackId": "4qfK6KKd6KVX79G3PDJfvZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/85ac045519b5624352a753eff2d4056859be9257",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Falcons",
+      "featuredArtistId": "7lm68Uw3UZDD1vlAWpLeDL",
+      "trackName": "Ride For Me",
+      "trackId": "0cv8L2qaexo46cZUKufDfR",
+      "preview": "https://p.scdn.co/mp3-preview/d549c4221e499a755a0dfea1333283d5f39b2f77?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/541bc91496ca04fa0dab89d0f0a1b41ce04a37f6",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Young Thug",
+      "featuredArtistId": "50co4Is1HCEo8bhOyUWKpn",
+      "trackName": "Ride For Me",
+      "trackId": "0cv8L2qaexo46cZUKufDfR",
+      "preview": "https://p.scdn.co/mp3-preview/d549c4221e499a755a0dfea1333283d5f39b2f77?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/541bc91496ca04fa0dab89d0f0a1b41ce04a37f6",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "24hrs",
+      "featuredArtistId": "4isewEHTP7Az2QheDdBQ6J",
+      "trackName": "Ride For Me",
+      "trackId": "0cv8L2qaexo46cZUKufDfR",
+      "preview": "https://p.scdn.co/mp3-preview/d549c4221e499a755a0dfea1333283d5f39b2f77?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/541bc91496ca04fa0dab89d0f0a1b41ce04a37f6",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "CyHi The Prynce",
+      "featuredArtistId": "18HVMQsV3tINaTyzT5UIjH",
+      "trackName": "Ray Ban Vision - Casper & B. Remix",
+      "trackId": "6qfXRudT5KuBbaVlH6T7Ws",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/312f7c5da74d7e1fa17f60834afa9408e2f886c1",
+      "release_date": "2017-12-14"
+    },
+    {
+      "featuredArtist": "Casper & B.",
+      "featuredArtistId": "2D3CXS70FRMw2FIkchBQdH",
+      "trackName": "Ray Ban Vision - Casper & B. Remix",
+      "trackId": "6qfXRudT5KuBbaVlH6T7Ws",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/312f7c5da74d7e1fa17f60834afa9408e2f886c1",
+      "release_date": "2017-12-14"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "artistName": "Justin Moore",
+  "features": [
+    {
+      "featuredArtist": "Brantley Gilbert",
+      "featuredArtistId": "5q8HGNo0BjLWaTAhRtbwxa",
+      "trackName": "More Middle Fingers",
+      "trackId": "6gaLaRPIZYNKc3ywQZ2SZ0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c211669503d2cfef3e0df50bc72c96b6f2dced61",
+      "release_date": "2016-08-12"
+    },
+    {
+      "featuredArtist": "Miranda Lambert",
+      "featuredArtistId": "66lH4jAE7pqPlOlzUKbwA0",
+      "trackName": "Old Habits",
+      "trackId": "1b5Oxc6bWWda6YC6liUR3A",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4bd2201747b72991a6e6b7b417b0fb9ff0ea1efa",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Charlie Daniels",
+      "featuredArtistId": "6UpFUXmXvDV7Qj1SPymamh",
+      "trackName": "For Some Ol' Redneck Reason",
+      "trackId": "5diPoU0LKq0WNhpJZrHVyK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4bd2201747b72991a6e6b7b417b0fb9ff0ea1efa",
+      "release_date": "2013-01-01"
+    }
+  ]
+}

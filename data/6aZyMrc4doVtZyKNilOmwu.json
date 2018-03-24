@@ -1,0 +1,68 @@
+{
+  "artistName": "Colbie Caillat",
+  "features": [
+    {
+      "featuredArtist": "Brad Paisley",
+      "featuredArtistId": "13YmWQJFwgZrd4bf5IjMY4",
+      "trackName": "Merry Christmas Baby",
+      "trackId": "6sUu4LqdULakUUsHuzOGwx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7ba3e666c09be5a2614f9e804825988d0e8624d1",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Gavin DeGraw",
+      "featuredArtistId": "5DYAABs8rkY9VhwtENoQCz",
+      "trackName": "Baby It's Cold Outside",
+      "trackId": "5MH4CGabudG60vz0tggdOH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7ba3e666c09be5a2614f9e804825988d0e8624d1",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Justin Young",
+      "featuredArtistId": "49OldsHGWhHHWNKdkHdx7B",
+      "trackName": "The Christmas Song",
+      "trackId": "2nvb1py3s69erflBRzZ36d",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7ba3e666c09be5a2614f9e804825988d0e8624d1",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Jason Reeves",
+      "featuredArtistId": "4ISvSAA85lr3lDwpMEBNgS",
+      "trackName": "Every Day Is Christmas",
+      "trackId": "6Hto8OJuanWrFJfXKUwzOq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7ba3e666c09be5a2614f9e804825988d0e8624d1",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Common",
+      "featuredArtistId": "2GHclqNVjqGuiE5mA7BEoc",
+      "trackName": "Favorite Song",
+      "trackId": "5QmWwEZY23peUBTVC8bIYA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9c3cfe907d68c1f59f1e9b5572a5e43718ad7276",
+      "release_date": "2011-07-12"
+    },
+    {
+      "featuredArtist": "Camila",
+      "featuredArtistId": "2gRP1Ezbtj3qrERnd0XasU",
+      "trackName": "Entre Tus Alas",
+      "trackId": "4NceGEeEJZUV05MuobzHNv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cb73910e7b33381e6337838da49b6787ce088379",
+      "release_date": "2011-07-12"
+    },
+    {
+      "featuredArtist": "Jason Mraz",
+      "featuredArtistId": "4phGZZrJZRo4ElhRtViYdl",
+      "trackName": "Lucky - Re-Mastered Version",
+      "trackId": "2mkWZoY6sQFQdlEIzRKbAV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cb9c4878eec69e72a36d59ba264f9306277c8bcf",
+      "release_date": "2009-01-01"
+    }
+  ]
+}

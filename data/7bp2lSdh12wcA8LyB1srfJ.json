@@ -1,0 +1,59 @@
+{
+  "artistName": "Sofia Carson",
+  "features": [
+    {
+      "featuredArtist": "Bruno Martini",
+      "featuredArtistId": "5veVxxPm1vzgi6pO2iVA8L",
+      "trackName": "Ins and Outs - Bruno Martini Remix",
+      "trackId": "412lAgZz0g58OgOHc1mij4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4dc58487f90a9567ea3a5e6289b4666153555963",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Dove Cameron",
+      "featuredArtistId": "2W8yFh0Ga6Yf3jiayVxwkE",
+      "trackName": "Better Together - From \"Descendants: Wicked World\"",
+      "trackId": "2aIitfscIZHDribr1W2y7i",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/40600a943349b1b2d18a68d69027c8a4eb055ade",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Alan Walker",
+      "featuredArtistId": "7vk5e3vY1uw9plTHJAMwjN",
+      "trackName": "Back to Beautiful",
+      "trackId": "2sNIzKpt0QLQuxyUUCapWs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f798bccdba8f652819278908e47051602fe7781a",
+      "release_date": "2017-01-27"
+    },
+    {
+      "featuredArtist": "Stargate",
+      "featuredArtistId": "4yA7QuT08bPTnwJXKQSubo",
+      "trackName": "Back to Beautiful - Stargate Remix",
+      "trackId": "1MFbfleWNSj6WqOwvuReJI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f798bccdba8f652819278908e47051602fe7781a",
+      "release_date": "2017-01-27"
+    },
+    {
+      "featuredArtist": "DJ Laszlo",
+      "featuredArtistId": "0rvKUcq439p6nDHOhiVzVi",
+      "trackName": "Love Is the Name - DJ Laszlo Remix",
+      "trackId": "6ydjdAyKnYg6lN7X0We3fm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cf3e4cfd181debe855e564273c3da0a3a8c2c427",
+      "release_date": "2016-08-12"
+    },
+    {
+      "featuredArtist": "Mack & Jet Set Vega",
+      "featuredArtistId": "3Ka2BWCdQsdaLAovw2iY3Y",
+      "trackName": "Love Is the Name - Mack and Jet Set Vega Remix",
+      "trackId": "5Mn9QrZ2m06PBeQ0pciUoU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0374c09e09c360f257482fd35ba92724e58fb530",
+      "release_date": "2016-07-08"
+    }
+  ]
+}

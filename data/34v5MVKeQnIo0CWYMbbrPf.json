@@ -1,0 +1,68 @@
+{
+  "artistName": "John Newman",
+  "features": [
+    {
+      "featuredArtist": "Idris Elba",
+      "featuredArtistId": "0Dc2rdPzleezxhvQhQbXuS",
+      "trackName": "Revolve",
+      "trackId": "6h76QhNFY2wdPAHRyMrvQ8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d70a27b39a44510a869536ab004bc8e8af27c69e",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Charlie Wilson",
+      "featuredArtistId": "6CxZzQFUTM6AzgluGwtq5w",
+      "trackName": "Tiring Game",
+      "trackId": "5pLQAKnhqxEDo0n5EKAziz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d70a27b39a44510a869536ab004bc8e8af27c69e",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Calvin Harris",
+      "featuredArtistId": "7CajNmpbOovFoOoasH2HaY",
+      "trackName": "Blame",
+      "trackId": "7B83XczYSjqkdojHFppmXX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/57434c0ee4f1cce754775ff4e073e4825028087a",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Martin Jensen",
+      "featuredArtistId": "4ehtJnVumNf6xzSCDk8aLB",
+      "trackName": "Fire In Me - Martin Jensen Remix",
+      "trackId": "5NcePWbvppcChH69nqDcaL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d75855a81ce0b437bcca6ea898c92192bd781926",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Blonde",
+      "featuredArtistId": "2nuKjZLgc7II6FO4Rxjt5e",
+      "trackName": "Olé - Blonde Remix",
+      "trackId": "7hUNkCKvYWoZjvSeUG0CaE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/747727f3fb2fbc6386779dbee587e9963633445d",
+      "release_date": "2016-08-26"
+    },
+    {
+      "featuredArtist": "Chris Lake",
+      "featuredArtistId": "5Igpc9iLZ3YGtKeYfSrrOE",
+      "trackName": "Olé - Chris Lake Remix",
+      "trackId": "3aU6pz4OXJicKvTc1P2g15",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/747727f3fb2fbc6386779dbee587e9963633445d",
+      "release_date": "2016-08-26"
+    },
+    {
+      "featuredArtist": "Alx Veliz",
+      "featuredArtistId": "17rnpuu2LApoCL4x8fObZg",
+      "trackName": "Olé - Alx Veliz Latin Remix",
+      "trackId": "4UVpBszdczvbHZ5n5soz00",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/747727f3fb2fbc6386779dbee587e9963633445d",
+      "release_date": "2016-08-12"
+    }
+  ]
+}

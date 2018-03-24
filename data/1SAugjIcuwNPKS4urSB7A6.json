@@ -1,0 +1,287 @@
+{
+  "artistName": "Joe Budden",
+  "features": [
+    {
+      "featuredArtist": "Joell Ortiz",
+      "featuredArtistId": "1q13yHC6Syg5Y8iPLrRnCq",
+      "trackName": "Serious",
+      "trackId": "1ipqXYMBsE3w13KjmygYJ2"
+    },
+    {
+      "featuredArtist": "Jazzy",
+      "featuredArtistId": "00NfvwU9izo9gDJyXx33jo",
+      "trackName": "By Law",
+      "trackId": "5uzxGOnyyeN2JNi6qmoSvB"
+    },
+    {
+      "featuredArtist": "Tory Lanez",
+      "featuredArtistId": "2jku7tDXc6XoB6MO2hFuqg",
+      "trackName": "Flex",
+      "trackId": "6Niff1lk3fTr8RiLObDh23"
+    },
+    {
+      "featuredArtist": "Fabolous",
+      "featuredArtistId": "0YWxKQj2Go9CGHCp77UOyy",
+      "trackName": "Flex",
+      "trackId": "6Niff1lk3fTr8RiLObDh23"
+    },
+    {
+      "featuredArtist": "Emanny",
+      "featuredArtistId": "23zEEtmthkZdvz8j0LQHHo",
+      "trackName": "Time for Work",
+      "trackId": "7HPu8tzpLA593TIYEA4J4v"
+    },
+    {
+      "featuredArtist": "Stacy Barthe",
+      "featuredArtistId": "0yq6uHIfFks9yOURUuCITV",
+      "trackName": "I Wanna Know",
+      "trackId": "5Ncl2SwuTDCCAucXkoJ6w6"
+    },
+    {
+      "featuredArtist": "Marsha Ambrosius",
+      "featuredArtistId": "46VWDbmWmzvPBTmkSr25gM",
+      "trackName": "Make It Through The Night (feat. Marsha Ambrosius and Jadakiss)",
+      "trackId": "2JYaFMmFp8YoDNyTaZjCMX"
+    },
+    {
+      "featuredArtist": "Jadakiss",
+      "featuredArtistId": "5pnbUBPifNnlusY8kTBivi",
+      "trackName": "Make It Through The Night (feat. Marsha Ambrosius and Jadakiss)",
+      "trackId": "2JYaFMmFp8YoDNyTaZjCMX"
+    },
+    {
+      "featuredArtist": "Eric Bellinger",
+      "featuredArtistId": "7ibAWtDtmEfaVhc1FJ3Vl9",
+      "trackName": "Where Do We Go (feat. Eric Bellinger)",
+      "trackId": "3V5y4yJ3Jr1hU6SboWlLOk"
+    },
+    {
+      "featuredArtist": "Yummy Bingham",
+      "featuredArtistId": "56CKl5ylrMPt4XusAMblxW",
+      "trackName": "Unnecessary Pain (feat. Yummy Bingham and Felicia Temple)",
+      "trackId": "1Yvz9F76uYf5qV56RkJBTH"
+    },
+    {
+      "featuredArtist": "Felicia Temple",
+      "featuredArtistId": "0P0C9ydCBnLkEBAa0JrXmc",
+      "trackName": "Unnecessary Pain (feat. Yummy Bingham and Felicia Temple)",
+      "trackId": "1Yvz9F76uYf5qV56RkJBTH"
+    },
+    {
+      "featuredArtist": "Kirko Bangz",
+      "featuredArtistId": "2r8r62VGJKGi463aH1HJUZ",
+      "trackName": "Top Of The World (feat. Kirko Bangz)",
+      "trackId": "1f2x1x1B3ljbpjQNAHezao"
+    },
+    {
+      "featuredArtist": "Lil Wayne",
+      "featuredArtistId": "55Aa2cqylxrFIXC767Z865",
+      "trackName": "She Don't Put It Down (feat. Lil Wayne & Tank)",
+      "trackId": "6rAqrPwDuFmS8LtR3ESAGK"
+    },
+    {
+      "featuredArtist": "Tank",
+      "featuredArtistId": "3T3McKIMvtAX5KdEAHl9a0",
+      "trackName": "She Don't Put It Down (feat. Lil Wayne & Tank)",
+      "trackId": "6rAqrPwDuFmS8LtR3ESAGK"
+    },
+    {
+      "featuredArtist": "Wiz Khalifa",
+      "featuredArtistId": "137W8MRPWKqSmrBGDBFSop",
+      "trackName": "NBA (feat. Wiz Khalifa and French Montana)",
+      "trackId": "6CEZXsV0Eal2JR8mvTPHOg"
+    },
+    {
+      "featuredArtist": "French Montana",
+      "featuredArtistId": "6vXTefBL93Dj5IqAWq6OTv",
+      "trackName": "NBA (feat. Wiz Khalifa and French Montana)",
+      "trackId": "6CEZXsV0Eal2JR8mvTPHOg"
+    },
+    {
+      "featuredArtist": "Royce Da 5'9\"",
+      "featuredArtistId": "6DVipHzYsPlIoA0DW8Gmns",
+      "trackName": "All In My Head (feat. Royce Da 5'9\" and Kobe)",
+      "trackId": "56ikAhVPD3V0JQT1GVq9SH"
+    },
+    {
+      "featuredArtist": "Kobe",
+      "featuredArtistId": "1XNFcPvkDxMDRFnLz0vjZk",
+      "trackName": "All In My Head (feat. Royce Da 5'9\" and Kobe)",
+      "trackId": "56ikAhVPD3V0JQT1GVq9SH"
+    },
+    {
+      "featuredArtist": "Juicy J",
+      "featuredArtistId": "5gCRApTajqwbnHHPbr2Fpi",
+      "trackName": "Last Day (feat. Juicy J and Lloyd Banks)",
+      "trackId": "4QqSp5WXRx1v6kNAUm5t67"
+    },
+    {
+      "featuredArtist": "Lloyd Banks",
+      "featuredArtistId": "3vDUJHQtqT3jFRZ2ECXDTi",
+      "trackName": "Last Day (feat. Juicy J and Lloyd Banks)",
+      "trackId": "4QqSp5WXRx1v6kNAUm5t67"
+    },
+    {
+      "featuredArtist": "Omarion",
+      "featuredArtistId": "0f5nVCcR06GX8Qikz0COtT",
+      "trackName": "Switch Positions (feat. Omarion)",
+      "trackId": "5og9vQIQPhWHgzWdXz4ufg"
+    },
+    {
+      "featuredArtist": "SLV",
+      "featuredArtistId": "0gA6aivuCkYX0bDHIgaCqB",
+      "trackName": "Tell Him Somethin (feat. SLV)",
+      "trackId": "6zBvYzBPBUVSYGhCu9WPFR"
+    },
+    {
+      "featuredArtist": "Twista",
+      "featuredArtistId": "6vbY3hOaCAhC7VjucswgdS",
+      "trackName": "She Don't Put It Down / Remix (feat. Fabolous, Twista, Tank)",
+      "trackId": "0kQ5AZ0W6MbjjqfcUeB66D"
+    },
+    {
+      "featuredArtist": "Emmany",
+      "featuredArtistId": "4b4uiEf1dz9RLrPqwMten6",
+      "trackName": "Dreamerz",
+      "trackId": "3ZHF5J7nmrl6z9fegxCQau"
+    },
+    {
+      "featuredArtist": "KXNG Crooked",
+      "featuredArtistId": "6fFfnKGVI6X3lkCr8Qw1g1",
+      "trackName": "Sober Up",
+      "trackId": "6VhRMdlmWDlcpI0v1SE9Gp"
+    },
+    {
+      "featuredArtist": "Pusha T",
+      "featuredArtistId": "0ONHkAv9pCAFxb0zJwDNTy",
+      "trackName": "Dessert For Thought",
+      "trackId": "4JyYq4CBR6bwuemPPpxxyT"
+    },
+    {
+      "featuredArtist": "Styles P",
+      "featuredArtistId": "2x8KDZdSONA3872CnhaAlX",
+      "trackName": "Dessert For Thought",
+      "trackId": "4JyYq4CBR6bwuemPPpxxyT"
+    },
+    {
+      "featuredArtist": "Crooked",
+      "featuredArtistId": "5iPjkiTkypo99LXXgjOykQ",
+      "trackName": "Sober Up (feat. Crooked)",
+      "trackId": "1EofhW4BudHqYvpilbZq96"
+    },
+    {
+      "featuredArtist": "Slaughterhouse",
+      "featuredArtistId": "5rVbcJv0JRfhWLA3mgM73r",
+      "trackName": "We Outta Here",
+      "trackId": "5HUCF550vSvdCUrDk9zaNX"
+    },
+    {
+      "featuredArtist": "Young Chris",
+      "featuredArtistId": "5IYKSQZErXLpHp74EIIHp1",
+      "trackName": "Connect 4",
+      "trackId": "4F4FBmWiQootugzJqBd415"
+    },
+    {
+      "featuredArtist": "The Game",
+      "featuredArtistId": "0NbfKEOTQCcwd6o7wSDOHI",
+      "trackName": "The Future",
+      "trackId": "4AJN7pA6ZDyLjBfhXuySsp"
+    },
+    {
+      "featuredArtist": "Drew Hudson",
+      "featuredArtistId": "7oPHcvXPDq7DF7X1DRE49W",
+      "trackName": "Adrenaline",
+      "trackId": "0N9luMdACsMeM3whnOi0YJ"
+    },
+    {
+      "featuredArtist": "Junkyard Gang",
+      "featuredArtistId": "1QNwgKtQ8UOoDQX6ojZ77r",
+      "trackName": "Adrenaline",
+      "trackId": "0N9luMdACsMeM3whnOi0YJ"
+    },
+    {
+      "featuredArtist": "Ransom",
+      "featuredArtistId": "27o8q2S1hyGO4HQL4bcPYD",
+      "trackName": "Family Reunion",
+      "trackId": "7Kpc1QGH5jrFdXaW8uY5eK"
+    },
+    {
+      "featuredArtist": "Hitchcock",
+      "featuredArtistId": "4ONgpuzhxw4tRVB87BiH3z",
+      "trackName": "Family Reunion",
+      "trackId": "7Kpc1QGH5jrFdXaW8uY5eK"
+    },
+    {
+      "featuredArtist": "EZO",
+      "featuredArtistId": "5WBCrYDPWMKdogC6fCOpzq",
+      "trackName": "Get No Younger",
+      "trackId": "7uNhdnQAp6Sms18uHq7WHQ"
+    },
+    {
+      "featuredArtist": "Mr. Probz",
+      "featuredArtistId": "33W1pnW9zScZtYTnAoWnOT",
+      "trackName": "Long Way to Go",
+      "trackId": "5qLldw4K5bwsUrKGe7jZg8"
+    },
+    {
+      "featuredArtist": "Heartbreak",
+      "featuredArtistId": "1SqgPMZAooXqAfF3pwS5DL",
+      "trackName": "Overkill (feat. Heartbreak)",
+      "trackId": "5vMYw5nqE9g5FivzOB0wAa"
+    },
+    {
+      "featuredArtist": "Nino Bless",
+      "featuredArtistId": "0o32493qFObEidnHJwBZ5o",
+      "trackName": "Slaughterhouse (feat. Joell Ortiz, Nino Bless, Crooked I, Royce da 5'9)",
+      "trackId": "6rI2bflAlTLFCMKYf2xykB"
+    },
+    {
+      "featuredArtist": "Ransom",
+      "featuredArtistId": "41aOVPzMwYMbCKyFeQQ8mK",
+      "trackName": "Family Reunion (feat. Fabolous, Ransom & Hitchcock)",
+      "trackId": "2J68Ri4gp4JYJn1hcsEdGY"
+    },
+    {
+      "featuredArtist": "Suzzy Q",
+      "featuredArtistId": "3ZH4TY1asGcErIJ0pevngF",
+      "trackName": "Star Inside of Me (feat. Suzzy Q)",
+      "trackId": "2tpU5RHvaJoHjOyYg50ZdL"
+    },
+    {
+      "featuredArtist": "Stack Bundles",
+      "featuredArtistId": "1ACWS59anwdSHw9frA337o",
+      "trackName": "What Would Happen",
+      "trackId": "3HIHKQX1E0OQiQCtUc04n1"
+    },
+    {
+      "featuredArtist": "Musiq Soulchild",
+      "featuredArtistId": "3UVRliakQfa1pMWIsNuiZ8",
+      "trackName": "Cold War",
+      "trackId": "40nhmDFWZwN6GGHOqT3iBZ"
+    },
+    {
+      "featuredArtist": "Coke",
+      "featuredArtistId": "7EFSjmQnTZJ3GZuxzDVqdL",
+      "trackName": "Stuntin",
+      "trackId": "0mxc7XAwaxSmC0OjibVJrb"
+    },
+    {
+      "featuredArtist": "Jae Millz",
+      "featuredArtistId": "0qWtta2AJnHQITmWvhcehs",
+      "trackName": "6 Minutes of Death (feat. Jae Millz & Stack Bundles)",
+      "trackId": "6ayZVt0kJFG6KHCiGjmGIN"
+    },
+    {
+      "featuredArtist": "Newz",
+      "featuredArtistId": "635RVOmqiYX9KZklgPTo8E",
+      "trackName": "What's Up (feat. Newz & A-Team)",
+      "trackId": "5lnnXrslGhKnByHXGw6sMm"
+    },
+    {
+      "featuredArtist": "A-Team",
+      "featuredArtistId": "1mIK8T0VQLeW80eMSysK3t",
+      "trackName": "What's Up (feat. Newz & A-Team)",
+      "trackId": "5lnnXrslGhKnByHXGw6sMm"
+    }
+  ]
+}

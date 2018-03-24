@@ -1,0 +1,554 @@
+{
+  "artistName": "Excision",
+  "features": [
+    {
+      "featuredArtist": "FuntCase",
+      "featuredArtistId": "6v1BAWFVNPbPJlnFHWR78D",
+      "trackName": "The Paradox (Funtcase & Cookie Monsta Remix)",
+      "trackId": "2iVRZcklWjY1jKjVKv5PVq",
+      "preview": "https://p.scdn.co/mp3-preview/93a294a09078da7b70529d44e8a93f80c101f189?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Cookie Monsta",
+      "featuredArtistId": "2uGNBmaWvxF6HAcWuhK7OP",
+      "trackName": "The Paradox (Funtcase & Cookie Monsta Remix)",
+      "trackId": "2iVRZcklWjY1jKjVKv5PVq",
+      "preview": "https://p.scdn.co/mp3-preview/93a294a09078da7b70529d44e8a93f80c101f189?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "AFK",
+      "featuredArtistId": "3eIM4tCQTGJXb0RDPfF2wL",
+      "trackName": "Neck Brace (AFK Remix)",
+      "trackId": "6wtd7LTa1JlfjnHgRaolR8",
+      "preview": "https://p.scdn.co/mp3-preview/f4da1e1151e5c4ad11b88455515cf21046494f77?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Messinian",
+      "featuredArtistId": "79Np0PnytUJmeG5VRhop9u",
+      "trackName": "Neck Brace (AFK Remix)",
+      "trackId": "6wtd7LTa1JlfjnHgRaolR8",
+      "preview": "https://p.scdn.co/mp3-preview/f4da1e1151e5c4ad11b88455515cf21046494f77?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Space Laces",
+      "featuredArtistId": "37PZXblQTqpEWGdjctNcGP",
+      "trackName": "Throwin' Elbows (Getter & Virtual Riot Remix)",
+      "trackId": "2NpC7jw0l8FwFHdDy6T9Y4",
+      "preview": "https://p.scdn.co/mp3-preview/ef9109df22882768dd9715c6abbd884ca900e31e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Getter",
+      "featuredArtistId": "3QryVD03gGZOLQQXjy3EoA",
+      "trackName": "Throwin' Elbows (Getter & Virtual Riot Remix)",
+      "trackId": "2NpC7jw0l8FwFHdDy6T9Y4",
+      "preview": "https://p.scdn.co/mp3-preview/ef9109df22882768dd9715c6abbd884ca900e31e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Virtual Riot",
+      "featuredArtistId": "4FXGRMSHh2JjHxVwS8dhH1",
+      "trackName": "Throwin' Elbows (Getter & Virtual Riot Remix)",
+      "trackId": "2NpC7jw0l8FwFHdDy6T9Y4",
+      "preview": "https://p.scdn.co/mp3-preview/ef9109df22882768dd9715c6abbd884ca900e31e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Dion Timmer",
+      "featuredArtistId": "06VibSJEr3GLxLBBZhRums",
+      "trackName": "Final Boss (Dillon Francis Remix)",
+      "trackId": "2NCpAo9qWR5FRjRc96rQr4",
+      "preview": "https://p.scdn.co/mp3-preview/cdb7585e2b0e369ab3d05755bcc0b5fafca8bb42?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Dillon Francis",
+      "featuredArtistId": "5R3Hr2cnCCjt220Jmt2xLf",
+      "trackName": "Final Boss (Dillon Francis Remix)",
+      "trackId": "2NCpAo9qWR5FRjRc96rQr4",
+      "preview": "https://p.scdn.co/mp3-preview/cdb7585e2b0e369ab3d05755bcc0b5fafca8bb42?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Krimer",
+      "featuredArtistId": "19h89UGIU0cyc07cYjJ8V1",
+      "trackName": "Drowning (Krimer Remix)",
+      "trackId": "7tdFqql0Czl71UchyrU91k",
+      "preview": "https://p.scdn.co/mp3-preview/4d68154d0c4d00bfd03f8422fd62b49ef8a5ddbf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Akylla",
+      "featuredArtistId": "5Ad8YPmqQf2tay2SZ8NxWY",
+      "trackName": "Drowning (Krimer Remix)",
+      "trackId": "7tdFqql0Czl71UchyrU91k",
+      "preview": "https://p.scdn.co/mp3-preview/4d68154d0c4d00bfd03f8422fd62b49ef8a5ddbf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Crizzly",
+      "featuredArtistId": "3I9YOkavspWk1aHQTpiVxv",
+      "trackName": "Rave Thing (Crizzly Remix)",
+      "trackId": "7MhhGBf3OuLkHld3x4HRKP",
+      "preview": "https://p.scdn.co/mp3-preview/d006918e97e747f65d583011cd95321ebb9d2f1d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "12th Planet",
+      "featuredArtistId": "3V1h3kAdiVDBiwlY2i6dJz",
+      "trackName": "Africa (12th Planet & Antiserum Remix)",
+      "trackId": "12ixzXDcuq74M44v0sUqH0",
+      "preview": "https://p.scdn.co/mp3-preview/1b3d10c6632edf0ba0ae1cc19db26fa3175b5ec0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Antiserum",
+      "featuredArtistId": "2oZVtrCwHyCZlIWAwy3VBn",
+      "trackName": "Africa (12th Planet & Antiserum Remix)",
+      "trackId": "12ixzXDcuq74M44v0sUqH0",
+      "preview": "https://p.scdn.co/mp3-preview/1b3d10c6632edf0ba0ae1cc19db26fa3175b5ec0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Protohype",
+      "featuredArtistId": "7KG6QgP9Xb87ybAr9C24qw",
+      "trackName": "Are You Ready (Dodge & Fuski Remix)",
+      "trackId": "7a4tNkrWa1oYtbPmg7wJO6",
+      "preview": "https://p.scdn.co/mp3-preview/7781a26fc594b393aa4e40bc9b8b020cf2678a3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Dodge",
+      "featuredArtistId": "2UQxI0DtxJHIRW12XZRnev",
+      "trackName": "Are You Ready (Dodge & Fuski Remix)",
+      "trackId": "7a4tNkrWa1oYtbPmg7wJO6",
+      "preview": "https://p.scdn.co/mp3-preview/7781a26fc594b393aa4e40bc9b8b020cf2678a3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Fuski",
+      "featuredArtistId": "21g9OfM4H0rqxxlettp4GY",
+      "trackName": "Are You Ready (Dodge & Fuski Remix)",
+      "trackId": "7a4tNkrWa1oYtbPmg7wJO6",
+      "preview": "https://p.scdn.co/mp3-preview/7781a26fc594b393aa4e40bc9b8b020cf2678a3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Megalodon",
+      "featuredArtistId": "2tXUcirItGbDNvLpApQT3z",
+      "trackName": "Death Wish (Megalodon Remix)",
+      "trackId": "6DLzTkbG9vwPWgmfdP8hQi",
+      "preview": "https://p.scdn.co/mp3-preview/9f252cf1efb60e6899ab63a56aab5ec4cb628c9a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Sam King",
+      "featuredArtistId": "6i1nxY8TkMEEI1saLfn1lL",
+      "trackName": "Death Wish (Megalodon Remix)",
+      "trackId": "6DLzTkbG9vwPWgmfdP8hQi",
+      "preview": "https://p.scdn.co/mp3-preview/9f252cf1efb60e6899ab63a56aab5ec4cb628c9a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Kai Wachi",
+      "featuredArtistId": "2fNr4ldujwq97v1jWeqs8K",
+      "trackName": "Mirror (Kai Wachi Remix)",
+      "trackId": "7E8f5ANenlYQz8G1ybfZKP",
+      "preview": "https://p.scdn.co/mp3-preview/51bc9e5a3c4443f922891d91e8a8c0b5db16d47b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Eliminate",
+      "featuredArtistId": "6hBrJJrcYoNhvLC6KaFR4b",
+      "trackName": "Generator (Eliminate Remix)",
+      "trackId": "4y1a6GBO9MEiWW6XiwTL6v",
+      "preview": "https://p.scdn.co/mp3-preview/9de4f538077aabb86923bbf35141bf4f918658ea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Badklaat",
+      "featuredArtistId": "4AgEF49juDBIfJUoPCPncc",
+      "trackName": "G Shit (Badklaat Remix)",
+      "trackId": "7CTTLQc0CmdjczA0Lfszpg",
+      "preview": "https://p.scdn.co/mp3-preview/32db74f2c353b044055a08727e288e20c2a00ffd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Wooli",
+      "featuredArtistId": "1Uyqa2sdHm1bL5JK4IC4zc",
+      "trackName": "Her (Wooli Remix)",
+      "trackId": "0S69rmAoGTTLlQzbDo5hPQ",
+      "preview": "https://p.scdn.co/mp3-preview/58a5224be2f5db391221b1d2a2f9f4eae69b521c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Sullivan King",
+      "featuredArtistId": "1CXuuw8HJhyN80HlNzvL1e",
+      "trackName": "With You (Sullivan King Remix)",
+      "trackId": "2ECpb587yqDqSNbYIbOM3j",
+      "preview": "https://p.scdn.co/mp3-preview/a7a04ef886e925e5d1b5301c2b290ce51d336180?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Madi",
+      "featuredArtistId": "5KtyvSnzn6NcqukCOsjfe0",
+      "trackName": "With You (Sullivan King Remix)",
+      "trackId": "2ECpb587yqDqSNbYIbOM3j",
+      "preview": "https://p.scdn.co/mp3-preview/a7a04ef886e925e5d1b5301c2b290ce51d336180?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Wavedash",
+      "featuredArtistId": "1SlTeYo2NYg93bGqlQYkwE",
+      "trackName": "Final Boss (Wavedash Remix)",
+      "trackId": "0hOm1Qy8Db16RibKvIXkHN",
+      "preview": "https://p.scdn.co/mp3-preview/287c6873081835f724b58b36f50754d3a7c2fc7e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Dubloadz",
+      "featuredArtistId": "4akLvvJyLbJxlbpSXHTLvT",
+      "trackName": "Virus (Dubloadz Remix)",
+      "trackId": "5ed6aYhSOSdYFGDHfYbb8E",
+      "preview": "https://p.scdn.co/mp3-preview/e6ec9b19d35a5b147af4975da515b00f600a1f6f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Seven Lions",
+      "featuredArtistId": "6fcTRFpz0yH79qSKfof7lp",
+      "trackName": "The Paradox (Seven Lions & Dimibo Remix)",
+      "trackId": "5hKffhqHma1j7ijxfTj3ps",
+      "preview": "https://p.scdn.co/mp3-preview/fac4cfe0988ae46ce75121f0c117911fd681d469?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Dimibo",
+      "featuredArtistId": "4s10B1BltDZ1heQIhTFs59",
+      "trackName": "The Paradox (Seven Lions & Dimibo Remix)",
+      "trackId": "5hKffhqHma1j7ijxfTj3ps",
+      "preview": "https://p.scdn.co/mp3-preview/fac4cfe0988ae46ce75121f0c117911fd681d469?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Datsik",
+      "featuredArtistId": "48q2mPVwlKnlSaCx07i6Ta",
+      "trackName": "Harambe (Barely Alive Remix)",
+      "trackId": "6VXEN7MR9VbaUUO8Lnoc6f",
+      "preview": "https://p.scdn.co/mp3-preview/a47cba6bab36b02f2fd288445b9c37853d83f2b1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Barely Alive",
+      "featuredArtistId": "5c3akKV3CUqAVOnGZqf4S3",
+      "trackName": "Harambe (Barely Alive Remix)",
+      "trackId": "6VXEN7MR9VbaUUO8Lnoc6f",
+      "preview": "https://p.scdn.co/mp3-preview/a47cba6bab36b02f2fd288445b9c37853d83f2b1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e87da5db4ee554db2aa5744168396b9b097757bf",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "SPLITBREED",
+      "featuredArtistId": "3Fe5n1HNeOPaDPwcPIx6Qc",
+      "trackName": "Out of Time",
+      "trackId": "0E4pLxl20IInkBNnN1x0te",
+      "preview": "https://p.scdn.co/mp3-preview/47786855f798858a53507a4c8e02e9ba4fcd266f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c065c16f814c91915a1320478045619078e0b3f5",
+      "release_date": "2015-02-10"
+    },
+    {
+      "featuredArtist": "The Frim",
+      "featuredArtistId": "1018anDqhwhKxaTd9ZeVtU",
+      "trackName": "X Up",
+      "trackId": "0QgacBuuoMO1BbQdBz9V01",
+      "preview": "https://p.scdn.co/mp3-preview/1101358f88fd55763504b685adf7d132d1641ed5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c065c16f814c91915a1320478045619078e0b3f5",
+      "release_date": "2015-02-10"
+    },
+    {
+      "featuredArtist": "Downlink",
+      "featuredArtistId": "6ynSq3csnauyqZeQgfuWWt",
+      "trackName": "Robo Kitty",
+      "trackId": "52dJ5c77kGmuvuG9U09UgX",
+      "preview": "https://p.scdn.co/mp3-preview/7084635ec894fecc76f98eb4b5f6e573c53cec5b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c065c16f814c91915a1320478045619078e0b3f5",
+      "release_date": "2015-02-10"
+    },
+    {
+      "featuredArtist": "Pegboard Nerds",
+      "featuredArtistId": "0lLY20XpZ9yDobkbHI7u1y",
+      "trackName": "Bring the Madness",
+      "trackId": "6XHsU0lWR8IQ3wSsxkmJj8",
+      "preview": "https://p.scdn.co/mp3-preview/213cd8c63d99d403e1b67e496af1dd3274ab7a0f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c065c16f814c91915a1320478045619078e0b3f5",
+      "release_date": "2015-02-10"
+    },
+    {
+      "featuredArtist": "Mayor Apeshit",
+      "featuredArtistId": "006vxZB858jX6ETI6mfDFA",
+      "trackName": "Bring the Madness",
+      "trackId": "6XHsU0lWR8IQ3wSsxkmJj8",
+      "preview": "https://p.scdn.co/mp3-preview/213cd8c63d99d403e1b67e496af1dd3274ab7a0f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c065c16f814c91915a1320478045619078e0b3f5",
+      "release_date": "2015-02-10"
+    },
+    {
+      "featuredArtist": "Luciana",
+      "featuredArtistId": "4ugGMtXC28CVR5hlYJy9wV",
+      "trackName": "Night Shine",
+      "trackId": "56uA6nnNly4vQjpJP9v9ip",
+      "preview": "https://p.scdn.co/mp3-preview/e12e47ec4ef4a926e596009aa55938b949b22b82?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c065c16f814c91915a1320478045619078e0b3f5",
+      "release_date": "2015-02-10"
+    },
+    {
+      "featuredArtist": "Rise At Night",
+      "featuredArtistId": "5X42qWv2F0KBkvlWygmx9B",
+      "trackName": "Interstellar",
+      "trackId": "0f8BllUa1IpDTb0ChiNDIU",
+      "preview": "https://p.scdn.co/mp3-preview/264d5a903537d59110f2d04ce0cc88d489a29e7d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c065c16f814c91915a1320478045619078e0b3f5",
+      "release_date": "2015-02-10"
+    },
+    {
+      "featuredArtist": "Mayhem",
+      "featuredArtistId": "1Yy64kzIO5Ryx7iuHqoImy",
+      "trackName": "Destroid 7 Bounce (Mayhem & Antiserum Remix)",
+      "trackId": "4oUa3lj7SleL5FrGwDnMJF",
+      "preview": "https://p.scdn.co/mp3-preview/32e9022ef374bb663f137a9a5ac76d1b16434745?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b1e25317a43a24e9e9b8bd308d62d699188cc53",
+      "release_date": "2014-05-26"
+    },
+    {
+      "featuredArtist": "Bar 9",
+      "featuredArtistId": "0vfUzkxvsydmCezjlLQcx6",
+      "trackName": "Destroid 4 Flip The Switch (Bar 9 Remix)",
+      "trackId": "3suMm4CtZrMUeA1fTPLCWY",
+      "preview": "https://p.scdn.co/mp3-preview/a021725b2db238740a3f6a7bf332a1296bdca30f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b1e25317a43a24e9e9b8bd308d62d699188cc53",
+      "release_date": "2014-05-26"
+    },
+    {
+      "featuredArtist": "Bassnectar",
+      "featuredArtistId": "1JPy5PsJtkhftfdr6saN2i",
+      "trackName": "Destroid 6 Put it Down (Crizzly Remix)",
+      "trackId": "4UHgQYR6QjThMP5n2cj1H4",
+      "preview": "https://p.scdn.co/mp3-preview/61725b87617ad34f5a3495d9a4ee9b49d6064df8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b1e25317a43a24e9e9b8bd308d62d699188cc53",
+      "release_date": "2014-05-26"
+    },
+    {
+      "featuredArtist": "Mightyfools",
+      "featuredArtistId": "5XJWi5Ev0zwaRiXnN8Oo5O",
+      "trackName": "Destroid 6 Put it Down (Mightyfools Remix)",
+      "trackId": "4tWrvUSfJLri37dzwx5GJ2",
+      "preview": "https://p.scdn.co/mp3-preview/a006a3ee3a4723fff1f3dbd15d8458348e4f1518?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b1e25317a43a24e9e9b8bd308d62d699188cc53",
+      "release_date": "2014-05-26"
+    },
+    {
+      "featuredArtist": "ill.gates",
+      "featuredArtistId": "4a32m0kHbxZm3V7jHpW60g",
+      "trackName": "Destroid 1 Raise Your Fist (Ill Gates Remix)",
+      "trackId": "0NuD55TE7mZecHAM4AYJ6P",
+      "preview": "https://p.scdn.co/mp3-preview/ab1c0e209af311efcedb9cd78f378e55375dd199?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b1e25317a43a24e9e9b8bd308d62d699188cc53",
+      "release_date": "2014-05-26"
+    },
+    {
+      "featuredArtist": "Far Too Loud",
+      "featuredArtistId": "6zL4UbVtrGZPjvTTeNKyAc",
+      "trackName": "Destroid 8 Annihilate (Datsik Remix)",
+      "trackId": "2JWZMQNp4Jrymcty4hyZSf",
+      "preview": "https://p.scdn.co/mp3-preview/28fd516c5adbeb779e08ed45247387ede591ee42?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b1e25317a43a24e9e9b8bd308d62d699188cc53",
+      "release_date": "2014-05-26"
+    },
+    {
+      "featuredArtist": "Ajapai",
+      "featuredArtistId": "0NFGsd1qpvYHXtkOvFSKd9",
+      "trackName": "Destroid 9 Blast Off (The Frim Remix)",
+      "trackId": "4HmTqVmwFiu3pgM2MF8Koo",
+      "preview": "https://p.scdn.co/mp3-preview/5b31d2d6abe1edf0e5ca5324d098c3ae3983f96e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b1e25317a43a24e9e9b8bd308d62d699188cc53",
+      "release_date": "2014-05-26"
+    },
+    {
+      "featuredArtist": "Ryle",
+      "featuredArtistId": "2xxhnqNtNB8pecf2yPTMdU",
+      "trackName": "Destroid 10 Funk Hole (Ryle Remix)",
+      "trackId": "5UfWsISf9P2OkfpvFLKRTL",
+      "preview": "https://p.scdn.co/mp3-preview/673ce4781a931846c40a08eea992ffcc0c7c82f8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b1e25317a43a24e9e9b8bd308d62d699188cc53",
+      "release_date": "2014-05-26"
+    },
+    {
+      "featuredArtist": "Savvy",
+      "featuredArtistId": "6RxugUKvc7v3AOJduXiGua",
+      "trackName": "Sleepless - Loadstar Remix",
+      "trackId": "0IHb7rPOpM3aXSo43NLnKB",
+      "preview": "https://p.scdn.co/mp3-preview/c0b7e36b0042205fa49a34a7eb63b669b5ded753?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/25622fb5bb7571deade4c5b4a64e3f4d7cd19941",
+      "release_date": "2012-09-03"
+    },
+    {
+      "featuredArtist": "Skism",
+      "featuredArtistId": "4P81VkbUxQrMmNwYnzliqJ",
+      "trackName": "sEXisM - Far Too Loud Remix",
+      "trackId": "6bDGtvTMJEMuCG2f8rlVp2",
+      "preview": "https://p.scdn.co/mp3-preview/fef9bb6c202f9940efa372c8575a52dd20396593?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/25622fb5bb7571deade4c5b4a64e3f4d7cd19941",
+      "release_date": "2012-09-03"
+    },
+    {
+      "featuredArtist": "Mr Hudson",
+      "featuredArtistId": "1zV9UjTUevjp5VUddqIUUn",
+      "trackName": "Jaguar",
+      "trackId": "1md4Pkn8UDE1DgLr2m9mpf",
+      "preview": "https://p.scdn.co/mp3-preview/fd00b525b23bca9d3d6d1d462498ba7851287104?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2efbd9770210581658ab4451b55b29f417e32ed8",
+      "release_date": "2011-10-10"
+    },
+    {
+      "featuredArtist": "xKore",
+      "featuredArtistId": "5cfALf5vLhWIo7VeIh4fQX",
+      "trackName": "Codename X (xKore Remix)",
+      "trackId": "40jxKeZFliBHQycGyOAT4X",
+      "preview": "https://p.scdn.co/mp3-preview/599754e96c3c28be723a02d728c9891ce6e8d916?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1bcd6867674b468e38e399782fdc8a72f4bb2843",
+      "release_date": "2016-01-11"
+    },
+    {
+      "featuredArtist": "Truth",
+      "featuredArtistId": "7siGH3bPluVE07yR85W5cy",
+      "trackName": "Codename X (Truth Remix)",
+      "trackId": "7oWpmvO7Dcttbqeduxz5vD",
+      "preview": "https://p.scdn.co/mp3-preview/0ffdcf06b1a94765ccea4f61f316f83863d888c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1bcd6867674b468e38e399782fdc8a72f4bb2843",
+      "release_date": "2016-01-11"
+    },
+    {
+      "featuredArtist": "Miu",
+      "featuredArtistId": "52mRmJo0LxvODr6FIWh1Dh",
+      "trackName": "Codename X (Miu Remix)",
+      "trackId": "7q7dNao6XmXOz1wk0CJBy8",
+      "preview": "https://p.scdn.co/mp3-preview/e15ef13a15747c64e67a4a6824e633d0e52821b7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1bcd6867674b468e38e399782fdc8a72f4bb2843",
+      "release_date": "2016-01-11"
+    },
+    {
+      "featuredArtist": "Astronaut",
+      "featuredArtistId": "6x4qywJwpg3WH0CyV5U5Vo",
+      "trackName": "X Up (Astronaut Remix)",
+      "trackId": "7IGltIyQm1JsjhHPdtSEVI",
+      "preview": "https://p.scdn.co/mp3-preview/d58e08a52105a2590badd4074656eb8b711ff9d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d26cdc84a707d5d7a7c9be0d963194d5e0fa30fc",
+      "release_date": "2015-08-31"
+    },
+    {
+      "featuredArtist": "Trampa",
+      "featuredArtistId": "31DUXycJt0YIBoMXLI5UdV",
+      "trackName": "X Up (Trampa Remix)",
+      "trackId": "2uEmlNhzWJPtcbTUdJq2zJ",
+      "preview": "https://p.scdn.co/mp3-preview/5f319e562bbcdb04a60792ee63a551d73faf3c68?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d26cdc84a707d5d7a7c9be0d963194d5e0fa30fc",
+      "release_date": "2015-08-31"
+    },
+    {
+      "featuredArtist": "Hydraulix",
+      "featuredArtistId": "0v6pkn5nWfqK3vgeg0gl0W",
+      "trackName": "X Up (Hydraulix (Aus) & PhaseOne (Aus) Remix)",
+      "trackId": "1DE1cGVzVB6EcNzfcUJwPi",
+      "preview": "https://p.scdn.co/mp3-preview/a457f4117d7333740ba9127ad5444cfea7d32756?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d26cdc84a707d5d7a7c9be0d963194d5e0fa30fc",
+      "release_date": "2015-08-31"
+    },
+    {
+      "featuredArtist": "PhaseOne (AUS)",
+      "featuredArtistId": "2D1AGN8Z5wycvhrW0bCmAB",
+      "trackName": "X Up (Hydraulix (Aus) & PhaseOne (Aus) Remix)",
+      "trackId": "1DE1cGVzVB6EcNzfcUJwPi",
+      "preview": "https://p.scdn.co/mp3-preview/a457f4117d7333740ba9127ad5444cfea7d32756?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d26cdc84a707d5d7a7c9be0d963194d5e0fa30fc",
+      "release_date": "2015-08-31"
+    },
+    {
+      "featuredArtist": "Erotic Cafe'",
+      "featuredArtistId": "79MThxG253JH9OVKmzO2TE",
+      "trackName": "X Up (Erotic Cafe' Remix)",
+      "trackId": "7kUJqKuA13qCLlQZxdnPq4",
+      "preview": "https://p.scdn.co/mp3-preview/e5a63af0854361efd327f3ea124e6e03e3bf7318?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d26cdc84a707d5d7a7c9be0d963194d5e0fa30fc",
+      "release_date": "2015-08-31"
+    },
+    {
+      "featuredArtist": "Bear Grillz",
+      "featuredArtistId": "04vdWVjgi45nrMAxeCEVQe",
+      "trackName": "Night Shine (Bear Grillz Remix)",
+      "trackId": "6c5GJgFhyfnikK0RaOsb7G",
+      "preview": "https://p.scdn.co/mp3-preview/20df950269520ab60c5518486d566f5edb931fa0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/72de54553cad8fd7057b928b48546d3c4f67a8cc",
+      "release_date": "2015-07-13"
+    },
+    {
+      "featuredArtist": "Apashe",
+      "featuredArtistId": "1fd3fmwlhrDl2U5wbbPQYN",
+      "trackName": "Night Shine (Apashe Remix)",
+      "trackId": "60EAeQCu5FjjHwbOAensh7",
+      "preview": "https://p.scdn.co/mp3-preview/c83fbef8050433d346e6fe3b7ecf6aef852062ff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/72de54553cad8fd7057b928b48546d3c4f67a8cc",
+      "release_date": "2015-07-13"
+    },
+    {
+      "featuredArtist": "Blaynoise",
+      "featuredArtistId": "0CQIO8mNZmxa2sztjZMWcH",
+      "trackName": "Night Shine (Blaynoise Remix)",
+      "trackId": "5EBgUTgJeVmLugz3FxBU2H",
+      "preview": "https://p.scdn.co/mp3-preview/3d3988b23f4f240992dbffe592b8117aaebd2026?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/72de54553cad8fd7057b928b48546d3c4f67a8cc",
+      "release_date": "2015-07-13"
+    },
+    {
+      "featuredArtist": "Excision and Space Laces",
+      "featuredArtistId": "7kTrtdKNd19lvoWokd1buA",
+      "trackName": "Destroid 11 Get Stupid",
+      "trackId": "7MecMQauMM4F9jTYtPAows",
+      "preview": "https://p.scdn.co/mp3-preview/c42254bda9ec5128891770572a7f0ee16dca12f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fbb651d8712541c8d7a958cb03bc6b128cf39a8c",
+      "release_date": "2013-11-25"
+    }
+  ]
+}

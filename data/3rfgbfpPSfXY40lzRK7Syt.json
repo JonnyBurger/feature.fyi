@@ -1,0 +1,41 @@
+{
+  "artistName": "Barry White",
+  "features": [
+    {
+      "featuredArtist": "Glodean James",
+      "featuredArtistId": "4P0x10DqvxHXKqOadTNfI4",
+      "trackName": "Our Theme - Edited Pts. 1 & 2",
+      "trackId": "52RPJftatT4JC1QSuqutyJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/013f5430ac7310e157a5e4d0d652f479f69204d8",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Isaac Hayes",
+      "featuredArtistId": "3IKV7o6WPphDB7cCWXaG3E",
+      "trackName": "Dark And Lovely (You Over There)",
+      "trackId": "1Ghbm8SuuO4WO9DfPT65Cx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/89d3abfd68f275444a0f4fcffd5a591905cd9d46",
+      "release_date": "2003-01-01"
+    },
+    {
+      "featuredArtist": "The Love Unlimited Orchestra",
+      "featuredArtistId": "457yGSZecENoIuNWelRHhH",
+      "trackName": "Power Of Love",
+      "trackId": "6rSL6617nwls8MQYtuNsbl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a9065822294dcf854a1263e89a7cd9ed27422b8f",
+      "release_date": "1996-01-01"
+    },
+    {
+      "featuredArtist": "Glodean White",
+      "featuredArtistId": "4m9wDNaF13va1vTfvwDyVN",
+      "trackName": "Our Theme - Part I",
+      "trackId": "6ddW7kHiTalDXie1mJmHCJ",
+      "preview": "https://p.scdn.co/mp3-preview/4f6e38cb15baf596ba2cfd646014d8afee525322?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/608789676e7654be2e3aaddf8599a154adc5014d",
+      "release_date": "1981"
+    }
+  ]
+}

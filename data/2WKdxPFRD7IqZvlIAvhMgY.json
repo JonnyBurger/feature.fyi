@@ -1,0 +1,50 @@
+{
+  "artistName": "Fugees",
+  "features": [
+    {
+      "featuredArtist": "Nas",
+      "featuredArtistId": "20qISvAhX20dpIbOOzGK3q",
+      "trackName": "If I Ruled The World (feat. Nas)",
+      "trackId": "3Pt0ehaKJetKpVKWR1255L",
+      "preview": "https://p.scdn.co/mp3-preview/82d340e834083f546125ce04dd614196dd8a48fe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/18cf41d6bfaa1c1044b1f05f0953e0a056152ed5",
+      "release_date": "2015-05-25"
+    },
+    {
+      "featuredArtist": "Salaam Remi",
+      "featuredArtistId": "0rlS0SzVFk8BoiAW0fGBbN",
+      "trackName": "Nappy Heads - Remix",
+      "trackId": "5icVVI26RFGz7ddQ36ha5r",
+      "preview": "https://p.scdn.co/mp3-preview/940170711b92ed5d269f345ebaf01f25a29539b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c766684917c0d1be23208578dcaaccecfa7e2225",
+      "release_date": "1994-04-12"
+    },
+    {
+      "featuredArtist": "Clarke Kent",
+      "featuredArtistId": "0W7PUuPKZ4iKsSBYkqjQPk",
+      "trackName": "Ready or Not - Clark Kent / Django Remix",
+      "trackId": "0BVSAeklKwWqQzU6Mt2yTB",
+      "preview": "https://p.scdn.co/mp3-preview/027869256d802f8f0b6a1078f4b085efb06853c9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e71deaa6197fe5c8b1e2d9e6c977efa5d98be541",
+      "release_date": "1994"
+    },
+    {
+      "featuredArtist": "Victor Sommers",
+      "featuredArtistId": "1rKDTvTtylcA35LONxi5bI",
+      "trackName": "Killing Me Softly - Acoustic Cover",
+      "trackId": "32H1p6IETq7RymkYX4DCOb",
+      "preview": "https://p.scdn.co/mp3-preview/c73060fb255a65192db78579022faa1f80b827c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/242fce645ccf1b8ec9c08f88278f760e96780594",
+      "release_date": "2018-01-25"
+    },
+    {
+      "featuredArtist": "LAVOZEKRETA",
+      "featuredArtistId": "5cM9VxVMcxYcjPEdo0Pwk9",
+      "trackName": "Aún Seguimos de Pie - Tribute to Fugees",
+      "trackId": "4Zsl4RNFAMOGDw5GoRC9U1",
+      "preview": "https://p.scdn.co/mp3-preview/d882ecaeddd951ec446ad8e03d6258440c6b9fc7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3e917a79f53b3bda3ac0bd15f25bf57152ab7230",
+      "release_date": "2017-08-23"
+    }
+  ]
+}

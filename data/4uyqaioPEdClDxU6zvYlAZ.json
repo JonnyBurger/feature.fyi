@@ -1,0 +1,32 @@
+{
+  "artistName": "Pablo López",
+  "features": [
+    {
+      "featuredArtist": "Juanes",
+      "featuredArtistId": "0UWZUmn7sybxMCqrw9tGa7",
+      "trackName": "Tu Enemigo",
+      "trackId": "6Bzd5ofzAqJEECMPjneM6c",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/019f42900d34fae341c7e87ca63d35d71e0bd58f",
+      "release_date": "2016-11-18"
+    },
+    {
+      "featuredArtist": "Paula Fernandes",
+      "featuredArtistId": "1nca3OA1kKCpP6aPJcBL92",
+      "trackName": "Dos Palabras",
+      "trackId": "0wFQwjfyn4OanwmbiNLlC9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/019f42900d34fae341c7e87ca63d35d71e0bd58f",
+      "release_date": "2016-11-18"
+    },
+    {
+      "featuredArtist": "Georgina",
+      "featuredArtistId": "71cjWNRukkIF8Ulh006x3b",
+      "trackName": "Te Espero Aquí",
+      "trackId": "0QJ8p5IryITASasXwQihy6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2d7df222025bc4c2210d7fad47f60ea318ae2bfd",
+      "release_date": "2014-01-01"
+    }
+  ]
+}

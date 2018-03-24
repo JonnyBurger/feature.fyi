@@ -1,0 +1,23 @@
+{
+  "artistName": "Gloria Trevi",
+  "features": [
+    {
+      "featuredArtist": "Shy Carter",
+      "featuredArtistId": "7JZafQsN8syJ9agEtcyP4V",
+      "trackName": "Habla Blah Blah",
+      "trackId": "3rOeyQiCknNkVnDtnmFITN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/df5ab5bf635496a41c4c6ebb32bbb1c0b9689ffc",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Paulina Rubio",
+      "featuredArtistId": "1d6dwipPrsFSJVmFTTdFSS",
+      "trackName": "No Al Alguacil",
+      "trackId": "3F0GuwuCGanHQjCPPuOwKr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6507c0fc85dab60ff5cd3d12e2476295c8bc0333",
+      "release_date": "2011-01-01"
+    }
+  ]
+}

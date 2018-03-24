@@ -1,0 +1,32 @@
+{
+  "artistName": "Kacey Musgraves",
+  "features": [
+    {
+      "featuredArtist": "The Quebe Sisters",
+      "featuredArtistId": "6A12UtHHfMyax9RMZLQR7y",
+      "trackName": "Let It Snow",
+      "trackId": "0Uv9E5rj4KAS9vGr30al7r",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/856c2fb8457caebf70171437ea3835b24370f0f8",
+      "release_date": "2016-10-28"
+    },
+    {
+      "featuredArtist": "Willie Nelson",
+      "featuredArtistId": "5W5bDNCqJ1jbCgTxDD0Cb3",
+      "trackName": "A Willie Nice Christmas",
+      "trackId": "6xgws6hTdp2zzOz09T0Z4r",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/856c2fb8457caebf70171437ea3835b24370f0f8",
+      "release_date": "2016-10-28"
+    },
+    {
+      "featuredArtist": "Leon Bridges",
+      "featuredArtistId": "3qnGvpP8Yth1AqSBMqON5x",
+      "trackName": "Present Without A Bow",
+      "trackId": "2TpKshyGDOR4mUgAavs1vi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/856c2fb8457caebf70171437ea3835b24370f0f8",
+      "release_date": "2016-10-28"
+    }
+  ]
+}

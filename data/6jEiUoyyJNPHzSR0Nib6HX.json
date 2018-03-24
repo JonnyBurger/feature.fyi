@@ -1,0 +1,32 @@
+{
+  "artistName": "Walk Off the Earth",
+  "features": [
+    {
+      "featuredArtist": "Steve Aoki",
+      "featuredArtistId": "77AiFEVeAVj2ORpC85QVJs",
+      "trackName": "Home We'll Go (Take My Hand)",
+      "trackId": "2l5iVIKzdYq4swcRIRQNdR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d28d1253d9862f6840f14ec1436d088cd4e1bb19",
+      "release_date": "2015-06-12"
+    },
+    {
+      "featuredArtist": "Jocelyn Alice",
+      "featuredArtistId": "7iymigONRODGl6XJIprcuF",
+      "trackName": "Havana (feat. Jocelyn Alice & Krnfx)",
+      "trackId": "1vZrm9cy1Z9igCyy3OWL4m",
+      "preview": "https://p.scdn.co/mp3-preview/85a2630db13518cea3243bdd4815ba1fcb9a0847?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/196c8eaf618e0331d3722b829f3512ad76e9c3b8",
+      "release_date": "2017-11-21"
+    },
+    {
+      "featuredArtist": "KRNFX",
+      "featuredArtistId": "00190FC20vIUv0wXpeTf8S",
+      "trackName": "Havana (feat. Jocelyn Alice & Krnfx)",
+      "trackId": "1vZrm9cy1Z9igCyy3OWL4m",
+      "preview": "https://p.scdn.co/mp3-preview/85a2630db13518cea3243bdd4815ba1fcb9a0847?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/196c8eaf618e0331d3722b829f3512ad76e9c3b8",
+      "release_date": "2017-11-21"
+    }
+  ]
+}

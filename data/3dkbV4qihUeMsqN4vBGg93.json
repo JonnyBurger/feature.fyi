@@ -1,0 +1,41 @@
+{
+  "artistName": "Al Green",
+  "features": [
+    {
+      "featuredArtist": "Joss Stone",
+      "featuredArtistId": "7bvcQXJHkFiN1ppIN3q4fi",
+      "trackName": "How Can You Mend a Broken Heart (feat. Joss Stone)",
+      "trackId": "45c6I13JpFx7nSmwoqf3O3",
+      "preview": "https://p.scdn.co/mp3-preview/27fb2e24e7dc273af1630ec4258a5d3fee165d2e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f0d8fe6b89157bc0b19714848c479bb46b45d4ab",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Anthony Hamilton",
+      "featuredArtistId": "2DzRMyWgjuMbYvt5BLbpCo",
+      "trackName": "Lay It Down",
+      "trackId": "3uwqmrJ1SfKoXhfYNHTO4J",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ee1b2ecd5bae0509844e6c1405a51628f50c088b",
+      "release_date": "2008-05-27"
+    },
+    {
+      "featuredArtist": "Corinne Bailey Rae",
+      "featuredArtistId": "29WzbAQtDnBJF09es0uddn",
+      "trackName": "Take Your Time",
+      "trackId": "1pwy1QgUguLCykSAmLPMIQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ee1b2ecd5bae0509844e6c1405a51628f50c088b",
+      "release_date": "2008-05-27"
+    },
+    {
+      "featuredArtist": "John Legend",
+      "featuredArtistId": "5y2Xq6xcjJb2jVM54GHK3t",
+      "trackName": "Stay With Me (By The Sea)",
+      "trackId": "3emeFHNqBxEcGoYMfbmLdS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ee1b2ecd5bae0509844e6c1405a51628f50c088b",
+      "release_date": "2008-05-27"
+    }
+  ]
+}

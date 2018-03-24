@@ -1,0 +1,50 @@
+{
+  "artistName": "Stevie Wonder",
+  "features": [
+    {
+      "featuredArtist": "Kim Burrell",
+      "featuredArtistId": "0fW7wYpfi0yzlc8JPP12jA",
+      "trackName": "If Your Love Cannot Be Moved",
+      "trackId": "1IMVF7IY5zGbn2jowegGwG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a72d89accab639761968f44746d3e204e95f1d37",
+      "release_date": "2005-10-28"
+    },
+    {
+      "featuredArtist": "Aisha Morris",
+      "featuredArtistId": "1KQ2VJW8SynQ9yts7yNc6E",
+      "trackName": "How Will I Know",
+      "trackId": "274bqBH3NRST3NwEWMNuwz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a72d89accab639761968f44746d3e204e95f1d37",
+      "release_date": "2005-10-28"
+    },
+    {
+      "featuredArtist": "India.Arie",
+      "featuredArtistId": "7Gf3LSwa5hh8Cjo60WhVjC",
+      "trackName": "A Time To Love",
+      "trackId": "2hIRQ1yRIeD96PlW8U6DiT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a72d89accab639761968f44746d3e204e95f1d37",
+      "release_date": "2005-10-28"
+    },
+    {
+      "featuredArtist": "Michael Jackson",
+      "featuredArtistId": "3fMbdgg4jU18AjLCKBhRSm",
+      "trackName": "Get It",
+      "trackId": "4bEaRFFhrx3bkE6X3RyHNq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c669dab3a2cf210048e140e175f11e3cf7947444",
+      "release_date": "1987-11-06"
+    },
+    {
+      "featuredArtist": "Dionne Warwick",
+      "featuredArtistId": "2JSjCHK79gdaiPWdKiNUNp",
+      "trackName": "It's You",
+      "trackId": "0TmRAPlvxYpovR8ii7Fwwx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/09f2d5be5584f8e1294078db0586e304126a9102",
+      "release_date": "1984-08-28"
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "artistName": "Cash Cash",
+  "features": [
+    {
+      "featuredArtist": "Sofia Reyes",
+      "featuredArtistId": "0haZhu4fFKt0Ag94kZDiz2",
+      "trackName": "How To Love (feat. Sofia Reyes)",
+      "trackId": "1oUb2nyyq0IWVj1nsuft0H",
+      "preview": "https://p.scdn.co/mp3-preview/d71cde06f4daea0c16a43dce873854ffd0730cdc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Fitz",
+      "featuredArtistId": "0E5I4ZVvAfIbIEH7X0pwhI",
+      "trackName": "Broken Drum (feat. Fitz of Fitz and The Tantrums)",
+      "trackId": "2wIf5aCCstnq636sqKHXoe",
+      "preview": "https://p.scdn.co/mp3-preview/5e34f729c6c86c7c9f37094414cef73aeb4fce24?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Fitz and The Tantrums",
+      "featuredArtistId": "4AcHt3JxKy59IX7JNNlZn4",
+      "trackName": "Broken Drum (feat. Fitz of Fitz and The Tantrums)",
+      "trackId": "2wIf5aCCstnq636sqKHXoe",
+      "preview": "https://p.scdn.co/mp3-preview/5e34f729c6c86c7c9f37094414cef73aeb4fce24?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Fitz of Fitz and The Tantrums",
+      "featuredArtistId": "6EWK97PEWREkJyIfgTxwoV",
+      "trackName": "Broken Drum (feat. Fitz of Fitz and The Tantrums)",
+      "trackId": "2wIf5aCCstnq636sqKHXoe",
+      "preview": "https://p.scdn.co/mp3-preview/5e34f729c6c86c7c9f37094414cef73aeb4fce24?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Digital Farm Animals",
+      "featuredArtistId": "5fyDppLDl1juIu1BcUT5zh",
+      "trackName": "Millionaire (feat. Nelly)",
+      "trackId": "1IntvSZfRFvsSGFi01uu4B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Nelly",
+      "featuredArtistId": "2gBjLmx6zQnFGQJCAQpRgw",
+      "trackName": "Millionaire (feat. Nelly)",
+      "trackId": "1IntvSZfRFvsSGFi01uu4B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Christina Perri",
+      "featuredArtistId": "7H55rcKCfwqkyDFH9wpKM6",
+      "trackName": "Hero (feat. Christina Perri)",
+      "trackId": "5g1BARk25uUJtEPSUwcjnU",
+      "preview": "https://p.scdn.co/mp3-preview/a31ec07a602ef605e3065f6b88ecb231c5cdbbe4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Busta Rhymes",
+      "featuredArtistId": "1YfEcTuGvBQ8xSD1f53UnK",
+      "trackName": "Devil (feat. Busta Rhymes, B.o.B & Neon Hitch)",
+      "trackId": "4mFGFCJlpR4n9nRWRnz7Ir",
+      "preview": "https://p.scdn.co/mp3-preview/5b801a6e5c9130b446d4e3eaad8315908856d071?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "B.o.B",
+      "featuredArtistId": "5ndkK3dpZLKtBklKjxNQwT",
+      "trackName": "Devil (feat. Busta Rhymes, B.o.B & Neon Hitch)",
+      "trackId": "4mFGFCJlpR4n9nRWRnz7Ir",
+      "preview": "https://p.scdn.co/mp3-preview/5b801a6e5c9130b446d4e3eaad8315908856d071?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Neon Hitch",
+      "featuredArtistId": "2TnJ7VOpGzjtKUn0ObpEYe",
+      "trackName": "Devil (feat. Busta Rhymes, B.o.B & Neon Hitch)",
+      "trackId": "4mFGFCJlpR4n9nRWRnz7Ir",
+      "preview": "https://p.scdn.co/mp3-preview/5b801a6e5c9130b446d4e3eaad8315908856d071?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Jacquie",
+      "featuredArtistId": "0SuQEAJ7EMAipBdrAYO4XS",
+      "trackName": "Aftershock (feat. Jacquie)",
+      "trackId": "3D6FxHXduqSEY5uBfEPuSD",
+      "preview": "https://p.scdn.co/mp3-preview/605cb9961a19407d0ad98c1be21e478705868fd0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Trinidad James",
+      "featuredArtistId": "0I5HubncQ8E1MFZOlPDY4J",
+      "trackName": "The Gun (feat. Trinidad James, Dev & Chrish)",
+      "trackId": "4na7ZOs4mQSq157YdkJCYf",
+      "preview": "https://p.scdn.co/mp3-preview/29697dfb2999781f8808a5c4a23f319824f2c8c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Dev",
+      "featuredArtistId": "4Ib0TB8ykTnPPGrJTlVmYF",
+      "trackName": "The Gun (feat. Trinidad James, Dev & Chrish)",
+      "trackId": "4na7ZOs4mQSq157YdkJCYf",
+      "preview": "https://p.scdn.co/mp3-preview/29697dfb2999781f8808a5c4a23f319824f2c8c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Chrish",
+      "featuredArtistId": "2N9eIM7IgsVcTC2i4uQGJ1",
+      "trackName": "The Gun (feat. Trinidad James, Dev & Chrish)",
+      "trackId": "4na7ZOs4mQSq157YdkJCYf",
+      "preview": "https://p.scdn.co/mp3-preview/29697dfb2999781f8808a5c4a23f319824f2c8c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Little Daylight",
+      "featuredArtistId": "63aFY9yQyFDJtGkInMUris",
+      "trackName": "Turn (feat. Little Daylight)",
+      "trackId": "3gx8iEIUz0sjrmWcaRtDDC",
+      "preview": "https://p.scdn.co/mp3-preview/5438282dc51689817f59f59f67472e474a52c691?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "John Rzeznik",
+      "featuredArtistId": "4HQjQ1pCcv25LRqTxWKN4t",
+      "trackName": "Lightning (feat. John Rzeznik)",
+      "trackId": "0SWR0r19WhdCRFzkxBlYJW",
+      "preview": "https://p.scdn.co/mp3-preview/ec7e673f8a6d0c4ebc90e30ece4c7404964584f5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Anjulie",
+      "featuredArtistId": "4DTbdShHu2RPYEEMUp2XWV",
+      "trackName": "Arrows In The Dark (feat. Anjulie)",
+      "trackId": "2Uw7QYEUKJ26P5aj8qVZRE",
+      "preview": "https://p.scdn.co/mp3-preview/b11b5cdb6384aaa9f00b430483b957047a57490b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Night Terrors of 1927",
+      "featuredArtistId": "7m3fe3erw9iO9gs4AeLSG8",
+      "trackName": "We Will Live (feat. Night Terrors of 1927)",
+      "trackId": "4dHwfNHGCOuYuiFKqrIlaH",
+      "preview": "https://p.scdn.co/mp3-preview/24549dfbb6b6002f8baaacf01a29294c9eca1471?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Bebe Rexha",
+      "featuredArtistId": "64M6ah0SkkRsnPGtGiRAbb",
+      "trackName": "Take Me Home (feat. Bebe Rexha)",
+      "trackId": "7L59vVTpoS94JU3KEeolqt",
+      "preview": "https://p.scdn.co/mp3-preview/fcbe9284838f17ec464304ce9c70b67318e2ae16?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Jenna Andrews",
+      "featuredArtistId": "2EvaSHAnL1eSsYDMleYlO5",
+      "trackName": "Sweat (feat. Jenna Andrews)",
+      "trackId": "3VQUF36IMHPTopwYwEtd88",
+      "preview": "https://p.scdn.co/mp3-preview/2ade4a2902c037a4b73bd2d8e975533363aa686d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0504e69e54511caea80d4f9be10f5ff1e588d569",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Nikki Vianna",
+      "featuredArtistId": "5YyGLejM00snCF1RJKlocJ",
+      "trackName": "Jewel (feat. Nikki Vianna)",
+      "trackId": "1YnJvNqULdzYN1tko3fxiI",
+      "preview": "https://p.scdn.co/mp3-preview/7e58c8d8fcfa3548e39771407b317f794fb03d86?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cb883efcc9e23e3b6efa3bcd8a79023282bbf43f",
+      "release_date": "2018-02-14"
+    },
+    {
+      "featuredArtist": "Dashboard Confessional",
+      "featuredArtistId": "4ERtgeBbWRkFzIz6LaFCeY",
+      "trackName": "Belong - BEAUZ Remix",
+      "trackId": "2N95enXXE1On8mrxLgReGS",
+      "preview": "https://p.scdn.co/mp3-preview/b2876422b5bc319897df60dcddbd8fc75267ab48?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/09b668f9cf8af4eb28a39f643b5c67afb87d47e4",
+      "release_date": "2018-02-08"
+    },
+    {
+      "featuredArtist": "BEAUZ",
+      "featuredArtistId": "2Wzb0u138rgoZQTK3ytknT",
+      "trackName": "Belong - BEAUZ Remix",
+      "trackId": "2N95enXXE1On8mrxLgReGS",
+      "preview": "https://p.scdn.co/mp3-preview/b2876422b5bc319897df60dcddbd8fc75267ab48?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/09b668f9cf8af4eb28a39f643b5c67afb87d47e4",
+      "release_date": "2018-02-08"
+    },
+    {
+      "featuredArtist": "Liam Payne",
+      "featuredArtistId": "5pUo3fmmHT8bhCyHE52hA6",
+      "trackName": "Bedroom Floor - Cash Cash Remix",
+      "trackId": "2ZHSpSskzs566yYbUGegyX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/edb4857406db12dcf471246a83c2a9a34ca03996",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Conor Maynard",
+      "featuredArtistId": "6mU8ucezzms5I2kNH6HNlu",
+      "trackName": "All My Love (feat. Conor Maynard) - Audien Remix",
+      "trackId": "63a4UcPRu8LbuOE0PfrWA9",
+      "preview": "https://p.scdn.co/mp3-preview/75d7bc93fe6a63843435ddf765266ed579b1ebe3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b86b2a9bd96095416f1836e982a3341feb363ad",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Audien",
+      "featuredArtistId": "4xnMDfgEmXZEEDdITKcGuE",
+      "trackName": "All My Love (feat. Conor Maynard) - Audien Remix",
+      "trackId": "63a4UcPRu8LbuOE0PfrWA9",
+      "preview": "https://p.scdn.co/mp3-preview/75d7bc93fe6a63843435ddf765266ed579b1ebe3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b86b2a9bd96095416f1836e982a3341feb363ad",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Henry Fong",
+      "featuredArtistId": "3nALc9PyUfe6CO3EY9bNhH",
+      "trackName": "All My Love (feat. Conor Maynard) - Henry Fong Remix",
+      "trackId": "43k33NIHTvxFJ2NhnNzPEr",
+      "preview": "https://p.scdn.co/mp3-preview/125c85305210558becfed6428f0c8b6a18f57733?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b86b2a9bd96095416f1836e982a3341feb363ad",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Shaun Frank",
+      "featuredArtistId": "0BBwlSQvHHtahgYpLj1wJE",
+      "trackName": "All My Love (feat. Conor Maynard) - Shaun Frank Remix",
+      "trackId": "4HvSyDhjsOMUmZFn0oolwQ",
+      "preview": "https://p.scdn.co/mp3-preview/fcb1ec640a1929859dc39f6c01dbdde9875af7dc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b86b2a9bd96095416f1836e982a3341feb363ad",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Triarchy",
+      "featuredArtistId": "6Rgu58S7N7LtkLI3zhnY9j",
+      "trackName": "All My Love (feat. Conor Maynard) - Triarchy Remix",
+      "trackId": "2b0LFIuq3SpCSX8jANkPVo",
+      "preview": "https://p.scdn.co/mp3-preview/9ed81fc7ad2ba103ece5216f404e0c2ccb628c63?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b86b2a9bd96095416f1836e982a3341feb363ad",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Sagan",
+      "featuredArtistId": "5JHw3zW4kgwIZlh33geR1K",
+      "trackName": "All My Love (feat. Conor Maynard) - Sagan Remix",
+      "trackId": "2ahVZ2x6SR3v79yxeh9q17",
+      "preview": "https://p.scdn.co/mp3-preview/723358c4c226989642c14e3c126fdca2d30d7961?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b86b2a9bd96095416f1836e982a3341feb363ad",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Chris Schambacher",
+      "featuredArtistId": "1UHsMWPbRs6jp7ij7nEEZG",
+      "trackName": "All My Love (feat. Conor Maynard) - Chris Schambacher Remix",
+      "trackId": "157eKDhFJsIhBF8apRrJdo",
+      "preview": "https://p.scdn.co/mp3-preview/feab8fe963e177b5038358979e4ec840a9972698?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b86b2a9bd96095416f1836e982a3341feb363ad",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Misha K",
+      "featuredArtistId": "3py4xCfrW0MbgZEQXHp65q",
+      "trackName": "All My Love (feat. Conor Maynard) - Misha K Remix",
+      "trackId": "6pwtPvbarNpbmriwunPXu4",
+      "preview": "https://p.scdn.co/mp3-preview/e50f779eedb419a3c60879a4c0f48a9800f6facf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b86b2a9bd96095416f1836e982a3341feb363ad",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Havok Roth",
+      "featuredArtistId": "1W5GDN3fdEbY5AORDcJhmK",
+      "trackName": "All My Love (feat. Conor Maynard) - Havok Roth Remix",
+      "trackId": "1vTcitAUUkHIEWhlS6fcBa",
+      "preview": "https://p.scdn.co/mp3-preview/a055b73c50e114f40ff0fbdd165448f51831ebf6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b86b2a9bd96095416f1836e982a3341feb363ad",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Mark Villa",
+      "featuredArtistId": "5WClIOxkXF0aG93CLEC96i",
+      "trackName": "All My Love (feat. Conor Maynard) - Mark Villa Remix",
+      "trackId": "1mJ1RvfBRWaIhSmM2l76VX",
+      "preview": "https://p.scdn.co/mp3-preview/916969b61fdb42af6827fd98790c9fbc5f0d5e88?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b86b2a9bd96095416f1836e982a3341feb363ad",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "BOXINLION",
+      "featuredArtistId": "7qwAI0giylcoVaHSO3GkW9",
+      "trackName": "All My Love (feat. Conor Maynard) - Boxinlion Remix",
+      "trackId": "00cyDdyxfiBv9kFLci6u1F",
+      "preview": "https://p.scdn.co/mp3-preview/9aa6f05b60e3be412f657608e42963897924b21a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b86b2a9bd96095416f1836e982a3341feb363ad",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Kelly Clarkson",
+      "featuredArtistId": "3BmGtnKgCSGYIUhmivXKWX",
+      "trackName": "Love So Soft - Cash Cash Remix",
+      "trackId": "5eCUrSCDVOQ9iGf5igDuOI",
+      "preview": "https://p.scdn.co/mp3-preview/a1122cd2dd6f7efdc2e072a5b9714d4a45b900e1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03cd78d826cedf8212598ee0501306025c86be11",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Clean Bandit",
+      "featuredArtistId": "6MDME20pz9RveH9rEXvrOM",
+      "trackName": "Symphony (feat. Zara Larsson) - Cash Cash Remix",
+      "trackId": "4CqO3ZpI3FGByskguC5Kbo",
+      "preview": "https://p.scdn.co/mp3-preview/f18aa72e4f5a4635da29f2247b0149aceea1b1d1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/43ab4bbdf5c161ad6a73f19b7c626cc576ec47fa",
+      "release_date": "2017-05-25"
+    },
+    {
+      "featuredArtist": "Zara Larsson",
+      "featuredArtistId": "1Xylc3o4UrD53lo9CvFvVg",
+      "trackName": "Symphony (feat. Zara Larsson) - Cash Cash Remix",
+      "trackId": "4CqO3ZpI3FGByskguC5Kbo",
+      "preview": "https://p.scdn.co/mp3-preview/f18aa72e4f5a4635da29f2247b0149aceea1b1d1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/43ab4bbdf5c161ad6a73f19b7c626cc576ec47fa",
+      "release_date": "2017-05-25"
+    },
+    {
+      "featuredArtist": "ROZES",
+      "featuredArtistId": "6jsjhAEteAlY0vCiLvMLBA",
+      "trackName": "Matches - Instant Karma Remix",
+      "trackId": "3JtTLIBne5V16O2eUSS7Ua",
+      "preview": "https://p.scdn.co/mp3-preview/bbd29b9512d036a6829619e4c68af4b758ebafd7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976435d020e9fa1d5f87c2103918eaeb8ade3280",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Instant Karma",
+      "featuredArtistId": "6eqLCv41Qkw8Gti2WZBoBN",
+      "trackName": "Matches - Instant Karma Remix",
+      "trackId": "3JtTLIBne5V16O2eUSS7Ua",
+      "preview": "https://p.scdn.co/mp3-preview/bbd29b9512d036a6829619e4c68af4b758ebafd7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976435d020e9fa1d5f87c2103918eaeb8ade3280",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Max Styler",
+      "featuredArtistId": "3NKKngINK1tP6BFy0WOyWk",
+      "trackName": "Matches - Max Styler Remix",
+      "trackId": "3Xt9q5RPzCQxQulysLWAH1",
+      "preview": "https://p.scdn.co/mp3-preview/d03a9a47ab2347e58318936d55b6121b60a8be81?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976435d020e9fa1d5f87c2103918eaeb8ade3280",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Holl & Rush",
+      "featuredArtistId": "0gT2b7kbRgn15nSNPe3lgf",
+      "trackName": "Matches - Holl & Rush Remix",
+      "trackId": "1p4OF1Erg5Cxbe8eTcbiMH",
+      "preview": "https://p.scdn.co/mp3-preview/d9600cd9b90c5779ffad988cf923cc4e1a4476e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976435d020e9fa1d5f87c2103918eaeb8ade3280",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "ye.",
+      "featuredArtistId": "1gydLLHpbmraVz1LVZCW83",
+      "trackName": "Matches - ye. Remix",
+      "trackId": "6jQ0EG3WDCVfVI8Cp6brBj",
+      "preview": "https://p.scdn.co/mp3-preview/48db039352e5af091b2eec8a5e511361d7350ecd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976435d020e9fa1d5f87c2103918eaeb8ade3280",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Sam F",
+      "featuredArtistId": "7KCdHGc5N4oYz2Ekg3CRdb",
+      "trackName": "Matches - Sam F Remix",
+      "trackId": "0g5WyvbURJdiFnc0CZyBjW",
+      "preview": "https://p.scdn.co/mp3-preview/6b952393c8a1107238d305379dd9ce044a49c928?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976435d020e9fa1d5f87c2103918eaeb8ade3280",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Rich Edwards",
+      "featuredArtistId": "79v9Al6rSVH9SFk0QzzOl1",
+      "trackName": "Matches - Rich Edwards Remix",
+      "trackId": "5wzKC68CAwQvD6JaWjT97D",
+      "preview": "https://p.scdn.co/mp3-preview/2fa457130d216c1d447805b91b1772da6e1ca330?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976435d020e9fa1d5f87c2103918eaeb8ade3280",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "David Guetta",
+      "featuredArtistId": "1Cs0zKBU1kc0i8ypK3B9ai",
+      "trackName": "Would I Lie To You - Cash Cash Remix",
+      "trackId": "5ui8aAJN6W7dvE8hR2OhZS",
+      "preview": "https://p.scdn.co/mp3-preview/a6db4bf4dc0b2df22a1a830e4b1159b9f17c8994?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bafa17633ea7487187546f1480eff542f81975de",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Cedric Gervais",
+      "featuredArtistId": "4Wjf8diP59VmPG7fi4y724",
+      "trackName": "Would I Lie To You - Cash Cash Remix",
+      "trackId": "5ui8aAJN6W7dvE8hR2OhZS",
+      "preview": "https://p.scdn.co/mp3-preview/a6db4bf4dc0b2df22a1a830e4b1159b9f17c8994?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bafa17633ea7487187546f1480eff542f81975de",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Chris Willis",
+      "featuredArtistId": "2qSEpijpT3YSXgxcXac1ly",
+      "trackName": "Would I Lie To You - Cash Cash Remix",
+      "trackId": "5ui8aAJN6W7dvE8hR2OhZS",
+      "preview": "https://p.scdn.co/mp3-preview/a6db4bf4dc0b2df22a1a830e4b1159b9f17c8994?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bafa17633ea7487187546f1480eff542f81975de",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Alan Walker",
+      "featuredArtistId": "7vk5e3vY1uw9plTHJAMwjN",
+      "trackName": "Millionaire - Alan Walker Remix",
+      "trackId": "5HzbxweVAtisCrpoOF11qt",
+      "preview": "https://p.scdn.co/mp3-preview/43743e914ce4f7df24a28dee415506b35b23a16e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db841616bfcd935028b54044e20a044a38c2286d",
+      "release_date": "2016-09-02"
+    }
+  ]
+}

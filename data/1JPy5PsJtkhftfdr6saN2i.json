@@ -1,0 +1,599 @@
+{
+  "artistName": "Bassnectar",
+  "features": [
+    {
+      "featuredArtist": "LUZCID",
+      "featuredArtistId": "6Ny7ldBgUotuALx5hSFi4e",
+      "trackName": "Music Is The Drug",
+      "trackId": "7EArBG83gZls70WtjKoGFq",
+      "preview": "https://p.scdn.co/mp3-preview/97aac9055dc41b2fb2f617db29834c143b2581c0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b1e40eff8d4ab6f380a712ecef89c8945fee104",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Rye Rye",
+      "featuredArtistId": "0S05AeePINj4CeTVMfysIu",
+      "trackName": "TKO",
+      "trackId": "6JfmjCGy7nYztlgmWrXdsE",
+      "preview": "https://p.scdn.co/mp3-preview/dd5d52d0a753aec1af54441d20f075ad5bd56680?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b1e40eff8d4ab6f380a712ecef89c8945fee104",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Zion I",
+      "featuredArtistId": "3LLs28LJVlXAjWc8UDkcQZ",
+      "trackName": "TKO",
+      "trackId": "6JfmjCGy7nYztlgmWrXdsE",
+      "preview": "https://p.scdn.co/mp3-preview/dd5d52d0a753aec1af54441d20f075ad5bd56680?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b1e40eff8d4ab6f380a712ecef89c8945fee104",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "G Jones",
+      "featuredArtistId": "0gXx2aQ2mfovDfqCw10MQC",
+      "trackName": "Mind Tricks",
+      "trackId": "11Cz8Naeb1fIOqtkkPVNzg",
+      "preview": "https://p.scdn.co/mp3-preview/6f6839add39177325eadad98f8122321debb7df6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b1e40eff8d4ab6f380a712ecef89c8945fee104",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Lafa Taylor",
+      "featuredArtistId": "0j0HBDnIuT6rsn840ec18A",
+      "trackName": "Mind Tricks",
+      "trackId": "11Cz8Naeb1fIOqtkkPVNzg",
+      "preview": "https://p.scdn.co/mp3-preview/6f6839add39177325eadad98f8122321debb7df6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b1e40eff8d4ab6f380a712ecef89c8945fee104",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Levit∆te",
+      "featuredArtistId": "7rfzIs42bO9s242CZE1X3S",
+      "trackName": "Level Up",
+      "trackId": "56hoL9WMc07aXIR4UWxRKP",
+      "preview": "https://p.scdn.co/mp3-preview/38b5a9258f61774a09e3ed4a87ba769e47edf509?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b1e40eff8d4ab6f380a712ecef89c8945fee104",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Macntaj",
+      "featuredArtistId": "0erl2oe9fDqYo37ueBiG8K",
+      "trackName": "Level Up",
+      "trackId": "56hoL9WMc07aXIR4UWxRKP",
+      "preview": "https://p.scdn.co/mp3-preview/38b5a9258f61774a09e3ed4a87ba769e47edf509?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b1e40eff8d4ab6f380a712ecef89c8945fee104",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Qa",
+      "featuredArtistId": "35nEn2xdFEZVwK9DclhkL6",
+      "trackName": "Shampion Chip",
+      "trackId": "5XwDUUOGYT6kw9hZyf7CHE",
+      "preview": "https://p.scdn.co/mp3-preview/aafdae4c5161442df9dd4bf6213f35da81c02a01?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b1e40eff8d4ab6f380a712ecef89c8945fee104",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "The Glitch Mob",
+      "featuredArtistId": "3a9qv6NLHnsVxJUtKOMHvD",
+      "trackName": "Paracosm",
+      "trackId": "4SEVhyCF5jZnhht07sZH0P",
+      "preview": "https://p.scdn.co/mp3-preview/5e5ef2d559444141418759a0c67c292940d932a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b1e40eff8d4ab6f380a712ecef89c8945fee104",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "HAILO",
+      "featuredArtistId": "6qxjoE3vCURz1AXPDCWuUB",
+      "trackName": "Surrender",
+      "trackId": "0etuEQKmiLtRdU9r8zrklo",
+      "preview": "https://p.scdn.co/mp3-preview/d57a8b03f2f7bf1749eec3e651b982b1cad422db?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b1e40eff8d4ab6f380a712ecef89c8945fee104",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Haley",
+      "featuredArtistId": "189wPVI1hNnlFWRLfDuoKe",
+      "trackName": "Surrender",
+      "trackId": "0etuEQKmiLtRdU9r8zrklo",
+      "preview": "https://p.scdn.co/mp3-preview/d57a8b03f2f7bf1749eec3e651b982b1cad422db?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b1e40eff8d4ab6f380a712ecef89c8945fee104",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Gnar Gnar",
+      "featuredArtistId": "3oYq1yScZCqXMpHjFytA8R",
+      "trackName": "Dream Catcher",
+      "trackId": "5fOOpgIMtSufjWfqE83jIb",
+      "preview": "https://p.scdn.co/mp3-preview/78b9bb34b88f7c3ebb8820a8bcb332fd459a1ef0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b1e40eff8d4ab6f380a712ecef89c8945fee104",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Crywolf",
+      "featuredArtistId": "33o00sXuyWiApOFzo0vr0z",
+      "trackName": "Rising, Rising - Bassnectar Remix",
+      "trackId": "5C4h1qC1OmrS8uWsGaMewE",
+      "preview": "https://p.scdn.co/mp3-preview/0f97bb34a12240265585d973dcb4f8a635aa0cd8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b1e40eff8d4ab6f380a712ecef89c8945fee104",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Levitate",
+      "featuredArtistId": "2Wt8ccC9SilZvglYAQ7JGG",
+      "trackName": "Chasing Heaven",
+      "trackId": "460DKckZv7K9xt3yTDO8VO",
+      "preview": "https://p.scdn.co/mp3-preview/61758ee695c386e545108d94a0786cb40b3ea1d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86eee01c32785fb1a51425e8c311f07446af331f",
+      "release_date": "2015-06-30"
+    },
+    {
+      "featuredArtist": "Louis Futon",
+      "featuredArtistId": "79ffq2PHS5TDmgnHhAyudW",
+      "trackName": "Sideways (feat. Zion I)",
+      "trackId": "7lLfUDJ3m9AWp1WzSvf88Y",
+      "preview": "https://p.scdn.co/mp3-preview/421790c24d2d6edb213560100a982183bcad9f03?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86eee01c32785fb1a51425e8c311f07446af331f",
+      "release_date": "2015-06-30"
+    },
+    {
+      "featuredArtist": "Sayr",
+      "featuredArtistId": "56ECm4E5Ljd2Hw3nRNfckZ",
+      "trackName": "Breathing - 2015 Version",
+      "trackId": "38Ww2zvdCidvDWYiRZMVPv",
+      "preview": "https://p.scdn.co/mp3-preview/c9020262f78b80ccad1a71e4ff4679e6c1f4d296?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86eee01c32785fb1a51425e8c311f07446af331f",
+      "release_date": "2015-06-30"
+    },
+    {
+      "featuredArtist": "Kang",
+      "featuredArtistId": "6QoubO6sPUiP9zrvk6iIdU",
+      "trackName": "Dubuasca - 2015 Version",
+      "trackId": "3ODNQrhj7nj060UewOhKpm",
+      "preview": "https://p.scdn.co/mp3-preview/95a93f5a3b885f83faaa7aebc9d9b5ef4e05f4d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86eee01c32785fb1a51425e8c311f07446af331f",
+      "release_date": "2015-06-30"
+    },
+    {
+      "featuredArtist": "Jantsen",
+      "featuredArtistId": "6rhTnHtyVcRrtuzS1wnLZg",
+      "trackName": "Lost In The Crowd (LOCOJA Remix)",
+      "trackId": "7BedC2HyWO3PxgzxTpToqN",
+      "preview": "https://p.scdn.co/mp3-preview/570f0db6e1b87b882fa1c0c76e9a7208448848b4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d8698154aaa69374ec48e46fa51d9e4487663fb0",
+      "release_date": "2014-10-28"
+    },
+    {
+      "featuredArtist": "Fashawn",
+      "featuredArtistId": "6sDyTDjzGxcvyhLn5x9RyY",
+      "trackName": "Lost In The Crowd (LOCOJA Remix)",
+      "trackId": "7BedC2HyWO3PxgzxTpToqN",
+      "preview": "https://p.scdn.co/mp3-preview/570f0db6e1b87b882fa1c0c76e9a7208448848b4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d8698154aaa69374ec48e46fa51d9e4487663fb0",
+      "release_date": "2014-10-28"
+    },
+    {
+      "featuredArtist": "W. Darling",
+      "featuredArtistId": "1kJHmqou1WF0wMrCwH9ppR",
+      "trackName": "You & Me (Champagne Drip Remix)",
+      "trackId": "2VOWzyQFTyrhicW9EewSEp",
+      "preview": "https://p.scdn.co/mp3-preview/ba805d2d9fca4be28401be3cca4dd6804bf31a43?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d8698154aaa69374ec48e46fa51d9e4487663fb0",
+      "release_date": "2014-10-28"
+    },
+    {
+      "featuredArtist": "Craz",
+      "featuredArtistId": "6Nq0CfgKSAA7BckHkWnWHe",
+      "trackName": "Thursty",
+      "trackId": "5N96TmKbdooBBrZe8DuK08",
+      "preview": "https://p.scdn.co/mp3-preview/66426ae38f18431e2e9de3cacaefc53a8b0782aa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d8698154aaa69374ec48e46fa51d9e4487663fb0",
+      "release_date": "2014-10-28"
+    },
+    {
+      "featuredArtist": "Donnis",
+      "featuredArtistId": "76ga603L6luDjwvGbR4A31",
+      "trackName": "Noise (PANTyRAiD Remix)",
+      "trackId": "6s4eodNcfKBXCzRuP17i4R",
+      "preview": "https://p.scdn.co/mp3-preview/628841d13d488ebe5ed7a3221b5ec077c991a4aa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d8698154aaa69374ec48e46fa51d9e4487663fb0",
+      "release_date": "2014-10-28"
+    },
+    {
+      "featuredArtist": "Jenna Sousa",
+      "featuredArtistId": "6rke9KSu2E5PpdDxeqtUAC",
+      "trackName": "The Future (Proper Villains Remix)",
+      "trackId": "2TjLcIdr7fsKtBGtAqzDOd",
+      "preview": "https://p.scdn.co/mp3-preview/a26c339699da5d966448e8bfd574d0bf9a03b5a1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d8698154aaa69374ec48e46fa51d9e4487663fb0",
+      "release_date": "2014-10-28"
+    },
+    {
+      "featuredArtist": "Amp Live",
+      "featuredArtistId": "4WoeMzXhDQyoFCKdji4FlL",
+      "trackName": "Mystery Song (Bassnectar Remix)",
+      "trackId": "13VX1X354Y5KyMd7B39SLm",
+      "preview": "https://p.scdn.co/mp3-preview/80a47e953b1cd7b33aa62bcc728ddb50ffa378e8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d8698154aaa69374ec48e46fa51d9e4487663fb0",
+      "release_date": "2014-10-28"
+    },
+    {
+      "featuredArtist": "BEGINNERS",
+      "featuredArtistId": "3W8j0OhMMduqR1eNV6ktu3",
+      "trackName": "Mystery Song (Bassnectar Remix)",
+      "trackId": "13VX1X354Y5KyMd7B39SLm",
+      "preview": "https://p.scdn.co/mp3-preview/80a47e953b1cd7b33aa62bcc728ddb50ffa378e8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d8698154aaa69374ec48e46fa51d9e4487663fb0",
+      "release_date": "2014-10-28"
+    },
+    {
+      "featuredArtist": "TURSI",
+      "featuredArtistId": "4kFRTyaBWvDuSoabnFSON5",
+      "trackName": "Hold On (Kill Paris Remix)",
+      "trackId": "4aTqk6s5J6FlwfK0aJ1T6q",
+      "preview": "https://p.scdn.co/mp3-preview/0360e429ab657322b902af1dfa9445953d845a45?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d8698154aaa69374ec48e46fa51d9e4487663fb0",
+      "release_date": "2014-10-28"
+    },
+    {
+      "featuredArtist": "Simon Morel",
+      "featuredArtistId": "72eMiz21hng9sygcVyVBdl",
+      "trackName": "Open Up (Minnesota Remix)",
+      "trackId": "4g9JybftG8eDhnbfiPng8H",
+      "preview": "https://p.scdn.co/mp3-preview/c8733d32853cf540cb1eed62d5eba7af9c478e21?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d8698154aaa69374ec48e46fa51d9e4487663fb0",
+      "release_date": "2014-10-28"
+    },
+    {
+      "featuredArtist": "Seth Drake",
+      "featuredArtistId": "5wzXzlWJdkALT4P8pywiau",
+      "trackName": "F.U.N.",
+      "trackId": "7vFQliBjsAIfpteEzYOCOS",
+      "preview": "https://p.scdn.co/mp3-preview/a721f337a36ef78ccccda59672b2f86f80d0797f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6d2b0fdb91cd66595511c6c42263aab51c2882f3",
+      "release_date": "2014-06-24"
+    },
+    {
+      "featuredArtist": "The Upbeats",
+      "featuredArtistId": "5fbq6W6HAncSYaFtlQi7fF",
+      "trackName": "Gnar",
+      "trackId": "5TY4PBzVbclyBmSnRjDolV",
+      "preview": "https://p.scdn.co/mp3-preview/284aa83f6fde6410e9e9f86c3e20875f2dc6638f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6d2b0fdb91cd66595511c6c42263aab51c2882f3",
+      "release_date": "2014-06-24"
+    },
+    {
+      "featuredArtist": "Lupe Fiasco",
+      "featuredArtistId": "01QTIT5P1pFP3QnnFSdsJf",
+      "trackName": "Vava Voom",
+      "trackId": "53LmtwnsghNfxJDkBKV6FG",
+      "preview": "https://p.scdn.co/mp3-preview/722eb746412e7dc7c68e234ce3f9372f5ba4c845?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c572f43f8cb23d6b756914debf144562922c41c7",
+      "release_date": "2012-08-20"
+    },
+    {
+      "featuredArtist": "Jansten",
+      "featuredArtistId": "7qRxv6ZOP7hwI8B4tUOwTJ",
+      "trackName": "What",
+      "trackId": "7rmffYjZXzm1aZNAgJwBdp",
+      "preview": "https://p.scdn.co/mp3-preview/eac8c403e84e6add842d285c3f416a5623a156c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c572f43f8cb23d6b756914debf144562922c41c7",
+      "release_date": "2012-08-20"
+    },
+    {
+      "featuredArtist": "ill.gates",
+      "featuredArtistId": "4a32m0kHbxZm3V7jHpW60g",
+      "trackName": "Do It Like This",
+      "trackId": "33lRDM2cBe4Qwi6XZCvkAH",
+      "preview": "https://p.scdn.co/mp3-preview/38354400171733d6b83ebfdaee92f0307b3ae66f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c572f43f8cb23d6b756914debf144562922c41c7",
+      "release_date": "2012-08-20"
+    },
+    {
+      "featuredArtist": "Mimi Page",
+      "featuredArtistId": "1USUeNBNJcg7Of34Ix74lM",
+      "trackName": "Butterfly",
+      "trackId": "1aWIiMKvPjEuHvWGE4arUs",
+      "preview": "https://p.scdn.co/mp3-preview/c3712788b3d878aa56e65643c43f3a430ed57c3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c572f43f8cb23d6b756914debf144562922c41c7",
+      "release_date": "2012-08-20"
+    },
+    {
+      "featuredArtist": "Tina Malia",
+      "featuredArtistId": "1c0uQiM5LLHE4juxlFn1Q2",
+      "trackName": "Nothing Has Been Broken",
+      "trackId": "2YxcjU7n5XHtDxqTR2787W",
+      "preview": "https://p.scdn.co/mp3-preview/3767f110611ecce0046a7f92ec51a648f1d51ce5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c572f43f8cb23d6b756914debf144562922c41c7",
+      "release_date": "2012-08-20"
+    },
+    {
+      "featuredArtist": "Rollz",
+      "featuredArtistId": "4sLliVPsqoCVSMcTVi0aXD",
+      "trackName": "Plugged In - Bassnectar Remix",
+      "trackId": "79pYZsAmVYuxbOLtv8wXH4",
+      "preview": "https://p.scdn.co/mp3-preview/56e8514144a77e32881b089d3b9297b02252a0db?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/87985ba0e01d70ba83cf2a4234e572c16cf0e76f",
+      "release_date": "2011-08-02"
+    },
+    {
+      "featuredArtist": "Gogol Bordello",
+      "featuredArtistId": "2SVw939fwuqSobLjF8u78b",
+      "trackName": "Immigraniada - Bassnectar Remix",
+      "trackId": "7n438weMmNV8rnv91GCyZP",
+      "preview": "https://p.scdn.co/mp3-preview/f7c5d60a062b68a59b75400c0ec2138472c7d2bc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/87985ba0e01d70ba83cf2a4234e572c16cf0e76f",
+      "release_date": "2011-08-02"
+    },
+    {
+      "featuredArtist": "Ellie Goulding",
+      "featuredArtistId": "0X2BH1fck6amBIoJhDVmmJ",
+      "trackName": "Lights - Bassnectar Remix",
+      "trackId": "3woWcxPt1HWi2KiTptZlDe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/87985ba0e01d70ba83cf2a4234e572c16cf0e76f",
+      "release_date": "2011-08-02"
+    },
+    {
+      "featuredArtist": "DJ Vadim",
+      "featuredArtistId": "4vwzEW1kPK1BlgSBGrRyqZ",
+      "trackName": "Maximum (Bassnectar & ill.Gates Remix)",
+      "trackId": "1fo00RvvnYaXWJDPyWE9X8",
+      "preview": "https://p.scdn.co/mp3-preview/e8d524da87678e04f3e02bd5f475da28fc2bf629?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2d54418b81eea1a53663d8c9b63336a9991a50e",
+      "release_date": "2010-03-30"
+    },
+    {
+      "featuredArtist": "La Méthode",
+      "featuredArtistId": "1DFegh2KKZTQC79RQiYuuc",
+      "trackName": "Maximum (Bassnectar & ill.Gates Remix)",
+      "trackId": "1fo00RvvnYaXWJDPyWE9X8",
+      "preview": "https://p.scdn.co/mp3-preview/e8d524da87678e04f3e02bd5f475da28fc2bf629?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2d54418b81eea1a53663d8c9b63336a9991a50e",
+      "release_date": "2010-03-30"
+    },
+    {
+      "featuredArtist": "West Coast Lo Fi",
+      "featuredArtistId": "6fDUGl2v96isbHqnzXf6XV",
+      "trackName": "Timestretch (West Coast Lo Fi Remix)",
+      "trackId": "4z4heV3sNoxTdmbLrDRMti",
+      "preview": "https://p.scdn.co/mp3-preview/0aee149e8bc6b138f466cf1a245636d033658aa2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2d54418b81eea1a53663d8c9b63336a9991a50e",
+      "release_date": "2010-03-30"
+    },
+    {
+      "featuredArtist": "SPL",
+      "featuredArtistId": "3coA3ObogEZkUVnC7Ds0R5",
+      "trackName": "Bass Head (SPL Remix)",
+      "trackId": "2yPXXcJHS4nqx7AGXWZhia",
+      "preview": "https://p.scdn.co/mp3-preview/966bdf54779966c15b26cf2bf8fc18a801af49e3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2d54418b81eea1a53663d8c9b63336a9991a50e",
+      "release_date": "2010-03-30"
+    },
+    {
+      "featuredArtist": "MRK1",
+      "featuredArtistId": "2p7XBAoy6FY4PHRsfqp1Bb",
+      "trackName": "Bass Head (MRK1 Remix)",
+      "trackId": "6O1gYtoVNn4MNXFjYqGaEO",
+      "preview": "https://p.scdn.co/mp3-preview/5ffb0e86e4909efbdfb1914196fd088021cd82a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2d54418b81eea1a53663d8c9b63336a9991a50e",
+      "release_date": "2010-03-30"
+    },
+    {
+      "featuredArtist": "cates&dpL",
+      "featuredArtistId": "077hZY3BiI7b7nzuDR7ZKZ",
+      "trackName": "Backpack Rehab (feat. Cates&dpL)",
+      "trackId": "5hrJmUSGStrhuSpIOAJTGp",
+      "preview": "https://p.scdn.co/mp3-preview/67cce1d2912188298854773fe32b0df0eeb3c638?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca30703ffe68f88e93773e7c96d02dc2d0f6fdc5",
+      "release_date": "2009-09-29"
+    },
+    {
+      "featuredArtist": "Zumbi",
+      "featuredArtistId": "7psqvwB8rxGAHPm9uG8L2g",
+      "trackName": "Teleport Massive (feat. Zumbi)",
+      "trackId": "2n2Y0npEMfxJuGGdiW7Nbq",
+      "preview": "https://p.scdn.co/mp3-preview/e359f517eea6d19e14ed129048085780973c8507?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca30703ffe68f88e93773e7c96d02dc2d0f6fdc5",
+      "release_date": "2009-09-29"
+    },
+    {
+      "featuredArtist": "Double You",
+      "featuredArtistId": "2x0mCNdW4P27f3WE0iuQTV",
+      "trackName": "Window Seat (feat. Double You)",
+      "trackId": "19oe5rjskhk4BYz10c0zeG",
+      "preview": "https://p.scdn.co/mp3-preview/600971dd69b7f977786cdc7f9737918a992233d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca30703ffe68f88e93773e7c96d02dc2d0f6fdc5",
+      "release_date": "2009-09-29"
+    },
+    {
+      "featuredArtist": "Capital J",
+      "featuredArtistId": "0RHBj9I3oP0DYh6OvW1aVG",
+      "trackName": "Are You Ready (ft. Capital J)",
+      "trackId": "2PIikRr4ATY2iTlUbRJglP",
+      "preview": "https://p.scdn.co/mp3-preview/e795d906e8ff34dfe9ab0b006ec1a5659c66a46e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca30703ffe68f88e93773e7c96d02dc2d0f6fdc5",
+      "release_date": "2009-09-29"
+    },
+    {
+      "featuredArtist": "Seasunz",
+      "featuredArtistId": "0LDw3IGOCxak2UItKxUKKE",
+      "trackName": "Underground Communication",
+      "trackId": "6NJjPvoQvLdjTPR0aZV9oT",
+      "preview": "https://p.scdn.co/mp3-preview/9487c1157d59a9af345fb50a29867d80576fb5d5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f324a09719cb3d6f8ef22c56fea1a240aaf85a62",
+      "release_date": "2007-05-08"
+    },
+    {
+      "featuredArtist": "Persia",
+      "featuredArtistId": "6y6QM4mX5OsWxBIrtJztTH",
+      "trackName": "Bomb the Blocks",
+      "trackId": "4Tk0HMcMeINPixH9YfDixz",
+      "preview": "https://p.scdn.co/mp3-preview/e8ea13688da7a2956d0ff32eda2e96467c68000e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f324a09719cb3d6f8ef22c56fea1a240aaf85a62",
+      "release_date": "2007-05-08"
+    },
+    {
+      "featuredArtist": "Souleye",
+      "featuredArtistId": "2gaCCgazdYDAl1nbo8JNV6",
+      "trackName": "Amorphous Form",
+      "trackId": "5X2RBFejNGxZdKpNVdJBEN",
+      "preview": "https://p.scdn.co/mp3-preview/1899ca77fac683e988a7e97fcf580154ebc13965?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f324a09719cb3d6f8ef22c56fea1a240aaf85a62",
+      "release_date": "2007-05-08"
+    },
+    {
+      "featuredArtist": "E-Note",
+      "featuredArtistId": "714ZdFoQsJ3gn16e05YpYr",
+      "trackName": "Amorphous Form",
+      "trackId": "5X2RBFejNGxZdKpNVdJBEN",
+      "preview": "https://p.scdn.co/mp3-preview/1899ca77fac683e988a7e97fcf580154ebc13965?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f324a09719cb3d6f8ef22c56fea1a240aaf85a62",
+      "release_date": "2007-05-08"
+    },
+    {
+      "featuredArtist": "Nibu",
+      "featuredArtistId": "5Q2BumSQISsbQyPwQXTzNB",
+      "trackName": "Ridiculous Wobble",
+      "trackId": "4AsNpGu1XG9ps43JRbBORs",
+      "preview": "https://p.scdn.co/mp3-preview/e49a106f4be0d93ebea7bfc478a1c4c8f31a5b77?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f324a09719cb3d6f8ef22c56fea1a240aaf85a62",
+      "release_date": "2007-05-08"
+    },
+    {
+      "featuredArtist": "Kristina Maria",
+      "featuredArtistId": "3owOnUCZD2qFcf5RHbv1Zg",
+      "trackName": "Yo",
+      "trackId": "4boecqGyOwPo3LQAXmYkCy",
+      "preview": "https://p.scdn.co/mp3-preview/a9de8cd533f719c0d4c991c55da4e5c6f99554b7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f324a09719cb3d6f8ef22c56fea1a240aaf85a62",
+      "release_date": "2007-05-08"
+    },
+    {
+      "featuredArtist": "Mr. Projectile",
+      "featuredArtistId": "5Er2WCIjotL6kGdeQqE4i6",
+      "trackName": "I Am Back - Bassnectar Remix",
+      "trackId": "5qRoiTrXaFA5qHYsoeNdYG",
+      "preview": "https://p.scdn.co/mp3-preview/bee7a98512bcb2032a1887b598527f232c96e4fc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f324a09719cb3d6f8ef22c56fea1a240aaf85a62",
+      "release_date": "2007-05-08"
+    },
+    {
+      "featuredArtist": "Cheb i Sabbah",
+      "featuredArtistId": "1RTVukXrK45mKMIVFFEMM0",
+      "trackName": "Alkher Illa Doffor - Bassnectar Remix",
+      "trackId": "0Yxl4CumM6uP5HEvZdZOJv",
+      "preview": "https://p.scdn.co/mp3-preview/028560c2dc00e5eb6d9c6dabfb4731552fc3c97e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f324a09719cb3d6f8ef22c56fea1a240aaf85a62",
+      "release_date": "2007-05-08"
+    },
+    {
+      "featuredArtist": "Dorfex Bos",
+      "featuredArtistId": "60lZ2sr01yS7uJQeq7zoPv",
+      "trackName": "Other Worlds",
+      "trackId": "71VqCMlnkqH1TYnRUk6IHG",
+      "preview": "https://p.scdn.co/mp3-preview/54addb3eb09c2da08a27c308766f6f30909ba5f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0dd482ef9ea2878ff477a0283d352046a2a4531a",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Digital Ethos",
+      "featuredArtistId": "1uzNrmjOsClb1k7DYwUlIX",
+      "trackName": "Slather",
+      "trackId": "6dkxFbscc7IghbRRElt1nM",
+      "preview": "https://p.scdn.co/mp3-preview/9e23289a2187332bf140a6fbe021a3e0401489d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0dd482ef9ea2878ff477a0283d352046a2a4531a",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "PEEKABOO",
+      "featuredArtistId": "4Ok1Cm5YX5StCQZgH0r2xF",
+      "trackName": "Disrupt The System",
+      "trackId": "558TnbPW56Kwt87mFGuadU",
+      "preview": "https://p.scdn.co/mp3-preview/bc27b6019595c141392ff04af635127220eefc15?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0dd482ef9ea2878ff477a0283d352046a2a4531a",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Azeem",
+      "featuredArtistId": "1C7GlEj3ifjU7NbXTgV2sN",
+      "trackName": "Disrupt The System",
+      "trackId": "558TnbPW56Kwt87mFGuadU",
+      "preview": "https://p.scdn.co/mp3-preview/bc27b6019595c141392ff04af635127220eefc15?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0dd482ef9ea2878ff477a0283d352046a2a4531a",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Eprom",
+      "featuredArtistId": "2c2X6dr1PHctH24BxNOjHi",
+      "trackName": "Pineapple - Bassnectar Remix",
+      "trackId": "5o7n9Y8sh0IdjQt64DRInT",
+      "preview": "https://p.scdn.co/mp3-preview/42f1b48d4c3e9b91086d142b55f81cfb414d5daf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0dd482ef9ea2878ff477a0283d352046a2a4531a",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Naux Faux",
+      "featuredArtistId": "1AM98HfKbr7vWAtcdQg6Id",
+      "trackName": "Psyopia - Bassnectar Remix",
+      "trackId": "2Dxj4uAVn6Oaky278HF1eP",
+      "preview": "https://p.scdn.co/mp3-preview/4936d9b06499ae6b6c90a68d06cd489fb6347c34?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0dd482ef9ea2878ff477a0283d352046a2a4531a",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Born I Music",
+      "featuredArtistId": "4OgL0aesHrs5RdFCG9R3Xm",
+      "trackName": "I'm Up (feat. Born I Music)",
+      "trackId": "5WHxyBH6ThvCfsHo4O7rxA",
+      "preview": "https://p.scdn.co/mp3-preview/03a0d8b790cbedf6db910b5255e7626e0c5d8141?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1db71a57da783b3247649cf75cf5b09329fbda7c",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Noisia",
+      "featuredArtistId": "4YWj8sohRDjL9deiuRvEEY",
+      "trackName": "Get Deaded - Bassnectar Remix",
+      "trackId": "1G8tOwlWjq1dQP0dJnK2F6",
+      "preview": "https://p.scdn.co/mp3-preview/f97c1f4229fcee64ab0e1d20917740a477b7c0e5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8674cd904592f5d718aa9cae9a1ee7e09262b23b",
+      "release_date": "2017-04-06"
+    },
+    {
+      "featuredArtist": "Dirtyphonics",
+      "featuredArtistId": "4zymhxzJ0UJc74tMHGyoWs",
+      "trackName": "Watch Out (feat. Ragga Twins)",
+      "trackId": "4XmrZ5WTXAatzkgad3Cxda",
+      "preview": "https://p.scdn.co/mp3-preview/97cb605ddf8c3d1520de82454ef65bcb14df21b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad5c3b5edda33e05547dd694bcbc189c74b09658",
+      "release_date": "2017-03-31"
+    },
+    {
+      "featuredArtist": "Ragga Twins",
+      "featuredArtistId": "41vebFiEyxaRwT7rNmRLpq",
+      "trackName": "Watch Out (feat. Ragga Twins)",
+      "trackId": "4XmrZ5WTXAatzkgad3Cxda",
+      "preview": "https://p.scdn.co/mp3-preview/97cb605ddf8c3d1520de82454ef65bcb14df21b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad5c3b5edda33e05547dd694bcbc189c74b09658",
+      "release_date": "2017-03-31"
+    },
+    {
+      "featuredArtist": "ATLiens",
+      "featuredArtistId": "74RET4rCZPTGzhsLjD0i3g",
+      "trackName": "Interlock",
+      "trackId": "7jrqdNlJSQ59NqdCXSWVQq",
+      "preview": "https://p.scdn.co/mp3-preview/d2e6e49c94fdce1f95b36ac62d80a94d5b480123?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e845d1c64d4912bb4788fb914cd82f2d75cd4882",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Buku",
+      "featuredArtistId": "0w2QFhEnPG6tLIvkogHbUi",
+      "trackName": "Front To Back - Bassnectar Remix",
+      "trackId": "2UanltvlExkzzFsUJQdMkJ",
+      "preview": "https://p.scdn.co/mp3-preview/bba3803cdf8e306591178df0c9fc4d5aa8b8a9c3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9fcf437e669c0a99768a2a79b00e9a2f10e2775a",
+      "release_date": "2017-03-03"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "artistName": "James Hersey",
+  "features": [
+    {
+      "featuredArtist": "Manu Delago",
+      "featuredArtistId": "08LrhaMKwKuGbB9XHBEjXF",
+      "trackName": "Let Go",
+      "trackId": "0ClJobqVZ6GUkUqYdTp5MG",
+      "preview": "https://p.scdn.co/mp3-preview/041994b525c86a1ae6921b9542ef660894d2ee91?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3e212fde5cae46fd7aa80a0506a816be0bc43a05",
+      "release_date": "2015-02-27"
+    },
+    {
+      "featuredArtist": "Tilka",
+      "featuredArtistId": "4h54d9jwGBxJnRFn2hwGaI",
+      "trackName": "Miss You - Tilka Remix",
+      "trackId": "6vmeQAh0FtNl3c8m6C1AUx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2845a92b646c8c2a5bda632cad4d7dd24591436a",
+      "release_date": "2017-06-02"
+    },
+    {
+      "featuredArtist": "Tilka",
+      "featuredArtistId": "74eQejz3fhTlked9ipdYmZ",
+      "trackName": "Miss You - Tilka Remix",
+      "trackId": "2FZJevPfnl386efoFsy9gk",
+      "preview": "https://p.scdn.co/mp3-preview/ef3b85d54f6ea86ee43da14c72cd298e61f2addd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/263216e24f05532753950e40ce1b5135a9282344",
+      "release_date": "2017-06-02"
+    },
+    {
+      "featuredArtist": "HONNE",
+      "featuredArtistId": "0Vw76uk7P8yVtTClWyOhac",
+      "trackName": "Miss You - HONNE Remix",
+      "trackId": "7e0agBdgTU6r9hPM3rb9FY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b9bbbc9e7e1d0d7c9df9fa35f90e154be069ec7c",
+      "release_date": "2016-09-23"
+    },
+    {
+      "featuredArtist": "filous",
+      "featuredArtistId": "2IjiuEObrCKyZvSb8xLxG9",
+      "trackName": "Coming Over - filous Remix",
+      "trackId": "0uIDxM4fdk9zHQzbhr5Jgq",
+      "preview": "https://p.scdn.co/mp3-preview/c8f352c370ebe391bf036027cd1dab25819237b7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e5ea988adff23a9b31ec1c87e76f2148be36fdb",
+      "release_date": "2015-09-09"
+    }
+  ]
+}

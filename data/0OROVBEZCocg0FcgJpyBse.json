@@ -1,0 +1,77 @@
+{
+  "artistName": "Alex Sensation",
+  "features": [
+    {
+      "featuredArtist": "Bad Bunny",
+      "featuredArtistId": "4q3ewBCX7sLwd24euuV69X",
+      "trackName": "Fantasía",
+      "trackId": "2ZwFbSPQDdVIucGNQZbrE5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d148c09b2375d289055d5cf351d1bc96965a7c2d",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Ozuna",
+      "featuredArtistId": "1i8SpTcr7yvPOmcqrbnVXY",
+      "trackName": "Que Va",
+      "trackId": "6J1R5wtPXiHiwiPstOSI56",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a07db417fe5bdebcf2d72a5df4b05a84b055b3e3",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Gente De Zona",
+      "featuredArtistId": "2cy1zPcrFcXAJTP0APWewL",
+      "trackName": "La Mala Y La Buena",
+      "trackId": "4lawFBY8FFw4dY4shoiCvC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/24e56c61ec606910a0140b717cf0e8069d0f1d5b",
+      "release_date": "2016-10-04"
+    },
+    {
+      "featuredArtist": "Yandel",
+      "featuredArtistId": "0eHQ9o50hj6ZDNBt6Ys1sD",
+      "trackName": "Bailame (feat. Yandel & Shaggy)",
+      "trackId": "1nkaGH0aTwTD7X2P4SCkzG",
+      "preview": "https://p.scdn.co/mp3-preview/e645d1438c6511e810b6261e9f7e52513871e174?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6544772f9686d64635525b006d04150f0a46b38f",
+      "release_date": "2015-07-31"
+    },
+    {
+      "featuredArtist": "Shaggy",
+      "featuredArtistId": "5EvFsr3kj42KNv97ZEnqij",
+      "trackName": "Bailame (feat. Yandel & Shaggy)",
+      "trackId": "1nkaGH0aTwTD7X2P4SCkzG",
+      "preview": "https://p.scdn.co/mp3-preview/e645d1438c6511e810b6261e9f7e52513871e174?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6544772f9686d64635525b006d04150f0a46b38f",
+      "release_date": "2015-07-31"
+    },
+    {
+      "featuredArtist": "Sr. Jucafri",
+      "featuredArtistId": "1jhQRLHGYfQmg2zlggpHhO",
+      "trackName": "La Maraca Remix (feat. Don Omar & Alex Sensation)",
+      "trackId": "5xXNCbijncEezfaNCLaIv0",
+      "preview": "https://p.scdn.co/mp3-preview/c2ac326024cd2ef4ff5a9d5b65dfdc1f2d4b261a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca4a56001e483c9fd5cec09b823d3dbd4bb37e13",
+      "release_date": "2014-11-25"
+    },
+    {
+      "featuredArtist": "Don Omar",
+      "featuredArtistId": "33ScadVnbm2X8kkUqOkC6Z",
+      "trackName": "La Maraca Remix (feat. Don Omar & Alex Sensation)",
+      "trackId": "5xXNCbijncEezfaNCLaIv0",
+      "preview": "https://p.scdn.co/mp3-preview/c2ac326024cd2ef4ff5a9d5b65dfdc1f2d4b261a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca4a56001e483c9fd5cec09b823d3dbd4bb37e13",
+      "release_date": "2014-11-25"
+    },
+    {
+      "featuredArtist": "Omega",
+      "featuredArtistId": "1UjxAZqzphB1tsMb1aWBj0",
+      "trackName": "Mega Mezcla",
+      "trackId": "3HMlGJfqXkucIgat5T33nH",
+      "preview": "https://p.scdn.co/mp3-preview/2d96c1f071ac1d3fb4f957409051b2c8d3d8650a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8b63cbbd1061cbaec45a88faa4dd03f90d9a6941",
+      "release_date": "2009-12-08"
+    }
+  ]
+}

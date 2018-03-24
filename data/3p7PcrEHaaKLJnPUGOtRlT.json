@@ -1,0 +1,41 @@
+{
+  "artistName": "Henrique & Juliano",
+  "features": [
+    {
+      "featuredArtist": "Marília Mendonça",
+      "featuredArtistId": "1yR65psqiazQpeM79CcGh8",
+      "trackName": "Flor e o Beija-Flor - Ao Vivo",
+      "trackId": "44X9iOxA0EHCoOkX8NryAN",
+      "preview": "https://p.scdn.co/mp3-preview/482651ffe7a2e79ad74c7aef2cc8fc3b5cf8ca53?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7df870b3f0b9a84a6f736956ff2e916ecf185502",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "João Neto & Frederico",
+      "featuredArtistId": "2FrLTuXGuFDzQsjKidB03W",
+      "trackName": "Não Tô Valendo Nada (feat.João Neto & Frederico) [Ao Vivo]",
+      "trackId": "4hCfxtR293s5IMe5kJV9YW",
+      "preview": "https://p.scdn.co/mp3-preview/05eaaf9f868901b5bd05723c3addf709649a5772?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/845e961c70275434d6db3f056bcdd272eab1174e",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Os Hawaianos",
+      "featuredArtistId": "6f6ccYxDNgsPCMemKceSY4",
+      "trackName": "Mistura Louca (feat.Os Hawaianos) [Ao Vivo]",
+      "trackId": "1EZRE9ugTNERkb0kzRxp30",
+      "preview": "https://p.scdn.co/mp3-preview/14ac1bbd635cb0e672391f063370e5b75344c238?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/845e961c70275434d6db3f056bcdd272eab1174e",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Marcos & Fernando",
+      "featuredArtistId": "0cHeelq87RR6yX2ttH6MTg",
+      "trackName": "É Tudo Emprestado (feat. Marcos & Fernando) [Ao Vivo]",
+      "trackId": "3NMn6QERcC6z7aVwKfx8PS",
+      "preview": "https://p.scdn.co/mp3-preview/b76a8654e268e36bbb683cfeda83922e1c1b613d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/845e961c70275434d6db3f056bcdd272eab1174e",
+      "release_date": "2013"
+    }
+  ]
+}

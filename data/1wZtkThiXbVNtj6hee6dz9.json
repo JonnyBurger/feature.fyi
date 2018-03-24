@@ -1,0 +1,284 @@
+{
+  "artistName": "Wisin & Yandel",
+  "features": [
+    {
+      "featuredArtist": "Tego Calderon",
+      "featuredArtistId": "3SUT1jjM5hzZj9TLfLZGIP",
+      "trackName": "Al Natural",
+      "trackId": "5yRVe7o0FPQLMibYhNhdx1",
+      "preview": "https://p.scdn.co/mp3-preview/5c92a5426f8f00291253e95385502c93f979cf43?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8301bce6fbc2ca08d282a7d8ccc12c3b95545415",
+      "release_date": "2014"
+    },
+    {
+      "featuredArtist": "Alexis",
+      "featuredArtistId": "6iyPY9ZvEGeB5mswBjwwNi",
+      "trackName": "Mami Yo Quisiera Quedarme (feat. Alexis)",
+      "trackId": "0GZ7byApA6ldulW5ONGjEG",
+      "preview": "https://p.scdn.co/mp3-preview/66dafa9742ab9e1392e7cf63aa55ebf35e774a11?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8301bce6fbc2ca08d282a7d8ccc12c3b95545415",
+      "release_date": "2014"
+    },
+    {
+      "featuredArtist": "Jennifer Lopez",
+      "featuredArtistId": "2DlGxzQSjYe5N6G9nkYghR",
+      "trackName": "Follow The Leader",
+      "trackId": "6PY5s1Eh7nzToXBLntyx4k",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e5a782f5f257e29d52173ffbfb021967233b145b",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "T-Pain",
+      "featuredArtistId": "3aQeKQSyrW4qWr35idm0cy",
+      "trackName": "Algo Me Gusta De Ti",
+      "trackId": "2FqoR7diymD1Eh7cVb3DMg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dd0790ca056f1fae4bddf66402a0d82e7a039685",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Chris Brown",
+      "featuredArtistId": "7bXgB6jMjp9ATFy66eO08Z",
+      "trackName": "Algo Me Gusta De Ti",
+      "trackId": "2FqoR7diymD1Eh7cVb3DMg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dd0790ca056f1fae4bddf66402a0d82e7a039685",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Franco \"El Gorilla\"",
+      "featuredArtistId": "2biH2I1TvZlIIIc5W14oIJ",
+      "trackName": "Prende",
+      "trackId": "7y08Z9nFPI3tRy1itIogQh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dd0790ca056f1fae4bddf66402a0d82e7a039685",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "O'Neill",
+      "featuredArtistId": "5PTM3njSX1y9zUA9AE50rY",
+      "trackName": "Prende",
+      "trackId": "7y08Z9nFPI3tRy1itIogQh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dd0790ca056f1fae4bddf66402a0d82e7a039685",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Alberto Style",
+      "featuredArtistId": "4xm2t02dUpgQSXbUmPeETU",
+      "trackName": "Vengo Acabando",
+      "trackId": "4O3pp2QQFsYTxVVeoiA5es",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dd0790ca056f1fae4bddf66402a0d82e7a039685",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Gallego",
+      "featuredArtistId": "6P9Adm5Ne2YtzhV1hOjQcC",
+      "trackName": "Intro Los Vaqueros",
+      "trackId": "6gGmhLa7A6fNQ563ajQE4E",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cfbdda3e122c10e13db47dbbbae1f3162119c9e",
+      "release_date": "2011-01-25"
+    },
+    {
+      "featuredArtist": "50 Cent",
+      "featuredArtistId": "3q7HBObVc0L8jNeTe5Gofh",
+      "trackName": "No Dejemos Que Se Apague",
+      "trackId": "0WNP5wT00FQC8pnjvSLbSY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cfbdda3e122c10e13db47dbbbae1f3162119c9e",
+      "release_date": "2011-01-25"
+    },
+    {
+      "featuredArtist": "Tito \"El Bambino\"",
+      "featuredArtistId": "5fJsY7afrbsyzJj9wdzJMh",
+      "trackName": "Se Acabó",
+      "trackId": "54CZQ6sSSSLZkhGlCnBB1R",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cfbdda3e122c10e13db47dbbbae1f3162119c9e",
+      "release_date": "2011-01-25"
+    },
+    {
+      "featuredArtist": "Sean Kingston",
+      "featuredArtistId": "6S0dmVVn4udvppDhZIWxCr",
+      "trackName": "Fever",
+      "trackId": "5LgvrIHUVbD0UdfinJ1z7U",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cfbdda3e122c10e13db47dbbbae1f3162119c9e",
+      "release_date": "2011-01-25"
+    },
+    {
+      "featuredArtist": "Jowel Y Randy",
+      "featuredArtistId": "1JsKWTZN3nIdrDlV0I1RhU",
+      "trackName": "Perreame",
+      "trackId": "2rWSEc38vURA8uYftlZ41p",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cfbdda3e122c10e13db47dbbbae1f3162119c9e",
+      "release_date": "2011-01-25"
+    },
+    {
+      "featuredArtist": "Jayko",
+      "featuredArtistId": "3ZEFIdzK5fzATOGVi95KWt",
+      "trackName": "Tomando El Control",
+      "trackId": "3DGKYMDOJg0EjQrerRHiUM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cfbdda3e122c10e13db47dbbbae1f3162119c9e",
+      "release_date": "2011-01-25"
+    },
+    {
+      "featuredArtist": "Gadiel",
+      "featuredArtistId": "4Esb8jfP35nF3O85C0jgKC",
+      "trackName": "Tomando El Control",
+      "trackId": "3DGKYMDOJg0EjQrerRHiUM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cfbdda3e122c10e13db47dbbbae1f3162119c9e",
+      "release_date": "2011-01-25"
+    },
+    {
+      "featuredArtist": "Alexis y Fido",
+      "featuredArtistId": "7tU1VKOuxiNZwBZC6RHidA",
+      "trackName": "Suavecito Despacio",
+      "trackId": "27vxqJPDf6fWYvp9zjQUSb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cfbdda3e122c10e13db47dbbbae1f3162119c9e",
+      "release_date": "2011-01-25"
+    },
+    {
+      "featuredArtist": "O'neil",
+      "featuredArtistId": "5fEB8ol3Eg9yEE9atyQK1x",
+      "trackName": "Uy, Uy, Uy",
+      "trackId": "3gULqHzHvnkMWnhB1qyurs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cfbdda3e122c10e13db47dbbbae1f3162119c9e",
+      "release_date": "2011-01-25"
+    },
+    {
+      "featuredArtist": "De La Ghetto",
+      "featuredArtistId": "3EiLUeyEcA6fbRPSHkG5kb",
+      "trackName": "Tumbao",
+      "trackId": "7sllZB4zUMybDitfKwMuAV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cfbdda3e122c10e13db47dbbbae1f3162119c9e",
+      "release_date": "2011-01-25"
+    },
+    {
+      "featuredArtist": "Cosculluela",
+      "featuredArtistId": "00me4Ke1LsvMxt5kydlMyU",
+      "trackName": "La Reunión De Los Vaqueros",
+      "trackId": "6LgGKcMoXvDtKgAp2znkKQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cfbdda3e122c10e13db47dbbbae1f3162119c9e",
+      "release_date": "2011-01-25"
+    },
+    {
+      "featuredArtist": "Akon",
+      "featuredArtistId": "0z4gvV4rjIZ9wHck67ucSV",
+      "trackName": "Ella Me Llama - Live At Coliseo Jose Miguel Agrelot, Puerto Rico/2010",
+      "trackId": "6QguapmkzlRgmQD8eTMTuH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a418f2704c337124da26e1eed9147a52227222be",
+      "release_date": "2010-10-05"
+    },
+    {
+      "featuredArtist": "Romeo",
+      "featuredArtistId": "70ZgiWgZsBplNZbV6ONYfX",
+      "trackName": "All Up 2 You - Live At Coliseo Jose Miguel Agrelot, Puerto Rico/2010",
+      "trackId": "5t9FZpj5SIfuDckdqKYszU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a418f2704c337124da26e1eed9147a52227222be",
+      "release_date": "2010-10-05"
+    },
+    {
+      "featuredArtist": "Yomo",
+      "featuredArtistId": "4myAXQmMuS1lZe8T6Y7eBg",
+      "trackName": "Descará - Live At Coliseo Jose Miguel Agrelot, Puerto Rico/2010",
+      "trackId": "0x6FmgxyNWrAIrN8m4wwmI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a418f2704c337124da26e1eed9147a52227222be",
+      "release_date": "2010-10-05"
+    },
+    {
+      "featuredArtist": "Enrique Iglesias",
+      "featuredArtistId": "7qG3b048QCHVRO5Pv1T5lw",
+      "trackName": "Lloro Por Ti - Live At Coliseo Jose Miguel Agrelot, Puerto Rico/2010",
+      "trackId": "5qg3YyPK4NVsIaGcugJxIH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/53439ea4d3b06c7834bb909c1d687666a0a499e8",
+      "release_date": "2010-09-21"
+    },
+    {
+      "featuredArtist": "Romeo",
+      "featuredArtistId": "6kAOHoQPhGMGLteOeuJa9F",
+      "trackName": "Noche De Sexo - Live At Coliseo Jose Miguel Agrelot, Puerto Rico/2010",
+      "trackId": "2Ph3R8NxC3qn9V7jJN8JUW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/809e5e3cc04a98e242e5cefedd09c94be797a905",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Blackfather Yaviah",
+      "featuredArtistId": "4Q72t0NPuTb9TtVnzGSXS0",
+      "trackName": "Perfecto",
+      "trackId": "5MIvhfXI8bRwDuxPK9ou9z",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7a54486cac85766d5c51ebc69bd8e2cb71f304e8",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Ivy Queen",
+      "featuredArtistId": "6p2442ymrT9lZEuCZJdYcH",
+      "trackName": "Perfecto",
+      "trackId": "5MIvhfXI8bRwDuxPK9ou9z",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7a54486cac85766d5c51ebc69bd8e2cb71f304e8",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Ednita Nazario",
+      "featuredArtistId": "1Lvrnoz3ZKzzrBuZ446e6P",
+      "trackName": "¿Como Quieres Que Te Olvide?",
+      "trackId": "4p6iTYEAJVrVJDGmaKi4Yp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7a54486cac85766d5c51ebc69bd8e2cb71f304e8",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "José Torres",
+      "featuredArtistId": "0rb2SyvfYqL7AHeEZVYT7P",
+      "trackName": "Descará",
+      "trackId": "16lBrw0RCk2hgY8rl4Ol6S",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7a54486cac85766d5c51ebc69bd8e2cb71f304e8",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Yomo",
+      "featuredArtistId": "6DY0Scu4jJC2r8dnn7DzbY",
+      "trackName": "Sandungueo",
+      "trackId": "3HDKpBU3Iom47ip8Qt8fh5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/04176b40ecdd7a0dce2ae45ffb8ae0e06604ee5b",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Aventura",
+      "featuredArtistId": "1qto4hHid1P71emI6Fd8xi",
+      "trackName": "All Up 2 You",
+      "trackId": "5WarPv12nVlhAJ3yFksq9h",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/04176b40ecdd7a0dce2ae45ffb8ae0e06604ee5b",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Tico El Imigrante",
+      "featuredArtistId": "45CYEQIVD1Al0co9LLtklO",
+      "trackName": "Desaparecio",
+      "trackId": "2KhAG0AEsQRlfbZest3yPk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/04176b40ecdd7a0dce2ae45ffb8ae0e06604ee5b",
+      "release_date": "2009-01-01"
+    }
+  ]
+}

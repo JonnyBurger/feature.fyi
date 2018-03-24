@@ -1,0 +1,32 @@
+{
+  "artistName": "Carly Simon",
+  "features": [
+    {
+      "featuredArtist": "James Taylor",
+      "featuredArtistId": "0vn7UBvSQECKJm2817Yf1P",
+      "trackName": "Mockingbird - 2015 Remastered",
+      "trackId": "5FtUM5a5SWI4GuE34hrKP2",
+      "preview": "https://p.scdn.co/mp3-preview/059f60b8b68f9ac15396ddfae16d8b7721447a7f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d1f9665c73bf5ef7f8cbe099a1b396edf0f834f8",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Sally Taylor",
+      "featuredArtistId": "3sTTMEHk23XyVNfobiTnMs",
+      "trackName": "You Can Close Your Eyes",
+      "trackId": "5Vsx3UX0KWKnXvHxxkbgKO",
+      "preview": "https://p.scdn.co/mp3-preview/2dcf1a02713ff3c837f7d18339e30e693b5d00a4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d5923e61f18d757a237c41da87b44d4813d7b264",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Ben Taylor",
+      "featuredArtistId": "0NjhpMLF8rDkLohZWqwJZY",
+      "trackName": "You Can Close Your Eyes",
+      "trackId": "5Vsx3UX0KWKnXvHxxkbgKO",
+      "preview": "https://p.scdn.co/mp3-preview/2dcf1a02713ff3c837f7d18339e30e693b5d00a4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d5923e61f18d757a237c41da87b44d4813d7b264",
+      "release_date": "2007"
+    }
+  ]
+}

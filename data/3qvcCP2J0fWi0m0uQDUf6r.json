@@ -1,0 +1,230 @@
+{
+  "artistName": "Luan Santana",
+  "features": [
+    {
+      "featuredArtist": "Ivete Sangalo",
+      "featuredArtistId": "7dzq55YG3wjViqexDwiycQ",
+      "trackName": "Estaca Zero",
+      "trackId": "4V57XOvOOyYq5z2KJjL9bW",
+      "preview": "https://p.scdn.co/mp3-preview/15f775855af40568f83b5044406e28ca5d6255c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef20743d85767796de55e057ba78b803f8e424d3",
+      "release_date": "2016-11-04"
+    },
+    {
+      "featuredArtist": "Sandy",
+      "featuredArtistId": "4ZfTpxwHwtot9Ps59bXAF8",
+      "trackName": "Mesmo Sem Estar",
+      "trackId": "3vNlBVL5ExrJW0R7nVZSg1",
+      "preview": "https://p.scdn.co/mp3-preview/141204482a2aa5657a6f6fec627b0aadeed16c56?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef20743d85767796de55e057ba78b803f8e424d3",
+      "release_date": "2016-11-04"
+    },
+    {
+      "featuredArtist": "Marília Mendonça",
+      "featuredArtistId": "1yR65psqiazQpeM79CcGh8",
+      "trackName": "Fantasma",
+      "trackId": "4rWWTFECW2dXWzrzJwWs0f",
+      "preview": "https://p.scdn.co/mp3-preview/f3a904cc54b1c6e5609b9d7b5f6c63d6e64cdb62?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef20743d85767796de55e057ba78b803f8e424d3",
+      "release_date": "2016-11-04"
+    },
+    {
+      "featuredArtist": "Anitta",
+      "featuredArtistId": "7FNnA9vBm6EKceENgCGRMb",
+      "trackName": "Rg",
+      "trackId": "6nQxJasFsyv1RAHoDbJQtd",
+      "preview": "https://p.scdn.co/mp3-preview/d7e95dbfebe231578a61d821368c17624aa090e7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef20743d85767796de55e057ba78b803f8e424d3",
+      "release_date": "2016-11-04"
+    },
+    {
+      "featuredArtist": "Ana Carolina",
+      "featuredArtistId": "4HP9KltldfmkH2M2pQozzN",
+      "trackName": "Plano da Meia Noite",
+      "trackId": "6sNpwYjGxO4IriqJuFJlg7",
+      "preview": "https://p.scdn.co/mp3-preview/e75f9a9b0751a14c2cf738ff2c6c81355f2f0ae7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef20743d85767796de55e057ba78b803f8e424d3",
+      "release_date": "2016-11-04"
+    },
+    {
+      "featuredArtist": "Camila Queiroz",
+      "featuredArtistId": "1XoD9XEiUoNmangkCf6seZ",
+      "trackName": "Amor de Interior",
+      "trackId": "5H0Ui79EGlskFntLTx1OXP",
+      "preview": "https://p.scdn.co/mp3-preview/3e7da3265f5ffbce649f05b743384ddef943f1f5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef20743d85767796de55e057ba78b803f8e424d3",
+      "release_date": "2016-11-04"
+    },
+    {
+      "featuredArtist": "Florida Georgia Line",
+      "featuredArtistId": "3b8QkneNDz4JHKKKlLgYZg",
+      "trackName": "Fica",
+      "trackId": "7ehmJJA9jU1iV2oYIJ4h9v",
+      "preview": "https://p.scdn.co/mp3-preview/1cf097c06b54cc02d258fea4e0c9d076b15fb29a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/76d9e1961b3a4531ce30c2305ba63e12ca1c7101",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "Descemer Bueno",
+      "featuredArtistId": "5luyt0SUvGkDMY4ILP6Qhl",
+      "trackName": "Bailando",
+      "trackId": "2pkiIcRNf9z2HZpsXpLvkQ",
+      "preview": "https://p.scdn.co/mp3-preview/ebae0a8e93efcad337dd4dbe2731d9269c2a5d37?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/76d9e1961b3a4531ce30c2305ba63e12ca1c7101",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "Gente De Zona",
+      "featuredArtistId": "2cy1zPcrFcXAJTP0APWewL",
+      "trackName": "Bailando",
+      "trackId": "2pkiIcRNf9z2HZpsXpLvkQ",
+      "preview": "https://p.scdn.co/mp3-preview/ebae0a8e93efcad337dd4dbe2731d9269c2a5d37?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/76d9e1961b3a4531ce30c2305ba63e12ca1c7101",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "Enrique Iglesias",
+      "featuredArtistId": "7qG3b048QCHVRO5Pv1T5lw",
+      "trackName": "Bailando",
+      "trackId": "2pkiIcRNf9z2HZpsXpLvkQ",
+      "preview": "https://p.scdn.co/mp3-preview/ebae0a8e93efcad337dd4dbe2731d9269c2a5d37?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/76d9e1961b3a4531ce30c2305ba63e12ca1c7101",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "Maná",
+      "featuredArtistId": "7okwEbXzyT2VffBmyQBWLz",
+      "trackName": "Porto do Amor",
+      "trackId": "6vS5UOJMPO6Sc2zOMAtp7N",
+      "preview": "https://p.scdn.co/mp3-preview/cba4b4b4f30420be42016c972858d63dfdeb20b5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/76d9e1961b3a4531ce30c2305ba63e12ca1c7101",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "Jose Augusto",
+      "featuredArtistId": "3CK7CIjBOogTeAbAJWPkr8",
+      "trackName": "Chuvas de Verão",
+      "trackId": "1ZMZsH0tfqlYt5vptqYjUq",
+      "preview": "https://p.scdn.co/mp3-preview/43e343e7c46f34ff96aec493b69511f4eb0d2a39?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/76d9e1961b3a4531ce30c2305ba63e12ca1c7101",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "Munhoz & Mariano",
+      "featuredArtistId": "0OWtaM1z81DliQXntU4KaN",
+      "trackName": "Longe Daqui - Ao Vivo",
+      "trackId": "0T5ZsU0ZhKIW05Zz3HiiIa",
+      "preview": "https://p.scdn.co/mp3-preview/f91be405b3d99efe27292611feb86eee75552f10?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/76d9e1961b3a4531ce30c2305ba63e12ca1c7101",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "Conrado & Aleksandro",
+      "featuredArtistId": "3gIjloYbc9H6KkxKwZqExd",
+      "trackName": "Certos Detalhes",
+      "trackId": "3DE7j58KJpjjLsECVkQC5n",
+      "preview": "https://p.scdn.co/mp3-preview/5d8519224e5a029593a63292cadf816f542ea9e4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/76d9e1961b3a4531ce30c2305ba63e12ca1c7101",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "Thaeme & Thiago",
+      "featuredArtistId": "7ABjmCErFBTzoGMVoQc2Sh",
+      "trackName": "Hoje Não - Ao Vivo",
+      "trackId": "6bPnZPpOWabN71J8P4ldEY",
+      "preview": "https://p.scdn.co/mp3-preview/74cd220ff58378e7dc4a457ac3876d26e31913c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/76d9e1961b3a4531ce30c2305ba63e12ca1c7101",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "Matheus & Kauan",
+      "featuredArtistId": "2Z0lRIqr997lIUiPtrpKCr",
+      "trackName": "Você Me Dominou - Ao Vivo",
+      "trackId": "6ijgg5DzfUx43tNj9KTVXh",
+      "preview": "https://p.scdn.co/mp3-preview/3d0e3660b509f95a83334ac8eb90b0c11ebe8b7b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/76d9e1961b3a4531ce30c2305ba63e12ca1c7101",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "Chitãozinho & Xororó",
+      "featuredArtistId": "7gfkYbxpguEc9bm6m8TpAr",
+      "trackName": "Pode Ser Pra Valer - Ao Vivo",
+      "trackId": "1hzBaVIi5eVEaP1Zd7Tcut",
+      "preview": "https://p.scdn.co/mp3-preview/8ae4743f75c1ff1500a45d48ddfaaa1a88c78c8a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/76d9e1961b3a4531ce30c2305ba63e12ca1c7101",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "Belinda",
+      "featuredArtistId": "5LeiVcEnsZcwc133TUhJNW",
+      "trackName": "Meu Menino (Minha Menina) - Ao Vivo",
+      "trackId": "1xWAL1py9c651bflX7sPVG",
+      "preview": "https://p.scdn.co/mp3-preview/246266845155477794fa153bcec8db226206d2a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/76d9e1961b3a4531ce30c2305ba63e12ca1c7101",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "Fernando & Sorocaba",
+      "featuredArtistId": "1oSgjdbgLYULVmEBojPRw8",
+      "trackName": "Everest - Ao Vivo",
+      "trackId": "2pe8LNE05gheT0GBCiTvnU",
+      "preview": "https://p.scdn.co/mp3-preview/b1bcba07a0211f3436bd2ef3dab06c2cf9a59c00?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/76d9e1961b3a4531ce30c2305ba63e12ca1c7101",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "Zezé Di Camargo & Luciano",
+      "featuredArtistId": "4dyYjqmYDjegbB3F2mbvcT",
+      "trackName": "Pot-Pourri: Amor Distante / Inquilina de Violeiro - Ao Vivo",
+      "trackId": "1GAJ5IHicvKBZu2dvYpCHK",
+      "preview": "https://p.scdn.co/mp3-preview/c1551090464902a9b71ceedb9438a75c1e482e3b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/76d9e1961b3a4531ce30c2305ba63e12ca1c7101",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "Péricles",
+      "featuredArtistId": "6gEzJZrbm0F4ihvE9iXR9z",
+      "trackName": "Cuidado Cupido - Ao Vivo",
+      "trackId": "7IgesYQbwor5JhN95qwpPr",
+      "preview": "https://p.scdn.co/mp3-preview/df2ffbf6565db78d8b9548190a44ffe96d2187fa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/76d9e1961b3a4531ce30c2305ba63e12ca1c7101",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "Padre Reginaldo Manzotti",
+      "featuredArtistId": "7luES30fTO66nDk83NZCJV",
+      "trackName": "Semeando Estrelas",
+      "trackId": "0jxF26vpy9dZCksKhDx79A",
+      "preview": "https://p.scdn.co/mp3-preview/1004ce07ada796c12be67a375d6462892ad3f285?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/76d9e1961b3a4531ce30c2305ba63e12ca1c7101",
+      "release_date": "2014-12-08"
+    },
+    {
+      "featuredArtist": "CNCO",
+      "featuredArtistId": "0eecdvMrqBftK0M1VKhaF4",
+      "trackName": "Mamita",
+      "trackId": "5T0MplUFJtqR4OpO9uNJLC",
+      "preview": "https://p.scdn.co/mp3-preview/6e2323495e1296fd92e4e516921ab05dc8f2a308?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9af2012c1c76c75333e3bfa02eb901c44f19292d",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "WAO",
+      "featuredArtistId": "3ovsz8I84MfvsRjskEizvo",
+      "trackName": "Acordando o Prédio - Club Version",
+      "trackId": "3HulF5MzRlIKT13t4VCrNb",
+      "preview": "https://p.scdn.co/mp3-preview/b53fe4a6881d5d6b71d0eb2a395149d58a29fd38?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f3521b7aeeae34f599bac621c2decadd9c3d46d1",
+      "release_date": "2017-04-27"
+    },
+    {
+      "featuredArtist": "Make U Sweat",
+      "featuredArtistId": "2REtZ0a1gh5LzXswkSkQUp",
+      "trackName": "Acordando o Prédio - Make U Sweat Remix",
+      "trackId": "44aQTx4ArihISSAUftveba",
+      "preview": "https://p.scdn.co/mp3-preview/0b3eb6b22be2634ae13edd7b1ace8daca6e64eda?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f3521b7aeeae34f599bac621c2decadd9c3d46d1",
+      "release_date": "2017-04-27"
+    }
+  ]
+}

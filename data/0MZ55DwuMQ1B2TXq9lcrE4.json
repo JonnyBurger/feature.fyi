@@ -1,0 +1,23 @@
+{
+  "artistName": "Kraftklub",
+  "features": [
+    {
+      "featuredArtist": "Casper",
+      "featuredArtistId": "6UDhlW8uEVBBrqHS3RrKuv",
+      "trackName": "Schöner Tag",
+      "trackId": "7ruRqXvFzjBmXi5Rp3D0XP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6be9dbc8825673107f936bb4d54d5f39ede53b44",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Tikay One",
+      "featuredArtistId": "6oRLmAduOyntRAKcu7Z9Zq",
+      "trackName": "Kein Liebeslied - TiKay One Remix",
+      "trackId": "6ndPFEdPbeXURksqmB2WOM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9339c75ffbb80c1736fb50edf76708c35070391d",
+      "release_date": "2012-01-01"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "artistName": "Johnny Cash",
+  "features": [
+    {
+      "featuredArtist": "June Carter Cash",
+      "featuredArtistId": "0ZnY6mQmgr2yZarjry68td",
+      "trackName": "Baby Ride Easy",
+      "trackId": "3uktHVijqOMqLKhXQSTmrY",
+      "preview": "https://p.scdn.co/mp3-preview/48aee156f7f57ed557822ba466379a17f679dfdb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9b0bec32236836bba4c072b42e73e4fde74f554",
+      "release_date": "2014-03-21"
+    },
+    {
+      "featuredArtist": "Waylon Jennings",
+      "featuredArtistId": "7wCjDgV6nqBsHguQXPAaIM",
+      "trackName": "I'm Movin' On",
+      "trackId": "3xKLRPj0ZgrvPng2QIXtll",
+      "preview": "https://p.scdn.co/mp3-preview/984167bb7158a1820b120055b687681dceb00c0a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9b0bec32236836bba4c072b42e73e4fde74f554",
+      "release_date": "2014-03-21"
+    },
+    {
+      "featuredArtist": "Lucy Clark",
+      "featuredArtistId": "2mZTgt953tMdtwzHEfHHlb",
+      "trackName": "What Is Man - Live At The Paramount Theatre, NJ/1990",
+      "trackId": "79fa5p6On4XdwhXtfn3QuA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8888a1fe19b8806715c244c51ef198d513a4efa3",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Tom Petty",
+      "featuredArtistId": "2UZMlIwnkgAEDBsw1Rejkn",
+      "trackName": "The Running Kind",
+      "trackId": "2nNaEXJ7K6JQZ4eaideb6B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fdb45221d842a6ce4fb403d32b11fb9bb5489d6f",
+      "release_date": "2003-01-01"
+    },
+    {
+      "featuredArtist": "Carl Perkins",
+      "featuredArtistId": "5hIClg6noTaCzMu2s5wp4f",
+      "trackName": "Brown Eyed Handsome Man",
+      "trackId": "6UtbVV8qRPwDibzHlSvjvF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fdb45221d842a6ce4fb403d32b11fb9bb5489d6f",
+      "release_date": "2003-01-01"
+    },
+    {
+      "featuredArtist": "Willie Nelson",
+      "featuredArtistId": "5W5bDNCqJ1jbCgTxDD0Cb3",
+      "trackName": "Like A Soldier",
+      "trackId": "3Eg8exzGg2js8uab12BRnk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fdb45221d842a6ce4fb403d32b11fb9bb5489d6f",
+      "release_date": "2003-01-01"
+    },
+    {
+      "featuredArtist": "Joe Strummer",
+      "featuredArtistId": "2A09V0kHlETOFfT8Hz8oba",
+      "trackName": "Redemption Song",
+      "trackId": "6ArficY3dtVMWYkyTYkAJP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fdb45221d842a6ce4fb403d32b11fb9bb5489d6f",
+      "release_date": "2003-01-01"
+    },
+    {
+      "featuredArtist": "Fiona Apple",
+      "featuredArtistId": "3g2kUQ6tHLLbmkV7T4GPtL",
+      "trackName": "Father And Son",
+      "trackId": "7m1LJZXuC5Ua59Zmxo325O",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fdb45221d842a6ce4fb403d32b11fb9bb5489d6f",
+      "release_date": "2003-01-01"
+    },
+    {
+      "featuredArtist": "Nick Cave",
+      "featuredArtistId": "1RM5gp0RFfjpJhCYFPB30p",
+      "trackName": "Cindy",
+      "trackId": "6pe86I0HffNgYJzXJ06VjN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fdb45221d842a6ce4fb403d32b11fb9bb5489d6f",
+      "release_date": "2003-01-01"
+    },
+    {
+      "featuredArtist": "Glen Campbell",
+      "featuredArtistId": "59hLmB5DrdihCYtNeFeW1U",
+      "trackName": "Gentle On My Mind",
+      "trackId": "2adBKwqiheE8TJhfpHE9x6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fdb45221d842a6ce4fb403d32b11fb9bb5489d6f",
+      "release_date": "2003-01-01"
+    },
+    {
+      "featuredArtist": "Merle Haggard",
+      "featuredArtistId": "2ptmyXoL7poH6Zq62h1QT9",
+      "trackName": "I'm Leavin' Now",
+      "trackId": "4TpwxtLdy67v1J4xpUlbIH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/014d90192306a3764def5a1e416e126907bcd3ba",
+      "release_date": "2000-01-01"
+    }
+  ]
+}

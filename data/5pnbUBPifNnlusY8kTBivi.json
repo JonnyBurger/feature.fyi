@@ -1,0 +1,599 @@
+{
+  "artistName": "Jadakiss",
+  "features": [
+    {
+      "featuredArtist": "Fabolous",
+      "featuredArtistId": "0YWxKQj2Go9CGHCp77UOyy",
+      "trackName": "F vs J Intro",
+      "trackId": "32NuxpDVL7uwvr2omo5G9J",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/20bd0e8a8843ff5cf6d73077d71515ea38784306",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Future",
+      "featuredArtistId": "1RyvyyTE3xzB2ZywiAwp0i",
+      "trackName": "Stand Up",
+      "trackId": "29Ji3FhJkfqlSVbj9ebGxI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/20bd0e8a8843ff5cf6d73077d71515ea38784306",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Swizz Beatz",
+      "featuredArtistId": "2cADQgiLMjNhbsfeN52Bf3",
+      "trackName": "Theme Music",
+      "trackId": "1ffKnBrhzeWJcU3AXuxXS4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/20bd0e8a8843ff5cf6d73077d71515ea38784306",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Teyana Taylor",
+      "featuredArtistId": "4ULO7IGI3M2bo0Ap7B9h8a",
+      "trackName": "Talk About It",
+      "trackId": "3THmPNSpsiDWeS5TWJZj8s",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/20bd0e8a8843ff5cf6d73077d71515ea38784306",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "French Montana",
+      "featuredArtistId": "6vXTefBL93Dj5IqAWq6OTv",
+      "trackName": "All About It",
+      "trackId": "4y08GlEuK1YHr2GgiWGnkY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/20bd0e8a8843ff5cf6d73077d71515ea38784306",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Styles P",
+      "featuredArtistId": "2x8KDZdSONA3872CnhaAlX",
+      "trackName": "Ice Pick",
+      "trackId": "2sULYKnQxhEPWyA3FEebgC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/20bd0e8a8843ff5cf6d73077d71515ea38784306",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Yo Gotti",
+      "featuredArtistId": "6Ha4aES39QiVjR0L2lwuwq",
+      "trackName": "Stand Up - Remix",
+      "trackId": "5JIvaRMoa1Jve1yFpOqwvm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/20bd0e8a8843ff5cf6d73077d71515ea38784306",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Jeezy",
+      "featuredArtistId": "4yBK75WVCQXej1p04GWqxH",
+      "trackName": "Stand Up - Remix",
+      "trackId": "5JIvaRMoa1Jve1yFpOqwvm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/20bd0e8a8843ff5cf6d73077d71515ea38784306",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Future",
+      "featuredArtistId": "6TiNbcfVoO3SppeLYJbnSr",
+      "trackName": "Stand Up",
+      "trackId": "3IpWqZuONfZm0nBMYJMklk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4b32c4b43449ddfdf4c255a6edbf5d85d5e2a9ce",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Diddy",
+      "featuredArtistId": "59wfkuBoNyhDMQGCljbUbA",
+      "trackName": "You Don't Eat",
+      "trackId": "4RR54yLZrS1xruW3EvSoWT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8c74221066a02b479e351118389275c2ee17c606",
+      "release_date": "2015-12-11"
+    },
+    {
+      "featuredArtist": "Akon",
+      "featuredArtistId": "0z4gvV4rjIZ9wHck67ucSV",
+      "trackName": "Y. O. (Youthful Offenders)",
+      "trackId": "4TVKdxqjL15lNrjtRQd2km",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8c74221066a02b479e351118389275c2ee17c606",
+      "release_date": "2015-12-11"
+    },
+    {
+      "featuredArtist": "Lil Wayne",
+      "featuredArtistId": "55Aa2cqylxrFIXC767Z865",
+      "trackName": "Kill",
+      "trackId": "1rJidXWYWXm39C1GidT69G",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8c74221066a02b479e351118389275c2ee17c606",
+      "release_date": "2015-12-11"
+    },
+    {
+      "featuredArtist": "Ne-Yo",
+      "featuredArtistId": "21E3waRsmPlU7jZsS13rcj",
+      "trackName": "Aint Nothin New",
+      "trackId": "1AIdWbyNsHwex58HaRVnLv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8c74221066a02b479e351118389275c2ee17c606",
+      "release_date": "2015-12-11"
+    },
+    {
+      "featuredArtist": "Nipsey Hussle",
+      "featuredArtistId": "0EeQBlQJFiAfJeVN2vT9s0",
+      "trackName": "Aint Nothin New",
+      "trackId": "1AIdWbyNsHwex58HaRVnLv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8c74221066a02b479e351118389275c2ee17c606",
+      "release_date": "2015-12-11"
+    },
+    {
+      "featuredArtist": "Wiz Khalifa",
+      "featuredArtistId": "137W8MRPWKqSmrBGDBFSop",
+      "trackName": "So High",
+      "trackId": "64rrNHMeuACxkU9t0GeR6H",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8c74221066a02b479e351118389275c2ee17c606",
+      "release_date": "2015-12-11"
+    },
+    {
+      "featuredArtist": "Young Adz",
+      "featuredArtistId": "396eHybVCEUr0PcED4yFga",
+      "trackName": "Confetti - Skit",
+      "trackId": "50DMvCWmhcnxetJdZQSPaU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8c74221066a02b479e351118389275c2ee17c606",
+      "release_date": "2015-12-11"
+    },
+    {
+      "featuredArtist": "Exodus",
+      "featuredArtistId": "6SVBEim5t6F2IgScOKECzp",
+      "trackName": "Cutlass",
+      "trackId": "26Bcw0FFWL4eg4yOEkKDqW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8c74221066a02b479e351118389275c2ee17c606",
+      "release_date": "2015-12-11"
+    },
+    {
+      "featuredArtist": "Young Buck",
+      "featuredArtistId": "4pr7J7wzgObkE3DD3Izi7q",
+      "trackName": "Realest In The Game",
+      "trackId": "4ZMZwhRawAR23G2mjrp57O",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8c74221066a02b479e351118389275c2ee17c606",
+      "release_date": "2015-12-11"
+    },
+    {
+      "featuredArtist": "Sheek Louch",
+      "featuredArtistId": "14ejEUaU0wE2iAenbbv9b8",
+      "trackName": "Realest In The Game",
+      "trackId": "4ZMZwhRawAR23G2mjrp57O",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8c74221066a02b479e351118389275c2ee17c606",
+      "release_date": "2015-12-11"
+    },
+    {
+      "featuredArtist": "Nas",
+      "featuredArtistId": "20qISvAhX20dpIbOOzGK3q",
+      "trackName": "Rain",
+      "trackId": "6JxpTEdcFgvUgYxgk36fqh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8c74221066a02b479e351118389275c2ee17c606",
+      "release_date": "2015-12-11"
+    },
+    {
+      "featuredArtist": "Chayse",
+      "featuredArtistId": "1p9GYL1B1QZ2LMvkqXcdNs",
+      "trackName": "One More Mile To Go",
+      "trackId": "2ZRJzlcLC3pyEBhfdHq5Gu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8c74221066a02b479e351118389275c2ee17c606",
+      "release_date": "2015-12-11"
+    },
+    {
+      "featuredArtist": "Exodus",
+      "featuredArtistId": "4z9oxA6YVJo7cXZF6I0IL8",
+      "trackName": "Cutlass",
+      "trackId": "0kezn8BLmjtQWTljb2OaC0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4f800070203ff1561aa03726be52e94ed5a171d0",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "50 Cent",
+      "featuredArtistId": "3q7HBObVc0L8jNeTe5Gofh",
+      "trackName": "Dump on 'Em",
+      "trackId": "4xBt8b6KfrmtBKIkwtieb9",
+      "preview": "https://p.scdn.co/mp3-preview/a1ee7856a2f04efaaf67204f87849e2058a4c1c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccdee234cf3840ad3874f870ff3184d308343845",
+      "release_date": "2015-02-06"
+    },
+    {
+      "featuredArtist": "Emanny",
+      "featuredArtistId": "23zEEtmthkZdvz8j0LQHHo",
+      "trackName": "Hold You Down",
+      "trackId": "4bfl59MmcQeAtYOVWlIf07",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/843388604fa778253ffa171602b41246afa2face",
+      "release_date": "2011-05-23"
+    },
+    {
+      "featuredArtist": "Chynk Show",
+      "featuredArtistId": "6WwmZY0u0zmNcWWjcmvoVx",
+      "trackName": "Lay Em Down",
+      "trackId": "74rHm7tdoGTGlEH08LKrDa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/843388604fa778253ffa171602b41246afa2face",
+      "release_date": "2011-05-23"
+    },
+    {
+      "featuredArtist": "Fred the Godson",
+      "featuredArtistId": "4XfZS4DTtBxAd8JjsDFMzl",
+      "trackName": "Toast To That",
+      "trackId": "6ekOC9rJiy7GbQxPBqk7hz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/843388604fa778253ffa171602b41246afa2face",
+      "release_date": "2011-05-23"
+    },
+    {
+      "featuredArtist": "Trae Tha Truth",
+      "featuredArtistId": "49vCIUW46QY3L5vo1xVFoy",
+      "trackName": "Inkredible Remix",
+      "trackId": "61gv78gMPaG6y7wMFkoJTH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/843388604fa778253ffa171602b41246afa2face",
+      "release_date": "2011-05-23"
+    },
+    {
+      "featuredArtist": "Rick Ross",
+      "featuredArtistId": "1sBkRIssrMs1AbVkOJbc7a",
+      "trackName": "Inkredible Remix",
+      "trackId": "61gv78gMPaG6y7wMFkoJTH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/843388604fa778253ffa171602b41246afa2face",
+      "release_date": "2011-05-23"
+    },
+    {
+      "featuredArtist": "Ayanna Irish",
+      "featuredArtistId": "4uDzHgBqNuZmPWeBsoVDZZ",
+      "trackName": "Can't Stop Me",
+      "trackId": "6nDxORVYmTVBMBAF6GyOqR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eb860ca50971f18e6781bb8065cdc026e18e54dd",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "OJ Da Juiceman",
+      "featuredArtistId": "0t5qZrvVCo9YIUT87SQrTn",
+      "trackName": "Who's Real",
+      "trackId": "0nQGhgSnCTCktIFVyMR4bE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eb860ca50971f18e6781bb8065cdc026e18e54dd",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Mary J. Blige",
+      "featuredArtistId": "1XkoF8ryArs86LZvFOkbyr",
+      "trackName": "Grind Hard",
+      "trackId": "2eiT3jKBbUzY3MGJMYcJQ5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eb860ca50971f18e6781bb8065cdc026e18e54dd",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Pharrell Williams",
+      "featuredArtistId": "2RdwBSPQiwcmiDo9kixcl8",
+      "trackName": "Stress Ya",
+      "trackId": "2lM4mHaSNyqQQt0cOaQHC9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eb860ca50971f18e6781bb8065cdc026e18e54dd",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Avery Storm",
+      "featuredArtistId": "79OSA519ScnPY0MVDpu8ZV",
+      "trackName": "I Tried",
+      "trackId": "3XgmVyPFUa8MbBBB9WFZe7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eb860ca50971f18e6781bb8065cdc026e18e54dd",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Jazmine Sullivan",
+      "featuredArtistId": "7gSjFKpVmDgC2MMsnN8CYq",
+      "trackName": "Smoking Gun",
+      "trackId": "6dNzdg2LKxE1tE7tfTt8qo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eb860ca50971f18e6781bb8065cdc026e18e54dd",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Ghostface Killah",
+      "featuredArtistId": "6FD0unjzGQhX3b6eMccMJe",
+      "trackName": "Cartel Gathering",
+      "trackId": "1rXLAb4JKoHxpIsdGgTq9Y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eb860ca50971f18e6781bb8065cdc026e18e54dd",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Raekwon",
+      "featuredArtistId": "2yQf6b8hxahZaT5dHlWaB1",
+      "trackName": "Cartel Gathering",
+      "trackId": "1rXLAb4JKoHxpIsdGgTq9Y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eb860ca50971f18e6781bb8065cdc026e18e54dd",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "S.I.",
+      "featuredArtistId": "4dzFMMsyKDAaTqPOoHFHE0",
+      "trackName": "Come And Get Me",
+      "trackId": "1m8EgxTw07G9pGw9ixWsBG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eb860ca50971f18e6781bb8065cdc026e18e54dd",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Faith Evans",
+      "featuredArtistId": "5NDMothbpdpq2xHqSjrrWn",
+      "trackName": "Letter To B.I.G. - Bonus Track - Album Version (Explicit)",
+      "trackId": "5onF9YwVk1waudnSac9Z5H",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eb860ca50971f18e6781bb8065cdc026e18e54dd",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Snyp Life",
+      "featuredArtistId": "5KVibOEb6sCMMH64VjFdWZ",
+      "trackName": "Something Else Remix - Bonus Track - Album Version (Explicit)",
+      "trackId": "5DCgCutisEc4BYleGx5JXJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eb860ca50971f18e6781bb8065cdc026e18e54dd",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Bully",
+      "featuredArtistId": "1QXbBsyFYH4tv7stDV5zKx",
+      "trackName": "Something Else Remix - Bonus Track - Album Version (Explicit)",
+      "trackId": "5DCgCutisEc4BYleGx5JXJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eb860ca50971f18e6781bb8065cdc026e18e54dd",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Boo Rossini",
+      "featuredArtistId": "4F97XyNCWMW3wcUCR6OlSj",
+      "trackName": "Something Else Remix - Bonus Track - Album Version (Explicit)",
+      "trackId": "5DCgCutisEc4BYleGx5JXJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eb860ca50971f18e6781bb8065cdc026e18e54dd",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Blood Raw",
+      "featuredArtistId": "2iNwwXMd2PEg9oEr167J2c",
+      "trackName": "Something Else Remix - Bonus Track - Album Version (Explicit)",
+      "trackId": "5DCgCutisEc4BYleGx5JXJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eb860ca50971f18e6781bb8065cdc026e18e54dd",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "AP",
+      "featuredArtistId": "7br8Vs9CRHVqcHsrW4XYUb",
+      "trackName": "Something Else Remix - Bonus Track - Album Version (Explicit)",
+      "trackId": "5DCgCutisEc4BYleGx5JXJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eb860ca50971f18e6781bb8065cdc026e18e54dd",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Da Bully",
+      "featuredArtistId": "2n7DGZ2O5f8jsKqXki4Q9I",
+      "trackName": "Something Else Remix - Bonus Track - Album Version (Explicit)",
+      "trackId": "0GVIZpXXXOLBf7JWElGnuc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8be784ac1b6b1d499abca4527bfdb68b84a234fc",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "R. Kelly",
+      "featuredArtistId": "2mxe0TnaNL039ysAj51xPQ",
+      "trackName": "Go Getter - Remix",
+      "trackId": "5KK9X1yW4quO2No8g3FCZO",
+      "preview": "https://p.scdn.co/mp3-preview/3a4f87a800772843f37e14be91eda3872e308b47?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1eb66b8cbb2c591ea8cf2118506e3ca0126c6e0a",
+      "release_date": "2008-04-22"
+    },
+    {
+      "featuredArtist": "Bun B",
+      "featuredArtistId": "45a6gCQWq61lIUDmr1tKuO",
+      "trackName": "Go Getter - Remix",
+      "trackId": "5KK9X1yW4quO2No8g3FCZO",
+      "preview": "https://p.scdn.co/mp3-preview/3a4f87a800772843f37e14be91eda3872e308b47?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1eb66b8cbb2c591ea8cf2118506e3ca0126c6e0a",
+      "release_date": "2008-04-22"
+    },
+    {
+      "featuredArtist": "The Lox",
+      "featuredArtistId": "0A7g2YbCA9FlyZvAG6VmKP",
+      "trackName": "We Back",
+      "trackId": "4V4308DmU6jMgkkrp1ChiC",
+      "preview": "https://p.scdn.co/mp3-preview/b83b4d9f62839132765b17b09ecda7271c7683c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1eb66b8cbb2c591ea8cf2118506e3ca0126c6e0a",
+      "release_date": "2008-04-22"
+    },
+    {
+      "featuredArtist": "Fat Joe",
+      "featuredArtistId": "3ScY9CQxNLQei8Umvpx5g6",
+      "trackName": "New York",
+      "trackId": "7waziHbI655vXcmlGAG1CE",
+      "preview": "https://p.scdn.co/mp3-preview/f662f89b8c1968595239df5b409d83c6496a96cb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1eb66b8cbb2c591ea8cf2118506e3ca0126c6e0a",
+      "release_date": "2008-04-22"
+    },
+    {
+      "featuredArtist": "Ja Rule",
+      "featuredArtistId": "1J2VVASYAamtQ3Bt8wGgA6",
+      "trackName": "New York",
+      "trackId": "7waziHbI655vXcmlGAG1CE",
+      "preview": "https://p.scdn.co/mp3-preview/f662f89b8c1968595239df5b409d83c6496a96cb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1eb66b8cbb2c591ea8cf2118506e3ca0126c6e0a",
+      "release_date": "2008-04-22"
+    },
+    {
+      "featuredArtist": "DJ Khaled",
+      "featuredArtistId": "0QHgL1lAIqAw0HtD7YldmP",
+      "trackName": "New York",
+      "trackId": "7waziHbI655vXcmlGAG1CE",
+      "preview": "https://p.scdn.co/mp3-preview/f662f89b8c1968595239df5b409d83c6496a96cb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1eb66b8cbb2c591ea8cf2118506e3ca0126c6e0a",
+      "release_date": "2008-04-22"
+    },
+    {
+      "featuredArtist": "N.O.R.E.",
+      "featuredArtistId": "4GMgdB3vwbBOc42hbXEi9p",
+      "trackName": "Throw Em Under The Bus",
+      "trackId": "56lTKx95i6EOHmujBfOnkW",
+      "preview": "https://p.scdn.co/mp3-preview/b43465b85ac619903c56cb128a4b308d69f7d32f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1eb66b8cbb2c591ea8cf2118506e3ca0126c6e0a",
+      "release_date": "2008-04-22"
+    },
+    {
+      "featuredArtist": "Kurupt",
+      "featuredArtistId": "6NyJIFHAePjHR1pFxwisqz",
+      "trackName": "Throw Em Under The Bus",
+      "trackId": "56lTKx95i6EOHmujBfOnkW",
+      "preview": "https://p.scdn.co/mp3-preview/b43465b85ac619903c56cb128a4b308d69f7d32f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1eb66b8cbb2c591ea8cf2118506e3ca0126c6e0a",
+      "release_date": "2008-04-22"
+    },
+    {
+      "featuredArtist": "Joel Ortiz",
+      "featuredArtistId": "2G8sL9JeQbURGBF4WIriqG",
+      "trackName": "Hip Hop - Remix",
+      "trackId": "3KO18OCNOcmQed6y5ZHwIx",
+      "preview": "https://p.scdn.co/mp3-preview/8ce1cf39ee0a545a9da30609c641a1b984701ab1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1eb66b8cbb2c591ea8cf2118506e3ca0126c6e0a",
+      "release_date": "2008-04-22"
+    },
+    {
+      "featuredArtist": "Saigon",
+      "featuredArtistId": "0mTfntDCCWRozUnyxpGf6E",
+      "trackName": "Hip Hop - Remix",
+      "trackId": "3KO18OCNOcmQed6y5ZHwIx",
+      "preview": "https://p.scdn.co/mp3-preview/8ce1cf39ee0a545a9da30609c641a1b984701ab1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1eb66b8cbb2c591ea8cf2118506e3ca0126c6e0a",
+      "release_date": "2008-04-22"
+    },
+    {
+      "featuredArtist": "The Game",
+      "featuredArtistId": "0NbfKEOTQCcwd6o7wSDOHI",
+      "trackName": "Salute",
+      "trackId": "74dV9iQzot2D8bSInHkJT8",
+      "preview": "https://p.scdn.co/mp3-preview/1b5e317d5aaa03228de95b4b4c7261f98517f131?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1eb66b8cbb2c591ea8cf2118506e3ca0126c6e0a",
+      "release_date": "2008-04-22"
+    },
+    {
+      "featuredArtist": "Nova",
+      "featuredArtistId": "0HZM2BqJRa0JZeUTYeuQ8G",
+      "trackName": "Salute",
+      "trackId": "74dV9iQzot2D8bSInHkJT8",
+      "preview": "https://p.scdn.co/mp3-preview/1b5e317d5aaa03228de95b4b4c7261f98517f131?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1eb66b8cbb2c591ea8cf2118506e3ca0126c6e0a",
+      "release_date": "2008-04-22"
+    },
+    {
+      "featuredArtist": "John Legend",
+      "featuredArtistId": "5y2Xq6xcjJb2jVM54GHK3t",
+      "trackName": "Heaven - Remix",
+      "trackId": "0LSmd8wfvWWFm4FUel7fRZ",
+      "preview": "https://p.scdn.co/mp3-preview/b8e586f990a0e01f127aebe83d58258da1f62c94?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1eb66b8cbb2c591ea8cf2118506e3ca0126c6e0a",
+      "release_date": "2008-04-22"
+    },
+    {
+      "featuredArtist": "Teedra Moses",
+      "featuredArtistId": "6vfR5QRc3xca0KvpG8KZBE",
+      "trackName": "International",
+      "trackId": "7tsKWyLnw85DbQFuLijbkG",
+      "preview": "https://p.scdn.co/mp3-preview/ead95a48fa88f1b317a76ecff147253543caedab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1eb66b8cbb2c591ea8cf2118506e3ca0126c6e0a",
+      "release_date": "2008-04-22"
+    },
+    {
+      "featuredArtist": "Snoop Dogg",
+      "featuredArtistId": "7hJcb9fa4alzcOq3EaNPoG",
+      "trackName": "Shine",
+      "trackId": "3RIZeFRtmVMprCXrwKSXcA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/58a040d57a8b4c9abd139513ac3609afab0ba656",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "DJ Quik",
+      "featuredArtistId": "0b2XeWDPeBiLeskT6RFqMb",
+      "trackName": "Shine",
+      "trackId": "3RIZeFRtmVMprCXrwKSXcA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/58a040d57a8b4c9abd139513ac3609afab0ba656",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Nate Dogg",
+      "featuredArtistId": "1Oa0bMld0A3u5OTYfMzp5h",
+      "trackName": "Time's Up",
+      "trackId": "3iQHtjDo1jgcbjUPsh3Dkb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/58a040d57a8b4c9abd139513ac3609afab0ba656",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Anthony Hamilton",
+      "featuredArtistId": "2DzRMyWgjuMbYvt5BLbpCo",
+      "trackName": "Why",
+      "trackId": "58LflM1owDAzQkYIL7ayCX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/58a040d57a8b4c9abd139513ac3609afab0ba656",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Mariah Carey",
+      "featuredArtistId": "4iHNK0tOyZPYnBU7nGAgpQ",
+      "trackName": "U Make Me Wanna",
+      "trackId": "66PlVvBwKgTseZ1vCU3e46",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/58a040d57a8b4c9abd139513ac3609afab0ba656",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Sheek",
+      "featuredArtistId": "0bbN8BIF8Ys24597Zajine",
+      "trackName": "Real Hip Hop",
+      "trackId": "5ZH3jZUpWDbBdgQWG7PhQ0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/58a040d57a8b4c9abd139513ac3609afab0ba656",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Kanye West",
+      "featuredArtistId": "5K4W6rqBFWDnAN6FQUkS6x",
+      "trackName": "Gettin' It In",
+      "trackId": "6xcztpu0UjeMQq7ksXaHHu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/58a040d57a8b4c9abd139513ac3609afab0ba656",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Eminem",
+      "featuredArtistId": "7dGJo4pcD2V6oG8kP0tJRR",
+      "trackName": "Welcome To D-Block",
+      "trackId": "3CegiqcSMdRO8Acm2iplpx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/58a040d57a8b4c9abd139513ac3609afab0ba656",
+      "release_date": "2004-01-01"
+    }
+  ]
+}

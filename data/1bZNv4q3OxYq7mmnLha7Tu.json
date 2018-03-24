@@ -1,0 +1,32 @@
+{
+  "artistName": "Fito Páez",
+  "features": [
+    {
+      "featuredArtist": "Paulinho Moska",
+      "featuredArtistId": "50sWvKw2zsmX9lmcPWmJaT",
+      "trackName": "Hermanos",
+      "trackId": "4a9uKJwgBJpWsSum1LHjwb",
+      "preview": "https://p.scdn.co/mp3-preview/1ec8942fb0a4935fc87ed9546b5ec780c5b6f246?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/334ac27806703f70cdab320a898795f840c9b99f",
+      "release_date": "2015-08-21"
+    },
+    {
+      "featuredArtist": "Ash Howes",
+      "featuredArtistId": "36rMMom7CLMH2rqV0PRp7e",
+      "trackName": "Mariposa Tecknicolor",
+      "trackId": "0RELDTibyK7xTEtHKpwLrb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/277d63e0c0cb62f27635c27574cbeabe91cb7580",
+      "release_date": "2008-08-05"
+    },
+    {
+      "featuredArtist": "Luis Alberto Spinetta",
+      "featuredArtistId": "1MuQ2m2tg7naeRGAOxYZer",
+      "trackName": "Folly Berghet",
+      "trackId": "4fxEAEN68MBgNa4P4n14P0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d88924f2b2f77edd2ff14279a13072bdb0ea6477",
+      "release_date": "2007"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "artistName": "Bruno & Marrone",
+  "features": [
+    {
+      "featuredArtist": "Chitãozinho & Xororó",
+      "featuredArtistId": "7gfkYbxpguEc9bm6m8TpAr",
+      "trackName": "Drylands / Página De Amigos - Ao Vivo",
+      "trackId": "0Gf7LUx7CaYKYogC5pDjfE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e4d0bf69301230326dc717b912a9935a506f8ce0",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Michel Teló",
+      "featuredArtistId": "1sDVuztNhGcetCLChkleDA",
+      "trackName": "Sem Compromisso (Tchatchara) - Ao Vivo",
+      "trackId": "11qwfjHFJnUZ88GoDQ5nHf",
+      "preview": "https://p.scdn.co/mp3-preview/093558dd6e67b39a359d2bba4166827a258a5145?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/79104d0278c545505e2a9cbd5300a43537dc65e9",
+      "release_date": "2012-09-10"
+    },
+    {
+      "featuredArtist": "Ana Paula",
+      "featuredArtistId": "3DVof9KR7wMVraCPCxQgmY",
+      "trackName": "Metade da Metade",
+      "trackId": "6lLwLpKqzTGEhx47P8JsoW",
+      "preview": "https://p.scdn.co/mp3-preview/7b82c91ac3a832c9e6de94c9cf09e6dd122e7708?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9667244419ab97681b4050a5539a8eda5d17c63c",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Durval Lelys",
+      "featuredArtistId": "3ToO2sJ9XN1V0UPRfnHJaM",
+      "trackName": "Doideira (Acústico)",
+      "trackId": "66nQ1HQIZJkR3Q39xjsIFr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3bb93781c8011feca828ed1ccd4fe0447a4bdf12",
+      "release_date": "2007-07-15"
+    }
+  ]
+}

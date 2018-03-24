@@ -1,0 +1,239 @@
+{
+  "artistName": "Ozuna",
+  "features": [
+    {
+      "featuredArtist": "Nicky Jam",
+      "featuredArtistId": "1SupJlEpv7RS2tPNRaHViT",
+      "trackName": "Cumpleaños",
+      "trackId": "6La6oWlGposkrgvLjjRJju",
+      "preview": "https://p.scdn.co/mp3-preview/910ed5ea2f3a0b8a8e1d697a6e67610ff701459b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be41af2ac36aeb3f8019d06971e486a932159726",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "Zion & Lennox",
+      "featuredArtistId": "21451j1KhjAiaYKflxBjr1",
+      "trackName": "Egoísta",
+      "trackId": "4X3CV9rXo3hQrkb0fzRAux",
+      "preview": "https://p.scdn.co/mp3-preview/591fb3b6d57ddb5973d0b8919bfa79ba90236888?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be41af2ac36aeb3f8019d06971e486a932159726",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "J Balvin",
+      "featuredArtistId": "1vyhD5VmyZ7KMfW5gqLgo5",
+      "trackName": "Quiero Repetir",
+      "trackId": "0MIcPSq9n2z5H8TAfEstri",
+      "preview": "https://p.scdn.co/mp3-preview/bb8499726d78e35f77ac964e4bd71cddafada8c8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be41af2ac36aeb3f8019d06971e486a932159726",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "De La Ghetto",
+      "featuredArtistId": "3EiLUeyEcA6fbRPSHkG5kb",
+      "trackName": "Pide Lo Que Tú Quieras",
+      "trackId": "7IteHlPcwD5mzvkXZmimLI",
+      "preview": "https://p.scdn.co/mp3-preview/a8093e228f7e52595ff10b0d976f77ea9fd24f2e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be41af2ac36aeb3f8019d06971e486a932159726",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "Anuel Aa",
+      "featuredArtistId": "2R21vXR83lH98kGeO99Y66",
+      "trackName": "Bebé",
+      "trackId": "0ulsRBiciReng91DhfVT9D",
+      "preview": "https://p.scdn.co/mp3-preview/5fb14d99917f38bd87a5f78701cd68870d36b3af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be41af2ac36aeb3f8019d06971e486a932159726",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "Chris Jeday",
+      "featuredArtistId": "0qTZZWLzuD59Un5r1speHm",
+      "trackName": "Bipolar",
+      "trackId": "4WzsycqZkpkS48H9AAAGux",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b9b7e3d991170e3435dbe27f255e6f87d8c848c6",
+      "release_date": "2018-03-07"
+    },
+    {
+      "featuredArtist": "Brytiago",
+      "featuredArtistId": "00XhexlJEXQstHimpZN910",
+      "trackName": "Bipolar",
+      "trackId": "4WzsycqZkpkS48H9AAAGux",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b9b7e3d991170e3435dbe27f255e6f87d8c848c6",
+      "release_date": "2018-03-07"
+    },
+    {
+      "featuredArtist": "Cardi B",
+      "featuredArtistId": "4kYSro6naA4h99UJvo89HB",
+      "trackName": "Ahora Dice - Real Hasta La Muerte Remix",
+      "trackId": "5JrI3Wxx71pwxmtTC7jXys",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/de76c0afd734d17e842bc8111a4fad62ba3ab9af",
+      "release_date": "2018-02-12"
+    },
+    {
+      "featuredArtist": "Offset",
+      "featuredArtistId": "4DdkRBBYG6Yk9Ka8tdJ9BW",
+      "trackName": "Ahora Dice - Real Hasta La Muerte Remix",
+      "trackId": "5JrI3Wxx71pwxmtTC7jXys",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/de76c0afd734d17e842bc8111a4fad62ba3ab9af",
+      "release_date": "2018-02-12"
+    },
+    {
+      "featuredArtist": "Anuel",
+      "featuredArtistId": "00VnRQuhdfjkeaXeDu5dlW",
+      "trackName": "Ahora Dice - Real Hasta La Muerte Remix",
+      "trackId": "5JrI3Wxx71pwxmtTC7jXys",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/de76c0afd734d17e842bc8111a4fad62ba3ab9af",
+      "release_date": "2018-02-12"
+    },
+    {
+      "featuredArtist": "Arcangel",
+      "featuredArtistId": "4SsVbpTthjScTS7U2hmr1X",
+      "trackName": "Ahora Dice - Real Hasta La Muerte Remix",
+      "trackId": "5JrI3Wxx71pwxmtTC7jXys",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/de76c0afd734d17e842bc8111a4fad62ba3ab9af",
+      "release_date": "2018-02-12"
+    },
+    {
+      "featuredArtist": "Romeo Santos",
+      "featuredArtistId": "5lwmRuXgjX8xIwlnauTZIP",
+      "trackName": "El Farsante - Remix",
+      "trackId": "7uYgVgRSgqluZclLS7wpp4",
+      "preview": "https://p.scdn.co/mp3-preview/55fa66cca3c635458dde0151d00e3410f0b53232?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4dfdca2727fa0bb664d3b2439094b6dc7a7817b7",
+      "release_date": "2018-01-30"
+    },
+    {
+      "featuredArtist": "Mambo Kingz",
+      "featuredArtistId": "2T1aUibqR2QC2sINIDQOAK",
+      "trackName": "Solita",
+      "trackId": "7rwX0O3RlxqqIjQM8evm5E",
+      "preview": "https://p.scdn.co/mp3-preview/bd3216abc14f9333ad2399f817a0c202f302cfc7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef8c35bbc28c95ceb5b517766e6a0bcdc892fd53",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "DJ Luian",
+      "featuredArtistId": "64aJYyrXljOodnUG6jvhRD",
+      "trackName": "Solita",
+      "trackId": "7rwX0O3RlxqqIjQM8evm5E",
+      "preview": "https://p.scdn.co/mp3-preview/bd3216abc14f9333ad2399f817a0c202f302cfc7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef8c35bbc28c95ceb5b517766e6a0bcdc892fd53",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Bad Bunny",
+      "featuredArtistId": "4q3ewBCX7sLwd24euuV69X",
+      "trackName": "Solita",
+      "trackId": "7rwX0O3RlxqqIjQM8evm5E",
+      "preview": "https://p.scdn.co/mp3-preview/bd3216abc14f9333ad2399f817a0c202f302cfc7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef8c35bbc28c95ceb5b517766e6a0bcdc892fd53",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Wisin",
+      "featuredArtistId": "3E6xrwgnVfYCrCs0ePERDz",
+      "trackName": "Solita",
+      "trackId": "7rwX0O3RlxqqIjQM8evm5E",
+      "preview": "https://p.scdn.co/mp3-preview/bd3216abc14f9333ad2399f817a0c202f302cfc7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef8c35bbc28c95ceb5b517766e6a0bcdc892fd53",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Almighty",
+      "featuredArtistId": "6P6GTRTigHBp8ZesNtpCKH",
+      "trackName": "Solita",
+      "trackId": "7rwX0O3RlxqqIjQM8evm5E",
+      "preview": "https://p.scdn.co/mp3-preview/bd3216abc14f9333ad2399f817a0c202f302cfc7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef8c35bbc28c95ceb5b517766e6a0bcdc892fd53",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Post Malone",
+      "featuredArtistId": "246dkjvS1zLTtiykXe5h60",
+      "trackName": "rockstar - Remix",
+      "trackId": "4fy6HNnu1XXq2j1Y56EP2H",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d727923b0075cbf138901518c5a34b66a66749e0",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Daddy Yankee",
+      "featuredArtistId": "4VMYDCV2IEDYJArk749S6m",
+      "trackName": "El Desorden",
+      "trackId": "0JOUrhZGMCx3lk9VosAQWl",
+      "preview": "https://p.scdn.co/mp3-preview/1b3780b62b17f6046d6130e247dc82a48aeeca8b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b5db202c4cb3c2b1d58ae60de5e1bf948fc51374",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Plan B",
+      "featuredArtistId": "2jSGzJw0ebJLu7OLVSOcBP",
+      "trackName": "El Desorden",
+      "trackId": "0JOUrhZGMCx3lk9VosAQWl",
+      "preview": "https://p.scdn.co/mp3-preview/1b3780b62b17f6046d6130e247dc82a48aeeca8b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b5db202c4cb3c2b1d58ae60de5e1bf948fc51374",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Goldy Boy",
+      "featuredArtistId": "65skAdklXLoOm2Klks0Hud",
+      "trackName": "El Final Remix",
+      "trackId": "1U5vNXDtpgrXwhBmyLRbuV",
+      "preview": "https://p.scdn.co/mp3-preview/baac3c0dc9ab2145ebcd0bb3a60251071f5a1c90?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/781cddc8d3f5d64aa62d0e581707219999e9479a",
+      "release_date": "2017-11-14"
+    },
+    {
+      "featuredArtist": "El Potro Alvarez",
+      "featuredArtistId": "6P4uOSrdyHqsyLDVcBYUry",
+      "trackName": "Secreto",
+      "trackId": "6P1gDVKRr6dOeICSTsS5Vk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7b3e8df6bca23c54f3c5186138ffd77704490dc5",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Natti Natasha",
+      "featuredArtistId": "1GDbiv3spRmZ1XdM1jQbT7",
+      "trackName": "Criminal",
+      "trackId": "6Za3190Sbw39BBC77WSS1C",
+      "preview": "https://p.scdn.co/mp3-preview/13129567427f77306bba8a9a5cf51de76db5372b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/51788420d6919eb034c448975c7fedf5c8bf8428",
+      "release_date": "2017-09-01"
+    },
+    {
+      "featuredArtist": "Eloy",
+      "featuredArtistId": "0eet2VBconGGtNYJ0CBgHu",
+      "trackName": "Humo y Alcohol (Remix)",
+      "trackId": "4NjgeSwE6UdluFDZjm26fw",
+      "preview": "https://p.scdn.co/mp3-preview/fd5bd51bd79e4a1e082b523b92b964746f2e9c4b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db5bd56f4c2304ec845e7294476e5ce3b60ad89f",
+      "release_date": "2017-08-08"
+    },
+    {
+      "featuredArtist": "Super A",
+      "featuredArtistId": "4jR9ULEigWWxJWdCYs9KH2",
+      "trackName": "Humo y Alcohol (Remix)",
+      "trackId": "4NjgeSwE6UdluFDZjm26fw",
+      "preview": "https://p.scdn.co/mp3-preview/fd5bd51bd79e4a1e082b523b92b964746f2e9c4b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db5bd56f4c2304ec845e7294476e5ce3b60ad89f",
+      "release_date": "2017-08-08"
+    },
+    {
+      "featuredArtist": "Alex Sensation",
+      "featuredArtistId": "0OROVBEZCocg0FcgJpyBse",
+      "trackName": "Que Va",
+      "trackId": "6J1R5wtPXiHiwiPstOSI56",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a07db417fe5bdebcf2d72a5df4b05a84b055b3e3",
+      "release_date": "2017-08-04"
+    }
+  ]
+}

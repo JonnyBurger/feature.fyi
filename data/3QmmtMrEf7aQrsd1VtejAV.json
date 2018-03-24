@@ -1,0 +1,41 @@
+{
+  "artistName": "Mœnia",
+  "features": [
+    {
+      "featuredArtist": "Maria León",
+      "featuredArtistId": "376abaUMuz7i7YvoxedTof",
+      "trackName": "Prohibido Besar",
+      "trackId": "3yYk0bGnDJBDIITo1UOJMg",
+      "preview": "https://p.scdn.co/mp3-preview/7f0331984c968fdbdff4b609ec72bdb79687f18c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/02680b73a28434331d15caddcec620d067ab03d9",
+      "release_date": "2016-09-23"
+    },
+    {
+      "featuredArtist": "María José",
+      "featuredArtistId": "1dJyh390MvfYPuNbhnbSDs",
+      "trackName": "No Importa Que el Sol Se Muera",
+      "trackId": "6bvsoJPJU3zjK4w1MGSP1F",
+      "preview": "https://p.scdn.co/mp3-preview/4dbc6dd9291105fef541ae5ab4f37e824e53a4bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f7cd7e546c07f98b44e8f593610d95d92d7a5a1d",
+      "release_date": "2009-11-23"
+    },
+    {
+      "featuredArtist": "Juan Carlos Lozano",
+      "featuredArtistId": "78aNN6uVP1ONGNSsy9sIfe",
+      "trackName": "Contigo Estare - A Dueto Con Juan Carlos Lozano",
+      "trackId": "0eZG7qbLMvrHInifYPHiQI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f7cd7e546c07f98b44e8f593610d95d92d7a5a1d",
+      "release_date": "2009-11-23"
+    },
+    {
+      "featuredArtist": "Jorge González",
+      "featuredArtistId": "4Dqwi7dnhN0j8X1i98mdKG",
+      "trackName": "Tren al Sur - En Vivo",
+      "trackId": "31P8tpnecSBt24xmJlX77p",
+      "preview": "https://p.scdn.co/mp3-preview/fac23858092055d2edb7760b5959d8b4342b5f99?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6aea9be583c373736a8650b9e41572ad861d55b3",
+      "release_date": "2005-11-22"
+    }
+  ]
+}

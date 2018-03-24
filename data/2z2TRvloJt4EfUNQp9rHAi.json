@@ -1,0 +1,437 @@
+{
+  "artistName": "Alonzo",
+  "features": [
+    {
+      "featuredArtist": "Amel Bent",
+      "featuredArtistId": "15jZ8OLtnGATWHlQkltG7f",
+      "trackName": "100%",
+      "trackId": "6gu2Ys4NABK47ETMsc3oRR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/558b728dc8e1f5da7ae66350ee7f47a529f4ca4f",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "Dadju",
+      "featuredArtistId": "2zHzn2oA1QJOB8SPIpoiYD",
+      "trackName": "La paix n'a pas de prix",
+      "trackId": "2jouPyMpPwNe70eY5VsNXE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/558b728dc8e1f5da7ae66350ee7f47a529f4ca4f",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "Soprano",
+      "featuredArtistId": "2RJBv9wXbW6m539q9NOfW1",
+      "trackName": "Ma famille",
+      "trackId": "5WBqAYC4HsLhBbRYUAoYT1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/558b728dc8e1f5da7ae66350ee7f47a529f4ca4f",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "Lartiste",
+      "featuredArtistId": "6HhnhnxLsowYuuejvku0Bz",
+      "trackName": "Dalé",
+      "trackId": "2SFYU665S55XgA5EJwjbSu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/558b728dc8e1f5da7ae66350ee7f47a529f4ca4f",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "MHD",
+      "featuredArtistId": "4WnAHZz1pgl8hus8hidIRV",
+      "trackName": "Feu d'artifice",
+      "trackId": "0narZ8oBnATS41eciqGbnp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/558b728dc8e1f5da7ae66350ee7f47a529f4ca4f",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "Jul",
+      "featuredArtistId": "3IW7ScrzXmPvZhB27hmfgy",
+      "trackName": "Ils le savent",
+      "trackId": "3AgYLEbNlYhCdHTxF9lmKe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c3bf62941e201b75bf651c1220362429426d9231",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Leslie",
+      "featuredArtistId": "4qtpVWf7iBzWhWOoabaixz",
+      "trackName": "Madame Alonzo",
+      "trackId": "5Dd8Vka5OvYrOzgR1PV793",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c3bf62941e201b75bf651c1220362429426d9231",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Spike Miller",
+      "featuredArtistId": "45X8EgDKkHWJzmh0mtx9D1",
+      "trackName": "Oh My God - Bonus",
+      "trackId": "4yF7e7PvU9LlxOmPfeZb8S",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c3bf62941e201b75bf651c1220362429426d9231",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Benash",
+      "featuredArtistId": "53loJtHWjCG1TyKarW2mzk",
+      "trackName": "Cauchemar",
+      "trackId": "3xxcuiONWufoYP7r9LAcEG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f7fe08e413cf655f7290fd0026fee1a92ac3bf71",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "Le Rat Luciano",
+      "featuredArtistId": "5QuZ9HdvnXcX8kEG782Phv",
+      "trackName": "On craint degun",
+      "trackId": "6wuHgmVuMlnbEUKyPql5JI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f7fe08e413cf655f7290fd0026fee1a92ac3bf71",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "Dr. Beriz",
+      "featuredArtistId": "6xrmcNsyd2topX3r1suglc",
+      "trackName": "B.G",
+      "trackId": "45yowWQsj2H3N2OXHq4IKI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f7fe08e413cf655f7290fd0026fee1a92ac3bf71",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "Booba",
+      "featuredArtistId": "58wXmynHaAWI5hwlPZP3qL",
+      "trackName": "Même tarif",
+      "trackId": "6Zx8PuLzpvnsxNo0mlR7i4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/757d5a18b8487e23c1a063374b91341088446879",
+      "release_date": "2015-01-26"
+    },
+    {
+      "featuredArtist": "Maître Gims",
+      "featuredArtistId": "0GOx72r5AAEKRGQFn3xqXK",
+      "trackName": "Dans son sac",
+      "trackId": "5TTJRbNd7kdAEf4hXi2pQV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/757d5a18b8487e23c1a063374b91341088446879",
+      "release_date": "2015-01-26"
+    },
+    {
+      "featuredArtist": "Gradur",
+      "featuredArtistId": "2tcoLkA9Hexz70Kuc1NTUl",
+      "trackName": "Brinks",
+      "trackId": "4gAVftGcZq52rXgx8xncm7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/757d5a18b8487e23c1a063374b91341088446879",
+      "release_date": "2015-01-26"
+    },
+    {
+      "featuredArtist": "Houssein",
+      "featuredArtistId": "3iI20Zqnsk86sWr1T7YOxs",
+      "trackName": "Bronzé à vie",
+      "trackId": "1liJS9gTHo6jAvHTmPqzYX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/757d5a18b8487e23c1a063374b91341088446879",
+      "release_date": "2015-01-26"
+    },
+    {
+      "featuredArtist": "Lacrim",
+      "featuredArtistId": "7DUTsWY3RBd64vh8UtgtYA",
+      "trackName": "Merci",
+      "trackId": "2mj7DGBTJvTL76hAGe8BW4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/757d5a18b8487e23c1a063374b91341088446879",
+      "release_date": "2015-01-26"
+    },
+    {
+      "featuredArtist": "Psy 4 De La Rime",
+      "featuredArtistId": "2CLtDhw1uJe59E3P56JN6T",
+      "trackName": "Mirobolant",
+      "trackId": "6CxaYT40NKxEVkmOJBRQBg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/71ab04a4bb0ca9112eae2fe74e7dc3baa83fa1ca",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Kenza Farah",
+      "featuredArtistId": "6WBf0WXqyBkCCYAEPUeDxn",
+      "trackName": "Midnight Express",
+      "trackId": "1cRzXEACEdFVlkP3Tm6NLD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/71ab04a4bb0ca9112eae2fe74e7dc3baa83fa1ca",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Makiavel",
+      "featuredArtistId": "1c1ZO2a3ghWTpqgSF6BXR8",
+      "trackName": "GP 800",
+      "trackId": "7lQOONtRGO5zkoeesKWHq2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/71ab04a4bb0ca9112eae2fe74e7dc3baa83fa1ca",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Fahar",
+      "featuredArtistId": "4hpTPFhq6Ok3wGhFqa7pGy",
+      "trackName": "Bête Et Méchant",
+      "trackId": "16cZh1njmuPBqhrI6F7C9b",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/71ab04a4bb0ca9112eae2fe74e7dc3baa83fa1ca",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "M.O.H.",
+      "featuredArtistId": "3F0oLG6mtHUrhglsRCITuF",
+      "trackName": "Bête Et Méchant",
+      "trackId": "16cZh1njmuPBqhrI6F7C9b",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/71ab04a4bb0ca9112eae2fe74e7dc3baa83fa1ca",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Kalif Hardcore",
+      "featuredArtistId": "12rqcxsx28NPNRwPOEBxYG",
+      "trackName": "Bête Et Méchant",
+      "trackId": "16cZh1njmuPBqhrI6F7C9b",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/71ab04a4bb0ca9112eae2fe74e7dc3baa83fa1ca",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "L'Algérino",
+      "featuredArtistId": "7kyIBL1EYouLqC8vw7IOui",
+      "trackName": "Bête Et Méchant",
+      "trackId": "16cZh1njmuPBqhrI6F7C9b",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/71ab04a4bb0ca9112eae2fe74e7dc3baa83fa1ca",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Akhenaton",
+      "featuredArtistId": "4ddg7PH5OuSossiSBWgueu",
+      "trackName": "Lilipute",
+      "trackId": "2Tk37pPT7b2CfIV6hPL58k",
+      "preview": "https://p.scdn.co/mp3-preview/37c9426426a14ac6e6c82d756a81fe84b47b8c41?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Tonyno",
+      "featuredArtistId": "3y4po7tLaQ5p4ZDCcFvzft",
+      "trackName": "Arrive en gros cube",
+      "trackId": "3nOxOFbFzbIWndiAAR0KEz",
+      "preview": "https://p.scdn.co/mp3-preview/c20029fd3d0139c8a3839c9c9295f7e5cba7c005?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Jehda",
+      "featuredArtistId": "5SSjQJjH97qtmEB2mDmauX",
+      "trackName": "Comme des champions",
+      "trackId": "5Gfq7pzxhSs4M14Eg3d1CC",
+      "preview": "https://p.scdn.co/mp3-preview/dd165070fbaa7359e28be09d4a6be8f830046b8b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Rim'K",
+      "featuredArtistId": "2eh8cEKZk4VeruUrGq748D",
+      "trackName": "On flirte",
+      "trackId": "4uL1FwVMRT3QGFsFA6Jd2P",
+      "preview": "https://p.scdn.co/mp3-preview/8c0a7400672e74b74c22c9d2dfef0a199a830cf1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Saleem",
+      "featuredArtistId": "1EsGSU1T8erJCcsxrndQWP",
+      "trackName": "Le son des bandits",
+      "trackId": "5PuZbI9OYlxyVFGpxVIwNK",
+      "preview": "https://p.scdn.co/mp3-preview/0d772f0dc4f948ee83f47c8fd871f69df9a94b49?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Mech",
+      "featuredArtistId": "6MhYC5TZzVzLKGMEHBC03a",
+      "trackName": "J'ai l'impression",
+      "trackId": "4ac8lGJU7C8vBSzeBVVumq",
+      "preview": "https://p.scdn.co/mp3-preview/5f137a5a719b6425c16e3ce5bcd41dead688c02d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Zola",
+      "featuredArtistId": "1il7muQWg9fQsUTReNWBpJ",
+      "trackName": "Minuit",
+      "trackId": "7tXXnI4AUZ7cgcWCJw9yMO",
+      "preview": "https://p.scdn.co/mp3-preview/4e6678cb2e585ea6b1643ca30792bbd28877c35b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Sal",
+      "featuredArtistId": "13VjcTY5mDYndmHoOzwQPW",
+      "trackName": "Minuit",
+      "trackId": "7tXXnI4AUZ7cgcWCJw9yMO",
+      "preview": "https://p.scdn.co/mp3-preview/4e6678cb2e585ea6b1643ca30792bbd28877c35b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Salif",
+      "featuredArtistId": "43MnKJFpiqBVhI0jnOjZj4",
+      "trackName": "Macadam fight",
+      "trackId": "24PhpQxZ34a0xdwzqJzA2C",
+      "preview": "https://p.scdn.co/mp3-preview/1706a91a59a5748e15f6c312bb91b42c7d5205ab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "L'Algé",
+      "featuredArtistId": "3dTP98Ro3Mbc62bv3T2uR8",
+      "trackName": "Allo la jungle",
+      "trackId": "1c4Bl3e0FWmlBu6xLrvjcW",
+      "preview": "https://p.scdn.co/mp3-preview/5e9eb66bbf46168c68d89017e065aef7e012ffd0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Cobna",
+      "featuredArtistId": "2SioWVKYACi4U8oK1wouYz",
+      "trackName": "Avait-il prévu",
+      "trackId": "2XiAWESmy3CJsabMCMzkDN",
+      "preview": "https://p.scdn.co/mp3-preview/94ca5e88fd52f7ada4cde60be2a8dbbe0303b6eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Sans Pression",
+      "featuredArtistId": "4WRTfy1amcikjn8lvpd5pS",
+      "trackName": "Avait-il prévu",
+      "trackId": "2XiAWESmy3CJsabMCMzkDN",
+      "preview": "https://p.scdn.co/mp3-preview/94ca5e88fd52f7ada4cde60be2a8dbbe0303b6eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Psy 4",
+      "featuredArtistId": "7yRpSLPnboz7CD13wh8ds0",
+      "trackName": "Sans stress",
+      "trackId": "3psgaml8pqMalpIpkA2EYy",
+      "preview": "https://p.scdn.co/mp3-preview/f345f29ca55bea83c9215597a854a632852c0cbc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Lygne",
+      "featuredArtistId": "5uTC5669pSboVJ7uA0H2nv",
+      "trackName": "Sans stress",
+      "trackId": "3psgaml8pqMalpIpkA2EYy",
+      "preview": "https://p.scdn.co/mp3-preview/f345f29ca55bea83c9215597a854a632852c0cbc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Kennedy",
+      "featuredArtistId": "0bTx3GxGfNM5Kl3Q27M4Dl",
+      "trackName": "A notre age",
+      "trackId": "2CGF11O7p2zhYA6MHDkte9",
+      "preview": "https://p.scdn.co/mp3-preview/bd22d8d973adfb09eb38233acf841041f1db9521?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Soprano",
+      "featuredArtistId": "2vIAYdLZKlpcBczHsettCl",
+      "trackName": "The world needs you",
+      "trackId": "2pbeBI6mfY1Z4XYDmPIVnU",
+      "preview": "https://p.scdn.co/mp3-preview/166c8414f1978a86f1191522410110c5d43122b0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "S.Teban",
+      "featuredArtistId": "4lfPgE2kXIK6ih1gwKIYuf",
+      "trackName": "The world needs you",
+      "trackId": "2pbeBI6mfY1Z4XYDmPIVnU",
+      "preview": "https://p.scdn.co/mp3-preview/166c8414f1978a86f1191522410110c5d43122b0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Sale Equipe",
+      "featuredArtistId": "4SdbgL1l75Ih6LptGArKIj",
+      "trackName": "Parole de jeune",
+      "trackId": "6joc5AazTPvDlR3o3oXAba",
+      "preview": "https://p.scdn.co/mp3-preview/6a536853ba157a75cca5565b269761010da015ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Sinik",
+      "featuredArtistId": "1ONnyhQBTnkvg4QmI97hJg",
+      "trackName": "La rue en direct",
+      "trackId": "0mAxuUVk0IaPkSPstubJkC",
+      "preview": "https://p.scdn.co/mp3-preview/fc008d16f65adbf316afee05fa8ccc2698434263?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Medine",
+      "featuredArtistId": "1afjj7vSBkpIjkiJdSV6bV",
+      "trackName": "La rue en direct",
+      "trackId": "0mAxuUVk0IaPkSPstubJkC",
+      "preview": "https://p.scdn.co/mp3-preview/fc008d16f65adbf316afee05fa8ccc2698434263?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Lygne 26",
+      "featuredArtistId": "3h6lWvAjhXjwlfzWVcpbSq",
+      "trackName": "On vous aime tant",
+      "trackId": "4SIWgYTbpt0ANG5BQ7vRvv",
+      "preview": "https://p.scdn.co/mp3-preview/c52dafe6f91232c7c85408435366f74275486c88?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3869b78bfd988bfaf981eb6992b38d10998d79bd",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Ekila",
+      "featuredArtistId": "7Ar4ndOu7T4VmbwLjHAjJq",
+      "trackName": "Chacun Son Vice",
+      "trackId": "7b9gw73pf9QFN0c7oV6krj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/00254b8e94f24a44a80a0ea4a8672a0e343b0150",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Mohamed Diaby",
+      "featuredArtistId": "1CHqRXInztOmKRYFbpw8Cs",
+      "trackName": "C'Est Vrai",
+      "trackId": "3zFS5oyszDGF8fc3WShuYP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/00254b8e94f24a44a80a0ea4a8672a0e343b0150",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Francisco",
+      "featuredArtistId": "4a9VmSWj1mwnvEhxAj1tLA",
+      "trackName": "Top Gun",
+      "trackId": "3AdM1qTpiAFsltiBvVKvXy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/00254b8e94f24a44a80a0ea4a8672a0e343b0150",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Ghost Dog",
+      "featuredArtistId": "0SBO0y6mqthffADMmav7SB",
+      "trackName": "Urgence",
+      "trackId": "0IlJKzm4uUfLQibtcTx2Ol",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/00254b8e94f24a44a80a0ea4a8672a0e343b0150",
+      "release_date": "2010-01-01"
+    }
+  ]
+}

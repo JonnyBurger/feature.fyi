@@ -1,0 +1,32 @@
+{
+  "artistName": "Taylor Swift",
+  "features": [
+    {
+      "featuredArtist": "Ed Sheeran",
+      "featuredArtistId": "6eUKZXaKkcviH0Ku9w2n3V",
+      "trackName": "End Game",
+      "trackId": "3JbSLr2OhsivV46whJyGeb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d0da34b6a4bd2a0f5e8302a1cc1fd98fba53abfe",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Future",
+      "featuredArtistId": "1RyvyyTE3xzB2ZywiAwp0i",
+      "trackName": "End Game",
+      "trackId": "3JbSLr2OhsivV46whJyGeb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d0da34b6a4bd2a0f5e8302a1cc1fd98fba53abfe",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Gary Lightbody",
+      "featuredArtistId": "3fCQnw6VSudXBTN5d2QP2z",
+      "trackName": "The Last Time",
+      "trackId": "42UlriTopMxIsb9j3Lhw1i",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d2e3717dba253e1d02aeff23d3e184a3bc1fcfaa",
+      "release_date": "2012-10-22"
+    }
+  ]
+}

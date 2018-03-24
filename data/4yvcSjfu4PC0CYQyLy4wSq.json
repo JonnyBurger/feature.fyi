@@ -1,0 +1,50 @@
+{
+  "artistName": "Glass Animals",
+  "features": [
+    {
+      "featuredArtist": "Zodiac",
+      "featuredArtistId": "1qhkYLiyOSzQ4yaN66oWVl",
+      "trackName": "Black Mambo - (Zodiac Remix) [Bonus Track]",
+      "trackId": "2Toa44XMSW78FOtARKX8Kg",
+      "preview": "https://p.scdn.co/mp3-preview/bc90d17e7616f83ac1fec2270927562dc4c987e5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e39467d73700aed9bbdfa03cc9538b7e43eba4c",
+      "release_date": "2014-06-10"
+    },
+    {
+      "featuredArtist": "Gilligan Moss",
+      "featuredArtistId": "2fo0F81pRzdXjmWP6MkQqB",
+      "trackName": "Gooey - (Gilligan Moss Remix) [Bonus Track]",
+      "trackId": "1UHOH2zS6lInYIQSUIdvnD",
+      "preview": "https://p.scdn.co/mp3-preview/2504d76468c103582cf71aaa74523716ffec3cf1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e39467d73700aed9bbdfa03cc9538b7e43eba4c",
+      "release_date": "2014-06-10"
+    },
+    {
+      "featuredArtist": "Jackson And His Computer Band",
+      "featuredArtistId": "7Jdjjb3kJWyPmV5MbdVdTv",
+      "trackName": "Pools - Jackson And His Computer Band Remix / Bonus Track",
+      "trackId": "3KQpqdGO6dJNLvTwZILfvI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bff2045f04b67056a31f11c065b3d6019aaab0ca",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Roosevelt",
+      "featuredArtistId": "4AQrqVz6BYwy29iMxcGtx7",
+      "trackName": "Pools - Roosevelt Remix / Bonus Track",
+      "trackId": "0zZdUmJhefdt9zasfN4nfw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bff2045f04b67056a31f11c065b3d6019aaab0ca",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Photay",
+      "featuredArtistId": "1MSxOmIt7uYgvPydd1tU8F",
+      "trackName": "Season 2 Episode 3 - Photay Remix",
+      "trackId": "7yAcMHrkfnCoFp92mgSGCr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/31df1dc5d6ece6846026d88884f8f14120bfe765",
+      "release_date": "2016-12-02"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "artistName": "Marc E. Bassy",
+  "features": [
+    {
+      "featuredArtist": "G-Eazy",
+      "featuredArtistId": "02kJSzxNuaWGqwubyUba0Z",
+      "trackName": "So Simple",
+      "trackId": "5iefdCT5CaPcPk3tqT3omf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/05fe4e6720904005efc0f3f3876816f1c4798a98",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Kyle",
+      "featuredArtistId": "2enun14RUFTmdqOBYiZ5wn",
+      "trackName": "Plot Twist",
+      "trackId": "0VbQJWkW4Tt0UI5HwJsV28",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/05fe4e6720904005efc0f3f3876816f1c4798a98",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Kehlani",
+      "featuredArtistId": "0cGUm45nv7Z6M6qdXYQGTX",
+      "trackName": "Made Love First",
+      "trackId": "7fUapQLcMP2yXNTm8KPfjK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/05fe4e6720904005efc0f3f3876816f1c4798a98",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Bobby Brackins",
+      "featuredArtistId": "72rsQfzxNVLPpbzQzXVJSc",
+      "trackName": "Gossip Columns",
+      "trackId": "6Rzkkk6xJVouemexGlJfyL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/05fe4e6720904005efc0f3f3876816f1c4798a98",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "YG",
+      "featuredArtistId": "0A0FS04o6zMoto8OKPsDwY",
+      "trackName": "Westside Love",
+      "trackId": "6e56sjhrnUjj466mdtFElO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/05fe4e6720904005efc0f3f3876816f1c4798a98",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Hailee Steinfeld",
+      "featuredArtistId": "5p7f24Rk5HkUZsaS3BLG5F",
+      "trackName": "Plot Twist - Remix (Bonus)",
+      "trackId": "1tb45ItVK0NjDElwzJ0QM6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/05fe4e6720904005efc0f3f3876816f1c4798a98",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Hbk P-Lo",
+      "featuredArtistId": "6d9eHEyrFgPbeTVXt8WEQy",
+      "trackName": "Free Love",
+      "trackId": "6vORHEhBEYKstdhbk5qvVo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b269e3119a668af55e43fd0265d38e1bab92d653",
+      "release_date": "2015-12-18"
+    },
+    {
+      "featuredArtist": "Ty Dolla $ign",
+      "featuredArtistId": "7c0XG5cIJTrrAgEC3ULPiq",
+      "trackName": "That's Love",
+      "trackId": "76KTgKgTMnHgXNp2j4rSmD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b269e3119a668af55e43fd0265d38e1bab92d653",
+      "release_date": "2015-12-18"
+    },
+    {
+      "featuredArtist": "Iamsu!",
+      "featuredArtistId": "2ZavqCJe7uqkRpISes0NFi",
+      "trackName": "Relapse (feat. Iamsu!)",
+      "trackId": "0LFqxv7O10lq49g4wpJ1ht",
+      "preview": "https://p.scdn.co/mp3-preview/202484a55699533be6824a8308c8f86fad5ec778?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f264df83d3df0c4cc8d0387867b2764bcb35aff8",
+      "release_date": "2014-07-29"
+    },
+    {
+      "featuredArtist": "NHT Chipass",
+      "featuredArtistId": "1SYI0b7cZ1VirOuE8etSUC",
+      "trackName": "Over The Water (feat. NHT Chipass)",
+      "trackId": "6g1e7bwbtLc4XrXAQzTMFy",
+      "preview": "https://p.scdn.co/mp3-preview/4f66b67e156b8da5da37b7421fa8bb725c48daf6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f264df83d3df0c4cc8d0387867b2764bcb35aff8",
+      "release_date": "2014-07-29"
+    },
+    {
+      "featuredArtist": "Skizzy Mars",
+      "featuredArtistId": "00Z3UDoAQwzvGu13HoAM7J",
+      "trackName": "Smoke To It (feat. Skizzy Mars)",
+      "trackId": "5fqaxa8DPaAauddcg8cR2g",
+      "preview": "https://p.scdn.co/mp3-preview/9f6ea5fd53b743804db4f577d57e87b18abfca66?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f264df83d3df0c4cc8d0387867b2764bcb35aff8",
+      "release_date": "2014-07-29"
+    },
+    {
+      "featuredArtist": "Felix Jaehn",
+      "featuredArtistId": "4bL2B6hmLlMWnUEZnorEtG",
+      "trackName": "Cool (feat. Marc E. Bassy, Gucci Mane)",
+      "trackId": "4268VB0Nw8nKTl2WEpU2oD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0af9a5c6e37778f4adeef030c61743e56a24d924",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Gucci Mane",
+      "featuredArtistId": "13y7CgLHjMVRMDqxdx0Xdo",
+      "trackName": "Cool (feat. Marc E. Bassy, Gucci Mane)",
+      "trackId": "4268VB0Nw8nKTl2WEpU2oD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0af9a5c6e37778f4adeef030c61743e56a24d924",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "KYLE",
+      "featuredArtistId": "4qBgvVog0wzW75IQ48mU7v",
+      "trackName": "Plot Twist",
+      "trackId": "0GTSQhKRb1ZBspk3aCyUnx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c8d1289a486a94f888bcf7207913386978820a44",
+      "release_date": "2016-06-23"
+    }
+  ]
+}

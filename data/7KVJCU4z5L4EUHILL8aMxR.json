@@ -1,0 +1,50 @@
+{
+  "artistName": "Leo Santana",
+  "features": [
+    {
+      "featuredArtist": "Marília Mendonça",
+      "featuredArtistId": "1yR65psqiazQpeM79CcGh8",
+      "trackName": "Incendeia - Ao Vivo",
+      "trackId": "0AWMArc7NIUD0AJGa2TXOH",
+      "preview": "https://p.scdn.co/mp3-preview/4ca5fc7076fd7bb145b2dcdf07acab1d8ca26dbf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f35eb0e1bf40f4a2e149ab81c06d25a183853da2",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "Mc Th",
+      "featuredArtistId": "0bg3fNpRQgZTCAg3Bseyly",
+      "trackName": "Vidro Fumê - Ao Vivo",
+      "trackId": "07MQiwRcOTy8HpQKYFsQeP",
+      "preview": "https://p.scdn.co/mp3-preview/48cb307c26703404d54627924513f717461b865e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f35eb0e1bf40f4a2e149ab81c06d25a183853da2",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "Wesley Safadão",
+      "featuredArtistId": "1AL2GKpmRrKXkYIcASuRFa",
+      "trackName": "Psiquiatra do Bumbum (Bumbum Endoidado)",
+      "trackId": "5RTlMCZVt96sXsG3L2ideT",
+      "preview": "https://p.scdn.co/mp3-preview/5473ff77f9694d06ab0026f4e2543fac715eeaf6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fc6a65088d4f9e9877fe86d0eca6225793df034b",
+      "release_date": "2018-01-12"
+    },
+    {
+      "featuredArtist": "MC Kevinho",
+      "featuredArtistId": "1mXAhKnZEdF6rotyyd4GBi",
+      "trackName": "Encaixa",
+      "trackId": "7yYOMPwpV5CsK0cxoAZT6B",
+      "preview": "https://p.scdn.co/mp3-preview/12ba00f3e2b06e1e8b8539742f5145d79b75a69b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/15f240560cb4f54c5a3dbe8e063c1d1335c4ef54",
+      "release_date": "2017-07-28"
+    },
+    {
+      "featuredArtist": "Mc Charles",
+      "featuredArtistId": "0mBCkBV2KtgPRhr7Z4g4K7",
+      "trackName": "Tropa Inteligente",
+      "trackId": "7BpJqJEzFdjf3FyApG9ALK",
+      "preview": "https://p.scdn.co/mp3-preview/52ee1daf75c93b93c0402651752221fdc008d21b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9381453bb195cc3ea5b02bf89def8c1f28d7cb79",
+      "release_date": "2017-04-28"
+    }
+  ]
+}

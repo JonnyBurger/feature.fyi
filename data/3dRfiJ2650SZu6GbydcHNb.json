@@ -1,0 +1,32 @@
+{
+  "artistName": "John Williams",
+  "features": [
+    {
+      "featuredArtist": "The Japan Philharmonic Symphony Orchestra",
+      "featuredArtistId": "3vCENtYEpke8ZOJegFm0uc",
+      "trackName": "スター・ウォーズ メイン・タイトル",
+      "trackId": "2wZGISAkVE80WFHUPuz3G9",
+      "preview": "https://p.scdn.co/mp3-preview/cf599b2d08efff2ce16ada4286d04c9f185fb0a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ffaf17b4e22879a15c81facefa743c8bceaa91ce",
+      "release_date": "2017-12-13"
+    },
+    {
+      "featuredArtist": "London Symphony Orchestra",
+      "featuredArtistId": "5yxyJsFanEAuwSM5kOuZKc",
+      "trackName": "Star Wars and the Revenge of the Sith",
+      "trackId": "4RNqZI1hWQh0mpM7pmspcI",
+      "preview": "https://p.scdn.co/mp3-preview/ce95632f7de63ad6997ddac4635f1ebede763967?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/37f451b55ce4f9cb5a5315047ddb3d064af3dc50",
+      "release_date": "2017-05-03"
+    },
+    {
+      "featuredArtist": "London Voices",
+      "featuredArtistId": "7y3ULlnKKpeZ4JOKMAJQzK",
+      "trackName": "Star Wars and the Revenge of the Sith",
+      "trackId": "4RNqZI1hWQh0mpM7pmspcI",
+      "preview": "https://p.scdn.co/mp3-preview/ce95632f7de63ad6997ddac4635f1ebede763967?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/37f451b55ce4f9cb5a5315047ddb3d064af3dc50",
+      "release_date": "2017-05-03"
+    }
+  ]
+}

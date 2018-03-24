@@ -1,0 +1,41 @@
+{
+  "artistName": "Jon Hopkins",
+  "features": [
+    {
+      "featuredArtist": "King Creosote",
+      "featuredArtistId": "5SP6T04F8Ic9oftMVfdKkp",
+      "trackName": "First Watch",
+      "trackId": "0CJS9RG3pOfd4DrGICnDNx",
+      "preview": "https://p.scdn.co/mp3-preview/2de71a1d69dda2a53ebc077ea62433d253bf4532?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/118d374fbddaa49366d15a22a029b4a7c2e0c18b",
+      "release_date": "2012-04-17"
+    },
+    {
+      "featuredArtist": "Brian Eno",
+      "featuredArtistId": "7MSUfLeTdDEoZiJPDSBXgi",
+      "trackName": "Emerald and Lime",
+      "trackId": "5hbTbKQXJuZ0qFVerk6jRp",
+      "preview": "https://p.scdn.co/mp3-preview/16dcaf39746a5a2ad02c73c6a3baeab313570906?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ab2c7d7692dd412c98d28e81b377ecd64f9704c9",
+      "release_date": "2010-11-01"
+    },
+    {
+      "featuredArtist": "Leo Abrahams",
+      "featuredArtistId": "6g4q7DPLaVqWGnfMpAb2Yd",
+      "trackName": "Emerald and Lime",
+      "trackId": "5hbTbKQXJuZ0qFVerk6jRp",
+      "preview": "https://p.scdn.co/mp3-preview/16dcaf39746a5a2ad02c73c6a3baeab313570906?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ab2c7d7692dd412c98d28e81b377ecd64f9704c9",
+      "release_date": "2010-11-01"
+    },
+    {
+      "featuredArtist": "Raphaelle Standell",
+      "featuredArtistId": "7GbatvHpE8ntSPUpOPA2kq",
+      "trackName": "Form By Firelight",
+      "trackId": "2kG3x1wZUg9e9xMUmQc4Hw",
+      "preview": "https://p.scdn.co/mp3-preview/c7b335d52c2ff3b24a5cd73f50cc44cdfe8b480b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f7e05dcb1e8e9cc723d364cfef8fe86e8b079482",
+      "release_date": "2014-11-10"
+    }
+  ]
+}

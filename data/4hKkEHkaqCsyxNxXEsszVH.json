@@ -1,0 +1,122 @@
+{
+  "artistName": "John Travolta",
+  "features": [
+    {
+      "featuredArtist": "Olivia Newton-John",
+      "featuredArtistId": "4BoRxUdrcgbbq1rxJvvhg9",
+      "trackName": "Baby It's Cold Outside",
+      "trackId": "7phfakxI404JNMhDa5PXHq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/526eed8bd6febe6c3e79719475aefb1696289adf",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Kenny G",
+      "featuredArtistId": "6I3M904Y9IwgDjrQ9pANiB",
+      "trackName": "Rockin' Around The Christmas Tree",
+      "trackId": "64H4iwmDl5hYzxXD11ejSb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/526eed8bd6febe6c3e79719475aefb1696289adf",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Barbra Streisand",
+      "featuredArtistId": "7jmTilWYlKOuavFfmQAcu6",
+      "trackName": "I'll Be Home For Christmas",
+      "trackId": "7IaD2f9OFolfjGYn8voHIY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/526eed8bd6febe6c3e79719475aefb1696289adf",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Chick Corea",
+      "featuredArtistId": "5olDKSsFhhmwh8UCWwKtpq",
+      "trackName": "This Christmas",
+      "trackId": "0bJGmLnI8BTwgGdsT2noOI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/526eed8bd6febe6c3e79719475aefb1696289adf",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Cliff Richard",
+      "featuredArtistId": "2nvKpWcP8etYTq4JrRiUiy",
+      "trackName": "Have Yourself A Merry Little Christmas",
+      "trackId": "2ZKMSC95JhL4YuRsjxMh1S",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/526eed8bd6febe6c3e79719475aefb1696289adf",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Tony Bennett",
+      "featuredArtistId": "2lolQgalUvZDfp5vvVtTYV",
+      "trackName": "Winter Wonderland",
+      "trackId": "4fppgDL7kQjucki1z0A5mw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/526eed8bd6febe6c3e79719475aefb1696289adf",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Count Basie Orchestra",
+      "featuredArtistId": "2Hn9fch2OLB5jZuEAVjTCe",
+      "trackName": "Winter Wonderland",
+      "trackId": "4fppgDL7kQjucki1z0A5mw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/526eed8bd6febe6c3e79719475aefb1696289adf",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "James Taylor",
+      "featuredArtistId": "0vn7UBvSQECKJm2817Yf1P",
+      "trackName": "Deck The Halls",
+      "trackId": "0cFX90IKjN7jaTNCK6O1va",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/526eed8bd6febe6c3e79719475aefb1696289adf",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Phil Harding",
+      "featuredArtistId": "3O24hFMrqM3JJHDwavPz8Y",
+      "trackName": "The Grease Mega-Mix",
+      "trackId": "5yKFIVoOmkjV1zIrXdNoKD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/79f18d65d5b952e56326c246c138e260f9fc4b64",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Ian Curnow",
+      "featuredArtistId": "6DcdoHUz893w7Cgojx8DeK",
+      "trackName": "The Grease Mega-Mix",
+      "trackId": "5yKFIVoOmkjV1zIrXdNoKD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/79f18d65d5b952e56326c246c138e260f9fc4b64",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Jim Jacobs",
+      "featuredArtistId": "3pe5jgIKhkaB1yaa1NiWtS",
+      "trackName": "The Grease Mega-Mix",
+      "trackId": "7frXWJk53XCcJuAQuvQwDB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cf2ed81318cc561e7d9ffd2278ffb215dee9323a",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "John Farrar",
+      "featuredArtistId": "3qOJwDZ69EXvsUm4st5aau",
+      "trackName": "The Grease Mega-Mix",
+      "trackId": "7frXWJk53XCcJuAQuvQwDB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cf2ed81318cc561e7d9ffd2278ffb215dee9323a",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Warren Casey",
+      "featuredArtistId": "0BTksrnpwh3Qn6bEQNLbkg",
+      "trackName": "The Grease Mega-Mix",
+      "trackId": "7frXWJk53XCcJuAQuvQwDB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cf2ed81318cc561e7d9ffd2278ffb215dee9323a",
+      "release_date": "2016-04-01"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "artistName": "Robyn",
+  "features": [
+    {
+      "featuredArtist": "Röyksopp",
+      "featuredArtistId": "5nPOO9iTcrs9k6yFffPxjH",
+      "trackName": "None Of Dem",
+      "trackId": "1SuaL0UmZNxt7NKPhYTkns",
+      "preview": "https://p.scdn.co/mp3-preview/94c06d05ecca934894ddc916da1005672521eeab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d63f33052b955b238f9ade210c5e5d8f6ae8b7c",
+      "release_date": "2017-02-07"
+    },
+    {
+      "featuredArtist": "Snoop Dogg",
+      "featuredArtistId": "7hJcb9fa4alzcOq3EaNPoG",
+      "trackName": "U Should Know Better",
+      "trackId": "1KKLcB74ZoaHXTNqbF62UR",
+      "preview": "https://p.scdn.co/mp3-preview/4a1f3d352342ec493e8891f1dacbfcc055498474?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d63f33052b955b238f9ade210c5e5d8f6ae8b7c",
+      "release_date": "2017-02-07"
+    },
+    {
+      "featuredArtist": "Swingfly",
+      "featuredArtistId": "0HKAsgq0Bsl4O9VyWo3g9E",
+      "trackName": "Curriculum Vitae",
+      "trackId": "4GEZWn0H7nYgtNwEVmMnbY",
+      "preview": "https://p.scdn.co/mp3-preview/065dcee429d524d595a29ef80d7354d4ece1a788?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f4e1eddf753ed5021e37b04f131e9125d815c44",
+      "release_date": "2017-01-30"
+    },
+    {
+      "featuredArtist": "RÃ¶yksopp",
+      "featuredArtistId": "2PqHBXeGn3WGg9NbOZaf5z",
+      "trackName": "None Of Dem",
+      "trackId": "6qurOXLOn6u93XRPOc8mq7",
+      "preview": "https://p.scdn.co/mp3-preview/a4289a0ba0cf97be3e7a1ee86db378de2839a1d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7376b8caf1d06f9189c0d13104d5417871319fcf",
+      "release_date": "2010-06-11"
+    }
+  ]
+}

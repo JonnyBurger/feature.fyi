@@ -1,0 +1,59 @@
+{
+  "artistName": "Calum Scott",
+  "features": [
+    {
+      "featuredArtist": "Tiësto",
+      "featuredArtistId": "2o5jDhtHVPhrJdv3cEQ99Z",
+      "trackName": "Dancing On My Own - Tiësto Remix",
+      "trackId": "61mInKdit88U3AKjthOIbY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3788c58552c7ee118055636cc6284e899bf74431",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Leona Lewis",
+      "featuredArtistId": "5lKZWd6HiSCLfnDGrq9RAm",
+      "trackName": "You Are The Reason - Duet Version",
+      "trackId": "4gJAWJnE5cvAAWyTMTxgdY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f1bf7748773c16331ec12b0eb12c92d86bcf26c1",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "MOTi",
+      "featuredArtistId": "1vo8zHmO1KzkuU9Xxh6J7W",
+      "trackName": "You Are The Reason - MOTi Remix",
+      "trackId": "2LHyOsxcugCV3EW6JWvDbF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3abc6e6a5504f7e1013de256d4a1ddf3f38c1e54",
+      "release_date": "2018-01-26"
+    },
+    {
+      "featuredArtist": "John Gibbons",
+      "featuredArtistId": "72luDUYRlE8N8lPSgyhiwo",
+      "trackName": "You Are The Reason - John Gibbons Remix",
+      "trackId": "3Fk1YkUTvuKPTHWJN2QfxQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/57eedde84b52cc41144679d0fcd15138bd4d455b",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Matrix & Futurebound",
+      "featuredArtistId": "41iVQ05he8SrfIWbZQ58N7",
+      "trackName": "Light Us Up (feat. Calum Scott)",
+      "trackId": "44k5lEDd0HY8TxizgLPBsY",
+      "preview": "https://p.scdn.co/mp3-preview/82139ae47c5abd4b167e53f477701de8511ea508?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/916f35e3d20ef536295f90454dc193151a6d58a1",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Nick Talos",
+      "featuredArtistId": "5pCzC0BOLY2MpqYr1qksg2",
+      "trackName": "Light Us Up (feat. Calum Scott) - Nick Talos Remix",
+      "trackId": "4FQYyUHpYobUsqCJlmevgq",
+      "preview": "https://p.scdn.co/mp3-preview/2f6d05a570b17943c99a47848a4d7a2c64a37fad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3df05e5dc76d2aabdcee6ebc689bd8a00e53ed1d",
+      "release_date": "2017-06-15"
+    }
+  ]
+}

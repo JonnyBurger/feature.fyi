@@ -1,0 +1,554 @@
+{
+  "artistName": "Anthony Ramos",
+  "features": [
+    {
+      "featuredArtist": "Broken Luxury",
+      "featuredArtistId": "7pNCWotpCKv6inhjEvVFc3",
+      "trackName": "Freedom",
+      "trackId": "2DnjMjUVDOVguymLst3VU6",
+      "preview": "https://p.scdn.co/mp3-preview/75163f414ac0e8b3e678c10ef9338992b79ba665?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a1a02dadd79ca57b921a03112f8d19091d762fb2",
+      "release_date": "2018-01-20"
+    },
+    {
+      "featuredArtist": "Jasmine Cephas-Jones",
+      "featuredArtistId": "4H3e5t5utgPvj6Nsuda5QF",
+      "trackName": "Freedom",
+      "trackId": "2DnjMjUVDOVguymLst3VU6",
+      "preview": "https://p.scdn.co/mp3-preview/75163f414ac0e8b3e678c10ef9338992b79ba665?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a1a02dadd79ca57b921a03112f8d19091d762fb2",
+      "release_date": "2018-01-20"
+    },
+    {
+      "featuredArtist": "Margot Bingham",
+      "featuredArtistId": "5D9nIzXdwDaG780vQMBfvG",
+      "trackName": "Common Ground",
+      "trackId": "1mRBteDa2gHcJOLGoX9dPB",
+      "preview": "https://p.scdn.co/mp3-preview/c4228e52be22e41baae7836e9dfd91cdd9883fd8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a1a02dadd79ca57b921a03112f8d19091d762fb2",
+      "release_date": "2018-01-20"
+    },
+    {
+      "featuredArtist": "Cynthia Erivo",
+      "featuredArtistId": "46UMQ0cW8ToR8egkBRwAxZ",
+      "trackName": "Alright",
+      "trackId": "69ihi2VwqBiy6Y8KcP9Xfr",
+      "preview": "https://p.scdn.co/mp3-preview/01be1bda48f441e91449a97188b1f2094a46345e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a1a02dadd79ca57b921a03112f8d19091d762fb2",
+      "release_date": "2018-01-20"
+    },
+    {
+      "featuredArtist": "Lin-Manuel Miranda",
+      "featuredArtistId": "4aXXDj9aZnlshx7mzj3W1N",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Alex Lacamoire",
+      "featuredArtistId": "5TLQArskPwpPQULjjE2tsW",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Ana Villafañe",
+      "featuredArtistId": "5lVYBJYVtzSu6YH7vlMuhU",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Camila Cabello",
+      "featuredArtistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Dessa",
+      "featuredArtistId": "2CQAfzpwwaMxj3YNlb4Gbj",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Ednita Nazario",
+      "featuredArtistId": "1Lvrnoz3ZKzzrBuZ446e6P",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Fat Joe",
+      "featuredArtistId": "3ScY9CQxNLQei8Umvpx5g6",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Gilberto Santa Rosa",
+      "featuredArtistId": "27vNK840zYq6IfDijHPsv1",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Gina Rodriguez",
+      "featuredArtistId": "5oC6sik8OGWHW5k4cdnEca",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Gloria Estefan",
+      "featuredArtistId": "5IFCkqu9J6xdWeYMk5I889",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Jennifer Lopez",
+      "featuredArtistId": "2DlGxzQSjYe5N6G9nkYghR",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Joell Ortiz",
+      "featuredArtistId": "1q13yHC6Syg5Y8iPLrRnCq",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "John Leguizamo",
+      "featuredArtistId": "26nStRV6Waedt17W4Uhx6l",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Juan Luis Guerra 4.40",
+      "featuredArtistId": "3nlpTZci9O5W8RsNoNH559",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Luis Fonsi",
+      "featuredArtistId": "4V8Sr092TqfHkfAA5fXXqG",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Marc Anthony",
+      "featuredArtistId": "4wLXwxDeWQ8mtUIRPxGiD6",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Pj Sin Suela",
+      "featuredArtistId": "0AdjzZxHJ4MfbImx2rD0Df",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Pedro Capó",
+      "featuredArtistId": "4QVBYiagIaa6ZGSPMbybpy",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Rita Moreno",
+      "featuredArtistId": "0o8VXZhF492Z1bKBRFA9Q2",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Rubén Blades",
+      "featuredArtistId": "5BwMgvRwlq61SmknvsVIQj",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Tommy Torres",
+      "featuredArtistId": "264nbMzGPSkDZqTY8nXwCG",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Hamilton",
+      "featuredArtistId": "56xde3bnvx5G7v6Grx4985",
+      "trackName": "I Can See the Light (feat. Anthony Ramos, Carleigh Bettiol, Karla Garcia, David Guzman, Thayne Jasperson, Roddy Kennedy, Michael Luwoye, Gregory Treco, Rory O’malley, Jasmine Cephas Jones, Kamille Upshaw, Syndee Winters & Zelig Williams)",
+      "trackId": "5XAwJZJVtXEYiyBGXZBHW9",
+      "preview": "https://p.scdn.co/mp3-preview/d2bf69a08f0a685fdb296ae0123aff26b4f62154?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/12e023b8ae77fc6dc0aeff0578aee7b213af56e0",
+      "release_date": "2016-12-04"
+    },
+    {
+      "featuredArtist": "Carleigh Bettiol",
+      "featuredArtistId": "1maRn0bM1vgvlOCJYx5OlD",
+      "trackName": "I Can See the Light (feat. Anthony Ramos, Carleigh Bettiol, Karla Garcia, David Guzman, Thayne Jasperson, Roddy Kennedy, Michael Luwoye, Gregory Treco, Rory O’malley, Jasmine Cephas Jones, Kamille Upshaw, Syndee Winters & Zelig Williams)",
+      "trackId": "5XAwJZJVtXEYiyBGXZBHW9",
+      "preview": "https://p.scdn.co/mp3-preview/d2bf69a08f0a685fdb296ae0123aff26b4f62154?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/12e023b8ae77fc6dc0aeff0578aee7b213af56e0",
+      "release_date": "2016-12-04"
+    },
+    {
+      "featuredArtist": "Karla Garcia",
+      "featuredArtistId": "4smEMHbJ9oYmTRDwdCR6tY",
+      "trackName": "I Can See the Light (feat. Anthony Ramos, Carleigh Bettiol, Karla Garcia, David Guzman, Thayne Jasperson, Roddy Kennedy, Michael Luwoye, Gregory Treco, Rory O’malley, Jasmine Cephas Jones, Kamille Upshaw, Syndee Winters & Zelig Williams)",
+      "trackId": "5XAwJZJVtXEYiyBGXZBHW9",
+      "preview": "https://p.scdn.co/mp3-preview/d2bf69a08f0a685fdb296ae0123aff26b4f62154?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/12e023b8ae77fc6dc0aeff0578aee7b213af56e0",
+      "release_date": "2016-12-04"
+    },
+    {
+      "featuredArtist": "David Guzmán",
+      "featuredArtistId": "5sFePMwpdAjVyiK9uJ8uz6",
+      "trackName": "I Can See the Light (feat. Anthony Ramos, Carleigh Bettiol, Karla Garcia, David Guzman, Thayne Jasperson, Roddy Kennedy, Michael Luwoye, Gregory Treco, Rory O’malley, Jasmine Cephas Jones, Kamille Upshaw, Syndee Winters & Zelig Williams)",
+      "trackId": "5XAwJZJVtXEYiyBGXZBHW9",
+      "preview": "https://p.scdn.co/mp3-preview/d2bf69a08f0a685fdb296ae0123aff26b4f62154?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/12e023b8ae77fc6dc0aeff0578aee7b213af56e0",
+      "release_date": "2016-12-04"
+    },
+    {
+      "featuredArtist": "Thayne Jasperson",
+      "featuredArtistId": "4lSm9vkdpKSs1O8nKflRaB",
+      "trackName": "I Can See the Light (feat. Anthony Ramos, Carleigh Bettiol, Karla Garcia, David Guzman, Thayne Jasperson, Roddy Kennedy, Michael Luwoye, Gregory Treco, Rory O’malley, Jasmine Cephas Jones, Kamille Upshaw, Syndee Winters & Zelig Williams)",
+      "trackId": "5XAwJZJVtXEYiyBGXZBHW9",
+      "preview": "https://p.scdn.co/mp3-preview/d2bf69a08f0a685fdb296ae0123aff26b4f62154?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/12e023b8ae77fc6dc0aeff0578aee7b213af56e0",
+      "release_date": "2016-12-04"
+    },
+    {
+      "featuredArtist": "Roddy Kennedy",
+      "featuredArtistId": "5zUJegmArglvISxyJFmytA",
+      "trackName": "I Can See the Light (feat. Anthony Ramos, Carleigh Bettiol, Karla Garcia, David Guzman, Thayne Jasperson, Roddy Kennedy, Michael Luwoye, Gregory Treco, Rory O’malley, Jasmine Cephas Jones, Kamille Upshaw, Syndee Winters & Zelig Williams)",
+      "trackId": "5XAwJZJVtXEYiyBGXZBHW9",
+      "preview": "https://p.scdn.co/mp3-preview/d2bf69a08f0a685fdb296ae0123aff26b4f62154?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/12e023b8ae77fc6dc0aeff0578aee7b213af56e0",
+      "release_date": "2016-12-04"
+    },
+    {
+      "featuredArtist": "Michael Luwoye",
+      "featuredArtistId": "7nMtxo1ehl9BiTovxs7cgj",
+      "trackName": "I Can See the Light (feat. Anthony Ramos, Carleigh Bettiol, Karla Garcia, David Guzman, Thayne Jasperson, Roddy Kennedy, Michael Luwoye, Gregory Treco, Rory O’malley, Jasmine Cephas Jones, Kamille Upshaw, Syndee Winters & Zelig Williams)",
+      "trackId": "5XAwJZJVtXEYiyBGXZBHW9",
+      "preview": "https://p.scdn.co/mp3-preview/d2bf69a08f0a685fdb296ae0123aff26b4f62154?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/12e023b8ae77fc6dc0aeff0578aee7b213af56e0",
+      "release_date": "2016-12-04"
+    },
+    {
+      "featuredArtist": "Gregory Treco",
+      "featuredArtistId": "2jj4pjar7dboeWL2if8shU",
+      "trackName": "I Can See the Light (feat. Anthony Ramos, Carleigh Bettiol, Karla Garcia, David Guzman, Thayne Jasperson, Roddy Kennedy, Michael Luwoye, Gregory Treco, Rory O’malley, Jasmine Cephas Jones, Kamille Upshaw, Syndee Winters & Zelig Williams)",
+      "trackId": "5XAwJZJVtXEYiyBGXZBHW9",
+      "preview": "https://p.scdn.co/mp3-preview/d2bf69a08f0a685fdb296ae0123aff26b4f62154?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/12e023b8ae77fc6dc0aeff0578aee7b213af56e0",
+      "release_date": "2016-12-04"
+    },
+    {
+      "featuredArtist": "Rory O’Malley",
+      "featuredArtistId": "0WMCGs2vnnJDkZdKHGlhDA",
+      "trackName": "I Can See the Light (feat. Anthony Ramos, Carleigh Bettiol, Karla Garcia, David Guzman, Thayne Jasperson, Roddy Kennedy, Michael Luwoye, Gregory Treco, Rory O’malley, Jasmine Cephas Jones, Kamille Upshaw, Syndee Winters & Zelig Williams)",
+      "trackId": "5XAwJZJVtXEYiyBGXZBHW9",
+      "preview": "https://p.scdn.co/mp3-preview/d2bf69a08f0a685fdb296ae0123aff26b4f62154?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/12e023b8ae77fc6dc0aeff0578aee7b213af56e0",
+      "release_date": "2016-12-04"
+    },
+    {
+      "featuredArtist": "Kamille Upshaw",
+      "featuredArtistId": "4ETQSlz77DY8HeHiAenZnp",
+      "trackName": "I Can See the Light (feat. Anthony Ramos, Carleigh Bettiol, Karla Garcia, David Guzman, Thayne Jasperson, Roddy Kennedy, Michael Luwoye, Gregory Treco, Rory O’malley, Jasmine Cephas Jones, Kamille Upshaw, Syndee Winters & Zelig Williams)",
+      "trackId": "5XAwJZJVtXEYiyBGXZBHW9",
+      "preview": "https://p.scdn.co/mp3-preview/d2bf69a08f0a685fdb296ae0123aff26b4f62154?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/12e023b8ae77fc6dc0aeff0578aee7b213af56e0",
+      "release_date": "2016-12-04"
+    },
+    {
+      "featuredArtist": "Syndee Winters",
+      "featuredArtistId": "3KazMr4LzwJkfE4YdYQSwB",
+      "trackName": "I Can See the Light (feat. Anthony Ramos, Carleigh Bettiol, Karla Garcia, David Guzman, Thayne Jasperson, Roddy Kennedy, Michael Luwoye, Gregory Treco, Rory O’malley, Jasmine Cephas Jones, Kamille Upshaw, Syndee Winters & Zelig Williams)",
+      "trackId": "5XAwJZJVtXEYiyBGXZBHW9",
+      "preview": "https://p.scdn.co/mp3-preview/d2bf69a08f0a685fdb296ae0123aff26b4f62154?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/12e023b8ae77fc6dc0aeff0578aee7b213af56e0",
+      "release_date": "2016-12-04"
+    },
+    {
+      "featuredArtist": "Zelig Williams",
+      "featuredArtistId": "20hBvD0wNYzT0smicFdBc3",
+      "trackName": "I Can See the Light (feat. Anthony Ramos, Carleigh Bettiol, Karla Garcia, David Guzman, Thayne Jasperson, Roddy Kennedy, Michael Luwoye, Gregory Treco, Rory O’malley, Jasmine Cephas Jones, Kamille Upshaw, Syndee Winters & Zelig Williams)",
+      "trackId": "5XAwJZJVtXEYiyBGXZBHW9",
+      "preview": "https://p.scdn.co/mp3-preview/d2bf69a08f0a685fdb296ae0123aff26b4f62154?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/12e023b8ae77fc6dc0aeff0578aee7b213af56e0",
+      "release_date": "2016-12-04"
+    },
+    {
+      "featuredArtist": "The Broadway Cast Of Hamilton",
+      "featuredArtistId": "37cxGU4PIciKqJvmjdDXIM",
+      "trackName": "Joy to the World (feat. Okieriete Onaodowan, Leslie Odom, Jr., Carleigh Bettiol, Alysha Deslorieux, Andrew Chappelle, Sydney James Harcourt, Sasha Hutchings, Stephanie Klemons, Morgan Marcell, Javier Muñoz, Anthony Ramos, Austin Smith & Ephraim Sykes)",
+      "trackId": "7I6R1xEa4CRbPWJH8Lbvsk",
+      "preview": "https://p.scdn.co/mp3-preview/2b233d06590f5d2ed339c3c5fa6c7131cd605217?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be6f081d6fd024fd5ee0d9cc3c245766b822b3ca",
+      "release_date": "2015-12-06"
+    },
+    {
+      "featuredArtist": "Okieriete Onaodowan",
+      "featuredArtistId": "6G3sPhnj4JBCsBVBGvZnkk",
+      "trackName": "Joy to the World (feat. Okieriete Onaodowan, Leslie Odom, Jr., Carleigh Bettiol, Alysha Deslorieux, Andrew Chappelle, Sydney James Harcourt, Sasha Hutchings, Stephanie Klemons, Morgan Marcell, Javier Muñoz, Anthony Ramos, Austin Smith & Ephraim Sykes)",
+      "trackId": "7I6R1xEa4CRbPWJH8Lbvsk",
+      "preview": "https://p.scdn.co/mp3-preview/2b233d06590f5d2ed339c3c5fa6c7131cd605217?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be6f081d6fd024fd5ee0d9cc3c245766b822b3ca",
+      "release_date": "2015-12-06"
+    },
+    {
+      "featuredArtist": "Leslie Odom Jr.",
+      "featuredArtistId": "3cR4rhS2hBWqI7rJEBacvN",
+      "trackName": "Joy to the World (feat. Okieriete Onaodowan, Leslie Odom, Jr., Carleigh Bettiol, Alysha Deslorieux, Andrew Chappelle, Sydney James Harcourt, Sasha Hutchings, Stephanie Klemons, Morgan Marcell, Javier Muñoz, Anthony Ramos, Austin Smith & Ephraim Sykes)",
+      "trackId": "7I6R1xEa4CRbPWJH8Lbvsk",
+      "preview": "https://p.scdn.co/mp3-preview/2b233d06590f5d2ed339c3c5fa6c7131cd605217?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be6f081d6fd024fd5ee0d9cc3c245766b822b3ca",
+      "release_date": "2015-12-06"
+    },
+    {
+      "featuredArtist": "Alysha Deslorieux",
+      "featuredArtistId": "7AhIpcScFgzbcIWkqWcfiI",
+      "trackName": "Joy to the World (feat. Okieriete Onaodowan, Leslie Odom, Jr., Carleigh Bettiol, Alysha Deslorieux, Andrew Chappelle, Sydney James Harcourt, Sasha Hutchings, Stephanie Klemons, Morgan Marcell, Javier Muñoz, Anthony Ramos, Austin Smith & Ephraim Sykes)",
+      "trackId": "7I6R1xEa4CRbPWJH8Lbvsk",
+      "preview": "https://p.scdn.co/mp3-preview/2b233d06590f5d2ed339c3c5fa6c7131cd605217?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be6f081d6fd024fd5ee0d9cc3c245766b822b3ca",
+      "release_date": "2015-12-06"
+    },
+    {
+      "featuredArtist": "Andrew Chappelle",
+      "featuredArtistId": "5KxImRYxBdEX6jrFBC9RWe",
+      "trackName": "Joy to the World (feat. Okieriete Onaodowan, Leslie Odom, Jr., Carleigh Bettiol, Alysha Deslorieux, Andrew Chappelle, Sydney James Harcourt, Sasha Hutchings, Stephanie Klemons, Morgan Marcell, Javier Muñoz, Anthony Ramos, Austin Smith & Ephraim Sykes)",
+      "trackId": "7I6R1xEa4CRbPWJH8Lbvsk",
+      "preview": "https://p.scdn.co/mp3-preview/2b233d06590f5d2ed339c3c5fa6c7131cd605217?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be6f081d6fd024fd5ee0d9cc3c245766b822b3ca",
+      "release_date": "2015-12-06"
+    },
+    {
+      "featuredArtist": "Sydney James Harcourt",
+      "featuredArtistId": "2fHcpUAFhqmfloo2HkBN3e",
+      "trackName": "Joy to the World (feat. Okieriete Onaodowan, Leslie Odom, Jr., Carleigh Bettiol, Alysha Deslorieux, Andrew Chappelle, Sydney James Harcourt, Sasha Hutchings, Stephanie Klemons, Morgan Marcell, Javier Muñoz, Anthony Ramos, Austin Smith & Ephraim Sykes)",
+      "trackId": "7I6R1xEa4CRbPWJH8Lbvsk",
+      "preview": "https://p.scdn.co/mp3-preview/2b233d06590f5d2ed339c3c5fa6c7131cd605217?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be6f081d6fd024fd5ee0d9cc3c245766b822b3ca",
+      "release_date": "2015-12-06"
+    },
+    {
+      "featuredArtist": "Sasha Hutchings",
+      "featuredArtistId": "0Pg2rEmiZEnmxw4eQwtvsR",
+      "trackName": "Joy to the World (feat. Okieriete Onaodowan, Leslie Odom, Jr., Carleigh Bettiol, Alysha Deslorieux, Andrew Chappelle, Sydney James Harcourt, Sasha Hutchings, Stephanie Klemons, Morgan Marcell, Javier Muñoz, Anthony Ramos, Austin Smith & Ephraim Sykes)",
+      "trackId": "7I6R1xEa4CRbPWJH8Lbvsk",
+      "preview": "https://p.scdn.co/mp3-preview/2b233d06590f5d2ed339c3c5fa6c7131cd605217?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be6f081d6fd024fd5ee0d9cc3c245766b822b3ca",
+      "release_date": "2015-12-06"
+    },
+    {
+      "featuredArtist": "Stephanie Klemons",
+      "featuredArtistId": "1omI1sPGnMKFMd8H3iXeio",
+      "trackName": "Joy to the World (feat. Okieriete Onaodowan, Leslie Odom, Jr., Carleigh Bettiol, Alysha Deslorieux, Andrew Chappelle, Sydney James Harcourt, Sasha Hutchings, Stephanie Klemons, Morgan Marcell, Javier Muñoz, Anthony Ramos, Austin Smith & Ephraim Sykes)",
+      "trackId": "7I6R1xEa4CRbPWJH8Lbvsk",
+      "preview": "https://p.scdn.co/mp3-preview/2b233d06590f5d2ed339c3c5fa6c7131cd605217?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be6f081d6fd024fd5ee0d9cc3c245766b822b3ca",
+      "release_date": "2015-12-06"
+    },
+    {
+      "featuredArtist": "Morgan Marcell",
+      "featuredArtistId": "6aRHtVXvEdNQpLOsJr8mgz",
+      "trackName": "Joy to the World (feat. Okieriete Onaodowan, Leslie Odom, Jr., Carleigh Bettiol, Alysha Deslorieux, Andrew Chappelle, Sydney James Harcourt, Sasha Hutchings, Stephanie Klemons, Morgan Marcell, Javier Muñoz, Anthony Ramos, Austin Smith & Ephraim Sykes)",
+      "trackId": "7I6R1xEa4CRbPWJH8Lbvsk",
+      "preview": "https://p.scdn.co/mp3-preview/2b233d06590f5d2ed339c3c5fa6c7131cd605217?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be6f081d6fd024fd5ee0d9cc3c245766b822b3ca",
+      "release_date": "2015-12-06"
+    },
+    {
+      "featuredArtist": "Javier Muñoz",
+      "featuredArtistId": "1m7FMMRGb8TMPXeAQXoLzl",
+      "trackName": "Joy to the World (feat. Okieriete Onaodowan, Leslie Odom, Jr., Carleigh Bettiol, Alysha Deslorieux, Andrew Chappelle, Sydney James Harcourt, Sasha Hutchings, Stephanie Klemons, Morgan Marcell, Javier Muñoz, Anthony Ramos, Austin Smith & Ephraim Sykes)",
+      "trackId": "7I6R1xEa4CRbPWJH8Lbvsk",
+      "preview": "https://p.scdn.co/mp3-preview/2b233d06590f5d2ed339c3c5fa6c7131cd605217?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be6f081d6fd024fd5ee0d9cc3c245766b822b3ca",
+      "release_date": "2015-12-06"
+    },
+    {
+      "featuredArtist": "Austin, Smith",
+      "featuredArtistId": "6EUDU3sqL6goUNDcLVRiN9",
+      "trackName": "Joy to the World (feat. Okieriete Onaodowan, Leslie Odom, Jr., Carleigh Bettiol, Alysha Deslorieux, Andrew Chappelle, Sydney James Harcourt, Sasha Hutchings, Stephanie Klemons, Morgan Marcell, Javier Muñoz, Anthony Ramos, Austin Smith & Ephraim Sykes)",
+      "trackId": "7I6R1xEa4CRbPWJH8Lbvsk",
+      "preview": "https://p.scdn.co/mp3-preview/2b233d06590f5d2ed339c3c5fa6c7131cd605217?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be6f081d6fd024fd5ee0d9cc3c245766b822b3ca",
+      "release_date": "2015-12-06"
+    },
+    {
+      "featuredArtist": "Ephraim Sykes",
+      "featuredArtistId": "3brilvMAN6ILRUMvaqJWdG",
+      "trackName": "Joy to the World (feat. Okieriete Onaodowan, Leslie Odom, Jr., Carleigh Bettiol, Alysha Deslorieux, Andrew Chappelle, Sydney James Harcourt, Sasha Hutchings, Stephanie Klemons, Morgan Marcell, Javier Muñoz, Anthony Ramos, Austin Smith & Ephraim Sykes)",
+      "trackId": "7I6R1xEa4CRbPWJH8Lbvsk",
+      "preview": "https://p.scdn.co/mp3-preview/2b233d06590f5d2ed339c3c5fa6c7131cd605217?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be6f081d6fd024fd5ee0d9cc3c245766b822b3ca",
+      "release_date": "2015-12-06"
+    },
+    {
+      "featuredArtist": "Daveed Diggs",
+      "featuredArtistId": "3twuAojvYNrlWZpMkxLm3P",
+      "trackName": "Alexander Hamilton",
+      "trackId": "62cp04eaJavIi9PdfuP7aI",
+      "preview": "https://p.scdn.co/mp3-preview/fe72369289ecf23c120df5a5c4792dbedfed867a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d385e17b32d3bc19cf46e7fee92527e9ada5662",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "Phillipa Soo",
+      "featuredArtistId": "2OEGI2wrCVmvavKEOMlccy",
+      "trackName": "Alexander Hamilton",
+      "trackId": "62cp04eaJavIi9PdfuP7aI",
+      "preview": "https://p.scdn.co/mp3-preview/fe72369289ecf23c120df5a5c4792dbedfed867a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d385e17b32d3bc19cf46e7fee92527e9ada5662",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "Original Broadway Cast of Hamilton",
+      "featuredArtistId": "3UUJfRbrA2nTbcg4i0MOwu",
+      "trackName": "Alexander Hamilton",
+      "trackId": "62cp04eaJavIi9PdfuP7aI",
+      "preview": "https://p.scdn.co/mp3-preview/fe72369289ecf23c120df5a5c4792dbedfed867a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d385e17b32d3bc19cf46e7fee92527e9ada5662",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "Jon Rua",
+      "featuredArtistId": "69NsP4MC1JbfvKMwpx2oy8",
+      "trackName": "Ten Duel Commandments",
+      "trackId": "2thuVagVdx65APXdheg8yO",
+      "preview": "https://p.scdn.co/mp3-preview/21b78a63cd4d614aff3bb23566de7703d4f10405?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d385e17b32d3bc19cf46e7fee92527e9ada5662",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "Christopher Jackson",
+      "featuredArtistId": "6sLwRSXSUF5JTUnQaFenyj",
+      "trackName": "Meet Me Inside",
+      "trackId": "0By2vkJDKHoWYll2p6VuTj",
+      "preview": "https://p.scdn.co/mp3-preview/c2ccb31a9bdba7cd5cc54688ef3cc588a7568ecb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d385e17b32d3bc19cf46e7fee92527e9ada5662",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "Renée Elise Goldsberry",
+      "featuredArtistId": "5VJN4jB6PqqEg4kJiAj6Eu",
+      "trackName": "Take A Break",
+      "trackId": "7kveMdmY6nmq2jTnhQ7MLX",
+      "preview": "https://p.scdn.co/mp3-preview/8db5e49a733d51d01b2268477df0738f87b5284b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d385e17b32d3bc19cf46e7fee92527e9ada5662",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "Ariana DeBose",
+      "featuredArtistId": "1Np9GsrPO7dlczjvdehBxs",
+      "trackName": "Blow Us All Away",
+      "trackId": "2yWZNFxMQ23Ux5kWsDzCPq",
+      "preview": "https://p.scdn.co/mp3-preview/b5aa4d1bd12b884a5a58169ff225a1e4c5778c0a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d385e17b32d3bc19cf46e7fee92527e9ada5662",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "Lindsay Mendez",
+      "featuredArtistId": "57G7MG8kyc16ncjh62gqO2",
+      "trackName": "What the Heck I Gotta Do",
+      "trackId": "2jB8nnyoQnkdgpAYsCldoh",
+      "preview": "https://p.scdn.co/mp3-preview/3091b67c32904009e9dc3a1497682d5dd33e7998?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b75f94023c64e27a96cc228a5433b0e6029897d3",
+      "release_date": "2014-06-19"
+    },
+    {
+      "featuredArtist": "Alex Boniello",
+      "featuredArtistId": "4bttaKq2XoaBlFlkKkrS40",
+      "trackName": "What the Heck I Gotta Do",
+      "trackId": "2jB8nnyoQnkdgpAYsCldoh",
+      "preview": "https://p.scdn.co/mp3-preview/3091b67c32904009e9dc3a1497682d5dd33e7998?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b75f94023c64e27a96cc228a5433b0e6029897d3",
+      "release_date": "2014-06-19"
+    },
+    {
+      "featuredArtist": "Gerard Canonico",
+      "featuredArtistId": "3BnDFg5A1TBI9FtlApZ9E0",
+      "trackName": "What the Heck I Gotta Do",
+      "trackId": "2jB8nnyoQnkdgpAYsCldoh",
+      "preview": "https://p.scdn.co/mp3-preview/3091b67c32904009e9dc3a1497682d5dd33e7998?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b75f94023c64e27a96cc228a5433b0e6029897d3",
+      "release_date": "2014-06-19"
+    },
+    {
+      "featuredArtist": "Antwaun Holley",
+      "featuredArtistId": "5QHLozNnXqf6dkEq4AxXgD",
+      "trackName": "What the Heck I Gotta Do",
+      "trackId": "2jB8nnyoQnkdgpAYsCldoh",
+      "preview": "https://p.scdn.co/mp3-preview/3091b67c32904009e9dc3a1497682d5dd33e7998?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b75f94023c64e27a96cc228a5433b0e6029897d3",
+      "release_date": "2014-06-19"
+    },
+    {
+      "featuredArtist": "Original Radio Cast",
+      "featuredArtistId": "7tjHLxbxaFkrm9muohGTox",
+      "trackName": "What the Heck I Gotta Do",
+      "trackId": "2jB8nnyoQnkdgpAYsCldoh",
+      "preview": "https://p.scdn.co/mp3-preview/3091b67c32904009e9dc3a1497682d5dd33e7998?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b75f94023c64e27a96cc228a5433b0e6029897d3",
+      "release_date": "2014-06-19"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "artistName": "Florida Georgia Line",
+  "features": [
+    {
+      "featuredArtist": "Ziggy Marley",
+      "featuredArtistId": "0o0rlxlC3ApLWsxFkUjMXc",
+      "trackName": "Life Is A Honeymoon",
+      "trackId": "67tasguLElvxPOZXkwcAIF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/08ffe1186dfa4a9eb65885f87bea392ab6da7cd2",
+      "release_date": "2016-08-26"
+    },
+    {
+      "featuredArtist": "Tim McGraw",
+      "featuredArtistId": "6roFdX1y5BYSbp60OTJWMd",
+      "trackName": "May We All",
+      "trackId": "498ZVInMGDkmmNVpSWqHiZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/08ffe1186dfa4a9eb65885f87bea392ab6da7cd2",
+      "release_date": "2016-08-26"
+    },
+    {
+      "featuredArtist": "Backstreet Boys",
+      "featuredArtistId": "5rSXSAkZ67PYJSvpUpkOr7",
+      "trackName": "God, Your Mama, And Me",
+      "trackId": "4VFE6ZNqa8jHAmbYICoAFg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/08ffe1186dfa4a9eb65885f87bea392ab6da7cd2",
+      "release_date": "2016-08-26"
+    },
+    {
+      "featuredArtist": "Sarah Buxton",
+      "featuredArtistId": "2xTlb6eueddQmWsxImpDbP",
+      "trackName": "Dayum, Baby",
+      "trackId": "0u9smMPfANQsELFqEZ910H",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/073b517107e843043f08db3ec80ad845a5b6cdcb",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Jaren Johnston",
+      "featuredArtistId": "5beYbzBVaQfcY8XL2DCcTs",
+      "trackName": "Party People",
+      "trackId": "3EohIqtAdq75dsDmNJq73d",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/073b517107e843043f08db3ec80ad845a5b6cdcb",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Luke Bryan",
+      "featuredArtistId": "0BvkDsjIUla7X0k6CSWh1I",
+      "trackName": "This Is How We Roll",
+      "trackId": "2TR7A4ulH9R1PNwMyd8o8U",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/073b517107e843043f08db3ec80ad845a5b6cdcb",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Nelly",
+      "featuredArtistId": "2gBjLmx6zQnFGQJCAQpRgw",
+      "trackName": "Cruise - Remix",
+      "trackId": "0jHSdjxn9LfzNL0WkDu93W",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/073b517107e843043f08db3ec80ad845a5b6cdcb",
+      "release_date": "2013-01-01"
+    }
+  ]
+}

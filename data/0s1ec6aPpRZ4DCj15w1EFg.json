@@ -1,0 +1,32 @@
+{
+  "artistName": "Dario Marianelli",
+  "features": [
+    {
+      "featuredArtist": "Víkingur Ólafsson",
+      "featuredArtistId": "0iqgjl0OG3z53PZVIB7ZyD",
+      "trackName": "Prelude",
+      "trackId": "5RP2OvJcL6HijswdBNnf9n",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2df3511c762ad47408a5cfd7798b779140c758ad",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Jack Liebeck",
+      "featuredArtistId": "4PwrerouUXvowe3ynAOWSP",
+      "trackName": "Wandering Jane",
+      "trackId": "36SQrVxIeTBayrrFFyFTaB",
+      "preview": "https://p.scdn.co/mp3-preview/b8765127ae44f485d38ce6693ef206f14d6700dc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/61557dd53f43516dab43ab97aebaaa6c4b865943",
+      "release_date": "2011-03-08"
+    },
+    {
+      "featuredArtist": "Benjamin Wallfisch",
+      "featuredArtistId": "2xOp0rCDPAmYqnL2UFbaDY",
+      "trackName": "Wandering Jane",
+      "trackId": "36SQrVxIeTBayrrFFyFTaB",
+      "preview": "https://p.scdn.co/mp3-preview/b8765127ae44f485d38ce6693ef206f14d6700dc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/61557dd53f43516dab43ab97aebaaa6c4b865943",
+      "release_date": "2011-03-08"
+    }
+  ]
+}

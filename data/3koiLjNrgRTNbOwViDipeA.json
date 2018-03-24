@@ -1,0 +1,23 @@
+{
+  "artistName": "Marvin Gaye",
+  "features": [
+    {
+      "featuredArtist": "Harvey Fuqua",
+      "featuredArtistId": "0F577kU2Hk9gr4mAzK60tZ",
+      "trackName": "Fly Me to the Moon (In Other Words)",
+      "trackId": "0nIu7rdWFb35uln6SPSXeD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5e32260a5de12e4d517e6c9c0ad15413984b0f6b",
+      "release_date": "1985-11-01"
+    },
+    {
+      "featuredArtist": "Gordon Banks",
+      "featuredArtistId": "7usTdtUG4YAEd7yCBExneu",
+      "trackName": "Fly Me to the Moon (In Other Words)",
+      "trackId": "0nIu7rdWFb35uln6SPSXeD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5e32260a5de12e4d517e6c9c0ad15413984b0f6b",
+      "release_date": "1985-11-01"
+    }
+  ]
+}

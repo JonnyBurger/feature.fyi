@@ -1,0 +1,23 @@
+{
+  "artistName": "Chet Faker",
+  "features": [
+    {
+      "featuredArtist": "Kilo Kish",
+      "featuredArtistId": "7lsnwlX6puQ7lcpSEpJbZE",
+      "trackName": "Melt",
+      "trackId": "1uCUQvBmsF93UnUTTd2BSF",
+      "preview": "https://p.scdn.co/mp3-preview/86a666211b8d663dab14b14a153ba7fcf0f6a296?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/309429b95eb22b8c03e069ab7f619651aa8e7a4f",
+      "release_date": "2014-04-15"
+    },
+    {
+      "featuredArtist": "Marcus Marr",
+      "featuredArtistId": "6l5dAUNRhHnRSPPmRJSKQr",
+      "trackName": "Birthday Card",
+      "trackId": "3A2vazdy6OFl5xuhz85Yn1",
+      "preview": "https://p.scdn.co/mp3-preview/bfd69046024d5246f71b5b632047827f37951085?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0dd1e1d378298de8b0cf0c5f688175697d51a391",
+      "release_date": "2015-12-04"
+    }
+  ]
+}

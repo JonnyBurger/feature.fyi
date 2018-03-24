@@ -1,0 +1,401 @@
+{
+  "artistName": "YG",
+  "features": [
+    {
+      "featuredArtist": "RJMrLA",
+      "featuredArtistId": "6kQWPGBItT0oMCHZy3M9DN",
+      "trackName": "Get Out Yo Feelin's",
+      "trackId": "5wYG7LnAI1pQU6kwFaJswW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/19ee4a5e6beb359206fd1750845971fc1d347fb2",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "Mitch",
+      "featuredArtistId": "3xS4uqr3q6umIa74qTP62H",
+      "trackName": "I Know",
+      "trackId": "3fNH4etsltJRU7NsgU9RVe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/19ee4a5e6beb359206fd1750845971fc1d347fb2",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "21 Savage",
+      "featuredArtistId": "1URnnhqYAYcrqrcwql10ft",
+      "trackName": "I Be On",
+      "trackId": "3mNyhvYD3aYqIAFdJ75y9q",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/19ee4a5e6beb359206fd1750845971fc1d347fb2",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "Sad Boy",
+      "featuredArtistId": "4qQ0W1Z8cxepU1IeaxDXPg",
+      "trackName": "Don't Come To LA",
+      "trackId": "3IfDeC0osRry8lEtY4e1V6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65950004870d7b5b9e0becc12c97771129b09977",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "AD",
+      "featuredArtistId": "4Maf38TSoYT83qXqsO20JI",
+      "trackName": "Don't Come To LA",
+      "trackId": "3IfDeC0osRry8lEtY4e1V6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65950004870d7b5b9e0becc12c97771129b09977",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Bricc Baby",
+      "featuredArtistId": "6WtTLIl6HLw0JI15Z3Ia8q",
+      "trackName": "Don't Come To LA",
+      "trackId": "3IfDeC0osRry8lEtY4e1V6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65950004870d7b5b9e0becc12c97771129b09977",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Slim 400",
+      "featuredArtistId": "1RXEL1MwAvaMsn7KAHe0g5",
+      "trackName": "Word Is Bond",
+      "trackId": "05MRWeEP7GxccGzeIwrl6Q",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65950004870d7b5b9e0becc12c97771129b09977",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Syke 800",
+      "featuredArtistId": "5iHaEaeT1t9bKaVONfW3SC",
+      "trackName": "Good Times Interlude",
+      "trackId": "26rD63BVQsBWdcaMTaCEaC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65950004870d7b5b9e0becc12c97771129b09977",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "\"Duce",
+      "featuredArtistId": "4GlaGLFT3jSTZDuSwL3dXy",
+      "trackName": "Good Times Interlude",
+      "trackId": "26rD63BVQsBWdcaMTaCEaC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65950004870d7b5b9e0becc12c97771129b09977",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Marley Blu",
+      "featuredArtistId": "40HFcMUDVVCo0SI4BVEdIi",
+      "trackName": "Good Times Interlude",
+      "trackId": "26rD63BVQsBWdcaMTaCEaC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65950004870d7b5b9e0becc12c97771129b09977",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Burnt Out",
+      "featuredArtistId": "1xOwHKcbLyOSOm14pc4nWx",
+      "trackName": "Good Times Interlude",
+      "trackId": "26rD63BVQsBWdcaMTaCEaC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65950004870d7b5b9e0becc12c97771129b09977",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Lil Wayne",
+      "featuredArtistId": "55Aa2cqylxrFIXC767Z865",
+      "trackName": "I Got A Question",
+      "trackId": "6CnFwOdFvsxk2S7RzYyD4Z",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65950004870d7b5b9e0becc12c97771129b09977",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Drake",
+      "featuredArtistId": "3TVXtAsR1Inumwj472S9r4",
+      "trackName": "Why You Always Hatin?",
+      "trackId": "2tlkU66loXhmV2JqTHlz5T",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65950004870d7b5b9e0becc12c97771129b09977",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Kamaiyah",
+      "featuredArtistId": "3XVpDdKav6C6zwlDXPhMEO",
+      "trackName": "Why You Always Hatin?",
+      "trackId": "2tlkU66loXhmV2JqTHlz5T",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65950004870d7b5b9e0becc12c97771129b09977",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Joe Moses",
+      "featuredArtistId": "54QA4zjZDOyaLN8bVthBjP",
+      "trackName": "She Wish She Was",
+      "trackId": "7jDzrkjkDDhmH3kDMW561r",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65950004870d7b5b9e0becc12c97771129b09977",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Jay 305",
+      "featuredArtistId": "2l2o6ibYa7h1w4HwaS1uZV",
+      "trackName": "She Wish She Was",
+      "trackId": "7jDzrkjkDDhmH3kDMW561r",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65950004870d7b5b9e0becc12c97771129b09977",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "The Homegirl",
+      "featuredArtistId": "6zWpKBpfxA7WLufoySS14G",
+      "trackName": "YG Be Safe",
+      "trackId": "0TWGWk3GkGdeEWyCTLWD3z",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65950004870d7b5b9e0becc12c97771129b09977",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Nipsey Hussle",
+      "featuredArtistId": "0EeQBlQJFiAfJeVN2vT9s0",
+      "trackName": "FDT",
+      "trackId": "3Oi6fxQeiM4NvarxLjkui6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65950004870d7b5b9e0becc12c97771129b09977",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Big Wy",
+      "featuredArtistId": "0n29ZuvPIQeePo29sVGEy8",
+      "trackName": "Bicken Back Being Bool - Remix",
+      "trackId": "6nusNkxCc164WXPk4E6NE4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8004343b3d8bc78631d53fb506746528f31e3ab8",
+      "release_date": "2014-11-24"
+    },
+    {
+      "featuredArtist": "Mack 10",
+      "featuredArtistId": "3USpNaxpX1iNqNnQWqg9ob",
+      "trackName": "Bicken Back Being Bool - Remix",
+      "trackId": "6nusNkxCc164WXPk4E6NE4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8004343b3d8bc78631d53fb506746528f31e3ab8",
+      "release_date": "2014-11-24"
+    },
+    {
+      "featuredArtist": "DJ Quik",
+      "featuredArtistId": "0b2XeWDPeBiLeskT6RFqMb",
+      "trackName": "Bicken Back Being Bool - Remix",
+      "trackId": "6nusNkxCc164WXPk4E6NE4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8004343b3d8bc78631d53fb506746528f31e3ab8",
+      "release_date": "2014-11-24"
+    },
+    {
+      "featuredArtist": "RJ",
+      "featuredArtistId": "4x2GpMP6bQGWIgGx2OAujt",
+      "trackName": "Ride With Me",
+      "trackId": "5fSaPJprqyGPMmkkw3zGN9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8004343b3d8bc78631d53fb506746528f31e3ab8",
+      "release_date": "2014-11-24"
+    },
+    {
+      "featuredArtist": "TeeCee4800",
+      "featuredArtistId": "1yXXcC1S1PBbXlHWXlvYrU",
+      "trackName": "If I Ever",
+      "trackId": "4v5b0TXWawDmT1MPK8w52P",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8004343b3d8bc78631d53fb506746528f31e3ab8",
+      "release_date": "2014-11-24"
+    },
+    {
+      "featuredArtist": "Charlie Hood",
+      "featuredArtistId": "2K2njEh6iQOhMNyqiO6YpL",
+      "trackName": "If I Ever",
+      "trackId": "4v5b0TXWawDmT1MPK8w52P",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8004343b3d8bc78631d53fb506746528f31e3ab8",
+      "release_date": "2014-11-24"
+    },
+    {
+      "featuredArtist": "D-Lo",
+      "featuredArtistId": "0kHp6OZT4pvcCbTMfQCOvE",
+      "trackName": "G$FB",
+      "trackId": "0u74fCaxlmtwzSVIY5u0Ny",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8004343b3d8bc78631d53fb506746528f31e3ab8",
+      "release_date": "2014-11-24"
+    },
+    {
+      "featuredArtist": "ScHoolboy Q",
+      "featuredArtistId": "5IcR3N7QB1j6KBL8eImZ8m",
+      "trackName": "I Just Wanna Party",
+      "trackId": "3RPby4oF5tv9tCmACftLXL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a90acb17c800a2416f49fc001b7d438212b20f62",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Jay Rock",
+      "featuredArtistId": "28ExwzUQsvgJooOI0X1mr3",
+      "trackName": "I Just Wanna Party",
+      "trackId": "3RPby4oF5tv9tCmACftLXL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a90acb17c800a2416f49fc001b7d438212b20f62",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Mustard",
+      "featuredArtistId": "0YinUQ50QDB7ZxSCLyQ40k",
+      "trackName": "Left, Right",
+      "trackId": "1TeuXAgz42m0t3f03ibLQT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a90acb17c800a2416f49fc001b7d438212b20f62",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Tee Cee",
+      "featuredArtistId": "2wMQ7qnzciLhP0rWPeHCCc",
+      "trackName": "Meet The Flockers",
+      "trackId": "1bbRuSbIkLLS3TUNcNB3Jh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a90acb17c800a2416f49fc001b7d438212b20f62",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Jeezy",
+      "featuredArtistId": "4yBK75WVCQXej1p04GWqxH",
+      "trackName": "My Nigga",
+      "trackId": "6xyxLJFKxxYO3cgWJff5JO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a90acb17c800a2416f49fc001b7d438212b20f62",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Rich Homie Quan",
+      "featuredArtistId": "5lHRUCqkQZCIWeX7xG4sYT",
+      "trackName": "My Nigga",
+      "trackId": "6xyxLJFKxxYO3cgWJff5JO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a90acb17c800a2416f49fc001b7d438212b20f62",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "TeeFLii",
+      "featuredArtistId": "1pCVxwkdixCeBPTboRZIi2",
+      "trackName": "Do It To Ya",
+      "trackId": "3v0bDzFynMz46oc3WPeD4X",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a90acb17c800a2416f49fc001b7d438212b20f62",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Tory Lanez",
+      "featuredArtistId": "2jku7tDXc6XoB6MO2hFuqg",
+      "trackName": "Me & My Bitch",
+      "trackId": "4eVTE4p6cAAsV6xbqlCDrK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a90acb17c800a2416f49fc001b7d438212b20f62",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Kendrick Lamar",
+      "featuredArtistId": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "trackName": "Really Be (Smokin N Drinkin)",
+      "trackId": "2C8cjTYtIiwtfsQNgAi74I",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a90acb17c800a2416f49fc001b7d438212b20f62",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Big TC",
+      "featuredArtistId": "0lcJ0rnv51qnpYkAlvMCGE",
+      "trackName": "Thank God (Interlude)",
+      "trackId": "5OPWKVeSZ0eMXUP0GCAx4f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a90acb17c800a2416f49fc001b7d438212b20f62",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "RJ",
+      "featuredArtistId": "0xsD8wAVvZhP9yyrxrFtWf",
+      "trackName": "Thank God (Interlude)",
+      "trackId": "5OPWKVeSZ0eMXUP0GCAx4f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a90acb17c800a2416f49fc001b7d438212b20f62",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Ty Dolla $ign",
+      "featuredArtistId": "7c0XG5cIJTrrAgEC3ULPiq",
+      "trackName": "Sorry Momma",
+      "trackId": "7zh1OGSvAicrIlAJ0z0zOr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a90acb17c800a2416f49fc001b7d438212b20f62",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Rodney J. \"RJ\" Brown",
+      "featuredArtistId": "0WroUPdF0SUsrr5T9vNuZQ",
+      "trackName": "Thank God (Interlude)",
+      "trackId": "1XomUSXzkjNIgdTm29rQIk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b9c14f2e57fde1a8ae7e123b74867ff55a03757d",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Tee Cee",
+      "featuredArtistId": "6EqBwQI3VN5fsmu8rjdnYa",
+      "trackName": "Meet The Flockers",
+      "trackId": "1cOp16LacvnMumoE93WBny",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eed121b8dc3b631e148e4b0b98c8c2b8c6683e9d",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Reem Riches",
+      "featuredArtistId": "04nzvlu1tO3DOzCSwL03yo",
+      "trackName": "When I Was Gone",
+      "trackId": "75L2kLfuSavtJ31cZNpmtq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/33f88a68569f0d3a26516f76621c2e914c693b68",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Meek Mill",
+      "featuredArtistId": "20sxb77xiYeusSH8cVdatc",
+      "trackName": "My Nigga - Remix",
+      "trackId": "2ePk5lFdCTjFLkoDyMhmWV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/33f88a68569f0d3a26516f76621c2e914c693b68",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Nicki Minaj",
+      "featuredArtistId": "0hCNtLu0JehylgoiP8L4Gh",
+      "trackName": "My Nigga - Remix",
+      "trackId": "2ePk5lFdCTjFLkoDyMhmWV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/33f88a68569f0d3a26516f76621c2e914c693b68",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Mustard",
+      "featuredArtistId": "3ycB3TMwm9E7rlFZSqbVg4",
+      "trackName": "Left, Right",
+      "trackId": "4CcBQ7KBFx174OcEE4oSJe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f86d4ffa8b54052aa0dbac8192b5e83dbe6123c3",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Teecee",
+      "featuredArtistId": "0o4kzgWNJKExdc80OY5k66",
+      "trackName": "Meet The Flockers",
+      "trackId": "48cBMRYmZaUUxQKonZAJER",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f86d4ffa8b54052aa0dbac8192b5e83dbe6123c3",
+      "release_date": "2014-01-01"
+    }
+  ]
+}

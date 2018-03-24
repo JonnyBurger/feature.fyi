@@ -1,0 +1,365 @@
+{
+  "artistName": "Billie Holiday",
+  "features": [
+    {
+      "featuredArtist": "Billy Kyle and His Trio",
+      "featuredArtistId": "2Ru6Dj5tdUgAzLrXcXje7q",
+      "trackName": "Baby, I Don't Cry Over You",
+      "trackId": "3yZbskNCQsAkclKUMK6EiE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b6c7d3d1884d206d0aed6989aee5e1fb7202ec5e",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "The Stardusters",
+      "featuredArtistId": "6PFVx4Huv5WVqRCMu4dibS",
+      "trackName": "Girls Were Made To Take Care Of Boys",
+      "trackId": "5wj9kzICFomEVKO7JF2hek",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b6c7d3d1884d206d0aed6989aee5e1fb7202ec5e",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Buster Harding & His Orchestra",
+      "featuredArtistId": "4E34p5gM12ylO22ddcFPpp",
+      "trackName": "Baby Get Lost",
+      "trackId": "3K1lsqEt89U5QLDrIw6uUF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a61a9c41383d8bbab4736e9476286f977581b335",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Louis Armstrong",
+      "featuredArtistId": "19eLuQmk9aCobbVDHc6eek",
+      "trackName": "My Sweet Hunk O' Trash",
+      "trackId": "4aSzEzIAtyxdqYat1RQDKv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a61a9c41383d8bbab4736e9476286f977581b335",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Sy Oliver & His Orchestra",
+      "featuredArtistId": "0Y0kqoEdmURT48Od9DA8WC",
+      "trackName": "My Sweet Hunk O' Trash",
+      "trackId": "4aSzEzIAtyxdqYat1RQDKv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a61a9c41383d8bbab4736e9476286f977581b335",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Gordon Jenkins And Orchestra",
+      "featuredArtistId": "0te6SxImmbdkGXxSQw9lmK",
+      "trackName": "Somebody's On My Mind",
+      "trackId": "2fuDBmhbSqubTdT3x7nCQj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a61a9c41383d8bbab4736e9476286f977581b335",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "John Simmons & His Orchestra",
+      "featuredArtistId": "0VQ5tyh73r82WVl9Pv9GGa",
+      "trackName": "The Blues Are Brewin'",
+      "trackId": "121k6LhSpSS4LIaFaE18WM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a61a9c41383d8bbab4736e9476286f977581b335",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Takuya Nakamura",
+      "featuredArtistId": "2dsG3u5vUZSGpQGEsq1unH",
+      "trackName": "I Hear Music - Swingsett & Takuya's Mighty Fine Remix",
+      "trackId": "13sPr4zsa0kSxsMBYCjyo6",
+      "preview": "https://p.scdn.co/mp3-preview/2ac836d75f7fe1957e32166fb2fb505a9bd98202?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65ca6cd61e01165e2f7de72c0f30be2552df1189",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "DJ Swingsett",
+      "featuredArtistId": "5XGVwddQPB3HOWI9tACnBe",
+      "trackName": "I Hear Music - Swingsett & Takuya's Mighty Fine Remix",
+      "trackId": "13sPr4zsa0kSxsMBYCjyo6",
+      "preview": "https://p.scdn.co/mp3-preview/2ac836d75f7fe1957e32166fb2fb505a9bd98202?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65ca6cd61e01165e2f7de72c0f30be2552df1189",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Jazzy Nice",
+      "featuredArtistId": "5qG9HBDiVg6ONHTPl4MGnq",
+      "trackName": "More Than You Know - Jazzeem's Throwback Remix",
+      "trackId": "3Pq3JkTs0DIVHqz1Rcfpzx",
+      "preview": "https://p.scdn.co/mp3-preview/87989b6432393b0aa329cca27665ad834fe6fe16?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65ca6cd61e01165e2f7de72c0f30be2552df1189",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Azeem",
+      "featuredArtistId": "1C7GlEj3ifjU7NbXTgV2sN",
+      "trackName": "More Than You Know - Jazzeem's Throwback Remix",
+      "trackId": "3Pq3JkTs0DIVHqz1Rcfpzx",
+      "preview": "https://p.scdn.co/mp3-preview/87989b6432393b0aa329cca27665ad834fe6fe16?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65ca6cd61e01165e2f7de72c0f30be2552df1189",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Roland Richards",
+      "featuredArtistId": "1eSwxDbbYS3wXfCBqO9Y98",
+      "trackName": "Spreadin' Rhythm Around - Lady Bug vs. Lady Day RR Remix",
+      "trackId": "3wDqexYmleqTuBOOdfsl9y",
+      "preview": "https://p.scdn.co/mp3-preview/db0bbd5d421e08dc4a5665beaffe553113e005b6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65ca6cd61e01165e2f7de72c0f30be2552df1189",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Simon Cooper",
+      "featuredArtistId": "3Deh2yWoVWukOCJMMa1wT9",
+      "trackName": "Long Gone Blues - GXR Remix",
+      "trackId": "57KzaZbJnjcYdfCINInk2F",
+      "preview": "https://p.scdn.co/mp3-preview/f5bc758f0512829474dbc46e0830e25356b51736?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65ca6cd61e01165e2f7de72c0f30be2552df1189",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Phil Webb",
+      "featuredArtistId": "6wseuBrIgCBR6FmIGiFxIa",
+      "trackName": "Long Gone Blues - GXR Remix",
+      "trackId": "57KzaZbJnjcYdfCINInk2F",
+      "preview": "https://p.scdn.co/mp3-preview/f5bc758f0512829474dbc46e0830e25356b51736?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65ca6cd61e01165e2f7de72c0f30be2552df1189",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Zeb",
+      "featuredArtistId": "1Gw0Q0Oyi46o9Qd5oOQuv9",
+      "trackName": "Trav'lin' All Alone - Nickodemus & Zeb Remix",
+      "trackId": "0XPr83a8GUaVJZdDZODrnz",
+      "preview": "https://p.scdn.co/mp3-preview/addc7aaca64073e048961385bbde815f7bde5e86?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65ca6cd61e01165e2f7de72c0f30be2552df1189",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Nickodemus",
+      "featuredArtistId": "4VNKVCluxMcjqwYJm3yuQ3",
+      "trackName": "Trav'lin' All Alone - Nickodemus & Zeb Remix",
+      "trackId": "0XPr83a8GUaVJZdDZODrnz",
+      "preview": "https://p.scdn.co/mp3-preview/addc7aaca64073e048961385bbde815f7bde5e86?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65ca6cd61e01165e2f7de72c0f30be2552df1189",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "PoppySeed",
+      "featuredArtistId": "2Ip8QQxw9Uoeoji323kH2g",
+      "trackName": "He Ain't Got Rhythm - Poppyseed Remix",
+      "trackId": "75IQdm1OYWPUNExBcJdR1K",
+      "preview": "https://p.scdn.co/mp3-preview/6692131fd219840e870bf3954d833524412ebb79?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65ca6cd61e01165e2f7de72c0f30be2552df1189",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Scott Schlacter",
+      "featuredArtistId": "0lhTT3G4RqrEaqWcIDtt0G",
+      "trackName": "Summertime - Organica Remix",
+      "trackId": "0ggnsiEpTDUnNItqBAJo4j",
+      "preview": "https://p.scdn.co/mp3-preview/7af56b0d2cd7ec238fcc0a9479cf90a9623e6211?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65ca6cd61e01165e2f7de72c0f30be2552df1189",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "James Cool",
+      "featuredArtistId": "5pquDtYd4lhnYnkxIqwzf0",
+      "trackName": "I'm Gonna Lock My Heart (And Throw Away the Key) - Madison Park Remix",
+      "trackId": "2oL6BUML3bikkpstQQ9y7y",
+      "preview": "https://p.scdn.co/mp3-preview/337702e9710a027fabae1517ecfc11aea213480f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65ca6cd61e01165e2f7de72c0f30be2552df1189",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "DeAnna Cool",
+      "featuredArtistId": "1L3CN3YR2IERj7y8GA2BI6",
+      "trackName": "I'm Gonna Lock My Heart (And Throw Away the Key) - Madison Park Remix",
+      "trackId": "2oL6BUML3bikkpstQQ9y7y",
+      "preview": "https://p.scdn.co/mp3-preview/337702e9710a027fabae1517ecfc11aea213480f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65ca6cd61e01165e2f7de72c0f30be2552df1189",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Daniel Yaghoubi",
+      "featuredArtistId": "6oQRdxsucxvRk6cHtIFhGH",
+      "trackName": "Billie's Blues - Daniel Y Remix",
+      "trackId": "36URn1if5lBhcmF11Rc2OK",
+      "preview": "https://p.scdn.co/mp3-preview/6c035ae680efe55eabf6886b95bfec2f0d431b9b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65ca6cd61e01165e2f7de72c0f30be2552df1189",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Hasan Nasser",
+      "featuredArtistId": "6q7hvWqKHrR1iKqGdDykMh",
+      "trackName": "You're so Desirable - Sunday People Remix",
+      "trackId": "1kp6HFPr4ZwasjtaTmZiLB",
+      "preview": "https://p.scdn.co/mp3-preview/0022b57781230c36517ae5d6ac8d7b2fce7283a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65ca6cd61e01165e2f7de72c0f30be2552df1189",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Sultan Nasser",
+      "featuredArtistId": "3GfDphGhAyCJYquWOCeSOr",
+      "trackName": "You're so Desirable - Sunday People Remix",
+      "trackId": "1kp6HFPr4ZwasjtaTmZiLB",
+      "preview": "https://p.scdn.co/mp3-preview/0022b57781230c36517ae5d6ac8d7b2fce7283a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65ca6cd61e01165e2f7de72c0f30be2552df1189",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Count De Money",
+      "featuredArtistId": "3Cggk9t9ZTw0HJbyNyzZOX",
+      "trackName": "Pennies from Heaven - Count De Money Remix",
+      "trackId": "67x4RpwfnX5B9jpiLHlNlo",
+      "preview": "https://p.scdn.co/mp3-preview/7942af0c9c118f6f0c6b2b9aef490fcee1615b42?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65ca6cd61e01165e2f7de72c0f30be2552df1189",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Charles Feelgood",
+      "featuredArtistId": "5xka456AIsHXnHA3yvirMp",
+      "trackName": "All Of Me - Charles Feelgood Remix",
+      "trackId": "7ElyMvjhzXgUW11gSORwmu",
+      "preview": "https://p.scdn.co/mp3-preview/299d84216f59acf932f1b3940e2596afd0d4076f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65ca6cd61e01165e2f7de72c0f30be2552df1189",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Billy Paul Williams",
+      "featuredArtistId": "1zMqMU48f5ldQ9Y194M4HU",
+      "trackName": "You Showed Me the Way - Billy Paul Williams Remix",
+      "trackId": "3MsraY3IUlMpmexttV8ULj",
+      "preview": "https://p.scdn.co/mp3-preview/a70bc962034b18fbc9fae419745b0baa833e3685?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65ca6cd61e01165e2f7de72c0f30be2552df1189",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Poppy Seed",
+      "featuredArtistId": "4zT8v6Xgx8m8G2iudE9Duk",
+      "trackName": "He Ain't Got Rhythm - Poppyseed Remix",
+      "trackId": "1eyVu3cnVSTSPJtqYnED7s",
+      "preview": "https://p.scdn.co/mp3-preview/f1e69cc37acbf56a038cd89a0ffeadba86cebe73?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8ac3b51d6824e4cc6d89a1f445d8921e027614b6",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Bob Haggart Orchestra",
+      "featuredArtistId": "12dss3h8EjRnwfpx7qsAVH",
+      "trackName": "What Is This Thing Called Love",
+      "trackId": "3q1YtFkdUu7SXi1vCAo5C8",
+      "preview": "https://p.scdn.co/mp3-preview/e35f8b6cabf1342ed6a1ae2cb718dc2492e4ffb8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e81614d81b07c03015f3aac9dcdc62c5a3d00cd0",
+      "release_date": "2005-05-01"
+    },
+    {
+      "featuredArtist": "Toots Camarata Orchestra",
+      "featuredArtistId": "7gYt78u408ACultjWMAMxo",
+      "trackName": "Lover Man (Oh, Where Can You Be?)",
+      "trackId": "6rg7AbsdI7wqDvsjHRqSgN",
+      "preview": "https://p.scdn.co/mp3-preview/58ff225cdc9e0fbc24adaa7f840036fe505eeab4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e81614d81b07c03015f3aac9dcdc62c5a3d00cd0",
+      "release_date": "2005-05-01"
+    },
+    {
+      "featuredArtist": "The Bill Stegmeyer Orchestra",
+      "featuredArtistId": "1n8PJz09JuuKA4ouK55w4s",
+      "trackName": "Good Morning Heartache",
+      "trackId": "4OIYbTXf9QKAfGHn08IUbn",
+      "preview": "https://p.scdn.co/mp3-preview/9796284d5cdd32d955d3a2873e7dd25219bfac3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e81614d81b07c03015f3aac9dcdc62c5a3d00cd0",
+      "release_date": "2005-05-01"
+    },
+    {
+      "featuredArtist": "Studio ensemble",
+      "featuredArtistId": "1LLaJueP0g0OCbFeZdSpGG",
+      "trackName": "Fancy Free: Big Stuff",
+      "trackId": "7iwYZ4SRbuVgkmw6J0NWdx",
+      "preview": "https://p.scdn.co/mp3-preview/c3df06ded2a0629b0800e6f7037bb2de7d6ed748?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e81614d81b07c03015f3aac9dcdc62c5a3d00cd0",
+      "release_date": "2005-05-01"
+    },
+    {
+      "featuredArtist": "John Simmons Orchestra",
+      "featuredArtistId": "42KJZCdYY6NdacA6z3pqV2",
+      "trackName": "New Orleans: The Blues Are Brewin'",
+      "trackId": "7rIuoyjZA1pE9nJzjqPSTn",
+      "preview": "https://p.scdn.co/mp3-preview/0162a7b882378724f7d09867f086d68da8b39531?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e81614d81b07c03015f3aac9dcdc62c5a3d00cd0",
+      "release_date": "2005-05-01"
+    },
+    {
+      "featuredArtist": "The Sy Oliver Orchestra",
+      "featuredArtistId": "2XWd2yH74Q5K3MZISakw2f",
+      "trackName": "Keeps On A Rainin'",
+      "trackId": "4si3HJA4xPVIF6DJlUe08c",
+      "preview": "https://p.scdn.co/mp3-preview/13e08b327fba499f6b9161595813d49fc7711a7a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e81614d81b07c03015f3aac9dcdc62c5a3d00cd0",
+      "release_date": "2005-05-01"
+    },
+    {
+      "featuredArtist": "Buster Harding Orchestra",
+      "featuredArtistId": "0QDmNSHtRrieJ144Sj7paj",
+      "trackName": "Ain't Nobody's Business: 'Tain't Nobody's Business If I Do",
+      "trackId": "09tSYKvmuJNek1KUshczS3",
+      "preview": "https://p.scdn.co/mp3-preview/644e1b57a8021fdd475c916c821f33163dfd78be?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e81614d81b07c03015f3aac9dcdc62c5a3d00cd0",
+      "release_date": "2005-05-01"
+    },
+    {
+      "featuredArtist": "Benny Carter All Star Orchestra",
+      "featuredArtistId": "10Ew6Y1CsdjxPPYakGDaCg",
+      "trackName": "Loveless Love",
+      "trackId": "4GwiPJkjDE6SmSIJAGvfSK",
+      "preview": "https://p.scdn.co/mp3-preview/8869fe12e09666ba78eebd5b96bd7d20d7f5e683?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a17042d6ed9a1f994a3b58c215216d7231e3b960",
+      "release_date": "2004-04-01"
+    },
+    {
+      "featuredArtist": "Eddie Heywood Orchestra",
+      "featuredArtistId": "3eneDc8efLyQv19cA432pd",
+      "trackName": "All of Me",
+      "trackId": "1xW4leAsWLb80ZBuvUTJsE",
+      "preview": "https://p.scdn.co/mp3-preview/2f49852e19dd8afea34d7fd78098f6eb16f2a681?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a17042d6ed9a1f994a3b58c215216d7231e3b960",
+      "release_date": "2004-04-01"
+    },
+    {
+      "featuredArtist": "Teddy Wilson Orchestra",
+      "featuredArtistId": "2aBZG9rDcbVyEVodGQ6CUZ",
+      "trackName": "Until the Real Thing Comes Along",
+      "trackId": "5YBsyUumXXmVdioGwmNQDs",
+      "preview": "https://p.scdn.co/mp3-preview/dac525fb1f8de799caac10fe24049170157e3966?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a17042d6ed9a1f994a3b58c215216d7231e3b960",
+      "release_date": "2004-04-01"
+    },
+    {
+      "featuredArtist": "Paul Whiteman Orchestra",
+      "featuredArtistId": "7bzdtw3PpKnxKvCTIVXwJP",
+      "trackName": "Trav'lin' Light",
+      "trackId": "1l1RSrsts6hTWlhgC5sY0C",
+      "preview": "https://p.scdn.co/mp3-preview/f3f4e50f78131380bd61b6f20707b1926fede636?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a17042d6ed9a1f994a3b58c215216d7231e3b960",
+      "release_date": "2004-04-01"
+    },
+    {
+      "featuredArtist": "Eddie Heywood Trio",
+      "featuredArtistId": "3BjC86pO0Sq4CT62AhewQA",
+      "trackName": "Lover, Come Back to Me",
+      "trackId": "60USPjovfUJXpS5NpasrhZ",
+      "preview": "https://p.scdn.co/mp3-preview/bb910b61eb8f5e6219df0759fe5cf9a05d7ac51e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a17042d6ed9a1f994a3b58c215216d7231e3b960",
+      "release_date": "2004-04-01"
+    },
+    {
+      "featuredArtist": "Artie Shaw Orchestra",
+      "featuredArtistId": "6dDceDIrgKrOJROiTZ7HMQ",
+      "trackName": "Any Old Time",
+      "trackId": "3TCswOmrM8Iipvt8F6guDr",
+      "preview": "https://p.scdn.co/mp3-preview/0e90e753033a5aa06b1fcf238a451f778c24b43b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2549910233d93be6fd6f02ef4ec4277342ac3cd6",
+      "release_date": "2002-04-02"
+    }
+  ]
+}

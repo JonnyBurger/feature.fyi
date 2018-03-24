@@ -1,0 +1,59 @@
+{
+  "artistName": "Birdy",
+  "features": [
+    {
+      "featuredArtist": "RHODES",
+      "featuredArtistId": "07FfkbljNIdl45Ijlh1aXS",
+      "trackName": "Let It All Go",
+      "trackId": "3KFPdcl0YlsBYsoqdne3cU",
+      "preview": "https://p.scdn.co/mp3-preview/8ec4cec52d5a1acab8a572e5ab83613526faeef1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/afd3acff8667727320318741201ef412a20ca473",
+      "release_date": "2016-03-25"
+    },
+    {
+      "featuredArtist": "Alvaro Soler",
+      "featuredArtistId": "2urF8dgLVfDjunO0pcHUEe",
+      "trackName": "Let It All Go (feat. Álvaro Soler)",
+      "trackId": "6CaYKqjBlCCfo9oqhs7e7t",
+      "preview": "https://p.scdn.co/mp3-preview/639d673ad7e1272a3bb1dd82bc704fc821aa9830?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a323b2bc6705e124aa6ff2377a2fd4346d5cb507",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Blonde",
+      "featuredArtistId": "2nuKjZLgc7II6FO4Rxjt5e",
+      "trackName": "Words - We Are I.V Remix",
+      "trackId": "39bDdlpX9AKtXhFmv6twbp",
+      "preview": "https://p.scdn.co/mp3-preview/a2d28f04b0aff98fbea7c7a106bcb4ac5b7405a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ea59f93a7f57b13b199e174997a211c255cb05b1",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "We Are I.V",
+      "featuredArtistId": "72Zv5wZvluMB6IYwCd0kDM",
+      "trackName": "Words - We Are I.V Remix",
+      "trackId": "39bDdlpX9AKtXhFmv6twbp",
+      "preview": "https://p.scdn.co/mp3-preview/a2d28f04b0aff98fbea7c7a106bcb4ac5b7405a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ea59f93a7f57b13b199e174997a211c255cb05b1",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Navii",
+      "featuredArtistId": "7rYrupDve9b3EXzS3VObTB",
+      "trackName": "Words - We Are I.V Remix; feat. Navii",
+      "trackId": "0I4nsdetP4KVUr25fEDzoU",
+      "preview": "https://p.scdn.co/mp3-preview/a4af4a0dc891de0cd506fbbb071bf83b6c8e4c9b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/810f37f7705654a6921eff45968b7ac16744e5f5",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "EDX",
+      "featuredArtistId": "7GMot9WvBYqhhJz92vhBp6",
+      "trackName": "Words - EDX Remix",
+      "trackId": "3uAGUp3Fidk2xBQOyc9qoH",
+      "preview": "https://p.scdn.co/mp3-preview/92bfff284aef89eda1bdf01b7b7eb907aec823a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/603848543a78e1c3d191a8dbf9d6cc7482591fef",
+      "release_date": "2016-09-02"
+    }
+  ]
+}

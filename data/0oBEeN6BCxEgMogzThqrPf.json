@@ -1,0 +1,59 @@
+{
+  "artistName": "Big & Rich",
+  "features": [
+    {
+      "featuredArtist": "The Isaacs",
+      "featuredArtistId": "7Gr7Uulfyw9J9F74eQfBOp",
+      "trackName": "My Son",
+      "trackId": "2P48KcSEovGrr8mDJt4Muw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/751bbaf64e83ef80ed1412e40faba56bdd4502ba",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Tim McGraw",
+      "featuredArtistId": "6roFdX1y5BYSbp60OTJWMd",
+      "trackName": "Lovin' Lately",
+      "trackId": "28Ity8iD8yajjIi58syN83",
+      "preview": "https://p.scdn.co/mp3-preview/d4524d2ecd3208a1e02723f91540a67f257cfb43?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/21a671bc2c49e281e9798743b46f2adb7eb484e4",
+      "release_date": "2014-09-23"
+    },
+    {
+      "featuredArtist": "Bon Jovi",
+      "featuredArtistId": "58lV9VcRSjABbAbfWS6skp",
+      "trackName": "Born Again - feat. Bon Jovi",
+      "trackId": "65a9IiidMnt1hg0xdwvKf1",
+      "preview": "https://p.scdn.co/mp3-preview/4cefe54b674930a5e30f5a90a7964165b83f4331?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db4bcc0fda5d809e33f97c9ccd24543f420e336b",
+      "release_date": "2012-09-18"
+    },
+    {
+      "featuredArtist": "John Legend",
+      "featuredArtistId": "5y2Xq6xcjJb2jVM54GHK3t",
+      "trackName": "Eternity - feat. John Legend",
+      "trackId": "0G2mkJlKXB0ygk8CTqCtVs",
+      "preview": "https://p.scdn.co/mp3-preview/178da4274b76b4fc813c9ce209ca80bf165c9dd8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/afba7e6178da5572956cd46ee042e7f7967b2ee5",
+      "release_date": "2007-06-05"
+    },
+    {
+      "featuredArtist": "Wyclef Jean",
+      "featuredArtistId": "7aBzpmFXB4WWpPl2F7RjBe",
+      "trackName": "Please Man - feat. Wyclef Jean",
+      "trackId": "2I3gxe2fNpHxm69zqnrO11",
+      "preview": "https://p.scdn.co/mp3-preview/19f62b58d6e91bfa460b344127d463a319612e9d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/afba7e6178da5572956cd46ee042e7f7967b2ee5",
+      "release_date": "2007-06-05"
+    },
+    {
+      "featuredArtist": "Gretchen Wilson",
+      "featuredArtistId": "0IdYRFTswLdsGwSnzOaGNF",
+      "trackName": "Fake ID (feat. Gretchen Wilson)",
+      "trackId": "6dFcL5hsy8dy0RCFx7f5FD",
+      "preview": "https://p.scdn.co/mp3-preview/d9e7ed545957c1da555f721cde870ac846e57dbb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2758a4622f3b139c836d362b92227c008ba179d4",
+      "release_date": "2011-05-13"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "artistName": "AVA",
+  "features": [
+    {
+      "featuredArtist": "Capo Plaza",
+      "featuredArtistId": "5SulO4l40qDuV9zUGLZx7n",
+      "trackName": "Giovane fuoriclasse",
+      "trackId": "7GFCOl2gVEv9d6gwdY5Fvb",
+      "preview": "https://p.scdn.co/mp3-preview/4ee842d47dafd75da3c87ecdd97303f12c96f8bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ed4718857b58a482cbfaea595540d43a5c174060",
+      "release_date": "2017-10-18"
+    },
+    {
+      "featuredArtist": "Mojobeatz",
+      "featuredArtistId": "1Pwd1KP0QpMW7BZq6EdTB0",
+      "trackName": "Allenamento #3",
+      "trackId": "5AzbJFy0A1AeYKaOnjW27N",
+      "preview": "https://p.scdn.co/mp3-preview/d29b717b4d1a5a7639c0380dd86a190d24529c6b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b30aebf28413c6c039a37ab52069a65e18e41900",
+      "release_date": "2017-06-13"
+    }
+  ]
+}

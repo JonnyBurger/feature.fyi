@@ -1,0 +1,68 @@
+{
+  "artistName": "ROZES",
+  "features": [
+    {
+      "featuredArtist": "Nicky Romero",
+      "featuredArtistId": "5ChF3i92IPZHduM7jN3dpg",
+      "trackName": "Where Would We Be",
+      "trackId": "2d3fNzMA3aUqeRFWHqzbHd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f7932f3110dd2579adc7f5e9d83651974674e804",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Dave Edwards",
+      "featuredArtistId": "5K9yWwWkldOuuicvIjstPL",
+      "trackName": "Famous - Dave Edwards Remix",
+      "trackId": "6PDUZYFWSEURBsqfIvMfof",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/116ac715efb150c26a8659eae9f053e0e1edda3d",
+      "release_date": "2017-12-29"
+    },
+    {
+      "featuredArtist": "Paperwings",
+      "featuredArtistId": "3I6DwHkHMgBAb6GUrOt7QX",
+      "trackName": "Famous - Paperwings Remix",
+      "trackId": "3DaQ1l9rTwoHnqMj26SRXE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2db966c234e53752d57a3ee543b5e99c3c3a6ed1",
+      "release_date": "2017-12-22"
+    },
+    {
+      "featuredArtist": "Holz",
+      "featuredArtistId": "27b5J0g1tgqnXsyoM5TUrJ",
+      "trackName": "Famous - Holz Remix",
+      "trackId": "1ASdsJO9WT5s4VbEqW3fOo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/da271df71abc8701a992746ce14d067497146b0e",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Holz",
+      "featuredArtistId": "2vNZIT5jpn8I1d64lpgP9t",
+      "trackName": "Famous - Holz Remix",
+      "trackId": "5f7tCKHemg3bSFtXhCPee1",
+      "preview": "https://p.scdn.co/mp3-preview/966c8b4a2c6a7acf67d87f5bf3d1fcf9746ed27a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/91354d8b0e828b168721d463f4badd9edc095aed",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Evan Gartner",
+      "featuredArtistId": "2xGRba7eyqdwy3JgDzPcEV",
+      "trackName": "Famous - Evan Gartner Remix",
+      "trackId": "0jRt8hsGcrDKTokgfyiAHf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a9783bcdcc65d2885f1afc41827de7382c8c91be",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Trouze",
+      "featuredArtistId": "4SoF1XBWjLKLBGe6j1hhBo",
+      "trackName": "Canyons - Trouze Remix",
+      "trackId": "5XC253KgBnAHE3G3bhLHUn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1ae8ad5e2a3ddeb4183774ba987dfbce21063961",
+      "release_date": "2017-09-08"
+    }
+  ]
+}

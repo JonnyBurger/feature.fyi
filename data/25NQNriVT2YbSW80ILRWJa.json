@@ -1,0 +1,41 @@
+{
+  "artistName": "Faith Hill",
+  "features": [
+    {
+      "featuredArtist": "Tim McGraw",
+      "featuredArtistId": "6roFdX1y5BYSbp60OTJWMd",
+      "trackName": "The Rest of Our Life",
+      "trackId": "19P6cJstaoQJHtHW3HOGcg",
+      "preview": "https://p.scdn.co/mp3-preview/e468f42357ae4b03cad36c1de64f2ae407f1d27a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8de4f7c735ced43d22eae07daf5e0841985ec690",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Tin Tin Out",
+      "featuredArtistId": "1a5l3fWnzmaK7gDD2IkbHq",
+      "trackName": "Breathe - Tin Tin Out Edit",
+      "trackId": "2TiZNq8ttQacZU79YmmSrY",
+      "preview": "https://p.scdn.co/mp3-preview/e8ba0086efc8afb37d1170a6caa6b68a57be9ed1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7f0aa7a1484fa11dcafb16c85e9e2bee79457428",
+      "release_date": "2001-10-01"
+    },
+    {
+      "featuredArtist": "Love To Infinity",
+      "featuredArtistId": "4miLZsoDb8zAWs344Ngoet",
+      "trackName": "The Way You Love Me - Love To Infinity Radio Mix",
+      "trackId": "2Ja35q9qk6rqsy4pKzyNHz",
+      "preview": "https://p.scdn.co/mp3-preview/02f15d577b59a2d8741f94999caca68454dfb5eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7f0aa7a1484fa11dcafb16c85e9e2bee79457428",
+      "release_date": "2001-10-01"
+    },
+    {
+      "featuredArtist": "Josh Groban",
+      "featuredArtistId": "6cXMpsP9x0SH4kFfMyVezF",
+      "trackName": "The First Noël (with Faith Hill)",
+      "trackId": "5fhjN7E4rV0GqsRSQBsWeo",
+      "preview": "https://p.scdn.co/mp3-preview/78246ab13a56e693789c126854adfd27ceafaa8d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29f1926c7dfb078072948424922ea6e29f48e579",
+      "release_date": "2017-11-03"
+    }
+  ]
+}

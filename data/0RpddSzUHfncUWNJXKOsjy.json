@@ -1,0 +1,50 @@
+{
+  "artistName": "Neon Trees",
+  "features": [
+    {
+      "featuredArtist": "Kaskade",
+      "featuredArtistId": "6TQj5BFPooTa08A7pk8AQ1",
+      "trackName": "Lessons In Love (All Day, All Night)",
+      "trackId": "7qGG1M6jNNKCZc6BgZI3KK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6008736a279089dd1b3f991859a46c360d2ecb9d",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "DJs From Mars",
+      "featuredArtistId": "1pmwwNA38kkkJwEMWe8hLD",
+      "trackName": "Animal - DJs From Mars Radio",
+      "trackId": "7IZS8I4voNhYHEPdHMQaQY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cb7269c5b0da50f8a529cd75fb115747450e1849",
+      "release_date": "2010"
+    },
+    {
+      "featuredArtist": "Tyler Glenn",
+      "featuredArtistId": "5XCujjq919BFXTnjyyDpiE",
+      "trackName": "Animal - Tyler Glenn Remix",
+      "trackId": "0tBF5DuMEULVs2LMk3Nl6m",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cb7269c5b0da50f8a529cd75fb115747450e1849",
+      "release_date": "2010"
+    },
+    {
+      "featuredArtist": "Expensive People",
+      "featuredArtistId": "6xXAXeVU6kUy3sl525566a",
+      "trackName": "Animal - Expensive People Remix",
+      "trackId": "5fZY2IcoiykMewr5W2uWzv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cb7269c5b0da50f8a529cd75fb115747450e1849",
+      "release_date": "2010"
+    },
+    {
+      "featuredArtist": "Avedon",
+      "featuredArtistId": "0wrXBaqXLjMAraipqAbPVY",
+      "trackName": "Feel Good - Avedon Remix",
+      "trackId": "4UT4zMn2aLB6ut63iQexwJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a125ffbb4fe7ebfd828cd481124c6f22682c6034",
+      "release_date": "2017-10-20"
+    }
+  ]
+}

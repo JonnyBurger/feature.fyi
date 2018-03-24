@@ -1,0 +1,518 @@
+{
+  "artistName": "Tony Bennett",
+  "features": [
+    {
+      "featuredArtist": "Billy Joel",
+      "featuredArtistId": "6zFYqv1mOsgBRQbae3JJ9e",
+      "trackName": "New York State of Mind",
+      "trackId": "1CZ0JP3v4x1k1Kjrvvd0xa",
+      "preview": "https://p.scdn.co/mp3-preview/5a1173c2da14d489ee601dc009144a51ab25d9a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/92d851154487f590275d4e4a086644b2b709631c",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Bill Charlap",
+      "featuredArtistId": "2QX8yUROOnWTSLFg4sZ9Gg",
+      "trackName": "All The Things You Are",
+      "trackId": "7dW9KIZvcQJnjQb3vy5Q6i",
+      "preview": "https://p.scdn.co/mp3-preview/60ec847f93bdbf7f071e2935071102b246835a71?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3aaa0d40c09563f637227c24daa7826bdf03339c",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "Lady Gaga",
+      "featuredArtistId": "1HY2Jd0NmPuamShAr6KMms",
+      "trackName": "Anything Goes",
+      "trackId": "3Cq4BUlxDg4ulj7XnN2COP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8dbcbd375fa79823e5c3e326bc40f1f8e949c685",
+      "release_date": "2014-09-23"
+    },
+    {
+      "featuredArtist": "Dave Brubeck Trio",
+      "featuredArtistId": "0dvI5UOAa3FcQ78nmQYWbq",
+      "trackName": "Lullaby Of Broadway - Live",
+      "trackId": "4gkaHW9cc8TgW9lcVyrUVm",
+      "preview": "https://p.scdn.co/mp3-preview/8f51ee595369915620d4327e209b51ac56f2eb6b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a2f864eb0142e9ea00590aeb4ce1bba307ea8945",
+      "release_date": "2013-05-24"
+    },
+    {
+      "featuredArtist": "Vicente Fernández",
+      "featuredArtistId": "4PPoI9LuYeFX8V674Z1R6l",
+      "trackName": "Return To Me (Regresa a Mí)",
+      "trackId": "0Sa6IGztmU0WO71xwN5Gnr",
+      "preview": "https://p.scdn.co/mp3-preview/8b16d81b6bcd62ce82ef60dd77c6740d32a1b909?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9fdfcca3819f42070fe4ebf98edb037e2feccf17",
+      "release_date": "2012-10-23"
+    },
+    {
+      "featuredArtist": "Chayanne",
+      "featuredArtistId": "1JbemQ1fPt2YmSLjAFhPBv",
+      "trackName": "The Best Is Yet to Come",
+      "trackId": "2myiKcalxevcKzL557Pu55",
+      "preview": "https://p.scdn.co/mp3-preview/fb072492759a8276d237b101c9df4392ae2723dd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9fdfcca3819f42070fe4ebf98edb037e2feccf17",
+      "release_date": "2012-10-23"
+    },
+    {
+      "featuredArtist": "Thalía",
+      "featuredArtistId": "23wEWD21D4TPYiJugoXmYb",
+      "trackName": "The Way You Look Tonight",
+      "trackId": "5HihONPKVzcpOwrvVGOef3",
+      "preview": "https://p.scdn.co/mp3-preview/c7746dc922421936c32c65b8167fe134a86f6cf1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9fdfcca3819f42070fe4ebf98edb037e2feccf17",
+      "release_date": "2012-10-23"
+    },
+    {
+      "featuredArtist": "Christina Aguilera",
+      "featuredArtistId": "1l7ZsJRRS8wlW3WfJfPfNS",
+      "trackName": "Steppin' Out with My Baby",
+      "trackId": "0lavHqjVMPOYVbCPjpgnSK",
+      "preview": "https://p.scdn.co/mp3-preview/1e9ea5914fdbcf4e936518a62ed946a33569a4e8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9fdfcca3819f42070fe4ebf98edb037e2feccf17",
+      "release_date": "2012-10-23"
+    },
+    {
+      "featuredArtist": "Marc Anthony",
+      "featuredArtistId": "4wLXwxDeWQ8mtUIRPxGiD6",
+      "trackName": "For Once in My Life",
+      "trackId": "4J0SIJoW4uWOaEOqrKAr5J",
+      "preview": "https://p.scdn.co/mp3-preview/a1f97bf4a8958a4041d027073479b40110fcae08?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9fdfcca3819f42070fe4ebf98edb037e2feccf17",
+      "release_date": "2012-10-23"
+    },
+    {
+      "featuredArtist": "Dani Martín",
+      "featuredArtistId": "3AIPhNgeF9S1Kyg9Yy3UQW",
+      "trackName": "Are You Havin' Any Fun?",
+      "trackId": "5AB3D5vKUnjiBMTtcR1lUf",
+      "preview": "https://p.scdn.co/mp3-preview/6ad8b12f9ce7fe8584b12bcc5d4f7f6dd054f921?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9fdfcca3819f42070fe4ebf98edb037e2feccf17",
+      "release_date": "2012-10-23"
+    },
+    {
+      "featuredArtist": "Maria Gadú",
+      "featuredArtistId": "3uCu2WgyG0Iw50ylOYDSpH",
+      "trackName": "Blue Velvet",
+      "trackId": "7wldEXWpZ2lB18f7IRP6ed",
+      "preview": "https://p.scdn.co/mp3-preview/3ef096da18425a723b5c3806695a2c44ae575d03?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9fdfcca3819f42070fe4ebf98edb037e2feccf17",
+      "release_date": "2012-10-23"
+    },
+    {
+      "featuredArtist": "Franco De Vita",
+      "featuredArtistId": "4NEYQeEYBUjfaXgDQGvFvu",
+      "trackName": "The Good Life",
+      "trackId": "5d8ujAFyr9n2PxopZbJFTv",
+      "preview": "https://p.scdn.co/mp3-preview/10f82b1d626c7b8fe9faa88a8b5ff4b6eec437af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9fdfcca3819f42070fe4ebf98edb037e2feccf17",
+      "release_date": "2012-10-23"
+    },
+    {
+      "featuredArtist": "Ricardo Arjona",
+      "featuredArtistId": "0h1zs4CTlU9D2QtgPxptUD",
+      "trackName": "I Wanna Be Around",
+      "trackId": "1oELZTQw04y81Z1rFoklBh",
+      "preview": "https://p.scdn.co/mp3-preview/e1b2d92a0dc4622fe696e7152d0cd15d5c4d456a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9fdfcca3819f42070fe4ebf98edb037e2feccf17",
+      "release_date": "2012-10-23"
+    },
+    {
+      "featuredArtist": "Gloria Estefan",
+      "featuredArtistId": "5IFCkqu9J6xdWeYMk5I889",
+      "trackName": "Who Can I Turn To (When Nobody Needs Me)",
+      "trackId": "3YBffT6TTFm8cMwtog6lSo",
+      "preview": "https://p.scdn.co/mp3-preview/7b8e5b7b8fda25f76576e8b3318f0b355e55d953?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9fdfcca3819f42070fe4ebf98edb037e2feccf17",
+      "release_date": "2012-10-23"
+    },
+    {
+      "featuredArtist": "Miguel Bosé",
+      "featuredArtistId": "7mWCSSOYqm4E9mB7V4ot6S",
+      "trackName": "Don't Get Around Much Anymore",
+      "trackId": "5UNI10APF5QINw2JfbBNQR",
+      "preview": "https://p.scdn.co/mp3-preview/b443f6224fd9e6056f9445134221aa1b866bb4b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9fdfcca3819f42070fe4ebf98edb037e2feccf17",
+      "release_date": "2012-10-23"
+    },
+    {
+      "featuredArtist": "Ana Carolina",
+      "featuredArtistId": "4HP9KltldfmkH2M2pQozzN",
+      "trackName": "The Very Thought Of You",
+      "trackId": "7dXx0tI2H1tcMubsKrJdGP",
+      "preview": "https://p.scdn.co/mp3-preview/404c35549a5b7ba09790bcb407103ecb3813e9fe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9fdfcca3819f42070fe4ebf98edb037e2feccf17",
+      "release_date": "2012-10-23"
+    },
+    {
+      "featuredArtist": "Juan Luis Guerra 4.40",
+      "featuredArtistId": "3nlpTZci9O5W8RsNoNH559",
+      "trackName": "Just in Time",
+      "trackId": "49vluXL4SO2TSmXYJemRM8",
+      "preview": "https://p.scdn.co/mp3-preview/05ba69e8b93ec2a5b202d657d0a446f211372364?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9fdfcca3819f42070fe4ebf98edb037e2feccf17",
+      "release_date": "2012-10-23"
+    },
+    {
+      "featuredArtist": "Vicentico",
+      "featuredArtistId": "25THA9HUHoxpCT4LBp7UsZ",
+      "trackName": "Cold, Cold Heart",
+      "trackId": "2a92lnJ1HOTS6ai7Qx1XQP",
+      "preview": "https://p.scdn.co/mp3-preview/c26f5f168fd9a2e3cb8cbd2b193e00c4f3f05190?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9fdfcca3819f42070fe4ebf98edb037e2feccf17",
+      "release_date": "2012-10-23"
+    },
+    {
+      "featuredArtist": "Romeo Santos",
+      "featuredArtistId": "5lwmRuXgjX8xIwlnauTZIP",
+      "trackName": "Rags to Riches",
+      "trackId": "2s6c1kqErPii95FwrnEFlG",
+      "preview": "https://p.scdn.co/mp3-preview/2d292cf504b9163ef84227d4204b14d01b10851f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9fdfcca3819f42070fe4ebf98edb037e2feccf17",
+      "release_date": "2012-10-23"
+    },
+    {
+      "featuredArtist": "John Mayer",
+      "featuredArtistId": "0hEurMDQu99nJRq8pTxO14",
+      "trackName": "One for My Baby (And One More for the Road)",
+      "trackId": "1c4oqyJGptLz2Yt7LLheX8",
+      "preview": "https://p.scdn.co/mp3-preview/9897b453de4d1b82d5519b70a6ef8cdc67e3f077?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cec86f22a52589efcb82ce92275cc6d9f5d0e87",
+      "release_date": "2011-09-16"
+    },
+    {
+      "featuredArtist": "Amy Winehouse",
+      "featuredArtistId": "6Q192DXotxtaysaqNPy5yR",
+      "trackName": "Body and Soul",
+      "trackId": "01hJnhpAmjzg85Etnz2ECH",
+      "preview": "https://p.scdn.co/mp3-preview/345c02440502b0a6a97314d7c98651bec0a37334?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cec86f22a52589efcb82ce92275cc6d9f5d0e87",
+      "release_date": "2011-09-16"
+    },
+    {
+      "featuredArtist": "Michael Bublé",
+      "featuredArtistId": "1GxkXlMwML1oSg5eLPiAz3",
+      "trackName": "Don't Get Around Much Anymore",
+      "trackId": "6RjvMuSa4ZCqPueIIO4IBs",
+      "preview": "https://p.scdn.co/mp3-preview/85593dae871c1f5574296ac508cc4f47536bfd87?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cec86f22a52589efcb82ce92275cc6d9f5d0e87",
+      "release_date": "2011-09-16"
+    },
+    {
+      "featuredArtist": "k.d. lang",
+      "featuredArtistId": "6W1BHDF0T4a4KYcSwzD586",
+      "trackName": "Blue Velvet",
+      "trackId": "1icxduZe57KTaogd6BGfxV",
+      "preview": "https://p.scdn.co/mp3-preview/0d627ca232c46163d5578dab740e6fd716be79c2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cec86f22a52589efcb82ce92275cc6d9f5d0e87",
+      "release_date": "2011-09-16"
+    },
+    {
+      "featuredArtist": "Aretha Franklin",
+      "featuredArtistId": "7nwUJBm0HE4ZxD3f5cy5ok",
+      "trackName": "How Do You Keep The Music Playing",
+      "trackId": "4LTa2DALHWoAvFKQwsRugj",
+      "preview": "https://p.scdn.co/mp3-preview/e0563a26f291cfe61efd2e3f526959f7e9c8f768?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cec86f22a52589efcb82ce92275cc6d9f5d0e87",
+      "release_date": "2011-09-16"
+    },
+    {
+      "featuredArtist": "Sheryl Crow",
+      "featuredArtistId": "4TKTii6gnOnUXQHyuo9JaD",
+      "trackName": "The Girl I Love",
+      "trackId": "0kWDyv2i02guLUhH7IwyKn",
+      "preview": "https://p.scdn.co/mp3-preview/d41998197d8cfcbeb859974a042e2b5362a037bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cec86f22a52589efcb82ce92275cc6d9f5d0e87",
+      "release_date": "2011-09-16"
+    },
+    {
+      "featuredArtist": "Willie Nelson",
+      "featuredArtistId": "5W5bDNCqJ1jbCgTxDD0Cb3",
+      "trackName": "On The Sunny Side Of The Street",
+      "trackId": "4hkfBXwxJnCWRf9sDZvtkr",
+      "preview": "https://p.scdn.co/mp3-preview/a070418a436f63b654c554efed83814bc0ac3f35?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cec86f22a52589efcb82ce92275cc6d9f5d0e87",
+      "release_date": "2011-09-16"
+    },
+    {
+      "featuredArtist": "Queen Latifah",
+      "featuredArtistId": "5m7wCUhYhBh7A3A3YMxrbt",
+      "trackName": "Who Can I Turn To (When Nobody Needs Me)",
+      "trackId": "2FErOzGHJgSwZTDgAPSoqm",
+      "preview": "https://p.scdn.co/mp3-preview/72916b66a467a643f1671b4f452d85fffb33b8b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cec86f22a52589efcb82ce92275cc6d9f5d0e87",
+      "release_date": "2011-09-16"
+    },
+    {
+      "featuredArtist": "Norah Jones",
+      "featuredArtistId": "2Kx7MNY7cI1ENniW7vT30N",
+      "trackName": "Speak Low",
+      "trackId": "3aNVmx1plEeXKApSzTvUTc",
+      "preview": "https://p.scdn.co/mp3-preview/65370cd3887b97ebcc33919339fdb6b6ed3aaf92?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cec86f22a52589efcb82ce92275cc6d9f5d0e87",
+      "release_date": "2011-09-16"
+    },
+    {
+      "featuredArtist": "Josh Groban",
+      "featuredArtistId": "6cXMpsP9x0SH4kFfMyVezF",
+      "trackName": "This Is All I Ask",
+      "trackId": "7nOVRsOQX8xfxi0w0YjOoY",
+      "preview": "https://p.scdn.co/mp3-preview/1cd0becf7eaceb93b3e3619b5357ff4a0560c1fe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cec86f22a52589efcb82ce92275cc6d9f5d0e87",
+      "release_date": "2011-09-16"
+    },
+    {
+      "featuredArtist": "Natalie Cole",
+      "featuredArtistId": "5tTsrGPwQRWUsHR2Xf7Ke9",
+      "trackName": "Watch What Happens",
+      "trackId": "0sI8cltNSfRCkZJu7v5SEz",
+      "preview": "https://p.scdn.co/mp3-preview/75701bd10708bf6f8c07e59e175374ccb7381b8f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cec86f22a52589efcb82ce92275cc6d9f5d0e87",
+      "release_date": "2011-09-16"
+    },
+    {
+      "featuredArtist": "Andrea Bocelli",
+      "featuredArtistId": "3EA9hVIzKfFiQI0Kikz2wo",
+      "trackName": "Stranger In Paradise",
+      "trackId": "1HUc5mDTIx8Ul2cxSiAkcj",
+      "preview": "https://p.scdn.co/mp3-preview/ef5cf632624c03b5195f3f92d08f9f5c08090a8e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cec86f22a52589efcb82ce92275cc6d9f5d0e87",
+      "release_date": "2011-09-16"
+    },
+    {
+      "featuredArtist": "Faith Hill",
+      "featuredArtistId": "25NQNriVT2YbSW80ILRWJa",
+      "trackName": "The Way You Look Tonight",
+      "trackId": "5fCMc1nyzHJDzuUWfsIiSB",
+      "preview": "https://p.scdn.co/mp3-preview/47dbf1f3694e0c2652340cf52c1a86903fffae94?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cec86f22a52589efcb82ce92275cc6d9f5d0e87",
+      "release_date": "2011-09-16"
+    },
+    {
+      "featuredArtist": "Alejandro Sanz",
+      "featuredArtistId": "5sUrlPAHlS9NEirDB8SEbF",
+      "trackName": "Yesterday I Heard the Rain",
+      "trackId": "7MF5UwTUzs1A1tcXDkyC1S",
+      "preview": "https://p.scdn.co/mp3-preview/e90132268bd655a9698dac31efefd5a3d6de1532?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cec86f22a52589efcb82ce92275cc6d9f5d0e87",
+      "release_date": "2011-09-16"
+    },
+    {
+      "featuredArtist": "Carrie Underwood",
+      "featuredArtistId": "4xFUf1FHVy696Q1JQZMTRj",
+      "trackName": "It Had to Be You",
+      "trackId": "328dqlTGkTgH5GPrsQusql",
+      "preview": "https://p.scdn.co/mp3-preview/069eedbb94b6e230e89d332eac4fb0f3ad8e7864?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cec86f22a52589efcb82ce92275cc6d9f5d0e87",
+      "release_date": "2011-09-16"
+    },
+    {
+      "featuredArtist": "Mariah Carey",
+      "featuredArtistId": "4iHNK0tOyZPYnBU7nGAgpQ",
+      "trackName": "When Do the Bells Ring for Me",
+      "trackId": "1krycl0zNSW1RkKIDdcKm7",
+      "preview": "https://p.scdn.co/mp3-preview/134b816b7149c691a2e878ee582f815993900d53?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cec86f22a52589efcb82ce92275cc6d9f5d0e87",
+      "release_date": "2011-09-16"
+    },
+    {
+      "featuredArtist": "Dixie Chicks",
+      "featuredArtistId": "25IG9fa7cbdmCIy3OnuH57",
+      "trackName": "Lullaby of Broadway",
+      "trackId": "0UNzA1NkPrkNGQKvx2vZk6",
+      "preview": "https://p.scdn.co/mp3-preview/9cbd17b492e934ca4575c9ec50d4a3bea3b48918?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4fcd0c1e4d1463ca3d198b8679467e8ef79e0a8",
+      "release_date": "2006-09-26"
+    },
+    {
+      "featuredArtist": "Barbra Streisand",
+      "featuredArtistId": "7jmTilWYlKOuavFfmQAcu6",
+      "trackName": "Smile",
+      "trackId": "2nXdwNjPLt1F51vCBWSnnX",
+      "preview": "https://p.scdn.co/mp3-preview/5df51f34db42f24ae8d729a07ffd699d3bacf78b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4fcd0c1e4d1463ca3d198b8679467e8ef79e0a8",
+      "release_date": "2006-09-26"
+    },
+    {
+      "featuredArtist": "James Taylor",
+      "featuredArtistId": "0vn7UBvSQECKJm2817Yf1P",
+      "trackName": "Put on a Happy Face",
+      "trackId": "4Jj0Jz79wAqFdeZTdBDF49",
+      "preview": "https://p.scdn.co/mp3-preview/2ec44ad3755ba220629d92959f27cda0db633ec1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4fcd0c1e4d1463ca3d198b8679467e8ef79e0a8",
+      "release_date": "2006-09-26"
+    },
+    {
+      "featuredArtist": "Paul McCartney",
+      "featuredArtistId": "4STHEaNw4mPZ2tzheohgXB",
+      "trackName": "The Very Thought of You",
+      "trackId": "6ssrvxut1WcNdYzW5inNXV",
+      "preview": "https://p.scdn.co/mp3-preview/bec9424cf1fb76b497b46aa14996c32963fc4730?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4fcd0c1e4d1463ca3d198b8679467e8ef79e0a8",
+      "release_date": "2006-09-26"
+    },
+    {
+      "featuredArtist": "Juanes",
+      "featuredArtistId": "0UWZUmn7sybxMCqrw9tGa7",
+      "trackName": "The Shadow of Your Smile",
+      "trackId": "6dllXtIyW6Fv16AAmfW0XD",
+      "preview": "https://p.scdn.co/mp3-preview/e100c53a14173247e43f84409f10bf255a30c619?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4fcd0c1e4d1463ca3d198b8679467e8ef79e0a8",
+      "release_date": "2006-09-26"
+    },
+    {
+      "featuredArtist": "Elton John",
+      "featuredArtistId": "3PhoLpVuITZKcymswpck5b",
+      "trackName": "Rags to Riches",
+      "trackId": "3wp90Rmqt276hbFvLKQi9v",
+      "preview": "https://p.scdn.co/mp3-preview/f725820280ffacb4bc376e64b45fbe7e116644c2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4fcd0c1e4d1463ca3d198b8679467e8ef79e0a8",
+      "release_date": "2006-09-26"
+    },
+    {
+      "featuredArtist": "Tim McGraw",
+      "featuredArtistId": "6roFdX1y5BYSbp60OTJWMd",
+      "trackName": "Cold, Cold Heart",
+      "trackId": "6U5Iv1vX8qUOVCMijAgZhL",
+      "preview": "https://p.scdn.co/mp3-preview/d84f220a80fa438d35400dc716e51c1108e0787d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4fcd0c1e4d1463ca3d198b8679467e8ef79e0a8",
+      "release_date": "2006-09-26"
+    },
+    {
+      "featuredArtist": "Céline Dion",
+      "featuredArtistId": "4S9EykWXhStSc15wEx8QFK",
+      "trackName": "If I Ruled the World",
+      "trackId": "57GQHVnq4UIAgxU38lJwUC",
+      "preview": "https://p.scdn.co/mp3-preview/495f9083232cc895f4ab2280442ce50bc7a4f3f3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4fcd0c1e4d1463ca3d198b8679467e8ef79e0a8",
+      "release_date": "2006-09-26"
+    },
+    {
+      "featuredArtist": "Diana Krall",
+      "featuredArtistId": "5z1VAFwT35EVvCp1XlZZuL",
+      "trackName": "The Best Is Yet to Come",
+      "trackId": "056eVJj0qZRNm8SW63wdOu",
+      "preview": "https://p.scdn.co/mp3-preview/b2b67444bc239791bca68ab0c1d01f6faf92bac5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4fcd0c1e4d1463ca3d198b8679467e8ef79e0a8",
+      "release_date": "2006-09-26"
+    },
+    {
+      "featuredArtist": "Stevie Wonder",
+      "featuredArtistId": "7guDJrEfX3qb6FEbdPA5qi",
+      "trackName": "For Once in My Life",
+      "trackId": "5Pa8odqF9uL2FegbhrWu5o",
+      "preview": "https://p.scdn.co/mp3-preview/83344b2cfbeaf54909c7cca18aa42ecdc44ebfa3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4fcd0c1e4d1463ca3d198b8679467e8ef79e0a8",
+      "release_date": "2006-09-26"
+    },
+    {
+      "featuredArtist": "Elvis Costello",
+      "featuredArtistId": "2BGRfQgtzikz1pzAD0kaEn",
+      "trackName": "Are You Havin' Any Fun?",
+      "trackId": "12kL8WSAA0FPx2tOWU630X",
+      "preview": "https://p.scdn.co/mp3-preview/a0b6bc8d9a8f6f33d023a3400d9551d139b9b1b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4fcd0c1e4d1463ca3d198b8679467e8ef79e0a8",
+      "release_date": "2006-09-26"
+    },
+    {
+      "featuredArtist": "Sting",
+      "featuredArtistId": "0Ty63ceoRnnJKVEYP0VQpk",
+      "trackName": "The Boulevard of Broken Dreams",
+      "trackId": "5bG5GUKVJztKR5nff1CwUp",
+      "preview": "https://p.scdn.co/mp3-preview/7d082bccb3e53698cf8e7054d38cdfd9c9740bf7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4fcd0c1e4d1463ca3d198b8679467e8ef79e0a8",
+      "release_date": "2006-09-26"
+    },
+    {
+      "featuredArtist": "Bono",
+      "featuredArtistId": "0m2Wc2gfNUWaAuBK7URPIJ",
+      "trackName": "I Wanna Be Around...",
+      "trackId": "2n7IFkTVRq4GX3RD4y9jdw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a4fcd0c1e4d1463ca3d198b8679467e8ef79e0a8",
+      "release_date": "2006-09-26"
+    },
+    {
+      "featuredArtist": "John Legend",
+      "featuredArtistId": "5y2Xq6xcjJb2jVM54GHK3t",
+      "trackName": "Sing You Sinners",
+      "trackId": "0OkJEjqtoRWYfNpt1z3jWO",
+      "preview": "https://p.scdn.co/mp3-preview/cf65891deb9233011f2c5227e9be0fdc44f47111?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4fcd0c1e4d1463ca3d198b8679467e8ef79e0a8",
+      "release_date": "2006-09-26"
+    },
+    {
+      "featuredArtist": "George Michael",
+      "featuredArtistId": "19ra5tSw0tWufvUp8GotLo",
+      "trackName": "How Do You Keep the Music Playing?",
+      "trackId": "6c1BwNumEAwmAUBOKx5WjI",
+      "preview": "https://p.scdn.co/mp3-preview/b0d3a06343af39948830672858c174dc3b4268e9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4fcd0c1e4d1463ca3d198b8679467e8ef79e0a8",
+      "release_date": "2006-09-26"
+    },
+    {
+      "featuredArtist": "Antonia Bennett",
+      "featuredArtistId": "7wqQdvcdUzElRrl5pSytMx",
+      "trackName": "I've Got My Love to Keep Me Warm",
+      "trackId": "0oBudl7P9fqep8ghZpA6wH",
+      "preview": "https://p.scdn.co/mp3-preview/0f7593c41992fe1d29e7045651c68313be2f652d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/96aa4fb09e7fe9d38599c8d9d475eb6d675e2e87",
+      "release_date": "2004"
+    },
+    {
+      "featuredArtist": "B.B. King",
+      "featuredArtistId": "5xLSa7l4IV1gsQfhAMvl0U",
+      "trackName": "Let the Good Times Roll",
+      "trackId": "2Pw5vIumO9PGcvtbHXQ3rZ",
+      "preview": "https://p.scdn.co/mp3-preview/7eafcf398107ff9905fa98707e727193274fbb14?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/57d47a8beeeb2cf2bff8ef82a2175073712f81fc",
+      "release_date": "2001"
+    },
+    {
+      "featuredArtist": "Ray Charles",
+      "featuredArtistId": "1eYhYunlNJlDoQhtYBvPsi",
+      "trackName": "Evenin'",
+      "trackId": "3BYcF3H1qbzBPkuhXNbC9z",
+      "preview": "https://p.scdn.co/mp3-preview/db442cb5b666436cc2ac4df7140057b9b1465ddf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/57d47a8beeeb2cf2bff8ef82a2175073712f81fc",
+      "release_date": "2001"
+    },
+    {
+      "featuredArtist": "Bonnie Raitt",
+      "featuredArtistId": "4KDyYWR7IpxZ7xrdYbKrqY",
+      "trackName": "I Gotta Right To Sing The Blues",
+      "trackId": "4pUF8vLQE8zPjZIBXYBbBW",
+      "preview": "https://p.scdn.co/mp3-preview/4c90f27ef2e4bdd4abe5dbb6b01a6aa674a52444?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/57d47a8beeeb2cf2bff8ef82a2175073712f81fc",
+      "release_date": "2001"
+    },
+    {
+      "featuredArtist": "Kay Starr",
+      "featuredArtistId": "7rpf45DdbpweG51Acze45i",
+      "trackName": "Blue and Sentimental",
+      "trackId": "0he261W43mOKxVp0Tdbwam",
+      "preview": "https://p.scdn.co/mp3-preview/10564f403cf97270deff7c7b2784d645667e576f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/57d47a8beeeb2cf2bff8ef82a2175073712f81fc",
+      "release_date": "2001"
+    },
+    {
+      "featuredArtist": "Elmo",
+      "featuredArtistId": "1z7OFLPkBFDg04omyn8Fge",
+      "trackName": "Little Things",
+      "trackId": "3yHj5JW2ZmUKriZKEmo0rV",
+      "preview": "https://p.scdn.co/mp3-preview/4513b6650b5fbe6de68064633920ebbdf6f23017?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/929b8ebc019f274da8b8cb3f4be276adee860599",
+      "release_date": "1998-09-29"
+    },
+    {
+      "featuredArtist": "Kermit the Frog",
+      "featuredArtistId": "1PGjAoXiKP1Hcx788WVFx9",
+      "trackName": "Bein' Green",
+      "trackId": "0TlciUGvrvxZwO7GSALNcB",
+      "preview": "https://p.scdn.co/mp3-preview/e7419fba0e40efb0a38ef0f7b2a8da95f0c28406?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/929b8ebc019f274da8b8cb3f4be276adee860599",
+      "release_date": "1998-09-29"
+    }
+  ]
+}

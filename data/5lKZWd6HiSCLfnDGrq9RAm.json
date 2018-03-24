@@ -1,0 +1,59 @@
+{
+  "artistName": "Leona Lewis",
+  "features": [
+    {
+      "featuredArtist": "Childish Gambino",
+      "featuredArtistId": "73sIBHcqh3Z3NyqHKZ7FOL",
+      "trackName": "Trouble",
+      "trackId": "2fcNFl8GSh4mGjWsGAL74H",
+      "preview": "https://p.scdn.co/mp3-preview/7981c67b8f2a1826491a56de4100659d0f449e6b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db374de3fec1487517f80d2476b9882f144cb9ce",
+      "release_date": "2012-11-28"
+    },
+    {
+      "featuredArtist": "Avicii",
+      "featuredArtistId": "1vCWHaC5f2uS3yhpwWbIA6",
+      "trackName": "Collide - Afrojack Remix",
+      "trackId": "2lGE0aDQ7lfcHyYZYFjbW5",
+      "preview": "https://p.scdn.co/mp3-preview/5b1119eb14e756636b057c70d823d1cb5151b355?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f5368a4954586f41e6e5b17863ee360d87f64389",
+      "release_date": "2012-10-15"
+    },
+    {
+      "featuredArtist": "Afrojack",
+      "featuredArtistId": "4D75GcNG95ebPtNvoNVXhz",
+      "trackName": "Collide - Afrojack Remix",
+      "trackId": "2lGE0aDQ7lfcHyYZYFjbW5",
+      "preview": "https://p.scdn.co/mp3-preview/5b1119eb14e756636b057c70d823d1cb5151b355?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f5368a4954586f41e6e5b17863ee360d87f64389",
+      "release_date": "2012-10-15"
+    },
+    {
+      "featuredArtist": "OneRepublic",
+      "featuredArtistId": "5Pwc4xIPtQLFEnJriah9YJ",
+      "trackName": "Lost Then Found",
+      "trackId": "5SgZodMZUZHULorQQGAruC",
+      "preview": "https://p.scdn.co/mp3-preview/125c0f6f01e8d68d149a5578ec624603cf2df027?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec3c3ab2c5f7043a2bd9e31e2ec796514cf90a1f",
+      "release_date": "2009-11-17"
+    },
+    {
+      "featuredArtist": "Novel",
+      "featuredArtistId": "4qWg5jeP68UR6en7nZnZ2i",
+      "trackName": "Myself",
+      "trackId": "6FEiZO6IISkvUyf2cMz1yw",
+      "preview": "https://p.scdn.co/mp3-preview/4b065cfd2d00f8a227e6aff7f7d0944199dd0248?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ab9bffc76fedee0fde6cab7123accf564160124c",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Jason Nevins",
+      "featuredArtistId": "5w0ka9nPOmEH6CcZrutyP2",
+      "trackName": "Bleeding Love - Jason Nevins Rockin' Radio Mix",
+      "trackId": "7B2691fOnYYk7llHHElR59",
+      "preview": "https://p.scdn.co/mp3-preview/242bb894b1c3005e1046ca3ad51e686a93ffb073?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ab9bffc76fedee0fde6cab7123accf564160124c",
+      "release_date": "2007"
+    }
+  ]
+}

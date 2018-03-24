@@ -1,0 +1,41 @@
+{
+  "artistName": "Zendaya",
+  "features": [
+    {
+      "featuredArtist": "Chris Brown",
+      "featuredArtistId": "7bXgB6jMjp9ATFy66eO08Z",
+      "trackName": "Something New",
+      "trackId": "1z15fhSgN6U2k4gqA1Zu4j",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4afc12efe5d9effe7473ff8177c7d42ef92d1dc4",
+      "release_date": "2016-02-03"
+    },
+    {
+      "featuredArtist": "Kurt Hugo Schneider",
+      "featuredArtistId": "2BHswvFd8tMBizVWGcAMLm",
+      "trackName": "All of Me",
+      "trackId": "3Yt5bwAo7TXNvokJ8WmRnp",
+      "preview": "https://p.scdn.co/mp3-preview/686a269364ac29f19d78bd5a4bc2cc79b8051643?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9bcd3b75d79d2d1135da6b5de532a646d96783e7",
+      "release_date": "2014-04-11"
+    },
+    {
+      "featuredArtist": "MAX",
+      "featuredArtistId": "1bqxdqvUtPWZri43cKHac8",
+      "trackName": "All of Me",
+      "trackId": "3Yt5bwAo7TXNvokJ8WmRnp",
+      "preview": "https://p.scdn.co/mp3-preview/686a269364ac29f19d78bd5a4bc2cc79b8051643?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9bcd3b75d79d2d1135da6b5de532a646d96783e7",
+      "release_date": "2014-04-11"
+    },
+    {
+      "featuredArtist": "Bella Thorne",
+      "featuredArtistId": "58AqJv0sDFPFnnBcLT8eeX",
+      "trackName": "Contagious Love (from \"Shake It Up: I <3 Dance\")",
+      "trackId": "0sL95fhuLvaTZibLrJHw4r",
+      "preview": "https://p.scdn.co/mp3-preview/279c267411731effb157291b6bbc5ec4df1930d3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7f132e645842ebee1826add4be7d7c1f6a528c78",
+      "release_date": "2013-05-14"
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "artistName": "GoldLink",
+  "features": [
+    {
+      "featuredArtist": "Ciscero",
+      "featuredArtistId": "5oSCIcpPdrO3UhTMATxkYL",
+      "trackName": "Same Clothes As Yesterday",
+      "trackId": "6AOcDjTt4jfe9ostQ6eAs7",
+      "preview": "https://p.scdn.co/mp3-preview/f1ba15431e71f326e2705cbe9dd8ff99d01a31d9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b51d5f12a764bcd7e2bd40926d2459cbb53edbae",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Kokayi",
+      "featuredArtistId": "2AyMC7HowLT6ULLdKwJSZ2",
+      "trackName": "Hands On Your Knees",
+      "trackId": "1QKoF35gNN3dCNSGlin8bW",
+      "preview": "https://p.scdn.co/mp3-preview/d9350cc19dbe403858d33983357e4c25cdab252b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b51d5f12a764bcd7e2bd40926d2459cbb53edbae",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Jazmine Sullivan",
+      "featuredArtistId": "7gSjFKpVmDgC2MMsnN8CYq",
+      "trackName": "Meditation",
+      "trackId": "7jaYiqwCFQDdtxfQaSzZuM",
+      "preview": "https://p.scdn.co/mp3-preview/6296231f3fa9dbd7ac9b0c85f161c27c65f64824?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b51d5f12a764bcd7e2bd40926d2459cbb53edbae",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "KAYTRANADA",
+      "featuredArtistId": "6qgnBH6iDM91ipVXv28OMu",
+      "trackName": "Meditation",
+      "trackId": "7jaYiqwCFQDdtxfQaSzZuM",
+      "preview": "https://p.scdn.co/mp3-preview/6296231f3fa9dbd7ac9b0c85f161c27c65f64824?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b51d5f12a764bcd7e2bd40926d2459cbb53edbae",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Hare Squead",
+      "featuredArtistId": "3OqgnoaUHWX4ih4oAL0zzQ",
+      "trackName": "Herside Story",
+      "trackId": "564oa00vY05d1uYnTEAAmE",
+      "preview": "https://p.scdn.co/mp3-preview/dedafbcffbbc4f435f87f1515b7932960cd7278f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b51d5f12a764bcd7e2bd40926d2459cbb53edbae",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Wale",
+      "featuredArtistId": "67nwj3Y5sZQLl72VNUHEYE",
+      "trackName": "Summatime",
+      "trackId": "3NsPvsr9VrcMtAxJ50XCL9",
+      "preview": "https://p.scdn.co/mp3-preview/63f5098e3fc0794063efa9aeacce45068d1a8bc2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b51d5f12a764bcd7e2bd40926d2459cbb53edbae",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Radiant Children",
+      "featuredArtistId": "2e0Bkreg0zzfE5umvfKQXf",
+      "trackName": "Summatime",
+      "trackId": "3NsPvsr9VrcMtAxJ50XCL9",
+      "preview": "https://p.scdn.co/mp3-preview/63f5098e3fc0794063efa9aeacce45068d1a8bc2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b51d5f12a764bcd7e2bd40926d2459cbb53edbae",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Mya",
+      "featuredArtistId": "3JoDRslbRb7yUqBktkRbrt",
+      "trackName": "Roll Call",
+      "trackId": "7qcxGQNLJup67pQwTKsR8E",
+      "preview": "https://p.scdn.co/mp3-preview/40ce0776f31f59bde7bcbb7fdfc6bced8edc817d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b51d5f12a764bcd7e2bd40926d2459cbb53edbae",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "April George",
+      "featuredArtistId": "34MuJG3KuMOzEHLf4OY5fv",
+      "trackName": "The Parable of the Rich Man",
+      "trackId": "3JnuGitHblAKCT9uAVGSEJ",
+      "preview": "https://p.scdn.co/mp3-preview/c5f118739d1ab4b8dbec3d76150af9a064fd0a0d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b51d5f12a764bcd7e2bd40926d2459cbb53edbae",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Brent Faiyaz",
+      "featuredArtistId": "3tlXnStJ1fFhdScmQeLpuG",
+      "trackName": "Crew",
+      "trackId": "15EPc80XuFrb2LmOzGjuRg",
+      "preview": "https://p.scdn.co/mp3-preview/d0dde15184d6cd06e09b3a50b033093ce5b2c5b1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b51d5f12a764bcd7e2bd40926d2459cbb53edbae",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Shy Glizzy",
+      "featuredArtistId": "1DvtabXAjfrMihPP6JQdHs",
+      "trackName": "Crew",
+      "trackId": "15EPc80XuFrb2LmOzGjuRg",
+      "preview": "https://p.scdn.co/mp3-preview/d0dde15184d6cd06e09b3a50b033093ce5b2c5b1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b51d5f12a764bcd7e2bd40926d2459cbb53edbae",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Lil Dude",
+      "featuredArtistId": "5n6JaSoLrUIOTCkke6vVtR",
+      "trackName": "We Will Never Die",
+      "trackId": "7GbQdg0zBhXkNYbRiojA45",
+      "preview": "https://p.scdn.co/mp3-preview/a0650e65c3a9e58d93e2398000c07665e1a2dbf4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b51d5f12a764bcd7e2bd40926d2459cbb53edbae",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Steve Lacy",
+      "featuredArtistId": "57vWImR43h4CaDao012Ofp",
+      "trackName": "Some Girl",
+      "trackId": "6wOdpwaVrRtWlVSQNMBNQU",
+      "preview": "https://p.scdn.co/mp3-preview/939e7fa3eb785baf68041e734978a8454f7978f3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b51d5f12a764bcd7e2bd40926d2459cbb53edbae",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Steve Lacy",
+      "featuredArtistId": "1BEsuwAkTQMG50TeHB5qny",
+      "trackName": "Some Girl",
+      "trackId": "5sEqooK4ar6YDzHpJdZaPI",
+      "preview": "https://p.scdn.co/mp3-preview/097e5d45982d0e894f0787050d6ceddf0b69b711?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b51d5f12a764bcd7e2bd40926d2459cbb53edbae",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Sevn Thomas",
+      "featuredArtistId": "6T9dsSIQ31Sk8x24lwfTG4",
+      "trackName": "After You Left - Sevn Thomas Remix",
+      "trackId": "3hZGS7H52LVMnK84OD46Le",
+      "preview": "https://p.scdn.co/mp3-preview/b77e4ab252833f141a81906674e49429e5ab26bf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Gravez",
+      "featuredArtistId": "5ro9DH23SS1J5XvowRWKuK",
+      "trackName": "Zipporah - Gravez Remix",
+      "trackId": "5Or1KvBKRbNPxM6bMoFHfH",
+      "preview": "https://p.scdn.co/mp3-preview/7dc582192cf7da45662f0a9370bc2d6deab83a83?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Chris McClenney",
+      "featuredArtistId": "44drVL4jbdo6T6llD5cMgx",
+      "trackName": "Dark Skin Women - Chris McClenney Remix",
+      "trackId": "3iijwAAmpyGDRJ6OV5hhYH",
+      "preview": "https://p.scdn.co/mp3-preview/f349f79f26d2df15c6e744c9089d54ecf51546c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Pomo",
+      "featuredArtistId": "6YtlR8MLfO6azxwOKAvEi3",
+      "trackName": "Dark Skin Women - Pomo Remix",
+      "trackId": "68owi91PuuLlARM4BTvNHv",
+      "preview": "https://p.scdn.co/mp3-preview/4490a85c5843f515a0fff262d8de7cffab957d45?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Cosmo's Midnight",
+      "featuredArtistId": "4VivsO1n4n2Mi2Btyb5gfL",
+      "trackName": "Dark Skin Women - Cosmo's Midnight & Swindail Remix",
+      "trackId": "6YLB9jQMS3gnyArPLkj9UX",
+      "preview": "https://p.scdn.co/mp3-preview/042fa63b4b59a29a570043c2947001b7c3b64008?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Swindail",
+      "featuredArtistId": "2Yg6r5cZF2mTtxFAWkWnY1",
+      "trackName": "Dark Skin Women - Cosmo's Midnight & Swindail Remix",
+      "trackId": "6YLB9jQMS3gnyArPLkj9UX",
+      "preview": "https://p.scdn.co/mp3-preview/042fa63b4b59a29a570043c2947001b7c3b64008?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "GEOTHEORY",
+      "featuredArtistId": "3iIFBDnPEFpR6PCF0Tuh6w",
+      "trackName": "Spectrum - GEOTHEORY Remix",
+      "trackId": "4sv8shEvVY9iDo3cmJRWwU",
+      "preview": "https://p.scdn.co/mp3-preview/0c340d221bbe16f8a74bc224123a57d9d1ed3d24?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Mr. Carmack",
+      "featuredArtistId": "4OHaWpWPKDcZgOOUn9elFn",
+      "trackName": "Dance On Me - Mr. Carmack Remix",
+      "trackId": "7sKppqHvemMmss78iCkvGv",
+      "preview": "https://p.scdn.co/mp3-preview/48417ba92ea31d706e22d42b6ff6595f093ae6c9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Brasstracks",
+      "featuredArtistId": "5sKvgmG84C0bIMWeS2SRPr",
+      "trackName": "Dance On Me - Brasstracks Remix",
+      "trackId": "0WBE1WyngbsHTxaZ11WCJw",
+      "preview": "https://p.scdn.co/mp3-preview/3ebe43685d0cee0144f048a53d2b08db532aaf21?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Su Na",
+      "featuredArtistId": "3GZowazH5ZdOUanJadDd4s",
+      "trackName": "Dance On Me - Su Na Remix",
+      "trackId": "75yNLCrAORL1TJ6LITbEWI",
+      "preview": "https://p.scdn.co/mp3-preview/e6e3daa3159589bee4547e789d7e96ea0b40b3a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Masego",
+      "featuredArtistId": "3ycxRkcZ67ALN3GQJ57Vig",
+      "trackName": "Late Night - Swell Remix",
+      "trackId": "2N7OCAwEAcviZLVM88x0MQ",
+      "preview": "https://p.scdn.co/mp3-preview/0ef68570efe4c41b9f169fc5f707e1f58af5118f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Swell",
+      "featuredArtistId": "4EaWgdL8zvu4JvDZY4ED5Q",
+      "trackName": "Late Night - Swell Remix",
+      "trackId": "2N7OCAwEAcviZLVM88x0MQ",
+      "preview": "https://p.scdn.co/mp3-preview/0ef68570efe4c41b9f169fc5f707e1f58af5118f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "ROM",
+      "featuredArtistId": "2Uv74Lc8SbAn7A0bv6Dim6",
+      "trackName": "Late Night - ROM Remix",
+      "trackId": "4TAob1aRbfOiNqlE8qSISX",
+      "preview": "https://p.scdn.co/mp3-preview/20a070ac1200a48ea4e5942dd10b875cca8801cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Falcons",
+      "featuredArtistId": "7lm68Uw3UZDD1vlAWpLeDL",
+      "trackName": "Late Night - Falcons Remix",
+      "trackId": "6nZXIOYYt6sGPpEcyeC1RV",
+      "preview": "https://p.scdn.co/mp3-preview/25573b4978f7caae6e41ecb9a447595e55362008?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Anderson .Paak",
+      "featuredArtistId": "3jK9MiCrA42lLAdMGUZpwa",
+      "trackName": "Unique - Louis Futon Remix",
+      "trackId": "2cRm43WgDFpOX0oqr6ujbB",
+      "preview": "https://p.scdn.co/mp3-preview/67b2cefeb73b08a013bdc9d0ec677b54500c1552?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Louis Futon",
+      "featuredArtistId": "79ffq2PHS5TDmgnHhAyudW",
+      "trackName": "Unique - Louis Futon Remix",
+      "trackId": "2cRm43WgDFpOX0oqr6ujbB",
+      "preview": "https://p.scdn.co/mp3-preview/67b2cefeb73b08a013bdc9d0ec677b54500c1552?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Motez",
+      "featuredArtistId": "3SwgftmsT5rVepCSSco3ZR",
+      "trackName": "Palm Trees - Motez Remix",
+      "trackId": "1Z5B5x1vsgwmR6M4B8ndwU",
+      "preview": "https://p.scdn.co/mp3-preview/bc8f965543657c492582f6cdaa9b61ee77f15eb0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Demo Taped",
+      "featuredArtistId": "5JMtXD9vPBIygW4cTcQ8x9",
+      "trackName": "Polarized - CRNKN Remix",
+      "trackId": "4ySpEEwCd50aRAEEvZVLBO",
+      "preview": "https://p.scdn.co/mp3-preview/fdb8719be5b617ce41dfeaa3337823331406afff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "CRNKN",
+      "featuredArtistId": "1jVkdbuMKszbnubrioJxGr",
+      "trackName": "Polarized - CRNKN Remix",
+      "trackId": "4ySpEEwCd50aRAEEvZVLBO",
+      "preview": "https://p.scdn.co/mp3-preview/fdb8719be5b617ce41dfeaa3337823331406afff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Shagabond",
+      "featuredArtistId": "6Wjyo1J1HR7HlT2bUTZ82T",
+      "trackName": "New Black - Shagabond Remix",
+      "trackId": "2KA4bilRrULgudQYMfSZGI",
+      "preview": "https://p.scdn.co/mp3-preview/ed958dc9486147dabf7e74af2966ff656619c5f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b1410e3c6bb82bc5764bc6b06bf60208cfbc16b0",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Diplo",
+      "featuredArtistId": "5fMUXHkw8R8eOP2RNVYEZX",
+      "trackName": "Get It Right (feat. MØ & GoldLink) - Remix",
+      "trackId": "3iGauF7chExRo30ehrfP5q",
+      "preview": "https://p.scdn.co/mp3-preview/6b4f7bdcabe93ecf7533c16440d2a29a5e432586?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d70d7eef10b7401383949b226ab14b77dbb7c8a",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "MØ",
+      "featuredArtistId": "0bdfiayQAKewqEvaU6rXCv",
+      "trackName": "Get It Right (feat. MØ & GoldLink) - Remix",
+      "trackId": "3iGauF7chExRo30ehrfP5q",
+      "preview": "https://p.scdn.co/mp3-preview/6b4f7bdcabe93ecf7533c16440d2a29a5e432586?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d70d7eef10b7401383949b226ab14b77dbb7c8a",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Niia",
+      "featuredArtistId": "1KlUwB6uFECMC3zzvFvykx",
+      "trackName": "Nobody (feat. Goldlink)",
+      "trackId": "1OgVVuUoyCH5tXzp2zwJ3t",
+      "preview": "https://p.scdn.co/mp3-preview/02086efc15d8dfc8900fa2aeacf60ee2b6f4186e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0817bfd7269d840693bc1e548df679ca3018ff9d",
+      "release_date": "2017-09-29"
+    },
+    {
+      "featuredArtist": "Gucci Mane",
+      "featuredArtistId": "13y7CgLHjMVRMDqxdx0Xdo",
+      "trackName": "Crew REMIX",
+      "trackId": "3oiN3EgsL0c8aVVS3FN0h4",
+      "preview": "https://p.scdn.co/mp3-preview/ae56fa7c5b6a2188cabb8149117880470655ce9e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2142961c7980cdad1c793c483026b2857304eb34",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Lido",
+      "featuredArtistId": "1aSwrSGBNGMLn9ymttfRkk",
+      "trackName": "Crew - Lido Remix",
+      "trackId": "0BW2dDMThgAUzWTySIZdDm",
+      "preview": "https://p.scdn.co/mp3-preview/556c1e97b693ae68b6de49559a65ba23e011bb07?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2142961c7980cdad1c793c483026b2857304eb34",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Richie Souf",
+      "featuredArtistId": "3UROkXawif0UKGyW8Im7U0",
+      "trackName": "Crew - Richie Souf Remix",
+      "trackId": "014GTMpri38e3HEsu4RNyg",
+      "preview": "https://p.scdn.co/mp3-preview/5eaef86a56bd517cc418fb3e6496f13ff776b1c0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2142961c7980cdad1c793c483026b2857304eb34",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Backyard Band",
+      "featuredArtistId": "4lFJtFKGcitXZZZBfWyw03",
+      "trackName": "Crew - Backyard Band Remix",
+      "trackId": "26NpWvc2RwuVcbHZ4rjO6A",
+      "preview": "https://p.scdn.co/mp3-preview/a303e7959f621a27a4b4961dfe90a3142c9249dd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2142961c7980cdad1c793c483026b2857304eb34",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "New Impressionz",
+      "featuredArtistId": "0VbVSby1bzG3872MRr27HX",
+      "trackName": "Crew - New Impressionz Remix",
+      "trackId": "47smLvlpCoBOPtjxjiDDYO",
+      "preview": "https://p.scdn.co/mp3-preview/0b54d00c00a3500f0777ff9c0aed5a52e8722c64?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2142961c7980cdad1c793c483026b2857304eb34",
+      "release_date": "2017-08-18"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "artistName": "CADE",
+  "features": [
+    {
+      "featuredArtist": "CMC$",
+      "featuredArtistId": "78DWNk8gFHU30TGITAgbM7",
+      "trackName": "Thinkin' Bout Myself",
+      "trackId": "0l1B3HBFqQKIliYDeM4Ioi",
+      "preview": "https://p.scdn.co/mp3-preview/deae341ec10688ec7a9453aba77b51d4b848e1ff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a585c5dc42799cb328dacee97f99aaed184faf36",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "El Freaky Colectivo",
+      "featuredArtistId": "6stTlp1e7ZX3Nx8xX5rrNW",
+      "trackName": "Sorry For Myself - El Freaky Colectivo Remix",
+      "trackId": "0O5lptgfndcs57O6rI0VNl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bacf32626b6baa6518c72c1001ed646eaad9b534",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "SAN",
+      "featuredArtistId": "7kMIhQanDMxBs7QiNo8IXv",
+      "trackName": "Sorry For Myself - El Freaky Colectivo Remix",
+      "trackId": "0O5lptgfndcs57O6rI0VNl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bacf32626b6baa6518c72c1001ed646eaad9b534",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "El Freaky",
+      "featuredArtistId": "4RJBAiwh6dSmqUZzCDMAyT",
+      "trackName": "Sorry For Myself - El Freaky Colectivo Remix",
+      "trackId": "7KKZGksjqj27KAO4pyq4GH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ac2dfa13640e0b2a717bdca2859a843f9fd2546f",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "TK Kravitz",
+      "featuredArtistId": "65rDIPdQD7ijLSOq32cMXo",
+      "trackName": "I Know You Know (feat. Tk Kravitz)",
+      "trackId": "328V7VdUHkSOifjVLKQzMp",
+      "preview": "https://p.scdn.co/mp3-preview/b3d410b32b90a7f563440c8d3468aefea6fe3135?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f63e62f8be8c0a4ef06a243a874f261f98ae774f",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Dagny",
+      "featuredArtistId": "6Paz0vXJJ9bCPf0fEm3qzg",
+      "trackName": "Wearing Nothing - Cheat Codes X CADE Remix",
+      "trackId": "1tUAm8Yh22BFkAT7T3hiLk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d7898ae46726178bd867823be076a2ad6f2e5294",
+      "release_date": "2017-07-07"
+    },
+    {
+      "featuredArtist": "Cheat Codes",
+      "featuredArtistId": "7DMveApC7UnC2NPfPvlHSU",
+      "trackName": "Wearing Nothing - Cheat Codes X CADE Remix",
+      "trackId": "1tUAm8Yh22BFkAT7T3hiLk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d7898ae46726178bd867823be076a2ad6f2e5294",
+      "release_date": "2017-07-07"
+    },
+    {
+      "featuredArtist": "Niko The Kid",
+      "featuredArtistId": "0FPoqGEZFwHQfu5tRPL08X",
+      "trackName": "Give It To You",
+      "trackId": "7sCdcqPCbnJdazEcPmYXQ6",
+      "preview": "https://p.scdn.co/mp3-preview/94f47762fef21ecc0b908588398cd56667728913?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9c57dea3abeb6e2155bae66710da3bb7a4897de",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Bee's Knees",
+      "featuredArtistId": "0HUVKb4z6JicOGlIpibvF0",
+      "trackName": "Give It To You",
+      "trackId": "7sCdcqPCbnJdazEcPmYXQ6",
+      "preview": "https://p.scdn.co/mp3-preview/94f47762fef21ecc0b908588398cd56667728913?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9c57dea3abeb6e2155bae66710da3bb7a4897de",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Maggie Lindemann",
+      "featuredArtistId": "0uGk2czvcpWQA383Im6ajf",
+      "trackName": "Pretty Girl - Cheat Codes X CADE Remix",
+      "trackId": "1NDxZ7cFAo481dtYWdrUnR",
+      "preview": "https://p.scdn.co/mp3-preview/58cb4a89b49f1b0f0a4e3eae532df7c47bc2a0b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f1a8791464204aee70592ec7d5f4a948e6beea3",
+      "release_date": "2017-03-02"
+    },
+    {
+      "featuredArtist": "Mokita",
+      "featuredArtistId": "3sKeaby6GMSJWgYueZaSjE",
+      "trackName": "Monopoly - Mokita X Cade / Acoustic Version",
+      "trackId": "5ZswhQm2vog14HrSwBcMHm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1acdf3e0b1a231cbc7a219842154d8e52fd1841d",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Craciun Alexandru Constantin",
+      "featuredArtistId": "7xsVWPqP3UlK5CMDw415MB",
+      "trackName": "Monopoly - Mokita X Cade / Acoustic Version",
+      "trackId": "5ZswhQm2vog14HrSwBcMHm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1acdf3e0b1a231cbc7a219842154d8e52fd1841d",
+      "release_date": "2017-02-03"
+    }
+  ]
+}

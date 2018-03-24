@@ -1,0 +1,86 @@
+{
+  "artistName": "Rod Stewart",
+  "features": [
+    {
+      "featuredArtist": "Python Lee Jackson",
+      "featuredArtistId": "7lWPkt4uoVwqSO7QpuYmdN",
+      "trackName": "In A Broken Dream",
+      "trackId": "1A1QRaRooYKbGvO7xpA1A9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c095b342f2b5c9970565e868321fe79c8974339c",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Michael Bublé",
+      "featuredArtistId": "1GxkXlMwML1oSg5eLPiAz3",
+      "trackName": "Winter Wonderland",
+      "trackId": "6cs3IujesBImjqb90GiQ7H",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/03c5253cd187f9307e60bf2083d292b956620ef9",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "CeeLo Green",
+      "featuredArtistId": "5nLYd9ST4Cnwy6NHaCxbj8",
+      "trackName": "Merry Christmas, Baby",
+      "trackId": "4eqafWNrEixdM17HDbgM1k",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/03c5253cd187f9307e60bf2083d292b956620ef9",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Trombone Shorty",
+      "featuredArtistId": "37ZvFp654tY74Z1D2TLOGR",
+      "trackName": "Merry Christmas, Baby",
+      "trackId": "4eqafWNrEixdM17HDbgM1k",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/03c5253cd187f9307e60bf2083d292b956620ef9",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Dave Koz",
+      "featuredArtistId": "0ZcJXldoq09BRIMl0Qh1Vm",
+      "trackName": "Let It Snow! Let It Snow! Let It Snow!",
+      "trackId": "3tLKbKxtepU8hnnnpJrRPP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/03c5253cd187f9307e60bf2083d292b956620ef9",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Ella Fitzgerald",
+      "featuredArtistId": "5V0MlUE1Bft0mbLlND7FJz",
+      "trackName": "What Are You Doing New Year's Eve?",
+      "trackId": "0JpaQ7LykduTnLjI6LzWqd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/03c5253cd187f9307e60bf2083d292b956620ef9",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Chris Botti",
+      "featuredArtistId": "3eFo5fMv53RYZBYlvT5Z6a",
+      "trackName": "What Are You Doing New Year's Eve?",
+      "trackId": "0JpaQ7LykduTnLjI6LzWqd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/03c5253cd187f9307e60bf2083d292b956620ef9",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Mary J. Blige",
+      "featuredArtistId": "1XkoF8ryArs86LZvFOkbyr",
+      "trackName": "We Three Kings",
+      "trackId": "2DF3pNvI4FUskAPpKHrSCw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/03c5253cd187f9307e60bf2083d292b956620ef9",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Karise Eden",
+      "featuredArtistId": "0dJwWgFktKXVoomwZGmUV8",
+      "trackName": "Red-Suited Super Man - Duet with Karise Eden",
+      "trackId": "3ghaI87pJOzSFM598op42s",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/81f93fbaafca23a9e9406f8ba1b51ab529f21c85",
+      "release_date": "2012-01-01"
+    }
+  ]
+}

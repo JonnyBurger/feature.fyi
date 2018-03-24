@@ -1,0 +1,23 @@
+{
+  "artistName": "Los Cafres",
+  "features": [
+    {
+      "featuredArtist": "Willy Rodríguez",
+      "featuredArtistId": "4PXThoWa6Eg0a1Cui7KJee",
+      "trackName": "Waitin en Vano",
+      "trackId": "03eLaRGb1oZgmtGSrMuoty",
+      "preview": "https://p.scdn.co/mp3-preview/29d56832b00492510fbd055a46b191b574dc3970?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6d3a214c6479862e1311d985dc5c2fb95e76550",
+      "release_date": "2000-09-02"
+    },
+    {
+      "featuredArtist": "Quique Neira",
+      "featuredArtistId": "21R24s5D1g9dIOpYj6TacH",
+      "trackName": "Waitin en Vano",
+      "trackId": "03eLaRGb1oZgmtGSrMuoty",
+      "preview": "https://p.scdn.co/mp3-preview/29d56832b00492510fbd055a46b191b574dc3970?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6d3a214c6479862e1311d985dc5c2fb95e76550",
+      "release_date": "2000-09-02"
+    }
+  ]
+}

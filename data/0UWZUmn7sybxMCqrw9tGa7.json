@@ -1,0 +1,50 @@
+{
+  "artistName": "Juanes",
+  "features": [
+    {
+      "featuredArtist": "Fonseca",
+      "featuredArtistId": "53KTldaJ8tHSkYU3nigfwP",
+      "trackName": "Alguna Vez",
+      "trackId": "41TDbEgOsZJOwFaXMx8YD4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6d6e2c331d27b1bbf507a5d926d826536d4f4e18",
+      "release_date": "2017-05-12"
+    },
+    {
+      "featuredArtist": "Kali Uchis",
+      "featuredArtistId": "1U1el3k54VvEUzo3ybLPlM",
+      "trackName": "El Ratico",
+      "trackId": "0pc964i59EXbSItfDHMneb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6d6e2c331d27b1bbf507a5d926d826536d4f4e18",
+      "release_date": "2017-05-12"
+    },
+    {
+      "featuredArtist": "Claudia Leitte",
+      "featuredArtistId": "2OjoIDVPQKT9B7loZbPEfp",
+      "trackName": "La Luz",
+      "trackId": "0hkpTFVb8JqpBNaiI2pvEo",
+      "preview": "https://p.scdn.co/mp3-preview/3e611dc9cca47bc8980043148357f11225e3de21?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef189d311ff89eed35963d943b645edb07bf14ef",
+      "release_date": "2014-03-11"
+    },
+    {
+      "featuredArtist": "Paula Fernandes",
+      "featuredArtistId": "1nca3OA1kKCpP6aPJcBL92",
+      "trackName": "Hoy Me Voy - Live",
+      "trackId": "4IUiif3fNbaNd4ie5oWSEn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fa4ac971e5dfc3c579a58c1f5e322b44956aa251",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Joaquín Sabina",
+      "featuredArtistId": "4aeIWo5CMF1uRmqgJdwkZW",
+      "trackName": "Azul Sabina - MTV Unplugged",
+      "trackId": "3zXSzgDY5Di5fLmIRom3j8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fa4ac971e5dfc3c579a58c1f5e322b44956aa251",
+      "release_date": "2012-01-01"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "artistName": "Justin Jesso",
+  "features": [
+    {
+      "featuredArtist": "Kygo",
+      "featuredArtistId": "23fqKkggKUBHNkbKtXEls4",
+      "trackName": "Stargazing",
+      "trackId": "6hbIsy2mV7oLkaPSGgYK7Y",
+      "preview": "https://p.scdn.co/mp3-preview/91d947a16de1532ae972bd95bcdca27c1e1c58bb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8ac1e730829488e36071041eaea9c845ff965da",
+      "release_date": "2017-12-22"
+    },
+    {
+      "featuredArtist": "Kaskade",
+      "featuredArtistId": "6TQj5BFPooTa08A7pk8AQ1",
+      "trackName": "Stargazing - Kaskade Remix",
+      "trackId": "1laLEcn6nApj9iDC3934cU",
+      "preview": "https://p.scdn.co/mp3-preview/d0d3c9681c51a3fa03a9fa0aa78e507b8ea835f4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/259b96b625b1a4605dd649478fdc9785b7040d0c",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Bergen Philharmonic Orchestra",
+      "featuredArtistId": "7vkBnXHIvNilYcrqt9RJLD",
+      "trackName": "Stargazing - Orchestral Version",
+      "trackId": "5CLrEjpbnLl0cHaSBQprlC",
+      "preview": "https://p.scdn.co/mp3-preview/ff54dfeab97500f6e5125f44cc807e3c152adae5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4c375f1ae72414230c3c2d2912af2442aab27a30",
+      "release_date": "2017-12-07"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "artistName": "Keith Urban",
+  "features": [
+    {
+      "featuredArtist": "Nile Rodgers",
+      "featuredArtistId": "3yDIp0kaq9EFKe07X1X2rz",
+      "trackName": "Sun Don't Let Me Down",
+      "trackId": "1jilgAzFSFiZsTyUWCPZxs",
+      "preview": "https://p.scdn.co/mp3-preview/77a2e43ef7fb77193e8b2592166230570ff4d39b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/844641fbe88701bb0adc948b0da82680cb7fe153",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Pitbull",
+      "featuredArtistId": "0TnOYISbd1XYRBk9myaseg",
+      "trackName": "Sun Don't Let Me Down",
+      "trackId": "1jilgAzFSFiZsTyUWCPZxs",
+      "preview": "https://p.scdn.co/mp3-preview/77a2e43ef7fb77193e8b2592166230570ff4d39b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/844641fbe88701bb0adc948b0da82680cb7fe153",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Carrie Underwood",
+      "featuredArtistId": "4xFUf1FHVy696Q1JQZMTRj",
+      "trackName": "The Fighter",
+      "trackId": "4Iw8bM0BCRmrN778ZODnJa",
+      "preview": "https://p.scdn.co/mp3-preview/7b599e8777be0edf399520f4e526a83a42ec6cc3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/844641fbe88701bb0adc948b0da82680cb7fe153",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Miranda Lambert",
+      "featuredArtistId": "66lH4jAE7pqPlOlzUKbwA0",
+      "trackName": "We Were Us",
+      "trackId": "1BvEKrY1mVd5NqkzembgIM",
+      "preview": "https://p.scdn.co/mp3-preview/b40142aa3b1849f8fd1d144f8397df75d706d5f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6a0bc872130138a170fd95d1666e831d3a875b5d",
+      "release_date": "2013-09-10"
+    },
+    {
+      "featuredArtist": "Eric Church",
+      "featuredArtistId": "2IvkS5MXK0vPGnwyJsrEyV",
+      "trackName": "Raise 'Em Up",
+      "trackId": "00BN0t6Sk1avkDdmJfXaMw",
+      "preview": "https://p.scdn.co/mp3-preview/fa1ab13554bc3ae85acac583f9028c0ef1cfd1a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6a0bc872130138a170fd95d1666e831d3a875b5d",
+      "release_date": "2013-09-10"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "artistName": "Drake",
+  "features": [
+    {
+      "featuredArtist": "Giggs",
+      "featuredArtistId": "3S0tlB4fE7ChxI2pWz8Xip",
+      "trackName": "No Long Talk",
+      "trackId": "6CfrYuD3YRDYdYvH9jNtXY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/974010663ebd1e267ac11de88e07647eefbfa19d",
+      "release_date": "2017-03-18"
+    },
+    {
+      "featuredArtist": "Black Coffee",
+      "featuredArtistId": "6wMr4zKPrrR0UVz08WtUWc",
+      "trackName": "Get It Together",
+      "trackId": "7y6c07pgjZvtHI9kuMVqk1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/974010663ebd1e267ac11de88e07647eefbfa19d",
+      "release_date": "2017-03-18"
+    },
+    {
+      "featuredArtist": "Jorja Smith",
+      "featuredArtistId": "1CoZyIx7UvdxT5c8UkMzHd",
+      "trackName": "Get It Together",
+      "trackId": "7y6c07pgjZvtHI9kuMVqk1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/974010663ebd1e267ac11de88e07647eefbfa19d",
+      "release_date": "2017-03-18"
+    },
+    {
+      "featuredArtist": "Sampha",
+      "featuredArtistId": "2WoVwexZuODvclzULjPQtm",
+      "trackName": "4422",
+      "trackId": "2fkeWbM6iqTw7oGHTYm2lw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/974010663ebd1e267ac11de88e07647eefbfa19d",
+      "release_date": "2017-03-18"
+    },
+    {
+      "featuredArtist": "Quavo",
+      "featuredArtistId": "0VRj0yCOv2FXJNP47XQnx5",
+      "trackName": "Portland",
+      "trackId": "2bjwRfXMk4uRgOD9IBYl9h",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/974010663ebd1e267ac11de88e07647eefbfa19d",
+      "release_date": "2017-03-18"
+    },
+    {
+      "featuredArtist": "Travis Scott",
+      "featuredArtistId": "0Y5tJX1MQlPlqiwlOH1tJY",
+      "trackName": "Portland",
+      "trackId": "2bjwRfXMk4uRgOD9IBYl9h",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/974010663ebd1e267ac11de88e07647eefbfa19d",
+      "release_date": "2017-03-18"
+    },
+    {
+      "featuredArtist": "2 Chainz",
+      "featuredArtistId": "17lzZA2AlOHwCwFALHttmp",
+      "trackName": "Sacrifices",
+      "trackId": "0xl1w2q4VLojeXp4JfazPL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/974010663ebd1e267ac11de88e07647eefbfa19d",
+      "release_date": "2017-03-18"
+    },
+    {
+      "featuredArtist": "Young Thug",
+      "featuredArtistId": "50co4Is1HCEo8bhOyUWKpn",
+      "trackName": "Sacrifices",
+      "trackId": "0xl1w2q4VLojeXp4JfazPL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/974010663ebd1e267ac11de88e07647eefbfa19d",
+      "release_date": "2017-03-18"
+    },
+    {
+      "featuredArtist": "Kanye West",
+      "featuredArtistId": "5K4W6rqBFWDnAN6FQUkS6x",
+      "trackName": "Glow",
+      "trackId": "28irpKCCK9nn9DZSik2zEx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/974010663ebd1e267ac11de88e07647eefbfa19d",
+      "release_date": "2017-03-18"
+    },
+    {
+      "featuredArtist": "PARTYNEXTDOOR",
+      "featuredArtistId": "2HPaUgqeutzr3jx5a9WyDV",
+      "trackName": "Since Way Back",
+      "trackId": "5JUu0unA8VwhTZ9LkMWUVI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/974010663ebd1e267ac11de88e07647eefbfa19d",
+      "release_date": "2017-03-18"
+    },
+    {
+      "featuredArtist": "Pimp C",
+      "featuredArtistId": "7v9bFXCdSMA2o3gS4nvp0F",
+      "trackName": "Faithful",
+      "trackId": "4dWVEAVhqNUjvsBHUo477f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e73c706e842eb5233eab7afd3404218a2696d568",
+      "release_date": "2016-05-13"
+    },
+    {
+      "featuredArtist": "dvsn",
+      "featuredArtistId": "7e1ICztHM2Sc4JNLxeMXYl",
+      "trackName": "Faithful",
+      "trackId": "4dWVEAVhqNUjvsBHUo477f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e73c706e842eb5233eab7afd3404218a2696d568",
+      "release_date": "2016-05-13"
+    },
+    {
+      "featuredArtist": "WizKid",
+      "featuredArtistId": "3tVQdUvClmAT7URs9V3rsp",
+      "trackName": "One Dance",
+      "trackId": "12VWzyPDBCc8fqeWCAfNwR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e73c706e842eb5233eab7afd3404218a2696d568",
+      "release_date": "2016-05-13"
+    },
+    {
+      "featuredArtist": "Kyla",
+      "featuredArtistId": "77DAFfvm3O9zT5dIoG0eIO",
+      "trackName": "One Dance",
+      "trackId": "12VWzyPDBCc8fqeWCAfNwR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e73c706e842eb5233eab7afd3404218a2696d568",
+      "release_date": "2016-05-13"
+    },
+    {
+      "featuredArtist": "Future",
+      "featuredArtistId": "1RyvyyTE3xzB2ZywiAwp0i",
+      "trackName": "Grammys",
+      "trackId": "2JfeUjJvP1lJkCSne9g0de",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e73c706e842eb5233eab7afd3404218a2696d568",
+      "release_date": "2016-05-13"
+    },
+    {
+      "featuredArtist": "Rihanna",
+      "featuredArtistId": "5pKCCKE2ajJHZ9KAiaK11H",
+      "trackName": "Too Good",
+      "trackId": "7fJtPlEZKxu6gvkfBFc5tW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e73c706e842eb5233eab7afd3404218a2696d568",
+      "release_date": "2016-05-13"
+    },
+    {
+      "featuredArtist": "Lil Wayne",
+      "featuredArtistId": "55Aa2cqylxrFIXC767Z865",
+      "trackName": "Used To",
+      "trackId": "63p3Slj0shAFP0Q7dQetj5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d329671363eb7826b5871eef978841c7db97c757",
+      "release_date": "2015-02-12"
+    },
+    {
+      "featuredArtist": "Jhene Aiko",
+      "featuredArtistId": "5ZS223C6JyBfXasXxrRqOk",
+      "trackName": "From Time",
+      "trackId": "1skevucTpj2dfHEebjFqg5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/031b053641c4ab56995cf921c1f1e561fe353f7c",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Majid Jordan",
+      "featuredArtistId": "4HzKw8XcD0piJmDrrPRCYk",
+      "trackName": "Hold On, We're Going Home",
+      "trackId": "7Db1qyGFeMPIU7pZOZvTME",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/031b053641c4ab56995cf921c1f1e561fe353f7c",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Detail",
+      "featuredArtistId": "4sglKanXuoU0gqGYP3wiNv",
+      "trackName": "305 To My City",
+      "trackId": "6nh6Bz0nVYbUx63eZ0canE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/031b053641c4ab56995cf921c1f1e561fe353f7c",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "JAY Z",
+      "featuredArtistId": "3nFkdlSjzX9mRTtwJOzDYB",
+      "trackName": "Pound Cake / Paris Morton Music 2",
+      "trackId": "27oi47jn6mLnyFkQ7S9qH5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/031b053641c4ab56995cf921c1f1e561fe353f7c",
+      "release_date": "2013-01-01"
+    }
+  ]
+}

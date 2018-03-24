@@ -1,0 +1,50 @@
+{
+  "artistName": "Rush",
+  "features": [
+    {
+      "featuredArtist": "Ben Mink",
+      "featuredArtistId": "2HPJ68BBXMO2XKseW6WVP9",
+      "trackName": "Losing It - Live R40 Tour",
+      "trackId": "6u5hqhR0SXezCXPWdE9fGO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d11f6d29bc182303993f76a56a10d97be4b70cd6",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Jonathan Dinklage",
+      "featuredArtistId": "3RIkjJrAmyKDFxe4RYYSlC",
+      "trackName": "Losing It - Live R40 Tour",
+      "trackId": "6CQY6C0cgxLxReIjjJat9H",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d11f6d29bc182303993f76a56a10d97be4b70cd6",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Geddy Lee",
+      "featuredArtistId": "1mVhi0LYM9U7DEZNrKyC0l",
+      "trackName": "Subdivisions - Live",
+      "trackId": "10cp7U1YadJDXLSkZoogKJ",
+      "preview": "https://p.scdn.co/mp3-preview/946e6114f27b88f6217eb0502034e0fa8cd700b7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6819bc11672b0cd43f2917804239842f31161b36",
+      "release_date": "2013-11-15"
+    },
+    {
+      "featuredArtist": "Clockwork Angels String Ensemble",
+      "featuredArtistId": "6aDVPc2QzFpzG47KLQRrCC",
+      "trackName": "Caravan - Live On Clockwork Angels Tour",
+      "trackId": "1DXfzdzivWEMsxl0TfyTQC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6b51d038da5443013252fce11a6bec947fbea1a6",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Love For Sale",
+      "featuredArtistId": "3x9gxRi50IdfXp17seZW0S",
+      "trackName": "Moto Perpetuo - Live in Cleveland",
+      "trackId": "1Yyp1er7fPjxCUfLXQMzs5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6b9215be5af969d1a392f0fb8d4bf7697350c782",
+      "release_date": "2011-11-08"
+    }
+  ]
+}

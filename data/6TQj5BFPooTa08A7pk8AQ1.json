@@ -1,0 +1,518 @@
+{
+  "artistName": "Kaskade",
+  "features": [
+    {
+      "featuredArtist": "Late Night Alumni",
+      "featuredArtistId": "6JtFllJR7nhh8fa6oGefSj",
+      "trackName": "Christmas is Here",
+      "trackId": "4voEvBr3uYSMRtKlJKP1UX",
+      "preview": "https://p.scdn.co/mp3-preview/1d6f5adb2b5dd31065355fa300abfa395ee5a996?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c14e595e2738f64faa7c5da4015152e065e358dc",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Erika",
+      "featuredArtistId": "5vMvLZ0X6WOPXUq5dtXmRA",
+      "trackName": "Deck the Halls",
+      "trackId": "5D1oXvC7GD8FEXiFFCmDXj",
+      "preview": "https://p.scdn.co/mp3-preview/2d59a1b6cbfcfe932fd45a58c4cc9d0d0deae11b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c14e595e2738f64faa7c5da4015152e065e358dc",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Debra Fotheringham",
+      "featuredArtistId": "77SE4sIUzZE0HAk5VxTHpd",
+      "trackName": "God Rest Ye",
+      "trackId": "2PbPBOzBmm3jU02CpBHbEq",
+      "preview": "https://p.scdn.co/mp3-preview/0631d18c2c39669347b21cc85580ca195f469fed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c14e595e2738f64faa7c5da4015152e065e358dc",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Skylar Grey",
+      "featuredArtistId": "4utLUGcTvOJFr6aqIJtYWV",
+      "trackName": "O Come Emmanuel",
+      "trackId": "6QAlt0FPCGGxgsUodwLF1u",
+      "preview": "https://p.scdn.co/mp3-preview/7970b138221e809d9072ea0fffc52ee072353f75?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c14e595e2738f64faa7c5da4015152e065e358dc",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Ilsey",
+      "featuredArtistId": "2ZKzqJz3pPfWKVRgz9b39j",
+      "trackName": "Silent Night",
+      "trackId": "319QeKXVvPyCO82wqMnvDG",
+      "preview": "https://p.scdn.co/mp3-preview/55135bf3786aad5133fa785d2d8a6c120a5e372c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c14e595e2738f64faa7c5da4015152e065e358dc",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Gabrielle Current",
+      "featuredArtistId": "7efkoQb7dW8884GCnykYKW",
+      "trackName": "The First Noel",
+      "trackId": "56iX5gfP8z8fhPiYNNysjF",
+      "preview": "https://p.scdn.co/mp3-preview/1c10799cd20b4c532369671c9bf88145885223b4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c14e595e2738f64faa7c5da4015152e065e358dc",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Kayrae",
+      "featuredArtistId": "2pll8g7piuECAA2jNkZ588",
+      "trackName": "In the Bleak Midwinter",
+      "trackId": "7nJpwplQLzFAHPHyfIIBCS",
+      "preview": "https://p.scdn.co/mp3-preview/9d1762e86248f6b5f2ea7df991f8c47cedf97838?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c14e595e2738f64faa7c5da4015152e065e358dc",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Jane XØ",
+      "featuredArtistId": "5keDbKEPwrbe36cPzRpzsK",
+      "trackName": "Santa Baby",
+      "trackId": "54fiilVdAuNruSVmmu1Kh6",
+      "preview": "https://p.scdn.co/mp3-preview/6386756cb817e51dc76e97f52de1e781fdbd7d98?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c14e595e2738f64faa7c5da4015152e065e358dc",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Dia Frampton",
+      "featuredArtistId": "3ppkM4QtM781APpaX7H9t7",
+      "trackName": "This Christmas Night",
+      "trackId": "0ce4QrpcsOWkMpkami5Ts0",
+      "preview": "https://p.scdn.co/mp3-preview/f14608bcfaf8fdcdd9ad5e7fea895437efe0a088?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c14e595e2738f64faa7c5da4015152e065e358dc",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "LöKii",
+      "featuredArtistId": "2RDXcxQgmEyomb2g9SERuf",
+      "trackName": "Show of Hands (with LöKii & Mr. Tape)",
+      "trackId": "6c54HhGqvxlLavDsDzyLiw",
+      "preview": "https://p.scdn.co/mp3-preview/d04d20913934e2a97fa9250816a7d3f6c6fe2381?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb50b8fd911abebafa91ba98f2dc92464b64380a",
+      "release_date": "2017-09-01"
+    },
+    {
+      "featuredArtist": "Mr. Tape",
+      "featuredArtistId": "7ladzyDVpwhv848vat5v9P",
+      "trackName": "Show of Hands (with LöKii & Mr. Tape)",
+      "trackId": "6c54HhGqvxlLavDsDzyLiw",
+      "preview": "https://p.scdn.co/mp3-preview/d04d20913934e2a97fa9250816a7d3f6c6fe2381?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb50b8fd911abebafa91ba98f2dc92464b64380a",
+      "release_date": "2017-09-01"
+    },
+    {
+      "featuredArtist": "CID",
+      "featuredArtistId": "4FCzCS0KEgb0rgySWINItO",
+      "trackName": "Us",
+      "trackId": "6RXdg3NwyLU5pHUwkZq6VA",
+      "preview": "https://p.scdn.co/mp3-preview/c16823f23775d068856d2a9063119d69b8d6783f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c646e1915f97121832f5ac975272790e103ddde7",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "Galantis",
+      "featuredArtistId": "4sTQVOfp9vEMCemLw50sbu",
+      "trackName": "Mercy",
+      "trackId": "3m9uIsMafz5FEEpVF8vVgv",
+      "preview": "https://p.scdn.co/mp3-preview/f8474175ae49ac4a0f5d5f8e1be31b263a4a0478?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c646e1915f97121832f5ac975272790e103ddde7",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "Tamra Keenan",
+      "featuredArtistId": "1vhKXBUf7z5XDY1W4glMEi",
+      "trackName": "Tear Down These Walls (feat. Tamra Keenan)",
+      "trackId": "7eqVXMnW3vDJykknE4sgal",
+      "preview": "https://p.scdn.co/mp3-preview/30535ab2bd4319dee0ebce4ce83e4bbbbed8b3d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c646e1915f97121832f5ac975272790e103ddde7",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "Sasha Sloan",
+      "featuredArtistId": "4xnihxcoXWK3UqryOSnbw5",
+      "trackName": "Phoenix (feat. Sasha Sloan)",
+      "trackId": "4VD2ytCHtl1UTRXkGYyAT2",
+      "preview": "https://p.scdn.co/mp3-preview/53dbd1b72fdc98b05953d08e4f036ce0f6810c56?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c646e1915f97121832f5ac975272790e103ddde7",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "Tess Comrie",
+      "featuredArtistId": "43WrxZAJZj24jczyZvk2NL",
+      "trackName": "Never Sleep Alone (feat. Tess Comrie)",
+      "trackId": "0GWf2dNp7nL4o5yNQq8325",
+      "preview": "https://p.scdn.co/mp3-preview/764e6b10a96a08a0374d035d49f662d35481e58d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c646e1915f97121832f5ac975272790e103ddde7",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "Estelle",
+      "featuredArtistId": "5T0MSzX9RC5NA6gAI6irSn",
+      "trackName": "Day Trippin' (feat. Estelle)",
+      "trackId": "5GUbRosulNfGV5o5KfpHFn",
+      "preview": "https://p.scdn.co/mp3-preview/be3523cfb8395aa8fb9f750d260a6ae939cbcf8f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c646e1915f97121832f5ac975272790e103ddde7",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "K.Flay",
+      "featuredArtistId": "0pCNk4D3E2xtszsm6hMsWr",
+      "trackName": "Promise (feat. K.Flay)",
+      "trackId": "2OG73Fda8Qc0zLbq5CuUuq",
+      "preview": "https://p.scdn.co/mp3-preview/633760b84678fbb03f62010fb3b6a6530a7860d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c646e1915f97121832f5ac975272790e103ddde7",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "Scott Shepard",
+      "featuredArtistId": "6TvlEEyNyaBUCOFGYateKd",
+      "trackName": "Breaking Up (feat. Scott Shepard)",
+      "trackId": "3c5hybEfCTgaWBqNtivL9X",
+      "preview": "https://p.scdn.co/mp3-preview/43eee9517cd2e81e9c922531a64ad428ed84373f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c646e1915f97121832f5ac975272790e103ddde7",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "John Dahlbäck",
+      "featuredArtistId": "15xvsJMf8phaNa1LYvL9Qv",
+      "trackName": "A Little More (feat. Sansa)",
+      "trackId": "6SKkN6yuQFnzMEHMQR3sWw",
+      "preview": "https://p.scdn.co/mp3-preview/9a7fefaaec2b657e01cc954ee427f80c915ad0f1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c646e1915f97121832f5ac975272790e103ddde7",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "Sansa",
+      "featuredArtistId": "5ghRItoYhcGjBtH8xSGCC9",
+      "trackName": "A Little More (feat. Sansa)",
+      "trackId": "6SKkN6yuQFnzMEHMQR3sWw",
+      "preview": "https://p.scdn.co/mp3-preview/9a7fefaaec2b657e01cc954ee427f80c915ad0f1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c646e1915f97121832f5ac975272790e103ddde7",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "Two Nations",
+      "featuredArtistId": "42icWO16On13ukAvlX0O8s",
+      "trackName": "Papercuts",
+      "trackId": "4zFrYwS3zMZQ5TtdOSJL5n",
+      "preview": "https://p.scdn.co/mp3-preview/94cc3b8e5f6d859f7b9e6b2ffa57e033d3901cb5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c646e1915f97121832f5ac975272790e103ddde7",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "KOLAJ",
+      "featuredArtistId": "0hhL0iOf9ebHlwxWQyeH2w",
+      "trackName": "Whatever (feat. KOLAJ)",
+      "trackId": "5FJs5Z7epp4U1NbUcmRPh2",
+      "preview": "https://p.scdn.co/mp3-preview/879eb067b7b5f2ddb671141c2810ee33c5fe6011?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c646e1915f97121832f5ac975272790e103ddde7",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "deadmau5",
+      "featuredArtistId": "2CIMQHirSU0MQqyYHq0eOx",
+      "trackName": "I Remember - Strobelite Mix",
+      "trackId": "1qnJYRDhTV4GGMtbLTWtNR",
+      "preview": "https://p.scdn.co/mp3-preview/968fa4a3a064a0731fed5c9e68dec601c321d648?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e27bca2d0a93d2ee62657302796ae3efe9ee4416",
+      "release_date": "2014-07-22"
+    },
+    {
+      "featuredArtist": "Rebecca & Fiona",
+      "featuredArtistId": "6rgEPiKjowlMKZC1DF6W75",
+      "trackName": "Turn It Down",
+      "trackId": "2cuMhwsk8PfojAEZq3CXRg",
+      "preview": "https://p.scdn.co/mp3-preview/80170f3f15173005a50efe6457b0e7c334acb0c2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e27bca2d0a93d2ee62657302796ae3efe9ee4416",
+      "release_date": "2014-07-22"
+    },
+    {
+      "featuredArtist": "Mindy Gledhill",
+      "featuredArtistId": "24gJ2GCq5zx1Mh08ZpmiSo",
+      "trackName": "Eyes",
+      "trackId": "35ZAhItWQtTcNJc7vA6HpH",
+      "preview": "https://p.scdn.co/mp3-preview/a16050347342140d6a705b441bb55a9b47a7143e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e27bca2d0a93d2ee62657302796ae3efe9ee4416",
+      "release_date": "2014-07-22"
+    },
+    {
+      "featuredArtist": "Neon Trees",
+      "featuredArtistId": "0RpddSzUHfncUWNJXKOsjy",
+      "trackName": "Lessons in Love",
+      "trackId": "09xvqQtcQujPP8JA6zhp1H",
+      "preview": "https://p.scdn.co/mp3-preview/bd0ae3878be573b29063b15935d0f1f739881ed0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e27bca2d0a93d2ee62657302796ae3efe9ee4416",
+      "release_date": "2014-07-22"
+    },
+    {
+      "featuredArtist": "Swanky Tunes",
+      "featuredArtistId": "06cLuOP0p7VAnBnqil1eWX",
+      "trackName": "No One Knows Who We Are",
+      "trackId": "4HQYJUVY0zHdGNqMUxbjw7",
+      "preview": "https://p.scdn.co/mp3-preview/9fd633828b863b063a54a2ac531e210529a8fedd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e27bca2d0a93d2ee62657302796ae3efe9ee4416",
+      "release_date": "2014-07-22"
+    },
+    {
+      "featuredArtist": "Lights",
+      "featuredArtistId": "5pdyjBIaY5o1yOyexGIUc6",
+      "trackName": "No One Knows Who We Are",
+      "trackId": "4HQYJUVY0zHdGNqMUxbjw7",
+      "preview": "https://p.scdn.co/mp3-preview/9fd633828b863b063a54a2ac531e210529a8fedd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e27bca2d0a93d2ee62657302796ae3efe9ee4416",
+      "release_date": "2014-07-22"
+    },
+    {
+      "featuredArtist": "Haley",
+      "featuredArtistId": "50DJDQioCPmY2CCsVimaqN",
+      "trackName": "Dynasty",
+      "trackId": "3UiRHSYmtYEN3AaY91YBrR",
+      "preview": "https://p.scdn.co/mp3-preview/28fe14f3a77c7cfe54f128f37d43bb204f01f573?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e27bca2d0a93d2ee62657302796ae3efe9ee4416",
+      "release_date": "2014-07-22"
+    },
+    {
+      "featuredArtist": "Adam.K",
+      "featuredArtistId": "2xYAhFK2QCIl9uSXQeSIzv",
+      "trackName": "Raining",
+      "trackId": "5ZJRHZqbqwCpkruRwZzWca",
+      "preview": "https://p.scdn.co/mp3-preview/c4f0bab141bf82b3a2da365bd7c7542d80196987?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e27bca2d0a93d2ee62657302796ae3efe9ee4416",
+      "release_date": "2014-07-22"
+    },
+    {
+      "featuredArtist": "Sunsun",
+      "featuredArtistId": "6aRbmjSshc0rcjwhfB3d7Y",
+      "trackName": "Raining",
+      "trackId": "5ZJRHZqbqwCpkruRwZzWca",
+      "preview": "https://p.scdn.co/mp3-preview/c4f0bab141bf82b3a2da365bd7c7542d80196987?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e27bca2d0a93d2ee62657302796ae3efe9ee4416",
+      "release_date": "2014-07-22"
+    },
+    {
+      "featuredArtist": "Dragonette",
+      "featuredArtistId": "4GLJPBj5Cdr9AgLKvLWM4n",
+      "trackName": "Fire in Your New Shoes",
+      "trackId": "44zWZq4ZCEO2exl0fH5v1Z",
+      "preview": "https://p.scdn.co/mp3-preview/8900823f0931b9fac41dad9fb2bee8fe62ed76be?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e27bca2d0a93d2ee62657302796ae3efe9ee4416",
+      "release_date": "2014-07-22"
+    },
+    {
+      "featuredArtist": "Project 46",
+      "featuredArtistId": "2RhRT6DNOVoDTfS0rG31pZ",
+      "trackName": "Last Chance",
+      "trackId": "4adklDDvCpcsWbZZc9aBUT",
+      "preview": "https://p.scdn.co/mp3-preview/5a9002d40e1d140adf2ed7f35f69d1245515c2ce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e27bca2d0a93d2ee62657302796ae3efe9ee4416",
+      "release_date": "2014-07-22"
+    },
+    {
+      "featuredArtist": "Alex Gaudino",
+      "featuredArtistId": "7vb7VLDqpLTlAy1ctTMR5d",
+      "trackName": "I'll Never Dream I'm in Love - Radio Edit",
+      "trackId": "6zczw9zfjGpoHL5EydIU2v",
+      "preview": "https://p.scdn.co/mp3-preview/db1eec18d7cbc203037dc3e59ce128d630a49b41?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e27bca2d0a93d2ee62657302796ae3efe9ee4416",
+      "release_date": "2014-07-22"
+    },
+    {
+      "featuredArtist": "Moguai",
+      "featuredArtistId": "4xgFgBZ7CRtgtHcziClOwQ",
+      "trackName": "Something Something Champs - Radio Edit",
+      "trackId": "6imdB3xGokb5QIJZephOwg",
+      "preview": "https://p.scdn.co/mp3-preview/e248f904cf0713645e19c7511f04430deb988bf9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e27bca2d0a93d2ee62657302796ae3efe9ee4416",
+      "release_date": "2014-07-22"
+    },
+    {
+      "featuredArtist": "Zip Zip Through The Night",
+      "featuredArtistId": "5cqU2KGOvMlVg3K6J1SkNs",
+      "trackName": "Something Something Champs - Radio Edit",
+      "trackId": "6imdB3xGokb5QIJZephOwg",
+      "preview": "https://p.scdn.co/mp3-preview/e248f904cf0713645e19c7511f04430deb988bf9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e27bca2d0a93d2ee62657302796ae3efe9ee4416",
+      "release_date": "2014-07-22"
+    },
+    {
+      "featuredArtist": "Deniz Koyu",
+      "featuredArtistId": "39PhMWg1aAuuZcph0OXGu6",
+      "trackName": "Rage in Your New Shoes",
+      "trackId": "6E9UedbBjOqttoGlesoflJ",
+      "preview": "https://p.scdn.co/mp3-preview/d324a73e8b7fdbd6dd4d5b16fa9f59f1b0800159?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e27bca2d0a93d2ee62657302796ae3efe9ee4416",
+      "release_date": "2014-07-22"
+    },
+    {
+      "featuredArtist": "Becky Jean Williams",
+      "featuredArtistId": "1eFkax0tuWawNaAIjnm5Pb",
+      "trackName": "Feeling the Night",
+      "trackId": "3sekcQUsnDIwt9tOqacWIU",
+      "preview": "https://p.scdn.co/mp3-preview/295e52d0a0bc19b8044ddd874865c4f64f6138e5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a115fe455c8499fa0f11ed5c22dce8116d76fe76",
+      "release_date": "2013-09-09"
+    },
+    {
+      "featuredArtist": "School Of Seven Bells",
+      "featuredArtistId": "1mBdei7fcRpbUEYHgsQN9H",
+      "trackName": "Missing You",
+      "trackId": "2gLbLa1Q8jJyNwWZXRPHtW",
+      "preview": "https://p.scdn.co/mp3-preview/0c8b2825343225245ef443af807fb709a4b034d3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a115fe455c8499fa0f11ed5c22dce8116d76fe76",
+      "release_date": "2013-09-09"
+    },
+    {
+      "featuredArtist": "Lights",
+      "featuredArtistId": "6I0dJ6q33CuL6CDk1lBo57",
+      "trackName": "No One Knows Who We Are - Kaskade's Atmosphere Mix",
+      "trackId": "6uS5Z2T8CTI1xBD7SIq1rM",
+      "preview": "https://p.scdn.co/mp3-preview/1e03f48bbf13afa42c0bab08110d84c4fbffc62d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/46ad55d81dca68b88f5708a5e8e74611be119aef",
+      "release_date": "2013-09-09"
+    },
+    {
+      "featuredArtist": "Haley",
+      "featuredArtistId": "189wPVI1hNnlFWRLfDuoKe",
+      "trackName": "Floating",
+      "trackId": "0B5QDYenaXYOg7qIEjVhkL",
+      "preview": "https://p.scdn.co/mp3-preview/f2257fa989497f792b81fc6d1f44ff8b920127d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f1b5e834770ea75618c677fb976238242ce3381e",
+      "release_date": "2013-03-04"
+    },
+    {
+      "featuredArtist": "Skrillex",
+      "featuredArtistId": "5he5w2lnU9x7JFhnwcekXX",
+      "trackName": "Lick It",
+      "trackId": "2Z9O2yYcVtBSThyKWyQfF8",
+      "preview": "https://p.scdn.co/mp3-preview/12ca57d2d5bf40121030f0cf346baa7b5f289c0d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4abd9be6a5610252b264968419ebb18ff00a8bfc",
+      "release_date": "2012-11-04"
+    },
+    {
+      "featuredArtist": "Marcus Bently",
+      "featuredArtistId": "0KuXm5ztAUjW4kvfRj1SzI",
+      "trackName": "Let Me Go",
+      "trackId": "2ENoIyhaIN16goHKvqoTMD",
+      "preview": "https://p.scdn.co/mp3-preview/eb9913b8aeaa25e459f126a49e423aff2872cdb8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4abd9be6a5610252b264968419ebb18ff00a8bfc",
+      "release_date": "2012-11-04"
+    },
+    {
+      "featuredArtist": "Quadron",
+      "featuredArtistId": "3GhVFlFT3pagjVkslQPqoJ",
+      "trackName": "Waste Love",
+      "trackId": "7I0WC07eJbg09bG2MI0RTf",
+      "preview": "https://p.scdn.co/mp3-preview/305ea468d6ec0233c675447e65117e82bb15a185?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4abd9be6a5610252b264968419ebb18ff00a8bfc",
+      "release_date": "2012-11-04"
+    },
+    {
+      "featuredArtist": "Dada Life",
+      "featuredArtistId": "00sAT5YX8W3xNd1EuqyHw9",
+      "trackName": "ICE - with Dan Black",
+      "trackId": "0glypF1iT52zZY1E9YbF7M",
+      "preview": "https://p.scdn.co/mp3-preview/db7ebcc6c692d4b848124901163bce726102c86c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4abd9be6a5610252b264968419ebb18ff00a8bfc",
+      "release_date": "2012-11-04"
+    },
+    {
+      "featuredArtist": "Inpetto",
+      "featuredArtistId": "0WDjOCmlubUVdRozCz46sM",
+      "trackName": "How Long - with Late Night Alumni",
+      "trackId": "0xg40OvoNZYV3bGvYX48Ud",
+      "preview": "https://p.scdn.co/mp3-preview/0d692f893a288b0bc5579220ce3878d59051e025?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4abd9be6a5610252b264968419ebb18ff00a8bfc",
+      "release_date": "2012-11-04"
+    },
+    {
+      "featuredArtist": "Gregori Klosman",
+      "featuredArtistId": "4MHrqh980kNI1hD9Y4vLQY",
+      "trackName": "Room for Happiness - Gregori Klosman Remix",
+      "trackId": "1Sdeljmsk8Ru3VcQFIFqNY",
+      "preview": "https://p.scdn.co/mp3-preview/b8f185c95174500668ebb74f886514c188830535?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1cca6835f5ff4db78cc756cfc00e6216cbf18074",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Pixl",
+      "featuredArtistId": "7ky9cKWPaf8Fd27huYoFJY",
+      "trackName": "Room for Happiness - Pixl Remix",
+      "trackId": "3WSht4IAvmkVAjgLAiGqxX",
+      "preview": "https://p.scdn.co/mp3-preview/f96d9861368a5385ae0bc4deb7c23c0d585b9453?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1cca6835f5ff4db78cc756cfc00e6216cbf18074",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Feenixpawl",
+      "featuredArtistId": "5FvlJcXnFIm72pgQtW3Dct",
+      "trackName": "Room for Happiness - Feenixpawl Remix",
+      "trackId": "5EmQ152ctrLFdJOYOFKahV",
+      "preview": "https://p.scdn.co/mp3-preview/ebddad7b610600f65e503b7ffd6b4ccf8ae94146?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1cca6835f5ff4db78cc756cfc00e6216cbf18074",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Mysto",
+      "featuredArtistId": "36DRl2vJdtv190vkmIFRB7",
+      "trackName": "Room for Happiness - Mysto & Pizzi Remix",
+      "trackId": "59ZfQRKTesJisWeKTOLcM5",
+      "preview": "https://p.scdn.co/mp3-preview/80838f01050dbe6b2ce1a2c7279b97ddabb95db1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1cca6835f5ff4db78cc756cfc00e6216cbf18074",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Pizzi",
+      "featuredArtistId": "52Yrw9UnIm9XsPXdflS5ZY",
+      "trackName": "Room for Happiness - Mysto & Pizzi Remix",
+      "trackId": "59ZfQRKTesJisWeKTOLcM5",
+      "preview": "https://p.scdn.co/mp3-preview/80838f01050dbe6b2ce1a2c7279b97ddabb95db1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1cca6835f5ff4db78cc756cfc00e6216cbf18074",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Pixel Cheese",
+      "featuredArtistId": "3nR3htJ5ZjljWtnDDl12yA",
+      "trackName": "Room for Happiness - Pixel Cheese Remix",
+      "trackId": "6ZP061TgI9WiFItBWhYbJr",
+      "preview": "https://p.scdn.co/mp3-preview/20bbde48538aef3eda9857846fe71a64352e57b9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1cca6835f5ff4db78cc756cfc00e6216cbf18074",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Dan Black",
+      "featuredArtistId": "5kW3q7Vywlw24apaeufin6",
+      "trackName": "ICE",
+      "trackId": "3f9YULkMlfYs71FJO8gAjk",
+      "preview": "https://p.scdn.co/mp3-preview/db7ebcc6c692d4b848124901163bce726102c86c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/35f764d7e4119274a34fbc065fc944208bca2faf",
+      "release_date": "2011-10-25"
+    },
+    {
+      "featuredArtist": "Rebecca Scheja",
+      "featuredArtistId": "3n3aEgKIAoseS4SipVqZhG",
+      "trackName": "Turn It Down",
+      "trackId": "1y3rONGjS9zSss6ALT0Amg",
+      "preview": "https://p.scdn.co/mp3-preview/78ef0d17f8f18d836b429cfde4fc4a124b72c590?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1c702e82c33fe5d7bfa442a594251104e355dd10",
+      "release_date": "2011"
+    },
+    {
+      "featuredArtist": "Fiona Fitzpatrick",
+      "featuredArtistId": "6mSFtlxrHzYXphj5HWI8aw",
+      "trackName": "Turn It Down",
+      "trackId": "1y3rONGjS9zSss6ALT0Amg",
+      "preview": "https://p.scdn.co/mp3-preview/78ef0d17f8f18d836b429cfde4fc4a124b72c590?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1c702e82c33fe5d7bfa442a594251104e355dd10",
+      "release_date": "2011"
+    },
+    {
+      "featuredArtist": "Markus Bently",
+      "featuredArtistId": "6YdDqbJ8ARf6M2mEj7dveO",
+      "trackName": "Let Me Go",
+      "trackId": "4YSEmXS3nm8Jn323RF6Kod",
+      "preview": "https://p.scdn.co/mp3-preview/ac7b68511150c4dd4c7e5faa3260e1ff3a4c2e96?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1c702e82c33fe5d7bfa442a594251104e355dd10",
+      "release_date": "2011"
+    }
+  ]
+}

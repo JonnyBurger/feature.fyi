@@ -1,0 +1,50 @@
+{
+  "artistName": "Chase Rice",
+  "features": [
+    {
+      "featuredArtist": "Ned LeDoux",
+      "featuredArtistId": "0vdfJvybF4QD1rzkHYqp6Q",
+      "trackName": "This Cowboy's Hat (feat. Ned LeDoux)",
+      "trackId": "2pSAQZEuMD5QKrHaPqG4iV",
+      "preview": "https://p.scdn.co/mp3-preview/377c02da4c01ee11f89a4ae603add712e687107e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/081d947f23e3b2499b02fe87f8744b87d40fac8a",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Colt Ford",
+      "featuredArtistId": "0OpWIlokQeE7BNQMhuu2Nx",
+      "trackName": "Party up (feat. Colt Ford)",
+      "trackId": "3R1AWrE3Pg7uJayuzlFa62",
+      "preview": "https://p.scdn.co/mp3-preview/6a876ceb6d9710f754a2034dbd41742231cefaa5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cd6ca02f3285265e5264c3023f13b43069a5f1eb",
+      "release_date": "2014-08-19"
+    },
+    {
+      "featuredArtist": "Macy Maloy",
+      "featuredArtistId": "5JhkYX4FCP6FRmxrGEQoda",
+      "trackName": "Ride (feat. Macy Maloy)",
+      "trackId": "1CoOHJAHtKEDnUBrp3nKAB",
+      "preview": "https://p.scdn.co/mp3-preview/1a2bd7dcf43303fedceeb74dc9bc18c4cdc8f726?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cd6ca02f3285265e5264c3023f13b43069a5f1eb",
+      "release_date": "2014-08-19"
+    },
+    {
+      "featuredArtist": "Timeflies",
+      "featuredArtistId": "6dC0rIJNLSFZwqckLgXJ8p",
+      "trackName": "Are We There Yet",
+      "trackId": "2hZ2emFmlhzbCv8nQcOTkm",
+      "preview": "https://p.scdn.co/mp3-preview/1b0b37e5dd537d6459bf3e4b537c03ea6c31b46b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c22d2beea0b55cd5d35bf059109f03adb1b3b607",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "Gazzo",
+      "featuredArtistId": "5st4KKihmnSMLRsxWOs2x3",
+      "trackName": "Sun Turns Cold - Radio Edit",
+      "trackId": "7lQJqXUzuEs7qx76unBgPB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7ef27963fa5e065e09b41bba3c37cbd04071e446",
+      "release_date": "2015-06-16"
+    }
+  ]
+}

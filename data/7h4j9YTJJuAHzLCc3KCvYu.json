@@ -1,0 +1,23 @@
+{
+  "artistName": "Kina Grannis",
+  "features": [
+    {
+      "featuredArtist": "Kate McGill",
+      "featuredArtistId": "2zEASt0PHuI24e3JlAe17d",
+      "trackName": "All I Want",
+      "trackId": "2bPjLHyIEq6suQmb32SGfa",
+      "preview": "https://p.scdn.co/mp3-preview/add3a674e4052dcb15e2001af8eefd7b78051f7d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9b74b1a916b7ee796b1bb93bb4767096887ec7a",
+      "release_date": "2017-01-13"
+    },
+    {
+      "featuredArtist": "Imaginary Future",
+      "featuredArtistId": "470WlqN9HSRDGNaMufeHHF",
+      "trackName": "Riptide",
+      "trackId": "09HuxT0xOOKUu1ZowiQSI4",
+      "preview": "https://p.scdn.co/mp3-preview/54c993aa55294a713a0e23d68e96b633d0af4744?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9b74b1a916b7ee796b1bb93bb4767096887ec7a",
+      "release_date": "2017-01-13"
+    }
+  ]
+}

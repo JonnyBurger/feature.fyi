@@ -1,0 +1,23 @@
+{
+  "artistName": "Carla Morrison",
+  "features": [
+    {
+      "featuredArtist": "Ely Guerra",
+      "featuredArtistId": "1ne2c2YEgt4MmJCJGCsfsZ",
+      "trackName": "Tierra Ajena",
+      "trackId": "6nFHDmonvKsQDXuQHxGAJh",
+      "preview": "https://p.scdn.co/mp3-preview/fa9ea33a12628833c65279299bffdbd3e2ba5620?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/203de0a8047d7cd1e30a10f1e48e69233f08a0f4",
+      "release_date": "2017-06-09"
+    },
+    {
+      "featuredArtist": "Natalia Lafourcade",
+      "featuredArtistId": "1hcdI2N1023RvSwLzTtdsp",
+      "trackName": "Pajarito del Amore",
+      "trackId": "6q0Bvy0oaMOPWG0sgG5txg",
+      "preview": "https://p.scdn.co/mp3-preview/705c9fa86ca5e803250c07e945da0922acfe2d63?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/38a9b6a2cccd7c4ab09823a2a271cce867ff2b85",
+      "release_date": "2010-10-26"
+    }
+  ]
+}

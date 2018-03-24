@@ -1,0 +1,32 @@
+{
+  "artistName": "G-Unit",
+  "features": [
+    {
+      "featuredArtist": "Young Buck",
+      "featuredArtistId": "4pr7J7wzgObkE3DD3Izi7q",
+      "trackName": "Piano Man",
+      "trackId": "3GIqhKvluFVD4v2WTyYKct",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e0a7abf381f270854f5d578b79dae772f046d3c4",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Mavado",
+      "featuredArtistId": "0eezS9KmhdjGN436RdTIXu",
+      "trackName": "Let It Go",
+      "trackId": "08HymCrcRjZIlx9WjF2y95",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e0a7abf381f270854f5d578b79dae772f046d3c4",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Joe",
+      "featuredArtistId": "3zTOe1BtyTkwNvYZOxXktX",
+      "trackName": "Wanna Get To Know You",
+      "trackId": "1dHJETCn2X1R1YwVlMvSza",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4706aad4928f2ecb4dfecc03de64705427f67215",
+      "release_date": "2003-01-01"
+    }
+  ]
+}

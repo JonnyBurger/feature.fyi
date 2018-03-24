@@ -1,0 +1,68 @@
+{
+  "artistName": "JP Cooper",
+  "features": [
+    {
+      "featuredArtist": "Stormzy",
+      "featuredArtistId": "2SrSdSvpminqmStGELCSNd",
+      "trackName": "Momma's Prayers",
+      "trackId": "2BpV30Cn2wKlcK7FKBRMYs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bdcd6d1fd17e755515bd3a24384bf7c32e686578",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Blinkie",
+      "featuredArtistId": "0nJcDqY6ox4kHB92AuRA8j",
+      "trackName": "Closer - Blinkie Remix",
+      "trackId": "0wLgex337VKSFluko0Z63u",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6ae27f5f79f8d8cbc7caf273b1fec2e2ea49caa",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Nick Peters",
+      "featuredArtistId": "4Rm7UAexBAJqL3LHAUepbw",
+      "trackName": "Closer - Nick Peters Remix",
+      "trackId": "1RoALGxTwNdzOL16Fy5KUe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6ae27f5f79f8d8cbc7caf273b1fec2e2ea49caa",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Bruno Martini",
+      "featuredArtistId": "5veVxxPm1vzgi6pO2iVA8L",
+      "trackName": "She's On My Mind - Bruno Martini Remix",
+      "trackId": "0YbxVFRXtts2mGBlUKfFTD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c325cb081aa4591ae5fed7576d5b104cce16783",
+      "release_date": "2017-08-11"
+    },
+    {
+      "featuredArtist": "Ryan Riback",
+      "featuredArtistId": "33JQK4UoS2aMPYBfdB5Ftt",
+      "trackName": "She's On My Mind - Ryan Riback Remix",
+      "trackId": "1P0EP0KrZgWRlTv82MML9x",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c325cb081aa4591ae5fed7576d5b104cce16783",
+      "release_date": "2017-08-11"
+    },
+    {
+      "featuredArtist": "KC Lights",
+      "featuredArtistId": "0bUZrFj7rstq07E4iAJHgZ",
+      "trackName": "She's On My Mind - KC Lights Remix",
+      "trackId": "7zayTV8HmvRZEgbkUcv16t",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c325cb081aa4591ae5fed7576d5b104cce16783",
+      "release_date": "2017-08-11"
+    },
+    {
+      "featuredArtist": "Deepend",
+      "featuredArtistId": "0uGApGjjFXKwUOAqYBeX7B",
+      "trackName": "Passport Home - Deepend Remix",
+      "trackId": "0YDSzyIGUyjpK4VZrnSKhl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/078ac988f8293d3b7ab75f32a20e470a76145e0d",
+      "release_date": "2017-05-19"
+    }
+  ]
+}

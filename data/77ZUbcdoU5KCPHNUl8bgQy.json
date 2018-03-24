@@ -1,0 +1,185 @@
+{
+  "artistName": "João Gilberto",
+  "features": [
+    {
+      "featuredArtist": "Antônio Carlos Jobim",
+      "featuredArtistId": "3pO5VjZ4wOHCMBXOvbMISG",
+      "trackName": "Hô-bá-lá-lá",
+      "trackId": "6wIymkzu9u43FolBWFkEFh",
+      "preview": "https://p.scdn.co/mp3-preview/8ba6ae4d916ff48b4e1a75af7a281af2e12f896b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f57bbd06e4736138142c202adf5f7bc175921d6d",
+      "release_date": "2016-05-16"
+    },
+    {
+      "featuredArtist": "Garotos da Lua",
+      "featuredArtistId": "46pKldESzNwC4J5ezkrhlf",
+      "trackName": "Hô-bá-lá-lá",
+      "trackId": "6wIymkzu9u43FolBWFkEFh",
+      "preview": "https://p.scdn.co/mp3-preview/8ba6ae4d916ff48b4e1a75af7a281af2e12f896b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f57bbd06e4736138142c202adf5f7bc175921d6d",
+      "release_date": "2016-05-16"
+    },
+    {
+      "featuredArtist": "Cipo and Sua Orquestra",
+      "featuredArtistId": "3xuTnXlfKMuEq2kQ1brJxW",
+      "trackName": "Quando voce recordar",
+      "trackId": "1ZEY4axmZfdEPuOZ96h7qP",
+      "preview": "https://p.scdn.co/mp3-preview/9adf07e1ff02dbdb7d69e84b6f494183ce081c26?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f57bbd06e4736138142c202adf5f7bc175921d6d",
+      "release_date": "2016-05-16"
+    },
+    {
+      "featuredArtist": "Brazilian Love Affair Project",
+      "featuredArtistId": "5LPtVDKmhK18iKF6bjtuJ8",
+      "trackName": "O Amor Em Paz",
+      "trackId": "3bsUuFNXJfM4pM1NXOL6iO",
+      "preview": "https://p.scdn.co/mp3-preview/27711e88438decf6fa317c672859d3280b41495d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1a813b239e01831ca6d6e312a302fa18253e6d9f",
+      "release_date": "2014-09-06"
+    },
+    {
+      "featuredArtist": "Jonas Silva",
+      "featuredArtistId": "1cg1hiZCMuHAUwfs27dFAg",
+      "trackName": "Rosinha",
+      "trackId": "5O6Fs32vi67oNQkfyOtowO",
+      "preview": "https://p.scdn.co/mp3-preview/14437e1c76691a94a6b9a3da5c79b6bec318b3e8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2accf80f08cd8bd465f9c56cb58e871730401fa",
+      "release_date": "2014-06-20"
+    },
+    {
+      "featuredArtist": "Stan Getz",
+      "featuredArtistId": "0FMucZsEnCxs5pqBjHjIc8",
+      "trackName": "Desafinado",
+      "trackId": "5OhlzpbwFyRZJuuJQM7kRx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aba6eb034306e05da0638526b38b714bf9b06644",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Newton Ferreira Mendonça",
+      "featuredArtistId": "0b7hriV3g3Dm58J0gbYobG",
+      "trackName": "Desafinado",
+      "trackId": "5OhlzpbwFyRZJuuJQM7kRx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aba6eb034306e05da0638526b38b714bf9b06644",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Ary Barosso",
+      "featuredArtistId": "7eavCmI5dp3JzP5Ow9GBMP",
+      "trackName": "Para Machuchar Meu Coracao",
+      "trackId": "0IFd7WpTl3QAJ2M7HMJJPV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aba6eb034306e05da0638526b38b714bf9b06644",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Vinícius de Moraes",
+      "featuredArtistId": "5HlnN6xF2MD87KhGRmCRTd",
+      "trackName": "Só Danço Samba",
+      "trackId": "04qKSKuM8eB2ZhHuFJgcyZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aba6eb034306e05da0638526b38b714bf9b06644",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Dorival Caymmi",
+      "featuredArtistId": "7zsxdMsODmHKTbTB00t9wS",
+      "trackName": "Doralice",
+      "trackId": "3TrLS8mj5CBVyz1PAigMG8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aba6eb034306e05da0638526b38b714bf9b06644",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "António Victorino Almeida",
+      "featuredArtistId": "5TimI1VjZi3ke8F6HF226e",
+      "trackName": "Doralice",
+      "trackId": "3TrLS8mj5CBVyz1PAigMG8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aba6eb034306e05da0638526b38b714bf9b06644",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Astrud Gilberto",
+      "featuredArtistId": "5rX2c1zow6hCph8PnnU3kF",
+      "trackName": "Only Trust Your Heart",
+      "trackId": "2fScJ1MHSyNx8Q7DLXpDLd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aba6eb034306e05da0638526b38b714bf9b06644",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Benny Carter",
+      "featuredArtistId": "5dlCVmfRbWVGOJYHzGyk32",
+      "trackName": "Only Trust Your Heart",
+      "trackId": "2fScJ1MHSyNx8Q7DLXpDLd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aba6eb034306e05da0638526b38b714bf9b06644",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Newton Mendonça",
+      "featuredArtistId": "5yS1gOuYkYFFmSejT6ugiV",
+      "trackName": "Meditation",
+      "trackId": "3z73walZR4zRRCYG74jR3A",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aba6eb034306e05da0638526b38b714bf9b06644",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Jon Hendricks",
+      "featuredArtistId": "2Kn5swSfLmUU2WEJVlQvJY",
+      "trackName": "O Pato",
+      "trackId": "1oZNOE35ONHkwiiMqch319",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aba6eb034306e05da0638526b38b714bf9b06644",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Jayme Sylva",
+      "featuredArtistId": "2YxZrkZKscYUuPURdslAtO",
+      "trackName": "O Pato",
+      "trackId": "1oZNOE35ONHkwiiMqch319",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aba6eb034306e05da0638526b38b714bf9b06644",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Neuza Teixeira",
+      "featuredArtistId": "3dW3FW6pHpDvAPgvxI2NWI",
+      "trackName": "O Pato",
+      "trackId": "1oZNOE35ONHkwiiMqch319",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aba6eb034306e05da0638526b38b714bf9b06644",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Jayme Silva",
+      "featuredArtistId": "4xnsWDnuAl9D0Wx798aGof",
+      "trackName": "O Pato",
+      "trackId": "1oZNOE35ONHkwiiMqch319",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aba6eb034306e05da0638526b38b714bf9b06644",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Janet Almeida",
+      "featuredArtistId": "4NjDHv8CznGPIh4S79jQkK",
+      "trackName": "Pra Que Discutir Com Madame?",
+      "trackId": "7ImafTUlaomP0Z4f9joYJh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aba6eb034306e05da0638526b38b714bf9b06644",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Haroldo Barbosa",
+      "featuredArtistId": "23pj99mspNlB9r5dpO0VfY",
+      "trackName": "Pra Que Discutir Com Madame?",
+      "trackId": "7ImafTUlaomP0Z4f9joYJh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aba6eb034306e05da0638526b38b714bf9b06644",
+      "release_date": "2014-04-02"
+    }
+  ]
+}

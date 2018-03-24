@@ -1,0 +1,68 @@
+{
+  "artistName": "Jack Garratt",
+  "features": [
+    {
+      "featuredArtist": "Anderson .Paak",
+      "featuredArtistId": "3jK9MiCrA42lLAdMGUZpwa",
+      "trackName": "Worry",
+      "trackId": "6im5A2JsH5HYGrs0hRUtNZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9ae70d59c8c44b5aa64f2c5bb135d4f4ad37687b",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Little Simz",
+      "featuredArtistId": "6eXZu6O7nAUA5z6vLV8NKI",
+      "trackName": "Far Cry",
+      "trackId": "6MiQ8qzLb54Oi5RZXYc2tP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3909970bbb630d917a0e8f1bba57407269587db1",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "AlunaGeorge",
+      "featuredArtistId": "2VAnyOxzJuSAj7XIuEOT38",
+      "trackName": "Surprise Yourself - AlunaGeorge Remix",
+      "trackId": "5L7OdfxCSumzWyrw80jLT5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b144d7f2a4ba252430cac1b4ca33a63370de568e",
+      "release_date": "2016-05-06"
+    },
+    {
+      "featuredArtist": "Gryffin",
+      "featuredArtistId": "2ZRQcIgzPCVaT9XKhXZIzh",
+      "trackName": "Surprise Yourself - GRYFFIN x Manila Killa Remix",
+      "trackId": "3Rm8vl0NP54Xx7umZEcU1D",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b144d7f2a4ba252430cac1b4ca33a63370de568e",
+      "release_date": "2016-05-06"
+    },
+    {
+      "featuredArtist": "Manila Killa",
+      "featuredArtistId": "4EukMPjtYsdi87lkU1hIxN",
+      "trackName": "Surprise Yourself - GRYFFIN x Manila Killa Remix",
+      "trackId": "3Rm8vl0NP54Xx7umZEcU1D",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b144d7f2a4ba252430cac1b4ca33a63370de568e",
+      "release_date": "2016-05-06"
+    },
+    {
+      "featuredArtist": "CHINAH",
+      "featuredArtistId": "1GVgZYVXollElCpn7FCHaV",
+      "trackName": "Worry - CHINAH Remix",
+      "trackId": "1t15Lm5XMi7C8JlVikDn7F",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7e683e31818f16a3f73c83b29a1131a73f768f58",
+      "release_date": "2016-03-25"
+    },
+    {
+      "featuredArtist": "Mark 'Artful' Hill",
+      "featuredArtistId": "68aLdscIiMW0kcU3uPDbyL",
+      "trackName": "Worry - Mark Hill 'Artful' Remix",
+      "trackId": "7uJUi5cShfReX0DPRIhmo5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7e683e31818f16a3f73c83b29a1131a73f768f58",
+      "release_date": "2016-03-25"
+    }
+  ]
+}

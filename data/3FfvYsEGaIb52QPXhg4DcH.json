@@ -1,0 +1,41 @@
+{
+  "artistName": "Jason Aldean",
+  "features": [
+    {
+      "featuredArtist": "Kelsea Ballerini",
+      "featuredArtistId": "3RqBeV12Tt7A8xH3zBDDUF",
+      "trackName": "First Time Again (with Kelsea Ballerini)",
+      "trackId": "2aPIgCNuLT9TWUN9be2rpR",
+      "preview": "https://p.scdn.co/mp3-preview/fe689788577ceec78da0159712ddca6763af0cdd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31a914c11b2e5fb71dbec0a5634bfcfdbbbddb67",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "Luke Bryan",
+      "featuredArtistId": "0BvkDsjIUla7X0k6CSWh1I",
+      "trackName": "The Only Way I Know (with Luke Bryan and Eric Church)",
+      "trackId": "0h3DPHckCUqcWswjVMvdE9",
+      "preview": "https://p.scdn.co/mp3-preview/a24c64842f5f6cca563306d439ab5cf4ea670a83?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/30fa9d2014489a8197ef394fff92788496164160",
+      "release_date": "2012-10-16"
+    },
+    {
+      "featuredArtist": "Eric Church",
+      "featuredArtistId": "2IvkS5MXK0vPGnwyJsrEyV",
+      "trackName": "The Only Way I Know (with Luke Bryan and Eric Church)",
+      "trackId": "0h3DPHckCUqcWswjVMvdE9",
+      "preview": "https://p.scdn.co/mp3-preview/a24c64842f5f6cca563306d439ab5cf4ea670a83?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/30fa9d2014489a8197ef394fff92788496164160",
+      "release_date": "2012-10-16"
+    },
+    {
+      "featuredArtist": "Kelly Clarkson",
+      "featuredArtistId": "3BmGtnKgCSGYIUhmivXKWX",
+      "trackName": "Don't You Wanna Stay (with Kelly Clarkson)",
+      "trackId": "7CZiLgkiVHhFcDkI2Y4lZ4",
+      "preview": "https://p.scdn.co/mp3-preview/7f35323015f8dbc675d3458b454da93fda1de557?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/43f7fb4f8799fe95beedab292b0aaafa1184464a",
+      "release_date": "2010-11-02"
+    }
+  ]
+}

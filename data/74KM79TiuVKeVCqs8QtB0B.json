@@ -1,0 +1,77 @@
+{
+  "artistName": "Sabrina Carpenter",
+  "features": [
+    {
+      "featuredArtist": "Jonas Blue",
+      "featuredArtistId": "1HBjj22wzbscIZ9sEb5dyf",
+      "trackName": "Alien",
+      "trackId": "0RUTnY2B3s05fZuCHsNaUP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a9db6b0497eba3c5f87acd4a0b327f79c32520a4",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Lost Kings",
+      "featuredArtistId": "3hyEbRtp617pNCuuQjyOmc",
+      "trackName": "First Love - Ashworth Remix",
+      "trackId": "21HUuj1qSnAFn5iSOIlq6v",
+      "preview": "https://p.scdn.co/mp3-preview/72f96f102ceaa233e723311961e9510afca02efd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a2528005ee111849990ae89b93064e44c369e24c",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Ashworth",
+      "featuredArtistId": "3pcGjcfEW3YD2Hfk6tDR5S",
+      "trackName": "First Love - Ashworth Remix",
+      "trackId": "21HUuj1qSnAFn5iSOIlq6v",
+      "preview": "https://p.scdn.co/mp3-preview/72f96f102ceaa233e723311961e9510afca02efd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a2528005ee111849990ae89b93064e44c369e24c",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Telykast",
+      "featuredArtistId": "7vWC03wqXwUqjPON8hc1tz",
+      "trackName": "First Love - TELYKast Remix",
+      "trackId": "5qJuG66jfxUgzfl6l195FO",
+      "preview": "https://p.scdn.co/mp3-preview/fc98e8b49d969c51818ce8fcc4ad45488000c8ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a2528005ee111849990ae89b93064e44c369e24c",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Savi",
+      "featuredArtistId": "1H72fTOUAUl0WQ4kH5DPVW",
+      "trackName": "First Love - SAVI Remix",
+      "trackId": "1TMmQ5JK4EewfiIAISLpzl",
+      "preview": "https://p.scdn.co/mp3-preview/78f58f53be7c1b913c093ea713ec0f5303b873b4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a2528005ee111849990ae89b93064e44c369e24c",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Jasmine Thompson",
+      "featuredArtistId": "2TL8gYTNgD6nXkyuUdDrMg",
+      "trackName": "Sign of the Times",
+      "trackId": "3h0RJYaohnvXg5SmWD1dZF",
+      "preview": "https://p.scdn.co/mp3-preview/547f1695e87f17b0b8deb67634d4ccadb75d22ae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f5273a888a10c3eb766d8895c024fd5639ae6b7",
+      "release_date": "2017-06-02"
+    },
+    {
+      "featuredArtist": "Mike Perry",
+      "featuredArtistId": "6lB8vOoI4DRrrVxXwuV19c",
+      "trackName": "Hands",
+      "trackId": "5153LWKMJiMNIRCChGN4Ja",
+      "preview": "https://p.scdn.co/mp3-preview/135365a575c9150649583c6db59bb4d7813ed42b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/50c67eeea8e5c4591bd0a69b83b0d1d3a31553cd",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "The Vamps",
+      "featuredArtistId": "7gAppWoH7pcYmphCVTXkzs",
+      "trackName": "Hands",
+      "trackId": "5153LWKMJiMNIRCChGN4Ja",
+      "preview": "https://p.scdn.co/mp3-preview/135365a575c9150649583c6db59bb4d7813ed42b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/50c67eeea8e5c4591bd0a69b83b0d1d3a31553cd",
+      "release_date": "2017-05-19"
+    }
+  ]
+}

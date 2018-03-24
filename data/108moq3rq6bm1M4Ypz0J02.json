@@ -1,0 +1,23 @@
+{
+  "artistName": "Intocable",
+  "features": [
+    {
+      "featuredArtist": "Beto Zapata",
+      "featuredArtistId": "2kV0efFqE8KyEzv7YVBQlx",
+      "trackName": "Cuestión De Tiempo",
+      "trackId": "0hq2RMoRV1bxPQw8k1t5vp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aca1014da7e705da21ed86b93899c7404d8dc9f1",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Ricardo Arjona",
+      "featuredArtistId": "0h1zs4CTlU9D2QtgPxptUD",
+      "trackName": "Mojado",
+      "trackId": "201VfCvgickK3P6jJSHqT3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cf706f3ea6fe31d1c87f7bf9115fc20c43b7db23",
+      "release_date": "2010-04-09"
+    }
+  ]
+}

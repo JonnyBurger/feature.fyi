@@ -1,0 +1,50 @@
+{
+  "artistName": "Marco Antonio Solís",
+  "features": [
+    {
+      "featuredArtist": "Enrique Iglesias",
+      "featuredArtistId": "7qG3b048QCHVRO5Pv1T5lw",
+      "trackName": "El Perdedor",
+      "trackId": "0xf4JT99IB2Hx8sCJ9o6Vn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9baa802c2eae61c09ad84d18926374a4a94a2f8b",
+      "release_date": "2016-09-02"
+    },
+    {
+      "featuredArtist": "David Bisbal",
+      "featuredArtistId": "5gOJTI4TusSENizxhcG7jB",
+      "trackName": "Historia De Un Amor - Actuación En La Voz",
+      "trackId": "2jqJWKRUvPSJZe8yPfR5as",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b20fb929f324092794ab6c31559a21a25cc00fcc",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Wisin",
+      "featuredArtistId": "3E6xrwgnVfYCrCs0ePERDz",
+      "trackName": "Tu Cárcel",
+      "trackId": "69h9QyEnSwyq5wDVpKetrE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b20fb929f324092794ab6c31559a21a25cc00fcc",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Yandel",
+      "featuredArtistId": "0eHQ9o50hj6ZDNBt6Ys1sD",
+      "trackName": "Tu Cárcel",
+      "trackId": "69h9QyEnSwyq5wDVpKetrE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b20fb929f324092794ab6c31559a21a25cc00fcc",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Alejandra Guzman",
+      "featuredArtistId": "7Hf9AwMO37bSdxHb0FBGmO",
+      "trackName": "Tu Cárcel",
+      "trackId": "69h9QyEnSwyq5wDVpKetrE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b20fb929f324092794ab6c31559a21a25cc00fcc",
+      "release_date": "2014-01-01"
+    }
+  ]
+}

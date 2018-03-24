@@ -1,0 +1,41 @@
+{
+  "artistName": "Yuna",
+  "features": [
+    {
+      "featuredArtist": "Usher",
+      "featuredArtistId": "23zg3TcAtWQy7J6upgbUnj",
+      "trackName": "Crush",
+      "trackId": "3Txcx4jhuiTZSvhAL0WaRc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fd2eefd4602f5384e37ca45eeebd9a324a3b00ab",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Jhene Aiko",
+      "featuredArtistId": "5ZS223C6JyBfXasXxrRqOk",
+      "trackName": "Used To Love You",
+      "trackId": "7nOtXCM1w97j4KeBRH2rPj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fd2eefd4602f5384e37ca45eeebd9a324a3b00ab",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "SonaOne",
+      "featuredArtistId": "7qM9nMv6HFHFUpiN034R3z",
+      "trackName": "Pulang",
+      "trackId": "2FlD3k6jV8ylgvh1ocMHmB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/46e2dbe1413067d177dac30ad7349adee6243d83",
+      "release_date": "2016-08-19"
+    },
+    {
+      "featuredArtist": "Lincoln Jesser",
+      "featuredArtistId": "3GxiyVFhM1CWoYBMfZ9hYG",
+      "trackName": "Baby Boy (feat. Yuna)",
+      "trackId": "6xUw2qQTE5oI5coCQh9PXg",
+      "preview": "https://p.scdn.co/mp3-preview/9e4a03994dfda65c860e8fff277437b2d0fae170?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fc03b39bbd065da804aaa597d7230c91614c170c",
+      "release_date": "2016-01-29"
+    }
+  ]
+}

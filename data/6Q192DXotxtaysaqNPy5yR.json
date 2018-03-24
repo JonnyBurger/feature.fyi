@@ -1,0 +1,113 @@
+{
+  "artistName": "Amy Winehouse",
+  "features": [
+    {
+      "featuredArtist": "Tony Bennett",
+      "featuredArtistId": "2lolQgalUvZDfp5vvVtTYV",
+      "trackName": "Body And Soul",
+      "trackId": "12TAfwmQSufwlerS9UJaQB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cab7123c9606b2950fef23b6ebcd6b7cf932399",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Nas",
+      "featuredArtistId": "20qISvAhX20dpIbOOzGK3q",
+      "trackName": "Like Smoke",
+      "trackId": "6JaXcwVT4LaHlo7MrYqaKK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/626801cf200d69b9db50d9dad433f6bdafa4d98d",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Matthew Cole",
+      "featuredArtistId": "2qQrWrw2PJS4oSHjfxA3Cl",
+      "trackName": "Fuck Me Pumps - MJ Cole Remix",
+      "trackId": "2ZaAlV7GCjWl8I2igCCEiF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45cee8f24527209ed7279677daf1bcd6683be1d5",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Seiji",
+      "featuredArtistId": "6XwHEDOkZpFRqtZDXLYHlK",
+      "trackName": "Take The Box - Seijis Buggin' Mix",
+      "trackId": "5BKF55fIGu4kObMi1uf2xb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45cee8f24527209ed7279677daf1bcd6683be1d5",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Mark Pritchard",
+      "featuredArtistId": "7wDfZhaCORLgP3K62R3MJK",
+      "trackName": "Stronger Than Me - Harmonic 33 Remix",
+      "trackId": "6F8p3QBRcjmTZhfIzq1rMr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45cee8f24527209ed7279677daf1bcd6683be1d5",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Dave Brinkworth",
+      "featuredArtistId": "63kk57Qv6RKxr3CO4KSaLZ",
+      "trackName": "Stronger Than Me - Harmonic 33 Remix",
+      "trackId": "6F8p3QBRcjmTZhfIzq1rMr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45cee8f24527209ed7279677daf1bcd6683be1d5",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Salaam Remi",
+      "featuredArtistId": "0rlS0SzVFk8BoiAW0fGBbN",
+      "trackName": "In My Bed - CJ Mix",
+      "trackId": "6lVj1zzqaLQjVqXY6FacpK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/45cee8f24527209ed7279677daf1bcd6683be1d5",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Zalon Thompson",
+      "featuredArtistId": "0zekQep7qKANc50WkNbqvP",
+      "trackName": "Hey Little Rich Girl",
+      "trackId": "6Qvde6xAxwOBYNCikGughd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fb4c307194c83f61e2215086dc085823f4ea7be1",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Ade Omotayo",
+      "featuredArtistId": "6vBEH6ztLks6Wa9CbTHrgI",
+      "trackName": "Hey Little Rich Girl",
+      "trackId": "6Qvde6xAxwOBYNCikGughd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fb4c307194c83f61e2215086dc085823f4ea7be1",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Ghostface Killah",
+      "featuredArtistId": "6FD0unjzGQhX3b6eMccMJe",
+      "trackName": "You Know I'm No Good - Ghostface UK Version",
+      "trackId": "7pE3ToBcXgKoPdz8E2yIvc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8879f145bcdcab3f4bd292d2b025eb5390117bc3",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Hot Chip",
+      "featuredArtistId": "37uLId6Z5ZXCx19vuruvv5",
+      "trackName": "Rehab - Hot Chip Remix",
+      "trackId": "7AmAdogW5n8fj80x6TJW3x",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/31e153a0507b27ad519b830680150aa72648a892",
+      "release_date": "2006"
+    },
+    {
+      "featuredArtist": "The Rumble Strips",
+      "featuredArtistId": "2LrQtNcBWufq2AjaM6swf7",
+      "trackName": "Back To Black - The Rumble Strips Remix",
+      "trackId": "4PGEj9ZvO1lHhwe5u4mfAP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/31e153a0507b27ad519b830680150aa72648a892",
+      "release_date": "2006"
+    }
+  ]
+}

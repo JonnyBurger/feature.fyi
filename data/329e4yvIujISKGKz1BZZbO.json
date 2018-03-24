@@ -1,0 +1,590 @@
+{
+  "artistName": "Farruko",
+  "features": [
+    {
+      "featuredArtist": "Bad Bunny",
+      "featuredArtistId": "4q3ewBCX7sLwd24euuV69X",
+      "trackName": "Krippy Kush",
+      "trackId": "7FfpP3YZ6fOWMdxkIAtud9",
+      "preview": "https://p.scdn.co/mp3-preview/f41fa2248629deec413755373968693bb5e77d43?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/61956518b48663e10775869d8dd4cffbe6f43ac8",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Rvssian",
+      "featuredArtistId": "1fctva4kpRbg2k3v7kwRuS",
+      "trackName": "Krippy Kush",
+      "trackId": "7FfpP3YZ6fOWMdxkIAtud9",
+      "preview": "https://p.scdn.co/mp3-preview/f41fa2248629deec413755373968693bb5e77d43?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/61956518b48663e10775869d8dd4cffbe6f43ac8",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Alexio La Bestia",
+      "featuredArtistId": "73JHrmq0LnDd0MEUTSfP04",
+      "trackName": "No Confío",
+      "trackId": "2ymEFGrxK52FNMkZPxQFPh",
+      "preview": "https://p.scdn.co/mp3-preview/20613caddf3407836dfbd22b1838ce0479637e31?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/61956518b48663e10775869d8dd4cffbe6f43ac8",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Arcangel",
+      "featuredArtistId": "4SsVbpTthjScTS7U2hmr1X",
+      "trackName": "Le Falté el Respeto Al Dinero",
+      "trackId": "4KrT3gLmJtk8nysLqPI3FX",
+      "preview": "https://p.scdn.co/mp3-preview/fae3e2de36e5727a0751e375adc51c274b956f08?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/61956518b48663e10775869d8dd4cffbe6f43ac8",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Jacob Forever",
+      "featuredArtistId": "4fCRFHEQgjqakvFgQCliMp",
+      "trackName": "Chá Chá Chá",
+      "trackId": "3VXsk4WiIf5a2JSix4jGtU",
+      "preview": "https://p.scdn.co/mp3-preview/f68ec23934ebad0749c2b6f84cf72d57595f203c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/61956518b48663e10775869d8dd4cffbe6f43ac8",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Nengo Flow",
+      "featuredArtistId": "12vb80Km0Ew53ABfJOepVz",
+      "trackName": "MP5",
+      "trackId": "07NQGGzMuuzCzg9lTGIiu8",
+      "preview": "https://p.scdn.co/mp3-preview/26b70eddcbc29f9f13c3060c891caf60347100a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/61956518b48663e10775869d8dd4cffbe6f43ac8",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Darell",
+      "featuredArtistId": "1TtXnWcUs0FCkaZDPGYHdf",
+      "trackName": "MP5",
+      "trackId": "07NQGGzMuuzCzg9lTGIiu8",
+      "preview": "https://p.scdn.co/mp3-preview/26b70eddcbc29f9f13c3060c891caf60347100a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/61956518b48663e10775869d8dd4cffbe6f43ac8",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Fetty Wap",
+      "featuredArtistId": "6PXS4YHDkKvl1wkIl4V8DL",
+      "trackName": "Losing Control",
+      "trackId": "6ANAwMQcWtLmjtr6WH0VrP",
+      "preview": "https://p.scdn.co/mp3-preview/47a6cbcfc8a867d35a78c2e3c106b9a7e223fbc2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/61956518b48663e10775869d8dd4cffbe6f43ac8",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Anuel Aa",
+      "featuredArtistId": "2R21vXR83lH98kGeO99Y66",
+      "trackName": "Oscuridad",
+      "trackId": "52JnQicpFULdhLnWdHyQD1",
+      "preview": "https://p.scdn.co/mp3-preview/5bfa286d971e93fd8b7333ea35cd3e1c55adbf90?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/61956518b48663e10775869d8dd4cffbe6f43ac8",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Quimico Ultra Mega",
+      "featuredArtistId": "3tZdknQnzsVIIdaGCTj4RX",
+      "trackName": "Kilo Kilo",
+      "trackId": "7vdqZAHF5pVMULddTEa9fb",
+      "preview": "https://p.scdn.co/mp3-preview/56eba53318f2cc38d59fb101f580b5f80a270231?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/61956518b48663e10775869d8dd4cffbe6f43ac8",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Zion",
+      "featuredArtistId": "4zPVVxxHRDSZ43lCr823IZ",
+      "trackName": "Booty Booty (feat. Zion, Lennox, Nengo Flow, Dozi & Yomo)",
+      "trackId": "2GlzpIKkIFCixdLqZLVeIJ",
+      "preview": "https://p.scdn.co/mp3-preview/c7761c16b619cbd7aca756e2b94ed50b97691d85?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/18fd6b30beace39fe783829ae7a2adc928ed315f",
+      "release_date": "2017-02-21"
+    },
+    {
+      "featuredArtist": "Lennox",
+      "featuredArtistId": "2jBa39W2cucJozDpEBtCXu",
+      "trackName": "Booty Booty (feat. Zion, Lennox, Nengo Flow, Dozi & Yomo)",
+      "trackId": "2GlzpIKkIFCixdLqZLVeIJ",
+      "preview": "https://p.scdn.co/mp3-preview/c7761c16b619cbd7aca756e2b94ed50b97691d85?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/18fd6b30beace39fe783829ae7a2adc928ed315f",
+      "release_date": "2017-02-21"
+    },
+    {
+      "featuredArtist": "D.OZI",
+      "featuredArtistId": "7a9gFzWS5uEHtbNNgA6xyM",
+      "trackName": "Booty Booty (feat. Zion, Lennox, Nengo Flow, Dozi & Yomo)",
+      "trackId": "2GlzpIKkIFCixdLqZLVeIJ",
+      "preview": "https://p.scdn.co/mp3-preview/c7761c16b619cbd7aca756e2b94ed50b97691d85?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/18fd6b30beace39fe783829ae7a2adc928ed315f",
+      "release_date": "2017-02-21"
+    },
+    {
+      "featuredArtist": "Yomo",
+      "featuredArtistId": "4myAXQmMuS1lZe8T6Y7eBg",
+      "trackName": "Booty Booty (feat. Zion, Lennox, Nengo Flow, Dozi & Yomo)",
+      "trackId": "2GlzpIKkIFCixdLqZLVeIJ",
+      "preview": "https://p.scdn.co/mp3-preview/c7761c16b619cbd7aca756e2b94ed50b97691d85?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/18fd6b30beace39fe783829ae7a2adc928ed315f",
+      "release_date": "2017-02-21"
+    },
+    {
+      "featuredArtist": "De La Ghetto",
+      "featuredArtistId": "3EiLUeyEcA6fbRPSHkG5kb",
+      "trackName": "No Es Una Gial (feat. De La Ghetto)",
+      "trackId": "5inW8wv4Ap9j8ji9gq046e",
+      "preview": "https://p.scdn.co/mp3-preview/f1e1097e7bdfeaf2eac7a1e704664e183e825a3f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/18fd6b30beace39fe783829ae7a2adc928ed315f",
+      "release_date": "2017-02-21"
+    },
+    {
+      "featuredArtist": "J Alvarez",
+      "featuredArtistId": "6XFITTl7cFTdopDY3lUdlY",
+      "trackName": "Hacerte El Amor (feat. J Alvarez)",
+      "trackId": "2iPW1rIGaS2ASFTYJ2hQwy",
+      "preview": "https://p.scdn.co/mp3-preview/954412e31ee564b8f47b9f90193edee37d9bbb1c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/18fd6b30beace39fe783829ae7a2adc928ed315f",
+      "release_date": "2017-02-21"
+    },
+    {
+      "featuredArtist": "Reykon",
+      "featuredArtistId": "3PAwspMN27PDm81WwXDsMf",
+      "trackName": "Ra Papapapan (feat. Reykon)",
+      "trackId": "4gHPFx0ddLdIBvQQUf2OF8",
+      "preview": "https://p.scdn.co/mp3-preview/aeca0e8f4eff40c17dea024941c4faabcd2b4a82?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/18fd6b30beace39fe783829ae7a2adc928ed315f",
+      "release_date": "2017-02-21"
+    },
+    {
+      "featuredArtist": "Dyane",
+      "featuredArtistId": "2i9GCiVa7NsFpVeMGKOjHx",
+      "trackName": "Excusas (feat. Dyane)",
+      "trackId": "7gjLCl6RhuZ0gHh7bReoA3",
+      "preview": "https://p.scdn.co/mp3-preview/76f1d65aab9999410869f72380fd5fb73ca4f05a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/18fd6b30beace39fe783829ae7a2adc928ed315f",
+      "release_date": "2017-02-21"
+    },
+    {
+      "featuredArtist": "Musicologo",
+      "featuredArtistId": "5bfNtghg2fCx5LT9DxBJDP",
+      "trackName": "Tiempos",
+      "trackId": "6Mu8wipko66az8f3GxVtCl",
+      "preview": "https://p.scdn.co/mp3-preview/90310a9343dca197780db22a64fb41d1423a289b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/18fd6b30beace39fe783829ae7a2adc928ed315f",
+      "release_date": "2017-02-21"
+    },
+    {
+      "featuredArtist": "Menes",
+      "featuredArtistId": "2RuIPqKbsXKsuZommt8SIj",
+      "trackName": "Tiempos",
+      "trackId": "6Mu8wipko66az8f3GxVtCl",
+      "preview": "https://p.scdn.co/mp3-preview/90310a9343dca197780db22a64fb41d1423a289b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/18fd6b30beace39fe783829ae7a2adc928ed315f",
+      "release_date": "2017-02-21"
+    },
+    {
+      "featuredArtist": "Kelmitt",
+      "featuredArtistId": "6tOv5UYDorjmsernjtaHO1",
+      "trackName": "Salgo",
+      "trackId": "7zKyzqeMTFi4i2rAnPaJbB",
+      "preview": "https://p.scdn.co/mp3-preview/cda9611258bb9b73b101e4c47dddfd41e18cb25d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c83d3dd6fc6a3df4d8d91456ece8f75db833b139",
+      "release_date": "2016-02-22"
+    },
+    {
+      "featuredArtist": "Genio",
+      "featuredArtistId": "5sZKwZcGSzyVnO1P62PdCq",
+      "trackName": "Salgo",
+      "trackId": "7zKyzqeMTFi4i2rAnPaJbB",
+      "preview": "https://p.scdn.co/mp3-preview/cda9611258bb9b73b101e4c47dddfd41e18cb25d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c83d3dd6fc6a3df4d8d91456ece8f75db833b139",
+      "release_date": "2016-02-22"
+    },
+    {
+      "featuredArtist": "Wayne Wonder",
+      "featuredArtistId": "3kc5AFnL1TQQdNaMdSW2UO",
+      "trackName": "Estás Pa' Mí",
+      "trackId": "2gLhhRl7xyWDCQer6aVqPo",
+      "preview": "https://p.scdn.co/mp3-preview/a41f6f082ef1e991e50370ac05c35472e453659d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c83d3dd6fc6a3df4d8d91456ece8f75db833b139",
+      "release_date": "2016-02-22"
+    },
+    {
+      "featuredArtist": "Jory Boy",
+      "featuredArtistId": "5lFhCi03HDneWzvCxGctrT",
+      "trackName": "Miro el Reloj",
+      "trackId": "15YODpmwfAUksacjM3jn7E",
+      "preview": "https://p.scdn.co/mp3-preview/a061a3ce513c15be3a8b8903d62868a8a3bad48f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c83d3dd6fc6a3df4d8d91456ece8f75db833b139",
+      "release_date": "2016-02-22"
+    },
+    {
+      "featuredArtist": "Tony Dize",
+      "featuredArtistId": "3LKXWvXFWrkwUzJWxzwVpW",
+      "trackName": "Si No Te Tengo",
+      "trackId": "1KBW4nEYC7zAYsZVQvYGxV",
+      "preview": "https://p.scdn.co/mp3-preview/74ac11adefdcd66259080b35ae96ab07c355d1ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c83d3dd6fc6a3df4d8d91456ece8f75db833b139",
+      "release_date": "2016-02-22"
+    },
+    {
+      "featuredArtist": "Nicky Jam",
+      "featuredArtistId": "1SupJlEpv7RS2tPNRaHViT",
+      "trackName": "No Soy",
+      "trackId": "3cNL1XhPu8nWmlTjPyrRPC",
+      "preview": "https://p.scdn.co/mp3-preview/f72ad29fee6b62b755085ecbc2c21a13fc50a0bb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c83d3dd6fc6a3df4d8d91456ece8f75db833b139",
+      "release_date": "2016-02-22"
+    },
+    {
+      "featuredArtist": "Zion & Lennox",
+      "featuredArtistId": "21451j1KhjAiaYKflxBjr1",
+      "trackName": "No Quiere Saber",
+      "trackId": "5EPe0o2ukA5l1l7CJSHqVu",
+      "preview": "https://p.scdn.co/mp3-preview/44406a0107e57f16cf79b6207b78a306cd31daea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c83d3dd6fc6a3df4d8d91456ece8f75db833b139",
+      "release_date": "2016-02-22"
+    },
+    {
+      "featuredArtist": "Luigi 21 Plus",
+      "featuredArtistId": "77GVmrLGuxNEvj2ibvT62v",
+      "trackName": "Interesada",
+      "trackId": "6jq9n5av0C3pCS5QzMC4LB",
+      "preview": "https://p.scdn.co/mp3-preview/115ff4409c09cd958c64965b56a0e2fb3ab18669?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c83d3dd6fc6a3df4d8d91456ece8f75db833b139",
+      "release_date": "2016-02-22"
+    },
+    {
+      "featuredArtist": "J Balvin",
+      "featuredArtistId": "1vyhD5VmyZ7KMfW5gqLgo5",
+      "trackName": "Bebe Conmigo",
+      "trackId": "4g0AUEEtl1djGvy55in4nS",
+      "preview": "https://p.scdn.co/mp3-preview/d0d5351c3fcf1c92e77120e51231e39bf845a255?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c83d3dd6fc6a3df4d8d91456ece8f75db833b139",
+      "release_date": "2016-02-22"
+    },
+    {
+      "featuredArtist": "Sean Paul",
+      "featuredArtistId": "3Isy6kedDrgPYoTS1dazA9",
+      "trackName": "Passion Whine",
+      "trackId": "40LW0IOX1DDxqvnTLpAKrq",
+      "preview": "https://p.scdn.co/mp3-preview/b108684edf3e7c93e1ab87336b7c665357f902eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c83d3dd6fc6a3df4d8d91456ece8f75db833b139",
+      "release_date": "2016-02-22"
+    },
+    {
+      "featuredArtist": "Micha",
+      "featuredArtistId": "5fjXwEPUkg5ucxmw4TpurV",
+      "trackName": "Va a Toa",
+      "trackId": "3jmBWNWrQErNPBPiE0friv",
+      "preview": "https://p.scdn.co/mp3-preview/1e1ce5f2f3b49e6f2a7ff1304bb93a1494d29281?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7aa2c1dbc1bb754a5c085f6b97933be5f6700b84",
+      "release_date": "2016-02-22"
+    },
+    {
+      "featuredArtist": "Fuego",
+      "featuredArtistId": "7wU2WGCJ8HxkekHHE2QLul",
+      "trackName": "Hola Beba",
+      "trackId": "0WSVW1X7DasQu2Qp11Bij8",
+      "preview": "https://p.scdn.co/mp3-preview/944a5d285c8c4872082e48f1a7c2ce94b6976675?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7aa2c1dbc1bb754a5c085f6b97933be5f6700b84",
+      "release_date": "2016-02-22"
+    },
+    {
+      "featuredArtist": "Cosculluela",
+      "featuredArtistId": "00me4Ke1LsvMxt5kydlMyU",
+      "trackName": "Ella No Es Fácil",
+      "trackId": "1FWx5aglpBwngxPLDDufXi",
+      "preview": "https://p.scdn.co/mp3-preview/d82df8f8b78ee3d051eac491b682b77d3e4cf7e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8343cc15f10c8890052b34a7a6b2d2c083011fd",
+      "release_date": "2016-02-22"
+    },
+    {
+      "featuredArtist": "Voltio",
+      "featuredArtistId": "3Okcq0dqLVlEFHRZ5t22bA",
+      "trackName": "Traime a Tu Amiga - Remix",
+      "trackId": "5rKgNHzZDpRIDhFWULA9M7",
+      "preview": "https://p.scdn.co/mp3-preview/b4a0e2a21141edd66398b16b8dac819ca51f0b06?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8343cc15f10c8890052b34a7a6b2d2c083011fd",
+      "release_date": "2016-02-22"
+    },
+    {
+      "featuredArtist": "José Feliciano",
+      "featuredArtistId": "7K78lVZ8XzkjfRSI7570FF",
+      "trackName": "Su Hija Me Gusta",
+      "trackId": "62uJHxcSYw1Kn8qdB0inJo",
+      "preview": "https://p.scdn.co/mp3-preview/96ecc2de160aafb3a99b182eebe0c594531471de?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8343cc15f10c8890052b34a7a6b2d2c083011fd",
+      "release_date": "2016-02-22"
+    },
+    {
+      "featuredArtist": "Jadiel",
+      "featuredArtistId": "1K0lOPFlbPF3Volp5qIYNw",
+      "trackName": "Chulería en Pote",
+      "trackId": "0maEm5bzjyl0Qo0r9fZpdi",
+      "preview": "https://p.scdn.co/mp3-preview/5982d5197e80848beb8ace49d5553b124c31347d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8343cc15f10c8890052b34a7a6b2d2c083011fd",
+      "release_date": "2016-02-22"
+    },
+    {
+      "featuredArtist": "Messiah",
+      "featuredArtistId": "0tR60pwxQ5WKjPxQcKoCQ7",
+      "trackName": "HMB",
+      "trackId": "4ZcnM1hMfBg3RG3PCZQgYL",
+      "preview": "https://p.scdn.co/mp3-preview/3bf0b4754cd086aaa6c3e2b7a69f94176900893f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/617c7edb6b107e7dce12f42a9f3cc222046c0adc",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Ky-Mani Marley",
+      "featuredArtistId": "1XTGADISSMRf8B4TcVGYUC",
+      "trackName": "Chillax",
+      "trackId": "1lxswgIpzV6HhENRvkflES",
+      "preview": "https://p.scdn.co/mp3-preview/62eee69ae1e2f6a32054611efef1e1a0f9d9c2ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/617c7edb6b107e7dce12f42a9f3cc222046c0adc",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Pitbull",
+      "featuredArtistId": "0TnOYISbd1XYRBk9myaseg",
+      "trackName": "Never Let You Go",
+      "trackId": "1YcA3OaZh6Imx9NsnMqgGv",
+      "preview": "https://p.scdn.co/mp3-preview/f24cca635c772c9997cf32d817ed5b21258e0749?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/617c7edb6b107e7dce12f42a9f3cc222046c0adc",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Shaggy",
+      "featuredArtistId": "5EvFsr3kj42KNv97ZEnqij",
+      "trackName": "Sunset",
+      "trackId": "2yDaWqECegHdiFOuez5gdO",
+      "preview": "https://p.scdn.co/mp3-preview/40d543ac6fbd71c4632dc55bd5705ed743001ffb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/617c7edb6b107e7dce12f42a9f3cc222046c0adc",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Daddy Yankee",
+      "featuredArtistId": "4VMYDCV2IEDYJArk749S6m",
+      "trackName": "Pikete",
+      "trackId": "2KGYwvWxabPSy8mkgJ4AHd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/70aa1ff7980bd784bfdbb3ee98fecd9980023ac9",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Fuego",
+      "featuredArtistId": "5t7cAYs7nLUCQkzCAw7Zwa",
+      "trackName": "Hola Beba",
+      "trackId": "031Pj6eX6BJc2Ra9RsFFyx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/70aa1ff7980bd784bfdbb3ee98fecd9980023ac9",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Jadiel",
+      "featuredArtistId": "4CyjLwCmAfFP1z3dmxzg2c",
+      "trackName": "Chulería En Pote",
+      "trackId": "2L5N4LmgJ5unR8ySqhKyaj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/70aa1ff7980bd784bfdbb3ee98fecd9980023ac9",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Ozi",
+      "featuredArtistId": "3WDmIrFe5eUFy9wIiTJMXL",
+      "trackName": "Salgo",
+      "trackId": "0jP5rdVv8CVghU7E5haBZh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/70aa1ff7980bd784bfdbb3ee98fecd9980023ac9",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Genio",
+      "featuredArtistId": "0CvOtmXfXOHoLvrVts34dN",
+      "trackName": "Salgo",
+      "trackId": "0jP5rdVv8CVghU7E5haBZh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/70aa1ff7980bd784bfdbb3ee98fecd9980023ac9",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "De La Guetto",
+      "featuredArtistId": "72NDJs7g9xCJvveGPz3aEw",
+      "trackName": "Recordarte",
+      "trackId": "2jS2dSLpPCOJDAnEGVjN62",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b1cb9345e77273f15c9ba9e31b0a5c4b3d31fa7a",
+      "release_date": "2014-10-27"
+    },
+    {
+      "featuredArtist": "Alberto Stylee",
+      "featuredArtistId": "5mgqYTU6dhKlEdi7DOy4uU",
+      "trackName": "El Único",
+      "trackId": "2iJY5xWw46500aLtjqm6Y4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e1945bf091f32a1627183955aae1c3e30febfab0",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Micha",
+      "featuredArtistId": "4rGT1zL8Izy4KnkCgAs3xV",
+      "trackName": "Va A Toa",
+      "trackId": "1qfxpqMIV0vVhPwSARFxhS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e1945bf091f32a1627183955aae1c3e30febfab0",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Mozart La Para",
+      "featuredArtistId": "0odliLZMTk45CEVzF3Zocl",
+      "trackName": "Si Te Pego Cuerno",
+      "trackId": "6MviN3FrdKHMyuaMDjc4Ky",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e1945bf091f32a1627183955aae1c3e30febfab0",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Yaga & Mackie",
+      "featuredArtistId": "16Juw2gfa9IxEL3Vu69cH7",
+      "trackName": "Por Miedo Al Amor",
+      "trackId": "3Qei1vUHG0jugwyJPsyM3j",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/339c361df2b30d2e8d91c7019b1a39c1ba8ba316",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Lyanno",
+      "featuredArtistId": "1Ts9of7VPZElwPQnqnDSfW",
+      "trackName": "Location",
+      "trackId": "6UX1VIexsPLXW02anEuQlt",
+      "preview": "https://p.scdn.co/mp3-preview/0f9f40cd5be259b2d6d72895c436963538a180e5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db1352217472f1793012cff79167a71b23950713",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "EZ El Ezeta",
+      "featuredArtistId": "4nxZciIJ63XsyL0YfKCkgJ",
+      "trackName": "Media Hora",
+      "trackId": "7hgIjgfJFNuHLm9ojVYddf",
+      "preview": "https://p.scdn.co/mp3-preview/b859e85eb17136740d09a3570039f6c021556cd9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ab8c8346fd970b7df39ea6a56dd8d7c84410b582",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Justin Quiles",
+      "featuredArtistId": "14zUHaJZo1mnYtn6IBRaRP",
+      "trackName": "Media Hora",
+      "trackId": "7hgIjgfJFNuHLm9ojVYddf",
+      "preview": "https://p.scdn.co/mp3-preview/b859e85eb17136740d09a3570039f6c021556cd9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ab8c8346fd970b7df39ea6a56dd8d7c84410b582",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Miky Woodz",
+      "featuredArtistId": "1pf0MPKfKdvS8J779mS1Ay",
+      "trackName": "Media Hora",
+      "trackId": "7hgIjgfJFNuHLm9ojVYddf",
+      "preview": "https://p.scdn.co/mp3-preview/b859e85eb17136740d09a3570039f6c021556cd9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ab8c8346fd970b7df39ea6a56dd8d7c84410b582",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "El Micha",
+      "featuredArtistId": "0d7jzRhjOifL8X9hxNvbEn",
+      "trackName": "Fuego",
+      "trackId": "3F48EPyhCUxPCdLw0PhoMZ",
+      "preview": "https://p.scdn.co/mp3-preview/8c853095a77df833a22fcadfd031f664c944222c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/34f86b91f8a6343c6c3785d72f35f7e7f5f53016",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Jowell & Randy",
+      "featuredArtistId": "4IMAo2UQchVFyPH24PAjUs",
+      "trackName": "Sensual Inspiration",
+      "trackId": "5zFMNDK1AaiHko0sx6vWhC",
+      "preview": "https://p.scdn.co/mp3-preview/85dddf245efab1b2fb19bd0992b6a88bc039a34c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/59f0a8b29f9ba7ebf7309defc2dfc5c479c238d1",
+      "release_date": "2018-02-01"
+    },
+    {
+      "featuredArtist": "Abraham Mateo",
+      "featuredArtistId": "2bxxlINUlcMQQb39K7IopR",
+      "trackName": "Quiéreme - Remix",
+      "trackId": "782JmkLy6uVD8MW0EJrih9",
+      "preview": "https://p.scdn.co/mp3-preview/4859a7c37922ee27b9783b68b09b0ae2b5dcb5a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c05747ec18f4b86319ef1314f7510ac8e3db3c62",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Lary Over",
+      "featuredArtistId": "1jSjfSgDjedJdi5MoyRu78",
+      "trackName": "Quiéreme - Remix",
+      "trackId": "782JmkLy6uVD8MW0EJrih9",
+      "preview": "https://p.scdn.co/mp3-preview/4859a7c37922ee27b9783b68b09b0ae2b5dcb5a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c05747ec18f4b86319ef1314f7510ac8e3db3c62",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Dimelo Flow",
+      "featuredArtistId": "3fZk3Gm5dN5v5yfYMQ04Bx",
+      "trackName": "Envidiosos",
+      "trackId": "6pJl2iPcXIyhVJHwKlega5",
+      "preview": "https://p.scdn.co/mp3-preview/a8b8ac828290074cd1d18131a1300e0ee90827f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9868e6919f0070619bea28d78c3bf7f194a2454e",
+      "release_date": "2018-01-17"
+    },
+    {
+      "featuredArtist": "Dalex",
+      "featuredArtistId": "0KPX4Ucy9dk82uj4GpKesn",
+      "trackName": "Envidiosos",
+      "trackId": "6pJl2iPcXIyhVJHwKlega5",
+      "preview": "https://p.scdn.co/mp3-preview/a8b8ac828290074cd1d18131a1300e0ee90827f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9868e6919f0070619bea28d78c3bf7f194a2454e",
+      "release_date": "2018-01-17"
+    },
+    {
+      "featuredArtist": "Bryant Myers",
+      "featuredArtistId": "6w9ToX5slZ4uIdmD17hJ3c",
+      "trackName": "Envidiosos",
+      "trackId": "6pJl2iPcXIyhVJHwKlega5",
+      "preview": "https://p.scdn.co/mp3-preview/a8b8ac828290074cd1d18131a1300e0ee90827f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9868e6919f0070619bea28d78c3bf7f194a2454e",
+      "release_date": "2018-01-17"
+    },
+    {
+      "featuredArtist": "Michael ''El Prospecto''",
+      "featuredArtistId": "0xL37BS7qRxjRCaaw3xNRS",
+      "trackName": "Si Tu la Ves - Fiesta Mix",
+      "trackId": "3jpZNTd6zfe2qzjYwRcMKs",
+      "preview": "https://p.scdn.co/mp3-preview/ca9892cfddb8a1e39afd1efe34afbcea337d990b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/67cb624c254cf4762557a8c044c4044b1e421f8b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Nicki Minaj",
+      "featuredArtistId": "0hCNtLu0JehylgoiP8L4Gh",
+      "trackName": "Krippy Kush - Travis Scott Remix",
+      "trackId": "6HdVpbKJtp4EDpfli4fcOm",
+      "preview": "https://p.scdn.co/mp3-preview/5273b450e76d18e71eb883fb8e6e301a38e4b56c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/031874c9bcc60a388108dfa79eb03234497f5067",
+      "release_date": "2017-12-25"
+    },
+    {
+      "featuredArtist": "Travis Scott",
+      "featuredArtistId": "0Y5tJX1MQlPlqiwlOH1tJY",
+      "trackName": "Krippy Kush - Travis Scott Remix",
+      "trackId": "6HdVpbKJtp4EDpfli4fcOm",
+      "preview": "https://p.scdn.co/mp3-preview/5273b450e76d18e71eb883fb8e6e301a38e4b56c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/031874c9bcc60a388108dfa79eb03234497f5067",
+      "release_date": "2017-12-25"
+    },
+    {
+      "featuredArtist": "Amenazzy",
+      "featuredArtistId": "6kq4GHwUcUojGIu0ziSNXf",
+      "trackName": "Solo - Remix",
+      "trackId": "3l7mBXrUfRwa4VO8nHLAgJ",
+      "preview": "https://p.scdn.co/mp3-preview/07526d7dc7484a0d02f895ae997d073a4db1d911?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bbc949af9c63bfafc5a4a4cefb6d1ee064cb0e63",
+      "release_date": "2017-12-15"
+    }
+  ]
+}

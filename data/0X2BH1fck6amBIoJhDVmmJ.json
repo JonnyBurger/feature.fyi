@@ -1,0 +1,59 @@
+{
+  "artistName": "Ellie Goulding",
+  "features": [
+    {
+      "featuredArtist": "Calvin Harris",
+      "featuredArtistId": "7CajNmpbOovFoOoasH2HaY",
+      "trackName": "Outside",
+      "trackId": "5ykI0ShvlswqXCME1h0e69",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/605a983a9a3460c53364c53e87448613649161f8",
+      "release_date": "2015-11-13"
+    },
+    {
+      "featuredArtist": "Major Lazer",
+      "featuredArtistId": "738wLrAtLtCtFOLvQBXOXp",
+      "trackName": "Powerful",
+      "trackId": "6HIVShWxhLhcx9JYmDZCMn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/605a983a9a3460c53364c53e87448613649161f8",
+      "release_date": "2015-11-13"
+    },
+    {
+      "featuredArtist": "Tarrus Riley",
+      "featuredArtistId": "4frHO7KPcfMjhnVdIMJ98c",
+      "trackName": "Powerful",
+      "trackId": "6HIVShWxhLhcx9JYmDZCMn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/605a983a9a3460c53364c53e87448613649161f8",
+      "release_date": "2015-11-13"
+    },
+    {
+      "featuredArtist": "Madeon",
+      "featuredArtistId": "4pb4rqWSoGUgxm63xmJ8xc",
+      "trackName": "Stay Awake",
+      "trackId": "1o9WktH2DfFQYuXYLZLCNx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cfd9b43768f1916d9d1c853802fea457cf9f8bf8",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Tinie Tempah",
+      "featuredArtistId": "0Tob4H0FLtEONHU1MjpUEp",
+      "trackName": "Hanging On",
+      "trackId": "2xsTfZT3XFfNC4ohrIH0ao",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/766a9b24a151d0e75b8839253148c883e2efbace",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Ahadadream",
+      "featuredArtistId": "3SvsaUFZZNgVZYKrcFgzWW",
+      "trackName": "Hanging On - Ahadadream Remix",
+      "trackId": "5ZEZTM7dHtLhL5Hz0MAW0G",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/40cfbd5b6b8b9eafbaf5f72d51faf55a6e64c4d9",
+      "release_date": "2012-01-01"
+    }
+  ]
+}

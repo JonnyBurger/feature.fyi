@@ -1,0 +1,50 @@
+{
+  "artistName": "Tom Grennan",
+  "features": [
+    {
+      "featuredArtist": "Chase & Status",
+      "featuredArtistId": "3jNkaOXasoc7RsxdchvEVq",
+      "trackName": "All Goes Wrong - Acoustic",
+      "trackId": "1uXz25Hdeshrp4ogXCyacz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0f622ec5ec2f2d75cb4cecf6d4a85c067f2fdb64",
+      "release_date": "2016-10-28"
+    },
+    {
+      "featuredArtist": "Welan Edvee",
+      "featuredArtistId": "5biWRxrqwAidJiOV4tFdTa",
+      "trackName": "Moon (feat. Tom Grennan)",
+      "trackId": "4fz9YxbwHKXTKza27WdyPQ",
+      "preview": "https://p.scdn.co/mp3-preview/0915c6dc0db09e24d0757d97229dd238d5cab1f3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/971eabb11ebcf0ebc799fd6ded8f14a5fce4e829",
+      "release_date": "2018-02-06"
+    },
+    {
+      "featuredArtist": "Bugzy Malone",
+      "featuredArtistId": "4Dokdwa3WB7ilQ2c2qvIBL",
+      "trackName": "Memory Lane (feat. Tom Grennan)",
+      "trackId": "5b1b7JZWJj4Lg2PizgvbY0",
+      "preview": "https://p.scdn.co/mp3-preview/1ed0324c9c3fc8cd7c2863c96006f89bc88f83ac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/689d90d6c069ea599971a782ffdec2caa02ea728",
+      "release_date": "2017-07-14"
+    },
+    {
+      "featuredArtist": "Salvatore Ganacci",
+      "featuredArtistId": "5PdkRVDASsw6P7QoqRpz0F",
+      "trackName": "All Goes Wrong - Salvatore Ganacci Remix",
+      "trackId": "0Hl3ZWY7oHNfPHa6bhwtEn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/994c41918ef5f0afc7423c2e64fb222c63aaafb3",
+      "release_date": "2016-10-31"
+    },
+    {
+      "featuredArtist": "Tough Love",
+      "featuredArtistId": "16KSSLMXOdKQ2MHt9bOHTG",
+      "trackName": "All Goes Wrong - Tough Love Remix",
+      "trackId": "25C0LOEsNqXitq72hCJrNE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/05354447aec2069b4c3f93bbab84b081fba9ef22",
+      "release_date": "2016-10-21"
+    }
+  ]
+}

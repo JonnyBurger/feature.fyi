@@ -1,0 +1,95 @@
+{
+  "artistName": "Alabama",
+  "features": [
+    {
+      "featuredArtist": "Jason Aldean",
+      "featuredArtistId": "3FfvYsEGaIb52QPXhg4DcH",
+      "trackName": "Tennessee River - Live",
+      "trackId": "3dXIDmZrTlkyApbDhBY4wb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f383a4b604206f9d4f83807110ad4fed0e2d7ed1",
+      "release_date": "2014-09-30"
+    },
+    {
+      "featuredArtist": "Trisha Yearwood",
+      "featuredArtistId": "3XlIhgydjvC4EniPFZT20j",
+      "trackName": "Forever's As Far As I'll Go - Live",
+      "trackId": "5NNyEiRjoGrdPlSsHqqr7x",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f383a4b604206f9d4f83807110ad4fed0e2d7ed1",
+      "release_date": "2014-09-30"
+    },
+    {
+      "featuredArtist": "Luke Bryan",
+      "featuredArtistId": "0BvkDsjIUla7X0k6CSWh1I",
+      "trackName": "Love In The First Degree - Live",
+      "trackId": "6MF2WRU9c64uAIDVwV7bgd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f383a4b604206f9d4f83807110ad4fed0e2d7ed1",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Eli Young Band",
+      "featuredArtistId": "6eKWqnckwdIlSnjaYgIyxv",
+      "trackName": "Closer You Get - Live",
+      "trackId": "2DH6feaRiMb8VqbwS41KAc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f383a4b604206f9d4f83807110ad4fed0e2d7ed1",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Florida Georgia Line",
+      "featuredArtistId": "3b8QkneNDz4JHKKKlLgYZg",
+      "trackName": "I'm In A Hurry (And Don't Know Why) - Live",
+      "trackId": "5SYmadcED60vbjSfF1I5W0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f383a4b604206f9d4f83807110ad4fed0e2d7ed1",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Jamey Johnson",
+      "featuredArtistId": "5yhxqYI0JBwUKfXpSEjiM8",
+      "trackName": "My Home's In Alabama - Live",
+      "trackId": "3dku6WoIrlYvO08xOUU0W7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f383a4b604206f9d4f83807110ad4fed0e2d7ed1",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "The Lowery Brothers Of Montgomery",
+      "featuredArtistId": "5b7RJVDAfFgd2PMsT4LoY5",
+      "trackName": "Jesus On My Mind",
+      "trackId": "7IjodFRfczRPMSIWFd2nen",
+      "preview": "https://p.scdn.co/mp3-preview/c5c05da115ad6519a98fd15a32e7938497533741?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd2e08cdba54aeef54ed8ee2a4f5c379da8bde42",
+      "release_date": "2011-09-09"
+    },
+    {
+      "featuredArtist": "*NSYNC",
+      "featuredArtistId": "6Ff53KvcvAj5U7Z1vojB5o",
+      "trackName": "God Must Have Spent a Little More Time on You",
+      "trackId": "5yhAgqhBrE6xd0nuJvlnTR",
+      "preview": "https://p.scdn.co/mp3-preview/f01933e18627c4b757452c04fb7e30ca6e02ade7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/46d5653eae287f6b3d578f52a3c9359684399a91",
+      "release_date": "2006"
+    },
+    {
+      "featuredArtist": "K.T. Oslin",
+      "featuredArtistId": "0MMNJf1JrxeSFE2pcpX50b",
+      "trackName": "Face to Face",
+      "trackId": "14ZDzBABMB8NOC7ZRvkAQv",
+      "preview": "https://p.scdn.co/mp3-preview/29ad288dabc816cefdbbf9c097dd250d7a21ab80?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/94ef0353427d3a6e962df13f0be0e5391158647a",
+      "release_date": "2005-05-17"
+    },
+    {
+      "featuredArtist": "Jann Arden",
+      "featuredArtistId": "1aftUCES5zD5xXI7O9ZF9F",
+      "trackName": "Will You Marry Me - Duet Version",
+      "trackId": "0UoAMbmBJq4HMRZAGDfUBn",
+      "preview": "https://p.scdn.co/mp3-preview/4ca1baf5505cfcb6a901238ae6838a66a527244b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f46cd4393032b11219e87d4969808fe6120d653",
+      "release_date": "2001-01-12"
+    }
+  ]
+}

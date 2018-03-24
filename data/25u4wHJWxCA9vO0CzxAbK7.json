@@ -1,0 +1,41 @@
+{
+  "artistName": "Lukas Graham",
+  "features": [
+    {
+      "featuredArtist": "My Little Pony",
+      "featuredArtistId": "5mM9eNte0aWttOiMhPb2dM",
+      "trackName": "Off To See The World",
+      "trackId": "6NE7XlWVSwFenNMXeGiD7n",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a196a67259420f8cc70331f7511617923f5bcdf4",
+      "release_date": "2017-10-05"
+    },
+    {
+      "featuredArtist": "Grey",
+      "featuredArtistId": "4lDBihdpMlOalxy1jkUbPl",
+      "trackName": "You're Not There - Grey Remix",
+      "trackId": "7M2SOlf9MHVLBlJcDFe8JE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a7c105e255a90680c975093d521fbb36d113686f",
+      "release_date": "2017-02-24"
+    },
+    {
+      "featuredArtist": "Wankelmut",
+      "featuredArtistId": "01e2lCvLZ4fLUIRy68nptH",
+      "trackName": "Ordinary Things - Wankelmut Remix",
+      "trackId": "3yuLmSkJLSH5W4G7C8QNgZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ec0d2602f24a648593b70af435fccbe7bb680dd4",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Taan Newjam",
+      "featuredArtistId": "6tChMgW5hi4EO4lYoe4Ino",
+      "trackName": "Ordinary Things - Wankelmut Remix",
+      "trackId": "3yuLmSkJLSH5W4G7C8QNgZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ec0d2602f24a648593b70af435fccbe7bb680dd4",
+      "release_date": "2013-01-01"
+    }
+  ]
+}

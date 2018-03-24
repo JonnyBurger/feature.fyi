@@ -1,0 +1,338 @@
+{
+  "artistName": "Gramatik",
+  "features": [
+    {
+      "featuredArtist": "Adrian Lau",
+      "featuredArtistId": "2tHJjgDn5DdomWT0EwqDJa",
+      "trackName": "Satoshi Nakamoto",
+      "trackId": "1O8DLONp5QyiQ7Izxi2Fqn",
+      "preview": "https://p.scdn.co/mp3-preview/fd98660a140cace86d4735f43bf365df4b8f12bb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "ProbCause",
+      "featuredArtistId": "1ZcfGrGrm9aHnUNVQz3sCY",
+      "trackName": "Satoshi Nakamoto",
+      "trackId": "1O8DLONp5QyiQ7Izxi2Fqn",
+      "preview": "https://p.scdn.co/mp3-preview/fd98660a140cace86d4735f43bf365df4b8f12bb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Raekwon",
+      "featuredArtistId": "2yQf6b8hxahZaT5dHlWaB1",
+      "trackName": "Native Son",
+      "trackId": "1sW8GxqsKSM5zRXhWsykp8",
+      "preview": "https://p.scdn.co/mp3-preview/1c0ba82267694abc3e750ec2ab99bb2b9609b5ed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Leo Napier",
+      "featuredArtistId": "2twGthIPnZl1icD7K2jXx3",
+      "trackName": "Native Son",
+      "trackId": "1sW8GxqsKSM5zRXhWsykp8",
+      "preview": "https://p.scdn.co/mp3-preview/1c0ba82267694abc3e750ec2ab99bb2b9609b5ed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Laibach",
+      "featuredArtistId": "7l4LQfvN4yz8zbK4WY0AAg",
+      "trackName": "Eat Liver!",
+      "trackId": "3XPuWy76oNSok2TaPIGqhQ",
+      "preview": "https://p.scdn.co/mp3-preview/7f80c4258ce23e2d3974fae4d8f3c75c743eff99?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Luxas",
+      "featuredArtistId": "6Nu4jxY4ZSApZda2QW3fMX",
+      "trackName": "Corporate Demons",
+      "trackId": "5Q5qsQmhzjcVUSMWKhhoOC",
+      "preview": "https://p.scdn.co/mp3-preview/62db3fb0cb9db28fbf9e3a0f35810bd807e1b722?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Russ Liquid",
+      "featuredArtistId": "70zLeNeu4AAUaQ14AC4P8J",
+      "trackName": "Anima Mundi",
+      "trackId": "4uIUc4KhSChmmdO4mC0mBq",
+      "preview": "https://p.scdn.co/mp3-preview/fca0ac2ea5772353a645a06376ceb2261d3ce722?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Dabin",
+      "featuredArtistId": "7lZauDnRoAC3kmaYae2opv",
+      "trackName": "Native Son Prequel - Dabin Remix",
+      "trackId": "1DiljRMZLckRDWH2HRGhKM",
+      "preview": "https://p.scdn.co/mp3-preview/7e9a8f6cf98a4f7689573728a05b93e1eafd508c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Jenaux",
+      "featuredArtistId": "4pWvD2wQ6paqieVN9bE8yv",
+      "trackName": "Native Son Prequel - Jenaux Remix",
+      "trackId": "2ZvUkmGyMPOztiAkbMomIG",
+      "preview": "https://p.scdn.co/mp3-preview/3af1e2a1dd1f333febc1ab72c347011d31baedff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "MYRNE",
+      "featuredArtistId": "41DKMtAnhVo7aDeluAHDJg",
+      "trackName": "Native Son Prequel - MYRNE Remix",
+      "trackId": "3wRafX0kN4ivgR7c1xMzP2",
+      "preview": "https://p.scdn.co/mp3-preview/80cf0181f7b8626712b0f634e37d875654c65e1d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Kotek",
+      "featuredArtistId": "5JD5mJBIRz9pisqHn7SM7W",
+      "trackName": "Anima Mundi - Kotek Remix",
+      "trackId": "32sfkkdTv4RNeUDHsWDSdj",
+      "preview": "https://p.scdn.co/mp3-preview/996ee4d9753b520bd6f4ef3c5c4694a3a5f84dcb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Beat Fatigue",
+      "featuredArtistId": "02m3zUZ22DsQCXQsjjSCwQ",
+      "trackName": "Satoshi Nakamoto - Beat Fatigue Remix",
+      "trackId": "4pxL52eEf4y9AKLrrQANES",
+      "preview": "https://p.scdn.co/mp3-preview/c70499f7a65b25ec852bc594e9b09c9c1b98ea63?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Cobrayama",
+      "featuredArtistId": "2kAkUshoqCV2gQq7ClOoKj",
+      "trackName": "Satoshi Nakamoto - Cobrayama Remix",
+      "trackId": "6jNJWgNzOffki5lsxQs0JG",
+      "preview": "https://p.scdn.co/mp3-preview/0142b4cc0f31d48d6a8e7f7608ba6db5456d6b3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Psymbionic",
+      "featuredArtistId": "0uOUEsjCUSv2YvZmZtmBsX",
+      "trackName": "Satoshi Nakamoto - Psymbionic Remix",
+      "trackId": "4uKAjicyrjKRzNj5bZuCox",
+      "preview": "https://p.scdn.co/mp3-preview/2f1635be3fbfc2d261dd80b5590197520826acdf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Awoltalk",
+      "featuredArtistId": "754r3uGArAqud0JW4IKsKE",
+      "trackName": "War Of The Currents - Awoltalk Remix",
+      "trackId": "1AUQU5J2sQx0dlKphVcxBr",
+      "preview": "https://p.scdn.co/mp3-preview/267be3c1dcf17e197e0ad8292943127ff2fc3555?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Gill Chang",
+      "featuredArtistId": "7p24N1hqcZaGRNmaYMCTjx",
+      "trackName": "War Of The Currents - Gill Chang Remix",
+      "trackId": "0zjYWccinoReQwfIlGKBsW",
+      "preview": "https://p.scdn.co/mp3-preview/ed7a0ad7399fffbc717cc7f02ab9c735caf5975e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Lookas",
+      "featuredArtistId": "27fy6rHPC58Eo2VUu0iJSG",
+      "trackName": "War Of The Currents - Lookas Remix",
+      "trackId": "3YDtvLSl5ZWS8xSuUGs6uQ",
+      "preview": "https://p.scdn.co/mp3-preview/d5148f081a8bdeb2169f4e3bdfb3dfaf972ab5b6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Electric Mantis",
+      "featuredArtistId": "4oEju6elvuvjARvor8R9j9",
+      "trackName": "Native Son - Electric Mantis Remix",
+      "trackId": "6I5aVaalL6BoQLA941zy94",
+      "preview": "https://p.scdn.co/mp3-preview/ef3bc7c15d1128812e72e92915be8b12b211a7e0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Great Dane",
+      "featuredArtistId": "6AKWjx5wmOI3bCeLrxFjgv",
+      "trackName": "Native Son - Great Dane Remix",
+      "trackId": "32OAdkARN1tzQq3oUVwzKx",
+      "preview": "https://p.scdn.co/mp3-preview/26063d28711f60fef6ed50613bb50f23081be2d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Medasin",
+      "featuredArtistId": "62vbsDRAq0qHdezaCOzB0T",
+      "trackName": "Native Son - Medasin Remix",
+      "trackId": "5ysj8XGT7Jxrjp1FX2H68F",
+      "preview": "https://p.scdn.co/mp3-preview/287427ce65b44e513c6f1ebe4e6733a54b257147?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Ramzoid",
+      "featuredArtistId": "2Ci3Sflo2BfC77wTwn2hbH",
+      "trackName": "Native Son - Ramzoid Remix",
+      "trackId": "3Viw3dNODGXQPvYka8v4aI",
+      "preview": "https://p.scdn.co/mp3-preview/c30b157bbff4b558175acb6f36c311471eff8eeb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "The Geek x Vrv",
+      "featuredArtistId": "4JhjlqgMbd4RlrT81VoTIF",
+      "trackName": "Native Son - The Geek x Vrv Remix",
+      "trackId": "0IfepH51QneJ2R4rKrKqmY",
+      "preview": "https://p.scdn.co/mp3-preview/c855eacd326ba94afa60d03bc076e69fbb0fd324?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "The Noisy Freaks",
+      "featuredArtistId": "60sodhodkZh9N9pMudJnfa",
+      "trackName": "Native Son - The Noisy Freaks Remix",
+      "trackId": "5PLF74TpaYmxr8do9UTBu2",
+      "preview": "https://p.scdn.co/mp3-preview/163b67cf637cf886230dd21223456612efbecb51?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f905de3ca596717e4e96620e7ca4bb2095307825",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Exmag",
+      "featuredArtistId": "3ubv8WIA649ar6dwEH6ATm",
+      "trackName": "Just Jammin' NYC (feat. Exmag)",
+      "trackId": "4GXcDGU77y3N576TcgM6k2",
+      "preview": "https://p.scdn.co/mp3-preview/f6878267826e381acd030a8fe3661ddcc6c2b692?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9925c9fc1d678eed0f95aba84c053c364430c88d",
+      "release_date": "2015-03-18"
+    },
+    {
+      "featuredArtist": "ESKOBARS",
+      "featuredArtistId": "4Z9bIDk720NpfBGnEIUrIw",
+      "trackName": "Brave Men (feat. Eskobars)",
+      "trackId": "3zo5zX4LdaaZyJlxgxxkRi",
+      "preview": "https://p.scdn.co/mp3-preview/f53f72ee0de6bb76b1349ff95bbdafc0894095e2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cca48e7731c5dfc52953f0329b36af233b89b58e",
+      "release_date": "2014-01-25"
+    },
+    {
+      "featuredArtist": "Eric Krasno",
+      "featuredArtistId": "6tQIsqw6DrDfdoPwOrOD6k",
+      "trackName": "Torture (feat. Eric Krasno)",
+      "trackId": "0RlzkgoKEXK6blBFCv3fyv",
+      "preview": "https://p.scdn.co/mp3-preview/44ad5b34aefc2d68de9d214ad098e35c73e665fb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cca48e7731c5dfc52953f0329b36af233b89b58e",
+      "release_date": "2014-01-25"
+    },
+    {
+      "featuredArtist": "Gibbz",
+      "featuredArtistId": "6mcEXkX1gFc4kttIF6JKb5",
+      "trackName": "We Used to Dream (feat. Exmag & Gibbz)",
+      "trackId": "6pSw1I0rdLeMHddpbNpbst",
+      "preview": "https://p.scdn.co/mp3-preview/dd0751bf716a991b7434197ad87e6b55fc113b31?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cca48e7731c5dfc52953f0329b36af233b89b58e",
+      "release_date": "2014-01-25"
+    },
+    {
+      "featuredArtist": "Cherub",
+      "featuredArtistId": "00dwwnz3V4kRfu3UFYpJLz",
+      "trackName": "Obviously (feat. Cherub and Exmag)",
+      "trackId": "5OV4U8bYY2WN9hBuzzqwPB",
+      "preview": "https://p.scdn.co/mp3-preview/888f6e8af132e58e90bf9d858a740a3f6876786d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cca48e7731c5dfc52953f0329b36af233b89b58e",
+      "release_date": "2014-01-25"
+    },
+    {
+      "featuredArtist": "ILLUMNTR",
+      "featuredArtistId": "3iNj2b5at0VmCm1Y3yTpCC",
+      "trackName": "Control Room Before You (feat. ILLUMNTR)",
+      "trackId": "3JKCN2JKgtmXT3zOXxYwjg",
+      "preview": "https://p.scdn.co/mp3-preview/197aac5d567870affa5d91d3564b2d9886072d28?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cca48e7731c5dfc52953f0329b36af233b89b58e",
+      "release_date": "2014-01-25"
+    },
+    {
+      "featuredArtist": "Orlando Napier",
+      "featuredArtistId": "5mHGfYhEKwzZnB8VZCL5Y1",
+      "trackName": "Faraway (feat. Orlando Napier)",
+      "trackId": "2zaFcLPfFKyc8z5t1NRD0D",
+      "preview": "https://p.scdn.co/mp3-preview/828c4eb54d8c588abdb82d679296c7e1377aa00c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cca48e7731c5dfc52953f0329b36af233b89b58e",
+      "release_date": "2014-01-25"
+    },
+    {
+      "featuredArtist": "Bran-X",
+      "featuredArtistId": "3RmTzWgSvVflpXpZ0HK3Ye",
+      "trackName": "Future Crypto",
+      "trackId": "1evs1muxQbACp0EcyFRZXm",
+      "preview": "https://p.scdn.co/mp3-preview/4a03027b23fd041de69fa50b324e8d4a57fd12f9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/09496173c514a55844b44d81ecefe496b0b9b1ce",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Anomalie",
+      "featuredArtistId": "2ev6Cd0yJVCcpf2zezEQ8Z",
+      "trackName": "Goldilocks Enigma",
+      "trackId": "49mehDAdAmzC9nIyKmpF7g",
+      "preview": "https://p.scdn.co/mp3-preview/ce063ebde268c8ab10e8dc0e67c0875a59621f68?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/09496173c514a55844b44d81ecefe496b0b9b1ce",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Balkan Bump",
+      "featuredArtistId": "1TRyeXs6NXHSFqoXHR1w5e",
+      "trackName": "Aymo",
+      "trackId": "5OMhf5NuQKEis5swLvbtCL",
+      "preview": "https://p.scdn.co/mp3-preview/632d052c2a0bb2c8bf7e90cd340541849652e3b5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/09496173c514a55844b44d81ecefe496b0b9b1ce",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Talib Kweli",
+      "featuredArtistId": "0lEssBAxQl2In4RpaB1C2Y",
+      "trackName": "Aymo",
+      "trackId": "5OMhf5NuQKEis5swLvbtCL",
+      "preview": "https://p.scdn.co/mp3-preview/632d052c2a0bb2c8bf7e90cd340541849652e3b5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/09496173c514a55844b44d81ecefe496b0b9b1ce",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Galactic Marvl",
+      "featuredArtistId": "3BNmkbmEWEqgjAyzl9kIf0",
+      "trackName": "Voyager Twins",
+      "trackId": "6liqrWeWoRNODoKm7K05O3",
+      "preview": "https://p.scdn.co/mp3-preview/fc8f0cd04747279c8b4592cc91526b461a349ea6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/09496173c514a55844b44d81ecefe496b0b9b1ce",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Kennedy Jones",
+      "featuredArtistId": "37rNXhsuPTtNWW9cGcIyOo",
+      "trackName": "Satoshi Nakamoto (feat. Kennedy Jones)",
+      "trackId": "3Vl7U7fQNcOp7uXfSWrYMM",
+      "preview": "https://p.scdn.co/mp3-preview/7dff39bad57a457e4f64d93807d6c1ff100dc6d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/18c7c77e64c6f35eae14577c909de9fc8feac76a",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "The Funk Hunters",
+      "featuredArtistId": "5xwd7lKJeb2opUvYZnXFut",
+      "trackName": "Satoshi Nakamoto - The Funk Hunters Remix",
+      "trackId": "0ou9gqK36b9Hyt4sv8cY3s",
+      "preview": "https://p.scdn.co/mp3-preview/34cffc8809e052195130d2c0fbe03246bcb21c94?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cae04d71d8765b32c5eb34ba36e93ee7a9d262c4",
+      "release_date": "2017-02-24"
+    }
+  ]
+}

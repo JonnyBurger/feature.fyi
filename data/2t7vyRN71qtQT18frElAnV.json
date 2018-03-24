@@ -1,0 +1,32 @@
+{
+  "artistName": "Maikel Delacalle",
+  "features": [
+    {
+      "featuredArtist": "Fuego",
+      "featuredArtistId": "7wU2WGCJ8HxkekHHE2QLul",
+      "trackName": "Eso",
+      "trackId": "0kn07c1ocObEkNx1HxMpWa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2bd4d3d86896a719d744c3e669f12ef2e1bc4492",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Clandestino & Yailemm",
+      "featuredArtistId": "62nI6AYd7LkBD9JAufr7yi",
+      "trackName": "Ganas (Remix)",
+      "trackId": "1bCQAifispCHrUHKibTk4u",
+      "preview": "https://p.scdn.co/mp3-preview/fae8556b551a3eb281ca53cd9248ea2fcd66814b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0188e41b989514187b46d5b010ea0c38ade35127",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Yeray Infame",
+      "featuredArtistId": "4LKbIUEIZyS2u9AYVjlVfm",
+      "trackName": "No Volviste",
+      "trackId": "7iDWsAWtpHIorAQxtrrsCE",
+      "preview": "https://p.scdn.co/mp3-preview/34e921c3f805e6968397997fd418ace984c1b684?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff63379647247280b90f0c3fb3a8b6be143d7699",
+      "release_date": "2018-02-28"
+    }
+  ]
+}

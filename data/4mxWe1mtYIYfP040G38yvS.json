@@ -1,0 +1,41 @@
+{
+  "artistName": "Alan Jackson",
+  "features": [
+    {
+      "featuredArtist": "Jimmy Buffett",
+      "featuredArtistId": "28AyklUmMECPwdfo8NEsV0",
+      "trackName": "It's Five O' Clock Somewhere",
+      "trackId": "0qSLKcGDiWmw8sexyY5zaZ",
+      "preview": "https://p.scdn.co/mp3-preview/f50bf73d06f1f77a0ff2e4429ffe997bf651bb81?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/99156552dfb544266e111e1a8d0a92425d05bda4",
+      "release_date": "2016-08-05"
+    },
+    {
+      "featuredArtist": "Alan Jackson with Zac Brown",
+      "featuredArtistId": "7miNjCSZqdhsJrZ8Po3LAm",
+      "trackName": "Dixie Highway",
+      "trackId": "1gp9KdivnhmwxKWRWGkpNr",
+      "preview": "https://p.scdn.co/mp3-preview/5523b4c8ef67834bd374b7184c1becd34e36337a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6a81cdcad9cbcf381bae70a520aeab3cd32031ce",
+      "release_date": "2012-06-05"
+    },
+    {
+      "featuredArtist": "Zac Brown",
+      "featuredArtistId": "6tKJaNOY6oNVWcegnMMEtt",
+      "trackName": "Dixie Highway",
+      "trackId": "1gp9KdivnhmwxKWRWGkpNr",
+      "preview": "https://p.scdn.co/mp3-preview/5523b4c8ef67834bd374b7184c1becd34e36337a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6a81cdcad9cbcf381bae70a520aeab3cd32031ce",
+      "release_date": "2012-06-05"
+    },
+    {
+      "featuredArtist": "Zac Brown Band",
+      "featuredArtistId": "6yJCxee7QumYr820xdIsjo",
+      "trackName": "As She's Walking Away",
+      "trackId": "2ZC7p8oTPdYNXIwx6ShJQr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2d9c2968bbca1e86c9de2f3c02446aca181c2f03",
+      "release_date": "2012-04-17"
+    }
+  ]
+}

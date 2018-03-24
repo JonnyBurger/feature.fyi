@@ -1,0 +1,23 @@
+{
+  "artistName": "Old Dominion",
+  "features": [
+    {
+      "featuredArtist": "Little Big Town",
+      "featuredArtistId": "3CygdxquGHurS7f9LjNLkv",
+      "trackName": "Stars in the City",
+      "trackId": "55ccxeuwJuxZF8MHsJqOzh",
+      "preview": "https://p.scdn.co/mp3-preview/d52ee897744d84fbddbf5c44f9ac9ac8415f5f30?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2587c8038a89b1d28f694c1df3adc44fce70b9c1",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "Kenny Chesney",
+      "featuredArtistId": "3grHWM9bx2E9vwJCdlRv9O",
+      "trackName": "Save It for a Rainy Day - Live",
+      "trackId": "3ZMRJBNpfXaZTE5vHWAcR9",
+      "preview": "https://p.scdn.co/mp3-preview/b70234a79f4c9a692d8262fd9b72367338b66bef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b0ffa678776e35c0e9bd73d4ef06f99240f0e02c",
+      "release_date": "2017-10-27"
+    }
+  ]
+}

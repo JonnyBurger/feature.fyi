@@ -1,0 +1,32 @@
+{
+  "artistName": "Gipsy Kings",
+  "features": [
+    {
+      "featuredArtist": "Francis Cabrel",
+      "featuredArtistId": "5uo5NwSONVNfvSHHMQrHAv",
+      "trackName": "Sueno - Bonus Track",
+      "trackId": "3UZPM1V9TFz4PQKgNPaoQs",
+      "preview": "https://p.scdn.co/mp3-preview/c243543bd9dd90af0977cd4b7acc87f52ebeedbe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bfd2c1b6d5e8f7f206d91a023d23fca004435634",
+      "release_date": "2013-10-21"
+    },
+    {
+      "featuredArtist": "The Original London Cast of Zorro",
+      "featuredArtistId": "3h1jwyYX0wrXu6F9JFK413",
+      "trackName": "Fanfare",
+      "trackId": "0zZTPmijSYBiC725bz7iuE",
+      "preview": "https://p.scdn.co/mp3-preview/baa2aa6749d97b5acc0585d3cd21752a38c0c549?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0447f1f696d043837a9115f4cb50ab562d7e5f06",
+      "release_date": "2008-11-01"
+    },
+    {
+      "featuredArtist": "Risky Chimes",
+      "featuredArtistId": "4GG5Vg4ARF7AzfEvCAnSr8",
+      "trackName": "Solo por Ti (Amiwawa)",
+      "trackId": "2Ezn3EGB3GvKE4HGOT0x2R",
+      "preview": "https://p.scdn.co/mp3-preview/8e4f251bd2a3b5e4b8639ae00890b40799cb8f5f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e9c5431e9b4552803c40ef7dbf1366e7981f2641",
+      "release_date": "1997-05-12"
+    }
+  ]
+}

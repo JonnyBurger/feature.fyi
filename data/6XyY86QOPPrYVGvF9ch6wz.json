@@ -1,0 +1,221 @@
+{
+  "artistName": "Linkin Park",
+  "features": [
+    {
+      "featuredArtist": "Stormzy",
+      "featuredArtistId": "2SrSdSvpminqmStGELCSNd",
+      "trackName": "Good Goodbye (feat. Stormzy) - One More Light Live",
+      "trackId": "4IlB0WKdchGUPa4WoAYy5D",
+      "preview": "https://p.scdn.co/mp3-preview/a54d6398adb90e60f56c6471467a24c920bf79bb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/182176cfcab47e634e2d91443584a1ef9147197f",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Pusha T",
+      "featuredArtistId": "0ONHkAv9pCAFxb0zJwDNTy",
+      "trackName": "Good Goodbye (feat. Pusha T and Stormzy)",
+      "trackId": "650OeHTLxZAQmb4aEbGmaA",
+      "preview": "https://p.scdn.co/mp3-preview/3396d63b88c442e1cc7c666eff915425b55b0191?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/24b1591bc4ecc8fe201465a9c1bf1af96c93224d",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "Kiiara",
+      "featuredArtistId": "4u5smJBskI6Adzv08PuiUP",
+      "trackName": "Heavy (feat. Kiiara)",
+      "trackId": "104buTcnP2AsxqB7U1FIZ4",
+      "preview": "https://p.scdn.co/mp3-preview/54f76a271f9d9995eafc92cab90e1f7e021ebc14?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/24b1591bc4ecc8fe201465a9c1bf1af96c93224d",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "Page Hamilton",
+      "featuredArtistId": "1HnPX6Hyou4IeAb0GlQYFk",
+      "trackName": "All For Nothing (feat. Page Hamilton) - Acapella",
+      "trackId": "1iRceKmgsTM0Jzdffv67in",
+      "preview": "https://p.scdn.co/mp3-preview/251d88771e10dd8eb71fdfcf690429a85564945f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ecf066e65db6d8dbd208b9411b138a47c17a2bfd",
+      "release_date": "2014-06-16"
+    },
+    {
+      "featuredArtist": "Rakim",
+      "featuredArtistId": "3PyWEKLWI0vHPmoNrIX0QE",
+      "trackName": "Guilty All The Same (feat. Rakim) - Acapella",
+      "trackId": "7lh5Qtd8qLz5pgXKJt5Jec",
+      "preview": "https://p.scdn.co/mp3-preview/44a99f7443e4240e289984f9642c57f2cf481a50?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ecf066e65db6d8dbd208b9411b138a47c17a2bfd",
+      "release_date": "2014-06-16"
+    },
+    {
+      "featuredArtist": "Daron Malakian",
+      "featuredArtistId": "2MqLs2L4iNhAUNwJQwjmdm",
+      "trackName": "Rebellion - Instrumental",
+      "trackId": "5NqrrghKiFxeFKnE5pHJHJ",
+      "preview": "https://p.scdn.co/mp3-preview/21dcefe7cb66ee8cdd74a4ec6ab9c72e2771616e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ecf066e65db6d8dbd208b9411b138a47c17a2bfd",
+      "release_date": "2014-06-16"
+    },
+    {
+      "featuredArtist": "Tom Morello",
+      "featuredArtistId": "74NBPbyyftqJ4SpDZ4c1Ed",
+      "trackName": "Drawbar (feat. Tom Morello)",
+      "trackId": "7MTDaY5oGjo4F8N5r7H8LT",
+      "preview": "https://p.scdn.co/mp3-preview/47df5c53ca4cb1fbe0682fac39a73b639a361485?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0fd0e5c52b212771f6f882f75880757cfa2e57a1",
+      "release_date": "2014-06-13"
+    },
+    {
+      "featuredArtist": "Rick Rubin",
+      "featuredArtistId": "1EpmQFTiJbcxzwbLpuUL8L",
+      "trackName": "A LIGHT THAT NEVER COMES - Rick Rubin Reboot",
+      "trackId": "3eKRNxthDJc0r6sGdpS2Ts",
+      "preview": "https://p.scdn.co/mp3-preview/15da77af09ae44b489270fd02c7f64216d2ef2fe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/74d177b54c31f857e9af268a7e8c5b96c3347835",
+      "release_date": "2014-04-01"
+    },
+    {
+      "featuredArtist": "Steve Aoki",
+      "featuredArtistId": "77AiFEVeAVj2ORpC85QVJs",
+      "trackName": "A LIGHT THAT NEVER COMES",
+      "trackId": "3BnBKNItMng824sLx0pUfy",
+      "preview": "https://p.scdn.co/mp3-preview/5924e68cd79c6c5b3c0f2515580391ac9b4ac43a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a29415c0de8aedf124b4617a453dd941c5b3ec05",
+      "release_date": "2013-10-25"
+    },
+    {
+      "featuredArtist": "Mike Shinoda",
+      "featuredArtistId": "6xBZgSMsnKVmaAxzWEwMSD",
+      "trackName": "CASTLE OF GLASS - M. Shinoda Remix",
+      "trackId": "0tJ8EAv8Kf1mHFXZMofVvZ",
+      "preview": "https://p.scdn.co/mp3-preview/d6ee3e6c8d8317d3a1331c4a2784fc99668cfc15?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a29415c0de8aedf124b4617a453dd941c5b3ec05",
+      "release_date": "2013-10-25"
+    },
+    {
+      "featuredArtist": "KillSonik",
+      "featuredArtistId": "5880xHG9leYNwQ0Hl5JeOF",
+      "trackName": "LOST IN THE ECHO - KillSonik Remix",
+      "trackId": "4RYvz692bYUEEyMythKdFE",
+      "preview": "https://p.scdn.co/mp3-preview/6cd33dd97e48566952910c34d3212798db182292?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a29415c0de8aedf124b4617a453dd941c5b3ec05",
+      "release_date": "2013-10-25"
+    },
+    {
+      "featuredArtist": "Vice",
+      "featuredArtistId": "0q4NrXqJnc367PieejuROJ",
+      "trackName": "I'LL BE GONE - Vice Remix feat. Pusha T",
+      "trackId": "6n7zWyWIs43JsKwSe2qzhI",
+      "preview": "https://p.scdn.co/mp3-preview/b2476a09ccabe97e106c485a8d0756f677867366?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a29415c0de8aedf124b4617a453dd941c5b3ec05",
+      "release_date": "2013-10-25"
+    },
+    {
+      "featuredArtist": "Dirtyphonics",
+      "featuredArtistId": "4zymhxzJ0UJc74tMHGyoWs",
+      "trackName": "LIES GREED MISERY - Dirtyphonics Remix",
+      "trackId": "322oPcR7x1tFvaVtbNbyuK",
+      "preview": "https://p.scdn.co/mp3-preview/55fe7ac807717aab58970e617fe3b152f5ebec5a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a29415c0de8aedf124b4617a453dd941c5b3ec05",
+      "release_date": "2013-10-25"
+    },
+    {
+      "featuredArtist": "Bun B",
+      "featuredArtistId": "45a6gCQWq61lIUDmr1tKuO",
+      "trackName": "ROADS UNTRAVELED - Rad Omen Remix feat. Bun B",
+      "trackId": "1J7ADXGHxcm0W4ftGL6u8b",
+      "preview": "https://p.scdn.co/mp3-preview/95ee306806d6790c3a8b15e836fb89f3a1bd05af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a29415c0de8aedf124b4617a453dd941c5b3ec05",
+      "release_date": "2013-10-25"
+    },
+    {
+      "featuredArtist": "Rad Omen",
+      "featuredArtistId": "2jmSHT5SGq5qAFWQ62kphd",
+      "trackName": "ROADS UNTRAVELED - Rad Omen Remix feat. Bun B",
+      "trackId": "1J7ADXGHxcm0W4ftGL6u8b",
+      "preview": "https://p.scdn.co/mp3-preview/95ee306806d6790c3a8b15e836fb89f3a1bd05af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a29415c0de8aedf124b4617a453dd941c5b3ec05",
+      "release_date": "2013-10-25"
+    },
+    {
+      "featuredArtist": "Enferno",
+      "featuredArtistId": "3rzk0mfzZINeJgQVarWeHG",
+      "trackName": "POWERLESS - Enferno Remix",
+      "trackId": "5150defNCFB2QSqEMpVIJ7",
+      "preview": "https://p.scdn.co/mp3-preview/bc2f222b5b11558433e3ae355ba7bbfb4dc52c32?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a29415c0de8aedf124b4617a453dd941c5b3ec05",
+      "release_date": "2013-10-25"
+    },
+    {
+      "featuredArtist": "Tom Swoon",
+      "featuredArtistId": "2OFEXARoSZyZLR6S0oV2R7",
+      "trackName": "BURN IT DOWN - Tom Swoon Remix",
+      "trackId": "1buWPBwvTd6VnIdBV48yQM",
+      "preview": "https://p.scdn.co/mp3-preview/cbd103604022ebed7d53e3fbaabe87d720cb72bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a29415c0de8aedf124b4617a453dd941c5b3ec05",
+      "release_date": "2013-10-25"
+    },
+    {
+      "featuredArtist": "Datsik",
+      "featuredArtistId": "48q2mPVwlKnlSaCx07i6Ta",
+      "trackName": "UNTIL IT BREAKS - Datsik Remix",
+      "trackId": "1ndc6g4xuCjSHfGgk2NMvt",
+      "preview": "https://p.scdn.co/mp3-preview/7090cd58eb91a4b5004a231343d8178c56ca41c2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a29415c0de8aedf124b4617a453dd941c5b3ec05",
+      "release_date": "2013-10-25"
+    },
+    {
+      "featuredArtist": "Cody B. Ware",
+      "featuredArtistId": "6aY7r6cZsCWifRsX6Fm9kq",
+      "trackName": "SKIN TO BONE - Nick Catchdubs Remix feat. Cody B. Ware and Ryu",
+      "trackId": "6jY7IkH2uf1vZPGyqb8wO7",
+      "preview": "https://p.scdn.co/mp3-preview/9445b25bb8337271f2f9c2d0db852ace660d36fe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a29415c0de8aedf124b4617a453dd941c5b3ec05",
+      "release_date": "2013-10-25"
+    },
+    {
+      "featuredArtist": "Ryu",
+      "featuredArtistId": "2RvGel2PhO9vh74Z7I7ou2",
+      "trackName": "SKIN TO BONE - Nick Catchdubs Remix feat. Cody B. Ware and Ryu",
+      "trackId": "6jY7IkH2uf1vZPGyqb8wO7",
+      "preview": "https://p.scdn.co/mp3-preview/9445b25bb8337271f2f9c2d0db852ace660d36fe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a29415c0de8aedf124b4617a453dd941c5b3ec05",
+      "release_date": "2013-10-25"
+    },
+    {
+      "featuredArtist": "Nick Catchdubs",
+      "featuredArtistId": "6IcRi6fsL0MNwNp4fUZchD",
+      "trackName": "SKIN TO BONE - Nick Catchdubs Remix feat. Cody B. Ware and Ryu",
+      "trackId": "6jY7IkH2uf1vZPGyqb8wO7",
+      "preview": "https://p.scdn.co/mp3-preview/9445b25bb8337271f2f9c2d0db852ace660d36fe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a29415c0de8aedf124b4617a453dd941c5b3ec05",
+      "release_date": "2013-10-25"
+    },
+    {
+      "featuredArtist": "Schoolboy",
+      "featuredArtistId": "6JtWu7EQUhFCLNZU92kq1o",
+      "trackName": "I'LL BE GONE - Schoolboy Remix",
+      "trackId": "14VodXDA5aMpRqn2Ogbswo",
+      "preview": "https://p.scdn.co/mp3-preview/d3963e5531269a68a0e51f24884f8c23ab800410?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a29415c0de8aedf124b4617a453dd941c5b3ec05",
+      "release_date": "2013-10-25"
+    },
+    {
+      "featuredArtist": "Money Mark",
+      "featuredArtistId": "6I2891HPq8zEnBEuwc5iAP",
+      "trackName": "UNTIL IT BREAKS - Money Mark Headphone Remix",
+      "trackId": "3ECYJn1NtdkBmIbqsIeVLR",
+      "preview": "https://p.scdn.co/mp3-preview/5447ec109bb3a1058f96770597d89d5a5e260fbc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a29415c0de8aedf124b4617a453dd941c5b3ec05",
+      "release_date": "2013-10-25"
+    },
+    {
+      "featuredArtist": "JAY Z",
+      "featuredArtistId": "3nFkdlSjzX9mRTtwJOzDYB",
+      "trackName": "Numb / Encore - Live At Milton Keynes",
+      "trackId": "54TSw5CeLFZu15srfUyWZ8",
+      "preview": "https://p.scdn.co/mp3-preview/e59103b85e8ac98fcc8248e9c3f1e40031c19d01?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f16a98a5c703039f911b82965debafbf22466c7b",
+      "release_date": "2008-11-21"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "artistName": "Lauren Jauregui",
+  "features": [
+    {
+      "featuredArtist": "Steve Aoki",
+      "featuredArtistId": "77AiFEVeAVj2ORpC85QVJs",
+      "trackName": "All Night - Alan Walker Remix",
+      "trackId": "3j13XU2P8faAYDcJ9w0aci",
+      "preview": "https://p.scdn.co/mp3-preview/11694e8d1c086cae8e74d6b5f1be95854b5e3966?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4bb7d2178392644e010f4e13f27d50ded4ae87cb",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Alan Walker",
+      "featuredArtistId": "7vk5e3vY1uw9plTHJAMwjN",
+      "trackName": "All Night - Alan Walker Remix",
+      "trackId": "3j13XU2P8faAYDcJ9w0aci",
+      "preview": "https://p.scdn.co/mp3-preview/11694e8d1c086cae8e74d6b5f1be95854b5e3966?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4bb7d2178392644e010f4e13f27d50ded4ae87cb",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Garmiani",
+      "featuredArtistId": "2yhI3iWovCQYjhjoqzKO2R",
+      "trackName": "All Night - Garmiani's Shine Good Remix",
+      "trackId": "0dxZAEUYlTxYQIIMWia9as",
+      "preview": "https://p.scdn.co/mp3-preview/9d4826f4ec562306302edb0dc3a913370aff240f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4bb7d2178392644e010f4e13f27d50ded4ae87cb",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Marian Hill",
+      "featuredArtistId": "1xHQO9GJIW9OXHxGBISYc5",
+      "trackName": "Back To Me",
+      "trackId": "0jXMxsf0YNgnFdCbY3Nz29",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/520a0ab1b79049d0774c70ed637bb43cb50adc52",
+      "release_date": "2016-12-09"
+    },
+    {
+      "featuredArtist": "Ty Dolla $ign",
+      "featuredArtistId": "7c0XG5cIJTrrAgEC3ULPiq",
+      "trackName": "In Your Phone (with Lauren Jauregui)",
+      "trackId": "5DrACadFfJMMQCCS02Px0a",
+      "preview": "https://p.scdn.co/mp3-preview/69914f0033590c14c19bea5eef169284c30d950f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f71baf14611a39b3cbd652c028b4aa4210016071",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Halsey",
+      "featuredArtistId": "26VFTg2z8YR0cCuwLzESi2",
+      "trackName": "Strangers",
+      "trackId": "1h15fhH9dDQrI84JPQkTbj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/91a80095d0d7b3dded2acdad3ab27ee363643541",
+      "release_date": "2017-06-02"
+    }
+  ]
+}

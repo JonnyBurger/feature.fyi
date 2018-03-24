@@ -1,0 +1,35 @@
+{
+  "artistName": "Mr Hudson",
+  "features": [
+    {
+      "featuredArtist": "Kanye West",
+      "featuredArtistId": "5K4W6rqBFWDnAN6FQUkS6x",
+      "trackName": "Supernova",
+      "trackId": "6RwDMddkk822zQgGuqdBWu"
+    },
+    {
+      "featuredArtist": "Kid Cudi",
+      "featuredArtistId": "0fA0VVWsXO9YnASrzqfmYu",
+      "trackName": "Everything is Broken",
+      "trackId": "1NysDmS7Il4udYb5Jw0Tkf"
+    },
+    {
+      "featuredArtist": "Vic Mensa",
+      "featuredArtistId": "27w1NoOLMX7tJMYqcetPyG",
+      "trackName": "Coldplay",
+      "trackId": "0V7q5uZqa3fnE0I2ujAMPG"
+    },
+    {
+      "featuredArtist": "Idris Elba",
+      "featuredArtistId": "0Dc2rdPzleezxhvQhQbXuS",
+      "trackName": "Step Into the Shadows",
+      "trackId": "3ITAqdiaA79xjyCPZzIAcV"
+    },
+    {
+      "featuredArtist": "Calvin Harris",
+      "featuredArtistId": "7CajNmpbOovFoOoasH2HaY",
+      "trackName": "Supernova - Calvin Harris Remix",
+      "trackId": "769EfRQtQDIuPY0GpcnpZV"
+    }
+  ]
+}

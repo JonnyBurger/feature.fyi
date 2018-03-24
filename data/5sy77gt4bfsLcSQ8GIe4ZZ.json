@@ -1,0 +1,320 @@
+{
+  "artistName": "Alan Menken",
+  "features": [
+    {
+      "featuredArtist": "Stephen Schwartz",
+      "featuredArtistId": "7daPb40K64rRtF36wd3ZOk",
+      "trackName": "Olim",
+      "trackId": "3A91ofJNJR3YmBrFGaAt3H",
+      "preview": "https://p.scdn.co/mp3-preview/36517f698d374fca2276370198d155281e2aa0ca?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e8f6647c145239c6f0d78a4fc28f15b876f1a189",
+      "release_date": "2016-12-07"
+    },
+    {
+      "featuredArtist": "Lily Collins",
+      "featuredArtistId": "10BZ4RU2hw1b3cTdiLIuVh",
+      "trackName": "I Believe In Love - Mirror Mirror Mix",
+      "trackId": "03ck4bFgwUM0TJPQtVjfTl",
+      "preview": "https://p.scdn.co/mp3-preview/bc024718846cb880b9be6722c15f203ee600fb24?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/42d5879ea0271ee2e4013147a54163cc657f8c7e",
+      "release_date": "2012-03-09"
+    },
+    {
+      "featuredArtist": "S*A*M",
+      "featuredArtistId": "75j4mLVsqEOOfpBlj23DMV",
+      "trackName": "I Believe In Love - Mirror Mirror Mix",
+      "trackId": "6KDZQmfJcKCLBbFB0sh0H2",
+      "preview": "https://p.scdn.co/mp3-preview/bc024718846cb880b9be6722c15f203ee600fb24?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9b604249b4fc5876df5c6ae387af26f435db2752",
+      "release_date": "2012-03-09"
+    },
+    {
+      "featuredArtist": "Tarsem",
+      "featuredArtistId": "28LX9DbbtGGIzrJnBhef5u",
+      "trackName": "I Believe In Love - Mirror Mirror Mix",
+      "trackId": "6KDZQmfJcKCLBbFB0sh0H2",
+      "preview": "https://p.scdn.co/mp3-preview/bc024718846cb880b9be6722c15f203ee600fb24?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9b604249b4fc5876df5c6ae387af26f435db2752",
+      "release_date": "2012-03-09"
+    },
+    {
+      "featuredArtist": "Glenn Slater",
+      "featuredArtistId": "0H40uRb7qfxpfg0cZRYfWK",
+      "trackName": "Buck",
+      "trackId": "0U8wMrF23QSUMHB9m36HSZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/07711224c4e681ed90125e5cc89d2aaf70c52410",
+      "release_date": "2004-03-30"
+    },
+    {
+      "featuredArtist": "k.d. lang",
+      "featuredArtistId": "6W1BHDF0T4a4KYcSwzD586",
+      "trackName": "My Farm Is Saved / Little Patch Of Heaven - Finale (Score)",
+      "trackId": "37DCP6ONhPW0T6XYxHOmlE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/07711224c4e681ed90125e5cc89d2aaf70c52410",
+      "release_date": "2004-03-30"
+    },
+    {
+      "featuredArtist": "Howard Ashman",
+      "featuredArtistId": "4v3VuWXuxcennT1zhjlorN",
+      "trackName": "Prologue \"Little Shop Of Horrors\" - 1982 Original Cast",
+      "trackId": "6WbpYRI0REZeMRQC7AufVp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4e7f53c12d2f31f00c4b9ec37fbcb912f9866cc9",
+      "release_date": "1982-01-01"
+    },
+    {
+      "featuredArtist": "Jennifer Leigh Warren",
+      "featuredArtistId": "1eSdXvYiN6vESrz9icSERv",
+      "trackName": "Prologue \"Little Shop Of Horrors\" - 1982 Original Cast",
+      "trackId": "6WbpYRI0REZeMRQC7AufVp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4e7f53c12d2f31f00c4b9ec37fbcb912f9866cc9",
+      "release_date": "1982-01-01"
+    },
+    {
+      "featuredArtist": "Sheila Kay Davis",
+      "featuredArtistId": "1MtgistI28pALHpUnf1kDB",
+      "trackName": "Prologue \"Little Shop Of Horrors\" - 1982 Original Cast",
+      "trackId": "6WbpYRI0REZeMRQC7AufVp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4e7f53c12d2f31f00c4b9ec37fbcb912f9866cc9",
+      "release_date": "1982-01-01"
+    },
+    {
+      "featuredArtist": "Leilani Jones",
+      "featuredArtistId": "50VrOdzRkj0sE7IZnidONo",
+      "trackName": "Prologue \"Little Shop Of Horrors\" - 1982 Original Cast",
+      "trackId": "6WbpYRI0REZeMRQC7AufVp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4e7f53c12d2f31f00c4b9ec37fbcb912f9866cc9",
+      "release_date": "1982-01-01"
+    },
+    {
+      "featuredArtist": "The Company",
+      "featuredArtistId": "2X3SZZKqsg1EQGEmKvL8MC",
+      "trackName": "Skid Row (Downtown) - 1982 Original Cast",
+      "trackId": "4sUj66r5S53RI6NU9D0Zqb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4e7f53c12d2f31f00c4b9ec37fbcb912f9866cc9",
+      "release_date": "1982-01-01"
+    },
+    {
+      "featuredArtist": "Lee Wilkof",
+      "featuredArtistId": "0SKowkGzEY1M8xRAJ26qfx",
+      "trackName": "Da-Doo - 1982 Original Cast",
+      "trackId": "7JB2E9uADxJFQ3E9VcqpX7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4e7f53c12d2f31f00c4b9ec37fbcb912f9866cc9",
+      "release_date": "1982-01-01"
+    },
+    {
+      "featuredArtist": "Hy Anzell",
+      "featuredArtistId": "0JylaQ3N302P8Qfpt0BBSJ",
+      "trackName": "Ya Never Know - 1982 Original Cast",
+      "trackId": "0kY4PwOydVOUEW1MqLFkaG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4e7f53c12d2f31f00c4b9ec37fbcb912f9866cc9",
+      "release_date": "1982-01-01"
+    },
+    {
+      "featuredArtist": "Franc Luz",
+      "featuredArtistId": "6U8NsjgnjRLGHbSX0X2MMO",
+      "trackName": "Dentist! - 1982 Original Cast",
+      "trackId": "2Maod1MfoYzS9q04hhcGQW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4e7f53c12d2f31f00c4b9ec37fbcb912f9866cc9",
+      "release_date": "1982-01-01"
+    },
+    {
+      "featuredArtist": "Ellen Green",
+      "featuredArtistId": "53PdJfhZ8kcGTOxbfKTa9P",
+      "trackName": "Somewhere That's Green - 1982 Original Cast",
+      "trackId": "4Yr7DyssAUQjGwn0IhZ6fU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4e7f53c12d2f31f00c4b9ec37fbcb912f9866cc9",
+      "release_date": "1982-01-01"
+    },
+    {
+      "featuredArtist": "Ron Taylor",
+      "featuredArtistId": "0di2hcKQJcCfXTiAd6x1cr",
+      "trackName": "Feed Me (Git It) - 1982 Original Cast",
+      "trackId": "2fDjfe1e1VY2bNj9ZwUUl0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4e7f53c12d2f31f00c4b9ec37fbcb912f9866cc9",
+      "release_date": "1982-01-01"
+    },
+    {
+      "featuredArtist": "Company",
+      "featuredArtistId": "5bse9w1FhvHOjwC110JLe5",
+      "trackName": "Skid Row (Downtown) - 1982 Original Cast",
+      "trackId": "0Uy6mx0MvKR1h8WA0uZ5zZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d42c49be88bbdc51daed3178215c6d0e86eeb0d6",
+      "release_date": "1982-01-01"
+    },
+    {
+      "featuredArtist": "McKay Crockett",
+      "featuredArtistId": "6x9Q7cCDiRilXblDEOaJ2r",
+      "trackName": "Beauty and the Beast Medley (feat. Lexi Walker)",
+      "trackId": "5Uf0QZPfYyCscQbidL9Ibw",
+      "preview": "https://p.scdn.co/mp3-preview/40967ba99baa9cf70acb5a476ee423aa16b77aa9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad78f66b7b10b267cb2ad8ec7428f167b43e09f3",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "BYU Vocal Point",
+      "featuredArtistId": "5zhxxb24WP6q6rbLHAn2UQ",
+      "trackName": "Beauty and the Beast Medley (feat. Lexi Walker)",
+      "trackId": "5Uf0QZPfYyCscQbidL9Ibw",
+      "preview": "https://p.scdn.co/mp3-preview/40967ba99baa9cf70acb5a476ee423aa16b77aa9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad78f66b7b10b267cb2ad8ec7428f167b43e09f3",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Lexi Walker",
+      "featuredArtistId": "6C2Jmyv6fdiRAbcadxmNtS",
+      "trackName": "Beauty and the Beast Medley (feat. Lexi Walker)",
+      "trackId": "5Uf0QZPfYyCscQbidL9Ibw",
+      "preview": "https://p.scdn.co/mp3-preview/40967ba99baa9cf70acb5a476ee423aa16b77aa9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad78f66b7b10b267cb2ad8ec7428f167b43e09f3",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Royal Swedish Army Conscript Band",
+      "featuredArtistId": "06pBfdPT3FHO7FqP5Nmh56",
+      "trackName": "Duet (From \"Beauty and the Beast\") [Arr. for Wind Ensemble]",
+      "trackId": "5cEbN5fVuRe1pgtJDNpYL2",
+      "preview": "https://p.scdn.co/mp3-preview/9cb4a2d39681e44144601d92b3775123aa40b65e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/746a850f58c64945a20cdb16ef7e4cf812243223",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Mats Janhagen",
+      "featuredArtistId": "1rIfOtaAPsP0nbUGOaFPEI",
+      "trackName": "Duet (From \"Beauty and the Beast\") [Arr. for Wind Ensemble]",
+      "trackId": "5cEbN5fVuRe1pgtJDNpYL2",
+      "preview": "https://p.scdn.co/mp3-preview/9cb4a2d39681e44144601d92b3775123aa40b65e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/746a850f58c64945a20cdb16ef7e4cf812243223",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Osaka Toin Symphonic Band",
+      "featuredArtistId": "1ikTFK0Mb1LJafTZ13OFbJ",
+      "trackName": "ノートルダムの鐘・メドレー - 【ノートルダムの鐘】ノートルダムの鐘 〜 僕の願い 〜 トプシー・ターヴィー 〜 ゴッド・ヘルプ 〜 サムデイ",
+      "trackId": "2Nfn7kXlkV21I1GNDtCDTH",
+      "preview": "https://p.scdn.co/mp3-preview/1c25640e73554a8ca599557f7bd78042021be5cf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b12016026d6c476df5427e55106ea5477b6b64b9",
+      "release_date": "2018-02-28"
+    },
+    {
+      "featuredArtist": "Robert Moline",
+      "featuredArtistId": "2g9w2dWeSLK3baylsXAQEY",
+      "trackName": "東京ディズニーリゾート(R)・メドレー - 東京ディズニーランド・イズ・ユア・ランド 〜 ヨー・ホー 〜 コンパス・オブ・ユア・ハート 〜 グリム・グリニング・ゴースト 〜 東京ディズニーシーのテーマソング",
+      "trackId": "2d4z0DQFWbUPaJcSUy3DLO",
+      "preview": "https://p.scdn.co/mp3-preview/d2a29a82dbe38423106386ff296f5c241c03692e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b12016026d6c476df5427e55106ea5477b6b64b9",
+      "release_date": "2018-02-28"
+    },
+    {
+      "featuredArtist": "Buddy Baker",
+      "featuredArtistId": "4yUAT1Do55lGQQh8VQOHKf",
+      "trackName": "東京ディズニーリゾート(R)・メドレー - 東京ディズニーランド・イズ・ユア・ランド 〜 ヨー・ホー 〜 コンパス・オブ・ユア・ハート 〜 グリム・グリニング・ゴースト 〜 東京ディズニーシーのテーマソング",
+      "trackId": "2d4z0DQFWbUPaJcSUy3DLO",
+      "preview": "https://p.scdn.co/mp3-preview/d2a29a82dbe38423106386ff296f5c241c03692e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b12016026d6c476df5427e55106ea5477b6b64b9",
+      "release_date": "2018-02-28"
+    },
+    {
+      "featuredArtist": "Steve Skorija",
+      "featuredArtistId": "3A51rJmJXKzItvhhiyBxEt",
+      "trackName": "東京ディズニーリゾート(R)・メドレー - 東京ディズニーランド・イズ・ユア・ランド 〜 ヨー・ホー 〜 コンパス・オブ・ユア・ハート 〜 グリム・グリニング・ゴースト 〜 東京ディズニーシーのテーマソング",
+      "trackId": "2d4z0DQFWbUPaJcSUy3DLO",
+      "preview": "https://p.scdn.co/mp3-preview/d2a29a82dbe38423106386ff296f5c241c03692e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b12016026d6c476df5427e55106ea5477b6b64b9",
+      "release_date": "2018-02-28"
+    },
+    {
+      "featuredArtist": "Brad Kelley",
+      "featuredArtistId": "1qyVf9Cg60Ku766kaXO3qF",
+      "trackName": "東京ディズニーリゾート(R)・メドレー - 東京ディズニーランド・イズ・ユア・ランド 〜 ヨー・ホー 〜 コンパス・オブ・ユア・ハート 〜 グリム・グリニング・ゴースト 〜 東京ディズニーシーのテーマソング",
+      "trackId": "2d4z0DQFWbUPaJcSUy3DLO",
+      "preview": "https://p.scdn.co/mp3-preview/d2a29a82dbe38423106386ff296f5c241c03692e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b12016026d6c476df5427e55106ea5477b6b64b9",
+      "release_date": "2018-02-28"
+    },
+    {
+      "featuredArtist": "東海大学付属高輪台高等学校吹奏楽部",
+      "featuredArtistId": "7HskR7QuDfnzgpsqR8jw3T",
+      "trackName": "東京ディズニーリゾート(R)・メドレー - 東京ディズニーランド・イズ・ユア・ランド 〜 ヨー・ホー 〜 コンパス・オブ・ユア・ハート 〜 グリム・グリニング・ゴースト 〜 東京ディズニーシーのテーマソング",
+      "trackId": "2d4z0DQFWbUPaJcSUy3DLO",
+      "preview": "https://p.scdn.co/mp3-preview/d2a29a82dbe38423106386ff296f5c241c03692e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b12016026d6c476df5427e55106ea5477b6b64b9",
+      "release_date": "2018-02-28"
+    },
+    {
+      "featuredArtist": "Opetaia Foa'i",
+      "featuredArtistId": "759h9uEwoHm8KKq1pGI9RH",
+      "trackName": "ディズニー・トロピカル・メドレー - もっと遠くへ【モアナと伝説の海】 〜 アロハ・エ・コモ・マイ【リロ アンド スティッチ ザ・シリーズ】 〜 あこがれの夏【アナと雪の女王】 〜 アンダー・ザ・シー【リトル・マーメイド】",
+      "trackId": "2mwqnTfH5I1Z1PggF7s9X6",
+      "preview": "https://p.scdn.co/mp3-preview/cae15a8d7d7df86da00e0d9807d70a737d9d10bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b12016026d6c476df5427e55106ea5477b6b64b9",
+      "release_date": "2018-02-28"
+    },
+    {
+      "featuredArtist": "Danny Jacob",
+      "featuredArtistId": "3J6ns49mHsAFXgp5EoDJjS",
+      "trackName": "ディズニー・トロピカル・メドレー - もっと遠くへ【モアナと伝説の海】 〜 アロハ・エ・コモ・マイ【リロ アンド スティッチ ザ・シリーズ】 〜 あこがれの夏【アナと雪の女王】 〜 アンダー・ザ・シー【リトル・マーメイド】",
+      "trackId": "2mwqnTfH5I1Z1PggF7s9X6",
+      "preview": "https://p.scdn.co/mp3-preview/cae15a8d7d7df86da00e0d9807d70a737d9d10bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b12016026d6c476df5427e55106ea5477b6b64b9",
+      "release_date": "2018-02-28"
+    },
+    {
+      "featuredArtist": "Kristen Anderson",
+      "featuredArtistId": "4GgjYuLnpej8Iicq21Qop2",
+      "trackName": "ディズニー・トロピカル・メドレー - もっと遠くへ【モアナと伝説の海】 〜 アロハ・エ・コモ・マイ【リロ アンド スティッチ ザ・シリーズ】 〜 あこがれの夏【アナと雪の女王】 〜 アンダー・ザ・シー【リトル・マーメイド】",
+      "trackId": "2mwqnTfH5I1Z1PggF7s9X6",
+      "preview": "https://p.scdn.co/mp3-preview/cae15a8d7d7df86da00e0d9807d70a737d9d10bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b12016026d6c476df5427e55106ea5477b6b64b9",
+      "release_date": "2018-02-28"
+    },
+    {
+      "featuredArtist": "Lopez and Robert Lopez",
+      "featuredArtistId": "6MWiuUv3rSI0ItirCWs3Wn",
+      "trackName": "ディズニー・トロピカル・メドレー - もっと遠くへ【モアナと伝説の海】 〜 アロハ・エ・コモ・マイ【リロ アンド スティッチ ザ・シリーズ】 〜 あこがれの夏【アナと雪の女王】 〜 アンダー・ザ・シー【リトル・マーメイド】",
+      "trackId": "2mwqnTfH5I1Z1PggF7s9X6",
+      "preview": "https://p.scdn.co/mp3-preview/cae15a8d7d7df86da00e0d9807d70a737d9d10bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b12016026d6c476df5427e55106ea5477b6b64b9",
+      "release_date": "2018-02-28"
+    },
+    {
+      "featuredArtist": "Lin-Manuel Miranda",
+      "featuredArtistId": "4aXXDj9aZnlshx7mzj3W1N",
+      "trackName": "ディズニー・チアリング・メドレー - 俺のおかげさ【モアナと伝説の海】 〜 みんなスター!【ハイスクール・ミュージカル】 〜 ゼロ・トゥ・ヒーロー【ヘラクレス】",
+      "trackId": "47LZwpV3LTtBfQfk8ynmxQ",
+      "preview": "https://p.scdn.co/mp3-preview/7f65e2c2cdec2fc08ebf0cf834b5e00fc068b9a7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b12016026d6c476df5427e55106ea5477b6b64b9",
+      "release_date": "2018-02-28"
+    },
+    {
+      "featuredArtist": "M. Gerrard",
+      "featuredArtistId": "64RC1aFv3vJXm2HChYnXZ8",
+      "trackName": "ディズニー・チアリング・メドレー - 俺のおかげさ【モアナと伝説の海】 〜 みんなスター!【ハイスクール・ミュージカル】 〜 ゼロ・トゥ・ヒーロー【ヘラクレス】",
+      "trackId": "47LZwpV3LTtBfQfk8ynmxQ",
+      "preview": "https://p.scdn.co/mp3-preview/7f65e2c2cdec2fc08ebf0cf834b5e00fc068b9a7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b12016026d6c476df5427e55106ea5477b6b64b9",
+      "release_date": "2018-02-28"
+    },
+    {
+      "featuredArtist": "R. Nevil",
+      "featuredArtistId": "0UUjCeNfw6ZTnXYebYH8CO",
+      "trackName": "ディズニー・チアリング・メドレー - 俺のおかげさ【モアナと伝説の海】 〜 みんなスター!【ハイスクール・ミュージカル】 〜 ゼロ・トゥ・ヒーロー【ヘラクレス】",
+      "trackId": "47LZwpV3LTtBfQfk8ynmxQ",
+      "preview": "https://p.scdn.co/mp3-preview/7f65e2c2cdec2fc08ebf0cf834b5e00fc068b9a7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b12016026d6c476df5427e55106ea5477b6b64b9",
+      "release_date": "2018-02-28"
+    }
+  ]
+}

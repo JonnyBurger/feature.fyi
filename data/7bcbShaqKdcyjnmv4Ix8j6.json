@@ -1,0 +1,41 @@
+{
+  "artistName": "St. Vincent",
+  "features": [
+    {
+      "featuredArtist": "Darkside",
+      "featuredArtistId": "3y83mkif5B4XlSjxV1dVGt",
+      "trackName": "Digital Witness - DARKSIDE Remix",
+      "trackId": "6RMMuEeLR6D3sJetLnAZHH",
+      "preview": "https://p.scdn.co/mp3-preview/0a07cf51564dd4a76254d09c012147ee9caacf55?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4883f8b74ce512ae922bb0d5a83887869e7084fa",
+      "release_date": "2015-02-10"
+    },
+    {
+      "featuredArtist": "David Byrne",
+      "featuredArtistId": "20vuBdFblWUo2FCOvUzusB",
+      "trackName": "Who",
+      "trackId": "55iwrKssfMLNfKvEviQCRB",
+      "preview": "https://p.scdn.co/mp3-preview/a6ce03eade4f2e6fa14b069adbc3b38d737f6356?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/96d0f2c7eddd202d2e55f2bae46892bf3d4035f0",
+      "release_date": "2012-09-10"
+    },
+    {
+      "featuredArtist": "DJDS",
+      "featuredArtistId": "0orEyXhG0KnPEDVgpctNJI",
+      "trackName": "Los Ageless - DJDS Version",
+      "trackId": "4VpVqy1osXWDRlyFcGwBbb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d30ae62f5d89be8574226d5d73a32ee1e357868c",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Jack Antonoff",
+      "featuredArtistId": "414TS3VqZf1XPCBixdmX9n",
+      "trackName": "Los Ageless - DJDS Version",
+      "trackId": "3x7Jws1pe2krNUJJZBVtHw",
+      "preview": "https://p.scdn.co/mp3-preview/a6367b229fee8ecf4516d7ca7c138864c2762182?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5603b59e1440182bced407a5990fbdbfb3f9dfad",
+      "release_date": "2018-03-09"
+    }
+  ]
+}

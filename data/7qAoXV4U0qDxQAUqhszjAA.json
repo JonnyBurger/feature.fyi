@@ -1,0 +1,41 @@
+{
+  "artistName": "Manuel Carrasco",
+  "features": [
+    {
+      "featuredArtist": "Vanesa Martín",
+      "featuredArtistId": "5kSJMVPcTITrSZxTrHllVN",
+      "trackName": "La Voz De Dentro - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016",
+      "trackId": "2sxQWt5dz8JmUtKSKFbzzR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c667111eedbaad4058e4246bfe26d7c7aba363af",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "Miguel Poveda",
+      "featuredArtistId": "0BwjxWHTct80Qp5Xk7pxZj",
+      "trackName": "Menos Mal - En Directo En El Estadio Olímpico De La Cartuja De Sevilla / 2016",
+      "trackId": "29c2bDAR3O8JW6pFn8AP5W",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c667111eedbaad4058e4246bfe26d7c7aba363af",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "Josemi Carmona",
+      "featuredArtistId": "5sqVBfJ96nXdHOG7jiWvKh",
+      "trackName": "Espera Un Momento",
+      "trackId": "0BKEGNWwXiB06cbjlFsxdk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b9a946f0ec5897353214ed94c71d945aefc423f7",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Malú",
+      "featuredArtistId": "3TLGNOdp1UWYMnV5XG9HkR",
+      "trackName": "Que Nadie",
+      "trackId": "1GeqoQTeH6DgyUv3qsPLF2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/33af7a8f646b2ee9dbe77a377591aae038da1c2b",
+      "release_date": "2010-01-01"
+    }
+  ]
+}

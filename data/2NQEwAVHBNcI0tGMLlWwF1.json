@@ -1,0 +1,32 @@
+{
+  "artistName": "Mat Kearney",
+  "features": [
+    {
+      "featuredArtist": "Young Summer",
+      "featuredArtistId": "2SlMPjZm02pC12ODpApdhB",
+      "trackName": "The Conversation",
+      "trackId": "2vuyiPghYLOVu9zNSHcxDf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/18eacb166e8faf6b2520c61c4fa2417e464b836f",
+      "release_date": "2015-08-21"
+    },
+    {
+      "featuredArtist": "RAC",
+      "featuredArtistId": "4AGwPDdh1y8hochNzHy5HC",
+      "trackName": "Memorized",
+      "trackId": "56pj8GMmyFnpkWZ99X0oIH",
+      "preview": "https://p.scdn.co/mp3-preview/41c984b11f1f955cca5fc437169d50f52239ed62?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cdb91d0c661f3939a9655e244bd9d9ea3da12799",
+      "release_date": "2018-03-15"
+    },
+    {
+      "featuredArtist": "AFSHeeN",
+      "featuredArtistId": "5iwLVxdLzgm1cLrZunXzWR",
+      "trackName": "Better Than I Used To Be",
+      "trackId": "6kn1cBrCrZrPOogEHVg9NI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fb591e67f8f73861b8b610da6000236518780e9c",
+      "release_date": "2018-01-19"
+    }
+  ]
+}

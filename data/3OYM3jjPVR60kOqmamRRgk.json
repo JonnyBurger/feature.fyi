@@ -1,0 +1,338 @@
+{
+  "artistName": "Prinz Pi",
+  "features": [
+    {
+      "featuredArtist": "Mark Forster",
+      "featuredArtistId": "7qXzy6c5RWT0XlVQcOBIDG",
+      "trackName": "Das Original",
+      "trackId": "3upwGWP1sYtT0EvPSJkDew",
+      "preview": "https://p.scdn.co/mp3-preview/165dac988534a29e9850cd8cfb1dfdb040ccecd9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e5c8ac69f388371d38c08aeb23f1f8b87661388a",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Bosse",
+      "featuredArtistId": "2e4uIDIIBXR0MmZe0AJGhR",
+      "trackName": "Hellrot",
+      "trackId": "2SxSkbiwqNmYPg5unVRNQB",
+      "preview": "https://p.scdn.co/mp3-preview/dd50442c49ae915e4ca360778dc585983da270b4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e5c8ac69f388371d38c08aeb23f1f8b87661388a",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Bausa",
+      "featuredArtistId": "13bDjug9N0pyv3ZUINjkDV",
+      "trackName": "Nordpol",
+      "trackId": "0Eka8ztL2I8spftc07Jhc2",
+      "preview": "https://p.scdn.co/mp3-preview/76d86fa2088239cc0ee0671161e436e05d6b9181?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e5c8ac69f388371d38c08aeb23f1f8b87661388a",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "KAIND",
+      "featuredArtistId": "5IJ9tpDaRKgVbttKdyn3ub",
+      "trackName": "Trümmerfeld",
+      "trackId": "5jihwmZYdB1PTgh1y62Tob",
+      "preview": "https://p.scdn.co/mp3-preview/cf6e16a4861ecea45c3c53770c9b263c344ea544?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e5c8ac69f388371d38c08aeb23f1f8b87661388a",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "BRKN",
+      "featuredArtistId": "2sc3TTzRfZ9imaMJO4UqaG",
+      "trackName": "Das Original - Piano Version",
+      "trackId": "3m0gFfPINxSmlsihIPcf4Y",
+      "preview": "https://p.scdn.co/mp3-preview/21588d1d1c45840cee3ea701717d92e154fb392b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e5c8ac69f388371d38c08aeb23f1f8b87661388a",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Philipp Dittberner",
+      "featuredArtistId": "7oaSITFPadI3fnIxbv7hTa",
+      "trackName": "1,40m",
+      "trackId": "17u5ke2iiNJ95wYClxq5M5",
+      "preview": "https://p.scdn.co/mp3-preview/ba26219cfe7b7338c3cf300e0820f1fe5cc5c28c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e6d50bd72aa04bd5353c7de58bf97554aa8dd5c4",
+      "release_date": "2017-11-02"
+    },
+    {
+      "featuredArtist": "Köln",
+      "featuredArtistId": "6OuTXxjUk8AX6MSzBRYTdf",
+      "trackName": "Fähnchen im Wind",
+      "trackId": "6bFhSm442HvgPoxgM4LclL",
+      "preview": "https://p.scdn.co/mp3-preview/20c4109692e55edf289e92901854efba8161b04e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e4f4bbe5f106a2287f465b5953b509be8fcfd7c",
+      "release_date": "2014-05-16"
+    },
+    {
+      "featuredArtist": "Leipzig",
+      "featuredArtistId": "4aSAq9aAEYzjBgnWfpuUNQ",
+      "trackName": "Moderne Zeiten",
+      "trackId": "2nhAF2FluPilZ0R3zDhD2n",
+      "preview": "https://p.scdn.co/mp3-preview/1ad4cf5db43d7b2200458e18d34dcc6920634e06?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e4f4bbe5f106a2287f465b5953b509be8fcfd7c",
+      "release_date": "2014-05-16"
+    },
+    {
+      "featuredArtist": "Hamburg",
+      "featuredArtistId": "3xAyWh8CVW3cvC4a5tmcuY",
+      "trackName": "Kompass ohne Norden",
+      "trackId": "0e1Lq25UednNPFTn3odtnc",
+      "preview": "https://p.scdn.co/mp3-preview/cbcbe9ed3649a21c2f2ac7af3136d24ae69928f4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e4f4bbe5f106a2287f465b5953b509be8fcfd7c",
+      "release_date": "2014-05-16"
+    },
+    {
+      "featuredArtist": "Wiesbaden",
+      "featuredArtistId": "1WplRzfbfX5oHORsPkKnBa",
+      "trackName": "Frühstücksclub der toten Dichter",
+      "trackId": "0XyodTmeRAmoAUU21WP79W",
+      "preview": "https://p.scdn.co/mp3-preview/afc5715c75eac900bab333a950c77da71a01c6f2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e4f4bbe5f106a2287f465b5953b509be8fcfd7c",
+      "release_date": "2014-05-16"
+    },
+    {
+      "featuredArtist": "Erich",
+      "featuredArtistId": "0sqvc6grPNsg3AZf7dKWIP",
+      "trackName": "100X",
+      "trackId": "1q49QhJeEgQdIqJfR3ploi",
+      "preview": "https://p.scdn.co/mp3-preview/ebe3e2d4243fad466316ff353cc7f5e17e5c3f33?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e4f4bbe5f106a2287f465b5953b509be8fcfd7c",
+      "release_date": "2014-05-16"
+    },
+    {
+      "featuredArtist": "Osnabrück",
+      "featuredArtistId": "4l0MX4wp0hC5b9OHKxWo9V",
+      "trackName": "100X",
+      "trackId": "1q49QhJeEgQdIqJfR3ploi",
+      "preview": "https://p.scdn.co/mp3-preview/ebe3e2d4243fad466316ff353cc7f5e17e5c3f33?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e4f4bbe5f106a2287f465b5953b509be8fcfd7c",
+      "release_date": "2014-05-16"
+    },
+    {
+      "featuredArtist": "München",
+      "featuredArtistId": "2Qq4lpczxhn0LlP3SHU8LS",
+      "trackName": "Glück",
+      "trackId": "5HXgojgRmLxpQnnIH0htLh",
+      "preview": "https://p.scdn.co/mp3-preview/17aa372e84343caa28f0c4f5bc880147f480aacf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e4f4bbe5f106a2287f465b5953b509be8fcfd7c",
+      "release_date": "2014-05-16"
+    },
+    {
+      "featuredArtist": "Konstanz",
+      "featuredArtistId": "1caFPdByxVNIHVJnftsDZh",
+      "trackName": "Säulen der Gesellschaft",
+      "trackId": "5Tz4pUmsTnnndG6Xsue7ER",
+      "preview": "https://p.scdn.co/mp3-preview/661e16c0d9ec16bac96d585f28d551ffd16a6765?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e4f4bbe5f106a2287f465b5953b509be8fcfd7c",
+      "release_date": "2014-05-16"
+    },
+    {
+      "featuredArtist": "Wien",
+      "featuredArtistId": "7MQjiqrXLxn1olVZS99Bpu",
+      "trackName": "Rost",
+      "trackId": "1btTZfNYMEejz23fVSoi4m",
+      "preview": "https://p.scdn.co/mp3-preview/55ca4a3eb7c4f37e3aa80b8144b9418ac60aa981?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e4f4bbe5f106a2287f465b5953b509be8fcfd7c",
+      "release_date": "2014-05-16"
+    },
+    {
+      "featuredArtist": "Nürnberg",
+      "featuredArtistId": "3NBDwx9AvYIhUtmAZY7jMQ",
+      "trackName": "Ende Blut alles Blut",
+      "trackId": "1FQZLWDQov8y5T1u1pvENV",
+      "preview": "https://p.scdn.co/mp3-preview/5b6fb2952ed87ce5d4e26d152e9d62f001ef4b4e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e4f4bbe5f106a2287f465b5953b509be8fcfd7c",
+      "release_date": "2014-05-16"
+    },
+    {
+      "featuredArtist": "Leer",
+      "featuredArtistId": "6NT5L3yc7mpXutWNoVZLbE",
+      "trackName": "Schwarze Wolke",
+      "trackId": "7H9qc3K50DyhcwFNfR3SRa",
+      "preview": "https://p.scdn.co/mp3-preview/9ec32cab8aa0b0c5d67b0b238c61b907dfa10abf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e4f4bbe5f106a2287f465b5953b509be8fcfd7c",
+      "release_date": "2014-05-16"
+    },
+    {
+      "featuredArtist": "Stuttgart",
+      "featuredArtistId": "2ui5v13RnlmckeM86DhWSK",
+      "trackName": "Asoziale Kontakte",
+      "trackId": "0xWIxckjWDD2df4PhhX6Lu",
+      "preview": "https://p.scdn.co/mp3-preview/6c08ecbeb45ccddf1ddc151e3a5d887b749e6c54?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e4f4bbe5f106a2287f465b5953b509be8fcfd7c",
+      "release_date": "2014-05-16"
+    },
+    {
+      "featuredArtist": "Saarbrücken",
+      "featuredArtistId": "1NBKMTYoRpV2kjQ12cyOTq",
+      "trackName": "Unser Platz",
+      "trackId": "2XtqTeTZeEvFPbSd73nUm8",
+      "preview": "https://p.scdn.co/mp3-preview/a77a3dd11d839cbe60bc60abf5da1f4405773cfa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e4f4bbe5f106a2287f465b5953b509be8fcfd7c",
+      "release_date": "2014-05-16"
+    },
+    {
+      "featuredArtist": "Würzburg",
+      "featuredArtistId": "3uB1sTUautPQKFk54AoVEd",
+      "trackName": "Schiefe Pyramiden",
+      "trackId": "3d55suhujlMz1uFj1zkFal",
+      "preview": "https://p.scdn.co/mp3-preview/525192e26a34a32e14be7b42854e2b32a57b2c58?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e4f4bbe5f106a2287f465b5953b509be8fcfd7c",
+      "release_date": "2014-05-16"
+    },
+    {
+      "featuredArtist": "Bremen",
+      "featuredArtistId": "3NauXSGleqrNBKbDsN30lO",
+      "trackName": "Dumm",
+      "trackId": "6KoQ6WXz855QCuUbtLVTNC",
+      "preview": "https://p.scdn.co/mp3-preview/0a24337ff7de221b4eb7678daa1eb4bbceb41aa9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e4f4bbe5f106a2287f465b5953b509be8fcfd7c",
+      "release_date": "2014-05-16"
+    },
+    {
+      "featuredArtist": "Kobra",
+      "featuredArtistId": "4lCKdDYfYtpgUqdgfGHBSs",
+      "trackName": "Keine Liebe - Bonustrack",
+      "trackId": "1nRN7W3KuMLv6l8tKHsaKc",
+      "preview": "https://p.scdn.co/mp3-preview/4aa748a49c10d92e244db196994ab68298d059c3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e4f4bbe5f106a2287f465b5953b509be8fcfd7c",
+      "release_date": "2014-05-16"
+    },
+    {
+      "featuredArtist": "Berlin",
+      "featuredArtistId": "6mhGTHI6sF5oqWhefv0VyY",
+      "trackName": "Keine Liebe - Bonustrack",
+      "trackId": "1nRN7W3KuMLv6l8tKHsaKc",
+      "preview": "https://p.scdn.co/mp3-preview/4aa748a49c10d92e244db196994ab68298d059c3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e4f4bbe5f106a2287f465b5953b509be8fcfd7c",
+      "release_date": "2014-05-16"
+    },
+    {
+      "featuredArtist": "Casper",
+      "featuredArtistId": "6UDhlW8uEVBBrqHS3RrKuv",
+      "trackName": "100X",
+      "trackId": "1WfM0nBGqZ6U2E1OnyfbGE",
+      "preview": "https://p.scdn.co/mp3-preview/aeaa8a947bf34158c8b7b77299fd9b64fa8bcc21?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/12164590681030008f7b880a2ef16a6cd994ab5b",
+      "release_date": "2013-04-29"
+    },
+    {
+      "featuredArtist": "Basstard",
+      "featuredArtistId": "63QHHXgYMlVJSIas0Ksjt8",
+      "trackName": "2013",
+      "trackId": "1xZWi3zAPOhfZCH081YxL7",
+      "preview": "https://p.scdn.co/mp3-preview/d0d1d2469f380209007069a7b31752e7c7c479d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/278bf0bc7898d3c1fc0abdf501b9155348082160",
+      "release_date": "2010-03-23"
+    },
+    {
+      "featuredArtist": "Justus",
+      "featuredArtistId": "2pKdlgkGsgt6OJzh9gQhp1",
+      "trackName": "Die Party ist Over",
+      "trackId": "17uzROZt3uX8iOji9XWqgC",
+      "preview": "https://p.scdn.co/mp3-preview/be04408481992757dd3c48687075bc48484427bb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/278bf0bc7898d3c1fc0abdf501b9155348082160",
+      "release_date": "2010-03-23"
+    },
+    {
+      "featuredArtist": "Grzegorz",
+      "featuredArtistId": "0V6ph4XEv3ZxXueCcOfBzA",
+      "trackName": "Wenn es Nacht wird",
+      "trackId": "1Z5rLYmakHdhkti5tkY9fb",
+      "preview": "https://p.scdn.co/mp3-preview/3c9e251e8e288e4a34fdaac2da9636773efea9a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/278bf0bc7898d3c1fc0abdf501b9155348082160",
+      "release_date": "2010-03-23"
+    },
+    {
+      "featuredArtist": "Casper",
+      "featuredArtistId": "0bDhzd1FgiWNv3wW43dhJd",
+      "trackName": "Unendlich sein",
+      "trackId": "5SgYjItWRKobaYaPz5g8rN",
+      "preview": "https://p.scdn.co/mp3-preview/67d6ce51323a8572e371e5a6bfa82c1d5b109986?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/278bf0bc7898d3c1fc0abdf501b9155348082160",
+      "release_date": "2010-03-23"
+    },
+    {
+      "featuredArtist": "Jonarama",
+      "featuredArtistId": "1k7FMqzqLuuqPXrykxvqfr",
+      "trackName": "Ode an den Tiger - Bonus Track",
+      "trackId": "5NpHNxAugRUpR15f5YBRRQ",
+      "preview": "https://p.scdn.co/mp3-preview/0ea98cd21283931f6032d19cb17edf29db387d4b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/278bf0bc7898d3c1fc0abdf501b9155348082160",
+      "release_date": "2010-03-23"
+    },
+    {
+      "featuredArtist": "E-Rich",
+      "featuredArtistId": "3MJw5FwvNrIhFw9MZTfAP7",
+      "trackName": "Ode an den Tiger - Bonus Track",
+      "trackId": "5NpHNxAugRUpR15f5YBRRQ",
+      "preview": "https://p.scdn.co/mp3-preview/0ea98cd21283931f6032d19cb17edf29db387d4b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/278bf0bc7898d3c1fc0abdf501b9155348082160",
+      "release_date": "2010-03-23"
+    },
+    {
+      "featuredArtist": "DJ Craft",
+      "featuredArtistId": "59daNEsS9AFCqsR14wS5h3",
+      "trackName": "Super Seiajin",
+      "trackId": "1NhzrlWGmEOtwQgi9MEEw0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e91280959c3c9651532197340ec8de28a88498c",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Biztram",
+      "featuredArtistId": "4GiUBGIgqHe5bEl6X84IV3",
+      "trackName": "2030",
+      "trackId": "6VXciwc6PfFOotIICRVUC9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e91280959c3c9651532197340ec8de28a88498c",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Frauenarzt",
+      "featuredArtistId": "38KSpOSYnwQX9zcOcVKdym",
+      "trackName": "Wir werden nie erwachsen",
+      "trackId": "41mVKgoeSrElUlraAkAkgK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e91280959c3c9651532197340ec8de28a88498c",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Bastard",
+      "featuredArtistId": "7qveQlnY1MhexpfnCYmSpE",
+      "trackName": "Sieben Sünden",
+      "trackId": "1vocgSjDlbjyC732bs2YKT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e91280959c3c9651532197340ec8de28a88498c",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Taktloss",
+      "featuredArtistId": "6c2nP6K8ObFcG1Ncf3StBt",
+      "trackName": "Von & Zu",
+      "trackId": "38dLOazsz6orLk05fR7wym",
+      "preview": "https://p.scdn.co/mp3-preview/82694b6d4c01175e6f6c47409706d575c445c585?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a626b20be17767feab25f625c8b0d550eb6464c0",
+      "release_date": "2006-09-22"
+    },
+    {
+      "featuredArtist": "Bobidze",
+      "featuredArtistId": "6eSkS4m6Q2FLvB8kcfuQJF",
+      "trackName": "Singt die Lieder",
+      "trackId": "1S6ETVcTcq9FssMjXKWWG0",
+      "preview": "https://p.scdn.co/mp3-preview/90a4358cbad886f1678b5f458733842b437f4525?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a626b20be17767feab25f625c8b0d550eb6464c0",
+      "release_date": "2006-09-22"
+    },
+    {
+      "featuredArtist": "Frank Zander",
+      "featuredArtistId": "2DL9tdRM016h5KHlmSH8Ni",
+      "trackName": "Meene Stadt",
+      "trackId": "6jBeen8k3CngMJR6zGezky",
+      "preview": "https://p.scdn.co/mp3-preview/fbedd8bd4223ac625d75f3f004a4d6b432d79414?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a626b20be17767feab25f625c8b0d550eb6464c0",
+      "release_date": "2006-09-22"
+    }
+  ]
+}

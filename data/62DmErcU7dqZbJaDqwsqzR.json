@@ -1,0 +1,32 @@
+{
+  "artistName": "Popcaan",
+  "features": [
+    {
+      "featuredArtist": "Tommy Lee",
+      "featuredArtistId": "2sfQCt8vryixkiNcBOUlxV",
+      "trackName": "Step Like Dead (Remastered)",
+      "trackId": "1nxMx8yInQDo1QQj8lAopY",
+      "preview": "https://p.scdn.co/mp3-preview/ce447c4d3ad8e926bb7ab784a7aa244f6b8777d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d3127c8ce6d67dbe390e81e6aed39ca70018f746",
+      "release_date": "2017-03-31"
+    },
+    {
+      "featuredArtist": "Pusha T",
+      "featuredArtistId": "0ONHkAv9pCAFxb0zJwDNTy",
+      "trackName": "Hustle",
+      "trackId": "01Gu3snVJnQl6lAvdaFEIj",
+      "preview": "https://p.scdn.co/mp3-preview/1b19a7dc6adc13dea0d249f9e157e6980b9e41e9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/43082ce01f6f4c540afa791ca11ca0ab96e4ac74",
+      "release_date": "2014-06-10"
+    },
+    {
+      "featuredArtist": "Bugle",
+      "featuredArtistId": "4J51t1ZO7ed5qgsXmz9VXM",
+      "trackName": "Live Love Laugh",
+      "trackId": "0Fgo5sYD3LWjUi3G2txINB",
+      "preview": "https://p.scdn.co/mp3-preview/fca69aac012a86710efc90ce312fbd5d5ba326d3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/19a1fbcf1c80858f92ffaafe6a1440588e02d1b2",
+      "release_date": "2017-10-27"
+    }
+  ]
+}

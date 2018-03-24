@@ -1,0 +1,77 @@
+{
+  "artistName": "Post Malone",
+  "features": [
+    {
+      "featuredArtist": "Justin Bieber",
+      "featuredArtistId": "1uNFoZAHBGtllmzznpCI3s",
+      "trackName": "Deja Vu",
+      "trackId": "5hQAvqoRM00q0dVJxAJmCn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/73fb1de575a85db765a1c6c928f81a38d0db03aa",
+      "release_date": "2016-12-09"
+    },
+    {
+      "featuredArtist": "Kehlani",
+      "featuredArtistId": "0cGUm45nv7Z6M6qdXYQGTX",
+      "trackName": "Feel",
+      "trackId": "4Laj089BOj6jBxTb8GlKwK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/73fb1de575a85db765a1c6c928f81a38d0db03aa",
+      "release_date": "2016-12-09"
+    },
+    {
+      "featuredArtist": "Quavo",
+      "featuredArtistId": "0VRj0yCOv2FXJNP47XQnx5",
+      "trackName": "Congratulations",
+      "trackId": "6syOdAs4IK8kPWR7gDyjRw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/73fb1de575a85db765a1c6c928f81a38d0db03aa",
+      "release_date": "2016-12-09"
+    },
+    {
+      "featuredArtist": "2 Chainz",
+      "featuredArtistId": "17lzZA2AlOHwCwFALHttmp",
+      "trackName": "Money Made Me Do It",
+      "trackId": "5bGDb8fjyVuV829GwGaXI6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/73fb1de575a85db765a1c6c928f81a38d0db03aa",
+      "release_date": "2016-12-09"
+    },
+    {
+      "featuredArtist": "Ty Dolla $ign",
+      "featuredArtistId": "7c0XG5cIJTrrAgEC3ULPiq",
+      "trackName": "Psycho (feat. Ty Dolla $ign)",
+      "trackId": "65NwOZqoXny4JxqAPlfxRF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3fda592026281312202a3a993d0e1c0c9e8bb40f",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "21 Savage",
+      "featuredArtistId": "1URnnhqYAYcrqrcwql10ft",
+      "trackName": "rockstar",
+      "trackId": "2U7Hu2RaNQNRi7izoJyZaX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8bea2dd679cb3eed7268d427067ac032a5dde4e9",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Nicky Jam",
+      "featuredArtistId": "1SupJlEpv7RS2tPNRaHViT",
+      "trackName": "rockstar - Remix",
+      "trackId": "4fy6HNnu1XXq2j1Y56EP2H",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d727923b0075cbf138901518c5a34b66a66749e0",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Ozuna",
+      "featuredArtistId": "1i8SpTcr7yvPOmcqrbnVXY",
+      "trackName": "rockstar - Remix",
+      "trackId": "4fy6HNnu1XXq2j1Y56EP2H",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d727923b0075cbf138901518c5a34b66a66749e0",
+      "release_date": "2017-12-08"
+    }
+  ]
+}

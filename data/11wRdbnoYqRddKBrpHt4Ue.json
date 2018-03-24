@@ -1,0 +1,50 @@
+{
+  "artistName": "Kasabian",
+  "features": [
+    {
+      "featuredArtist": "Wilf Dillon",
+      "featuredArtistId": "0n0FLDOqj1JpgAIhUoRxIw",
+      "trackName": "(mortis)",
+      "trackId": "5MQtdFItPEMNkGfdMXGZfv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0a3085e15948237d830b9f3681a4c560f4229dd5",
+      "release_date": "2014-10-07"
+    },
+    {
+      "featuredArtist": "J-AX",
+      "featuredArtistId": "2iK8weavvfS2xJCmzNzNE5",
+      "trackName": "Man of Simple Pleasures - Remix",
+      "trackId": "5JsiX4f13xnGqb23izUlLJ",
+      "preview": "https://p.scdn.co/mp3-preview/ab67456c6f61cd3ed2a541c2707390b1c0e237db?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9765c955016b03f180f011fb47fc664ff8e1d534",
+      "release_date": "2011"
+    },
+    {
+      "featuredArtist": "Zane Lowe",
+      "featuredArtistId": "2Whc9BubHyVNmH7xkwSkgK",
+      "trackName": "Vlad the Impaler - Zane Lowe Remix",
+      "trackId": "0UMRDSmEmp7sKdgRdYKSUS",
+      "preview": "https://p.scdn.co/mp3-preview/0b4168ff42d1004870cff15bbf48faca5fca469d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c589780772d308952b44616343cc59b5be29d2ec",
+      "release_date": "2009"
+    },
+    {
+      "featuredArtist": "Quannum",
+      "featuredArtistId": "2ZSCqnfcrLXHx14Yz59E58",
+      "trackName": "Take Aim - Dan The Automator Remix",
+      "trackId": "21dpovVmCbplpy6IB2ULgQ",
+      "preview": "https://p.scdn.co/mp3-preview/c764e7cf8800d8a5b58611b8987b3e747489a976?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c589780772d308952b44616343cc59b5be29d2ec",
+      "release_date": "2009"
+    },
+    {
+      "featuredArtist": "Dan The Automator",
+      "featuredArtistId": "4fv5w0LJib9OMbXQegqZ01",
+      "trackName": "Take Aim - Dan The Automator Remix",
+      "trackId": "21dpovVmCbplpy6IB2ULgQ",
+      "preview": "https://p.scdn.co/mp3-preview/c764e7cf8800d8a5b58611b8987b3e747489a976?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c589780772d308952b44616343cc59b5be29d2ec",
+      "release_date": "2009"
+    }
+  ]
+}

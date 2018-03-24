@@ -1,0 +1,32 @@
+{
+  "artistName": "brando",
+  "features": [
+    {
+      "featuredArtist": "Loud Luxury",
+      "featuredArtistId": "6t1gpxYbY8OlLA7D2RiikQ",
+      "trackName": "Body - Late Nite Version",
+      "trackId": "2o9ewaAajlMJO32Wxi2wQa",
+      "preview": "https://p.scdn.co/mp3-preview/d24a7bf4547524ae3f811e29fe9d8e0d5eb1aafa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2cbc34d0a02fc0766ccbcd2281742e1cda1977bc",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Mike Hawkins",
+      "featuredArtistId": "0eW2N88UpBG0giW7LJOaY2",
+      "trackName": "Body - Mike Hawkins Remix",
+      "trackId": "3He3hiFeCmD5P07GUa7MOD",
+      "preview": "https://p.scdn.co/mp3-preview/3a230f9276b42a7ef78273ec52ab31cb088b4a72?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/613018ae9dd1d56c2ee8729b30b82b94af0b043d",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Dirtcaps",
+      "featuredArtistId": "2PC3QVYzOPekKLIppjFUoi",
+      "trackName": "Body - Dirtcaps Remix",
+      "trackId": "1SkP3ENaeHNWeM86BPt09O",
+      "preview": "https://p.scdn.co/mp3-preview/66a71e9c009a17ee04020d751b35514d64171b1e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f3d26b9dceef507e7b7afa0926a71ccb575c27ab",
+      "release_date": "2018-03-16"
+    }
+  ]
+}

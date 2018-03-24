@@ -1,0 +1,68 @@
+{
+  "artistName": "Jonas Brothers",
+  "features": [
+    {
+      "featuredArtist": "China McClain",
+      "featuredArtistId": "2C9Ep4OiIkA0TcQt877CNm",
+      "trackName": "誰よりも一番に",
+      "trackId": "1csOOSTgm7TdRpe3Z8mMUz",
+      "preview": "https://p.scdn.co/mp3-preview/4a6ac106cd11213d343587dcb7312e003ea49006?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d5a93b64ca1589f1649d7ad2d456fb2db5a89995",
+      "release_date": "2011-01-05"
+    },
+    {
+      "featuredArtist": "China Anne McClain",
+      "featuredArtistId": "6SvFyXN6qzhw95Bj4HoevV",
+      "trackName": "Your Biggest Fan",
+      "trackId": "6le4IgtphcTvRawgHYhZmU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/554cac277898c9da1fc6ebf9bebb4df4b3f73369",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Miley Cyrus",
+      "featuredArtistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Before the Storm (feat. Miley Cyrus)",
+      "trackId": "1FoedGHa77RoKiy5ph4z32",
+      "preview": "https://p.scdn.co/mp3-preview/d66e6e5346e2c21801399f4dd2165b2017ff910f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/489876ccc83d2b397f304d74dd605cca470f899b",
+      "release_date": "2009-06-14"
+    },
+    {
+      "featuredArtist": "Common",
+      "featuredArtistId": "2GHclqNVjqGuiE5mA7BEoc",
+      "trackName": "Don't Charge Me for the Crime (feat. Common)",
+      "trackId": "0jIuZ5CrQi4nojLXMZEIvb",
+      "preview": "https://p.scdn.co/mp3-preview/739609b0699a2c97f725d6dd769be258a4063e04?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/489876ccc83d2b397f304d74dd605cca470f899b",
+      "release_date": "2009-06-14"
+    },
+    {
+      "featuredArtist": "Demi Lovato",
+      "featuredArtistId": "6S2OmqARrzebs0tKUEyXyp",
+      "trackName": "This Is Me - Live Show / Event",
+      "trackId": "635fYmwiu9mD88sK5ogCD7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ddf13d36b68355d6d168d1656684c1f3432b892f",
+      "release_date": "2009-02-23"
+    },
+    {
+      "featuredArtist": "Taylor Swift",
+      "featuredArtistId": "06HL4z0CvFAxyc27GXpf02",
+      "trackName": "Should've Said No - Live Show / Event",
+      "trackId": "1ivrHPh32bxjXiXwXVLMSZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ddf13d36b68355d6d168d1656684c1f3432b892f",
+      "release_date": "2009-02-23"
+    },
+    {
+      "featuredArtist": "Hannah Montana",
+      "featuredArtistId": "7nU4hB040gTmHm45YYMvqc",
+      "trackName": "We Got The Party - Duet",
+      "trackId": "2QtkG91NriH0d1DaId3Xi3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/27ec265c29c7ac992946a46235079974c91ee380",
+      "release_date": "2008-01-01"
+    }
+  ]
+}

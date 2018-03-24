@@ -1,0 +1,131 @@
+{
+  "artistName": "Alvaro Soler",
+  "features": [
+    {
+      "featuredArtist": "Emma",
+      "featuredArtistId": "0gzwXezN4IUHAwLufA6YcX",
+      "trackName": "Libre - Italian Version",
+      "trackId": "2csHDBascG0BaedaDx0Nbi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8acc152c7c5ea943d0c681a6aefff70b22077722",
+      "release_date": "2016-07-15"
+    },
+    {
+      "featuredArtist": "Max Gazzé",
+      "featuredArtistId": "1h5O32I1o0VOnpLmKXLfRa",
+      "trackName": "Sonrio (La Vita Com'è)",
+      "trackId": "6kbG7hB1mpdUyr4yLvTSbH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8acc152c7c5ea943d0c681a6aefff70b22077722",
+      "release_date": "2016-07-15"
+    },
+    {
+      "featuredArtist": "Jennifer Lopez",
+      "featuredArtistId": "2DlGxzQSjYe5N6G9nkYghR",
+      "trackName": "El Mismo Sol (Under The Same Sun)",
+      "trackId": "47hBRHWzkb6ABg9cEDax2x",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8acc152c7c5ea943d0c681a6aefff70b22077722",
+      "release_date": "2016-07-15"
+    },
+    {
+      "featuredArtist": "Paty Cantú",
+      "featuredArtistId": "7K9rdoOJSiKXoVXPlSkGKT",
+      "trackName": "Libre",
+      "trackId": "02dY1ULr4NotAJOkrVGcMc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/42c966976ffc3d76a9d4a1e1858a11e333af0d86",
+      "release_date": "2016-07-15"
+    },
+    {
+      "featuredArtist": "Nils Faller",
+      "featuredArtistId": "0rTiwXDfk63MS7KqTRk8xY",
+      "trackName": "El Mismo Sol",
+      "trackId": "3kmYPyed00Maoo8UFP22SN",
+      "preview": "https://p.scdn.co/mp3-preview/f3fe5dd91693a40799c5a92574d6e298df9c0f18?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e854da67a1b1d8548844d872118121b7e3b8754",
+      "release_date": "2016-07-15"
+    },
+    {
+      "featuredArtist": "Morat",
+      "featuredArtistId": "5C4PDR4LnhZTbVnKWXuDKD",
+      "trackName": "Yo Contigo, Tú Conmigo - Mazay Remix / The Gong Gong Song",
+      "trackId": "3FhTYUGPM9IYYnZGXZa4QV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d9a2df1a6e19298fb24d7db153278c22d9457eab",
+      "release_date": "2017-11-01"
+    },
+    {
+      "featuredArtist": "Mazay",
+      "featuredArtistId": "0JdYBJ4ZLgZtxf1tW8aqJt",
+      "trackName": "Yo Contigo, Tú Conmigo - Mazay Remix / The Gong Gong Song",
+      "trackId": "3FhTYUGPM9IYYnZGXZa4QV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d9a2df1a6e19298fb24d7db153278c22d9457eab",
+      "release_date": "2017-11-01"
+    },
+    {
+      "featuredArtist": "DJ Katch",
+      "featuredArtistId": "1AAfkmCFRTSDg18GQ3itgl",
+      "trackName": "Animal - DJ Katch Remix",
+      "trackId": "7nG8COpem7ESEGYmWqsC3u",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52c673bba982bf8038074465bb919c2ad6ce951c",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Nando Pro",
+      "featuredArtistId": "0GrUkRFKHDVuYWLxUCa5O3",
+      "trackName": "Animal - Nando Pro Remix",
+      "trackId": "0zHmPlvkqIn3RIqc5UmD7s",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52c673bba982bf8038074465bb919c2ad6ce951c",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Adam Trigger",
+      "featuredArtistId": "6nXmnBpdFvzImqLQb3HBa9",
+      "trackName": "Animal - WBM Remix",
+      "trackId": "1kVw0kX0CB1iDY8ocZg1D4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52c673bba982bf8038074465bb919c2ad6ce951c",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Calyre",
+      "featuredArtistId": "6YNrJPlGQrrJFfkB6AuhfI",
+      "trackName": "Animal - Calyre Remix",
+      "trackId": "6CPSCXgETxb3sv54MR4BMa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52c673bba982bf8038074465bb919c2ad6ce951c",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Ramon Esteve",
+      "featuredArtistId": "7KknJ7RuatGLKZjytEnFK8",
+      "trackName": "Animal - Ramon Esteve Remix",
+      "trackId": "2foEGhgfOOeWBiStWmo5rr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52c673bba982bf8038074465bb919c2ad6ce951c",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "WBM",
+      "featuredArtistId": "4WMACPL1rOTORAqV8n23sw",
+      "trackName": "Animal - WBM Remix",
+      "trackId": "03QO3N4c9EdTNfqx2Nrqn4",
+      "preview": "https://p.scdn.co/mp3-preview/2bf843c46c54c59f662fc5a5477f615702082f52?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7906bc8d6d4adb0201c67ebbfc662b6f9d6faf6",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Monika Lewczuk",
+      "featuredArtistId": "2VF2TyrEMWX4IajxwKNPkX",
+      "trackName": "Libre",
+      "trackId": "0NisAzODdd7MxlXwJdBH9J",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/335e79934680ffbff6363efce7f24b0d644c975b",
+      "release_date": "2016-12-02"
+    }
+  ]
+}

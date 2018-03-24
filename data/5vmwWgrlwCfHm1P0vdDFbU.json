@@ -1,0 +1,32 @@
+{
+  "artistName": "Maan",
+  "features": [
+    {
+      "featuredArtist": "Ronnie Flex",
+      "featuredArtistId": "5eir5zFJpES4j7gsymbVyl",
+      "trackName": "Blijf Bij Mij",
+      "trackId": "7EyvmcYx7WzeBi2cY9RmIi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/989fead1e63cad3ae5024c1fa6acddd045cedbb4",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Angelo King",
+      "featuredArtistId": "1Q0kuvgP9fC9Y5OCP1mzOV",
+      "trackName": "He Ain´t You",
+      "trackId": "4gNgNm7S3jcAPpmEVPHnqT",
+      "preview": "https://p.scdn.co/mp3-preview/37366f5bccdca8f0d7dabc0ed067f8b7b0fce218?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/351ca5eaf4c96cc389f35808237f61fba3be337f",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "$hirak",
+      "featuredArtistId": "1uUuCEXmWpKN2YLl5xSoT2",
+      "trackName": "DJ",
+      "trackId": "1GLRKQSRT0lZBM3esUYlbH",
+      "preview": "https://p.scdn.co/mp3-preview/000eaa520f2ee0293ecd2d613a2494c59669a38e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f7eeb7048e5a0cd19c26d437ebfcc1d0d2476c48",
+      "release_date": "2016-07-15"
+    }
+  ]
+}

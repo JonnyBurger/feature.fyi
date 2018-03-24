@@ -1,0 +1,617 @@
+{
+  "artistName": "Lecrae",
+  "features": [
+    {
+      "featuredArtist": "Ty Dolla $ign",
+      "featuredArtistId": "7c0XG5cIJTrrAgEC3ULPiq",
+      "trackName": "Blessings",
+      "trackId": "56vMywhKow2JM8lW6iLn7x",
+      "preview": "https://p.scdn.co/mp3-preview/6f8e7312fb703b89bcfbe0314939f24d508ff69c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab3d024fb642a186881f1381d02182e5fc2e535",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Aha Gazelle",
+      "featuredArtistId": "7suLW93RkuQKWb4WTI5F14",
+      "trackName": "Whatchu Mean",
+      "trackId": "4tEnwJD6qaFF9B7AEZYtof",
+      "preview": "https://p.scdn.co/mp3-preview/b86d1b0f7a978f609b879b49b679c4b2a84bb5a1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab3d024fb642a186881f1381d02182e5fc2e535",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "1K Phew",
+      "featuredArtistId": "6CQGrt3AJ2gx5oMSR0mwbl",
+      "trackName": "Hammer Time",
+      "trackId": "5QgQeBU5kzNL93xWBfAoj6",
+      "preview": "https://p.scdn.co/mp3-preview/41fdc20566f7b0eb92aaab8b019fd470beead313?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab3d024fb642a186881f1381d02182e5fc2e535",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Nija",
+      "featuredArtistId": "2X6HwtMk1Za9PdPc7XHne5",
+      "trackName": "Lucked Up",
+      "trackId": "1HiJBQgR00UltPnoRWHjiM",
+      "preview": "https://p.scdn.co/mp3-preview/e2a7f9c6c9423aa7c1f13f0a7ed309c43470e763?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab3d024fb642a186881f1381d02182e5fc2e535",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Verse Simmonds",
+      "featuredArtistId": "0EgUow5z0SXVA9lunNSB1q",
+      "trackName": "Wish You the Best",
+      "trackId": "6aHpsjOqEHs3oMaA1kxqhs",
+      "preview": "https://p.scdn.co/mp3-preview/a6bc1bc71e75a0f9fc50bc435e4ebaa67a409e51?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab3d024fb642a186881f1381d02182e5fc2e535",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Tori Kelly",
+      "featuredArtistId": "1vSN1fsvrzpbttOYGsliDr",
+      "trackName": "I'll Find You",
+      "trackId": "6m60IwLIkZ2Fmz4J9FsQ1o",
+      "preview": "https://p.scdn.co/mp3-preview/912f0ee7dc82b8806c5ddf4630b0d07addb32c24?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab3d024fb642a186881f1381d02182e5fc2e535",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Taylor Hill",
+      "featuredArtistId": "5enXh7VYtH8x63M7coq9tJ",
+      "trackName": "Cry For You",
+      "trackId": "3wJJPeMhR7A8t2AkCoP9Ma",
+      "preview": "https://p.scdn.co/mp3-preview/ac6a77f49f9399aecc5824e27618d12afda38b12?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab3d024fb642a186881f1381d02182e5fc2e535",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Kierra Sheard",
+      "featuredArtistId": "4x3CdMQ3YjnPn4Evhyni5y",
+      "trackName": "Worth It",
+      "trackId": "3qa9CI4W8SQf85VZzi7GIQ",
+      "preview": "https://p.scdn.co/mp3-preview/ea638eb8a4de15e5935ef790a5c41720ddf6af25?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab3d024fb642a186881f1381d02182e5fc2e535",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Jawan Harris",
+      "featuredArtistId": "1zWtqUs1JpL98hWc6B8DtA",
+      "trackName": "Worth It",
+      "trackId": "3qa9CI4W8SQf85VZzi7GIQ",
+      "preview": "https://p.scdn.co/mp3-preview/ea638eb8a4de15e5935ef790a5c41720ddf6af25?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab3d024fb642a186881f1381d02182e5fc2e535",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "N'Dambi",
+      "featuredArtistId": "3Qq0yiyJZJu8L2PS5zpFVX",
+      "trackName": "Freedom (feat. N'dambi)",
+      "trackId": "0d66CoEc0uDAZFuzeob6YM",
+      "preview": "https://p.scdn.co/mp3-preview/7635ea227218ee1ff31acbfa292ac6023adf6564?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e65cfea22479f5d8b32a768e4aeed84977dffd4",
+      "release_date": "2016-01-15"
+    },
+    {
+      "featuredArtist": "Propaganda",
+      "featuredArtistId": "7wGizTRCLYwsLnTuCBbJ6t",
+      "trackName": "Gangland (feat. Propaganda)",
+      "trackId": "4N7D0eXvaYsfhXYzMqI8y0",
+      "preview": "https://p.scdn.co/mp3-preview/ebc4004860c21300a84c9ffcb8617828757b244e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e65cfea22479f5d8b32a768e4aeed84977dffd4",
+      "release_date": "2016-01-15"
+    },
+    {
+      "featuredArtist": "E-40",
+      "featuredArtistId": "3crnzLy8R4lVwaigKEOz7V",
+      "trackName": "Can't Do You (feat. E-40)",
+      "trackId": "3oyDCyYFhWRrK5lDLX9hXt",
+      "preview": "https://p.scdn.co/mp3-preview/0553443f2bce708f0875c7f27f8809712e3b08c3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e65cfea22479f5d8b32a768e4aeed84977dffd4",
+      "release_date": "2016-01-15"
+    },
+    {
+      "featuredArtist": "John Givez",
+      "featuredArtistId": "2RhGXxsDpB0eB122Ce3WYB",
+      "trackName": "Misconceptions 3 (feat. John Givez, Jgivens & Jackie Hill Perry)",
+      "trackId": "2oU4PycaK1AWf9dpQAE98E",
+      "preview": "https://p.scdn.co/mp3-preview/e0da9e7548d6126aeb34d979d7684e259757d769?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e65cfea22479f5d8b32a768e4aeed84977dffd4",
+      "release_date": "2016-01-15"
+    },
+    {
+      "featuredArtist": "JGivens",
+      "featuredArtistId": "1Xq1gv1FyECCWgSyTP0dN3",
+      "trackName": "Misconceptions 3 (feat. John Givez, Jgivens & Jackie Hill Perry)",
+      "trackId": "2oU4PycaK1AWf9dpQAE98E",
+      "preview": "https://p.scdn.co/mp3-preview/e0da9e7548d6126aeb34d979d7684e259757d769?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e65cfea22479f5d8b32a768e4aeed84977dffd4",
+      "release_date": "2016-01-15"
+    },
+    {
+      "featuredArtist": "Jackie Hill Perry",
+      "featuredArtistId": "0Lf9qKpKwy6fJtfM7UWLV0",
+      "trackName": "Misconceptions 3 (feat. John Givez, Jgivens & Jackie Hill Perry)",
+      "trackId": "2oU4PycaK1AWf9dpQAE98E",
+      "preview": "https://p.scdn.co/mp3-preview/e0da9e7548d6126aeb34d979d7684e259757d769?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e65cfea22479f5d8b32a768e4aeed84977dffd4",
+      "release_date": "2016-01-15"
+    },
+    {
+      "featuredArtist": "KB",
+      "featuredArtistId": "77IKXFvO7SpWrq8hflrUXc",
+      "trackName": "I Wouldn't Know (feat. Kb)",
+      "trackId": "7KgDhiE9OUGGZaUDFAZlMx",
+      "preview": "https://p.scdn.co/mp3-preview/b2a9c75166c472ffe145b1a4505215ad47362b92?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e65cfea22479f5d8b32a768e4aeed84977dffd4",
+      "release_date": "2016-01-15"
+    },
+    {
+      "featuredArtist": "Andy Mineo",
+      "featuredArtistId": "1TMrnxBwZfmfRxsGzkNIHw",
+      "trackName": "Say I Won't",
+      "trackId": "1B3wni0sggmsNEj9ElSNBv",
+      "preview": "https://p.scdn.co/mp3-preview/a35bdf521e32a18ffa51ad5987aa82db69bfb42d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8101e6e9a4c2322bdc9fddb42140ef3839144e5d",
+      "release_date": "2014-09-09"
+    },
+    {
+      "featuredArtist": "Crystal Nicole",
+      "featuredArtistId": "364Dr4NZu27f3AzS79o1SN",
+      "trackName": "Give In",
+      "trackId": "5RePFldQaYKHcZ4sLYg88a",
+      "preview": "https://p.scdn.co/mp3-preview/efc284a57f41d4ddd18dc54cbc080e1e9ae7b34e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8101e6e9a4c2322bdc9fddb42140ef3839144e5d",
+      "release_date": "2014-09-09"
+    },
+    {
+      "featuredArtist": "Kari Jobe",
+      "featuredArtistId": "5XlSS9O4eHRiJ0hKzbaFQ2",
+      "trackName": "Broken",
+      "trackId": "7nyJD7x8cpEm9hkymZeS9g",
+      "preview": "https://p.scdn.co/mp3-preview/476481db7e3632997e1e11b81473f6d652ceb8c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8101e6e9a4c2322bdc9fddb42140ef3839144e5d",
+      "release_date": "2014-09-09"
+    },
+    {
+      "featuredArtist": "for KING & COUNTRY",
+      "featuredArtistId": "3sDbKMebVH2VYcRSl7u1VC",
+      "trackName": "Messengers",
+      "trackId": "0AjAZHENBL385g7UhiStxb",
+      "preview": "https://p.scdn.co/mp3-preview/54defa779689964e6a44352aec50712400b9e448?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8101e6e9a4c2322bdc9fddb42140ef3839144e5d",
+      "release_date": "2014-09-09"
+    },
+    {
+      "featuredArtist": "Thi'sl",
+      "featuredArtistId": "1Q45nhioxaxZTDjR0iaMWp",
+      "trackName": "Apb (feat. Th'sl')",
+      "trackId": "0CtCltCT3VN4Uj6lpvkFXs",
+      "preview": "https://p.scdn.co/mp3-preview/894dc1630c380090de022c0df5050fa63f609904?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32d3e8f0ead130dc2f4edc6566d7d4c8c97f08d0",
+      "release_date": "2014-04-09"
+    },
+    {
+      "featuredArtist": "Tasha Catour",
+      "featuredArtistId": "1MYtt2sO0GF30bBYjpxfTC",
+      "trackName": "Cold World (feat. Tasha Catour)",
+      "trackId": "49JdSCYvo2EYlyvT9O4z0k",
+      "preview": "https://p.scdn.co/mp3-preview/70aea3a8c64b36968d146b243233036ae746d81b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32d3e8f0ead130dc2f4edc6566d7d4c8c97f08d0",
+      "release_date": "2014-04-09"
+    },
+    {
+      "featuredArtist": "Lester \"L2\" Shaw",
+      "featuredArtistId": "38RGkROxUN4fqRiVmpGQzJ",
+      "trackName": "Special (feat. Lester \"L2\" Shaw)",
+      "trackId": "2QgfIP7a0CWV6SeqAE7CDA",
+      "preview": "https://p.scdn.co/mp3-preview/9e2086509568394a047258b669f1a9dc50e64925?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32d3e8f0ead130dc2f4edc6566d7d4c8c97f08d0",
+      "release_date": "2014-04-09"
+    },
+    {
+      "featuredArtist": "Suzy Rock",
+      "featuredArtistId": "5f4TpQdpCTgE1nmUpy2Sqx",
+      "trackName": "No Regrets (feat. Suzy Rock)",
+      "trackId": "3AT8futZLFNDltA6jZAPk4",
+      "preview": "https://p.scdn.co/mp3-preview/ba1bf303e9c4b3eb6cc4a3e8f4ef922d81549f53?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32d3e8f0ead130dc2f4edc6566d7d4c8c97f08d0",
+      "release_date": "2014-04-09"
+    },
+    {
+      "featuredArtist": "Propaganda",
+      "featuredArtistId": "28yIUgPYZqgJoNZjeBvrHn",
+      "trackName": "Misconception (feat. Propaganda, Beautiful Eulogy and DJ Efechto)",
+      "trackId": "0kePxGMxbqX0NREWZLXBuT",
+      "preview": "https://p.scdn.co/mp3-preview/e69caa799cd769d25a45cdb88f1952fe658b4e01?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32d3e8f0ead130dc2f4edc6566d7d4c8c97f08d0",
+      "release_date": "2014-04-09"
+    },
+    {
+      "featuredArtist": "Beautiful Eulogy",
+      "featuredArtistId": "1aoAseexNuwSuXVAGPfLex",
+      "trackName": "Misconception (feat. Propaganda, Beautiful Eulogy and DJ Efechto)",
+      "trackId": "0kePxGMxbqX0NREWZLXBuT",
+      "preview": "https://p.scdn.co/mp3-preview/e69caa799cd769d25a45cdb88f1952fe658b4e01?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32d3e8f0ead130dc2f4edc6566d7d4c8c97f08d0",
+      "release_date": "2014-04-09"
+    },
+    {
+      "featuredArtist": "DJ Efechto",
+      "featuredArtistId": "3URMfrDdC2LRia3gcWlpG1",
+      "trackName": "Misconception (feat. Propaganda, Beautiful Eulogy and DJ Efechto)",
+      "trackId": "0kePxGMxbqX0NREWZLXBuT",
+      "preview": "https://p.scdn.co/mp3-preview/e69caa799cd769d25a45cdb88f1952fe658b4e01?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32d3e8f0ead130dc2f4edc6566d7d4c8c97f08d0",
+      "release_date": "2014-04-09"
+    },
+    {
+      "featuredArtist": "Christon Gray",
+      "featuredArtistId": "0gOMnWbGP52F3paKcp5Ts2",
+      "trackName": "Rejects (feat. Christon Gray)",
+      "trackId": "1y8XAcNqa542HMMAJ21cW2",
+      "preview": "https://p.scdn.co/mp3-preview/e80007de068d122922fa12094edfb357bf97c456?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32d3e8f0ead130dc2f4edc6566d7d4c8c97f08d0",
+      "release_date": "2014-04-09"
+    },
+    {
+      "featuredArtist": "Kevin Ross",
+      "featuredArtistId": "3u23W2UDi5M7K67OdIx0wc",
+      "trackName": "Devil in Disguise",
+      "trackId": "3AKYdZbteaZmF0PfPzeq3j",
+      "preview": "https://p.scdn.co/mp3-preview/3b938ed6b56e3ffda56e4d0bbfbf72ae0960a026?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac93ba09e2d8df15975650447255678d12fdaf41",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Papa San",
+      "featuredArtistId": "06eDTSeVX3k8W5bNAbnF9a",
+      "trackName": "The Fever",
+      "trackId": "7cLZLMEYbpG0QrcMuutNXX",
+      "preview": "https://p.scdn.co/mp3-preview/e3830a3a2c0d8eef1da90afb06cfdec20a162db2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac93ba09e2d8df15975650447255678d12fdaf41",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Paul Wall",
+      "featuredArtistId": "0k7Xl1pqI3tu8sSEjo5oEg",
+      "trackName": "Let It Whip",
+      "trackId": "6pB79zf8zQwvWvyQWxPCCs",
+      "preview": "https://p.scdn.co/mp3-preview/5c5d4b557535069e0c4d41204af5478284c81b6a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac93ba09e2d8df15975650447255678d12fdaf41",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "King Mez",
+      "featuredArtistId": "30C5wgn4celhRP3Tytv7R6",
+      "trackName": "Lost My Way",
+      "trackId": "511KeYB5S6hdTpDjk7SYYC",
+      "preview": "https://p.scdn.co/mp3-preview/87a3fa641691504cc36ee5198b633e1f57015a04?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac93ba09e2d8df15975650447255678d12fdaf41",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Daniel Day",
+      "featuredArtistId": "7AgUzrbqewIufYXx34fTvH",
+      "trackName": "Lost My Way",
+      "trackId": "511KeYB5S6hdTpDjk7SYYC",
+      "preview": "https://p.scdn.co/mp3-preview/87a3fa641691504cc36ee5198b633e1f57015a04?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac93ba09e2d8df15975650447255678d12fdaf41",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Derek Minor",
+      "featuredArtistId": "3fn8lZLy7Q61AXCWWPYC4B",
+      "trackName": "Was It Worth It",
+      "trackId": "6dEuMJt5hNeHwgTz4yK0Zk",
+      "preview": "https://p.scdn.co/mp3-preview/b77069a21c813f3fe7ea52d64f7f43e18412e18c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac93ba09e2d8df15975650447255678d12fdaf41",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Tedashii",
+      "featuredArtistId": "4c6lhwoOrmgNWvl0GxHlW1",
+      "trackName": "Finer Things",
+      "trackId": "5w3Bb2NGEbDvNZ61pozc2a",
+      "preview": "https://p.scdn.co/mp3-preview/e8eb70a7eabc968b6ba3e23d6b0aaf7d5377809c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac93ba09e2d8df15975650447255678d12fdaf41",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Propaganda",
+      "featuredArtistId": "1CW22g5tscyuqyeszR4CsC",
+      "trackName": "Hands Up",
+      "trackId": "3HmdTq0LpP6sMMinqdSd2A",
+      "preview": "https://p.scdn.co/mp3-preview/863dbab099358491b0bcfab0577eb5ad6ff468e3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac93ba09e2d8df15975650447255678d12fdaf41",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Novel",
+      "featuredArtistId": "4qWg5jeP68UR6en7nZnZ2i",
+      "trackName": "If I Die Tonight",
+      "trackId": "2BmHoiphKG75tQeHW5zy8P",
+      "preview": "https://p.scdn.co/mp3-preview/727539b4175e12b0bc33dcb5d4b93e3a08df8efb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac93ba09e2d8df15975650447255678d12fdaf41",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "J.R.",
+      "featuredArtistId": "1gkN5N1Npacwm1QsSsVonK",
+      "trackName": "Gravity (feat. J.R.)",
+      "trackId": "4XIZSurKn4riLC4FAFTvcU",
+      "preview": "https://p.scdn.co/mp3-preview/758a56f85327e1837b17d56776c6812270dbb8d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a242053b1ba39936d22ba01b7950b0a0cd25e7ab",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Mathai",
+      "featuredArtistId": "6mE9Iem2imVWoxLIREwyKs",
+      "trackName": "Free from It All (feat. Mathai)",
+      "trackId": "4oQt5Yp0qL4u3HSFWxEJpZ",
+      "preview": "https://p.scdn.co/mp3-preview/dcfb3071d87c82f0186927ece9d1645eb0f8fecf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a242053b1ba39936d22ba01b7950b0a0cd25e7ab",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Swoope",
+      "featuredArtistId": "78ZdtwvDD5zTElro6EGkcU",
+      "trackName": "Falling Down (feat. Swoope)",
+      "trackId": "7nEG6Odrw1VFixEw1cay5n",
+      "preview": "https://p.scdn.co/mp3-preview/4cee472eab5af1b52f2238da3a3bd402845c3768?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a242053b1ba39936d22ba01b7950b0a0cd25e7ab",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Big K.R.I.T.",
+      "featuredArtistId": "0CKa42Jqrc9fSFbDjePaXP",
+      "trackName": "Mayday (feat. Big K.R.I.T. And Ashthon Jones)",
+      "trackId": "1W1SxxyjdW9m7ysY0giJoJ",
+      "preview": "https://p.scdn.co/mp3-preview/2d76f743f62fe301f6a292cc119fb01fbb6f556c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a242053b1ba39936d22ba01b7950b0a0cd25e7ab",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Ashthon Jones",
+      "featuredArtistId": "25fP17zvQzbUekVdVmDAC3",
+      "trackName": "Mayday (feat. Big K.R.I.T. And Ashthon Jones)",
+      "trackId": "1W1SxxyjdW9m7ysY0giJoJ",
+      "preview": "https://p.scdn.co/mp3-preview/2d76f743f62fe301f6a292cc119fb01fbb6f556c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a242053b1ba39936d22ba01b7950b0a0cd25e7ab",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Sho Baraka",
+      "featuredArtistId": "3dpswct31rsudWf8ZASWZe",
+      "trackName": "Power Trip (feat. Derek Minor, Sho Baraka and Andy Mineo)",
+      "trackId": "6QMnO6LxL0Jkm3Sfkyrb5d",
+      "preview": "https://p.scdn.co/mp3-preview/afa848d8dc7d4e35a26e87517994492656910cf8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a242053b1ba39936d22ba01b7950b0a0cd25e7ab",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Mali Music",
+      "featuredArtistId": "4S4kD5NBlgaq4YLBQSEMyY",
+      "trackName": "Tell the World (feat. Mali Music)",
+      "trackId": "7h5hrfMUhff3LKjTj26w8Y",
+      "preview": "https://p.scdn.co/mp3-preview/ea41ee2a8f0277075dc30baaa52f1c848f6623b5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a242053b1ba39936d22ba01b7950b0a0cd25e7ab",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Rudy Currence",
+      "featuredArtistId": "1XjkqiNiTkbF2FOEDMNqC8",
+      "trackName": "Lucky Ones (feat. Rudy Currence)",
+      "trackId": "3zbfV1HSbkOAVX9iRhK2a7",
+      "preview": "https://p.scdn.co/mp3-preview/59df4fa0bda5f54633faffa569e215ed2d9abd4f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a242053b1ba39936d22ba01b7950b0a0cd25e7ab",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Trip Lee",
+      "featuredArtistId": "12H1Dmi64fAmmARrsyVFzy",
+      "trackName": "Falling Down (feat. Swoope and Trip Lee)",
+      "trackId": "3k23E2Jj1twgBuSpMNgIQh",
+      "preview": "https://p.scdn.co/mp3-preview/4cee472eab5af1b52f2238da3a3bd402845c3768?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/17cb5110eac99813fb425dd781f4977b0081f313",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Tenth Avenue North",
+      "featuredArtistId": "7v35CkHBaT1SStgQHl95a0",
+      "trackName": "Higher (feat. Tenth Avenue North)",
+      "trackId": "31beptBRCGBDQFv4rMVZbT",
+      "preview": "https://p.scdn.co/mp3-preview/c917c1ffa17001b314448f8e52834345b56f1cfe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/17cb5110eac99813fb425dd781f4977b0081f313",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Canon",
+      "featuredArtistId": "1dIjbaW9JTTQQ7ufrQnGsq",
+      "trackName": "Blow Your High (feat. Canon)",
+      "trackId": "3T6hWrGsQh7NtFOzr7zMTL",
+      "preview": "https://p.scdn.co/mp3-preview/364ac8b02bfddb742dfc396deef8ad4ec7f55d7d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3f507799fd2dad3d82996243c33d8bd5fe064b1",
+      "release_date": "2011"
+    },
+    {
+      "featuredArtist": "J. Paul",
+      "featuredArtistId": "7jmP2ZejmiclTo76ZF2D9R",
+      "trackName": "The Good Life (feat. J. Paul)",
+      "trackId": "56sEiyKs4TuVsNiazlnq0E",
+      "preview": "https://p.scdn.co/mp3-preview/77549c9fe83bced11b4901d74096975b314dde65?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3f507799fd2dad3d82996243c33d8bd5fe064b1",
+      "release_date": "2011"
+    },
+    {
+      "featuredArtist": "J.Paul",
+      "featuredArtistId": "0OjaunICmVM1HCt9RSJjkS",
+      "trackName": "Just Like You (feat. J. Paul)",
+      "trackId": "4PTgLEsV0JCNjDj33Cwg7b",
+      "preview": "https://p.scdn.co/mp3-preview/5c8020015ebe703c40c1fc588738d8060b6b6404?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4347ea1f4fab1e8bca0e6ba0043ae859fb6958b2",
+      "release_date": "2010"
+    },
+    {
+      "featuredArtist": "Benjah",
+      "featuredArtistId": "5qJjtRftP42zv3LBnIzOEr",
+      "trackName": "Gotta Know (feat. Benjah)",
+      "trackId": "7GGPP3Pboie3xgBqFfrlP6",
+      "preview": "https://p.scdn.co/mp3-preview/fb4c80202aec04de9cfaec7e396455608608c216?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4347ea1f4fab1e8bca0e6ba0043ae859fb6958b2",
+      "release_date": "2010"
+    },
+    {
+      "featuredArtist": "KB",
+      "featuredArtistId": "1Jhw0UuIFdi4LCXHQKYX3K",
+      "trackName": "Used to Do It Too (feat. Kb)",
+      "trackId": "3BHd0eOz6zR1FqpxuVE7H9",
+      "preview": "https://p.scdn.co/mp3-preview/42dcb70c3ef2a42619632de51ce6e3058d8dbb68?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4347ea1f4fab1e8bca0e6ba0043ae859fb6958b2",
+      "release_date": "2010"
+    },
+    {
+      "featuredArtist": "Sonny Sandoval",
+      "featuredArtistId": "0aKUHdp1gJhQ6mpZcJLd4L",
+      "trackName": "Children of the Light (feat. Sonny Sandoval and Dillavou)",
+      "trackId": "1ICVBSQ3F05iZhQMVD1SDZ",
+      "preview": "https://p.scdn.co/mp3-preview/4d5af4e8f53b075b8e59d1c0a3610b9724047cb7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4347ea1f4fab1e8bca0e6ba0043ae859fb6958b2",
+      "release_date": "2010"
+    },
+    {
+      "featuredArtist": "Dillavou",
+      "featuredArtistId": "4oOHuPhumOFsxrlJ1cCPVL",
+      "trackName": "Children of the Light (feat. Sonny Sandoval and Dillavou)",
+      "trackId": "1ICVBSQ3F05iZhQMVD1SDZ",
+      "preview": "https://p.scdn.co/mp3-preview/4d5af4e8f53b075b8e59d1c0a3610b9724047cb7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4347ea1f4fab1e8bca0e6ba0043ae859fb6958b2",
+      "release_date": "2010"
+    },
+    {
+      "featuredArtist": "Flame",
+      "featuredArtistId": "2s6kyMmJZFgPCHXU0QxJLp",
+      "trackName": "God Is Enough (feat. Flame)",
+      "trackId": "3KZcvcCLWRk3dXACe76C7J",
+      "preview": "https://p.scdn.co/mp3-preview/0f5850f63b626d60b98bba21a8435921312dee70?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4347ea1f4fab1e8bca0e6ba0043ae859fb6958b2",
+      "release_date": "2010"
+    },
+    {
+      "featuredArtist": "Anthony Evans",
+      "featuredArtistId": "6qL5lCa1VbCzWiVgnj6QIV",
+      "trackName": "Boasting (feat. Anthony Evens)",
+      "trackId": "1UvCutaaMRZd9sZJEviLwL",
+      "preview": "https://p.scdn.co/mp3-preview/3de2096d0583ec9b906976c81c5fcaa48a03002c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4347ea1f4fab1e8bca0e6ba0043ae859fb6958b2",
+      "release_date": "2010"
+    },
+    {
+      "featuredArtist": "Chinua Hawk",
+      "featuredArtistId": "3yFaxa4x4nRE2XLpBqQTn0",
+      "trackName": "New Reality (feat. Chinua Hawk)",
+      "trackId": "5j4vnlS01drA4GPtKZRAEe",
+      "preview": "https://p.scdn.co/mp3-preview/bd42c5ba3e686892352328fee2f1e64cf6b1c295?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4347ea1f4fab1e8bca0e6ba0043ae859fb6958b2",
+      "release_date": "2010"
+    },
+    {
+      "featuredArtist": "Chris Lee",
+      "featuredArtistId": "6R3ry4a44N0sQnNpEPXPmj",
+      "trackName": "Release Date (feat. Chris Lee)",
+      "trackId": "7MFFSWa8m7PPd9qVoEDL1r",
+      "preview": "https://p.scdn.co/mp3-preview/f466781df0ee475ab143151fdf2c5341b9948d58?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4347ea1f4fab1e8bca0e6ba0043ae859fb6958b2",
+      "release_date": "2010"
+    },
+    {
+      "featuredArtist": "Dwayne Tryumf",
+      "featuredArtistId": "75sReJhZ3hjZctu6vtoGj6",
+      "trackName": "Don't Waste Your Life (feat. Dwayne Tryumf)",
+      "trackId": "7xM4Ny5YXpRtFqaqa2nhhg",
+      "preview": "https://p.scdn.co/mp3-preview/5ad7ae64c5767507d5e31f4307310de3999eff03?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7ca397d0de772e794977216e5a90f66fcfa510d0",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Da' T.R.U.T.H.",
+      "featuredArtistId": "2ISIE0MEDMdAF2LDMLrVD4",
+      "trackName": "Identity (feat. Da Truth and J.R.)",
+      "trackId": "0be3WqzR9t1mcJlo9hQdLW",
+      "preview": "https://p.scdn.co/mp3-preview/0ac5b123692e7fd6c6b9c377d7947bb6f8a44dbd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7ca397d0de772e794977216e5a90f66fcfa510d0",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Cam",
+      "featuredArtistId": "3ifx1iUgnyFNX4ej6s9uIF",
+      "trackName": "Desperate (feat. Cam)",
+      "trackId": "7F9NdUZIA42oGkO1TfzyVK",
+      "preview": "https://p.scdn.co/mp3-preview/b56a50d719646b747c0a5027b4430bc9f5b2ad3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7ca397d0de772e794977216e5a90f66fcfa510d0",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Jai",
+      "featuredArtistId": "3uHnfXxUrnPq1XYw8t8Sz2",
+      "trackName": "Live Free (feat. Sho Baraka and Jai)",
+      "trackId": "52arVDZtLzu1OHERnvWDcK",
+      "preview": "https://p.scdn.co/mp3-preview/891a58171cca0e5038b6d54def5b8903d1b1ca4c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7ca397d0de772e794977216e5a90f66fcfa510d0",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Dawntoya",
+      "featuredArtistId": "6bxsjo3XExhzTN3N26OaLj",
+      "trackName": "Beautiful Feet (feat. Dawntoya)",
+      "trackId": "0LE78Vc2uRTRsNZx18BkIF",
+      "preview": "https://p.scdn.co/mp3-preview/b8ed39515c43f3d5d4ea0d4a67539fae245e1aae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7ca397d0de772e794977216e5a90f66fcfa510d0",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Diamone",
+      "featuredArtistId": "45njDhpovIoLuGPBUgy3Yr",
+      "trackName": "I Did It for You",
+      "trackId": "3wQA3JV0BgU0gmnJvJmrLp",
+      "preview": "https://p.scdn.co/mp3-preview/3f9b21f5e4bc944e4377745ebea6d77881dfb1ed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/deb06d26943ea885d424c690cf56e8ec9a23b736",
+      "release_date": "2006"
+    },
+    {
+      "featuredArtist": "Redeemed Thought",
+      "featuredArtistId": "578AoGutM9RBwdel2OzfSq",
+      "trackName": "It's Your World",
+      "trackId": "19Vmcix2frZcF5l9dwiW3i",
+      "preview": "https://p.scdn.co/mp3-preview/c7982e0a3e1649bde352bd70310e2c19d81b3dc5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/deb06d26943ea885d424c690cf56e8ec9a23b736",
+      "release_date": "2006"
+    },
+    {
+      "featuredArtist": "R. Swift",
+      "featuredArtistId": "37nS8Tj9Txd51aKMurioAB",
+      "trackName": "We Don't (feat. R. Swift)",
+      "trackId": "0CyfdslI5DeB1tb1jQzbFv",
+      "preview": "https://p.scdn.co/mp3-preview/69bd3dc2531595d2325477f6f4e5c324aa66eff9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/06ec8e50aa272318ce612c413789e80afd60ff51",
+      "release_date": "2006"
+    },
+    {
+      "featuredArtist": "Steven Carter",
+      "featuredArtistId": "34CNsyGVCk60gOMy7Aunve",
+      "trackName": "Wait (feat. Steven Carter)",
+      "trackId": "5vEk6Eak5a92tjFb8EvCfi",
+      "preview": "https://p.scdn.co/mp3-preview/da4370789b12fcfeb850f75582068ee5cb7deb5d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/06ec8e50aa272318ce612c413789e80afd60ff51",
+      "release_date": "2006"
+    },
+    {
+      "featuredArtist": "Breyan Isaac",
+      "featuredArtistId": "7zB3sqh32x7ULPugGSDXH8",
+      "trackName": "River Of Jordan (feat. Breyan Isaac)",
+      "trackId": "1IOviFOl67qUCEw54oRmDn",
+      "preview": "https://p.scdn.co/mp3-preview/da7a29da67f7707a5c945c8eb2a38d55c8b16d43?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/06976979b4098f0270aa12c8f25ce5e25f647083",
+      "release_date": "2017-02-17"
+    }
+  ]
+}

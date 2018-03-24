@@ -1,0 +1,50 @@
+{
+  "artistName": "Zeeba",
+  "features": [
+    {
+      "featuredArtist": "Dimmi",
+      "featuredArtistId": "7HIN94LvSDgxN5RoOLi3E5",
+      "trackName": "Found U - Kav Verhouzer Remix",
+      "trackId": "21O6Ouy4HVC9Krb6Qb4F7x",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/18035152079f1d21f920f8abf97e3089d1b65d60",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Kav Verhouzer",
+      "featuredArtistId": "1yYBD4cVxCxXQXi4QGZfSo",
+      "trackName": "Found U - Kav Verhouzer Remix",
+      "trackId": "21O6Ouy4HVC9Krb6Qb4F7x",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/18035152079f1d21f920f8abf97e3089d1b65d60",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Bruno Martini",
+      "featuredArtistId": "5veVxxPm1vzgi6pO2iVA8L",
+      "trackName": "With Me - Extended Version",
+      "trackId": "0YBRztKtjzE5sbarzmqe16",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e4198eb26469db2c0b307f799961d3d348de9cdc",
+      "release_date": "2018-01-26"
+    },
+    {
+      "featuredArtist": "Dazzo",
+      "featuredArtistId": "4YFStjXKeO2UA4phDIVVT4",
+      "trackName": "With Me - Dazzo & Bruno Martini Remix",
+      "trackId": "27BjjcWP0WlrvuAMxLjt4p",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e4198eb26469db2c0b307f799961d3d348de9cdc",
+      "release_date": "2018-01-26"
+    },
+    {
+      "featuredArtist": "Alok",
+      "featuredArtistId": "0NGAZxHanS9e0iNHpR8f2W",
+      "trackName": "Never Let Me Go",
+      "trackId": "1Zp7mNLp3Q3jeOA0TEl4PI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8c9a6ad215fad94c0cf596b3f674d2e88eea0395",
+      "release_date": "2017-05-05"
+    }
+  ]
+}

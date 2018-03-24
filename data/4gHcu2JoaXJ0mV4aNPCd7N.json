@@ -1,0 +1,86 @@
+{
+  "artistName": "Benny Sings",
+  "features": [
+    {
+      "featuredArtist": "GoldLink",
+      "featuredArtistId": "5XenQ7XfcvQdfIbpLEFaKQ",
+      "trackName": "You and Me",
+      "trackId": "7EVGHwpReYjqSOSllFPGmy",
+      "preview": "https://p.scdn.co/mp3-preview/9de8806bb357ca522fa0f59a5a5bf15f44659a7f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/23bc9329dd396448eaab9eedcdab1d48793dce3c",
+      "release_date": "2015-11-27"
+    },
+    {
+      "featuredArtist": "Mayer Hawthorne",
+      "featuredArtistId": "4d53BMrRlQkrQMz5d59f2O",
+      "trackName": "Shoebox Money",
+      "trackId": "392si7dIwVFYyJx07qBh4x",
+      "preview": "https://p.scdn.co/mp3-preview/1b1eba5a0b5a8233c9c274dfb6912c5976ae0437?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/23bc9329dd396448eaab9eedcdab1d48793dce3c",
+      "release_date": "2015-11-27"
+    },
+    {
+      "featuredArtist": "ゴールドリンク",
+      "featuredArtistId": "5WBSrkCh55Jd9hwilIpmBn",
+      "trackName": "You And Me Feat. Goldlink",
+      "trackId": "4voueqnOGPE8caU0SobKgS",
+      "preview": "https://p.scdn.co/mp3-preview/09bca84ee206da3641f9017b14f19d7762158886?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7f90e54614ccb5cefb53a296fea2fc89d5b794a5",
+      "release_date": "2015-11-18"
+    },
+    {
+      "featuredArtist": "メイヤー・ホーソーン",
+      "featuredArtistId": "35cfLKKS1T9Q5Yi8wNSAQb",
+      "trackName": "Shoebox Money Feat. Mayer Hawthorne",
+      "trackId": "5Mq2p88K09fOby53Advnbn",
+      "preview": "https://p.scdn.co/mp3-preview/d87efecc4e8a52919368e0c156e11b139aa26743?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7f90e54614ccb5cefb53a296fea2fc89d5b794a5",
+      "release_date": "2015-11-18"
+    },
+    {
+      "featuredArtist": "cero",
+      "featuredArtistId": "5pnLgCy9Su9t95jXdLEzjf",
+      "trackName": "Meet Me Outside",
+      "trackId": "4aIv9nDWuF9lgZriaayiNS",
+      "preview": "https://p.scdn.co/mp3-preview/e8df984d938827a22fe367baa945b676c166ae5c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7f90e54614ccb5cefb53a296fea2fc89d5b794a5",
+      "release_date": "2015-11-18"
+    },
+    {
+      "featuredArtist": "Urita",
+      "featuredArtistId": "3QdtfdnxltgYkoKuzMBfh3",
+      "trackName": "Blackberry Street",
+      "trackId": "3MMNNpRdiHEnrzSJyJxSKh",
+      "preview": "https://p.scdn.co/mp3-preview/72bde6d8062d0e9c039af32db0622c59143ec802?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9831c640760c4ec70c837371c9c72c5963c0e75",
+      "release_date": "2013-07-02"
+    },
+    {
+      "featuredArtist": "Clara Hill",
+      "featuredArtistId": "4RHulYLsymySn2JlGzyXfc",
+      "trackName": "On Christmas Morning",
+      "trackId": "4ovuMLzoovIp6EIxwsmssI",
+      "preview": "https://p.scdn.co/mp3-preview/9218629d97f475a009ec6e3251db1f9b10fef0e8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b6c2b51e9d4d0deb955e62250f5074edc5f76f5",
+      "release_date": "2012-09-19"
+    },
+    {
+      "featuredArtist": "Rednose Distrikt",
+      "featuredArtistId": "5OZrqROsYSmmGbRklx1Nx3",
+      "trackName": "Beat 1",
+      "trackId": "4NOZuWWyJEpAjtS91LhFJV",
+      "preview": "https://p.scdn.co/mp3-preview/ad79cbd525c2c203a554fb4d901a6dbc9b4ba641?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f1b6ae3f742446beaa2060a14c88f3c2913e69d3",
+      "release_date": "2006-05-01"
+    },
+    {
+      "featuredArtist": "Giovanca",
+      "featuredArtistId": "1GHgheljbmRBI1NgiDkQ98",
+      "trackName": "Yours",
+      "trackId": "1CiTKr6vIOUcE4YqKjpQTB",
+      "preview": "https://p.scdn.co/mp3-preview/9b3055ff668ca58d3c411e394ef32e5cf96f8b57?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/882bd99d5381235b20b29eb549600de4553e8785",
+      "release_date": "2005"
+    }
+  ]
+}

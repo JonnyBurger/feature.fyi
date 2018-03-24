@@ -1,0 +1,365 @@
+{
+  "artistName": "Juan Gabriel",
+  "features": [
+    {
+      "featuredArtist": "Estela Nuñez",
+      "featuredArtistId": "7gYgOsOofRcz3sZIosDGu0",
+      "trackName": "Mañana, Mañana",
+      "trackId": "2yJVo9zIP4kiBVLycjPkjA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a5f12c78305e47308077f486c17b0358a72960bc",
+      "release_date": "2017-01-27"
+    },
+    {
+      "featuredArtist": "Rocío Dúrcal",
+      "featuredArtistId": "2uyweLa0mvPZH6eRzDddeB",
+      "trackName": "Déjame Vivir",
+      "trackId": "1buqnnHwBywbvCU3RQkUHs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a5f12c78305e47308077f486c17b0358a72960bc",
+      "release_date": "2017-01-27"
+    },
+    {
+      "featuredArtist": "Queta Jiménez \"La Prieta Linda\"",
+      "featuredArtistId": "6LFHtZhcYMjST2snvul0Pp",
+      "trackName": "No Volverás a Verme",
+      "trackId": "58lKXvlI9HThCwAWB0y12d",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a5f12c78305e47308077f486c17b0358a72960bc",
+      "release_date": "2017-01-27"
+    },
+    {
+      "featuredArtist": "Joe Cueto",
+      "featuredArtistId": "0kNYCjigPxZSZPQ4enjaFc",
+      "trackName": "Con Sabor A Olvido",
+      "trackId": "2Hi4JSGcdl1smEV1grvHHl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/270d8c8d7d7dddd86c15d3765abdfde9af5dc94a",
+      "release_date": "2016-09-30"
+    },
+    {
+      "featuredArtist": "Todd Terry",
+      "featuredArtistId": "3dE92yGWcrboP1kC5SWyqu",
+      "trackName": "Qué Bonito Es Santa Fe - TT Club Version",
+      "trackId": "31rWXm1od8RTPYOZJdqGVe",
+      "preview": "https://p.scdn.co/mp3-preview/948996a22a3a6945cc2949afd7615b192de48ff8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9547394c10831ceafaf2e023865034162536f6e9",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Grant Goad",
+      "featuredArtistId": "4xX9sqlUEW66jUpteiMC39",
+      "trackName": "Qué Bonito Es Santa Fe - Mijangos GTG Mix 2",
+      "trackId": "6m77Ud9W6pqrROx9kiG03K",
+      "preview": "https://p.scdn.co/mp3-preview/9b23e89032bc121561304eca8faaad4756ce7e83?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9547394c10831ceafaf2e023865034162536f6e9",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Andres Mijangos",
+      "featuredArtistId": "2g7g3SauNxHbtGdhWdzvgh",
+      "trackName": "Qué Bonito Es Santa Fe - Mijangos GTG Mix 2",
+      "trackId": "6m77Ud9W6pqrROx9kiG03K",
+      "preview": "https://p.scdn.co/mp3-preview/9b23e89032bc121561304eca8faaad4756ce7e83?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9547394c10831ceafaf2e023865034162536f6e9",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Alejandro Fernandez",
+      "featuredArtistId": "6sq1yF0OZEWA4xoXVKW1L9",
+      "trackName": "Te Quise Olvidar",
+      "trackId": "2WJ87LsFhX1RXSlU4BqTFb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c383fe913835486f1b463f69f3084623f71641b",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Marc Anthony",
+      "featuredArtistId": "4wLXwxDeWQ8mtUIRPxGiD6",
+      "trackName": "Yo Te Recuerdo - Version Salsa",
+      "trackId": "4rJ0gZnmLl9CxWqRKz7S0E",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c383fe913835486f1b463f69f3084623f71641b",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Paty Cantú",
+      "featuredArtistId": "7K9rdoOJSiKXoVXPlSkGKT",
+      "trackName": "No Discutamos",
+      "trackId": "1SSJlfheVvqdMEcjyFfRfz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c383fe913835486f1b463f69f3084623f71641b",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Julión Alvarez",
+      "featuredArtistId": "5FUhtVYuGgL4UVeD5uFk2m",
+      "trackName": "La Frontera",
+      "trackId": "77eiZdyHyWhU2o4py4lzoa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c383fe913835486f1b463f69f3084623f71641b",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "J Balvin",
+      "featuredArtistId": "1vyhD5VmyZ7KMfW5gqLgo5",
+      "trackName": "La Frontera",
+      "trackId": "77eiZdyHyWhU2o4py4lzoa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c383fe913835486f1b463f69f3084623f71641b",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Andrés Calamaro",
+      "featuredArtistId": "3tAICgiSR5PfYY4B8qsoAU",
+      "trackName": "Te Recuerdo Dulcemente",
+      "trackId": "1088Ad2K2pPVVt8Q2WdMvD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c383fe913835486f1b463f69f3084623f71641b",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Belinda",
+      "featuredArtistId": "5LeiVcEnsZcwc133TUhJNW",
+      "trackName": "Te Sigo Amando",
+      "trackId": "3AOudg5hPbdrKSE2JASyoI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c383fe913835486f1b463f69f3084623f71641b",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Joan Sebastian",
+      "featuredArtistId": "7FsRH5bw8iWpSbMX1G7xf1",
+      "trackName": "Lágrimas Y Lluvia",
+      "trackId": "06mgcmGy6YmyURnQAevDDS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c383fe913835486f1b463f69f3084623f71641b",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Carlos Rivera",
+      "featuredArtistId": "39yVoqm6sYFvvqF1RciUVf",
+      "trackName": "Yo No Sé Que Me Pasó",
+      "trackId": "29xoMLuawmGfjSPxRHij07",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c383fe913835486f1b463f69f3084623f71641b",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Franco De Vita",
+      "featuredArtistId": "4NEYQeEYBUjfaXgDQGvFvu",
+      "trackName": "Ya Lo Sé Que Tú Te Vas",
+      "trackId": "2IPCqZhQZzRpZR4g0pVNqp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c383fe913835486f1b463f69f3084623f71641b",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "José Feliciano",
+      "featuredArtistId": "7K78lVZ8XzkjfRSI7570FF",
+      "trackName": "Amor Del Alma",
+      "trackId": "0f6X4VPa8by7OLqtWBf9Dy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c383fe913835486f1b463f69f3084623f71641b",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "María José",
+      "featuredArtistId": "1dJyh390MvfYPuNbhnbSDs",
+      "trackName": "No Vale La Pena",
+      "trackId": "3rUPDjhDXfv2FK5xl4HqtV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c383fe913835486f1b463f69f3084623f71641b",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Miguel Poveda",
+      "featuredArtistId": "0BwjxWHTct80Qp5Xk7pxZj",
+      "trackName": "Muriendo De Amor",
+      "trackId": "4f7ZmCG7ipN6dx58rOrtis",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c383fe913835486f1b463f69f3084623f71641b",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Bustamante",
+      "featuredArtistId": "1VfKauu6JYTUrApbJXU0zo",
+      "trackName": "Luna Llena",
+      "trackId": "069CuSnZetsHNT9bv0MvKz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c383fe913835486f1b463f69f3084623f71641b",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Ana Gabriel",
+      "featuredArtistId": "41ESHLayJ5sDKjAOv6cMhe",
+      "trackName": "Yo Te Perdono",
+      "trackId": "7JkDfyw9VuYhwHQTnCxiux",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c383fe913835486f1b463f69f3084623f71641b",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Carla Morrison",
+      "featuredArtistId": "0XK6kT7xcZAlcYrNjOgzJe",
+      "trackName": "Yo Sé Que Está En Tu Corazón",
+      "trackId": "4N3dBPrM1KPWHii6VRHi3q",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c383fe913835486f1b463f69f3084623f71641b",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Wisin",
+      "featuredArtistId": "3E6xrwgnVfYCrCs0ePERDz",
+      "trackName": "No Tengo Dinero",
+      "trackId": "4C6cy1AWF9brMmdSJgjfaj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c383fe913835486f1b463f69f3084623f71641b",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Juanes",
+      "featuredArtistId": "0UWZUmn7sybxMCqrw9tGa7",
+      "trackName": "Querida",
+      "trackId": "43TX1sazelupVKS1qW7HfI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/53ed4c9b28965a6306208af2a192bebfb9d9f328",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "Marco Antonio Solís",
+      "featuredArtistId": "3tJnB0s6c3oXPq1SCCavnd",
+      "trackName": "Se Me Olvidó Otra Vez",
+      "trackId": "31Xrag0AWHMeEGBmFChZoc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/53ed4c9b28965a6306208af2a192bebfb9d9f328",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "Joy",
+      "featuredArtistId": "6BEX7DNK3FU6MLqhGnowIH",
+      "trackName": "Hasta Que Te Conocí",
+      "trackId": "6RuFjCDwQxUY7t2U25lxys",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/53ed4c9b28965a6306208af2a192bebfb9d9f328",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "Vicente Fernández",
+      "featuredArtistId": "4PPoI9LuYeFX8V674Z1R6l",
+      "trackName": "La Diferencia",
+      "trackId": "2sPGyx5ETMoNk2iOBAK7Vh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/53ed4c9b28965a6306208af2a192bebfb9d9f328",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "Natalia Jiménez",
+      "featuredArtistId": "0j8QSBQZ9MNSGjHr1Vll1R",
+      "trackName": "Si Quieres",
+      "trackId": "00IWdKNjCjhIa1h1Unx7YK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/53ed4c9b28965a6306208af2a192bebfb9d9f328",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "Isabel Pantoja",
+      "featuredArtistId": "0G2qO3Wbj6WmCTFgcsJ1Eo",
+      "trackName": "Así Fue",
+      "trackId": "6MPVRnARaScOu6iDxkWtUe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/53ed4c9b28965a6306208af2a192bebfb9d9f328",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "David Bisbal",
+      "featuredArtistId": "5gOJTI4TusSENizxhcG7jB",
+      "trackName": "Yo Te Bendigo Mi Amor",
+      "trackId": "4NWWlhmR0dcVRZXMH0QqxB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/53ed4c9b28965a6306208af2a192bebfb9d9f328",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "Alejandra Guzman",
+      "featuredArtistId": "7Hf9AwMO37bSdxHb0FBGmO",
+      "trackName": "Caray",
+      "trackId": "4dcGIVRQNtyalEtHKs95cI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/53ed4c9b28965a6306208af2a192bebfb9d9f328",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "Espinoza Paz",
+      "featuredArtistId": "01rgao9OzfBm2BOHWJpi1Y",
+      "trackName": "Siempre En Mi Mente",
+      "trackId": "6ommJHLfkz9SmkDRAqp6zd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/53ed4c9b28965a6306208af2a192bebfb9d9f328",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "Laura Pausini",
+      "featuredArtistId": "2e4nwiX8ZCU09LGLOpeqTH",
+      "trackName": "Abrázame Muy Fuerte",
+      "trackId": "5ABzKf3b0gy4riIS03JHYI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/53ed4c9b28965a6306208af2a192bebfb9d9f328",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "Luis Fonsi",
+      "featuredArtistId": "4V8Sr092TqfHkfAA5fXXqG",
+      "trackName": "Te Lo Pido Por Favor",
+      "trackId": "35hqg7fDdYx3zAgXyVUlEh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/92a0cdfafa728a1155af2df551277e711927647f",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "José Maria Napoleón",
+      "featuredArtistId": "72v53CufRiSyqcQ78KUQ5p",
+      "trackName": "Verás",
+      "trackId": "2aRDgUFANU7Tl6gWf2DlmY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/92a0cdfafa728a1155af2df551277e711927647f",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "Antonio Orozco",
+      "featuredArtistId": "1ADdpen72RPuafRcv0YRBf",
+      "trackName": "Amor Es Amor",
+      "trackId": "56npz9tzgrKQXx0yCVqPxE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/92a0cdfafa728a1155af2df551277e711927647f",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "Emmanuel",
+      "featuredArtistId": "2DmYtFBKcxb3ajwWWgA576",
+      "trackName": "Pero Que Necesidad",
+      "trackId": "1GmHY98JAy7PO1o0WKZNUm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/92a0cdfafa728a1155af2df551277e711927647f",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "Natalia Lafourcade",
+      "featuredArtistId": "1hcdI2N1023RvSwLzTtdsp",
+      "trackName": "Ya No Vivo Por Vivir",
+      "trackId": "4bdZ0eWEcX2PIp8xhDYgot",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/92a0cdfafa728a1155af2df551277e711927647f",
+      "release_date": "2015-02-03"
+    },
+    {
+      "featuredArtist": "Fifth Harmony",
+      "featuredArtistId": "1l8Fu6IkuTP0U5QetQJ5Xt",
+      "trackName": "Vienes O Voy",
+      "trackId": "1giPIAB6qQMPAPLr0tGYRH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/92a0cdfafa728a1155af2df551277e711927647f",
+      "release_date": "2015-02-03"
+    }
+  ]
+}

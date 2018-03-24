@@ -1,0 +1,158 @@
+{
+  "artistName": "Miley Cyrus",
+  "features": [
+    {
+      "featuredArtist": "Dolly Parton",
+      "featuredArtistId": "32vWCbZh0xZ4o9gkz4PsEU",
+      "trackName": "Rainbowland",
+      "trackId": "6fdVBAXMxv5vAABQCpOtI5",
+      "preview": "https://p.scdn.co/mp3-preview/485a4072ec6ad53a29e2328c0c9bc147636fb14d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a1fa7f590996868ebd1248aab3233e793db22fd7",
+      "release_date": "2017-09-29"
+    },
+    {
+      "featuredArtist": "Sarah Barthel",
+      "featuredArtistId": "7AVY1bJuRTZrbYW3soi1Js",
+      "trackName": "Slab of Butter (Scorpion)",
+      "trackId": "4TKLQK5O2SVYMsYCJoIMD4",
+      "preview": "https://p.scdn.co/mp3-preview/5c7588a8eb0bc383e6a34003ea23943fc168fc86?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b92f0b2f0ed0efe516ab53c5e7d15ba814330ce3",
+      "release_date": "2015-08-30"
+    },
+    {
+      "featuredArtist": "Big Sean",
+      "featuredArtistId": "0c173mlxpT3dSFRgMO8XPh",
+      "trackName": "Tangerine",
+      "trackId": "6NhnZpaiFgnaPXOvYaNEFJ",
+      "preview": "https://p.scdn.co/mp3-preview/53ddccc8203f30f5270e430ff3c926d9e4b1c063?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b92f0b2f0ed0efe516ab53c5e7d15ba814330ce3",
+      "release_date": "2015-08-30"
+    },
+    {
+      "featuredArtist": "Ariel Pink",
+      "featuredArtistId": "5H0YoDsPDi9fObFmJtTjfN",
+      "trackName": "Tiger Dreams",
+      "trackId": "0YrsTLjPflDBxr4LAKLJyf",
+      "preview": "https://p.scdn.co/mp3-preview/7462bc8aaf6a3a3d732d05371d04e787187ea18e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b92f0b2f0ed0efe516ab53c5e7d15ba814330ce3",
+      "release_date": "2015-08-30"
+    },
+    {
+      "featuredArtist": "Britney Spears",
+      "featuredArtistId": "26dSoYclwsYLMAKD3tpOr4",
+      "trackName": "SMS (Bangerz)",
+      "trackId": "6iAbzLZUfS82J8n1ddIXs1",
+      "preview": "https://p.scdn.co/mp3-preview/19eb8cf8bb68d81d1fb2eea011f58006f22184fc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0efcee606dba33db62037399e6398eb06beb1787",
+      "release_date": "2013-10-07"
+    },
+    {
+      "featuredArtist": "Nelly",
+      "featuredArtistId": "2gBjLmx6zQnFGQJCAQpRgw",
+      "trackName": "4x4",
+      "trackId": "3mjbL64D9lWwX9QxUs0JhB",
+      "preview": "https://p.scdn.co/mp3-preview/5c74eeea68a9a52d9e5834b7c939a365b89c557a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0efcee606dba33db62037399e6398eb06beb1787",
+      "release_date": "2013-10-07"
+    },
+    {
+      "featuredArtist": "Future",
+      "featuredArtistId": "1RyvyyTE3xzB2ZywiAwp0i",
+      "trackName": "My Darlin'",
+      "trackId": "1uuW3a3natRSgRKaLgEEgR",
+      "preview": "https://p.scdn.co/mp3-preview/9a6dca1420e7e1862a84f17648cb3d08a882bcb4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0efcee606dba33db62037399e6398eb06beb1787",
+      "release_date": "2013-10-07"
+    },
+    {
+      "featuredArtist": "French Montana",
+      "featuredArtistId": "6vXTefBL93Dj5IqAWq6OTv",
+      "trackName": "FU",
+      "trackId": "4dKhzvKjpeqLhlx2C4C6pT",
+      "preview": "https://p.scdn.co/mp3-preview/e633d0a3b9e7900fbd47d8f75685fed1c8b1ff0b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0efcee606dba33db62037399e6398eb06beb1787",
+      "release_date": "2013-10-07"
+    },
+    {
+      "featuredArtist": "Ludacris",
+      "featuredArtistId": "3ipn9JLAPI5GUEo4y4jcoi",
+      "trackName": "Hands in the Air",
+      "trackId": "2YlQCqBj6FJsrQmc8K2CGa",
+      "preview": "https://p.scdn.co/mp3-preview/fde329ef409623552b3f6e76302f0e4eca8979f7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f70bb46e668e224ea67c6afa25ba438881e50d15",
+      "release_date": "2013-10-04"
+    },
+    {
+      "featuredArtist": "Lil Jon",
+      "featuredArtistId": "7sfl4Xt5KmfyDs2T3SVSMK",
+      "trackName": "Can't Be Tamed (Rockangeles Remix) - featuring Lil Jon",
+      "trackId": "0WNspiCAX0XW2ijVWIaEDw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bdddb3e9187bf693c7d1f3b0f243e70425d2cc04",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Jonas Brothers",
+      "featuredArtistId": "7gOdHgIoIKoe4i9Tta6qdD",
+      "trackName": "Before The Storm – duet with Jonas Brothers (Live)",
+      "trackId": "708dhRh00vlSAwO1PopMLI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ff81a9d0e61ae9e2e1f6cf5c877a4fceee885e54",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "R3HAB",
+      "featuredArtistId": "6cEuCEZu7PAE9ZSzLLc2oQ",
+      "trackName": "Younger Now - R3HAB Remix",
+      "trackId": "49dzrnfXfCML9f0JYiq5Hc",
+      "preview": "https://p.scdn.co/mp3-preview/ad8026490c27fecf041fd7acbdb7e0e56ad048a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/58a6515470522f906bf4490e3cf06a67c948afd5",
+      "release_date": "2017-10-05"
+    },
+    {
+      "featuredArtist": "Niko The Kid",
+      "featuredArtistId": "0FPoqGEZFwHQfu5tRPL08X",
+      "trackName": "Younger Now - Niko The Kid Remix",
+      "trackId": "1OryG6NjJlLc9GDkODPKG1",
+      "preview": "https://p.scdn.co/mp3-preview/9200fff4d1af1cb90312e36fa844e597575932e7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/58a6515470522f906bf4490e3cf06a67c948afd5",
+      "release_date": "2017-10-05"
+    },
+    {
+      "featuredArtist": "DJ Premier",
+      "featuredArtistId": "6GEykX11lQqp92UVOQQCC7",
+      "trackName": "Younger Now - DJ Premier Remix",
+      "trackId": "2bCyXlEdDyuZVZm5hq0TeS",
+      "preview": "https://p.scdn.co/mp3-preview/ad441e65643536bf6fc9cdb4582489fbdba516ed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/58a6515470522f906bf4490e3cf06a67c948afd5",
+      "release_date": "2017-10-05"
+    },
+    {
+      "featuredArtist": "BURNS",
+      "featuredArtistId": "5eKqhPrKad0J9xGAtq3rW7",
+      "trackName": "Younger Now - BURNS Remix",
+      "trackId": "57HfpY7iRXpAhAYArEWcWO",
+      "preview": "https://p.scdn.co/mp3-preview/efb74c4b1fce8b5be70734ead5ba9b5263793cd7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/58a6515470522f906bf4490e3cf06a67c948afd5",
+      "release_date": "2017-10-05"
+    },
+    {
+      "featuredArtist": "Fred Falke",
+      "featuredArtistId": "0AfNNw1LS2i9KW4icd7inD",
+      "trackName": "Younger Now - Fred Falke Remix",
+      "trackId": "2UnZ0dagQRNTYYRIL1qzem",
+      "preview": "https://p.scdn.co/mp3-preview/9719f9ea392a1d481591f9018b4cb95afaa73681?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/58a6515470522f906bf4490e3cf06a67c948afd5",
+      "release_date": "2017-10-05"
+    },
+    {
+      "featuredArtist": "Syn Cole",
+      "featuredArtistId": "6i1GVNJCyyssRwXmnaeEFH",
+      "trackName": "Younger Now - Syn Cole Remix",
+      "trackId": "5u5p9CmXrFS8gl0eOoLl5R",
+      "preview": "https://p.scdn.co/mp3-preview/228e54ee27faab47ee0eb48ff5df9f1e3892521c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/58a6515470522f906bf4490e3cf06a67c948afd5",
+      "release_date": "2017-10-05"
+    }
+  ]
+}

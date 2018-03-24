@@ -1,0 +1,23 @@
+{
+  "artistName": "Landon Cube",
+  "features": [
+    {
+      "featuredArtist": "Lil Skies",
+      "featuredArtistId": "7d3WFRME3vBY2cgoP38RDo",
+      "trackName": "Nowadays (feat. Landon Cube)",
+      "trackId": "689uBlyIufk2LUhAwjny4w",
+      "preview": "https://p.scdn.co/mp3-preview/7cc14bbfe96d99fc85079bdfe0e07a13a68837d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/14cfe6670c2d0b871f098e604806f25b76ff6956",
+      "release_date": "2017-12-20"
+    },
+    {
+      "featuredArtist": "Louis Luv",
+      "featuredArtistId": "5UYLFUCWUU24LxsSypS0xX",
+      "trackName": "What's Luv",
+      "trackId": "56mSa88ydORJZVRUGOUprO",
+      "preview": "https://p.scdn.co/mp3-preview/664792d2fd9fc900665e8eb199e6ce7e4accc880?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f6e960db347d79139cccecdb9310aaab98c4a68",
+      "release_date": "2018-01-02"
+    }
+  ]
+}

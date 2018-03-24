@@ -1,0 +1,59 @@
+{
+  "artistName": "Don Henley",
+  "features": [
+    {
+      "featuredArtist": "Mick Jagger",
+      "featuredArtistId": "3d2pb1dHTm8b61zAGVUVvO",
+      "trackName": "Bramble Rose",
+      "trackId": "3ZM4ulEztk8iVlUJvf42Je",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1c93f6c2d423ed2f048356e97a9b0256774ff6c2",
+      "release_date": "2015-07-10"
+    },
+    {
+      "featuredArtist": "Miranda Lambert",
+      "featuredArtistId": "66lH4jAE7pqPlOlzUKbwA0",
+      "trackName": "Bramble Rose",
+      "trackId": "3ZM4ulEztk8iVlUJvf42Je",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1c93f6c2d423ed2f048356e97a9b0256774ff6c2",
+      "release_date": "2015-07-10"
+    },
+    {
+      "featuredArtist": "Merle Haggard",
+      "featuredArtistId": "2ptmyXoL7poH6Zq62h1QT9",
+      "trackName": "The Cost Of Living",
+      "trackId": "6QIEqG37f9Dy2nbp7ZhVL9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1c93f6c2d423ed2f048356e97a9b0256774ff6c2",
+      "release_date": "2015-07-10"
+    },
+    {
+      "featuredArtist": "Martina McBride",
+      "featuredArtistId": "3P33qFNGBVXl86yQYWspFj",
+      "trackName": "That Old Flame",
+      "trackId": "5pMyK3Q9bIbVcQ5FehaSM7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1c93f6c2d423ed2f048356e97a9b0256774ff6c2",
+      "release_date": "2015-07-10"
+    },
+    {
+      "featuredArtist": "Dolly Parton",
+      "featuredArtistId": "32vWCbZh0xZ4o9gkz4PsEU",
+      "trackName": "When I Stop Dreaming",
+      "trackId": "1yrhdGNQijC3fbPR7thWh3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1c93f6c2d423ed2f048356e97a9b0256774ff6c2",
+      "release_date": "2015-07-10"
+    },
+    {
+      "featuredArtist": "Jimmy Buffett",
+      "featuredArtistId": "28AyklUmMECPwdfo8NEsV0",
+      "trackName": "Volcano - Live",
+      "trackId": "6FbOUFjB2jks02kp2z4zJ3",
+      "preview": "https://p.scdn.co/mp3-preview/3a07373ac61c40e092513297db3cdd23c51867ed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9fd983c5d0610552ed6500a99aa65469612fc430",
+      "release_date": "2010-08-01"
+    }
+  ]
+}

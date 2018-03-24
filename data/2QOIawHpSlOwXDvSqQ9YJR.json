@@ -1,0 +1,932 @@
+{
+  "artistName": "Antonio Vivaldi",
+  "features": [
+    {
+      "featuredArtist": "Coro della Radiotelevisione Svizzera",
+      "featuredArtistId": "6ZMJ7U9VAaVheaAeYJbBUG",
+      "trackName": "Gloria in D Major, RV 589: 1. Gloria in excelsis",
+      "trackId": "7uQlg3pdCATMintWloDnyY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f33b7f70e0c84f66a627cc5f5a33d5a4227488d7",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "I Barocchisti",
+      "featuredArtistId": "1yN4XCQLTaJyBnsLJQECBu",
+      "trackName": "Gloria in D Major, RV 589: 1. Gloria in excelsis",
+      "trackId": "7uQlg3pdCATMintWloDnyY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f33b7f70e0c84f66a627cc5f5a33d5a4227488d7",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Diego Fasolis",
+      "featuredArtistId": "4WbEmAwPIeRh1bHcv6uY7U",
+      "trackName": "Gloria in D Major, RV 589: 1. Gloria in excelsis",
+      "trackId": "7uQlg3pdCATMintWloDnyY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f33b7f70e0c84f66a627cc5f5a33d5a4227488d7",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Julia Lezhneva",
+      "featuredArtistId": "4lXqCIiOQaKszIABIsOyrI",
+      "trackName": "Gloria in D Major, RV 589: 3. Laudamus te",
+      "trackId": "0Z0iskNTGySnPyiIp2GOx0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f33b7f70e0c84f66a627cc5f5a33d5a4227488d7",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Franco Fagioli",
+      "featuredArtistId": "33MyM0oCQgzBlvXbiiuwV4",
+      "trackName": "Gloria in D Major, RV 589: 3. Laudamus te",
+      "trackId": "0Z0iskNTGySnPyiIp2GOx0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f33b7f70e0c84f66a627cc5f5a33d5a4227488d7",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Bach Consort Wien",
+      "featuredArtistId": "2y13XPSlPkJz09CKrTmEtM",
+      "trackName": "Concerto for Strings in G Minor, RV 156: I. Allegro (Live)",
+      "trackId": "7qOPXtlcoxWhuLzOTuJL8d",
+      "preview": "https://p.scdn.co/mp3-preview/454e82379de4b305b82f4741b92f66f5ab3f7933?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bdfc43fbf6ca5cb323e309523c607acfedd0159c",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Ruben Dubrovsky",
+      "featuredArtistId": "3G4g5vHOgnZaevje4V9lEv",
+      "trackName": "Concerto for Strings in G Minor, RV 156: I. Allegro (Live)",
+      "trackId": "7qOPXtlcoxWhuLzOTuJL8d",
+      "preview": "https://p.scdn.co/mp3-preview/454e82379de4b305b82f4741b92f66f5ab3f7933?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bdfc43fbf6ca5cb323e309523c607acfedd0159c",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Andreas Scholl",
+      "featuredArtistId": "2LnE7uKchgVW2Uv7vzwixZ",
+      "trackName": "Filiae maestae Jerusalem, RV 638: Filiae maestae Jerusalem (Live)",
+      "trackId": "4h9Y6C2iBmksiHBv7uYozn",
+      "preview": "https://p.scdn.co/mp3-preview/6b8a565bded0b047af74a1b51fc9f73a7a79302e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bdfc43fbf6ca5cb323e309523c607acfedd0159c",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Hanna Herfurtner",
+      "featuredArtistId": "3MBCrhsZJ0I5a08euwPdWk",
+      "trackName": "Lauda Jerusalem, RV 609 (Live)",
+      "trackId": "7ydzntij0khGJHLpLUfFmW",
+      "preview": "https://p.scdn.co/mp3-preview/9bfb7db227788cc43d08d36294c9a6281c35e9fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bdfc43fbf6ca5cb323e309523c607acfedd0159c",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Joowon Chung",
+      "featuredArtistId": "0AozOec1o7CSgU2Zqj12sV",
+      "trackName": "Lauda Jerusalem, RV 609 (Live)",
+      "trackId": "7ydzntij0khGJHLpLUfFmW",
+      "preview": "https://p.scdn.co/mp3-preview/9bfb7db227788cc43d08d36294c9a6281c35e9fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bdfc43fbf6ca5cb323e309523c607acfedd0159c",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Salzburg Bach Choir",
+      "featuredArtistId": "4wgL9yXrmA2fjyYuCkClkf",
+      "trackName": "Lauda Jerusalem, RV 609 (Live)",
+      "trackId": "7ydzntij0khGJHLpLUfFmW",
+      "preview": "https://p.scdn.co/mp3-preview/9bfb7db227788cc43d08d36294c9a6281c35e9fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bdfc43fbf6ca5cb323e309523c607acfedd0159c",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Zsolt Kallo",
+      "featuredArtistId": "5ynn9iw9IVsgDPPEhEB2aQ",
+      "trackName": "Violin Concerto in G Minor, Op. 8 No. 8, RV 332: I. Allegro",
+      "trackId": "3hZB4fV16Kq5swy7DFbCgC",
+      "preview": "https://p.scdn.co/mp3-preview/5ce38d7aa1054afedcbbe02edb876d65d484492f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/caed465b003e82eaa24e50df8280db379d45fbb1",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Capella Savaria",
+      "featuredArtistId": "7KMmhh16drCFVFpvhcwtFi",
+      "trackName": "Violin Concerto in G Minor, Op. 8 No. 8, RV 332: I. Allegro",
+      "trackId": "3hZB4fV16Kq5swy7DFbCgC",
+      "preview": "https://p.scdn.co/mp3-preview/5ce38d7aa1054afedcbbe02edb876d65d484492f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/caed465b003e82eaa24e50df8280db379d45fbb1",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "László Feriencsik",
+      "featuredArtistId": "1YClxpCnfppOWjx1oQooz7",
+      "trackName": "Bassoon Concerto in E Minor, RV 484: I. Allegro poco",
+      "trackId": "3VnUxbEze4r6Iv4T8TvxZA",
+      "preview": "https://p.scdn.co/mp3-preview/88cb74a1108dc0aa662f6099c884d0be423e4720?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/caed465b003e82eaa24e50df8280db379d45fbb1",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Andrea Bertalan",
+      "featuredArtistId": "1KdE4XB0qBuLt1KdG1mda0",
+      "trackName": "Flute Concerto in G Major, Op. 10 No. 6, RV 437 \"Il cavallo\": I. Allegro",
+      "trackId": "4S1sBJmRRXRUPAodoTHxtN",
+      "preview": "https://p.scdn.co/mp3-preview/8be83e07b26dda48ec79d986538af8ff473db12b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/caed465b003e82eaa24e50df8280db379d45fbb1",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Igor Malinovsky",
+      "featuredArtistId": "48MvzshjZpgjBMiIQfOHQl",
+      "trackName": "The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\": I. Allegro",
+      "trackId": "1JNeBVg2sg4dFS9ATks6el",
+      "preview": "https://p.scdn.co/mp3-preview/e4a6b8e95233f5a5801387713ccb04dc2aa8208c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f89af9101e52818d201f4e01e70e1a7f9db844df",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Dresdner Residence Orchestra",
+      "featuredArtistId": "7lGr9dH9pfQvKOujk3j8ti",
+      "trackName": "The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\": I. Allegro",
+      "trackId": "1JNeBVg2sg4dFS9ATks6el",
+      "preview": "https://p.scdn.co/mp3-preview/e4a6b8e95233f5a5801387713ccb04dc2aa8208c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f89af9101e52818d201f4e01e70e1a7f9db844df",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "La Pastorella",
+      "featuredArtistId": "0HilzvoO7vt38yS1FvBHud",
+      "trackName": "Flute Concerto in F Major, Op. 10 No. 1, RV 433 \"La tempesta di mare\": I. Allegro",
+      "trackId": "3SkLFmrnQP7MEpDuDXqtcQ",
+      "preview": "https://p.scdn.co/mp3-preview/07c886fb8d4205a1dee38ffea44b08441229633c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/75590df8878d84a2d89e0fcb57500ba1ad32b681",
+      "release_date": "2018-01-26"
+    },
+    {
+      "featuredArtist": "Frédéric De Roos",
+      "featuredArtistId": "32U3KY3Ic4c93gSWditMki",
+      "trackName": "Flute Concerto in F Major, Op. 10 No. 1, RV 433 \"La tempesta di mare\": I. Allegro",
+      "trackId": "3SkLFmrnQP7MEpDuDXqtcQ",
+      "preview": "https://p.scdn.co/mp3-preview/07c886fb8d4205a1dee38ffea44b08441229633c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/75590df8878d84a2d89e0fcb57500ba1ad32b681",
+      "release_date": "2018-01-26"
+    },
+    {
+      "featuredArtist": "Serena Malfi",
+      "featuredArtistId": "2RKj8m4je8oIWr3JxS6yzr",
+      "trackName": "Dorilla in Tempe, RV 709, Act I, Scene 1: Or fra questi, o Dorilla (Recitativo) (Elmiro, Dorilla)",
+      "trackId": "41Tv2ijOOWKclAkDXwi50W",
+      "preview": "https://p.scdn.co/mp3-preview/2a81707e67a712a8fd1df4a3210ac4954c2f3332?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a392bb176e59bc853c6223210f9836242c4b0a54",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Romina Basso",
+      "featuredArtistId": "3NIisWyPsKOIO85ZBBRyzr",
+      "trackName": "Dorilla in Tempe, RV 709, Act I, Scene 1: Or fra questi, o Dorilla (Recitativo) (Elmiro, Dorilla)",
+      "trackId": "41Tv2ijOOWKclAkDXwi50W",
+      "preview": "https://p.scdn.co/mp3-preview/2a81707e67a712a8fd1df4a3210ac4954c2f3332?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a392bb176e59bc853c6223210f9836242c4b0a54",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Christian Senn",
+      "featuredArtistId": "6U4Fd7mqkXA9175u4bgiYv",
+      "trackName": "Dorilla in Tempe, RV 709, Act I, Scene 2: Figlia, Nomio, oh Dei! (Recitativo) (Admeto, Dorilla, Nomio)",
+      "trackId": "0zimlhUGPxjwOljK4ksFO2",
+      "preview": "https://p.scdn.co/mp3-preview/1ff14abd10f62ec36eb3d46d003afc3517456994?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a392bb176e59bc853c6223210f9836242c4b0a54",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Marina de Liso",
+      "featuredArtistId": "108E8RbGiBj1yUUBlJ4uvG",
+      "trackName": "Dorilla in Tempe, RV 709, Act I, Scene 2: Figlia, Nomio, oh Dei! (Recitativo) (Admeto, Dorilla, Nomio)",
+      "trackId": "0zimlhUGPxjwOljK4ksFO2",
+      "preview": "https://p.scdn.co/mp3-preview/1ff14abd10f62ec36eb3d46d003afc3517456994?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a392bb176e59bc853c6223210f9836242c4b0a54",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Sonia Prina",
+      "featuredArtistId": "1BQT4aEWUjuLwICzGQlySw",
+      "trackName": "Dorilla in Tempe, RV 709, Act I, Scene 6 & 7: Fiero destin che sento! - Senza l’uso de’ sensi - Noiosi tormenti (Elmiro, Dorilla, Eudamia)",
+      "trackId": "2WGiNyAovV5pmtuRE6RQ6K",
+      "preview": "https://p.scdn.co/mp3-preview/afe26ac5937ae99ade9a2959a36e4c52ff5d0949?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a392bb176e59bc853c6223210f9836242c4b0a54",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Lucia Cirillo",
+      "featuredArtistId": "3McpmHk0ItD1k4zV77ShzE",
+      "trackName": "Dorilla in Tempe, RV 709, Act I, Scene 8: D’un tal disprezzo a fronte - Qui in disparte - No, t’arresta, o Filindo (Eudamia, Filindo)",
+      "trackId": "1eASKQ0K02Cr7Hx12SBYfV",
+      "preview": "https://p.scdn.co/mp3-preview/5051a6516326aaed89fddaaa025405602619e553?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a392bb176e59bc853c6223210f9836242c4b0a54",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Gwennaëlle Alibert",
+      "featuredArtistId": "0sw0ZujTlpvzNDNPOXOKGC",
+      "trackName": "Concerto pour 2 violons, cordes et basse continue in G Minor, RV 517: I. Allegro",
+      "trackId": "1fehGi2Axd39526cc3YlqK",
+      "preview": "https://p.scdn.co/mp3-preview/a2ae1729eaf4b6c7e75b3a85f06e90dd5123af5c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/967fd05e839797f97197a02f595a4217be0afb82",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Clément Geoffroy",
+      "featuredArtistId": "6we3QFWKqhaa2lJESUd665",
+      "trackName": "Concerto pour 2 violons, cordes et basse continue in G Minor, RV 517: I. Allegro",
+      "trackId": "1fehGi2Axd39526cc3YlqK",
+      "preview": "https://p.scdn.co/mp3-preview/a2ae1729eaf4b6c7e75b3a85f06e90dd5123af5c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/967fd05e839797f97197a02f595a4217be0afb82",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Giulia Casiraghi",
+      "featuredArtistId": "2X2M1PPS11HhHi7SucaFn1",
+      "trackName": "Orlando furioso, RV 728: Oh ingiusti numi! O fati!",
+      "trackId": "6uFeghIQMHDmk0xR2er3bO",
+      "preview": "https://p.scdn.co/mp3-preview/7ae5ac9b77bb567abd8b0236beefca9f83fa1b0c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/feb1b95624b84ebf033ba50db9924ec0830de7fd",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Strings Ensemble Archimede",
+      "featuredArtistId": "6tzB6fTT60u88K0ttop9gc",
+      "trackName": "Orlando furioso, RV 728: Oh ingiusti numi! O fati!",
+      "trackId": "6uFeghIQMHDmk0xR2er3bO",
+      "preview": "https://p.scdn.co/mp3-preview/7ae5ac9b77bb567abd8b0236beefca9f83fa1b0c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/feb1b95624b84ebf033ba50db9924ec0830de7fd",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Matteo Riboldi",
+      "featuredArtistId": "0sHzNOG3e7FAb1aqDF5w85",
+      "trackName": "Orlando furioso, RV 728: Oh ingiusti numi! O fati!",
+      "trackId": "6uFeghIQMHDmk0xR2er3bO",
+      "preview": "https://p.scdn.co/mp3-preview/7ae5ac9b77bb567abd8b0236beefca9f83fa1b0c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/feb1b95624b84ebf033ba50db9924ec0830de7fd",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Benedetto Munzone",
+      "featuredArtistId": "59bxiGbvexQ1n90JILgZpC",
+      "trackName": "Juditha triumphans, RV 644: Jam non procul ab axe",
+      "trackId": "07RSD6UAQ3A5QmDEbPAtp2",
+      "preview": "https://p.scdn.co/mp3-preview/2ddcaf344872c472a774daf693a333ab9be86bd5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/feb1b95624b84ebf033ba50db9924ec0830de7fd",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "François Lazarevitch",
+      "featuredArtistId": "1w0VWTx6MNhPyOiUdqlEwm",
+      "trackName": "Flute Concerto in F Major, Op. 10 No. 1, RV 433 \"La tempesta di mare\": I. Allegro",
+      "trackId": "0H7bAi99peJwvRlNtJhljX",
+      "preview": "https://p.scdn.co/mp3-preview/8d97ef0e9cd755a671f144ecbb262ee4ad4a9ac4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03d95921c2325f9dc6b4e1957b6b05af5dc35e86",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "Les Musiciens De Saint-Julien",
+      "featuredArtistId": "3BOobwybtBO4mg4PDHRL5Q",
+      "trackName": "Flute Concerto in F Major, Op. 10 No. 1, RV 433 \"La tempesta di mare\": I. Allegro",
+      "trackId": "0H7bAi99peJwvRlNtJhljX",
+      "preview": "https://p.scdn.co/mp3-preview/8d97ef0e9cd755a671f144ecbb262ee4ad4a9ac4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03d95921c2325f9dc6b4e1957b6b05af5dc35e86",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "Alessandro Stradella Consort",
+      "featuredArtistId": "2jujzjDcKdC8dHe7nhh579",
+      "trackName": "Giustino, RV 717: Sinfonia. Allegro I",
+      "trackId": "3GN4sKw7gnQutyDgZM3LFa",
+      "preview": "https://p.scdn.co/mp3-preview/d37f2eddb4b96ab671c00f0960c5818619d56b0b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f04760cfd0fdd5fc8b84dcf6e7fd554328b9bb4f",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Estevan Velardi",
+      "featuredArtistId": "7dO7fTO3KTuvMVRkl9ksrM",
+      "trackName": "Giustino, RV 717: Sinfonia. Allegro I",
+      "trackId": "3GN4sKw7gnQutyDgZM3LFa",
+      "preview": "https://p.scdn.co/mp3-preview/d37f2eddb4b96ab671c00f0960c5818619d56b0b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f04760cfd0fdd5fc8b84dcf6e7fd554328b9bb4f",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Silvia Bossa",
+      "featuredArtistId": "4fI6ZssivLNTSEH28AA3pf",
+      "trackName": "Giustino, RV 717, Act I: Febo, che non mai stanco",
+      "trackId": "5kD8lOcPx34iVlAbEagsgT",
+      "preview": "https://p.scdn.co/mp3-preview/710407f6b23f9b97537477b83f2595c8757d9677?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f04760cfd0fdd5fc8b84dcf6e7fd554328b9bb4f",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Manuela Custer",
+      "featuredArtistId": "5unF3jukwTAbwJE1B5SfMn",
+      "trackName": "Giustino, RV 717, Act I: Da questa man",
+      "trackId": "5UFWS9i7G5cLnHmKJ8OFRj",
+      "preview": "https://p.scdn.co/mp3-preview/b2599c09d1c4dcd57f1264ba5a412223dddb4e2a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f04760cfd0fdd5fc8b84dcf6e7fd554328b9bb4f",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Cristiana Presutti",
+      "featuredArtistId": "7zKBmRFHwMpe0EcPzD5XF1",
+      "trackName": "Giustino, RV 717, Act I: Ah, mio sovrano Augusto",
+      "trackId": "1MsZTaI4gNZ5bACczayTuU",
+      "preview": "https://p.scdn.co/mp3-preview/f38ff20f2aba43a5e7b177b7bb31cf7d31eab730?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f04760cfd0fdd5fc8b84dcf6e7fd554328b9bb4f",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Vincenzo di Donato",
+      "featuredArtistId": "6TYgeabQw4ycEi71NYCPNV",
+      "trackName": "Giustino, RV 717, Act I: Vitaliano, il di cui nome",
+      "trackId": "1vxJQXiWbnXKAMRgOd8jYC",
+      "preview": "https://p.scdn.co/mp3-preview/951dcd17f28d2eb3402646242ba30cae42e8da4d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f04760cfd0fdd5fc8b84dcf6e7fd554328b9bb4f",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Gianluca Belfiori Doro",
+      "featuredArtistId": "7b9TL3WPwTU9kn6RpU5XOz",
+      "trackName": "Giustino, RV 717, Act I: Deh perché non poss'io",
+      "trackId": "3HaEW85akye4eWZCLEVBLN",
+      "preview": "https://p.scdn.co/mp3-preview/0b5b92b311243ba4e12c200640633a53d130a8ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f04760cfd0fdd5fc8b84dcf6e7fd554328b9bb4f",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Francesca Tancredi",
+      "featuredArtistId": "6aEbMooLLC8wiujh1WGmDq",
+      "trackName": "Giustino, RV 717, Act I: Giustin, lascia i riposi",
+      "trackId": "4yuyk0rF3LMI2E9bGQueev",
+      "preview": "https://p.scdn.co/mp3-preview/3b5eb2ee56a96ed162338b9956c0323b26f64fbc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f04760cfd0fdd5fc8b84dcf6e7fd554328b9bb4f",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Linda Campanella",
+      "featuredArtistId": "0RNUPAKnL43vpwXnWEaE2h",
+      "trackName": "Giustino, RV 717, Act I: Cieli, Numi, soccorso!",
+      "trackId": "1OkGn7CQ81y3EPmXeJX9CT",
+      "preview": "https://p.scdn.co/mp3-preview/9d0ec5201a9b9d715169901a94d1e96c4173affd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f04760cfd0fdd5fc8b84dcf6e7fd554328b9bb4f",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Cristiana Emoli",
+      "featuredArtistId": "753yv1S6JJGQp6sUN7fqEZ",
+      "trackName": "Giustino, RV 717, Act I: Io t'offro, o Augusta",
+      "trackId": "3TvO2R35TOoARTfsm3CnH5",
+      "preview": "https://p.scdn.co/mp3-preview/e2995806f326432ee74379b0341aeb63250870f5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f04760cfd0fdd5fc8b84dcf6e7fd554328b9bb4f",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Leonardo de Lisi",
+      "featuredArtistId": "7isVjfA94KHjJOcdEwnjc4",
+      "trackName": "Giustino, RV 717, Act I: All'armi...",
+      "trackId": "2CE05P3WWH4Zo5jc2FysdP",
+      "preview": "https://p.scdn.co/mp3-preview/8b6b1c7b5a1e88113d4b33bb71f157c2d048b4d5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f04760cfd0fdd5fc8b84dcf6e7fd554328b9bb4f",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Matej Mestrovic",
+      "featuredArtistId": "3NMJWjKZGPXujsVfX1ujeM",
+      "trackName": "The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\" (Arr. M. Meštrović): I. Allegro",
+      "trackId": "3VmkV2ZF1ELfnuMgjPO5JN",
+      "preview": "https://p.scdn.co/mp3-preview/e9e45712964541c495fb30ae6b5483f5df9c8635?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/55cd8436c10d9284d4272840f8f05a099d64f5f1",
+      "release_date": "2017-08-11"
+    },
+    {
+      "featuredArtist": "Matija Dedić",
+      "featuredArtistId": "1PDNvnmGb4TIkvIbaH4EEE",
+      "trackName": "The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\" (Arr. M. Meštrović): I. Allegro",
+      "trackId": "3VmkV2ZF1ELfnuMgjPO5JN",
+      "preview": "https://p.scdn.co/mp3-preview/e9e45712964541c495fb30ae6b5483f5df9c8635?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/55cd8436c10d9284d4272840f8f05a099d64f5f1",
+      "release_date": "2017-08-11"
+    },
+    {
+      "featuredArtist": "Hakan Ali Toker",
+      "featuredArtistId": "11l3AgEl928JFEoNGAMF9H",
+      "trackName": "The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\" (Arr. M. Meštrović): I. Allegro",
+      "trackId": "3VmkV2ZF1ELfnuMgjPO5JN",
+      "preview": "https://p.scdn.co/mp3-preview/e9e45712964541c495fb30ae6b5483f5df9c8635?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/55cd8436c10d9284d4272840f8f05a099d64f5f1",
+      "release_date": "2017-08-11"
+    },
+    {
+      "featuredArtist": "Julian Olevsky",
+      "featuredArtistId": "26MQ6Zyxdal6cDRupDX7c8",
+      "trackName": "The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\": I. Allegro",
+      "trackId": "45RyXk2lLdafhvCwv0Lxtn",
+      "preview": "https://p.scdn.co/mp3-preview/f65de9ed1a657fcc4bb2b8b63640bcb33d7a18e4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c0f8c90e9b3f5742684ec175246ff4e09415b7d0",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Vienna State Opera Orchestra",
+      "featuredArtistId": "5VFkAGIv1Pioeb6e2JfpOE",
+      "trackName": "The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\": I. Allegro",
+      "trackId": "45RyXk2lLdafhvCwv0Lxtn",
+      "preview": "https://p.scdn.co/mp3-preview/f65de9ed1a657fcc4bb2b8b63640bcb33d7a18e4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c0f8c90e9b3f5742684ec175246ff4e09415b7d0",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Hermann Scherchen",
+      "featuredArtistId": "5EMijG4wKSVPJIOQhD4nWX",
+      "trackName": "The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\": I. Allegro",
+      "trackId": "45RyXk2lLdafhvCwv0Lxtn",
+      "preview": "https://p.scdn.co/mp3-preview/f65de9ed1a657fcc4bb2b8b63640bcb33d7a18e4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c0f8c90e9b3f5742684ec175246ff4e09415b7d0",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Accademia Hermans",
+      "featuredArtistId": "6Rm7yAvioJrkU7vxWvCUtv",
+      "trackName": "Concerto per traversiere, 2 violini e basso continuo in G Major, RV 102: I. Allegro",
+      "trackId": "3uC16PGKzZxGE3w7b3ezM5",
+      "preview": "https://p.scdn.co/mp3-preview/741ac25a27d54cc77967049cf8573073e2bdc955?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/718b1140fc7a47585bdaa539a316be2ef47cf457",
+      "release_date": "2017-06-14"
+    },
+    {
+      "featuredArtist": "Fabio Ciofini",
+      "featuredArtistId": "1ip2r7O7kTbRuvBqeA1acZ",
+      "trackName": "Concerto per traversiere, 2 violini e basso continuo in G Major, RV 102: I. Allegro",
+      "trackId": "3uC16PGKzZxGE3w7b3ezM5",
+      "preview": "https://p.scdn.co/mp3-preview/741ac25a27d54cc77967049cf8573073e2bdc955?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/718b1140fc7a47585bdaa539a316be2ef47cf457",
+      "release_date": "2017-06-14"
+    },
+    {
+      "featuredArtist": "Fabio Ceccarelli",
+      "featuredArtistId": "3iRMQgjOJdjzjFu6mkUuEB",
+      "trackName": "Concerto per traversiere, 2 violini e basso continuo in G Major, RV 102: I. Allegro",
+      "trackId": "3uC16PGKzZxGE3w7b3ezM5",
+      "preview": "https://p.scdn.co/mp3-preview/741ac25a27d54cc77967049cf8573073e2bdc955?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/718b1140fc7a47585bdaa539a316be2ef47cf457",
+      "release_date": "2017-06-14"
+    },
+    {
+      "featuredArtist": "Rossella Croce",
+      "featuredArtistId": "7uiyCroeOvpRRejEDlKXdy",
+      "trackName": "Concerto per traversiere, 2 violini e basso continuo in G Major, RV 102: I. Allegro",
+      "trackId": "3uC16PGKzZxGE3w7b3ezM5",
+      "preview": "https://p.scdn.co/mp3-preview/741ac25a27d54cc77967049cf8573073e2bdc955?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/718b1140fc7a47585bdaa539a316be2ef47cf457",
+      "release_date": "2017-06-14"
+    },
+    {
+      "featuredArtist": "Alessandra Montani",
+      "featuredArtistId": "30Nh8fsTzmwYag1uvhTokO",
+      "trackName": "Sonata I per violoncello e basso continuo, RV 47: I. Largo",
+      "trackId": "1EADp4baRgXiSGqSlvt9m7",
+      "preview": "https://p.scdn.co/mp3-preview/6b2f051b3bebae122f4e1655804d7e3dbacb2789?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/718b1140fc7a47585bdaa539a316be2ef47cf457",
+      "release_date": "2017-06-14"
+    },
+    {
+      "featuredArtist": "Orchestre Paul Kuentz",
+      "featuredArtistId": "0HjsFr2tDjuFQSwUcOLiK3",
+      "trackName": "Beatus vir in C Major, RV 597: Beatus vir I (Allegro) - Psaume 111",
+      "trackId": "4KHZzE6iUtLvRnvBDOx2br",
+      "preview": "https://p.scdn.co/mp3-preview/25d9fd31c515c218e51e5a7baf156d157f3d838e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bec4d589711d05dbc178070c3cd1ed26ee1fa4b6",
+      "release_date": "2017-05-15"
+    },
+    {
+      "featuredArtist": "Paul Kuentz",
+      "featuredArtistId": "7i5xdjuNIwl1m5OvCqChsB",
+      "trackName": "Beatus vir in C Major, RV 597: Beatus vir I (Allegro) - Psaume 111",
+      "trackId": "4KHZzE6iUtLvRnvBDOx2br",
+      "preview": "https://p.scdn.co/mp3-preview/25d9fd31c515c218e51e5a7baf156d157f3d838e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bec4d589711d05dbc178070c3cd1ed26ee1fa4b6",
+      "release_date": "2017-05-15"
+    },
+    {
+      "featuredArtist": "Kristina Vahrenkamp",
+      "featuredArtistId": "3ylQzmRujyH0u8gJ8It7uK",
+      "trackName": "Beatus vir in C Major, RV 597: Beatus vir I (Allegro) - Psaume 111",
+      "trackId": "4KHZzE6iUtLvRnvBDOx2br",
+      "preview": "https://p.scdn.co/mp3-preview/25d9fd31c515c218e51e5a7baf156d157f3d838e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bec4d589711d05dbc178070c3cd1ed26ee1fa4b6",
+      "release_date": "2017-05-15"
+    },
+    {
+      "featuredArtist": "Marie-Noelle Cros",
+      "featuredArtistId": "02x386ZxZPU9PXWtpkmIT6",
+      "trackName": "Beatus vir in C Major, RV 597: Beatus vir I (Allegro) - Psaume 111",
+      "trackId": "4KHZzE6iUtLvRnvBDOx2br",
+      "preview": "https://p.scdn.co/mp3-preview/25d9fd31c515c218e51e5a7baf156d157f3d838e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bec4d589711d05dbc178070c3cd1ed26ee1fa4b6",
+      "release_date": "2017-05-15"
+    },
+    {
+      "featuredArtist": "Barbara Decker",
+      "featuredArtistId": "2Y6u7rflQSP0QZqDvFKW3Y",
+      "trackName": "Beatus vir in C Major, RV 597: Beatus vir I (Allegro) - Psaume 111",
+      "trackId": "4KHZzE6iUtLvRnvBDOx2br",
+      "preview": "https://p.scdn.co/mp3-preview/25d9fd31c515c218e51e5a7baf156d157f3d838e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bec4d589711d05dbc178070c3cd1ed26ee1fa4b6",
+      "release_date": "2017-05-15"
+    },
+    {
+      "featuredArtist": "Patrick Garayt",
+      "featuredArtistId": "4q72AQEJWoGhew1cyuHTCp",
+      "trackName": "Beatus vir in C Major, RV 597: Beatus vir I (Allegro) - Psaume 111",
+      "trackId": "4KHZzE6iUtLvRnvBDOx2br",
+      "preview": "https://p.scdn.co/mp3-preview/25d9fd31c515c218e51e5a7baf156d157f3d838e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bec4d589711d05dbc178070c3cd1ed26ee1fa4b6",
+      "release_date": "2017-05-15"
+    },
+    {
+      "featuredArtist": "Choeur Paul Kuentz",
+      "featuredArtistId": "1wVl6NSs4b6ZpeY1Vt16oQ",
+      "trackName": "Beatus vir in C Major, RV 597: Beatus vir I (Allegro) - Psaume 111",
+      "trackId": "4KHZzE6iUtLvRnvBDOx2br",
+      "preview": "https://p.scdn.co/mp3-preview/25d9fd31c515c218e51e5a7baf156d157f3d838e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bec4d589711d05dbc178070c3cd1ed26ee1fa4b6",
+      "release_date": "2017-05-15"
+    },
+    {
+      "featuredArtist": "Philip Langshaw",
+      "featuredArtistId": "5k1dOFkVpc551h0h3IhkhT",
+      "trackName": "Dixit Dominus in D Major, RV 594: Dixit Dominus (Allegro) - Psaume 109",
+      "trackId": "3JD1xtXg5MMOJXkt9extUk",
+      "preview": "https://p.scdn.co/mp3-preview/206ef9d5b5ce2d5d94be42c3bb251578db7205ba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bec4d589711d05dbc178070c3cd1ed26ee1fa4b6",
+      "release_date": "2017-05-15"
+    },
+    {
+      "featuredArtist": "Simon Standage",
+      "featuredArtistId": "2jIBkRzVUboTbp05rJnKeT",
+      "trackName": "Concerto For Violin And Strings In E Major, Op.8, No.1, RV 269 \"La Primavera\": 1. Allegro",
+      "trackId": "7Mo4pWlmtbhvDEHAi0K3zz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Trevor Pinnock",
+      "featuredArtistId": "25mbgceDJKxXGP8c5FmC83",
+      "trackName": "Concerto For Violin And Strings In E Major, Op.8, No.1, RV 269 \"La Primavera\": 1. Allegro",
+      "trackId": "7Mo4pWlmtbhvDEHAi0K3zz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "The English Concert",
+      "featuredArtistId": "2Oz3z7PPQUMU2KNYgcO1sA",
+      "trackName": "Concerto For Violin And Strings In E Major, Op.8, No.1, RV 269 \"La Primavera\": 1. Allegro",
+      "trackId": "7Mo4pWlmtbhvDEHAi0K3zz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "James Tyler",
+      "featuredArtistId": "2GmmkFnq13lWOyIMUF6AnY",
+      "trackName": "Concerto For 2 Mandolins, Strings And Continuo In G, RV 532: 1. Allegro",
+      "trackId": "3xfWFt88bpM3lBTiijY7te",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Robin Jeffrey",
+      "featuredArtistId": "60cp9072zfLqjaa2F3rYts",
+      "trackName": "Concerto For 2 Mandolins, Strings And Continuo In G, RV 532: 1. Allegro",
+      "trackId": "3xfWFt88bpM3lBTiijY7te",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Daniel Hope",
+      "featuredArtistId": "59r5UU2HOytn9V5uMZ5Vur",
+      "trackName": "Concerto For Violin And Strings In E Flat, Op.8/5 , RV 253 \"La tempesta di mare\": 1. (Allegro e) Presto",
+      "trackId": "2us39EKf0oRXBeSDnCswaT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Chamber Orchestra of Europe",
+      "featuredArtistId": "1VfDXOsmvKAtebAZ9KxQhC",
+      "trackName": "Concerto For Violin And Strings In E Flat, Op.8/5 , RV 253 \"La tempesta di mare\": 1. (Allegro e) Presto",
+      "trackId": "2us39EKf0oRXBeSDnCswaT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Maurice André",
+      "featuredArtistId": "12LdOpXPkvTuU6nauFBh41",
+      "trackName": "Concerto For 2 Trumpets, Strings And Continuo In C Major, RV 537: 1. Allegro",
+      "trackId": "7ujHKUDclsEA4MAvd5Mi56",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Mauritz Sillem",
+      "featuredArtistId": "4jjDLUK6QH8T3caOPV4Ble",
+      "trackName": "Concerto For 2 Trumpets, Strings And Continuo In C Major, RV 537: 1. Allegro",
+      "trackId": "7ujHKUDclsEA4MAvd5Mi56",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "English Chamber Orchestra",
+      "featuredArtistId": "2DO4p3CPDnInsJfg0jFfaF",
+      "trackName": "Concerto For 2 Trumpets, Strings And Continuo In C Major, RV 537: 1. Allegro",
+      "trackId": "7ujHKUDclsEA4MAvd5Mi56",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Sir Charles Mackerras",
+      "featuredArtistId": "1iyvtzGjtuQa1I5UGpzk6l",
+      "trackName": "Concerto For 2 Trumpets, Strings And Continuo In C Major, RV 537: 1. Allegro",
+      "trackId": "7ujHKUDclsEA4MAvd5Mi56",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Patrick Gallois",
+      "featuredArtistId": "13nrWU0iAugxOj586gGfaw",
+      "trackName": "Concerto For Flute And Strings In D, Op.10, No.3, RV 428 \"Il gardellino\": 1. Allegro",
+      "trackId": "40AtIwS2OgBaMHseBLYCj0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Orpheus Chamber Orchestra",
+      "featuredArtistId": "35pZsti1RSA5Zv98jAm8kX",
+      "trackName": "Concerto For Flute And Strings In D, Op.10, No.3, RV 428 \"Il gardellino\": 1. Allegro",
+      "trackId": "40AtIwS2OgBaMHseBLYCj0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "David Oistrakh",
+      "featuredArtistId": "7o2OjTu0Ls0xiWl3RzjdVp",
+      "trackName": "Concerto Grosso For 2 Violins, Strings And Continuo In A Minor, Op.3/8 , RV 522: 1. Allegro",
+      "trackId": "5qs1Xt7ez9uqFMypd91nTT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Igor Oistrakh",
+      "featuredArtistId": "26uMjSyTAF4BU3PKhrzJtd",
+      "trackName": "Concerto Grosso For 2 Violins, Strings And Continuo In A Minor, Op.3/8 , RV 522: 1. Allegro",
+      "trackId": "5qs1Xt7ez9uqFMypd91nTT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Royal Philharmonic Orchestra",
+      "featuredArtistId": "0MvSBMGRQJY3mRwIbJsqF1",
+      "trackName": "Concerto Grosso For 2 Violins, Strings And Continuo In A Minor, Op.3/8 , RV 522: 1. Allegro",
+      "trackId": "5qs1Xt7ez9uqFMypd91nTT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Paul Goodwin",
+      "featuredArtistId": "3IBnh0H86Bv9KxcwRxCe07",
+      "trackName": "Gloria in D, R.589: 1. Gloria in excelsis",
+      "trackId": "1zFuHFDvJWmqgSuO5kdIBL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Mark Bennett",
+      "featuredArtistId": "0EWX23pjbQ3h28fGpVCLjI",
+      "trackName": "Gloria in D, R.589: 1. Gloria in excelsis",
+      "trackId": "1zFuHFDvJWmqgSuO5kdIBL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "The English Concert Choir",
+      "featuredArtistId": "04aMNLu6adfcRyh59eta7f",
+      "trackName": "Gloria in D, R.589: 1. Gloria in excelsis",
+      "trackId": "1zFuHFDvJWmqgSuO5kdIBL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Simone Kermes",
+      "featuredArtistId": "5YB96PPFR0dEMazdUzMJDb",
+      "trackName": "Nulla in mundo pax, RV 630: 1. Nulla in mundo pax sincera",
+      "trackId": "2qhnC7WRamFMEekjh1Qu1A",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Venice Baroque Orchestra",
+      "featuredArtistId": "68xp8lYo96f9PMra0LHHl6",
+      "trackName": "Nulla in mundo pax, RV 630: 1. Nulla in mundo pax sincera",
+      "trackId": "2qhnC7WRamFMEekjh1Qu1A",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Andrea Marcon",
+      "featuredArtistId": "3VmMw22C6Yt9rM2T8tcZKU",
+      "trackName": "Nulla in mundo pax, RV 630: 1. Nulla in mundo pax sincera",
+      "trackId": "2qhnC7WRamFMEekjh1Qu1A",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Siegfried Behrend",
+      "featuredArtistId": "4GFTXfEyqcS9eAnAiVPYUy",
+      "trackName": "Concerto In C Major (After RV82): 1. Moderato",
+      "trackId": "7rpOmpzndkyguH0i0LGW6s",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "I Musici",
+      "featuredArtistId": "5TYM4xzvG2OuZafhTEuAHX",
+      "trackName": "Concerto In C Major (After RV82): 1. Moderato",
+      "trackId": "7rpOmpzndkyguH0i0LGW6s",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Michael Chance",
+      "featuredArtistId": "3vzk8TZItuZszZdyQjrG3g",
+      "trackName": "Nisi Dominus (Psalm 126), R.608: 1. \"Nisi Dominus\" (Allegro)",
+      "trackId": "60NVII9JmNQEDgoT54aTfi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Albrecht Mayer",
+      "featuredArtistId": "1Mbvbes7vW2Pg3bWD9aDgW",
+      "trackName": "Oboe Concerto In C Major, RV 447: 1. Allegro non molto",
+      "trackId": "6RiD4VGhMIJZEkLKmiSUbl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "New Seasons Ensemble",
+      "featuredArtistId": "59SB5jeyfNBRsz5lkR8iEE",
+      "trackName": "Oboe Concerto In C Major, RV 447: 1. Allegro non molto",
+      "trackId": "6RiD4VGhMIJZEkLKmiSUbl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "John Alldis Choir",
+      "featuredArtistId": "1c0LUqvKTiWVsdrIn4LTZz",
+      "trackName": "In exitu Israel (Psalm 113), R.604",
+      "trackId": "64KIdeJOVCda4xh8uQp82K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Adrian Beers",
+      "featuredArtistId": "3tcJuSIy9KyWD8srI7tUko",
+      "trackName": "In exitu Israel (Psalm 113), R.604",
+      "trackId": "64KIdeJOVCda4xh8uQp82K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "John Constable",
+      "featuredArtistId": "0n1rARWLJOmd74L6frzZ5Y",
+      "trackName": "In exitu Israel (Psalm 113), R.604",
+      "trackId": "64KIdeJOVCda4xh8uQp82K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Vittorio Negri",
+      "featuredArtistId": "53JPNhnLThHE0cXmKIHes4",
+      "trackName": "In exitu Israel (Psalm 113), R.604",
+      "trackId": "64KIdeJOVCda4xh8uQp82K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Mischa Maisky",
+      "featuredArtistId": "6rlVhQqS15yJMO4DZqrq6I",
+      "trackName": "Cello Concerto In C Minor, RV401: 1. Allegro non molto",
+      "trackId": "56pkGmQgBsHVAq2xWW8OQH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Choir of King's College, Cambridge",
+      "featuredArtistId": "0f3PsS9IQ6whvNMFFKnpjl",
+      "trackName": "Dixit Dominus (Psalm 109), R.594: 1. Allegro: Dixit Dominus",
+      "trackId": "6oscG2ca5XwivBpnWtJHGS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Stephen Cleobury",
+      "featuredArtistId": "0ugRf6ECGBFRCHlv9iG1No",
+      "trackName": "Dixit Dominus (Psalm 109), R.594: 1. Allegro: Dixit Dominus",
+      "trackId": "6oscG2ca5XwivBpnWtJHGS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9b2d3d8fe14571fda0009a579b57a5639c5f29b0",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Kreeta-Maria Kentala",
+      "featuredArtistId": "1uvvhsNGnZoyEWKztO0P0Z",
+      "trackName": "The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\": I. Allegro",
+      "trackId": "5xlZ5Fbcwhdf3T48lkvx8q",
+      "preview": "https://p.scdn.co/mp3-preview/89507b1282d134cf7f73e6abe7dd820fc89d89e1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe0582b1aa9e0e7f6932761911742e8ecb4ec211",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Barocco Boreale",
+      "featuredArtistId": "16SeGfV2D3guvRY6SnDFiU",
+      "trackName": "The Four Seasons, Violin Concerto in E Major, Op. 8 No. 1, RV 269 \"Spring\": I. Allegro",
+      "trackId": "5xlZ5Fbcwhdf3T48lkvx8q",
+      "preview": "https://p.scdn.co/mp3-preview/89507b1282d134cf7f73e6abe7dd820fc89d89e1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe0582b1aa9e0e7f6932761911742e8ecb4ec211",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Andrew Lawrence-King",
+      "featuredArtistId": "3IaOjT4uvherNQzpFMKiEu",
+      "trackName": "Concerto for Strings in C Major, RV 114: II. Adagio",
+      "trackId": "5RxtreUS3KgXFDcl1Xz2Eu",
+      "preview": "https://p.scdn.co/mp3-preview/9f6354ccb0c1ba3df2be7098ac692b050284494e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe0582b1aa9e0e7f6932761911742e8ecb4ec211",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Siiri Virkkala",
+      "featuredArtistId": "2sUJn8MZmbSQP27XM1g5JG",
+      "trackName": "Concerto for 2 Violins in A Minor, Op. 3 No. 8, RV 522: I. Allegro",
+      "trackId": "3VKInwjOZ9JE1Cgj6RcjQf",
+      "preview": "https://p.scdn.co/mp3-preview/7e28456c7b220c0b4f6fe3541782de9556904232?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe0582b1aa9e0e7f6932761911742e8ecb4ec211",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Camilla De Falleiro",
+      "featuredArtistId": "6Z6rOELTRVHiHVQdCeUAcB",
+      "trackName": "Sorge vermiglia in ciel la bella Aurora, RV 667: Recitative: Sorge vermiglia in ciel la bella Aurora",
+      "trackId": "0kOF7R9lfjm9zaLrZauUmO",
+      "preview": "https://p.scdn.co/mp3-preview/c6c969f5c992c88e2469c409ebbb6f8a40f67bb2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f05f2fd5bd8556e11c00c39b4f70b1e8629fb35",
+      "release_date": "2017-02-17"
+    },
+    {
+      "featuredArtist": "Accademia Apollinea",
+      "featuredArtistId": "5GVEIEt8boBK3g3SmiHrhD",
+      "trackName": "Sorge vermiglia in ciel la bella Aurora, RV 667: Recitative: Sorge vermiglia in ciel la bella Aurora",
+      "trackId": "0kOF7R9lfjm9zaLrZauUmO",
+      "preview": "https://p.scdn.co/mp3-preview/c6c969f5c992c88e2469c409ebbb6f8a40f67bb2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f05f2fd5bd8556e11c00c39b4f70b1e8629fb35",
+      "release_date": "2017-02-17"
+    }
+  ]
+}

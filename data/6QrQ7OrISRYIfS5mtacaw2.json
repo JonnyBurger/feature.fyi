@@ -1,0 +1,41 @@
+{
+  "artistName": "Jaymes Young",
+  "features": [
+    {
+      "featuredArtist": "Phoebe Ryan",
+      "featuredArtistId": "4N874uPqBka1QiCvnCVOtr",
+      "trackName": "We Won't",
+      "trackId": "0Zge2Kfo3Yd9JOGnAmVPbb",
+      "preview": "https://p.scdn.co/mp3-preview/1f8d50efd5e89c56eb16ec91aefe3da2e2b02a15?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/349e13973a9b887e8ac88677cc5e63a2123b54bd",
+      "release_date": "2017-06-23"
+    },
+    {
+      "featuredArtist": "Milkman",
+      "featuredArtistId": "30cKuCL2eREKcQ8NqyXUo7",
+      "trackName": "Dark Star (Milkman Remix)",
+      "trackId": "5hc56hz8l6W1u4acuXIiNY",
+      "preview": "https://p.scdn.co/mp3-preview/838271b7df60696726ec839a094be266d5a72b25?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b301914c39aa93dc6be685c8825b323c9cf2f485",
+      "release_date": "2013-07-30"
+    },
+    {
+      "featuredArtist": "Skizzy Mars",
+      "featuredArtistId": "00Z3UDoAQwzvGu13HoAM7J",
+      "trackName": "Hit Me Harder (feat. Jaymes Young)",
+      "trackId": "6uq7EUya2D6qL2rv7ozdIe",
+      "preview": "https://p.scdn.co/mp3-preview/d76e47ad12e29ed1ec5bffc5745dd3c1d21ed987?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/43c459bfa49b73fa5de3954def6755e8da551bfa",
+      "release_date": "2016-04-08"
+    },
+    {
+      "featuredArtist": "Klangkarussell",
+      "featuredArtistId": "041iTeoMIwXMlShuQPIVKo",
+      "trackName": "Sun Don't Shine",
+      "trackId": "5RVQbm10yQUhCiSbCuh0Zs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6c235d0c559aa968ba6463851f98688069dd4317",
+      "release_date": "2015-12-18"
+    }
+  ]
+}

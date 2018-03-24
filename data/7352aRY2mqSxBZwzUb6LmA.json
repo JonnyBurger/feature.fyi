@@ -1,0 +1,320 @@
+{
+  "artistName": "Bow Wow",
+  "features": [
+    {
+      "featuredArtist": "Soulja Boy",
+      "featuredArtistId": "6GMYJwaziB4ekv1Y6wCDWS",
+      "trackName": "Intro",
+      "trackId": "6AR90IhXcvA9w9RT6WT3sg",
+      "preview": "https://p.scdn.co/mp3-preview/f85d62bda52b4a0fc4990af2e918054f0d2ec651?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6455ebbbabad3a269f6f1f2e65a7f516c44f2d21",
+      "release_date": "2016-10-25"
+    },
+    {
+      "featuredArtist": "Nelly",
+      "featuredArtistId": "2gBjLmx6zQnFGQJCAQpRgw",
+      "trackName": "What They Call Me",
+      "trackId": "523GviZcITUtcgqiaYTcAI",
+      "preview": "https://p.scdn.co/mp3-preview/0d4be1d22006de34414a2f810fbf70f99a7a407c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0a849c795152e61bd75a1bc23a46c19802121dc0",
+      "release_date": "2009-03-31"
+    },
+    {
+      "featuredArtist": "Ron Browz",
+      "featuredArtistId": "1iqf0x89oxmmAFv9w9hiJM",
+      "trackName": "What They Call Me",
+      "trackId": "523GviZcITUtcgqiaYTcAI",
+      "preview": "https://p.scdn.co/mp3-preview/0d4be1d22006de34414a2f810fbf70f99a7a407c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0a849c795152e61bd75a1bc23a46c19802121dc0",
+      "release_date": "2009-03-31"
+    },
+    {
+      "featuredArtist": "Jermaine Dupri",
+      "featuredArtistId": "6nfYGe7IIuuP5bMY1jkJP6",
+      "trackName": "Roc The Mic - Radio Edit",
+      "trackId": "4tAZFQ0ymOKI6xtzMVM6I6",
+      "preview": "https://p.scdn.co/mp3-preview/ba7a9cbae734b78bdad98a8ec70c329f4d1e4c8c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0a849c795152e61bd75a1bc23a46c19802121dc0",
+      "release_date": "2009-03-31"
+    },
+    {
+      "featuredArtist": "T.I.",
+      "featuredArtistId": "4OBJLual30L7gRl5UkeRcT",
+      "trackName": "Been Doin' This",
+      "trackId": "1TKREA7vM87J1OozYUVuOp",
+      "preview": "https://p.scdn.co/mp3-preview/ab0c289f270dc59e59ee69a82b8125fb9a135a7f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0a849c795152e61bd75a1bc23a46c19802121dc0",
+      "release_date": "2009-03-31"
+    },
+    {
+      "featuredArtist": "Johnta Austin",
+      "featuredArtistId": "0DRTDBGl9fBAzVdF1IFA75",
+      "trackName": "You Can Get It All - Album Crossfade Version",
+      "trackId": "5u6oikaHRh6Bw52Nfzxt6A",
+      "preview": "https://p.scdn.co/mp3-preview/5cbac0f137b29515e7232f21b51d8b954b565bca?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0a849c795152e61bd75a1bc23a46c19802121dc0",
+      "release_date": "2009-03-31"
+    },
+    {
+      "featuredArtist": "Dondria",
+      "featuredArtistId": "4NgmPmKCSWm4kczsm6J3FO",
+      "trackName": "Like This",
+      "trackId": "3rXC6keOTwImGyb9K13Hos",
+      "preview": "https://p.scdn.co/mp3-preview/a9a98e5c3494956d59cabb54524b106a05a5dcea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0a849c795152e61bd75a1bc23a46c19802121dc0",
+      "release_date": "2009-03-31"
+    },
+    {
+      "featuredArtist": "T-Pain",
+      "featuredArtistId": "3aQeKQSyrW4qWr35idm0cy",
+      "trackName": "She's My",
+      "trackId": "6agCOxKc58zSn4JxMXT59A",
+      "preview": "https://p.scdn.co/mp3-preview/0e892c1a243f3cc24e134f824faad9d8d0ce38d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0a849c795152e61bd75a1bc23a46c19802121dc0",
+      "release_date": "2009-03-31"
+    },
+    {
+      "featuredArtist": "Trey Songz",
+      "featuredArtistId": "2iojnBLj0qIMiKPvVhLnsH",
+      "trackName": "I Ain't Playing",
+      "trackId": "2EZV9EXk1TSDYgxKNz6nk6",
+      "preview": "https://p.scdn.co/mp3-preview/efb1df5e31d8cbf5ef5f7e06e12f3869208ab44b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0a849c795152e61bd75a1bc23a46c19802121dc0",
+      "release_date": "2009-03-31"
+    },
+    {
+      "featuredArtist": "Swizz Beatz",
+      "featuredArtistId": "2cADQgiLMjNhbsfeN52Bf3",
+      "trackName": "Shake It",
+      "trackId": "31DzDhIujRQSsel8ZAWN5F",
+      "preview": "https://p.scdn.co/mp3-preview/845e1ffeeb9a72ce27a113a138ec1246b4f778b7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0a849c795152e61bd75a1bc23a46c19802121dc0",
+      "release_date": "2009-03-31"
+    },
+    {
+      "featuredArtist": "Omarion",
+      "featuredArtistId": "0f5nVCcR06GX8Qikz0COtT",
+      "trackName": "Face Off - Explicit Album Version",
+      "trackId": "5bu8qIW4LsyuyULV9bc4YX",
+      "preview": "https://p.scdn.co/mp3-preview/fda1b9526aa677c52fe52a686e3009f6718f3818?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/18000779fb9919acfb18013f5f1903d3c1faff27",
+      "release_date": "2007-12-11"
+    },
+    {
+      "featuredArtist": "Young Capone",
+      "featuredArtistId": "0Y6uL18ZtsVp0ERtPgyIyz",
+      "trackName": "Don't Know About That",
+      "trackId": "7wxrqcENFnjEJYXJNXaJjB",
+      "preview": "https://p.scdn.co/mp3-preview/7687e752e8a047a812f20bd0ac57bbfa06023c2f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/91a65fa319b484523fc46045864701241020c65f",
+      "release_date": "2007-02-06"
+    },
+    {
+      "featuredArtist": "Cocaine J",
+      "featuredArtistId": "1JCwKhBK1d7Lx4JYjlYNds",
+      "trackName": "Don't Know About That",
+      "trackId": "7wxrqcENFnjEJYXJNXaJjB",
+      "preview": "https://p.scdn.co/mp3-preview/7687e752e8a047a812f20bd0ac57bbfa06023c2f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/91a65fa319b484523fc46045864701241020c65f",
+      "release_date": "2007-02-06"
+    },
+    {
+      "featuredArtist": "J-Kwon",
+      "featuredArtistId": "1Zz5UxfKSSqc6hpa3xJPCw",
+      "trackName": "Intro",
+      "trackId": "5CBxIuuKj3gqfNU4BT2KT5",
+      "preview": "https://p.scdn.co/mp3-preview/96477fd3f4a2ea960b3cae2b186e0a9c5a43fcde?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/937291b9c615885d0ed7a617d1d7312b7393ec0f",
+      "release_date": "2006-12-15"
+    },
+    {
+      "featuredArtist": "Lil Wayne",
+      "featuredArtistId": "55Aa2cqylxrFIXC767Z865",
+      "trackName": "4 Corners",
+      "trackId": "6dXCbvvyrWlvnuGuLMzeNX",
+      "preview": "https://p.scdn.co/mp3-preview/60864a24238c25fe35d049c06fd888d2055df218?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/937291b9c615885d0ed7a617d1d7312b7393ec0f",
+      "release_date": "2006-12-15"
+    },
+    {
+      "featuredArtist": "Pimp C",
+      "featuredArtistId": "7v9bFXCdSMA2o3gS4nvp0F",
+      "trackName": "4 Corners",
+      "trackId": "6dXCbvvyrWlvnuGuLMzeNX",
+      "preview": "https://p.scdn.co/mp3-preview/60864a24238c25fe35d049c06fd888d2055df218?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/937291b9c615885d0ed7a617d1d7312b7393ec0f",
+      "release_date": "2006-12-15"
+    },
+    {
+      "featuredArtist": "Lil Scrappy",
+      "featuredArtistId": "5einkgXXrjhfYCyac1FANB",
+      "trackName": "4 Corners",
+      "trackId": "6dXCbvvyrWlvnuGuLMzeNX",
+      "preview": "https://p.scdn.co/mp3-preview/60864a24238c25fe35d049c06fd888d2055df218?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/937291b9c615885d0ed7a617d1d7312b7393ec0f",
+      "release_date": "2006-12-15"
+    },
+    {
+      "featuredArtist": "Short Dawg",
+      "featuredArtistId": "2H04ktXWZVHHf46E2NxxJa",
+      "trackName": "4 Corners",
+      "trackId": "6dXCbvvyrWlvnuGuLMzeNX",
+      "preview": "https://p.scdn.co/mp3-preview/60864a24238c25fe35d049c06fd888d2055df218?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/937291b9c615885d0ed7a617d1d7312b7393ec0f",
+      "release_date": "2006-12-15"
+    },
+    {
+      "featuredArtist": "Chris Brown",
+      "featuredArtistId": "7bXgB6jMjp9ATFy66eO08Z",
+      "trackName": "Shortie Like Mine",
+      "trackId": "6oUGAx0vkBcnGzYkvw0ZsA",
+      "preview": "https://p.scdn.co/mp3-preview/c383a09f6d0b12d2c6d33de86a5dffc2fd47b0ce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/937291b9c615885d0ed7a617d1d7312b7393ec0f",
+      "release_date": "2006-12-15"
+    },
+    {
+      "featuredArtist": "Da Brat",
+      "featuredArtistId": "2I1bnmb9VQEQGKHxvr0gSf",
+      "trackName": "Damn Thing",
+      "trackId": "0vpzgZYFvg7lPLbEnTQA82",
+      "preview": "https://p.scdn.co/mp3-preview/a675dd6fa75fe9ad21fe42ab06f9df4075ee6371?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/937291b9c615885d0ed7a617d1d7312b7393ec0f",
+      "release_date": "2006-12-15"
+    },
+    {
+      "featuredArtist": "Baby",
+      "featuredArtistId": "7E1r06wbRiF2soZtFoc62z",
+      "trackName": "Let's Get Down - Extended Album Version",
+      "trackId": "43h9fe3xELbJJlyvG363SM",
+      "preview": "https://p.scdn.co/mp3-preview/65f52eb02dea2de2e8ff8728d7a3a06ef5256fea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/986e76f6e1aa162b8ced1f7ca136ab293ae36c14",
+      "release_date": "2003-08-19"
+    },
+    {
+      "featuredArtist": "Jagged Edge",
+      "featuredArtistId": "7Aq8lpLMSt1Zxu56pe9bmp",
+      "trackName": "My Baby - With Intro",
+      "trackId": "4S6iSQ7Wr8Ugj4PK1iexkt",
+      "preview": "https://p.scdn.co/mp3-preview/749a382236db6d46dd0be71a5e467a5c13c334e2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/986e76f6e1aa162b8ced1f7ca136ab293ae36c14",
+      "release_date": "2003-08-19"
+    },
+    {
+      "featuredArtist": "Brandon Casey",
+      "featuredArtistId": "6pw5ePxlLPN87ikxsFHsvZ",
+      "trackName": "Hey Little Momma",
+      "trackId": "1P49nNx4TnnoFI7fRO9kZ7",
+      "preview": "https://p.scdn.co/mp3-preview/7934c048d3c2e0a4aafca69d77fb7c1dcbb79455?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/986e76f6e1aa162b8ced1f7ca136ab293ae36c14",
+      "release_date": "2003-08-19"
+    },
+    {
+      "featuredArtist": "Brian Casey",
+      "featuredArtistId": "1Zgn8DDi8ema6uKufbQOdG",
+      "trackName": "Hey Little Momma",
+      "trackId": "1P49nNx4TnnoFI7fRO9kZ7",
+      "preview": "https://p.scdn.co/mp3-preview/7934c048d3c2e0a4aafca69d77fb7c1dcbb79455?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/986e76f6e1aa162b8ced1f7ca136ab293ae36c14",
+      "release_date": "2003-08-19"
+    },
+    {
+      "featuredArtist": "Mario",
+      "featuredArtistId": "20s0P9QLxGqKuCsGwFsp7w",
+      "trackName": "I'll Move On",
+      "trackId": "4sNx7bloGJIQXzQOHZnO9z",
+      "preview": "https://p.scdn.co/mp3-preview/306df646e4162846e1bd01d0968a1709abd92a02?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/986e76f6e1aa162b8ced1f7ca136ab293ae36c14",
+      "release_date": "2003-08-19"
+    },
+    {
+      "featuredArtist": "Amerie",
+      "featuredArtistId": "08rMCq2ek1YjdDBsCPVH2s",
+      "trackName": "To My Mama",
+      "trackId": "2nyIW5rZo0eb1tHAoa8ghD",
+      "preview": "https://p.scdn.co/mp3-preview/e531d3fdaddf67bd374c2533a5d1c86fbd89278f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/986e76f6e1aa162b8ced1f7ca136ab293ae36c14",
+      "release_date": "2003-08-19"
+    },
+    {
+      "featuredArtist": "Snoop Dogg",
+      "featuredArtistId": "7hJcb9fa4alzcOq3EaNPoG",
+      "trackName": "Caviar",
+      "trackId": "3TSGTfq3yw1NHxPZo9H87r",
+      "preview": "https://p.scdn.co/mp3-preview/e9bc9920d16589bd6aa45ff270954b851c8c7be8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e82a0f62e3816a3e5e5bd3fbae00883ac0f9e91e",
+      "release_date": "2003"
+    },
+    {
+      "featuredArtist": "Ciara",
+      "featuredArtistId": "2NdeV5rLm47xAvogXrYhJX",
+      "trackName": "Like You",
+      "trackId": "3jEqrIfwKO0M8ALu3TGilF",
+      "preview": "https://p.scdn.co/mp3-preview/4c263e4318da635b6766bd963007476a34ada0e8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e82a0f62e3816a3e5e5bd3fbae00883ac0f9e91e",
+      "release_date": "2003"
+    },
+    {
+      "featuredArtist": "T.Waters",
+      "featuredArtistId": "3K46h9OH01QcgEZVvr5DBH",
+      "trackName": "Mo Money",
+      "trackId": "7yYkmNQd4Zlxm148iubKaF",
+      "preview": "https://p.scdn.co/mp3-preview/65962c8fbe029f34449c38ed57eca0325b19ec76?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e82a0f62e3816a3e5e5bd3fbae00883ac0f9e91e",
+      "release_date": "2003"
+    },
+    {
+      "featuredArtist": "Fabolous",
+      "featuredArtistId": "0YWxKQj2Go9CGHCp77UOyy",
+      "trackName": "Basketball",
+      "trackId": "1DyuWFjLlMoJpcGjFdPoMJ",
+      "preview": "https://p.scdn.co/mp3-preview/71d8d2b6b2681cc2784b205d365dd86063ca0fe6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/738d9b3de975e31c0111f46373378b5d207c4483",
+      "release_date": "2002-12-09"
+    },
+    {
+      "featuredArtist": "Fundisha",
+      "featuredArtistId": "6rh2u7ghM7Dw1HnGmuBeSL",
+      "trackName": "Basketball",
+      "trackId": "1DyuWFjLlMoJpcGjFdPoMJ",
+      "preview": "https://p.scdn.co/mp3-preview/71d8d2b6b2681cc2784b205d365dd86063ca0fe6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/738d9b3de975e31c0111f46373378b5d207c4483",
+      "release_date": "2002-12-09"
+    },
+    {
+      "featuredArtist": "Young Steff",
+      "featuredArtistId": "1onV3wRLwIfiGSMuNxsVnr",
+      "trackName": "Can I Holla",
+      "trackId": "1JJVwXqsGMVCRJsJcmVquh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/738d9b3de975e31c0111f46373378b5d207c4483",
+      "release_date": "2002-12-09"
+    },
+    {
+      "featuredArtist": "R.O.C.",
+      "featuredArtistId": "28fGi6p113wMAhJ18cHaCg",
+      "trackName": "The Future",
+      "trackId": "0mofShjEaqOHnlJHvZREEe",
+      "preview": "https://p.scdn.co/mp3-preview/876557c9b87217526e838abea57c0deb0922d52c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a8b6603fbc65bd361e6b8e1d142643ee27154675",
+      "release_date": "2000-11-17"
+    },
+    {
+      "featuredArtist": "Xscape",
+      "featuredArtistId": "5z2cHsOmmmWcAPNG1oEhw0",
+      "trackName": "Bounce With Me - Edited Album Version",
+      "trackId": "5H9QtXfFUIrlNUig8pr1Nx",
+      "preview": "https://p.scdn.co/mp3-preview/8629f1d4c74ef6d5e9a8e07c8db4501505d57291?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a8b6603fbc65bd361e6b8e1d142643ee27154675",
+      "release_date": "2000-11-17"
+    },
+    {
+      "featuredArtist": "Big Duke",
+      "featuredArtistId": "47qOecnSdFN91g1S9vhSVj",
+      "trackName": "This Playboy",
+      "trackId": "4uIZo9tJKfzGi3MLrxf5dH",
+      "preview": "https://p.scdn.co/mp3-preview/e7f58089d5700ea5fd06f45bdcee8f5fc13044c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a8b6603fbc65bd361e6b8e1d142643ee27154675",
+      "release_date": "2000-11-17"
+    }
+  ]
+}

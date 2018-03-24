@@ -1,0 +1,23 @@
+{
+  "artistName": "Imagine Dragons",
+  "features": [
+    {
+      "featuredArtist": "Broiler",
+      "featuredArtistId": "3836OTICMPjhTMMcpPw4EC",
+      "trackName": "Shots - Broiler Remix",
+      "trackId": "1ASo7euq1w4KHaz9tq6jkt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6f9725edf5e720fc69699d1541c890341fe3add",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Kendrick Lamar",
+      "featuredArtistId": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "trackName": "Radioactive",
+      "trackId": "6nDAs3PRe37fgqLfx51lBB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/17c0d79a0968a73b6ac65a53656fe7f551c4b349",
+      "release_date": "2014-09-29"
+    }
+  ]
+}

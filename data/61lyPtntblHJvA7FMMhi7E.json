@@ -1,0 +1,77 @@
+{
+  "artistName": "Duke Dumont",
+  "features": [
+    {
+      "featuredArtist": "Ebenezer",
+      "featuredArtistId": "2vik8lyw8WiALKMJK7C3hn",
+      "trackName": "Inhale",
+      "trackId": "05bUAkDRK3xzvVkZlGU6ee",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3579aebef831bb2ef577bce2fd5ef8a64476f3aa",
+      "release_date": "2018-03-15"
+    },
+    {
+      "featuredArtist": "Gorgon City",
+      "featuredArtistId": "4VNQWV2y1E97Eqo2D5UTjx",
+      "trackName": "Real Life - Acoustic",
+      "trackId": "4jKcxSEpxZZyWEQUaj8GgE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/93c41fe31a00a4a98e3f542204e0efd884769a2f",
+      "release_date": "2017-07-28"
+    },
+    {
+      "featuredArtist": "NAATIONS",
+      "featuredArtistId": "6mpxgK8EZh8VDoe6trGF0f",
+      "trackName": "Real Life - Acoustic",
+      "trackId": "4jKcxSEpxZZyWEQUaj8GgE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/93c41fe31a00a4a98e3f542204e0efd884769a2f",
+      "release_date": "2017-07-28"
+    },
+    {
+      "featuredArtist": "Tom & Collins",
+      "featuredArtistId": "1XU5MjR4kex9BGyY4UMtta",
+      "trackName": "Real Life - Tom & Collins Remix",
+      "trackId": "21dx79hSBelmwSTgCt5r25",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dca35be84731b6ad976768a6149a1d37ecb16c76",
+      "release_date": "2017-07-28"
+    },
+    {
+      "featuredArtist": "Dillon Francis",
+      "featuredArtistId": "5R3Hr2cnCCjt220Jmt2xLf",
+      "trackName": "Real Life - Dillon Francis Remix",
+      "trackId": "6lIFFHOlxz0bgegrzFIOE5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dca35be84731b6ad976768a6149a1d37ecb16c76",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Kilter",
+      "featuredArtistId": "2syYGtINPRno1nxxil7UcJ",
+      "trackName": "Real Life - Kilter Remix",
+      "trackId": "0IsQOjm9uzHGnlBI7kBY5w",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dca35be84731b6ad976768a6149a1d37ecb16c76",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Murdock",
+      "featuredArtistId": "0K3zOFHjHNoZ0nFw4yDKKv",
+      "trackName": "Real Life - Murdock Remix",
+      "trackId": "3YEU603mIs6nCwe0ndiyfp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/19e83d74f2ed3f12e3a9bc600b3898cb43b18310",
+      "release_date": "2017-07-21"
+    },
+    {
+      "featuredArtist": "Solardo",
+      "featuredArtistId": "0oO1IaDOBSeI96HbnCa5pZ",
+      "trackName": "Real Life - Solardo Remix",
+      "trackId": "2rM4x7lZfYdpN7hHqsOLbm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/19e83d74f2ed3f12e3a9bc600b3898cb43b18310",
+      "release_date": "2017-06-26"
+    }
+  ]
+}

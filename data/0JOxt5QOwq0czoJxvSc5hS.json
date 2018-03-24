@@ -1,0 +1,59 @@
+{
+  "artistName": "GASHI",
+  "features": [
+    {
+      "featuredArtist": "Dark Heart",
+      "featuredArtistId": "1k7Cc2WGh6LAE1TUh6dsiy",
+      "trackName": "Turn Me Down - Dark Heart Remix",
+      "trackId": "7gkPG2e1tKqXJ8FPmqt3gB",
+      "preview": "https://p.scdn.co/mp3-preview/e67a3482a836b62c03be3585d5903b18d992b1c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7a9a95fbdede0d99ba68f32f48ea63872b7998c4",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "DJ Snake",
+      "featuredArtistId": "540vIaP2JwjQb9dm3aArA4",
+      "trackName": "4 Life - Habstrakt Remix",
+      "trackId": "1l2eQn01P3AsH7DtmBquY6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0b739d343fd991c84e414b68b344d050a9a61247",
+      "release_date": "2017-03-22"
+    },
+    {
+      "featuredArtist": "Habstrakt",
+      "featuredArtistId": "1YYJxpOXYk1z1WtqdeLMkn",
+      "trackName": "4 Life - Habstrakt Remix",
+      "trackId": "1l2eQn01P3AsH7DtmBquY6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0b739d343fd991c84e414b68b344d050a9a61247",
+      "release_date": "2017-03-22"
+    },
+    {
+      "featuredArtist": "Travis Scott",
+      "featuredArtistId": "0Y5tJX1MQlPlqiwlOH1tJY",
+      "trackName": "Oh Me Oh My - Malaa Remix",
+      "trackId": "6LH3YJHp0nYQLunDCYF0bR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f17de337cb798418f4ed18ec447805afe068256f",
+      "release_date": "2017-03-20"
+    },
+    {
+      "featuredArtist": "Migos",
+      "featuredArtistId": "6oMuImdp5ZcFhWP0ESe6mG",
+      "trackName": "Oh Me Oh My - Malaa Remix",
+      "trackId": "6LH3YJHp0nYQLunDCYF0bR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f17de337cb798418f4ed18ec447805afe068256f",
+      "release_date": "2017-03-20"
+    },
+    {
+      "featuredArtist": "Malaa",
+      "featuredArtistId": "7w1eTNePApzDk8XtgykCPS",
+      "trackName": "Oh Me Oh My - Malaa Remix",
+      "trackId": "6LH3YJHp0nYQLunDCYF0bR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f17de337cb798418f4ed18ec447805afe068256f",
+      "release_date": "2017-03-20"
+    }
+  ]
+}

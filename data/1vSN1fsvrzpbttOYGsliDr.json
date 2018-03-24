@@ -1,0 +1,50 @@
+{
+  "artistName": "Tori Kelly",
+  "features": [
+    {
+      "featuredArtist": "Daye Jack",
+      "featuredArtistId": "0LSjb1pZ3uHwuvIaVzhdyT",
+      "trackName": "Expensive",
+      "trackId": "0YRuSSXnzHfm98Ah0MYopl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e76a7ed570382f1eb67366423004171e8c1099d",
+      "release_date": "2016-01-29"
+    },
+    {
+      "featuredArtist": "Ed Sheeran",
+      "featuredArtistId": "6eUKZXaKkcviH0Ku9w2n3V",
+      "trackName": "I Was Made For Loving You",
+      "trackId": "6wGhxvioddSeWsQCv42Egm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e76a7ed570382f1eb67366423004171e8c1099d",
+      "release_date": "2016-01-29"
+    },
+    {
+      "featuredArtist": "LL Cool J",
+      "featuredArtistId": "1P8IfcNKwrkQP5xJWuhaOC",
+      "trackName": "California Lovers",
+      "trackId": "6iCfbRLwjJO4oRqpMWCoVB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e76a7ed570382f1eb67366423004171e8c1099d",
+      "release_date": "2016-01-29"
+    },
+    {
+      "featuredArtist": "Professor Green",
+      "featuredArtistId": "0oJM3iJjMdzgsd4z5VHQvw",
+      "trackName": "Lullaby - Bonus Track",
+      "trackId": "5CPNJitvU3CYI3Vm80FTr1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e76a7ed570382f1eb67366423004171e8c1099d",
+      "release_date": "2016-01-29"
+    },
+    {
+      "featuredArtist": "Big Sean",
+      "featuredArtistId": "0c173mlxpT3dSFRgMO8XPh",
+      "trackName": "Hollow",
+      "trackId": "160hN2OsDXnmgExwtG7cvD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c14819d74c35a668cd4a7b4d8e3922ba26ec7b8b",
+      "release_date": "2015-11-02"
+    }
+  ]
+}

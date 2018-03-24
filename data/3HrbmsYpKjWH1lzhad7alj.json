@@ -1,0 +1,428 @@
+{
+  "artistName": "Los Auténticos Decadentes",
+  "features": [
+    {
+      "featuredArtist": "KLUB",
+      "featuredArtistId": "11NwV46MotnomZqyYxE2uY",
+      "trackName": "Confundido",
+      "trackId": "01kWL1mMqJ7yGxv9dHg4xB",
+      "preview": "https://p.scdn.co/mp3-preview/c34116ed8bd522b4ad4511fdf6ee9e34becebd8d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Vicentico",
+      "featuredArtistId": "25THA9HUHoxpCT4LBp7UsZ",
+      "trackName": "Confundido",
+      "trackId": "01kWL1mMqJ7yGxv9dHg4xB",
+      "preview": "https://p.scdn.co/mp3-preview/c34116ed8bd522b4ad4511fdf6ee9e34becebd8d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Daniel Melingo",
+      "featuredArtistId": "08X5fKnU2tkjH4IeLnl8vt",
+      "trackName": "Confundido",
+      "trackId": "01kWL1mMqJ7yGxv9dHg4xB",
+      "preview": "https://p.scdn.co/mp3-preview/c34116ed8bd522b4ad4511fdf6ee9e34becebd8d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Carlos Vives",
+      "featuredArtistId": "4vhNDa5ycK0ST968ek7kRr",
+      "trackName": "La Guitarra",
+      "trackId": "3ou9xzd0sXgCnAYYOSvxy8",
+      "preview": "https://p.scdn.co/mp3-preview/5f2fa822f3224991af42b4a48d998dcc328975af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Macaco",
+      "featuredArtistId": "7mUBMaZW1MXGswaneb0JTT",
+      "trackName": "La Guitarra",
+      "trackId": "3ou9xzd0sXgCnAYYOSvxy8",
+      "preview": "https://p.scdn.co/mp3-preview/5f2fa822f3224991af42b4a48d998dcc328975af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Néstor Ramljak",
+      "featuredArtistId": "3q2LyRkgUySIfaeRk10J2l",
+      "trackName": "La Guitarra",
+      "trackId": "3ou9xzd0sXgCnAYYOSvxy8",
+      "preview": "https://p.scdn.co/mp3-preview/5f2fa822f3224991af42b4a48d998dcc328975af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Los Cafres",
+      "featuredArtistId": "2ST5XwWB4uXGKk2NXP8DUI",
+      "trackName": "Luna Radiante",
+      "trackId": "4RU7L3idzOZLfg57H4eh4P",
+      "preview": "https://p.scdn.co/mp3-preview/989bff161b06a06f10e691327901e174a9ba8f98?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Ruben Rada",
+      "featuredArtistId": "5AfGpwSbYKelc5nJjUVRmb",
+      "trackName": "El Murguero",
+      "trackId": "1ufqTUs8uI5ZGulDfrohVY",
+      "preview": "https://p.scdn.co/mp3-preview/752302715e9203827f5ff3db1a1f76737cd8861a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Amílcar Nadal",
+      "featuredArtistId": "0YjJ8fz0s05bOaAOonuMPT",
+      "trackName": "El Murguero",
+      "trackId": "1ufqTUs8uI5ZGulDfrohVY",
+      "preview": "https://p.scdn.co/mp3-preview/752302715e9203827f5ff3db1a1f76737cd8861a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Che Sudaka",
+      "featuredArtistId": "1MVDCfwzKoHGsOzeH17Ady",
+      "trackName": "El Murguero",
+      "trackId": "1ufqTUs8uI5ZGulDfrohVY",
+      "preview": "https://p.scdn.co/mp3-preview/752302715e9203827f5ff3db1a1f76737cd8861a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Dread Mar I",
+      "featuredArtistId": "1aw0Cdl1DIrtUrUA6fGbAR",
+      "trackName": "El Pájaro Vió el Cielo y Se Voló",
+      "trackId": "12L3ZEO2XuQkXzK3p1X1em",
+      "preview": "https://p.scdn.co/mp3-preview/5e1130164b89b59c335736ce19f8491b93da10c3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Nekro",
+      "featuredArtistId": "7cZel7MzO2o4OcjDrYR4UH",
+      "trackName": "Loco (Tu Forma de Ser)",
+      "trackId": "0tpWZaXhDv3iwzAlOCUHAh",
+      "preview": "https://p.scdn.co/mp3-preview/45e571957c9388e9c27fc562fa8945157dcb43eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Gondwana",
+      "featuredArtistId": "4nSgEvZncnC5oNPVrtwnLd",
+      "trackName": "Loco (Tu Forma de Ser)",
+      "trackId": "0tpWZaXhDv3iwzAlOCUHAh",
+      "preview": "https://p.scdn.co/mp3-preview/45e571957c9388e9c27fc562fa8945157dcb43eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Goy Ogalde",
+      "featuredArtistId": "170R5MHc1kaj5wjpe9r0V4",
+      "trackName": "Lejos de Ti",
+      "trackId": "7vjGI9NsDpRO2XYEBen55o",
+      "preview": "https://p.scdn.co/mp3-preview/887a95c3b3e97fc793001f7a9b6b7fad48c26c62?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Chirola",
+      "featuredArtistId": "2s58hqi9mZj6GLsSeqTFzS",
+      "trackName": "Lejos de Ti",
+      "trackId": "7vjGI9NsDpRO2XYEBen55o",
+      "preview": "https://p.scdn.co/mp3-preview/887a95c3b3e97fc793001f7a9b6b7fad48c26c62?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Iluminate",
+      "featuredArtistId": "3EROv2G06fhHj8WTLlcEAs",
+      "trackName": "El Jorobadito",
+      "trackId": "0rCwJVJqm5BSac4uBxq1RJ",
+      "preview": "https://p.scdn.co/mp3-preview/2ea8aab8ae6b7cbec9b9459598b5f37754b25981?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Mimi Maura",
+      "featuredArtistId": "4VKHNaUBImLsxPOCdG5Mwl",
+      "trackName": "El Vino Triste",
+      "trackId": "1atCMXKS1AXiJAv7Wo7faC",
+      "preview": "https://p.scdn.co/mp3-preview/83ee9eb44cbb38e86c157a654fc792d65fb07688?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Pablo Molina",
+      "featuredArtistId": "1PoD7Jl0frSiDWXY5Qt0fB",
+      "trackName": "Pastas y Vino",
+      "trackId": "7w7N9a1QtkHisGtCb3iUaM",
+      "preview": "https://p.scdn.co/mp3-preview/cade71cfb3f1b20d17b9b8390f0302b8023370a1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Chelo Zimbabwe",
+      "featuredArtistId": "0XLVhJIBt95ktFoPLtdC37",
+      "trackName": "Sigue Tu Camino",
+      "trackId": "7MwfubNCz0XvLIZZgbKPuy",
+      "preview": "https://p.scdn.co/mp3-preview/e5ef518d8a92bad6622315ac4e05295b81ab67e2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Bahiano",
+      "featuredArtistId": "3FXD2eQcHOiacO9qXENLUN",
+      "trackName": "Turdera",
+      "trackId": "0vALBm4gjxkGbYufzlOzlW",
+      "preview": "https://p.scdn.co/mp3-preview/c8b16f58da53a65ec179af37ff7dee6ee5a4d2af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Pety",
+      "featuredArtistId": "3SFqzP1uEZpiTyd8lrvdUj",
+      "trackName": "Besándote",
+      "trackId": "4loEDSI6ev2ZAD4tnWOmv4",
+      "preview": "https://p.scdn.co/mp3-preview/a68a40e922d44d1e5a888aece8268b7c1b1ce741?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "DJ Nelson",
+      "featuredArtistId": "2ydZrTy8U3kOMOzx20s3dg",
+      "trackName": "Besándote",
+      "trackId": "4loEDSI6ev2ZAD4tnWOmv4",
+      "preview": "https://p.scdn.co/mp3-preview/a68a40e922d44d1e5a888aece8268b7c1b1ce741?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "La Pegatina",
+      "featuredArtistId": "4xvB67czbtvemGVXGa81oK",
+      "trackName": "Gente Que No",
+      "trackId": "7ipyLCls3A6fBg7fM9R3rL",
+      "preview": "https://p.scdn.co/mp3-preview/77e3bdbf8824d12a95e0d39b688396280185a1ae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Los Caligaris",
+      "featuredArtistId": "13wFTN72PGSUxzEHJP5Ljs",
+      "trackName": "Como Me Voy a Olvidar",
+      "trackId": "6U3UvNl2rPUSgZeJxzSWMp",
+      "preview": "https://p.scdn.co/mp3-preview/6e7990dae5c890caa7b55fce303034ccf77a0633?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Sol Pereyra",
+      "featuredArtistId": "6nmZ0P2weepXhXvox51G1A",
+      "trackName": "Como Me Voy a Olvidar",
+      "trackId": "6U3UvNl2rPUSgZeJxzSWMp",
+      "preview": "https://p.scdn.co/mp3-preview/6e7990dae5c890caa7b55fce303034ccf77a0633?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Kapanga",
+      "featuredArtistId": "2MLiASzGQHVMyORIApRGsp",
+      "trackName": "Como Me Voy a Olvidar",
+      "trackId": "6U3UvNl2rPUSgZeJxzSWMp",
+      "preview": "https://p.scdn.co/mp3-preview/6e7990dae5c890caa7b55fce303034ccf77a0633?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Los Rabanes",
+      "featuredArtistId": "3yYb4SmE7A3rpOTklSlpXO",
+      "trackName": "Somos",
+      "trackId": "2HqVE2YLOjhfCw0lIDcuLn",
+      "preview": "https://p.scdn.co/mp3-preview/cf4ed4c59fd8e14fc80bc63a9f4b6bb20b536aaa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Juampe",
+      "featuredArtistId": "1yPa84fezuYiR3qvwM26Jo",
+      "trackName": "Loco Klad",
+      "trackId": "2ysQzGw7F3vhcRQOEfQv4B",
+      "preview": "https://p.scdn.co/mp3-preview/03128bbf5ccdeb629c45d4608c52c33d09bdfdc3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fa2a45b913f8e131362104500e767e64b73e602a",
+      "release_date": "2017-06-07"
+    },
+    {
+      "featuredArtist": "Cacho Castaña",
+      "featuredArtistId": "3lwRbCTt1qmo0QgXUai8ao",
+      "trackName": "Y la Banda Sigue",
+      "trackId": "1fHYfXMXkhrWd9dzIOharS",
+      "preview": "https://p.scdn.co/mp3-preview/b3047ce4d72d9622b5a7db15a07f94a80332cbc1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1ee8c3a94c6af00c5945623da12ff9ce852753af",
+      "release_date": "2014-10-28"
+    },
+    {
+      "featuredArtist": "Agarrate Catalina",
+      "featuredArtistId": "0Jo06O68y5JjVgiPbAR9Ox",
+      "trackName": "Los Pibes Se Portan Bien",
+      "trackId": "65MSxYBtOaqUIrfsiGm2QB",
+      "preview": "https://p.scdn.co/mp3-preview/b1454d278daf0f8269c77f6d6f298961b794278e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1ee8c3a94c6af00c5945623da12ff9ce852753af",
+      "release_date": "2014-10-28"
+    },
+    {
+      "featuredArtist": "Julieta Venegas",
+      "featuredArtistId": "2QWIScpFDNxmS6ZEMIUvgm",
+      "trackName": "No Me Importa el Dinero (feat. Julieta Venegas) [Vivo]",
+      "trackId": "4wXjnoLIMTninCnKRgGsQc",
+      "preview": "https://p.scdn.co/mp3-preview/fe7636de9403c1aa5092a93ae55f721bd746efc9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/62c693f7cb4c2be914ad23071a5f070f67f9d21f",
+      "release_date": "2012-05-10"
+    },
+    {
+      "featuredArtist": "No Te Va Gustar",
+      "featuredArtistId": "4ZDoy7AWNgQVmX7T0u0B1j",
+      "trackName": "Cómo Me Voy a Olvidar (feat. No Te Va Gustar) [Vivo]",
+      "trackId": "1rU3M9Emyde10TQL7ZyGRt",
+      "preview": "https://p.scdn.co/mp3-preview/d099ed373dfc1719e3a15184ca8f30df61b482cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/62c693f7cb4c2be914ad23071a5f070f67f9d21f",
+      "release_date": "2012-05-10"
+    },
+    {
+      "featuredArtist": "Babasónicos",
+      "featuredArtistId": "2F9pvj94b52wGKs0OqiNi2",
+      "trackName": "Luna Radiante (feat. Babasónicos) [Vivo]",
+      "trackId": "3VBkaixuWiyHaEUN2C0zCL",
+      "preview": "https://p.scdn.co/mp3-preview/02c9efd08c5b8bb0ff79e5dc8698c25e5f888d31?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/62c693f7cb4c2be914ad23071a5f070f67f9d21f",
+      "release_date": "2012-05-10"
+    },
+    {
+      "featuredArtist": "Fernando Ruiz Díaz (Catupecu Machu)",
+      "featuredArtistId": "4p8nbklceLK8yQtCNW2hvu",
+      "trackName": "Un Osito de Peluche de Taiwán (feat. Fernando Ruiz Díaz) [Vivo]",
+      "trackId": "1oEVFAAHzA8xPbPoaJB3bf",
+      "preview": "https://p.scdn.co/mp3-preview/2a7ffb89535e1098263a7280cda9d6059a46d892?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/62c693f7cb4c2be914ad23071a5f070f67f9d21f",
+      "release_date": "2012-05-10"
+    },
+    {
+      "featuredArtist": "Rubén Albarrán y Quique Rangel (Café Tacuba)",
+      "featuredArtistId": "4FhrEYWKUyBS1rqzxssG3J",
+      "trackName": "Corazón (feat. Rubén Albarrán y Quique Rangel) [Versión Estudio]",
+      "trackId": "10nOUbLxLkKICrRrbRHmSo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/62c693f7cb4c2be914ad23071a5f070f67f9d21f",
+      "release_date": "2012-05-10"
+    },
+    {
+      "featuredArtist": "Fidel",
+      "featuredArtistId": "6MKNw6dfIVfeobtckAipCO",
+      "trackName": "Tribus Urbanas",
+      "trackId": "15fvrHZNeJ7MOQ1MidEIG8",
+      "preview": "https://p.scdn.co/mp3-preview/4b079b78ee2e883c83b47f7ccd71641689790a15?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4c4b029dcf238fcc5f888d8537879383358aa4cd",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Joaquín Levinton",
+      "featuredArtistId": "40YfcUtQrNSRJty5K9O3eI",
+      "trackName": "Festival de Rock",
+      "trackId": "07XaZhhyJWNifo7ScVkBID",
+      "preview": "https://p.scdn.co/mp3-preview/a6814bfffc467d5494654098f17e633b3ed0a080?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4c4b029dcf238fcc5f888d8537879383358aa4cd",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "La Mona Jimenez",
+      "featuredArtistId": "64DFKvGarD5nmkfaIiiakf",
+      "trackName": "Jopito",
+      "trackId": "79QtevbbQe2RxILUTPz3K3",
+      "preview": "https://p.scdn.co/mp3-preview/b6c4f12ef203f09853059df1e9a7503d363380db?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4c4b029dcf238fcc5f888d8537879383358aa4cd",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Emmanuel Hourviller",
+      "featuredArtistId": "1JA7J45TT4HL6KKpTN0kBt",
+      "trackName": "Cultura Disco",
+      "trackId": "48ZssTkyrBmuL2OV9tNhOO",
+      "preview": "https://p.scdn.co/mp3-preview/7794f8977eecfc98acea0601422b1c1b312a4f9a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4c4b029dcf238fcc5f888d8537879383358aa4cd",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Bersuit Vergarabat",
+      "featuredArtistId": "6MxyNXnnmwQwdW2PD0gXYO",
+      "trackName": "Me Tiro a la Basura",
+      "trackId": "3t1H35PGAU313q0t0zjFqE",
+      "preview": "https://p.scdn.co/mp3-preview/67e0783e01b5d54d294abb4427d5e08c106b13dc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/35a8cb38539942de70827799547ecd6e7ba7d88f",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Gustavo Cordera",
+      "featuredArtistId": "3dOfwznaY7FEKpF8aw1q9i",
+      "trackName": "Me Tiro a la Basura",
+      "trackId": "1EkZ420Ac4jwekB5nZy4DK",
+      "preview": "https://p.scdn.co/mp3-preview/107a2f28c54c03cd0245510788e4ac8c5577c084?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bcd38547849862b5af31ea00a232b310792874bc",
+      "release_date": "2006-10-10"
+    },
+    {
+      "featuredArtist": "Juanse",
+      "featuredArtistId": "5AQlQBU9LCmQwReukeom2I",
+      "trackName": "Otra Vez Lo Arruiné Todo",
+      "trackId": "5gNwBXIBs5MuKMIuA7ajp5",
+      "preview": "https://p.scdn.co/mp3-preview/083164fe4a4212a40566697ea7552d62eeeb765b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bcd38547849862b5af31ea00a232b310792874bc",
+      "release_date": "2006-10-10"
+    },
+    {
+      "featuredArtist": "Adrian Dargelos",
+      "featuredArtistId": "4F55zi79SZIr5PPOLTJ6cg",
+      "trackName": "Viaje Mental",
+      "trackId": "06siiqPBZI1fsSwly3LvBZ",
+      "preview": "https://p.scdn.co/mp3-preview/aaa1e9232f2a59a67863f76fa8bd95b1fc05809a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bcd38547849862b5af31ea00a232b310792874bc",
+      "release_date": "2006-10-10"
+    },
+    {
+      "featuredArtist": "Attaque 77 (Invitados)",
+      "featuredArtistId": "70jYU9DODyu0KHODhcqydY",
+      "trackName": "El Jorobadito - En Vivo",
+      "trackId": "1pT49SNIlm7p9uwjSALWwR",
+      "preview": "https://p.scdn.co/mp3-preview/29e4074dc83c4eb4a3c909c83301a57ced331d69?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0ee8e6223826458279d00f5508fc22bdabdbcdb5",
+      "release_date": "2004-10-13"
+    },
+    {
+      "featuredArtist": "Los Chunguitos",
+      "featuredArtistId": "5dRk8JyA2Tg9wL0iiTqbVu",
+      "trackName": "Como la Abeja y la Flor",
+      "trackId": "1dP17siFNAiZ2pSyVi9BUW",
+      "preview": "https://p.scdn.co/mp3-preview/888280997d78b4e2a5e54b10e5dd9b8af23a0700?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d83062a90bd63c7f4e6c95f7b9b9c051d779a59",
+      "release_date": "2003-01-01"
+    },
+    {
+      "featuredArtist": "Chaqueño Palavecino",
+      "featuredArtistId": "1GlOpg3dPUft550esb82K3",
+      "trackName": "Río",
+      "trackId": "66pw0R4GBvVQGFjNfiFE8N",
+      "preview": "https://p.scdn.co/mp3-preview/5531e5db00ff1121a37dcb210211c1a9e9ae2d95?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d83062a90bd63c7f4e6c95f7b9b9c051d779a59",
+      "release_date": "2003-01-01"
+    },
+    {
+      "featuredArtist": "El Gran Silencio",
+      "featuredArtistId": "6pWTPhk1AtVfNmkaeXXVpD",
+      "trackName": "A los Piropos",
+      "trackId": "57ed1bJZiolITWQigiT4wW",
+      "preview": "https://p.scdn.co/mp3-preview/ae2c90ed17d3d9f023c4ecbec54263dd3a5d2eff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d83062a90bd63c7f4e6c95f7b9b9c051d779a59",
+      "release_date": "2003-01-01"
+    }
+  ]
+}

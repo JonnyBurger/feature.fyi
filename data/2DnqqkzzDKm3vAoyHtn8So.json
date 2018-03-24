@@ -1,0 +1,32 @@
+{
+  "artistName": "Uncle Kracker",
+  "features": [
+    {
+      "featuredArtist": "Kenny Chesney",
+      "featuredArtistId": "3grHWM9bx2E9vwJCdlRv9O",
+      "trackName": "Last Night Again",
+      "trackId": "1MrdnAXGUc3HDzabpvKp86",
+      "preview": "https://p.scdn.co/mp3-preview/a6503e2b5ac054e2e628d5b648db5b5a25978d1a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/418fd5c913ed5fc1109f62f9b39d6234fe6ea442",
+      "release_date": "2004-06-29"
+    },
+    {
+      "featuredArtist": "Kid Rock",
+      "featuredArtistId": "7dOBabd5O4CvKrg4iriHTM",
+      "trackName": "Heaven (feat. Kid Rock & Paradime)",
+      "trackId": "2XWtQeKOZKJkZkXiOHBg1C",
+      "preview": "https://p.scdn.co/mp3-preview/e667acc6c53aed8eac97c74cf29169768888b9c0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9ede9989a7f3ad2dd4825167c345c8ae45e5a13f",
+      "release_date": "2000-06-13"
+    },
+    {
+      "featuredArtist": "Paradime",
+      "featuredArtistId": "3IPDQ1Nq3vXMa64RILhN8R",
+      "trackName": "Heaven (feat. Kid Rock & Paradime)",
+      "trackId": "2XWtQeKOZKJkZkXiOHBg1C",
+      "preview": "https://p.scdn.co/mp3-preview/e667acc6c53aed8eac97c74cf29169768888b9c0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9ede9989a7f3ad2dd4825167c345c8ae45e5a13f",
+      "release_date": "2000-06-13"
+    }
+  ]
+}

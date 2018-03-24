@@ -1,0 +1,50 @@
+{
+  "artistName": "Murda Beatz",
+  "features": [
+    {
+      "featuredArtist": "Smokepurpp",
+      "featuredArtistId": "21dooacK2WGBB5amYvKyfM",
+      "trackName": "123",
+      "trackId": "2xCzUIQwX5Y3wEFJnHoc3J",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aecdae3e784eb2675f783b7ba86e3ccc512f8f9b",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Pressa",
+      "featuredArtistId": "5olrQpDroHT7sjmYWMLivy",
+      "trackName": "Bloody Hands (feat. Pressa)",
+      "trackId": "0fibRNI7ojk6j4lIC6a8Di",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/81f13ede14744b33c4dbb135efadcaaeb68a7e28",
+      "release_date": "2017-09-28"
+    },
+    {
+      "featuredArtist": "ItsCrucialMusic",
+      "featuredArtistId": "57ZwYXWVkHzlyVDp3V7m5z",
+      "trackName": "JG Wentworth",
+      "trackId": "26ZrcWlMs8SWTEq3Sut3Y8",
+      "preview": "https://p.scdn.co/mp3-preview/b7c0ba12f9ee8f9a260d0956a217cf8fc7473d3a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c32f72c80ecef56eafd50456023a5855087bd454",
+      "release_date": "2018-01-21"
+    },
+    {
+      "featuredArtist": "A-Lex",
+      "featuredArtistId": "7D4bakEcpJ4GzMQ1e1LFHP",
+      "trackName": "JG Wentworth",
+      "trackId": "26ZrcWlMs8SWTEq3Sut3Y8",
+      "preview": "https://p.scdn.co/mp3-preview/b7c0ba12f9ee8f9a260d0956a217cf8fc7473d3a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c32f72c80ecef56eafd50456023a5855087bd454",
+      "release_date": "2018-01-21"
+    },
+    {
+      "featuredArtist": "Roman Yasin",
+      "featuredArtistId": "7HxYHEEUu6A6uMyQa3FIO4",
+      "trackName": "Murda Interlude",
+      "trackId": "6ODp1S0eJvF258qwbXmhXo",
+      "preview": "https://p.scdn.co/mp3-preview/d60027265617b87261e7dc097c8605f9171a4ac0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/37c4d2da09c4d44da8204477ca3153c6747a6520",
+      "release_date": "2017-11-17"
+    }
+  ]
+}

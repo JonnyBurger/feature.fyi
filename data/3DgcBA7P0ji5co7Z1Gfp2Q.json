@@ -1,0 +1,617 @@
+{
+  "artistName": "Kristin Chenoweth",
+  "features": [
+    {
+      "featuredArtist": "Dave Koz",
+      "featuredArtistId": "0ZcJXldoq09BRIMl0Qh1Vm",
+      "trackName": "I’ve Got A Crush On You",
+      "trackId": "0y7O2Nehl6FROH6wzUqzR1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9857c395e2f1f73a6393aa537ef1a5031c684442",
+      "release_date": "2016-09-23"
+    },
+    {
+      "featuredArtist": "John Pizzarelli",
+      "featuredArtistId": "5Yc3oYPNlABAj17eZiNJqf",
+      "trackName": "Sleigh Ride/Marshmallow World (with John Pizzarelli)",
+      "trackId": "2SS8vLNAL16hHFmuxcExI5",
+      "preview": "https://p.scdn.co/mp3-preview/715ff26bcdb57fb5ad1f409b0d5bf5527814c7a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-17"
+    },
+    {
+      "featuredArtist": "Kim Gannon",
+      "featuredArtistId": "3Nt6vQAGIHV2DyANp3oS1W",
+      "trackName": "I'll Be Home For Christmas",
+      "trackId": "54QVrGx2pfUP2D5yF9aeKC",
+      "preview": "https://p.scdn.co/mp3-preview/8aedb4399ae5fd9ab148141c009c80abcf5b092c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Walter Kent",
+      "featuredArtistId": "050KZR3xgEWYH0YbqKTBAj",
+      "trackName": "I'll Be Home For Christmas",
+      "trackId": "54QVrGx2pfUP2D5yF9aeKC",
+      "preview": "https://p.scdn.co/mp3-preview/8aedb4399ae5fd9ab148141c009c80abcf5b092c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Buck Ram",
+      "featuredArtistId": "2uYGsJqNAauCBaoxgRVuJp",
+      "trackName": "I'll Be Home For Christmas",
+      "trackId": "54QVrGx2pfUP2D5yF9aeKC",
+      "preview": "https://p.scdn.co/mp3-preview/8aedb4399ae5fd9ab148141c009c80abcf5b092c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Jonathan Tunick",
+      "featuredArtistId": "2uEAOrcM3CyQrKMa8uqA5N",
+      "trackName": "I'll Be Home For Christmas",
+      "trackId": "54QVrGx2pfUP2D5yF9aeKC",
+      "preview": "https://p.scdn.co/mp3-preview/8aedb4399ae5fd9ab148141c009c80abcf5b092c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Lyle Moraine",
+      "featuredArtistId": "6hfuNrHu0DbZsdKdVzbKXn",
+      "trackName": "Christmas Island",
+      "trackId": "7g1XNFRth2spGwYufe4C49",
+      "preview": "https://p.scdn.co/mp3-preview/6755684c047e6b7eb1fbdb692ea04f4e84e7d82e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Sammy Cahn",
+      "featuredArtistId": "6JvUOG4JFmgNW6jjwm71uU",
+      "trackName": "The Christmas Waltz",
+      "trackId": "50VwQgp58mm2mbFX1NqxWd",
+      "preview": "https://p.scdn.co/mp3-preview/68ea49b7a45d1bedd899275eec4be3afd4f6266e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Jule Styne",
+      "featuredArtistId": "3vAPM1qiCuClMH5DNbAgtC",
+      "trackName": "The Christmas Waltz",
+      "trackId": "50VwQgp58mm2mbFX1NqxWd",
+      "preview": "https://p.scdn.co/mp3-preview/68ea49b7a45d1bedd899275eec4be3afd4f6266e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Noel Regney",
+      "featuredArtistId": "1fy2BQDFknvPr65GbzMt9K",
+      "trackName": "Do You Hear What I Hear?",
+      "trackId": "0RAXCDpwHK63fjsQ3H8n6p",
+      "preview": "https://p.scdn.co/mp3-preview/52aa7e8dc2cf13738537613c81396af2f14b0d1a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Gloria Adele Shain",
+      "featuredArtistId": "7kGtllUPuidCiCZP6n3K4u",
+      "trackName": "Do You Hear What I Hear?",
+      "trackId": "0RAXCDpwHK63fjsQ3H8n6p",
+      "preview": "https://p.scdn.co/mp3-preview/52aa7e8dc2cf13738537613c81396af2f14b0d1a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Leroy Anderson",
+      "featuredArtistId": "05nvOoQuNJtAo1tsX1GQWm",
+      "trackName": "Sleigh Ride/Marshmallow World (with John Pizzarelli)",
+      "trackId": "2JuWEcRAVurR3ySo62OEfN",
+      "preview": "https://p.scdn.co/mp3-preview/730c82dd9cb40ee806c365c1e77b8321e0a42de3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Peter de Rose",
+      "featuredArtistId": "5QU4kh7ug12tY7NsW0c2zq",
+      "trackName": "Sleigh Ride/Marshmallow World (with John Pizzarelli)",
+      "trackId": "2JuWEcRAVurR3ySo62OEfN",
+      "preview": "https://p.scdn.co/mp3-preview/730c82dd9cb40ee806c365c1e77b8321e0a42de3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Carl Sigman",
+      "featuredArtistId": "232WpTeOPgxflBug0uj4Tc",
+      "trackName": "Sleigh Ride/Marshmallow World (with John Pizzarelli)",
+      "trackId": "2JuWEcRAVurR3ySo62OEfN",
+      "preview": "https://p.scdn.co/mp3-preview/730c82dd9cb40ee806c365c1e77b8321e0a42de3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Joe Raposo",
+      "featuredArtistId": "4wp8iKnf9UFhuaPVy4SXsO",
+      "trackName": "Sing",
+      "trackId": "1XMWOm43mmNOh57fZy0wed",
+      "preview": "https://p.scdn.co/mp3-preview/6c1d93e34f7a37d599caac31d1f3fcc96a6004dc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "JAY LIVINGSTON",
+      "featuredArtistId": "4SWUqOsdn1CSsuNHwSPgtX",
+      "trackName": "Silver Bells",
+      "trackId": "1tZzcsvfcdzpgRTu9RyETd",
+      "preview": "https://p.scdn.co/mp3-preview/dc47caaa0efa910fea060f7cd720d1ca5bcf1a0d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Ray Evans",
+      "featuredArtistId": "7BdUSCK4nRcdeVg9juTgb9",
+      "trackName": "Silver Bells",
+      "trackId": "1tZzcsvfcdzpgRTu9RyETd",
+      "preview": "https://p.scdn.co/mp3-preview/dc47caaa0efa910fea060f7cd720d1ca5bcf1a0d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Robbie Buchanan",
+      "featuredArtistId": "0fZY5w1NxifwN6sIoePxAS",
+      "trackName": "Silver Bells",
+      "trackId": "1tZzcsvfcdzpgRTu9RyETd",
+      "preview": "https://p.scdn.co/mp3-preview/dc47caaa0efa910fea060f7cd720d1ca5bcf1a0d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "A.R. Culverwell",
+      "featuredArtistId": "1BklW25vFhcPCkj9U7Z4e3",
+      "trackName": "Come On Ring Those Bells",
+      "trackId": "1I3Kc9jIbJ9CenwvzjWgQh",
+      "preview": "https://p.scdn.co/mp3-preview/eda6515c0dc7bb429a180553842d47f1890b7f19?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "traditional melody",
+      "featuredArtistId": "3KlO5F4s12G5opByxo8lHN",
+      "trackName": "What Child Is This?",
+      "trackId": "0NBusBHFAFTJhZFYQkCq9E",
+      "preview": "https://p.scdn.co/mp3-preview/b29abbd9a630b404fb61da7aeb13c17eebfe0af3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Walter Afanasieff",
+      "featuredArtistId": "3kre11hj5tSyNIKQdZ8u2i",
+      "trackName": "Home On Christmas Day",
+      "trackId": "5FF4VMlX4aUY1eZTJ569HL",
+      "preview": "https://p.scdn.co/mp3-preview/449a15b3df2be79fc93da8f7cf26713f5af50702?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Jay Landers",
+      "featuredArtistId": "2mOT2N4NcoBaHIyjD46rXs",
+      "trackName": "Home On Christmas Day",
+      "trackId": "5FF4VMlX4aUY1eZTJ569HL",
+      "preview": "https://p.scdn.co/mp3-preview/449a15b3df2be79fc93da8f7cf26713f5af50702?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Peabo Bryson",
+      "featuredArtistId": "49iKbKGqgn8OESkW5WduX0",
+      "trackName": "Born On Christmas Day",
+      "trackId": "7yn05rkc1P8IjFZfxpdPjx",
+      "preview": "https://p.scdn.co/mp3-preview/13d7c8a7fc7af8d30c0f794b2108cdb0e47eec6b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Keith Andes",
+      "featuredArtistId": "60s0bHZN1mPQuzhIyOf8bK",
+      "trackName": "Born On Christmas Day",
+      "trackId": "7yn05rkc1P8IjFZfxpdPjx",
+      "preview": "https://p.scdn.co/mp3-preview/13d7c8a7fc7af8d30c0f794b2108cdb0e47eec6b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Alan Bergman",
+      "featuredArtistId": "3vATqhQ4XhP70UdiIeN3J6",
+      "trackName": "Sleep Well Little Children/What A Wonderful World",
+      "trackId": "3PWTFRoN7xNvLefvkirgaB",
+      "preview": "https://p.scdn.co/mp3-preview/4af4fe25a199a2eb995890a52454e8a564e64bae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Robert Thiele",
+      "featuredArtistId": "1rtxFfRjCq2rvjnzvQGBDV",
+      "trackName": "Sleep Well Little Children/What A Wonderful World",
+      "trackId": "3PWTFRoN7xNvLefvkirgaB",
+      "preview": "https://p.scdn.co/mp3-preview/4af4fe25a199a2eb995890a52454e8a564e64bae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Leon Klatzkin",
+      "featuredArtistId": "4016c5FlPnNqLgqJxpTppS",
+      "trackName": "Sleep Well Little Children/What A Wonderful World",
+      "trackId": "3PWTFRoN7xNvLefvkirgaB",
+      "preview": "https://p.scdn.co/mp3-preview/4af4fe25a199a2eb995890a52454e8a564e64bae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "George David Weiss",
+      "featuredArtistId": "5QugSRfwG13GDjFeepcL1f",
+      "trackName": "Sleep Well Little Children/What A Wonderful World",
+      "trackId": "3PWTFRoN7xNvLefvkirgaB",
+      "preview": "https://p.scdn.co/mp3-preview/4af4fe25a199a2eb995890a52454e8a564e64bae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88c10a1da9b209796709f16714daa175c0ec6a56",
+      "release_date": "2008-10-14"
+    },
+    {
+      "featuredArtist": "Gordon Kennedy",
+      "featuredArtistId": "1pZTJoTTYo37pN5SMdApIy",
+      "trackName": "It Will Be Me",
+      "trackId": "4RSW2AVrgbiqDygEIDx6uu",
+      "preview": "https://p.scdn.co/mp3-preview/13a760378f625a22fbbc7546cd3af7b365451bef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dfd236a12266a7aecdb394395b263fa000cf797",
+      "release_date": "2005-03-28"
+    },
+    {
+      "featuredArtist": "Wayne Kirkpatrick",
+      "featuredArtistId": "2rZxDlwRd2lhu8z7lGKSLo",
+      "trackName": "It Will Be Me",
+      "trackId": "4RSW2AVrgbiqDygEIDx6uu",
+      "preview": "https://p.scdn.co/mp3-preview/13a760378f625a22fbbc7546cd3af7b365451bef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dfd236a12266a7aecdb394395b263fa000cf797",
+      "release_date": "2005-03-28"
+    },
+    {
+      "featuredArtist": "Bart Millard",
+      "featuredArtistId": "6l0FgdMZNMgMjph2DdwKP9",
+      "trackName": "Word Of God Speak",
+      "trackId": "5DfBitKRzN2Vey9sBOMeQK",
+      "preview": "https://p.scdn.co/mp3-preview/7f1ddc9cf76f0918dac5396709c275620b0eae78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dfd236a12266a7aecdb394395b263fa000cf797",
+      "release_date": "2005-03-28"
+    },
+    {
+      "featuredArtist": "Pete Kipley",
+      "featuredArtistId": "303ZaEUzdeHVokSOwyLSjp",
+      "trackName": "Word Of God Speak",
+      "trackId": "5DfBitKRzN2Vey9sBOMeQK",
+      "preview": "https://p.scdn.co/mp3-preview/7f1ddc9cf76f0918dac5396709c275620b0eae78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dfd236a12266a7aecdb394395b263fa000cf797",
+      "release_date": "2005-03-28"
+    },
+    {
+      "featuredArtist": "Bill Gaither",
+      "featuredArtistId": "4vZfjIUpvHeHpq47Y5NobO",
+      "trackName": "Because He Lives",
+      "trackId": "0i8I9FvqM1oOdlXNA7Lpl3",
+      "preview": "https://p.scdn.co/mp3-preview/d0557a6fe0f2063d7ed2c3380105f4732f5de754?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dfd236a12266a7aecdb394395b263fa000cf797",
+      "release_date": "2005-03-28"
+    },
+    {
+      "featuredArtist": "Gloria Gaither",
+      "featuredArtistId": "1NUEskG7Eh72xoCMvtvn5C",
+      "trackName": "Because He Lives",
+      "trackId": "0i8I9FvqM1oOdlXNA7Lpl3",
+      "preview": "https://p.scdn.co/mp3-preview/d0557a6fe0f2063d7ed2c3380105f4732f5de754?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dfd236a12266a7aecdb394395b263fa000cf797",
+      "release_date": "2005-03-28"
+    },
+    {
+      "featuredArtist": "Jerry Wise",
+      "featuredArtistId": "2HG2ayTHzffdKzckWIVQJO",
+      "trackName": "Abide In Me",
+      "trackId": "2y403RoKHvf831TyGpI3xO",
+      "preview": "https://p.scdn.co/mp3-preview/ddbbd8418b010e08b55040371e550f593b22b247?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dfd236a12266a7aecdb394395b263fa000cf797",
+      "release_date": "2005-03-28"
+    },
+    {
+      "featuredArtist": "Diane Warren",
+      "featuredArtistId": "3A2jfQOLgo5rV4GYFHbEA2",
+      "trackName": "Borrowed Angels",
+      "trackId": "4cdvRe07noYrMZGtGTUZSI",
+      "preview": "https://p.scdn.co/mp3-preview/828707c455e8ac408098d58f6cd1a467ead56432?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dfd236a12266a7aecdb394395b263fa000cf797",
+      "release_date": "2005-03-28"
+    },
+    {
+      "featuredArtist": "Tom Howard",
+      "featuredArtistId": "1yWpp7YP8hFYWkbUjxBiMt",
+      "trackName": "Borrowed Angels",
+      "trackId": "4cdvRe07noYrMZGtGTUZSI",
+      "preview": "https://p.scdn.co/mp3-preview/828707c455e8ac408098d58f6cd1a467ead56432?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dfd236a12266a7aecdb394395b263fa000cf797",
+      "release_date": "2005-03-28"
+    },
+    {
+      "featuredArtist": "Amy Lee Grant",
+      "featuredArtistId": "58Be4xts8Nk7KlTGGTRS40",
+      "trackName": "There Will Never Be Another",
+      "trackId": "3lGqltYSKuuNFepdlKWItx",
+      "preview": "https://p.scdn.co/mp3-preview/ecd63c326f458cda6e5f5cbc8fb040fced51c9df?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dfd236a12266a7aecdb394395b263fa000cf797",
+      "release_date": "2005-03-28"
+    },
+    {
+      "featuredArtist": "Brown Bannister",
+      "featuredArtistId": "72F3sfxkZUFhBoTqxm8plm",
+      "trackName": "There Will Never Be Another",
+      "trackId": "3lGqltYSKuuNFepdlKWItx",
+      "preview": "https://p.scdn.co/mp3-preview/ecd63c326f458cda6e5f5cbc8fb040fced51c9df?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dfd236a12266a7aecdb394395b263fa000cf797",
+      "release_date": "2005-03-28"
+    },
+    {
+      "featuredArtist": "Traditional",
+      "featuredArtistId": "1U5zgr455OGyIkLNXvDdrf",
+      "trackName": "Poor, Wayfaring Stranger",
+      "trackId": "03Ppt3INWkoITpACzZaySJ",
+      "preview": "https://p.scdn.co/mp3-preview/878fc02d3e6786d155f0dae44bdc6a4213e9b93b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dfd236a12266a7aecdb394395b263fa000cf797",
+      "release_date": "2005-03-28"
+    },
+    {
+      "featuredArtist": "Ludwig van Beethoven",
+      "featuredArtistId": "2wOqMjp9TyABvtHdOSOTUS",
+      "trackName": "Joyful, Joyful",
+      "trackId": "4ZdVmN9ivtdrnBJFUAiamh",
+      "preview": "https://p.scdn.co/mp3-preview/6c08416d35c671e573a9395fe070d2a19b12e830?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dfd236a12266a7aecdb394395b263fa000cf797",
+      "release_date": "2005-03-28"
+    },
+    {
+      "featuredArtist": "Hugh Prestwood",
+      "featuredArtistId": "31nA0GYS8sISSvkIW5bkMy",
+      "trackName": "The Song Remembers When",
+      "trackId": "2dsNmqQxzpvHfvvkjmmZEt",
+      "preview": "https://p.scdn.co/mp3-preview/ff92247ef0f80290f2646a797c96b92e599df230?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dfd236a12266a7aecdb394395b263fa000cf797",
+      "release_date": "2005-03-28"
+    },
+    {
+      "featuredArtist": "Cindy Cruse",
+      "featuredArtistId": "2gK0hXEqiwoGr77YqlpQCz",
+      "trackName": "Power",
+      "trackId": "3PmyyRZudEoWEoQp2x8jbI",
+      "preview": "https://p.scdn.co/mp3-preview/d4236d46ff66b121725e1d30d00fda1d50ee2150?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dfd236a12266a7aecdb394395b263fa000cf797",
+      "release_date": "2005-03-28"
+    },
+    {
+      "featuredArtist": "William Bradbury",
+      "featuredArtistId": "4S9stNWh6HlDqRowRuQQxI",
+      "trackName": "Just As I Am",
+      "trackId": "5ETYoYyLMaYtlbfnX8Rnd9",
+      "preview": "https://p.scdn.co/mp3-preview/cc1b64b0cc2b7368f1385299c8ee613d8a1162df?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dfd236a12266a7aecdb394395b263fa000cf797",
+      "release_date": "2005-03-28"
+    },
+    {
+      "featuredArtist": "Dony Mcguire",
+      "featuredArtistId": "1EG4ollnZ0v0VY52v0tZqR",
+      "trackName": "Upon This Rock",
+      "trackId": "0w7uTT2tjwzFB2KN6zsQsZ",
+      "preview": "https://p.scdn.co/mp3-preview/7a73464d0dd9d07dada5e2028c170b52b8459c29?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dfd236a12266a7aecdb394395b263fa000cf797",
+      "release_date": "2005-03-28"
+    },
+    {
+      "featuredArtist": "Zina Goldrich",
+      "featuredArtistId": "24CJU16EbtzMYQWicTXNDR",
+      "trackName": "Taylor, the Latte Boy",
+      "trackId": "3SVKoJwCerDXLspcEoDR9b",
+      "preview": "https://p.scdn.co/mp3-preview/0776ad13de06fc996e9f7ff9dd66dad01d590297?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dfd236a12266a7aecdb394395b263fa000cf797",
+      "release_date": "2005-03-28"
+    },
+    {
+      "featuredArtist": "Marcy Allison Heisler",
+      "featuredArtistId": "0vN268POkEIsYzku2CT7LX",
+      "trackName": "Taylor, the Latte Boy",
+      "trackId": "3SVKoJwCerDXLspcEoDR9b",
+      "preview": "https://p.scdn.co/mp3-preview/0776ad13de06fc996e9f7ff9dd66dad01d590297?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dfd236a12266a7aecdb394395b263fa000cf797",
+      "release_date": "2005-03-28"
+    },
+    {
+      "featuredArtist": "Irving Berlin",
+      "featuredArtistId": "32zXZpxwb2bq7oGzAhe1Ii",
+      "trackName": "Let Yourself Go from the film Follow the Fleet, 1936 - Vocal",
+      "trackId": "4ASanTuQu4hu5kEvscYLMz",
+      "preview": "https://p.scdn.co/mp3-preview/00131cfd854010249b1519853edc4c4b82c8c8b0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca292ba8211294092db98a4aef53ab6582abfaac",
+      "release_date": "2001-01-31"
+    },
+    {
+      "featuredArtist": "Robert Fisher",
+      "featuredArtistId": "23NSoxnmz1WsMXUXvSu9e2",
+      "trackName": "Let Yourself Go from the film Follow the Fleet, 1936 - Vocal",
+      "trackId": "4ASanTuQu4hu5kEvscYLMz",
+      "preview": "https://p.scdn.co/mp3-preview/00131cfd854010249b1519853edc4c4b82c8c8b0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca292ba8211294092db98a4aef53ab6582abfaac",
+      "release_date": "2001-01-31"
+    },
+    {
+      "featuredArtist": "George Gershwin",
+      "featuredArtistId": "1YuknfkSYTTbolRpwZBOv4",
+      "trackName": "How Long Has This Been Going On? from Rosalie, 1927 - Vocal",
+      "trackId": "0sh5BGCQGyRzGJDHmvWgvv",
+      "preview": "https://p.scdn.co/mp3-preview/ce8c22887ce34404ab61859a89519b3fa5d1e651?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca292ba8211294092db98a4aef53ab6582abfaac",
+      "release_date": "2001-01-31"
+    },
+    {
+      "featuredArtist": "Richard Rodgers",
+      "featuredArtistId": "4IbAZwt75dpehMOgcC3GnP",
+      "trackName": "My Funny Valentine from Babes in Arms, 1937 - Vocal",
+      "trackId": "3cpyX04KCw7LN3QkzUNbeE",
+      "preview": "https://p.scdn.co/mp3-preview/12619fef1295ca6f394522d86794f8bd4793ea2f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca292ba8211294092db98a4aef53ab6582abfaac",
+      "release_date": "2001-01-31"
+    },
+    {
+      "featuredArtist": "Jeanine Tesori",
+      "featuredArtistId": "3bW9aRkzZhlE53ca3djW8Z",
+      "trackName": "The Girl in 14-G* - Vocal",
+      "trackId": "1pppzzZPItJ5nyVR8PKS5p",
+      "preview": "https://p.scdn.co/mp3-preview/52de25b06ba3e70de2711dc0314346c93e5e1abe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca292ba8211294092db98a4aef53ab6582abfaac",
+      "release_date": "2001-01-31"
+    },
+    {
+      "featuredArtist": "Kurt Weill",
+      "featuredArtistId": "69a1b61a56mJlx8iAUMBsY",
+      "trackName": "I'm A Stranger Here Myself from One Touch of Venus, 1943 - Vocal",
+      "trackId": "4NwAJUtzgOuDEt6fSHquwI",
+      "preview": "https://p.scdn.co/mp3-preview/0763bebb70283b01ec0ee0d14f4f0d9bdbbd3034?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca292ba8211294092db98a4aef53ab6582abfaac",
+      "release_date": "2001-01-31"
+    },
+    {
+      "featuredArtist": "Jerome Kern",
+      "featuredArtistId": "09E7wcrEyqU2n1rnhzVT0h",
+      "trackName": "Nobody Else But Me from Showboat, 1946 Broadway revival - Vocal",
+      "trackId": "4Gur15AvsdLjmUrZj30Dnx",
+      "preview": "https://p.scdn.co/mp3-preview/2ab77a7d58ad1a9bf930a71edd88a240df58d4c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca292ba8211294092db98a4aef53ab6582abfaac",
+      "release_date": "2001-01-31"
+    },
+    {
+      "featuredArtist": "Vincent Youmans",
+      "featuredArtistId": "0kibIwgAWgIDqaIa0u3Ypf",
+      "trackName": "Should I Be Sweet? from Take A Chance, 1933 - Vocal",
+      "trackId": "7dAtjPTPa2ea3sGU3WzGkY",
+      "preview": "https://p.scdn.co/mp3-preview/a26a6bdd5435486f50497460ea60325e80dd0189?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca292ba8211294092db98a4aef53ab6582abfaac",
+      "release_date": "2001-01-31"
+    },
+    {
+      "featuredArtist": "Ricky Ian Gordon",
+      "featuredArtistId": "4b71YgOt94M0ScLP2f188s",
+      "trackName": "Just An Ordinary Guy* - Vocal",
+      "trackId": "3eMFJ33uQt6v2JucfTR6eq",
+      "preview": "https://p.scdn.co/mp3-preview/9d5d3962df793005d430d5638cc77cafd88e1380?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca292ba8211294092db98a4aef53ab6582abfaac",
+      "release_date": "2001-01-31"
+    },
+    {
+      "featuredArtist": "Richard Dworsky",
+      "featuredArtistId": "6agGocrSKxJbWPXmRdZsYf",
+      "trackName": "Goin' To The Dance With You* - Vocal",
+      "trackId": "6lUpWxQSE3MC2OBAMGWLIb",
+      "preview": "https://p.scdn.co/mp3-preview/00f54d275652cc72802e179fb1bd8b0f0e12f635?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca292ba8211294092db98a4aef53ab6582abfaac",
+      "release_date": "2001-01-31"
+    },
+    {
+      "featuredArtist": "Duke Ellington",
+      "featuredArtistId": "4F7Q5NV6h5TSwCainz8S5A",
+      "trackName": "On A Turquoise Cloud - Vocal",
+      "trackId": "05FGQgNLCqDTRHo4ZMT8zv",
+      "preview": "https://p.scdn.co/mp3-preview/f177ff9aa1b0a895100f9dfbe78b144c1a79a2cb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca292ba8211294092db98a4aef53ab6582abfaac",
+      "release_date": "2001-01-31"
+    },
+    {
+      "featuredArtist": "Harry Warren",
+      "featuredArtistId": "6vOhSMuCQ8BXVkLJOamR8Z",
+      "trackName": "You'll Never Know from Hello Frisco, Hello, 1943 - Vocal",
+      "trackId": "3Gld2NXVXCd1XgllMJSM8e",
+      "preview": "https://p.scdn.co/mp3-preview/2be4aa6dc8f043662be25567fe14b8bf0bffa5ab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca292ba8211294092db98a4aef53ab6582abfaac",
+      "release_date": "2001-01-31"
+    },
+    {
+      "featuredArtist": "Bobby Troup",
+      "featuredArtistId": "4XN18j3qfTGghKvcCew5QV",
+      "trackName": "Daddy - Vocal",
+      "trackId": "01MN8sm0aK0warpGQswU85",
+      "preview": "https://p.scdn.co/mp3-preview/998734a1cf42403dd45162bd35d702d66d5631e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca292ba8211294092db98a4aef53ab6582abfaac",
+      "release_date": "2001-01-31"
+    },
+    {
+      "featuredArtist": "Vince Gill",
+      "featuredArtistId": "3IhWQSrLj8EJjdvjFTpCyo",
+      "trackName": "Prayer Of St. Francis - Bonus Track",
+      "trackId": "0SQiFBV3ghFo2iFyfWLO65",
+      "preview": "https://p.scdn.co/mp3-preview/e06150ec5cd24e473541bf3fd4da57eb4f6eed32?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e5f0096e87aaddf6218d76b9999b0868dfae6994",
+      "release_date": "2012-08-31"
+    },
+    {
+      "featuredArtist": "Chew Fu",
+      "featuredArtistId": "6XdUl9SNdiDBbZhZ1B9ubn",
+      "trackName": "I Want Somebody (Bitch About) [Chew Fu Bitches Brew Refix]",
+      "trackId": "2ynEn3nmdcM5faiDcTkARp",
+      "preview": "https://p.scdn.co/mp3-preview/cc1de37a51d37238a9fd886dabc30c36c470a047?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c09778fdb3b1db5355effe7280de3918282f79d0",
+      "release_date": "2011-09-02"
+    },
+    {
+      "featuredArtist": "David Garrison",
+      "featuredArtistId": "4HtdJYR72ol9zSQJRLJWO4",
+      "trackName": "From Alpha to Omega",
+      "trackId": "0gUWRzwRKeerxnDx3wL3KO",
+      "preview": "https://p.scdn.co/mp3-preview/06bbcdfbe7efd5683e134633162377456624f9c7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/98cbc8550899c3a09e1316253feb5696e9724e01",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Harry Groener",
+      "featuredArtistId": "6S61JShQr2Td7pyjOKFEpQ",
+      "trackName": "What Shall I Do? (feat. David Garrison & Harry Groener",
+      "trackId": "0NkceLa3wcYsgtkxzAnSfV",
+      "preview": "https://p.scdn.co/mp3-preview/09c2b5d94afebd7455d5fea99629fcc679475842?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/98cbc8550899c3a09e1316253feb5696e9724e01",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Guy Haines",
+      "featuredArtistId": "6DeAuFRcRuteZ0ql78kzPk",
+      "trackName": "By Candlelight (Reprise) / Finale Ultimo",
+      "trackId": "3c2Hu1X0xfuONWwM59Ojpc",
+      "preview": "https://p.scdn.co/mp3-preview/2052c84cace6f35c59fbd1b6fc7811e0ad030897?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/98cbc8550899c3a09e1316253feb5696e9724e01",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Donna McKechnie",
+      "featuredArtistId": "72BQq4TmDRWwv4XtiGM4ZF",
+      "trackName": "By Candlelight (Reprise) / Finale Ultimo",
+      "trackId": "3c2Hu1X0xfuONWwM59Ojpc",
+      "preview": "https://p.scdn.co/mp3-preview/2052c84cace6f35c59fbd1b6fc7811e0ad030897?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/98cbc8550899c3a09e1316253feb5696e9724e01",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Angela Teek",
+      "featuredArtistId": "6x6hJe6QGU8O4wEkH7z4TY",
+      "trackName": "By Candlelight (Reprise) / Finale Ultimo",
+      "trackId": "3c2Hu1X0xfuONWwM59Ojpc",
+      "preview": "https://p.scdn.co/mp3-preview/2052c84cace6f35c59fbd1b6fc7811e0ad030897?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/98cbc8550899c3a09e1316253feb5696e9724e01",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Dove Cameron",
+      "featuredArtistId": "2W8yFh0Ga6Yf3jiayVxwkE",
+      "trackName": "Evil Like Me - From \"Descendants\"",
+      "trackId": "4yUlq0ODcl7fnw6cCB7KJy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c82a4c7f52ea40921409e2f92abbfebde1682887",
+      "release_date": "2017-09-29"
+    }
+  ]
+}

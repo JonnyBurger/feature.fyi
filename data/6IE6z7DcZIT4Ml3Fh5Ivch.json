@@ -1,0 +1,23 @@
+{
+  "artistName": "Selena",
+  "features": [
+    {
+      "featuredArtist": "Barrio Boyzz",
+      "featuredArtistId": "2pEJhUF93gQGPdWJnusnZp",
+      "trackName": "Donde Quiera Que Estes",
+      "trackId": "5MMCg4yglxKvoXgp13iHyt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b9f8a93abaa35c10ba951f3fb3f80930e04a4c12",
+      "release_date": "1994"
+    },
+    {
+      "featuredArtist": "Alvaro Torres",
+      "featuredArtistId": "7p5DVejD1eXP8GO6clYQlE",
+      "trackName": "Buenos Amigos",
+      "trackId": "2Kj4kiJ5kjUHgQiz7USUnk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3e4fff3d1984c70947858a8bf6bb74d7a8fc4e7e",
+      "release_date": "1992"
+    }
+  ]
+}

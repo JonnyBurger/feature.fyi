@@ -1,0 +1,257 @@
+{
+  "artistName": "Daft Punk",
+  "features": [
+    {
+      "featuredArtist": "Julian Casablancas",
+      "featuredArtistId": "1rAv1GhTQ2rmG94p9lU3rB",
+      "trackName": "Instant Crush",
+      "trackId": "2cGxRwrMyEAp8dEbuZaVv6",
+      "preview": "https://p.scdn.co/mp3-preview/2dc001a8d4bb5666dfb8b5d544b73d3ec0e3a92a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/720c461b76e099758677df449324572e124c8fb4",
+      "release_date": "2013-05-17"
+    },
+    {
+      "featuredArtist": "Pharrell Williams",
+      "featuredArtistId": "2RdwBSPQiwcmiDo9kixcl8",
+      "trackName": "Lose Yourself to Dance",
+      "trackId": "5CMjjywI0eZMixPeqNd75R",
+      "preview": "https://p.scdn.co/mp3-preview/24e8d6ba5f91d46782dc44ca9eb44db18b1fc897?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/720c461b76e099758677df449324572e124c8fb4",
+      "release_date": "2013-05-17"
+    },
+    {
+      "featuredArtist": "Paul Williams",
+      "featuredArtistId": "3f626JSVauIhTQgatsFcs4",
+      "trackName": "Touch",
+      "trackId": "7oaEjLP2dTJLJsITbAxTOz",
+      "preview": "https://p.scdn.co/mp3-preview/1469e37ce94e41d93a6e3777d313d5cb172d4dbc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/720c461b76e099758677df449324572e124c8fb4",
+      "release_date": "2013-05-17"
+    },
+    {
+      "featuredArtist": "Nile Rodgers",
+      "featuredArtistId": "3yDIp0kaq9EFKe07X1X2rz",
+      "trackName": "Get Lucky",
+      "trackId": "69kOkLUCkxIZYexIgSG8rq",
+      "preview": "https://p.scdn.co/mp3-preview/28c1195dcc64c65223ed1f439886d50f4ded7ba6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/720c461b76e099758677df449324572e124c8fb4",
+      "release_date": "2013-05-17"
+    },
+    {
+      "featuredArtist": "Todd Edwards",
+      "featuredArtistId": "6MFopqejpmTUUZlcRmGzgg",
+      "trackName": "Fragments of Time",
+      "trackId": "0IedgQjjJ8Ad4B3UDQ5Lyn",
+      "preview": "https://p.scdn.co/mp3-preview/ad92e2df9ff31966724938c6b0021914eb53d486?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/720c461b76e099758677df449324572e124c8fb4",
+      "release_date": "2013-05-17"
+    },
+    {
+      "featuredArtist": "Panda Bear",
+      "featuredArtistId": "1R84VlXnFFULOsWWV8IrCQ",
+      "trackName": "Doin' it Right",
+      "trackId": "36c4JohayB9qd64eidQMBi",
+      "preview": "https://p.scdn.co/mp3-preview/009b72b43f6462c954d37501fe54439f37f2ef59?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/720c461b76e099758677df449324572e124c8fb4",
+      "release_date": "2013-05-17"
+    },
+    {
+      "featuredArtist": "The Glitch Mob",
+      "featuredArtistId": "3a9qv6NLHnsVxJUtKOMHvD",
+      "trackName": "ディレズド - REMIXED BY THE GLITCH MOB",
+      "trackId": "6lbKZxr0VTnNoOxSTtuPsC",
+      "preview": "https://p.scdn.co/mp3-preview/97b4b4afbd754adb6c633e935a41818fa6b229af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff00017dbf1529ad7cc6dbacda81daf0469264a8",
+      "release_date": "2011-04-20"
+    },
+    {
+      "featuredArtist": "M83",
+      "featuredArtistId": "63MQldklfxkjYDoUE4Tppz",
+      "trackName": "フォール - REMIXED BY M83 VS BIG BLACK DELTA",
+      "trackId": "5pWTAFhqAiMvQiMJ9txdcH",
+      "preview": "https://p.scdn.co/mp3-preview/6c36c9ad3b03c9ccab67afccd91b8f623766ba1b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff00017dbf1529ad7cc6dbacda81daf0469264a8",
+      "release_date": "2011-04-20"
+    },
+    {
+      "featuredArtist": "Big Black Delta",
+      "featuredArtistId": "2TXpVEw5FbzDh93tLoDm0i",
+      "trackName": "フォール - REMIXED BY M83 VS BIG BLACK DELTA",
+      "trackId": "5pWTAFhqAiMvQiMJ9txdcH",
+      "preview": "https://p.scdn.co/mp3-preview/6c36c9ad3b03c9ccab67afccd91b8f623766ba1b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff00017dbf1529ad7cc6dbacda81daf0469264a8",
+      "release_date": "2011-04-20"
+    },
+    {
+      "featuredArtist": "The Crystal Method",
+      "featuredArtistId": "5eKLa1xyHLq8ERWmT1CRHj",
+      "trackName": "グリッド - REMIXED BY THE CRYSTAL METHOD",
+      "trackId": "7A4RUURMXeig1JsJ44k98P",
+      "preview": "https://p.scdn.co/mp3-preview/3ebd8dfafa01f0294d4e474aa850697db54f1a55?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff00017dbf1529ad7cc6dbacda81daf0469264a8",
+      "release_date": "2011-04-20"
+    },
+    {
+      "featuredArtist": "Teddybears",
+      "featuredArtistId": "3gqv1kgivAc92KnUm4elKv",
+      "trackName": "トロンのためのアダージョ - REMIXED BY TEDDYBEARS",
+      "trackId": "1sdUFWfeNXaCBYNTnW5PCd",
+      "preview": "https://p.scdn.co/mp3-preview/0e8d54c64755d0a4fc4df9e1b6d7726c3735855e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff00017dbf1529ad7cc6dbacda81daf0469264a8",
+      "release_date": "2011-04-20"
+    },
+    {
+      "featuredArtist": "Ki:Theory",
+      "featuredArtistId": "1mB4aweE1XGdjbFVFC8i5m",
+      "trackName": "フリンの息子 - REMIXED BY KI:THEORY",
+      "trackId": "13Mr8DQRO5F4eoNZdNANov",
+      "preview": "https://p.scdn.co/mp3-preview/621ddb844bc01c09cbd0f2d1801eb32e733f9f75?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff00017dbf1529ad7cc6dbacda81daf0469264a8",
+      "release_date": "2011-04-20"
+    },
+    {
+      "featuredArtist": "Paul Oakenfold",
+      "featuredArtistId": "5MO2kbaGGA2a8kL4c9qqHq",
+      "trackName": "クルー - REMIXED BY PAUL OAKENFOLD",
+      "trackId": "22x8plqtAQVL9vesdV55z9",
+      "preview": "https://p.scdn.co/mp3-preview/4c4e2bb3978a79b65ddee20e146418e497bfc4ac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff00017dbf1529ad7cc6dbacda81daf0469264a8",
+      "release_date": "2011-04-20"
+    },
+    {
+      "featuredArtist": "Moby",
+      "featuredArtistId": "3OsRAKCvk37zwYcnzRf5XF",
+      "trackName": "フリンの息子 - REMIXED BY MOBY",
+      "trackId": "6bvD5FvJVphFydJIMugJqc",
+      "preview": "https://p.scdn.co/mp3-preview/488524c21889b693ab7442187597837dbbe7f23b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff00017dbf1529ad7cc6dbacda81daf0469264a8",
+      "release_date": "2011-04-20"
+    },
+    {
+      "featuredArtist": "Boys Noize",
+      "featuredArtistId": "62k5LKMhymqlDNo2DWOvvv",
+      "trackName": "エンド・オブ・ライン - REMIXED BY BOYS NOIZE",
+      "trackId": "2LbZTxjawv1lJuqmWr7t47",
+      "preview": "https://p.scdn.co/mp3-preview/a3e92e3499b24a2d83a6126ed8c208a3a49842e1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff00017dbf1529ad7cc6dbacda81daf0469264a8",
+      "release_date": "2011-04-20"
+    },
+    {
+      "featuredArtist": "カスケード",
+      "featuredArtistId": "3WvOWVTNOqX3EaJpzgpYoG",
+      "trackName": "リンズラー - REMIXED BY KASKADE",
+      "trackId": "45pTluAFAKgSwnmA1BQIPx",
+      "preview": "https://p.scdn.co/mp3-preview/46df77345a78f3bdbd63af6b3b16fc4c8eeef989?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff00017dbf1529ad7cc6dbacda81daf0469264a8",
+      "release_date": "2011-04-20"
+    },
+    {
+      "featuredArtist": "Com Truise",
+      "featuredArtistId": "2wouN3QXejYa5tKetYdcVX",
+      "trackName": "エンコム・パートII - REMIXED BY COM TRUISE",
+      "trackId": "7B5w4hbgztYnyZ5Q1jUquS",
+      "preview": "https://p.scdn.co/mp3-preview/93b2a25e10fc21c062d7e2fd201f779a62d9bda8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff00017dbf1529ad7cc6dbacda81daf0469264a8",
+      "release_date": "2011-04-20"
+    },
+    {
+      "featuredArtist": "Photek",
+      "featuredArtistId": "3hXDMlrPegHRO0zUvBsRSI",
+      "trackName": "エンド・オブ・ライン - REMIXED BY PHOTEK",
+      "trackId": "2PYfvxGxcEwXsc8dNcD4lg",
+      "preview": "https://p.scdn.co/mp3-preview/5f8ad80dc04d00743464d38857a2a2c62a2477c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff00017dbf1529ad7cc6dbacda81daf0469264a8",
+      "release_date": "2011-04-20"
+    },
+    {
+      "featuredArtist": "ザ・ジャパニーズ・ポップスターズ",
+      "featuredArtistId": "7MPf0qu63HbDS5wqJ8MZVD",
+      "trackName": "アリーナ - REMIXED BY THE JAPANESE POPSTARS",
+      "trackId": "0HhBIk0R40FIbz24yDR3jp",
+      "preview": "https://p.scdn.co/mp3-preview/b8e0d4c1a475f10daf95b5934e81335d379ba01f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff00017dbf1529ad7cc6dbacda81daf0469264a8",
+      "release_date": "2011-04-20"
+    },
+    {
+      "featuredArtist": "Avicii",
+      "featuredArtistId": "1vCWHaC5f2uS3yhpwWbIA6",
+      "trackName": "ディレズド - REMIXED BY AVICII",
+      "trackId": "4Y6Fg4fk7LgA01sTpqbNO0",
+      "preview": "https://p.scdn.co/mp3-preview/01133134098e9c9267a92aa73ad3292b2fdf5ae3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff00017dbf1529ad7cc6dbacda81daf0469264a8",
+      "release_date": "2011-04-20"
+    },
+    {
+      "featuredArtist": "Pretty Lights",
+      "featuredArtistId": "4iVhFmG8YCCEHANGeUUS9q",
+      "trackName": "ソーラー船 - REMIXED BY PRETTY LIGHTS",
+      "trackId": "6o7GRX5pizp9mH3ik8keE7",
+      "preview": "https://p.scdn.co/mp3-preview/5ace2e055035acff386aaf07fc5b30524366a247?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff00017dbf1529ad7cc6dbacda81daf0469264a8",
+      "release_date": "2011-04-20"
+    },
+    {
+      "featuredArtist": "Sander Kleinenberg",
+      "featuredArtistId": "3CfH3WZPzbk5mNDWXpGIy6",
+      "trackName": "トロン:レガシー(エンド・タイトル) - REMIXED BY SANDER KLEINENBERG",
+      "trackId": "7pvBuvVIDFNRfbSvnaVUva",
+      "preview": "https://p.scdn.co/mp3-preview/a386547c22afe96ccdbb5d9026344e69a6c052b0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff00017dbf1529ad7cc6dbacda81daf0469264a8",
+      "release_date": "2011-04-20"
+    },
+    {
+      "featuredArtist": "Kaskade",
+      "featuredArtistId": "6TQj5BFPooTa08A7pk8AQ1",
+      "trackName": "Rinzler - Remixed by Kaskade",
+      "trackId": "0RmN5kEY8sPLg4QmiBxD7B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d6d13b0ce7b05f1adfd4789245fc2afba57216f9",
+      "release_date": "2011-04-05"
+    },
+    {
+      "featuredArtist": "Photek",
+      "featuredArtistId": "4GgWIreRcWWwHyT3dvQwte",
+      "trackName": "End of Line - Remixed by Photek",
+      "trackId": "1Gxil8Re6Vljq3JYFnLWoT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d6d13b0ce7b05f1adfd4789245fc2afba57216f9",
+      "release_date": "2011-04-05"
+    },
+    {
+      "featuredArtist": "The Japanese Popstars",
+      "featuredArtistId": "5F8v5xSIGtfukNxq0Jqgwh",
+      "trackName": "Arena - Remixed by The Japanese Popstars",
+      "trackId": "0Eu1ytV9zUnItsJrIR0JLA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d6d13b0ce7b05f1adfd4789245fc2afba57216f9",
+      "release_date": "2011-04-05"
+    },
+    {
+      "featuredArtist": "Tame Impala",
+      "featuredArtistId": "5INjqkS1o8h1imAzPqGZBb",
+      "trackName": "End of Line (Remixed by Tame Impala)",
+      "trackId": "2THibpJxFZgxXs9p1lPuZe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d6d13b0ce7b05f1adfd4789245fc2afba57216f9",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Stardust",
+      "featuredArtistId": "6JiJYbOH31U7J567GGfDGB",
+      "trackName": "Human After All/Together/One More Time/Music Sounds Better With You",
+      "trackId": "3gRb1XrYLiNUBbp5kYiIGL",
+      "preview": "https://p.scdn.co/mp3-preview/a16b658732c372b47dd2a4180d3e8030d5b5aedb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e8dae2b47b884ea8ae7884d6fa8bf80706e54c40",
+      "release_date": "2007-11-19"
+    },
+    {
+      "featuredArtist": "Ian Pooley",
+      "featuredArtistId": "1m4GViPjIy4T8Pd0Iz6hRS",
+      "trackName": "Ian Pooley ''Chord Memory'' - Daft Punk Remix",
+      "trackId": "4rz0D07CwZoOo6XCwqvwGC",
+      "preview": "https://p.scdn.co/mp3-preview/56aa6e7bb4c992a4f477fd551d5e83b951c660d9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f6316728abf5078c9b886d92cadbf71fa965b9b",
+      "release_date": "2006-03-31"
+    }
+  ]
+}

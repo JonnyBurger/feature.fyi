@@ -1,0 +1,590 @@
+{
+  "artistName": "Kempi",
+  "features": [
+    {
+      "featuredArtist": "Broertje",
+      "featuredArtistId": "0906u9DO6IhSeFljQ7AXHZ",
+      "trackName": "Litty",
+      "trackId": "1x0PFyNV5wpR3ClGJmaKco",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b3d12698767aa2c191175bc2123003f7beee1204",
+      "release_date": "2017-05-12"
+    },
+    {
+      "featuredArtist": "Lilo",
+      "featuredArtistId": "3ZMYZb7kuJ2Z5IahmjSQOh",
+      "trackName": "Narcos",
+      "trackId": "43XFWnM1ZZtR4biz38BGDs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b3d12698767aa2c191175bc2123003f7beee1204",
+      "release_date": "2017-05-12"
+    },
+    {
+      "featuredArtist": "Vic9",
+      "featuredArtistId": "7FGPqGAnNztJ6mQniyFLt9",
+      "trackName": "Hallo",
+      "trackId": "0tl7qKsg0jdloogYNUj1y9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b3d12698767aa2c191175bc2123003f7beee1204",
+      "release_date": "2017-05-12"
+    },
+    {
+      "featuredArtist": "Jermaine Niffer",
+      "featuredArtistId": "2kN7bQzdCZkSBYhzF6k5lY",
+      "trackName": "Chop Chop - The Blockparty Remix",
+      "trackId": "5JAwApmRWVxj8lOJn6c09K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b3d12698767aa2c191175bc2123003f7beee1204",
+      "release_date": "2017-05-12"
+    },
+    {
+      "featuredArtist": "The Blockparty",
+      "featuredArtistId": "1zmmIiBBODh2QxbdUqYbdU",
+      "trackName": "Chop Chop - The Blockparty Remix",
+      "trackId": "5JAwApmRWVxj8lOJn6c09K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b3d12698767aa2c191175bc2123003f7beee1204",
+      "release_date": "2017-05-12"
+    },
+    {
+      "featuredArtist": "Emms",
+      "featuredArtistId": "2AkaK2DXdBUWYjpwOHoKs2",
+      "trackName": "Het Is Een Feit - Remix",
+      "trackId": "5DMEuSqMM2ebsXQ79HVhCI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b3d12698767aa2c191175bc2123003f7beee1204",
+      "release_date": "2017-05-12"
+    },
+    {
+      "featuredArtist": "Frenna",
+      "featuredArtistId": "6m1LYS5NQonxjOcQFPQOb5",
+      "trackName": "Wasteman - Remix",
+      "trackId": "65qP9nzgtuK73VfG2y2He7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b3d12698767aa2c191175bc2123003f7beee1204",
+      "release_date": "2017-05-12"
+    },
+    {
+      "featuredArtist": "KM",
+      "featuredArtistId": "0MSYpagcvnSP2o91Ji2OCw",
+      "trackName": "Wasteman - Remix",
+      "trackId": "65qP9nzgtuK73VfG2y2He7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b3d12698767aa2c191175bc2123003f7beee1204",
+      "release_date": "2017-05-12"
+    },
+    {
+      "featuredArtist": "Lijpe",
+      "featuredArtistId": "6INEFmHKLhMIJAQzHUBAMd",
+      "trackName": "Welcome Op De Block",
+      "trackId": "0dcitje2ugcXW1Ds3tEi1K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b3d12698767aa2c191175bc2123003f7beee1204",
+      "release_date": "2017-05-12"
+    },
+    {
+      "featuredArtist": "Mo Temsamani",
+      "featuredArtistId": "4CmM2vhgDYnUmcmwBfVi0R",
+      "trackName": "Welcome Op De Block",
+      "trackId": "0dcitje2ugcXW1Ds3tEi1K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b3d12698767aa2c191175bc2123003f7beee1204",
+      "release_date": "2017-05-12"
+    },
+    {
+      "featuredArtist": "Sticks",
+      "featuredArtistId": "0DnbOatBnP7UDkeiQACgxd",
+      "trackName": "Du Real Is Back",
+      "trackId": "0ABZcIJFTDWnSls1VCmKT7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b3d12698767aa2c191175bc2123003f7beee1204",
+      "release_date": "2017-05-12"
+    },
+    {
+      "featuredArtist": "Willem",
+      "featuredArtistId": "0QuIRxRWYAl4oRHSQYCYds",
+      "trackName": "Ik Wil Nikes",
+      "trackId": "15VeiCfVu9jXH65ElZamSu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f7d6f9bfba83e989a49aaf1488a193cca012a426",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Klemma",
+      "featuredArtistId": "1iL5mkCy8kbG1shtgGQY6i",
+      "trackName": "King Kong / Observeer",
+      "trackId": "6F7rbcZrzHFrgTfsIqiPNr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f7d6f9bfba83e989a49aaf1488a193cca012a426",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Shirma Rouse",
+      "featuredArtistId": "1vNl797vEfGx0JnC1eFoH0",
+      "trackName": "Dagen Van De Bijbel II",
+      "trackId": "0ie9BMXDkfhEX7ExaMerqI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eac786ba85f274da6ae9b483f0879b062a482c16",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Phatt",
+      "featuredArtistId": "4JpCe1dEbZpp1jovU8Pwjl",
+      "trackName": "Wat Ik Zie",
+      "trackId": "5DvHu4qsUSn0EkgrhM0Okc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eac786ba85f274da6ae9b483f0879b062a482c16",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Fresku",
+      "featuredArtistId": "5m1cLmgZIfEYPLejhLFR10",
+      "trackName": "Na Du Show",
+      "trackId": "4uAKNYaMKP0G1tlUO1jDMK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eac786ba85f274da6ae9b483f0879b062a482c16",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Rolf Wienk",
+      "featuredArtistId": "1jZeCWElIvoOts1ACWenD9",
+      "trackName": "Blijven Wij",
+      "trackId": "3uOYkcPVL4VU3UVhZXxQ22",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eac786ba85f274da6ae9b483f0879b062a482c16",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Alex Roeka",
+      "featuredArtistId": "7yZlxklSzsDJIpuRRwe6bO",
+      "trackName": "Moordzaak",
+      "trackId": "0qTygNsepzMqmoLrQKON7b",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eac786ba85f274da6ae9b483f0879b062a482c16",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "R.Kay",
+      "featuredArtistId": "4wvS9v4ConXW2ZZpC5dXhB",
+      "trackName": "Pico Bello",
+      "trackId": "6Bwc7lu6l8eNVAzhQ8iI63",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eac786ba85f274da6ae9b483f0879b062a482c16",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Sef",
+      "featuredArtistId": "5VGhS6nHpXPbXGhku9RRB0",
+      "trackName": "Pico Bello",
+      "trackId": "6Bwc7lu6l8eNVAzhQ8iI63",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eac786ba85f274da6ae9b483f0879b062a482c16",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Damaru",
+      "featuredArtistId": "4IyViTeuxgEmgtUhji4M93",
+      "trackName": "Zo Alleen",
+      "trackId": "5z87yau4IriGPHlG50elKK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eac786ba85f274da6ae9b483f0879b062a482c16",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Rocks",
+      "featuredArtistId": "3RssOArRCjUYU7hI5hws7q",
+      "trackName": "Fundament",
+      "trackId": "7Ce1IXKI7P3s2M3lwjaokG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eac786ba85f274da6ae9b483f0879b062a482c16",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Duvel",
+      "featuredArtistId": "3XTRFcIvjX1GwAvQ3EvzLL",
+      "trackName": "Fundament",
+      "trackId": "7Ce1IXKI7P3s2M3lwjaokG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eac786ba85f274da6ae9b483f0879b062a482c16",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Lucky Fonz III",
+      "featuredArtistId": "7A6JmzQ1VLKqqLQGlBc1Hm",
+      "trackName": "Diana",
+      "trackId": "5DxJsVbkEtCujrJ8R8xAZn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eac786ba85f274da6ae9b483f0879b062a482c16",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "De Felle Kleuren",
+      "featuredArtistId": "1F03FlesqyUPK6l10wDp79",
+      "trackName": "Diana",
+      "trackId": "5DxJsVbkEtCujrJ8R8xAZn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eac786ba85f274da6ae9b483f0879b062a482c16",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Tim Wes",
+      "featuredArtistId": "3a4fZr4yelBfPivBYeM73T",
+      "trackName": "Vanuit De Hemel",
+      "trackId": "2mqnu2soV442g8F1yWwp1N",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eac786ba85f274da6ae9b483f0879b062a482c16",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Keizer",
+      "featuredArtistId": "2CiOpBO55td0YHJVZYT2KW",
+      "trackName": "Not Human",
+      "trackId": "1R9gZhDZ9edkhoFf0rHOO1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eac786ba85f274da6ae9b483f0879b062a482c16",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Salah Edin",
+      "featuredArtistId": "61NnMiAXGKbPGObTEwcssj",
+      "trackName": "Ik Ben Een Hosselaar",
+      "trackId": "5lavQX9esRmLRMm8uaVPAK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/10916959f5dd67b81fb97df1d3be479ac352868f",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "RBDjan",
+      "featuredArtistId": "1W4O1UxWetSz00CiAu01zf",
+      "trackName": "Ik Ben Een Hosselaar",
+      "trackId": "5lavQX9esRmLRMm8uaVPAK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/10916959f5dd67b81fb97df1d3be479ac352868f",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Congo",
+      "featuredArtistId": "6dSjjjebpjFkuHEQEBfZkl",
+      "trackName": "Ik Ben Een Hosselaar",
+      "trackId": "5lavQX9esRmLRMm8uaVPAK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/10916959f5dd67b81fb97df1d3be479ac352868f",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Bone Thugs-N-Harmony",
+      "featuredArtistId": "5spEJXLwD1sKUdC2bnOHPg",
+      "trackName": "The Light",
+      "trackId": "4xdSKFHaHJMDt9IZOJojNI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/10916959f5dd67b81fb97df1d3be479ac352868f",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Dio",
+      "featuredArtistId": "2Np3tBLhkFCcJPun4KhrDQ",
+      "trackName": "Mooie Dromen",
+      "trackId": "4hMkt3d7PtH6D6E49qyDcj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b54c3439197299eed700b23533d63aa49ad9be59",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "De Jeugd Van Tegenwoordig",
+      "featuredArtistId": "1u7uShzlA1tXJeox3jMFPq",
+      "trackName": "Party Chick",
+      "trackId": "4DDYAVUaj93P91A7A3Uiyg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b54c3439197299eed700b23533d63aa49ad9be59",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "M-Bizz",
+      "featuredArtistId": "4IPX0hEQ5369D9r5z30f9U",
+      "trackName": "Dikke Tieten",
+      "trackId": "1qu0VCx2idnR4O0hfxqdUR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b54c3439197299eed700b23533d63aa49ad9be59",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Willy",
+      "featuredArtistId": "3PmjJte1gRWjWvh0koihi0",
+      "trackName": "Dikke Tieten",
+      "trackId": "1qu0VCx2idnR4O0hfxqdUR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b54c3439197299eed700b23533d63aa49ad9be59",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Manny",
+      "featuredArtistId": "2TBry5CvrSg2Bu2qZs1ldY",
+      "trackName": "Dikke Tieten",
+      "trackId": "1qu0VCx2idnR4O0hfxqdUR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b54c3439197299eed700b23533d63aa49ad9be59",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Nicky Huiberts",
+      "featuredArtistId": "6fDYzMyBKIhcLqETqqPvC0",
+      "trackName": "Du Toast",
+      "trackId": "07jEDRxyOpvmECebAXvX16",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b54c3439197299eed700b23533d63aa49ad9be59",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Manny & Loupy",
+      "featuredArtistId": "6wxnZuafKMA9iqj05T9NDF",
+      "trackName": "Helemaal Stoned",
+      "trackId": "3zl8NY54ChdBfOiJYBNqjg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b54c3439197299eed700b23533d63aa49ad9be59",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Bagdad",
+      "featuredArtistId": "6KbY2Rb6C5imoatRvh1zwO",
+      "trackName": "Wakker In Du Cel - Remix",
+      "trackId": "2uOYxYqE0te697PXrbkppF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b54c3439197299eed700b23533d63aa49ad9be59",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Outlawz",
+      "featuredArtistId": "2jp3Fk52x0HbymU0lNYbSC",
+      "trackName": "Revolutie - Remix",
+      "trackId": "5as1GSshl0IjO7QcqKvNWL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b54c3439197299eed700b23533d63aa49ad9be59",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "DJ Smoke",
+      "featuredArtistId": "1auHg0SiApGULGvEQNlN3F",
+      "trackName": "Revolutie - Remix",
+      "trackId": "5as1GSshl0IjO7QcqKvNWL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b54c3439197299eed700b23533d63aa49ad9be59",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Sjaak",
+      "featuredArtistId": "2YjydjpJfm9VAtiV0XRmkm",
+      "trackName": "Leven Van De Faam",
+      "trackId": "0cbbPkbxRNpRP0NavieKy9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/632b5ff05f93a46ab352124131e80f4316c3950a",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Willy",
+      "featuredArtistId": "6TOzZgVUKmtJfc8Q5QIwGF",
+      "trackName": "Hier Ver Vandaan",
+      "trackId": "52g1lJAg9ZaKSwU6aT1Mbt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/632b5ff05f93a46ab352124131e80f4316c3950a",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Winne",
+      "featuredArtistId": "5cMMheSnLhCt0YdwFkp3R9",
+      "trackName": "Haat & Verraad",
+      "trackId": "6V66T2PVnlu2ylk7lMJXj6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/632b5ff05f93a46ab352124131e80f4316c3950a",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Jalise",
+      "featuredArtistId": "5Nqew8VkPh6yDpjS0nvWWp",
+      "trackName": "Door Dik & Dun",
+      "trackId": "6dFbSm8mlniIFJd1jTtTyu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/632b5ff05f93a46ab352124131e80f4316c3950a",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Feis",
+      "featuredArtistId": "7EiPZFDrVMi9MjYXP4l8Jc",
+      "trackName": "Nigga",
+      "trackId": "7AFGCkXaveYYZePjLB2k4V",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/86eca19e298e629c40dd5c10484c9ce65b2bb8ca",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Miss Sophie",
+      "featuredArtistId": "04GpziI3Ib7865cmI5dp0T",
+      "trackName": "Zwart In Mijn Zakken",
+      "trackId": "5wj38hdBpvVBLuWDHPYsqW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/86eca19e298e629c40dd5c10484c9ce65b2bb8ca",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Bloedserieus",
+      "featuredArtistId": "7xjH9WM3FVWYUZiro65BUa",
+      "trackName": "Chicks Vinden Ons Leuk",
+      "trackId": "3yMwGlAwJoF8ol4DNnpxG3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/86eca19e298e629c40dd5c10484c9ce65b2bb8ca",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "The Opposites",
+      "featuredArtistId": "23951Pg9PiLB8Uza3k12g6",
+      "trackName": "Kom Nie Hier",
+      "trackId": "4QtndxZabfmVMl8GlZW0kG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/86eca19e298e629c40dd5c10484c9ce65b2bb8ca",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Marko Silva",
+      "featuredArtistId": "09H1FBuBQiw9hJtxYfJ34c",
+      "trackName": "Intro II",
+      "trackId": "6m4NU516mbh7gOD24Fpny4",
+      "preview": "https://p.scdn.co/mp3-preview/828f007d75bc09680bf847b459c2572e60dd7312?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2cd6e2ccbd6115782fbc85da830dcf17a86114c7",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Anouk",
+      "featuredArtistId": "6ltVunYjAAD70YtVO6rxvX",
+      "trackName": "No Love",
+      "trackId": "1e10sWJFAhArHE8XeBvHb7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/069d02e5effa69bbcacb8cf145a88c1567c66a1f",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "DJ D-Train",
+      "featuredArtistId": "5wUm5dmOSmUE7349HnN9is",
+      "trackName": "HK47",
+      "trackId": "4TurAgLFSbJKLQ9VX6K8AC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/df022b211669eb340fc22ab766a41f87aea7c7c9",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Chaika",
+      "featuredArtistId": "4pP3fdD4wtIlcZIAGdQGe2",
+      "trackName": "Pon Road",
+      "trackId": "1vaM8gpk0asSnzgR6fYhq2",
+      "preview": "https://p.scdn.co/mp3-preview/d204c79355f39fe5e27da3750d005d9dbe196173?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4c8c78a7e328955d44aeec05a9a14703944c869e",
+      "release_date": "2017-12-29"
+    },
+    {
+      "featuredArtist": "Rich",
+      "featuredArtistId": "02kjPA1T92LrhcqCssMTpp",
+      "trackName": "Pon Road",
+      "trackId": "1vaM8gpk0asSnzgR6fYhq2",
+      "preview": "https://p.scdn.co/mp3-preview/d204c79355f39fe5e27da3750d005d9dbe196173?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4c8c78a7e328955d44aeec05a9a14703944c869e",
+      "release_date": "2017-12-29"
+    },
+    {
+      "featuredArtist": "Jescow",
+      "featuredArtistId": "4WbxgBx6rdSAQXt3lpmJx8",
+      "trackName": "Wifi",
+      "trackId": "0S2xfnTrAvfIs5HScnZS7l",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/94c9054128c4c8a143610cc0beca37f390b2ebb9",
+      "release_date": "2017-12-21"
+    },
+    {
+      "featuredArtist": "Bollebof",
+      "featuredArtistId": "6efCQuDQBuyuv2Mx3OExdV",
+      "trackName": "Wifi",
+      "trackId": "0S2xfnTrAvfIs5HScnZS7l",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/94c9054128c4c8a143610cc0beca37f390b2ebb9",
+      "release_date": "2017-12-21"
+    },
+    {
+      "featuredArtist": "Manny",
+      "featuredArtistId": "3ZFWPsi1me2sWOP22QJHoK",
+      "trackName": "Wifi",
+      "trackId": "0S2xfnTrAvfIs5HScnZS7l",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/94c9054128c4c8a143610cc0beca37f390b2ebb9",
+      "release_date": "2017-12-21"
+    },
+    {
+      "featuredArtist": "Hansie",
+      "featuredArtistId": "3Xvu1Rur46ZO8HiE9hBuxl",
+      "trackName": "Laat Me Zien",
+      "trackId": "4BlvfQJfZa1Dk84Hl7CTcM",
+      "preview": "https://p.scdn.co/mp3-preview/c41ebcbf394cdc2530728b373ec96b8a0c2ce296?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/da57f8e88f57b563ae659d35b91dfd6756ea881a",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Hef",
+      "featuredArtistId": "7ge3QfYPMTjDbMoVLuuIuJ",
+      "trackName": "Laat Me Zien",
+      "trackId": "4BlvfQJfZa1Dk84Hl7CTcM",
+      "preview": "https://p.scdn.co/mp3-preview/c41ebcbf394cdc2530728b373ec96b8a0c2ce296?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/da57f8e88f57b563ae659d35b91dfd6756ea881a",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Xerxes",
+      "featuredArtistId": "6y1vggOkn0ekeAgqG7AZKS",
+      "trackName": "Ik Kom Binnen - Rawson Remix",
+      "trackId": "4AujhN0f1taShcBfpMumVG",
+      "preview": "https://p.scdn.co/mp3-preview/2206275e4ff73820d322cff100e2468f38076d09?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/89a5ae73d1e577a7f396c98e071b996b3bfae196",
+      "release_date": "2017-10-02"
+    },
+    {
+      "featuredArtist": "Rocwell S",
+      "featuredArtistId": "2WOjKxLnulxGQujlZ6zd0h",
+      "trackName": "Ik Kom Binnen - Rawson Remix",
+      "trackId": "4AujhN0f1taShcBfpMumVG",
+      "preview": "https://p.scdn.co/mp3-preview/2206275e4ff73820d322cff100e2468f38076d09?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/89a5ae73d1e577a7f396c98e071b996b3bfae196",
+      "release_date": "2017-10-02"
+    },
+    {
+      "featuredArtist": "Qino",
+      "featuredArtistId": "1wpit5pgJC1oaub8udRxdi",
+      "trackName": "Ik Kom Binnen - Rawson Remix",
+      "trackId": "4AujhN0f1taShcBfpMumVG",
+      "preview": "https://p.scdn.co/mp3-preview/2206275e4ff73820d322cff100e2468f38076d09?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/89a5ae73d1e577a7f396c98e071b996b3bfae196",
+      "release_date": "2017-10-02"
+    },
+    {
+      "featuredArtist": "Rawson",
+      "featuredArtistId": "7euC7sd0GdMf2Ctuejgozc",
+      "trackName": "Ik Kom Binnen - Rawson Remix",
+      "trackId": "4AujhN0f1taShcBfpMumVG",
+      "preview": "https://p.scdn.co/mp3-preview/2206275e4ff73820d322cff100e2468f38076d09?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/89a5ae73d1e577a7f396c98e071b996b3bfae196",
+      "release_date": "2017-10-02"
+    },
+    {
+      "featuredArtist": "Josylvio",
+      "featuredArtistId": "1wFoE1RwBMWoWkXcFrCgsx",
+      "trackName": "Cocaina - Remix",
+      "trackId": "6OpKBghxyHSJ9lqqJ4EkJu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e761a17ab096e1fb3d9b6195ce122c290bcfc7c",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "Sevn Alias",
+      "featuredArtistId": "0HDMwoCS316xhKCZlJPBnc",
+      "trackName": "Cocaina - Remix",
+      "trackId": "6OpKBghxyHSJ9lqqJ4EkJu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e761a17ab096e1fb3d9b6195ce122c290bcfc7c",
+      "release_date": "2017-08-25"
+    }
+  ]
+}

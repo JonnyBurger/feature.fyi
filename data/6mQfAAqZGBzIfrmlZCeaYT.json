@@ -1,0 +1,50 @@
+{
+  "artistName": "Chaka Khan",
+  "features": [
+    {
+      "featuredArtist": "Lew Hahn",
+      "featuredArtistId": "3Rcc1RUbd3iOAmcQ9ZpFpr",
+      "trackName": "Life Is A Dance - Remix",
+      "trackId": "0uovYfOwD0V5Buiayxxg92",
+      "preview": "https://p.scdn.co/mp3-preview/04d74fc1ca274411a8b4c1e34366d15dbe89801d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/20d19a4cbce4e3dc07c5a0263772f103bac8131f",
+      "release_date": "1989-06-16"
+    },
+    {
+      "featuredArtist": "Rufus",
+      "featuredArtistId": "3MCjwjfIor5FkK3h639qkW",
+      "trackName": "You Got The Love - Live Version",
+      "trackId": "5QVr1U4qIpdYIWOzAjbXfr",
+      "preview": "https://p.scdn.co/mp3-preview/1c141d0dd2977fe49ed7902305dd161891142a59?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c3379bf7bac010a64fb822adffed8c03f08ab7ae",
+      "release_date": "1983"
+    },
+    {
+      "featuredArtist": "B.Slade",
+      "featuredArtistId": "03lJ2xTQTFzBknVjb0FJUt",
+      "trackName": "I Love Myself (Qubonix Main Mix) [feat. B. Slade & DJ Sidney Perry]",
+      "trackId": "55QKDuVDkUyVUfX1zfwKDP",
+      "preview": "https://p.scdn.co/mp3-preview/8107ecd67cf162c150ad41bf83a34952d63db105?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7d63ba99cd8d4410cb2c89ffb3ca009958656895",
+      "release_date": "2017-06-23"
+    },
+    {
+      "featuredArtist": "DJ Sidney Perry",
+      "featuredArtistId": "1KFllJad95ehVpq3kmgVGc",
+      "trackName": "I Love Myself (Qubonix Main Mix) [feat. B. Slade & DJ Sidney Perry]",
+      "trackId": "55QKDuVDkUyVUfX1zfwKDP",
+      "preview": "https://p.scdn.co/mp3-preview/8107ecd67cf162c150ad41bf83a34952d63db105?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7d63ba99cd8d4410cb2c89ffb3ca009958656895",
+      "release_date": "2017-06-23"
+    },
+    {
+      "featuredArtist": "B. Slade",
+      "featuredArtistId": "73qNi3Z0jNl1erMNwApiWH",
+      "trackName": "I Love Myself (feat. B. Slade)",
+      "trackId": "3bvYedJahQvU1zVnUWKewA",
+      "preview": "https://p.scdn.co/mp3-preview/a3e4cf7a3e40017796226be2a07eda7686fc87e7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/392ba6591e66264bb64757ea7962b98b658e8f5a",
+      "release_date": "2017-06-16"
+    }
+  ]
+}

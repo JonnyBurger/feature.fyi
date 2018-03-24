@@ -1,0 +1,23 @@
+{
+  "artistName": "Rosana",
+  "features": [
+    {
+      "featuredArtist": "Fito y Fitipaldis",
+      "featuredArtistId": "1tZ99AnqyjgrmPwLfGU5eo",
+      "trackName": "Mi trozo de cielo (feat. Fito y Fitipaldis)",
+      "trackId": "6dEfMRt1tJHbj0K8mzwu9M",
+      "preview": "https://p.scdn.co/mp3-preview/86d387c8ad2857729e124f07dd12b8eb044a4c7d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/088e831b62e5cc928bf5db11d121c88434ed21c8",
+      "release_date": "2013-11-19"
+    },
+    {
+      "featuredArtist": "Carlos Rivera",
+      "featuredArtistId": "5YhhC07qoWdOpgwlCIMvNG",
+      "trackName": "No olvidarme de olvidar (feat. Carlos Rivera)",
+      "trackId": "4qgdNHJBQzW50le8WHKFQt",
+      "preview": "https://p.scdn.co/mp3-preview/2f0c03743d760cc84f3c448174046909ef77d009?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/779cb4919c615b8cc00ccd593758aa637c1a82c7",
+      "release_date": "2017-12-01"
+    }
+  ]
+}

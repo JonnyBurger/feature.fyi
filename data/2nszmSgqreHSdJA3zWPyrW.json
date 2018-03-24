@@ -1,0 +1,23 @@
+{
+  "artistName": "Luis Miguel",
+  "features": [
+    {
+      "featuredArtist": "Adrián Pieragostino",
+      "featuredArtistId": "5NTnEgRw26642ynBkxmrnD",
+      "trackName": "Labios De Miel - Dance Remix",
+      "trackId": "20A5ozzvGkTBVd5abZNdne",
+      "preview": "https://p.scdn.co/mp3-preview/9f37bbd7a5b6d2138a805b4ef02ea2986b60aa7e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/385144ee4a52cf5250ceda2114bf919fe0ed2493",
+      "release_date": "2011-01-17"
+    },
+    {
+      "featuredArtist": "Craig Brock",
+      "featuredArtistId": "7ou0NQLSFP1NrEi44RlCjH",
+      "trackName": "Somos Novios",
+      "trackId": "3ksxACJvW4VcrLTfCAo8Ui",
+      "preview": "https://p.scdn.co/mp3-preview/e2a3cf705ca4ea2a591de72ca8d649a9e232e957?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1f2c508d7dba093e7a85d38b60a0a413c52c3615",
+      "release_date": "2005-12-02"
+    }
+  ]
+}

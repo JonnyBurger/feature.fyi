@@ -1,0 +1,59 @@
+{
+  "artistName": "Diana Krall",
+  "features": [
+    {
+      "featuredArtist": "Michael Bublé",
+      "featuredArtistId": "1GxkXlMwML1oSg5eLPiAz3",
+      "trackName": "Alone Again (Naturally)",
+      "trackId": "7CM4neUwE5xm0OPe6cxwWZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea25bcfc1b7fe276f9c4cb8b4c69747f5cc22cec",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "Blake Mills",
+      "featuredArtistId": "4LhV33vJvXmFGSM3m5RzUR",
+      "trackName": "Wallflower",
+      "trackId": "0TNSK9aLhYcVX0bOh3w2bh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea25bcfc1b7fe276f9c4cb8b4c69747f5cc22cec",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "Bryan Adams",
+      "featuredArtistId": "3Z02hBLubJxuFJfhacLSDc",
+      "trackName": "Feels Like Home",
+      "trackId": "59YdOvosLjA7XgkIULf4Bx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea25bcfc1b7fe276f9c4cb8b4c69747f5cc22cec",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "Georgie Fame",
+      "featuredArtistId": "5rWKAmlxinr3muqedXVIHa",
+      "trackName": "Yeh Yeh",
+      "trackId": "0I7hcgi0vtOGzbLlStv99C",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea25bcfc1b7fe276f9c4cb8b4c69747f5cc22cec",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "Sarah McLachlan",
+      "featuredArtistId": "4NgNsOXSwIzXlUIJcpnNUp",
+      "trackName": "If You Could Read My Mind",
+      "trackId": "67t6NIa8j2OSGfX4sQE42Q",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea25bcfc1b7fe276f9c4cb8b4c69747f5cc22cec",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "Vince Gill",
+      "featuredArtistId": "3IhWQSrLj8EJjdvjFTpCyo",
+      "trackName": "Everybody's Talkin'",
+      "trackId": "2xPKwIqZKtQgFYWqNOI6i3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea25bcfc1b7fe276f9c4cb8b4c69747f5cc22cec",
+      "release_date": "2015-09-18"
+    }
+  ]
+}

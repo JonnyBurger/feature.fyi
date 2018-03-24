@@ -1,0 +1,59 @@
+{
+  "artistName": "Carlos Andrez",
+  "features": [
+    {
+      "featuredArtist": "Chris Punsalan",
+      "featuredArtistId": "6F9M9IjvizLuFrLZSg7E0R",
+      "trackName": "To Myself",
+      "trackId": "3xMCwLm1HaWLzap3gnGiLe",
+      "preview": "https://p.scdn.co/mp3-preview/617513604ee4dedf5ace12ed5458d69aad679404?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bb88e1a5b7914b13d7cc9607fc1dced56ce5c40d",
+      "release_date": "2017-12-02"
+    },
+    {
+      "featuredArtist": "Sam Rachel",
+      "featuredArtistId": "4SOZ0hPLnZnUa80G6xf67R",
+      "trackName": "Vibin'",
+      "trackId": "5ZjlXamlCQ3npaDhlz0jov",
+      "preview": "https://p.scdn.co/mp3-preview/1f83f97e297f17fee007bdc9626a661d5ef45ab8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/568406a24fd44b1cab2757b431f25ad7da9bfb12",
+      "release_date": "2017-10-25"
+    },
+    {
+      "featuredArtist": "Judah",
+      "featuredArtistId": "6ehfqJQX5gJsfkzUILfMm8",
+      "trackName": "5am",
+      "trackId": "1f2ZIGfEfKAY8N5x5HpQQX",
+      "preview": "https://p.scdn.co/mp3-preview/15cf80c0b8777d965ab228c51fc73fa8f2afb5e4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cb6c1a4a2734ec0ab47aba9b61d78b9dff1eac0b",
+      "release_date": "2017-09-27"
+    },
+    {
+      "featuredArtist": "XXXTENTACION",
+      "featuredArtistId": "15UsOTVnJzReFVN1VCnxy4",
+      "trackName": "I don’t even speak spanish lol",
+      "trackId": "14boA065HMHWvqyPPEeN4y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2e70e7b198acc3bb03aaba9424c5fb23fb38c536",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Rio Santana",
+      "featuredArtistId": "3mLdH6xxrscTf2poCN9Kzy",
+      "trackName": "I don’t even speak spanish lol",
+      "trackId": "14boA065HMHWvqyPPEeN4y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2e70e7b198acc3bb03aaba9424c5fb23fb38c536",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Judah",
+      "featuredArtistId": "2V0DROfM2ieFSOcA3SHJLD",
+      "trackName": "I don’t even speak spanish lol",
+      "trackId": "14boA065HMHWvqyPPEeN4y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2e70e7b198acc3bb03aaba9424c5fb23fb38c536",
+      "release_date": "2018-03-16"
+    }
+  ]
+}

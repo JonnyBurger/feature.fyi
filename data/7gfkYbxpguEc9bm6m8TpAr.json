@@ -1,0 +1,527 @@
+{
+  "artistName": "Chitãozinho & Xororó",
+  "features": [
+    {
+      "featuredArtist": "Paula Fernandes",
+      "featuredArtistId": "1nca3OA1kKCpP6aPJcBL92",
+      "trackName": "Um Homem Quando Ama / Sinônimos - Ao Vivo",
+      "trackId": "5yKyJz7spQBZG5xicMVOUV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1447bd3359dda6d366f5b36011a810b57f1f4f48",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Simone & Simaria",
+      "featuredArtistId": "0MInKJqZscEeNc5K3K0mkE",
+      "trackName": "Eu Menti - Ao Vivo",
+      "trackId": "4qhj2AIpPzaobwSleCXyZl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1447bd3359dda6d366f5b36011a810b57f1f4f48",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Maiara & Maraisa",
+      "featuredArtistId": "59jlthNnbmim5l9tmNA7se",
+      "trackName": "Nuvem De Lágrimas - Ao Vivo",
+      "trackId": "7nT5ASGwFRNDVTkz6nLluZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1447bd3359dda6d366f5b36011a810b57f1f4f48",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Anavitória",
+      "featuredArtistId": "1sPg5EHuQXTMElpZ4iUgXe",
+      "trackName": "Chovendo Na Roseira - Ao Vivo",
+      "trackId": "6CFhmsxehdYoJnQR1jY2ia",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1447bd3359dda6d366f5b36011a810b57f1f4f48",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Bruna Viola",
+      "featuredArtistId": "1FSqw66rqtbCLDgy9D751C",
+      "trackName": "Caipira / Majestade O Sabiá - Ao Vivo",
+      "trackId": "0Rm2rucr7IcLZqIV1ID2MT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1447bd3359dda6d366f5b36011a810b57f1f4f48",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Tania Mara",
+      "featuredArtistId": "5XN8KhxZVObkfRvTgsQFuN",
+      "trackName": "Fio De Cabelo - Ao Vivo",
+      "trackId": "5SCECAN1KyVI3UdmtuCam1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1447bd3359dda6d366f5b36011a810b57f1f4f48",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Ana Clara",
+      "featuredArtistId": "0TtPqZpxJ9ui2gTjwgTOsr",
+      "trackName": "João E Maria - Ao Vivo",
+      "trackId": "2WAOclNcX3amO8RJXyzM2K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1447bd3359dda6d366f5b36011a810b57f1f4f48",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Marília Mendonça",
+      "featuredArtistId": "1yR65psqiazQpeM79CcGh8",
+      "trackName": "Página De Amigos - Ao Vivo",
+      "trackId": "0tPCgy7edBDpK5eTf9NT4d",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1447bd3359dda6d366f5b36011a810b57f1f4f48",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Kell Smith",
+      "featuredArtistId": "74WDLxBsm1TLxV6WVwD994",
+      "trackName": "Era Uma Vez - Ao Vivo",
+      "trackId": "66LiFG3AYfv09D8oXkFReQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1447bd3359dda6d366f5b36011a810b57f1f4f48",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Alcione",
+      "featuredArtistId": "0hPar6ePAELiu9rYMdvMEo",
+      "trackName": "Separação - Ao Vivo",
+      "trackId": "4hO8RSnh0EEXiW5ncAs0XT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1447bd3359dda6d366f5b36011a810b57f1f4f48",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Bruno & Marrone",
+      "featuredArtistId": "5JXhkyafynxCvxtov7C1PV",
+      "trackName": "Drylands / Página De Amigos - Ao Vivo",
+      "trackId": "0Gf7LUx7CaYKYogC5pDjfE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e4d0bf69301230326dc717b912a9935a506f8ce0",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Fafá de Belém",
+      "featuredArtistId": "36S2mkzI96yrOoQDe9iXBA",
+      "trackName": "Nuvem De Lágrimas",
+      "trackId": "2a2YulQsDUO1YSIqZnd0fa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2b6bf9d6b68bfa8f3b223c6f366a2293904d20ff",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Mauricio & Mauri",
+      "featuredArtistId": "4xSldt858RozwvB6iEhOij",
+      "trackName": "Hino De Reis",
+      "trackId": "6zCyAj01q83KQIzkChd39B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2b6bf9d6b68bfa8f3b223c6f366a2293904d20ff",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Rick & Renner",
+      "featuredArtistId": "0ozdcqmICsOZDe7eJQVzrp",
+      "trackName": "Hino De Reis",
+      "trackId": "6zCyAj01q83KQIzkChd39B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2b6bf9d6b68bfa8f3b223c6f366a2293904d20ff",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Ney Matogrosso",
+      "featuredArtistId": "2SFIMUkCdZowbeisskDdhn",
+      "trackName": "Asa Branca",
+      "trackId": "5c2WzuzThXZerQXBHv49gj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2b6bf9d6b68bfa8f3b223c6f366a2293904d20ff",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Leandro & Leonardo",
+      "featuredArtistId": "0qHOVLCmMmMgk9l3GsgmUB",
+      "trackName": "Disparada",
+      "trackId": "69p5aG7z4zctR4XOG0qeYr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2b6bf9d6b68bfa8f3b223c6f366a2293904d20ff",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Zezé Di Camargo & Luciano",
+      "featuredArtistId": "4dyYjqmYDjegbB3F2mbvcT",
+      "trackName": "Disparada",
+      "trackId": "69p5aG7z4zctR4XOG0qeYr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2b6bf9d6b68bfa8f3b223c6f366a2293904d20ff",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Fernando & Sorocaba",
+      "featuredArtistId": "1oSgjdbgLYULVmEBojPRw8",
+      "trackName": "Do Tamanho Do Nosso Amor",
+      "trackId": "66axY56uDi8FqPM5ewIhJL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/213460816b65ee5e51979957458cf4540d79f6e2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Cabal",
+      "featuredArtistId": "5U4t8hhW0rLI2zE1dZq6bX",
+      "trackName": "Vida Marvada",
+      "trackId": "3CnDmxTJS0MpTJEkaeJfx0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/213460816b65ee5e51979957458cf4540d79f6e2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Dexterz",
+      "featuredArtistId": "7x6N9JLjlWWdvdMwAEhAJm",
+      "trackName": "Vida Marvada",
+      "trackId": "3CnDmxTJS0MpTJEkaeJfx0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/213460816b65ee5e51979957458cf4540d79f6e2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "João Carlos Martins",
+      "featuredArtistId": "5lcYXhAfA5WoaCtUXIzwNb",
+      "trackName": "Fio de Cabelo - Ao Vivo",
+      "trackId": "5x1werbBenPvSeo24NvbT8",
+      "preview": "https://p.scdn.co/mp3-preview/aa868b4b7d1830866a1a7ad133d97a58d4c3b4a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a8727dc2c001bca28ebe90c1449027d3fa4c911",
+      "release_date": "2011-11-10"
+    },
+    {
+      "featuredArtist": "Maria Gadú",
+      "featuredArtistId": "3uCu2WgyG0Iw50ylOYDSpH",
+      "trackName": "No Rancho Fundo - Ao Vivo",
+      "trackId": "2yWWXiNzF9VYBnWcMaI2Q9",
+      "preview": "https://p.scdn.co/mp3-preview/5f3eaa4e3c815695819502f66e51f7b6c5ecc535?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a8727dc2c001bca28ebe90c1449027d3fa4c911",
+      "release_date": "2011-11-10"
+    },
+    {
+      "featuredArtist": "Fafa De Belem",
+      "featuredArtistId": "6n45wsxj6sDedgwEyTza6d",
+      "trackName": "Nuvem de Lágrimas",
+      "trackId": "0hJewUnr9lzr4awR2XQEr5",
+      "preview": "https://p.scdn.co/mp3-preview/1cdb9892ce0c626d17e88934ea1d28249b5051c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a8727dc2c001bca28ebe90c1449027d3fa4c911",
+      "release_date": "2011-11-10"
+    },
+    {
+      "featuredArtist": "Fábio Jr.",
+      "featuredArtistId": "60iOwdF3A0p4pAwgUXMaWU",
+      "trackName": "Fogão de Lenha - Ao Vivo",
+      "trackId": "5G2fGwjlXonmxbOSKigvae",
+      "preview": "https://p.scdn.co/mp3-preview/7f4f395b4b780d0cdb35a93ac22e7cf730283fcb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a8727dc2c001bca28ebe90c1449027d3fa4c911",
+      "release_date": "2011-11-10"
+    },
+    {
+      "featuredArtist": "Alexandre Pires",
+      "featuredArtistId": "0Rrl4hJQjRAbGtiEwAqS5N",
+      "trackName": "Vez em Quando Vem Me Ver - Ao Vivo",
+      "trackId": "7s1aN85zOUONmBMBrIHgKU",
+      "preview": "https://p.scdn.co/mp3-preview/a264aa42a4a022cd9ac11525bca6b4734232d94c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a8727dc2c001bca28ebe90c1449027d3fa4c911",
+      "release_date": "2011-11-10"
+    },
+    {
+      "featuredArtist": "Junior Lima",
+      "featuredArtistId": "1bAP6GCtWKawdfTHyWm0QT",
+      "trackName": "Se Deus Me Ouvisse - Ao Vivo",
+      "trackId": "1pwkLomrU8oAjlbbkAQyDz",
+      "preview": "https://p.scdn.co/mp3-preview/53f4cd749f302ee7d0f21ae39988c0a279453944?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a8727dc2c001bca28ebe90c1449027d3fa4c911",
+      "release_date": "2011-11-10"
+    },
+    {
+      "featuredArtist": "Sandy",
+      "featuredArtistId": "4ZfTpxwHwtot9Ps59bXAF8",
+      "trackName": "Se Deus Me Ouvisse - Ao Vivo",
+      "trackId": "1pwkLomrU8oAjlbbkAQyDz",
+      "preview": "https://p.scdn.co/mp3-preview/53f4cd749f302ee7d0f21ae39988c0a279453944?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a8727dc2c001bca28ebe90c1449027d3fa4c911",
+      "release_date": "2011-11-10"
+    },
+    {
+      "featuredArtist": "Djavan",
+      "featuredArtistId": "5rrmaoBXZ7Jcs4Qb77j0YA",
+      "trackName": "Sorri (Smile) - Ao Vivo",
+      "trackId": "4Waq7EVCm3Q9Ed5kcCeDOl",
+      "preview": "https://p.scdn.co/mp3-preview/7bc1636baa4ff4ecb2c67ffa5ce1e8e2d3555018?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a8727dc2c001bca28ebe90c1449027d3fa4c911",
+      "release_date": "2011-11-10"
+    },
+    {
+      "featuredArtist": "Jair Rodrigues",
+      "featuredArtistId": "7K4gHixgiMhvBDewgHoxVk",
+      "trackName": "Majestade o Sabiá - Ao Vivo",
+      "trackId": "2zrawD1S6gpkeof7dZUwBF",
+      "preview": "https://p.scdn.co/mp3-preview/7176d58bad4dc1d4ba5aba05e7bf15fd809538cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a8727dc2c001bca28ebe90c1449027d3fa4c911",
+      "release_date": "2011-11-10"
+    },
+    {
+      "featuredArtist": "Caetano Veloso",
+      "featuredArtistId": "7HGNYPmbDrMkylWqeFCOIQ",
+      "trackName": "Céu de Santo Amaro (Largo Concerto nº 5 em Fá Menor) - Ao Vivo",
+      "trackId": "0DzyzWsCjEi2YxzzVzqCSA",
+      "preview": "https://p.scdn.co/mp3-preview/8279a451e9947407a4e4e00c460c47b43ad81f51?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a8727dc2c001bca28ebe90c1449027d3fa4c911",
+      "release_date": "2011-11-10"
+    },
+    {
+      "featuredArtist": "Rionegro & Solimões",
+      "featuredArtistId": "33NrinbbEctw1wsdKNgZeZ",
+      "trackName": "Deixei de Ser Cowboy por Ela - Ao Vivo",
+      "trackId": "36XqaUt8om1fVqAYEel8yB",
+      "preview": "https://p.scdn.co/mp3-preview/d742d0afeaa0f925780de2221c216f7f919f8b85?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a75aac1bbfd62bff2ad0b00ebe3050aa6faaff3",
+      "release_date": "2011-02-15"
+    },
+    {
+      "featuredArtist": "Roberta Miranda",
+      "featuredArtistId": "6pRYBBHNsZYnZ8w2xjkAgP",
+      "trackName": "Brincar de Ser Feliz - Ao Vivo",
+      "trackId": "78xw5WAWeiMqBTelhYTb8n",
+      "preview": "https://p.scdn.co/mp3-preview/dd7f48fbc839b7b5aafc96d00e635b188e2ba580?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a75aac1bbfd62bff2ad0b00ebe3050aa6faaff3",
+      "release_date": "2011-02-15"
+    },
+    {
+      "featuredArtist": "Edson",
+      "featuredArtistId": "4IVWBmsJGWu7H0F0X0cbM5",
+      "trackName": "Se Deus Me Ouvisse - Ao Vivo",
+      "trackId": "2XReZUxjOqRGg8q1h4LGFL",
+      "preview": "https://p.scdn.co/mp3-preview/425dfeda8b60162ff4e2287057cfb1e64ff47308?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a75aac1bbfd62bff2ad0b00ebe3050aa6faaff3",
+      "release_date": "2011-02-15"
+    },
+    {
+      "featuredArtist": "Cezar & Paulinho",
+      "featuredArtistId": "0padwH2BcP3olMtXhfW24N",
+      "trackName": "Obras de Poeta - Ao Vivo",
+      "trackId": "1fFYAsmcjE4Wm3QVcpOQdk",
+      "preview": "https://p.scdn.co/mp3-preview/cade23baa10b172f3c5b1b0d64def1b19fd12b4c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a75aac1bbfd62bff2ad0b00ebe3050aa6faaff3",
+      "release_date": "2011-02-15"
+    },
+    {
+      "featuredArtist": "Sérgio Reis",
+      "featuredArtistId": "0cSC1GvvgLumHovn2rgSHj",
+      "trackName": "Coração Sertanejo - Ao Vivo",
+      "trackId": "0PDHPVBO8AWiQdeVp3fsO0",
+      "preview": "https://p.scdn.co/mp3-preview/61d5212b635d0c14d1ecd52d7d261aa0c7b47b0b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a75aac1bbfd62bff2ad0b00ebe3050aa6faaff3",
+      "release_date": "2011-02-15"
+    },
+    {
+      "featuredArtist": "Milionário & José Rico",
+      "featuredArtistId": "4oa7ETNZH1ivfzFkCGVZlR",
+      "trackName": "60 Dias Apaixonado - Ao Vivo",
+      "trackId": "1meTaWilTpiKXdItTRFP7X",
+      "preview": "https://p.scdn.co/mp3-preview/1d7b0066a67238503d35e3f0300aff52a7a24f58?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a75aac1bbfd62bff2ad0b00ebe3050aa6faaff3",
+      "release_date": "2011-02-15"
+    },
+    {
+      "featuredArtist": "Daniel",
+      "featuredArtistId": "2wwWukJBsCikjlj7vlbQkM",
+      "trackName": "No Rancho Fundo - Ao Vivo",
+      "trackId": "2mqlAuqrJHc1GA7XVVDzHG",
+      "preview": "https://p.scdn.co/mp3-preview/ff975dd86098af64ec877aa1e000927149cc1bcd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a75aac1bbfd62bff2ad0b00ebe3050aa6faaff3",
+      "release_date": "2011-02-15"
+    },
+    {
+      "featuredArtist": "Gian & Giovani",
+      "featuredArtistId": "7tt5q9c2cUFczKNK5pEbZb",
+      "trackName": "Foge de Mim - Ao Vivo",
+      "trackId": "5FMpjUDZvfDk6MUo6GZi0n",
+      "preview": "https://p.scdn.co/mp3-preview/f7a3dae58f0afc7a2c3c0a9d7d8d23ad8212eaa2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a75aac1bbfd62bff2ad0b00ebe3050aa6faaff3",
+      "release_date": "2011-02-15"
+    },
+    {
+      "featuredArtist": "César Menotti & Fabiano",
+      "featuredArtistId": "08yxJfM5RnFAjJvMJIFnvh",
+      "trackName": "A Minha Vida - Ao Vivo",
+      "trackId": "3ezEk3VSgOfyg0Ai0ToWta",
+      "preview": "https://p.scdn.co/mp3-preview/d052ea2596e89245bfd8cdefb3f53844674e3f54?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a75aac1bbfd62bff2ad0b00ebe3050aa6faaff3",
+      "release_date": "2011-02-15"
+    },
+    {
+      "featuredArtist": "Victor & Leo",
+      "featuredArtistId": "2HtEBtekn0bXogyogD3PTr",
+      "trackName": "Ela Não Vai Mais Chorar - Ao Vivo",
+      "trackId": "4AFOdxPsVocMW3dnxTg8Kk",
+      "preview": "https://p.scdn.co/mp3-preview/aacc674fdc9de47dbaf1c072c1666a8f00c3a89d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a75aac1bbfd62bff2ad0b00ebe3050aa6faaff3",
+      "release_date": "2011-02-15"
+    },
+    {
+      "featuredArtist": "Leonardo",
+      "featuredArtistId": "54hmQwVINCfvtd9iglIT7F",
+      "trackName": "Falando as Paredes - Ao Vivo",
+      "trackId": "0dLM8eBqNlh5OKLr2yr1dd",
+      "preview": "https://p.scdn.co/mp3-preview/1ba788edc26522bd5b717ef7554a43600a78447f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a75aac1bbfd62bff2ad0b00ebe3050aa6faaff3",
+      "release_date": "2011-02-15"
+    },
+    {
+      "featuredArtist": "João Bosco & Vinicius",
+      "featuredArtistId": "7zIRO89G0FBAQtGMHO1Wa0",
+      "trackName": "Página de Amigos - Ao Vivo",
+      "trackId": "3LgSWNo0VonkueX8pVIGva",
+      "preview": "https://p.scdn.co/mp3-preview/826caa4a2148c5e5ec0d957c83b4b910ea2cc8d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3cb8770e601444b1d8b675e115eda374007fb7b4",
+      "release_date": "2010-09-01"
+    },
+    {
+      "featuredArtist": "Zé Henrique & Gabriel",
+      "featuredArtistId": "5Dyg6H3QJHQV5c7ojyKWyv",
+      "trackName": "Doce Pecado - Ao Vivo",
+      "trackId": "4iRHmMzv5nJjAram0oWoda",
+      "preview": "https://p.scdn.co/mp3-preview/270d593e7fa19ae610116ae8dc55c707a5565db6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3cb8770e601444b1d8b675e115eda374007fb7b4",
+      "release_date": "2010-09-01"
+    },
+    {
+      "featuredArtist": "Michel Teló",
+      "featuredArtistId": "1sDVuztNhGcetCLChkleDA",
+      "trackName": "Nuvem de Lágrimas - Ao Vivo",
+      "trackId": "5JUa0S3N0GJyXm3w0JcFnU",
+      "preview": "https://p.scdn.co/mp3-preview/d09237b8233c78e2d9e7f63430c40efa763421dc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3cb8770e601444b1d8b675e115eda374007fb7b4",
+      "release_date": "2010-09-01"
+    },
+    {
+      "featuredArtist": "Maria Cecília & Rodolfo",
+      "featuredArtistId": "1oOTUMbydEi6ogss5Klsom",
+      "trackName": "Meu Disfarce - Ao Vivo",
+      "trackId": "5TqJfihdkoOr3L7AVrkB3p",
+      "preview": "https://p.scdn.co/mp3-preview/b63547cbd55e6e11a5c248b7cb56fde7e85c0850?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3cb8770e601444b1d8b675e115eda374007fb7b4",
+      "release_date": "2010-09-01"
+    },
+    {
+      "featuredArtist": "Hugo Pena & Gabriel",
+      "featuredArtistId": "7AAXcP4NpvvLM9Xcfy64ij",
+      "trackName": "Não Desligue o Rádio - Ao Vivo",
+      "trackId": "7gjCUc3TzpxXbsG1jjHEdO",
+      "preview": "https://p.scdn.co/mp3-preview/3f85a3c0cebd2d4324ae9b7de6a79842bc7013c9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3cb8770e601444b1d8b675e115eda374007fb7b4",
+      "release_date": "2010-09-01"
+    },
+    {
+      "featuredArtist": "Guilherme & Santiago",
+      "featuredArtistId": "61rqgwKmF0QwycnC8O82rn",
+      "trackName": "Coração Quebrado - Ao Vivo",
+      "trackId": "46hORcrBVD1f5bvoE15O2b",
+      "preview": "https://p.scdn.co/mp3-preview/7b88ca991aba3fa72cf388ad7405fe94a0ef8e3b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3cb8770e601444b1d8b675e115eda374007fb7b4",
+      "release_date": "2010-09-01"
+    },
+    {
+      "featuredArtist": "Jorge & Mateus",
+      "featuredArtistId": "1elUiq4X7pxej6FRlrEzjM",
+      "trackName": "Página Virada - Ao Vivo",
+      "trackId": "0n7KTfGKco9onLssdFJLm4",
+      "preview": "https://p.scdn.co/mp3-preview/e2247d298e1fd575bcb5822c1015af7f18b4f5fa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3cb8770e601444b1d8b675e115eda374007fb7b4",
+      "release_date": "2010-09-01"
+    },
+    {
+      "featuredArtist": "João Neto & Frederico",
+      "featuredArtistId": "2FrLTuXGuFDzQsjKidB03W",
+      "trackName": "Confidências - Ao Vivo",
+      "trackId": "7dS10KHNb5PVHsanMIp3ds",
+      "preview": "https://p.scdn.co/mp3-preview/ab011fdb6ca9db368be3dd0e51e80afbcd6c515d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3cb8770e601444b1d8b675e115eda374007fb7b4",
+      "release_date": "2010-09-01"
+    },
+    {
+      "featuredArtist": "Eduardo Costa",
+      "featuredArtistId": "2OUgs5INWK2UEvZ6amWiJr",
+      "trackName": "Deixa - Ao Vivo",
+      "trackId": "6Axzx27HeKWYYCW5EP2wz9",
+      "preview": "https://p.scdn.co/mp3-preview/3f6644dd075e5cf8aec852d1da8b360dabc4dbe0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3cb8770e601444b1d8b675e115eda374007fb7b4",
+      "release_date": "2010-09-01"
+    },
+    {
+      "featuredArtist": "Luan Santana",
+      "featuredArtistId": "3qvcCP2J0fWi0m0uQDUf6r",
+      "trackName": "Pode Ser pra Valer - Ao Vivo",
+      "trackId": "52fX0s5ZcGXh5Ty0Rim9P4",
+      "preview": "https://p.scdn.co/mp3-preview/79c58c053c882ba282b31b4d30dd0a777bfd479e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3cb8770e601444b1d8b675e115eda374007fb7b4",
+      "release_date": "2010-09-01"
+    },
+    {
+      "featuredArtist": "Maurício e Maurí",
+      "featuredArtistId": "5hUuIIE5eVW1GQGNekMDSX",
+      "trackName": "CIUMENTO DEMAIS",
+      "trackId": "1WpHLWUeSc4VrdZLasyz8E",
+      "preview": "https://p.scdn.co/mp3-preview/c7300e99365ae30de7c2b92bd683b2bc2700fb30?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/694c905a92ace6ed8f97dee1c42dba5db92d99e4",
+      "release_date": "2010-09-01"
+    },
+    {
+      "featuredArtist": "Amon Lima",
+      "featuredArtistId": "6dDrNOcuBPmrKd5sUd4WoA",
+      "trackName": "Brincar de Ser Feliz",
+      "trackId": "00VmYDEjYUdMpED1xjzExO",
+      "preview": "https://p.scdn.co/mp3-preview/ff13179482df50ae5e243dc88b3ff869bf6f4b68?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45790d793e9aa40a7fd963d87c95e0056c430e00",
+      "release_date": "2007-08-01"
+    },
+    {
+      "featuredArtist": "Zé Ramalho",
+      "featuredArtistId": "7JoWcJHDOG58JYTe6d400S",
+      "trackName": "Sinônimos",
+      "trackId": "3GB7RHXPexRJzXAS7MyZ8b",
+      "preview": "https://p.scdn.co/mp3-preview/86d3cbf6da46bb5eda6bcba890d0f0761e8c580c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45790d793e9aa40a7fd963d87c95e0056c430e00",
+      "release_date": "2007-08-01"
+    },
+    {
+      "featuredArtist": "Roupa Nova",
+      "featuredArtistId": "2poCUrtJvVVgfA2hgri1IS",
+      "trackName": "Frio Da Solidão",
+      "trackId": "5amNO6Ln51o7qNjGcqhozF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f262fad806fca0e3ca1bc649ddba799238f1348c",
+      "release_date": "2007-01-08"
+    },
+    {
+      "featuredArtist": "Ivete Sangalo",
+      "featuredArtistId": "7dzq55YG3wjViqexDwiycQ",
+      "trackName": "Beijinho Doce",
+      "trackId": "7LVWsSP9saVJZ7WC4OOFob",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f262fad806fca0e3ca1bc649ddba799238f1348c",
+      "release_date": "2007-01-08"
+    },
+    {
+      "featuredArtist": "Margareth Menezes",
+      "featuredArtistId": "1ehJzJeAbLiS4l0PIWd9MD",
+      "trackName": "Beijinho Doce",
+      "trackId": "7LVWsSP9saVJZ7WC4OOFob",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f262fad806fca0e3ca1bc649ddba799238f1348c",
+      "release_date": "2007-01-08"
+    },
+    {
+      "featuredArtist": "Roberto Carlos",
+      "featuredArtistId": "7fAKtXSdNInWAIf0jVUz65",
+      "trackName": "Arrasta Uma Cadeira",
+      "trackId": "3qI63vOl88KjwKftdoRoKt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eeb4d069ae324603d9df7034a7e3dbc439f428b1",
+      "release_date": "2006"
+    }
+  ]
+}

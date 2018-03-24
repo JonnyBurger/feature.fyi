@@ -1,0 +1,50 @@
+{
+  "artistName": "K.Flay",
+  "features": [
+    {
+      "featuredArtist": "B. Lewis",
+      "featuredArtistId": "6asmpfwwanm7jSQldjBu7y",
+      "trackName": "Make Me Fade - B. Lewis Remix",
+      "trackId": "3kkugi9mF6Kt8P9KXf7lLt",
+      "preview": "https://p.scdn.co/mp3-preview/e952839c0d8501f022dbb946f85b9116c56d06cb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45955fb1fcdda721840c1556bc808c537f778b43",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "MC Lars",
+      "featuredArtistId": "05Am7rOfCvNggzIEeAhbiV",
+      "trackName": "Running Trains",
+      "trackId": "3tXcvHyny4CXr4BP3WlgOn",
+      "preview": "https://p.scdn.co/mp3-preview/efecc3edc2bf40effdc0dfe6037a93a1532afb2c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a67768248eafe4de48b9c53eb65522c21a48e203",
+      "release_date": "2009-08-18"
+    },
+    {
+      "featuredArtist": "Wankelmut",
+      "featuredArtistId": "01e2lCvLZ4fLUIRy68nptH",
+      "trackName": "Giver - Wankelmut & Fynn Remix",
+      "trackId": "2UQfJNS8G3q7Y13FwLDDPy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/389070ae5ea726653a134c788aa65ec806259170",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Fynn",
+      "featuredArtistId": "4xuvLbpdu8lDCLSnpZY45m",
+      "trackName": "Giver - Wankelmut & Fynn Remix",
+      "trackId": "2UQfJNS8G3q7Y13FwLDDPy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/389070ae5ea726653a134c788aa65ec806259170",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Robert DeLong",
+      "featuredArtistId": "42crL07E4WPfVovyUtMpvC",
+      "trackName": "Favorite Color Is Blue",
+      "trackId": "7gvtgAv9C9BoV9KoFTzBWd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7ac8d37e96ed16ff8aaba95b1db39c427f4d2093",
+      "release_date": "2018-02-23"
+    }
+  ]
+}

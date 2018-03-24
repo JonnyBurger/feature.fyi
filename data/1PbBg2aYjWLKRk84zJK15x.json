@@ -1,0 +1,41 @@
+{
+  "artistName": "Echosmith",
+  "features": [
+    {
+      "featuredArtist": "Prince Fox",
+      "featuredArtistId": "1nf5yEVCfMbqm1OCYpntBT",
+      "trackName": "Get Into My Car - Prince Fox Remix",
+      "trackId": "284MYaZj9ZDrOv3GZ0P1Cu",
+      "preview": "https://p.scdn.co/mp3-preview/c526a8ba8c4407f630998e1c7dd7bec5d8ad222a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a0fb5f7ce941d340af15a06f09f9790eb04f4a4f",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Hunter Hayes",
+      "featuredArtistId": "7H6dkUChT5EoOQtUVMg4cN",
+      "trackName": "Happy Xmas (War Is Over) [feat. Hunter Hayes]",
+      "trackId": "6QRvJmjkMhbE3e2Y3Rd4We",
+      "preview": "https://p.scdn.co/mp3-preview/407e22897febca5910b3239f9d229dff946b47a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bde03d05e92443ae78e851a6fedd90eed6c57466",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Lost Kings",
+      "featuredArtistId": "3hyEbRtp617pNCuuQjyOmc",
+      "trackName": "Bright - Lost Kings Remix",
+      "trackId": "1l7n3I8SoPR4OyLnTm1uqK",
+      "preview": "https://p.scdn.co/mp3-preview/79592a3341ee4fdd8a47cc2e5bf8cc0c0a3b1b0b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a810b77e136a34c24c1c02d87488732071ce026f",
+      "release_date": "2015-06-29"
+    },
+    {
+      "featuredArtist": "RAC",
+      "featuredArtistId": "4AGwPDdh1y8hochNzHy5HC",
+      "trackName": "Cool Kids - RAC Mix",
+      "trackId": "3tAtO6czCVORG1kCBzOljq",
+      "preview": "https://p.scdn.co/mp3-preview/813fbddbef40f77a8ec3cb707a959c9b11b58547?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f0569aa90ecec4669acd70b8377c53b3bc93786d",
+      "release_date": "2014-12-08"
+    }
+  ]
+}

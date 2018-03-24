@@ -1,0 +1,59 @@
+{
+  "artistName": "Sheppard",
+  "features": [
+    {
+      "featuredArtist": "Sebastian Yatra",
+      "featuredArtistId": "07YUOmWljBTXwIseAUd9TW",
+      "trackName": "Edge Of The Night - Spanish Language Version",
+      "trackId": "6rKA2zb7ftUWM7mhkuASkK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7793c991c10ae3a422cfc72b48f16a5dec28125f",
+      "release_date": "2017-08-11"
+    },
+    {
+      "featuredArtist": "KC Lights",
+      "featuredArtistId": "0bUZrFj7rstq07E4iAJHgZ",
+      "trackName": "Edge Of The Night - KC Lights Remix / Edit",
+      "trackId": "6AW1ClnrGIZ7zOpwnoVC2i",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae83079988bb4d38001eb62f0c807a72efd4eb85",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "L'Tric",
+      "featuredArtistId": "4ZedOHbnyLaFvvMuY6uaOM",
+      "trackName": "Edge Of The Night - L'Tric Remix",
+      "trackId": "4gN8y9h9aIRTu6vEuGhnxz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae83079988bb4d38001eb62f0c807a72efd4eb85",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Benny Benassi",
+      "featuredArtistId": "4Ws2otunReOa6BbwxxpCt6",
+      "trackName": "Edge Of The Night - Benny Benassi Remix",
+      "trackId": "6gPxMBlYyyU1vNBpjBEcxQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae83079988bb4d38001eb62f0c807a72efd4eb85",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Rave Radio",
+      "featuredArtistId": "7JrHNXd3zMD7xTFFhvnoyN",
+      "trackName": "Edge Of The Night - Rave Radio Remix",
+      "trackId": "4e3pf74MwWbhdcuSBGKrXi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae83079988bb4d38001eb62f0c807a72efd4eb85",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Black Summer",
+      "featuredArtistId": "0YtMDLD2TuUQoWsMFTJuom",
+      "trackName": "Edge Of The Night - Black Summer Remix",
+      "trackId": "0F8ezb0nNoPXf26o4IAJ9K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae83079988bb4d38001eb62f0c807a72efd4eb85",
+      "release_date": "2017-08-04"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "artistName": "Banda El Recodo",
+  "features": [
+    {
+      "featuredArtist": "Banda El Pueblito",
+      "featuredArtistId": "15myS3NDS2iwVo2gyCl2rm",
+      "trackName": "Seis Pies Abajo",
+      "trackId": "7kJZRcPvDE3qahGdaYAVkl",
+      "preview": "https://p.scdn.co/mp3-preview/eceffe104da84f7e1287370898e0520ac28f86f1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad6a8b28ffe05f381453ec13436fda269236a2ca",
+      "release_date": "2017-02-10"
+    },
+    {
+      "featuredArtist": "Juan Zaizar",
+      "featuredArtistId": "73jxdVvynjIPx5Frtin9j1",
+      "trackName": "La Malora",
+      "trackId": "6rdeWDrhW1SU9fEpDKWltV",
+      "preview": "https://p.scdn.co/mp3-preview/efed983938c3a10b3dc82ef5eef37d7adb3a26fe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32c0664437de597170ef85fcc8a1bbe065203607",
+      "release_date": "2016-08-08"
+    },
+    {
+      "featuredArtist": "Eliseo Robles",
+      "featuredArtistId": "7mK1F4c2VQnHzuoH4wUX2y",
+      "trackName": "Recuerdame",
+      "trackId": "4ovnYfxyQvh5X7y0Bk3LTK",
+      "preview": "https://p.scdn.co/mp3-preview/beceff47a9345927bb7205aabbb829f1b8d0b58b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/839554cab5549c5ff10f9f4646cf6cda9f7e84ee",
+      "release_date": "2016-05-09"
+    },
+    {
+      "featuredArtist": "Los Cadetes De Linares",
+      "featuredArtistId": "1iIxNEvPPmdFIIP0tdpw6G",
+      "trackName": "El Palomito",
+      "trackId": "0qkuRPasSLTFIzObD5DdH0",
+      "preview": "https://p.scdn.co/mp3-preview/282b7146cca2826c5a2c35aa651b09e6fef6d51c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5d8ddc7f0b4863ef990186b73bdcd5c61282b175",
+      "release_date": "2016-04-25"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "artistName": "Maldita Nerea",
+  "features": [
+    {
+      "featuredArtist": "Leire Martinez",
+      "featuredArtistId": "0B0esAjCSSwycZDx1bhpmD",
+      "trackName": "Cuando Todas las Historias Se Acaban",
+      "trackId": "4JLMmUdx8clVUKCD75C5me",
+      "preview": "https://p.scdn.co/mp3-preview/476d6e84f773648209f43276b9cf59b16fb89977?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d57b35196746b4106f3c331b273525ff63a94797",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Carlos Jean",
+      "featuredArtistId": "3oDsfHaRCBv7Jp8HO6VgeA",
+      "trackName": "Bailarina (Remix)",
+      "trackId": "6n2Hueb9hWG1isdbzKOaw8",
+      "preview": "https://p.scdn.co/mp3-preview/03a97db23592f66c579beafcc1bee8e348dafe1c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/60617e782de80a66fd9addbd8174102dd09accb6",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Los Clanners",
+      "featuredArtistId": "6jC5wXArIbgeFbOzYDmSM3",
+      "trackName": "Bienvenido a Nuestro Clan",
+      "trackId": "7rjKyanXouvKt0gYSJVLOj",
+      "preview": "https://p.scdn.co/mp3-preview/55d299e7c46b5ed546ccd827ac4c69a28e4b2ace?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c9b156ab5fd6092182ce890dcc42d95570ba593",
+      "release_date": "2011-10-25"
+    }
+  ]
+}

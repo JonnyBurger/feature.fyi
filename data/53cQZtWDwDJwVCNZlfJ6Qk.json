@@ -1,0 +1,446 @@
+{
+  "artistName": "Laidback Luke",
+  "features": [
+    {
+      "featuredArtist": "Trevor Guthrie",
+      "featuredArtistId": "6NXk2pLFocS2OkNdT7ncBt",
+      "trackName": "Let It Go",
+      "trackId": "42jL4uu3lYPs7JNeEMJkZb",
+      "preview": "https://p.scdn.co/mp3-preview/af5c53b9f9d0975a0150090171e9736157753ac5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a00642baf812dc2fb282456b57e4175f3a7ba4c9",
+      "release_date": "2016-03-11"
+    },
+    {
+      "featuredArtist": "Sam Ashworth",
+      "featuredArtistId": "3ygepTMi0maqR8NF74w51F",
+      "trackName": "Hooked Again",
+      "trackId": "11w8nvd1I8YTYhfPoFybhm",
+      "preview": "https://p.scdn.co/mp3-preview/bea62c69a838700306edc03530f65edaec58b23c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a00642baf812dc2fb282456b57e4175f3a7ba4c9",
+      "release_date": "2016-03-11"
+    },
+    {
+      "featuredArtist": "Luciano Martina",
+      "featuredArtistId": "2CQFLEm7GuQEvDF4YOZi2C",
+      "trackName": "Won't Break This Feeling Down",
+      "trackId": "6Tiy8cn61wZ6a7uss4LISF",
+      "preview": "https://p.scdn.co/mp3-preview/87b866c7ccecf96f1a996b177768d9db97769d4a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a00642baf812dc2fb282456b57e4175f3a7ba4c9",
+      "release_date": "2016-03-11"
+    },
+    {
+      "featuredArtist": "More & Killa Karma",
+      "featuredArtistId": "5Hz1wxn1oLQtAOY3ZIJRo3",
+      "trackName": "Never Forget",
+      "trackId": "7JuLMIY5f054KxgPBoIlvH",
+      "preview": "https://p.scdn.co/mp3-preview/a7c212051628f78dbe946d28ffa440917c5dfddc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a00642baf812dc2fb282456b57e4175f3a7ba4c9",
+      "release_date": "2016-03-11"
+    },
+    {
+      "featuredArtist": "Harrison",
+      "featuredArtistId": "58O8UPrTdl4u2buM0skj94",
+      "trackName": "Never Rave Again",
+      "trackId": "090pezHFNyCpRfBpoiWMOP",
+      "preview": "https://p.scdn.co/mp3-preview/2c69897b15d59e82383f35310ee92450821fe4f5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a00642baf812dc2fb282456b57e4175f3a7ba4c9",
+      "release_date": "2016-03-11"
+    },
+    {
+      "featuredArtist": "Yellow Claw & Dirtcaps",
+      "featuredArtistId": "3g0ih530sOo73UaM88rT9I",
+      "trackName": "Mic",
+      "trackId": "1XC58J3VsUkJkYbTcdNxrf",
+      "preview": "https://p.scdn.co/mp3-preview/f93342f6170388fbac699625b54047adc33888b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a00642baf812dc2fb282456b57e4175f3a7ba4c9",
+      "release_date": "2016-03-11"
+    },
+    {
+      "featuredArtist": "Natalia Isabella",
+      "featuredArtistId": "5R76wfoxfTcjE0nA0VQ3Xn",
+      "trackName": "Fantasizing",
+      "trackId": "08tgd6y0JXlNqT30DCf6eD",
+      "preview": "https://p.scdn.co/mp3-preview/a7d7081c4da0328da3536a762337da3588179961?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a00642baf812dc2fb282456b57e4175f3a7ba4c9",
+      "release_date": "2016-03-11"
+    },
+    {
+      "featuredArtist": "Mangal Suvarnan",
+      "featuredArtistId": "7flHpBy7k6y7uVjtwQq0fp",
+      "trackName": "Don't Hesitate",
+      "trackId": "6Vofn4N2735qhpBd5aSeo7",
+      "preview": "https://p.scdn.co/mp3-preview/e41b827b136de9afd9dd1a23597007a0f862a773?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a00642baf812dc2fb282456b57e4175f3a7ba4c9",
+      "release_date": "2016-03-11"
+    },
+    {
+      "featuredArtist": "GTA",
+      "featuredArtistId": "6M7RdR9ZP52h2mfNLmiHtU",
+      "trackName": "The Chase - Radio Edit",
+      "trackId": "17c6PYQzoaF2W5XCrX6Alr",
+      "preview": "https://p.scdn.co/mp3-preview/d1cf2f1297a45931fdc064446ced35620d7bc47d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/46555e077c14a13851e5dfac03b7b61076d155ff",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Aruna",
+      "featuredArtistId": "0vqrIH6O2kBhSBGz7pwRC9",
+      "trackName": "The Chase - Radio Edit",
+      "trackId": "17c6PYQzoaF2W5XCrX6Alr",
+      "preview": "https://p.scdn.co/mp3-preview/d1cf2f1297a45931fdc064446ced35620d7bc47d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/46555e077c14a13851e5dfac03b7b61076d155ff",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Cesqeaux & Mike Cervello",
+      "featuredArtistId": "61Aa3n255dNLS5BesD6f4V",
+      "trackName": "The Chase - Cesqeaux & Mike Cervello Remix",
+      "trackId": "2GUNTOWgd5UlhF2xtEoSWy",
+      "preview": "https://p.scdn.co/mp3-preview/237dd5dac8a265a045bf24d7a7222a597fe3b2e5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/46555e077c14a13851e5dfac03b7b61076d155ff",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "CMC$ & Pyrodox",
+      "featuredArtistId": "2HJPefJtm701Uf7rdJKOca",
+      "trackName": "The Chase - Cmc$ & Pyrodox Remix",
+      "trackId": "55jUjLb4cR3I14O2NdpSND",
+      "preview": "https://p.scdn.co/mp3-preview/c478f30fe56e8fdd2acf45b1105b035dace0436e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/46555e077c14a13851e5dfac03b7b61076d155ff",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Evangelos & Subshock",
+      "featuredArtistId": "6aNq5T83th9yb5zYj3G13e",
+      "trackName": "The Chase - Evangelos & Subshock Remix",
+      "trackId": "7jrNLx5630USImr53I0DJc",
+      "preview": "https://p.scdn.co/mp3-preview/f40b833195d939483df954ae72ec23f7fdf439bc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/46555e077c14a13851e5dfac03b7b61076d155ff",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Herve Pagez & KANDY",
+      "featuredArtistId": "4yiT5Sh7p6SLhIWjs5TOcD",
+      "trackName": "The Chase - Herve Pagez & Kandy Remix",
+      "trackId": "2YL7QBKsOIHVMmqD3MsnJZ",
+      "preview": "https://p.scdn.co/mp3-preview/d45bbc439b1eab3afd367909d14037ac2c1dcdd9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/46555e077c14a13851e5dfac03b7b61076d155ff",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Hits O Good",
+      "featuredArtistId": "10mRp7ANHJCmP7tX8O5Czm",
+      "trackName": "The Chase - Hits 'O' Good Remix",
+      "trackId": "7bgRIqSDUctl6fZDkGrate",
+      "preview": "https://p.scdn.co/mp3-preview/72211d42f7cf385ecda818f3f8cc95250da27e95?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/46555e077c14a13851e5dfac03b7b61076d155ff",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Cesqeaux",
+      "featuredArtistId": "1EAFXic0Cfiwpe7nSuTrGL",
+      "trackName": "The Chase - Cesqeaux & Mike Cervello Remix",
+      "trackId": "2CTEH252owv0Qrbo1HaHF5",
+      "preview": "https://p.scdn.co/mp3-preview/9bb129eb3ed91445a722e9466f3831d0738354a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13221d684149c13a6c65964a6624a78f45154488",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "Mike Cervello",
+      "featuredArtistId": "4zYX8Aa744hQ5O2hpAYQI3",
+      "trackName": "The Chase - Cesqeaux & Mike Cervello Remix",
+      "trackId": "2CTEH252owv0Qrbo1HaHF5",
+      "preview": "https://p.scdn.co/mp3-preview/9bb129eb3ed91445a722e9466f3831d0738354a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13221d684149c13a6c65964a6624a78f45154488",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "CMC$",
+      "featuredArtistId": "78DWNk8gFHU30TGITAgbM7",
+      "trackName": "The Chase - CMC$ & Pyrodox Remix",
+      "trackId": "4KeuB1KiOJFdT3UltDBpKj",
+      "preview": "https://p.scdn.co/mp3-preview/db7fbd02b5dceb43163c6d987665d24cd95edf6e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13221d684149c13a6c65964a6624a78f45154488",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "Pyrodox",
+      "featuredArtistId": "4qCTqYp2ugnljQtRqy5cEH",
+      "trackName": "The Chase - CMC$ & Pyrodox Remix",
+      "trackId": "4KeuB1KiOJFdT3UltDBpKj",
+      "preview": "https://p.scdn.co/mp3-preview/db7fbd02b5dceb43163c6d987665d24cd95edf6e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13221d684149c13a6c65964a6624a78f45154488",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "Evangelos",
+      "featuredArtistId": "6MNEbHrA3kgHFLlDgdouFe",
+      "trackName": "The Chase - Evangelos & Subshock Remix",
+      "trackId": "7b5EikWoOVnGOdah0Jcl4C",
+      "preview": "https://p.scdn.co/mp3-preview/42efd73c202c157f1739f907c127d210d36e510e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13221d684149c13a6c65964a6624a78f45154488",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "Subshock",
+      "featuredArtistId": "0swDNTQGwi17CgBAqfBeLV",
+      "trackName": "The Chase - Evangelos & Subshock Remix",
+      "trackId": "7b5EikWoOVnGOdah0Jcl4C",
+      "preview": "https://p.scdn.co/mp3-preview/42efd73c202c157f1739f907c127d210d36e510e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13221d684149c13a6c65964a6624a78f45154488",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "Herve Pagez",
+      "featuredArtistId": "31JFnMfmvwzZGdEnXaKGek",
+      "trackName": "The Chase - Herve Pagez & KANDY Remix",
+      "trackId": "3fJbG765hU4AsF8NFQgj9g",
+      "preview": "https://p.scdn.co/mp3-preview/0916706e545100dcff74e09319f0a4665cd7190f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13221d684149c13a6c65964a6624a78f45154488",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "Kandy",
+      "featuredArtistId": "4mPFPLedaotlYFB3GLn6r7",
+      "trackName": "The Chase - Herve Pagez & KANDY Remix",
+      "trackId": "3fJbG765hU4AsF8NFQgj9g",
+      "preview": "https://p.scdn.co/mp3-preview/0916706e545100dcff74e09319f0a4665cd7190f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13221d684149c13a6c65964a6624a78f45154488",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "HITS 'O' GOOD",
+      "featuredArtistId": "1Qt6eL3aUmMIzYPfp48KuI",
+      "trackName": "The Chase - HITS 'O' GOOD Remix",
+      "trackId": "1nipx7Lc0Z3QPqqYgfYucZ",
+      "preview": "https://p.scdn.co/mp3-preview/b1826f8495e6fc3c36a6bfeeb75d3804ec59b915?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13221d684149c13a6c65964a6624a78f45154488",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "More",
+      "featuredArtistId": "7k1ubaMnK43qttUGBFp5zW",
+      "trackName": "Never Forget - Original Mix",
+      "trackId": "0RHoTk4UXHXokY8fwykQwo",
+      "preview": "https://p.scdn.co/mp3-preview/1b8b87050a4bfe2dbbb244c38631380cade19c59?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5482f3a451572d8fad3e463b53f51f5d8ff760d6",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Killa Karma",
+      "featuredArtistId": "1G5A2pxFyGKbLjiJGIMJcR",
+      "trackName": "Never Forget - Original Mix",
+      "trackId": "0RHoTk4UXHXokY8fwykQwo",
+      "preview": "https://p.scdn.co/mp3-preview/1b8b87050a4bfe2dbbb244c38631380cade19c59?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5482f3a451572d8fad3e463b53f51f5d8ff760d6",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "D.O.D",
+      "featuredArtistId": "0Cs47vvRsPgEfliBU9KDiB",
+      "trackName": "We Party - Original Mix",
+      "trackId": "17gUwvyyqUmfKeud59HJDW",
+      "preview": "https://p.scdn.co/mp3-preview/54b2e24e0395c31b788ba9623b20d06de8b2e9d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5482f3a451572d8fad3e463b53f51f5d8ff760d6",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Marc Benjamin",
+      "featuredArtistId": "05KjvP5zdwtEIgEazqblZw",
+      "trackName": "Tell Me That You Love Me - Original Mix",
+      "trackId": "20xijBHf6bzbALcgLzEFRi",
+      "preview": "https://p.scdn.co/mp3-preview/56a3760b1cc07b11d8a36e64648a14705b169311?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5482f3a451572d8fad3e463b53f51f5d8ff760d6",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Benny Benassi",
+      "featuredArtistId": "4Ws2otunReOa6BbwxxpCt6",
+      "trackName": "Neon Sunrise - Original Mix",
+      "trackId": "40kFoc07XwfqF1ILEzUs1G",
+      "preview": "https://p.scdn.co/mp3-preview/2715477c798e32e60edcd60589ae2a67508b2313?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5482f3a451572d8fad3e463b53f51f5d8ff760d6",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Amba Shepherd",
+      "featuredArtistId": "4RTCIP5yp2tL1AtBCq7ukj",
+      "trackName": "Neon Sunrise - Original Mix",
+      "trackId": "40kFoc07XwfqF1ILEzUs1G",
+      "preview": "https://p.scdn.co/mp3-preview/2715477c798e32e60edcd60589ae2a67508b2313?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5482f3a451572d8fad3e463b53f51f5d8ff760d6",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Harrison",
+      "featuredArtistId": "7zO6dn6olAUIOzRGlk6Ma0",
+      "trackName": "Never Rave Again - Original Mix",
+      "trackId": "3SjfgdHudzJTTVVyBmJIZu",
+      "preview": "https://p.scdn.co/mp3-preview/97beb42230dea0e29d56d789a60ab6ec1ae963fa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5482f3a451572d8fad3e463b53f51f5d8ff760d6",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Yellow Claw",
+      "featuredArtistId": "47z7ZrgFoBvVpCnElCE3Zh",
+      "trackName": "Mic - Original Mix",
+      "trackId": "1jC39uK32LH3cTbXRm9xZU",
+      "preview": "https://p.scdn.co/mp3-preview/6400d40b19803dcf6a3a22704ab531d2ffe85247?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5482f3a451572d8fad3e463b53f51f5d8ff760d6",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Dirtcaps",
+      "featuredArtistId": "2PC3QVYzOPekKLIppjFUoi",
+      "trackName": "Mic - Original Mix",
+      "trackId": "1jC39uK32LH3cTbXRm9xZU",
+      "preview": "https://p.scdn.co/mp3-preview/6400d40b19803dcf6a3a22704ab531d2ffe85247?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5482f3a451572d8fad3e463b53f51f5d8ff760d6",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "GTA",
+      "featuredArtistId": "7l3UtcnrlxH7wPrb1HXFI6",
+      "trackName": "The Chase",
+      "trackId": "5EUAT8mNWauk5iiVpbiSoL",
+      "preview": "https://p.scdn.co/mp3-preview/8bca73dbeb0b4a3590afdb9f91ead65678d80e91?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/249d416f03f16188ec3f0eab0a4de40d0f34677d",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Cimo Fränkel",
+      "featuredArtistId": "76ftqv1cm1EkrgWiC1pUUV",
+      "trackName": "Tell Me That You Love Me",
+      "trackId": "3cKsyyMWzRYFetkDEXTbRX",
+      "preview": "https://p.scdn.co/mp3-preview/a78fbd43c62a6b453878f7bcad1678a395d6ba91?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13cb4b570fd4e77ce136b221b18519e848506243",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Amba Shepher",
+      "featuredArtistId": "5Ib8XSxOavHZbgbS5S405E",
+      "trackName": "Neon Sunrise",
+      "trackId": "26tWc2sIXWBFqtUYK8pP4h",
+      "preview": "https://p.scdn.co/mp3-preview/53a90bc97cbe49f80258c0f4c1b537635c3b4f41?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13cb4b570fd4e77ce136b221b18519e848506243",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Angger Dimas",
+      "featuredArtistId": "5tuOpj3ofDA06hxQjvjdGZ",
+      "trackName": "Night Like This - Main Mix",
+      "trackId": "0CoJYGZU1TITMWrli0ITDE",
+      "preview": "https://p.scdn.co/mp3-preview/29a942a5c8017e31bc045e1b0bb07c831d5498c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce2c85a25f856c7a9ae10359edd35455f2e756a3",
+      "release_date": "2012-12-07"
+    },
+    {
+      "featuredArtist": "Polina",
+      "featuredArtistId": "0felrUOaLgWmsobZ66qzL4",
+      "trackName": "Night Like This - Main Mix",
+      "trackId": "0CoJYGZU1TITMWrli0ITDE",
+      "preview": "https://p.scdn.co/mp3-preview/29a942a5c8017e31bc045e1b0bb07c831d5498c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce2c85a25f856c7a9ae10359edd35455f2e756a3",
+      "release_date": "2012-12-07"
+    },
+    {
+      "featuredArtist": "Wynter Gordon",
+      "featuredArtistId": "4nmrm4zpgJ0RC6aZRSUEjF",
+      "trackName": "Speak Up - Chris Lake",
+      "trackId": "4EKSy3n3RF1vJpasf2bQGC",
+      "preview": "https://p.scdn.co/mp3-preview/da452a794a9073aa3579ff28e2269b14f3a7cb92?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/866552e539deda87d7d8c6a938a0f7ffa4b6c3cc",
+      "release_date": "2012-04-23"
+    },
+    {
+      "featuredArtist": "Example",
+      "featuredArtistId": "6Vh6UDWfu9PUSXSzAaB3CW",
+      "trackName": "Natural Disaster - UK Radio Edit",
+      "trackId": "4GpuuVQ3mb0pmfbnk3A2WZ",
+      "preview": "https://p.scdn.co/mp3-preview/98871486d653936fb3ec7ff0c618e5422af8534b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e77054dce90ed80b87ec1ded8effedb27dd94e0f",
+      "release_date": "2011-10-14"
+    },
+    {
+      "featuredArtist": "Andy C",
+      "featuredArtistId": "75HK7rgkmDMTnWwwmcN53N",
+      "trackName": "Natural Disaster - Andy C Remix",
+      "trackId": "4cE8hCuwtzA3FUofEbZ6Ky",
+      "preview": "https://p.scdn.co/mp3-preview/6b5b9ee28e5aedbdba3fca772d2df42662c32c3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e77054dce90ed80b87ec1ded8effedb27dd94e0f",
+      "release_date": "2011-10-14"
+    },
+    {
+      "featuredArtist": "Skream",
+      "featuredArtistId": "2jbP92oFLWqPqogflK1wlW",
+      "trackName": "Natural Disaster - Skream Remix",
+      "trackId": "0lpC5L1fXCwwNMw369C6YR",
+      "preview": "https://p.scdn.co/mp3-preview/9c98e40399067ca9d65e70a106d6aae8621edaab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e77054dce90ed80b87ec1ded8effedb27dd94e0f",
+      "release_date": "2011-10-14"
+    },
+    {
+      "featuredArtist": "Nouveau Yorican",
+      "featuredArtistId": "6gBrIGmMoC5NjM62ZmBjO5",
+      "trackName": "Natural Disaster - Nouveau Yorican Remix",
+      "trackId": "6pZatT7qLl7osSYmbFbCBo",
+      "preview": "https://p.scdn.co/mp3-preview/57541e19bec3354cbeb425177f68602fb9e02b9d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e77054dce90ed80b87ec1ded8effedb27dd94e0f",
+      "release_date": "2011-10-14"
+    },
+    {
+      "featuredArtist": "Steve Aoki",
+      "featuredArtistId": "77AiFEVeAVj2ORpC85QVJs",
+      "trackName": "Turbulence - Club Mix",
+      "trackId": "2XKvSPYZFMiz3xXgrb9qxy",
+      "preview": "https://p.scdn.co/mp3-preview/21ce55f79477638095287b934b693b24733a9b40?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/075ebc048373c89a7b5bb454fb4fa3a02b4689eb",
+      "release_date": "2011-05-23"
+    },
+    {
+      "featuredArtist": "Lil Jon",
+      "featuredArtistId": "7sfl4Xt5KmfyDs2T3SVSMK",
+      "trackName": "Turbulence - Club Mix",
+      "trackId": "2XKvSPYZFMiz3xXgrb9qxy",
+      "preview": "https://p.scdn.co/mp3-preview/21ce55f79477638095287b934b693b24733a9b40?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/075ebc048373c89a7b5bb454fb4fa3a02b4689eb",
+      "release_date": "2011-05-23"
+    },
+    {
+      "featuredArtist": "Jonathan Mendelsohn",
+      "featuredArtistId": "5d1oOpLkM76Tgr2zWMTYkm",
+      "trackName": "Till Tonight - Radio Edit",
+      "trackId": "0U2Mx9w1pg4AK5beFYqWRc",
+      "preview": "https://p.scdn.co/mp3-preview/6b94c7d84e00271f92ed2a5f741066323411da44?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/42f2ab06994005c813eccd2836c494f1ca0f30d0",
+      "release_date": "2010-08-09"
+    },
+    {
+      "featuredArtist": "Gregor Salto",
+      "featuredArtistId": "0l59CBSPDfKBXlyHya0pew",
+      "trackName": "Step By Step - Big Room Mix",
+      "trackId": "5FrDTrPP8tmStnAoCsss5o",
+      "preview": "https://p.scdn.co/mp3-preview/5e48cbee4b68e8d5f7408375643c011092fc2280?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/923c11b1d387fe3a94283ebc2fe14bd3f5f8d353",
+      "release_date": "2010-03-10"
+    },
+    {
+      "featuredArtist": "Mavis Acquah",
+      "featuredArtistId": "3MOsOjjMai9Q0QRxqOoozw",
+      "trackName": "Step By Step (feat. Mavis Acquah) - Original Mix",
+      "trackId": "4SfvFpMB2qPu2LUrRs0VGX",
+      "preview": "https://p.scdn.co/mp3-preview/242b4f19c0cd86e48efa02e916227489a005770c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/920ba7cd913e0c7d7327075eac6383666237f91b",
+      "release_date": "2010"
+    },
+    {
+      "featuredArtist": "Diplo",
+      "featuredArtistId": "5fMUXHkw8R8eOP2RNVYEZX",
+      "trackName": "Hey!",
+      "trackId": "6fju423UdedU4FC5QuA4T8",
+      "preview": "https://p.scdn.co/mp3-preview/619fb66ce81bfc1970259bcfd904e23efb4b9914?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/118a1eda7d814b83ac5faf9c1099c5281627e9d5",
+      "release_date": "2009-07-26"
+    }
+  ]
+}

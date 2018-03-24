@@ -1,0 +1,32 @@
+{
+  "artistName": "Stevie Nicks",
+  "features": [
+    {
+      "featuredArtist": "Tom Petty and the Heartbreakers",
+      "featuredArtistId": "4tX2TplrkIP4v05BNC903e",
+      "trackName": "Stop Draggin' My Heart Around (with Tom Petty & The Heartbreakers) - Remastered",
+      "trackId": "0Adyxuv3X9l2CtMt0OeY5M",
+      "preview": "https://p.scdn.co/mp3-preview/130b6fa5095263456fec779fab6d9671fbdd42fe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4ccbd042736d2ff4a4a5dab6131c075d1af0592b",
+      "release_date": "2016-11-04"
+    },
+    {
+      "featuredArtist": "Don Henley",
+      "featuredArtistId": "5dbuFbrHa1SJlQhQX9OUJ2",
+      "trackName": "Leather And Lace - Remastered",
+      "trackId": "49nuGcnaUcB9jXgcOGYEiH",
+      "preview": "https://p.scdn.co/mp3-preview/bfca89f3c0d95c6a5a2a227aa79964dbb1a049c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4ccbd042736d2ff4a4a5dab6131c075d1af0592b",
+      "release_date": "2016-11-04"
+    },
+    {
+      "featuredArtist": "Tom Petty",
+      "featuredArtistId": "2UZMlIwnkgAEDBsw1Rejkn",
+      "trackName": "I Will Run To You - Remastered",
+      "trackId": "0V8JQGXe4wY2emqgbm4VZe",
+      "preview": "https://p.scdn.co/mp3-preview/f93f4dd3bbb79e03f92e9b787caa818c9fa0de11?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3ba7677a2bc22c3c29c2e6d9907fe02dc7437d9",
+      "release_date": "2016-11-04"
+    }
+  ]
+}

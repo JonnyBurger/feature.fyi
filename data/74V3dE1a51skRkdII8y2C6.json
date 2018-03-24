@@ -1,0 +1,77 @@
+{
+  "artistName": "André 3000",
+  "features": [
+    {
+      "featuredArtist": "John Legend",
+      "featuredArtistId": "5y2Xq6xcjJb2jVM54GHK3t",
+      "trackName": "Green Light",
+      "trackId": "1xIov7TypNn4SRY030eSsL",
+      "preview": "https://p.scdn.co/mp3-preview/d51384e771bcd395b4eb1bf1bc3a3e7eee26c3b3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e6172148a90de28c2850f57c43525b2db6f5748c",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "N.E.R.D",
+      "featuredArtistId": "5wPoxI5si3eJsYYwyXV4Wi",
+      "trackName": "Rollinem 7's",
+      "trackId": "5hIg7J1i50XLG7bPKQM6O5",
+      "preview": "https://p.scdn.co/mp3-preview/60ce0374bb9ba73e3092b10997d9fe80ce935764?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8bc76c6194e1276a7778b199518d2bc03b10ecf3",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "FUTURE",
+      "featuredArtistId": "45kceJQAmQEXuC0led3ksG",
+      "trackName": "Benz",
+      "trackId": "6hSafkiO0VzIkfDCEAOxMZ",
+      "preview": "https://p.scdn.co/mp3-preview/297e0b300e1604f5d3dd8e4b80bdda5cbcc2436d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1546849d4c59b98dfed48f099a6b222774569168",
+      "release_date": "2015-02-06"
+    },
+    {
+      "featuredArtist": "Future",
+      "featuredArtistId": "1RyvyyTE3xzB2ZywiAwp0i",
+      "trackName": "Benz Friendz",
+      "trackId": "4QVM8XIOb2aUAX1QmXomc4",
+      "preview": "https://p.scdn.co/mp3-preview/89726496ab51007614b1dd64688611e7b9fcb517?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/879b5eaa037622643760d43be6b8a72153ac274f",
+      "release_date": "2014-10-04"
+    },
+    {
+      "featuredArtist": "future",
+      "featuredArtistId": "1Bm4dgOCEHAuuSwpysuq24",
+      "trackName": "Benz Friends",
+      "trackId": "6eJQrjdMEi4OOWkVLWN1Si",
+      "preview": "https://p.scdn.co/mp3-preview/f346c1554a6bef31c59be8a9cc25ccd2e374e926?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/399081f3cd2d7028f527fe5de341e63e9a420cf1",
+      "release_date": "2014-06-21"
+    },
+    {
+      "featuredArtist": "Lil Wayne",
+      "featuredArtistId": "55Aa2cqylxrFIXC767Z865",
+      "trackName": "The Real Her",
+      "trackId": "2mq864h8UF7HlanYq6W7ym",
+      "preview": "https://p.scdn.co/mp3-preview/0bb53aa105ff91de62141171762381006e3dc9ac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/63e7829277f32448f3313372c52ec50cd8bd65c2",
+      "release_date": "2014-03-01"
+    },
+    {
+      "featuredArtist": "Drake",
+      "featuredArtistId": "3TVXtAsR1Inumwj472S9r4",
+      "trackName": "The Real Her",
+      "trackId": "2mq864h8UF7HlanYq6W7ym",
+      "preview": "https://p.scdn.co/mp3-preview/0bb53aa105ff91de62141171762381006e3dc9ac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/63e7829277f32448f3313372c52ec50cd8bd65c2",
+      "release_date": "2014-03-01"
+    },
+    {
+      "featuredArtist": "Capital Cities",
+      "featuredArtistId": "4gwpcMTbLWtBUlOijbVpuu",
+      "trackName": "Farrah Fawcett Hair",
+      "trackId": "2PTb4t4qQIx27D0YrACPrK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7ae956728e2c2ae710d79e068e20548f47bd320d",
+      "release_date": "2014-01-01"
+    }
+  ]
+}

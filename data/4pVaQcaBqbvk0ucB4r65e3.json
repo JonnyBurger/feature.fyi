@@ -1,0 +1,23 @@
+{
+  "artistName": "Mark Mancina",
+  "features": [
+    {
+      "featuredArtist": "THE ORCHESTRA JAPAN",
+      "featuredArtistId": "5Av82WDPMSTXOzpgVxtJFl",
+      "trackName": "Tokyo DisneySea \"StormRider Suite\"",
+      "trackId": "0WqMiAQ7XYsFwKQc4GN09Z",
+      "preview": "https://p.scdn.co/mp3-preview/9817d071e03ccaa1d9f3667395a1e88eeb601bff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/801835fbf1e96221511b8f48f95dfb15cf7afc48",
+      "release_date": "2017-11-08"
+    },
+    {
+      "featuredArtist": "Opetaia Foa'i",
+      "featuredArtistId": "759h9uEwoHm8KKq1pGI9RH",
+      "trackName": "Te Ka Attacks",
+      "trackId": "4L3qbwvkTY32oqdk8zgGSd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/598167df86c6c57d5afb6dac71bea5ca9e5fe572",
+      "release_date": "2017-11-03"
+    }
+  ]
+}

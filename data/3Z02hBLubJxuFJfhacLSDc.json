@@ -1,0 +1,41 @@
+{
+  "artistName": "Bryan Adams",
+  "features": [
+    {
+      "featuredArtist": "Tina Turner",
+      "featuredArtistId": "1zuJe6b1roixEKMOtyrEak",
+      "trackName": "It's Only Love",
+      "trackId": "2z8DT7WA3c4s2XunQgxvFT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ef1509d74ccdb1311f987f738572f95fdb41d091",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Melanie C",
+      "featuredArtistId": "60vX3zLcdKRXvKLITVh5Df",
+      "trackName": "When You're Gone",
+      "trackId": "5YCsUJ7WNJUKThROgpDddz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ef1509d74ccdb1311f987f738572f95fdb41d091",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Sting",
+      "featuredArtistId": "0Ty63ceoRnnJKVEYP0VQpk",
+      "trackName": "All For Love - From \"The Three Musketeers\"",
+      "trackId": "5EAx0ff3lfPeNpLDZmhaNQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ef1509d74ccdb1311f987f738572f95fdb41d091",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Rod Stewart",
+      "featuredArtistId": "2y8Jo9CKhJvtfeKOsYzRdT",
+      "trackName": "All For Love - From \"The Three Musketeers\"",
+      "trackId": "5EAx0ff3lfPeNpLDZmhaNQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ef1509d74ccdb1311f987f738572f95fdb41d091",
+      "release_date": "2017-11-03"
+    }
+  ]
+}

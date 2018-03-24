@@ -1,0 +1,41 @@
+{
+  "artistName": "Lykke Li",
+  "features": [
+    {
+      "featuredArtist": "The Magician",
+      "featuredArtistId": "4WUGQykLBGFfsl0Qjl6TDM",
+      "trackName": "I Follow Rivers - The Magician Remix",
+      "trackId": "5GoEBzpcAUXW24g9rABbh2",
+      "preview": "https://p.scdn.co/mp3-preview/154f0d5ccb26b95f5d600e588ffa980b08362b03?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/84aed548c3d5b3550966de275662e2764cead53d",
+      "release_date": "2011"
+    },
+    {
+      "featuredArtist": "Tyler, The Creator",
+      "featuredArtistId": "4V8LLVI7PbaPR0K2TGSxFF",
+      "trackName": "I Follow Rivers - Tyler, the Creator Remix",
+      "trackId": "0ChOPtKpFzCtjo3SkRwrKU",
+      "preview": "https://p.scdn.co/mp3-preview/0c77917b1dc6d529b8d9e471e51accf83830fd88?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/84aed548c3d5b3550966de275662e2764cead53d",
+      "release_date": "2011"
+    },
+    {
+      "featuredArtist": "Black Kids",
+      "featuredArtistId": "1oJolWh3meHLWUcyIijst7",
+      "trackName": "I'm Good, I'm Gone [Black Kids Remix]",
+      "trackId": "34ZlQJXBHim9eoMDNK8Ikj",
+      "preview": "https://p.scdn.co/mp3-preview/96e5165ede6251617eb7dc8592c76e48b1cfefb3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f29b65079abda6e5952960c32a7a6c5cbf5e7f93",
+      "release_date": "2008-06-02"
+    },
+    {
+      "featuredArtist": "Seb Lewsley",
+      "featuredArtistId": "7byhSs4MpzG8Y9p3oueEV2",
+      "trackName": "I'm Good, I'm Gone [Black Kids Remix]",
+      "trackId": "34ZlQJXBHim9eoMDNK8Ikj",
+      "preview": "https://p.scdn.co/mp3-preview/96e5165ede6251617eb7dc8592c76e48b1cfefb3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f29b65079abda6e5952960c32a7a6c5cbf5e7f93",
+      "release_date": "2008-06-02"
+    }
+  ]
+}

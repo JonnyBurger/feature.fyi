@@ -1,0 +1,455 @@
+{
+  "artistName": "Johann Sebastian Bach",
+  "features": [
+    {
+      "featuredArtist": "Helga Schauerte",
+      "featuredArtistId": "7yqZA77SLZ0IZ0hVVP1Qw4",
+      "trackName": "Vom Himmel hoch, da komm ich her, BWV 769: No. 1, Vom Himmel hoch, da komm ich her",
+      "trackId": "42rmdOB6qBKxSaG9bcTmmD",
+      "preview": "https://p.scdn.co/mp3-preview/7da2791261726f4bc16fa51f5f202a72671d8be5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/10859a8d8d0b464dd7c13eb712d1b26c112960a4",
+      "release_date": "2018-03-25"
+    },
+    {
+      "featuredArtist": "David Goode",
+      "featuredArtistId": "25xZZmlksUhhWKjpaCYPKS",
+      "trackName": "Prelude and Fugue, BWV 566: I. Prelude",
+      "trackId": "490i5PdvRKwAXiAAW5Tg75",
+      "preview": "https://p.scdn.co/mp3-preview/79cf7a8618f406c5bfd061bea37848ef4a41c239?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce7166b40d3287bb648670aadb04568bd4dff01f",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Sadao Udagawa",
+      "featuredArtistId": "4wkom8LRofgi4Bw28Nnng6",
+      "trackName": "Cello Suite No. 2 in D Minor, BWV 1008 (arr. for viola da gamba): I. Prelude",
+      "trackId": "5U67OwTBJgyTrqznmAQApp",
+      "preview": "https://p.scdn.co/mp3-preview/984d97b27b4e70fe4ff5c60a25801cc82696d916?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0aecd0e574e46a66957d49b0b15d666d95db4849",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Yoshihiro Fukunaga",
+      "featuredArtistId": "4mzV4d8t6t3NFm6fKmqULx",
+      "trackName": "Flute Sonata in B Minor, BWV 1030: I. Andante",
+      "trackId": "5IAXiRxnFLiQAuboHIJC1E",
+      "preview": "https://p.scdn.co/mp3-preview/0910c17e863854f2965636a6003eb9f445b0c12e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8b3e7bb992eebf5bfc0e9d168db8ebf2ebd7efc",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Michio Kobayashi",
+      "featuredArtistId": "1fdByd3VjccMCkvvT2j4Sx",
+      "trackName": "Flute Sonata in B Minor, BWV 1030: I. Andante",
+      "trackId": "5IAXiRxnFLiQAuboHIJC1E",
+      "preview": "https://p.scdn.co/mp3-preview/0910c17e863854f2965636a6003eb9f445b0c12e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8b3e7bb992eebf5bfc0e9d168db8ebf2ebd7efc",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Ai Yoshida",
+      "featuredArtistId": "4o2fX5chJbdPviORlfTDay",
+      "trackName": "Prelude & Fugue in G Major, BWV 541: Prelude",
+      "trackId": "4KRKMshhOGnTdeLto1kp53",
+      "preview": "https://p.scdn.co/mp3-preview/909caa18bc03386efe5410dfdec06599d7294189?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d209c4fc3f98e9a96168a86457a0976c47649660",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Mutsuko Miwa",
+      "featuredArtistId": "6oszufR80YUP5Vt6qkKK9z",
+      "trackName": "Keyboard Sonata in A Minor, BWV 965: I. Adagio",
+      "trackId": "0I0QR8NLMi4yQ3nQJ2lg07",
+      "preview": "https://p.scdn.co/mp3-preview/8636d2f0b945f4e5c59bf23e184d52a62c8251df?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/589a11af15a9f6cf8abd125871236f67a880f4c9",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Florian Klaus Rumpf",
+      "featuredArtistId": "2vauR29kAmbuXRAEWzOcMs",
+      "trackName": "Violin Sonata No. 1 in G Minor, BWV 1001 (Arr. for Mandolin): I. Adagio",
+      "trackId": "6QxccaeYCTP7hRp6wDEnh4",
+      "preview": "https://p.scdn.co/mp3-preview/5234114787b0b0ca714538875aa8ea0cc2fa6d27?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/224d70479be572ba3be36b07cb3cd2e71d502435",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Juliette Hurel",
+      "featuredArtistId": "5Mx0Gfl7190YHazh9MoBuI",
+      "trackName": "Orchestral Suite No. 2 in B Minor, BWV 1067: I. Ouverture",
+      "trackId": "0RdUbcVeddb1p2TH3UvYC9",
+      "preview": "https://p.scdn.co/mp3-preview/21fd3f2b3b7e954c06b37002dd4c2b4b2ccd45c9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e9a6b5795873baa42c468904ec17e8642ad6b0d8",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Ensemble les Surprises",
+      "featuredArtistId": "4J8BVp3FHkxUokjzMmYxnf",
+      "trackName": "Orchestral Suite No. 2 in B Minor, BWV 1067: I. Ouverture",
+      "trackId": "0RdUbcVeddb1p2TH3UvYC9",
+      "preview": "https://p.scdn.co/mp3-preview/21fd3f2b3b7e954c06b37002dd4c2b4b2ccd45c9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e9a6b5795873baa42c468904ec17e8642ad6b0d8",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Maïlys De Villoutreys",
+      "featuredArtistId": "0wKDdYxdoWDE0kQvBfdiVT",
+      "trackName": "St. Matthew Passion, BWV 244: No. 49, Aus Liebe will mein Heiland sterben",
+      "trackId": "77H59PPnQCQCBQBbZ4AYHZ",
+      "preview": "https://p.scdn.co/mp3-preview/e25940a619b775c361b1d9c993e9a98f4074df9c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e9a6b5795873baa42c468904ec17e8642ad6b0d8",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Isabelle Desbats",
+      "featuredArtistId": "7u7atLoLD5G3cji3MJIxoN",
+      "trackName": "St. Matthew Passion, BWV 244: No. 49, Aus Liebe will mein Heiland sterben",
+      "trackId": "77H59PPnQCQCBQBbZ4AYHZ",
+      "preview": "https://p.scdn.co/mp3-preview/e25940a619b775c361b1d9c993e9a98f4074df9c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e9a6b5795873baa42c468904ec17e8642ad6b0d8",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Serge Krichewsky",
+      "featuredArtistId": "4novZPKrDQ2ApCslxx2F2u",
+      "trackName": "St. Matthew Passion, BWV 244: No. 49, Aus Liebe will mein Heiland sterben",
+      "trackId": "77H59PPnQCQCBQBbZ4AYHZ",
+      "preview": "https://p.scdn.co/mp3-preview/e25940a619b775c361b1d9c993e9a98f4074df9c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e9a6b5795873baa42c468904ec17e8642ad6b0d8",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Louis-Noël Bestion de Camboulas",
+      "featuredArtistId": "0gSvZOOKP86zFSkFDEPDWQ",
+      "trackName": "Suite No. 2 in B Minor, BWV 1067: I. Ouverture",
+      "trackId": "4Gych9XbSxAhbaJa1uzPPG",
+      "preview": "https://p.scdn.co/mp3-preview/3fa50040d1068e0357129631559b84fbd2a12549?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7edcae5d05b562cc0acc7bb7439f54fd538b3349",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Les Arts Florissants",
+      "featuredArtistId": "652tly1eoAkKzhJ5z4LsEx",
+      "trackName": "Mass in B minor, BWV 232, Part I, Kyrie, Gloria: Kyrie eleison - Live",
+      "trackId": "6P4Y7RPj29P12sV0sueU2C",
+      "preview": "https://p.scdn.co/mp3-preview/3fbbb1c1a31d05bd61ef0f30a157623016798e64?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/760f25e31b15a6eef1cc7ecd028803f03e903f0e",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "William Christie",
+      "featuredArtistId": "7mkcqdifmNkhfJ7XZ7WFFS",
+      "trackName": "Mass in B minor, BWV 232, Part I, Kyrie, Gloria: Kyrie eleison - Live",
+      "trackId": "6P4Y7RPj29P12sV0sueU2C",
+      "preview": "https://p.scdn.co/mp3-preview/3fbbb1c1a31d05bd61ef0f30a157623016798e64?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/760f25e31b15a6eef1cc7ecd028803f03e903f0e",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Katherine Watson",
+      "featuredArtistId": "6MemrXkgFhoLDWNTt6InlG",
+      "trackName": "Mass in B minor, BWV 232, Part I, Kyrie, Gloria: Christe eleison - Live",
+      "trackId": "501jBrsO4Ym4nwmP4ge6Y3",
+      "preview": "https://p.scdn.co/mp3-preview/5aa3a4c5c637430a3870e1c32f2b47397d439ff9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/760f25e31b15a6eef1cc7ecd028803f03e903f0e",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Tim Mead",
+      "featuredArtistId": "6JiH3j5nKt1zqHgGpeZ94P",
+      "trackName": "Mass in B minor, BWV 232, Part I, Kyrie, Gloria: Christe eleison - Live",
+      "trackId": "501jBrsO4Ym4nwmP4ge6Y3",
+      "preview": "https://p.scdn.co/mp3-preview/5aa3a4c5c637430a3870e1c32f2b47397d439ff9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/760f25e31b15a6eef1cc7ecd028803f03e903f0e",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Reinoud Van Mechelen",
+      "featuredArtistId": "1ijvxwa2Pg9pwcxaT9qp7H",
+      "trackName": "Mass in B minor, BWV 232, Part I, Kyrie, Gloria: Dominus Deus - Live",
+      "trackId": "3mPhTor79ZnJhtVaY4Zpln",
+      "preview": "https://p.scdn.co/mp3-preview/6250ca69a317950a203f061464f0d7117a786b09?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/760f25e31b15a6eef1cc7ecd028803f03e903f0e",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "André Morsch",
+      "featuredArtistId": "3bq564RLICQovO8ygz8n5Q",
+      "trackName": "Mass in B minor, BWV 232, Part I, Kyrie, Gloria: Quoniam tu solus sanctus - Live",
+      "trackId": "127qZOVDWncWY0hQuQs4Ch",
+      "preview": "https://p.scdn.co/mp3-preview/e949507c35cfb7ac802353f5a238d18104037e24?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/760f25e31b15a6eef1cc7ecd028803f03e903f0e",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Eleonor Bindman",
+      "featuredArtistId": "0dYeNrH0rjThdhoumExxyd",
+      "trackName": "Brandenburg Concerto No. 1 in F Major, BWV 1046 (Arr. E. Bindman for Piano 4 Hands): I. Allegro moderato",
+      "trackId": "77WoLxc1yB6mGpyIk5Swtp",
+      "preview": "https://p.scdn.co/mp3-preview/016863baefd70759d3638c1ff400e8c1dd467ada?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aa9f73bc032003e2a6430440fcce49ac343a0c3d",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Jenny Lin",
+      "featuredArtistId": "2VRpiiH04WoUZjGDjspso9",
+      "trackName": "Brandenburg Concerto No. 1 in F Major, BWV 1046 (Arr. E. Bindman for Piano 4 Hands): I. Allegro moderato",
+      "trackId": "77WoLxc1yB6mGpyIk5Swtp",
+      "preview": "https://p.scdn.co/mp3-preview/016863baefd70759d3638c1ff400e8c1dd467ada?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aa9f73bc032003e2a6430440fcce49ac343a0c3d",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Ditta Rohmann",
+      "featuredArtistId": "1Teuz6Z1pZmmIWT1crnCv4",
+      "trackName": "Violin Sonata No. 3 in E Major, BWV 1016 (Arr. D. Rohmann & L. Fassang for 5-String Cello & Organ): I. Adagio",
+      "trackId": "4b536zWJkPdPeVMiKgZeuO",
+      "preview": "https://p.scdn.co/mp3-preview/936e458a53015ea1e68032d2289304c667965cb7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fc3f7f6472a7cf1e53e16b4b69b4fbf3104c9421",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "László Fassang",
+      "featuredArtistId": "5KN20TP9GzufHsHTx7yZtO",
+      "trackName": "Violin Sonata No. 3 in E Major, BWV 1016 (Arr. D. Rohmann & L. Fassang for 5-String Cello & Organ): I. Adagio",
+      "trackId": "4b536zWJkPdPeVMiKgZeuO",
+      "preview": "https://p.scdn.co/mp3-preview/936e458a53015ea1e68032d2289304c667965cb7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fc3f7f6472a7cf1e53e16b4b69b4fbf3104c9421",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Stephen Schultz",
+      "featuredArtistId": "2Q4uyl46EJtrZzlDa1IYFq",
+      "trackName": "Flute Sonata, in B Minor, BWV 1030 (Arr. for Baroque Flute & Harpsichord): I. Andante",
+      "trackId": "0Gvl1EEXLO4wHnCNrShzH2",
+      "preview": "https://p.scdn.co/mp3-preview/b22c45d355e8ba427894844403d031904c2bf138?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a604a966d9ca4cd4585ec4b201f8ddd24c9bb51",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Jory Vinikour",
+      "featuredArtistId": "2GMy05bd7xgSZYMj0AVN7Q",
+      "trackName": "Flute Sonata, in B Minor, BWV 1030 (Arr. for Baroque Flute & Harpsichord): I. Andante",
+      "trackId": "0Gvl1EEXLO4wHnCNrShzH2",
+      "preview": "https://p.scdn.co/mp3-preview/b22c45d355e8ba427894844403d031904c2bf138?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a604a966d9ca4cd4585ec4b201f8ddd24c9bb51",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Michael Form",
+      "featuredArtistId": "0jDUV2tuDaCcYrQRzsJFGN",
+      "trackName": "Flute Sonata in A Major, BWV 1032 (Reconstructed by M. Form): I. Vivace",
+      "trackId": "4SBB3SJsFecLmT2TtsTOOS",
+      "preview": "https://p.scdn.co/mp3-preview/097a7af9f53d85940f9e03b1f51cd6c47fac8d12?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3339e38176672d9b2671dfc2c83774040c35f58e",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Marie Rouquié",
+      "featuredArtistId": "5iqbk319F0WRTUui2twVYZ",
+      "trackName": "Flute Sonata in A Major, BWV 1032 (Reconstructed by M. Form): I. Vivace",
+      "trackId": "4SBB3SJsFecLmT2TtsTOOS",
+      "preview": "https://p.scdn.co/mp3-preview/097a7af9f53d85940f9e03b1f51cd6c47fac8d12?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3339e38176672d9b2671dfc2c83774040c35f58e",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Étienne Floutier",
+      "featuredArtistId": "3Gxd4qFmTMR1te3og8LjBk",
+      "trackName": "Flute Sonata in A Major, BWV 1032 (Reconstructed by M. Form): I. Vivace",
+      "trackId": "4SBB3SJsFecLmT2TtsTOOS",
+      "preview": "https://p.scdn.co/mp3-preview/097a7af9f53d85940f9e03b1f51cd6c47fac8d12?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3339e38176672d9b2671dfc2c83774040c35f58e",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Dirk Börner",
+      "featuredArtistId": "2leXIHtz651CnA6Nzp0vKT",
+      "trackName": "Flute Sonata in A Major, BWV 1032 (Reconstructed by M. Form): I. Vivace",
+      "trackId": "4SBB3SJsFecLmT2TtsTOOS",
+      "preview": "https://p.scdn.co/mp3-preview/097a7af9f53d85940f9e03b1f51cd6c47fac8d12?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3339e38176672d9b2671dfc2c83774040c35f58e",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Kammerchor der Frauenkirche",
+      "featuredArtistId": "1VsB14y1zITwDU6N8hTtK5",
+      "trackName": "Johannespassion, BWV 245, Pt. 1: No. 1 Chor: Herr, unser Herrscher",
+      "trackId": "2OZu01bgVWHgijJgKRKCs8",
+      "preview": "https://p.scdn.co/mp3-preview/5dabf6ffebf632ea65aebf264549f6e65e8bffc8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd598e9124e3e35c7a60d23a551cc26973b495b4",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Ensemble Frauenkirche Dresden",
+      "featuredArtistId": "160VPqJuaGOAKjzvujkMLK",
+      "trackName": "Johannespassion, BWV 245, Pt. 1: No. 1 Chor: Herr, unser Herrscher",
+      "trackId": "2OZu01bgVWHgijJgKRKCs8",
+      "preview": "https://p.scdn.co/mp3-preview/5dabf6ffebf632ea65aebf264549f6e65e8bffc8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd598e9124e3e35c7a60d23a551cc26973b495b4",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Matthias Grünert",
+      "featuredArtistId": "6jRjnKPhGRyw4miXlrOGe3",
+      "trackName": "Johannespassion, BWV 245, Pt. 1: No. 1 Chor: Herr, unser Herrscher",
+      "trackId": "2OZu01bgVWHgijJgKRKCs8",
+      "preview": "https://p.scdn.co/mp3-preview/5dabf6ffebf632ea65aebf264549f6e65e8bffc8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd598e9124e3e35c7a60d23a551cc26973b495b4",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Tilman Lichdi",
+      "featuredArtistId": "6uru7aIF5jh5YYr7Nu7Ieb",
+      "trackName": "Johannespassion, BWV 245, Pt. 1: No. 2 a-e Rezitativ: Jesus ging mit seinen Jüngern",
+      "trackId": "7HJqzLGMVu7mBZjPOfR4SP",
+      "preview": "https://p.scdn.co/mp3-preview/b51949792101122fd6f0d13df672827df702dc6e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd598e9124e3e35c7a60d23a551cc26973b495b4",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Falko Honisch",
+      "featuredArtistId": "65jcuS9ovWK5IqdMFEDohr",
+      "trackName": "Johannespassion, BWV 245, Pt. 1: No. 2 a-e Rezitativ: Jesus ging mit seinen Jüngern",
+      "trackId": "7HJqzLGMVu7mBZjPOfR4SP",
+      "preview": "https://p.scdn.co/mp3-preview/b51949792101122fd6f0d13df672827df702dc6e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd598e9124e3e35c7a60d23a551cc26973b495b4",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Nicole Pieper",
+      "featuredArtistId": "0BhmuwazoPrcrXetsRM71J",
+      "trackName": "Johannespassion, BWV 245, Pt. 1: No. 7 Arie: Von den Stricken meiner Sünden",
+      "trackId": "1NqMUSz7qsV4z5y9oxTs8G",
+      "preview": "https://p.scdn.co/mp3-preview/6cbe26ad36dbd406c5f16965001c825dc050b2a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd598e9124e3e35c7a60d23a551cc26973b495b4",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Tilmann Lichdi",
+      "featuredArtistId": "3YxkWUBLd9DrLmmJyCNOQw",
+      "trackName": "Johannespassion, BWV 245, Pt. 1: No. 8 Rezitativ: Simon Petrus aber folgete Jesu nach",
+      "trackId": "1nTIoIG5sEFqf9WriNW9LV",
+      "preview": "https://p.scdn.co/mp3-preview/2ea2637903633db1b1c09fb00048bdf4e3530ea8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd598e9124e3e35c7a60d23a551cc26973b495b4",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Camilla Nylund",
+      "featuredArtistId": "5JQFSgR5weLyKvs6tEtSrU",
+      "trackName": "Johannespassion, BWV 245, Pt. 1: No. 9 Arie: Ich folge dir gleichfalls mit freudigen Schritten",
+      "trackId": "2KvaEllW6B71UtyoyVWHrw",
+      "preview": "https://p.scdn.co/mp3-preview/6892e72099746dc38e69e7c12aa4e7e37bbb51c8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd598e9124e3e35c7a60d23a551cc26973b495b4",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Andreas Scheibner",
+      "featuredArtistId": "2IRIKHOaE31rqVz4cfwD3B",
+      "trackName": "Johannespassion, BWV 245, Pt. 1: No. 10 Rezitativ: Derselbige Jünger war dem Hohenpriester bekannt",
+      "trackId": "5HmC3bRN8HXKiJuYV59TOg",
+      "preview": "https://p.scdn.co/mp3-preview/159cc4f122155fb4103069f8cacf6845bf07b03b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd598e9124e3e35c7a60d23a551cc26973b495b4",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Angelika Nebel",
+      "featuredArtistId": "1MRfUsFyk5bRpfAbtuaGh6",
+      "trackName": "Prelude & Fugue in C-Sharp Major, BWV 872: Prelude (Arr. A. Siloti for Piano)",
+      "trackId": "2V7yoP5jllo4f0xvaWbBq6",
+      "preview": "https://p.scdn.co/mp3-preview/dbf53edd8557a525ac922d0f6c4fdefb2142704f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a043f8a6cc2052b48a086d39094b9186daf47899",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Ricercar Consort",
+      "featuredArtistId": "31UpASs8WklOdK5tfVTRjb",
+      "trackName": "Cantata, BWV 75 \"Die Elenden sollen essen\", Prima parte: I. Chorus. Die Elenden sollen essen",
+      "trackId": "5c9ZjK5z0VhoW72NVtEvzJ",
+      "preview": "https://p.scdn.co/mp3-preview/7aae4903a46eb1eb63b423e8bc366d441c463dd3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/543914513b1be9779d07100c341b61e99c8113dd",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Philippe Pierlot",
+      "featuredArtistId": "02U08GYoxomDe3lyEmMvNp",
+      "trackName": "Cantata, BWV 75 \"Die Elenden sollen essen\", Prima parte: I. Chorus. Die Elenden sollen essen",
+      "trackId": "5c9ZjK5z0VhoW72NVtEvzJ",
+      "preview": "https://p.scdn.co/mp3-preview/7aae4903a46eb1eb63b423e8bc366d441c463dd3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/543914513b1be9779d07100c341b61e99c8113dd",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Hannah Morrison",
+      "featuredArtistId": "3anEi2otD1MetZyNd8iIdu",
+      "trackName": "Cantata, BWV 75 \"Die Elenden sollen essen\", Prima parte: I. Chorus. Die Elenden sollen essen",
+      "trackId": "5c9ZjK5z0VhoW72NVtEvzJ",
+      "preview": "https://p.scdn.co/mp3-preview/7aae4903a46eb1eb63b423e8bc366d441c463dd3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/543914513b1be9779d07100c341b61e99c8113dd",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Carlos Mena",
+      "featuredArtistId": "2gW0MPcXDVCwe4687zcTOn",
+      "trackName": "Cantata, BWV 75 \"Die Elenden sollen essen\", Prima parte: I. Chorus. Die Elenden sollen essen",
+      "trackId": "5c9ZjK5z0VhoW72NVtEvzJ",
+      "preview": "https://p.scdn.co/mp3-preview/7aae4903a46eb1eb63b423e8bc366d441c463dd3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/543914513b1be9779d07100c341b61e99c8113dd",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Hans-Jörg Mammel",
+      "featuredArtistId": "19HTwufflsRQULGPkxN9m5",
+      "trackName": "Cantata, BWV 75 \"Die Elenden sollen essen\", Prima parte: I. Chorus. Die Elenden sollen essen",
+      "trackId": "5c9ZjK5z0VhoW72NVtEvzJ",
+      "preview": "https://p.scdn.co/mp3-preview/7aae4903a46eb1eb63b423e8bc366d441c463dd3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/543914513b1be9779d07100c341b61e99c8113dd",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Mathias Vieweg",
+      "featuredArtistId": "3S5BP4WCq3uIAct8QdNhss",
+      "trackName": "Cantata, BWV 75 \"Die Elenden sollen essen\", Prima parte: I. Chorus. Die Elenden sollen essen",
+      "trackId": "5c9ZjK5z0VhoW72NVtEvzJ",
+      "preview": "https://p.scdn.co/mp3-preview/7aae4903a46eb1eb63b423e8bc366d441c463dd3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/543914513b1be9779d07100c341b61e99c8113dd",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Slava Grigoryan",
+      "featuredArtistId": "77wkuxKkegWzlyPxnX2dtG",
+      "trackName": "Cello Suite No. 4 in E-flat major, BWV1010: I. Prelude",
+      "trackId": "6zynEI63tidMtvPRn6lIHN",
+      "preview": "https://p.scdn.co/mp3-preview/d9f66ba87c00051595fe41cc138ab2876d300981?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db898fb5750e87f625df6b38718204aa049fc37d",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Walter Blankenheim",
+      "featuredArtistId": "7mHfPzyfWAxhZou0Y8VS1F",
+      "trackName": "J. S. Bach: Sonate Nr. 1 in G-Dur, BWV 1027",
+      "trackId": "7gOP3O84MMtTIJxcL7zdRy",
+      "preview": "https://p.scdn.co/mp3-preview/f754b7884440dcf3948d2b7cb593f392a28f09a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/96635e503a2446b3e3afa0173eb8b09e3717ec80",
+      "release_date": "2018-02-14"
+    },
+    {
+      "featuredArtist": "Ulrich Heinen",
+      "featuredArtistId": "5BeWlx8YKf5YntQ7J0OVLw",
+      "trackName": "J. S. Bach: Sonate Nr. 1 in G-Dur, BWV 1027",
+      "trackId": "7gOP3O84MMtTIJxcL7zdRy",
+      "preview": "https://p.scdn.co/mp3-preview/f754b7884440dcf3948d2b7cb593f392a28f09a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/96635e503a2446b3e3afa0173eb8b09e3717ec80",
+      "release_date": "2018-02-14"
+    },
+    {
+      "featuredArtist": "Javier Nuñez",
+      "featuredArtistId": "7dfG5gLnXEZnmYBkMIABuh",
+      "trackName": "Prelude & Fugue in A Minor, BWV 895: I. Prelude",
+      "trackId": "2ojKZsOSvsIxt01Wi523iK",
+      "preview": "https://p.scdn.co/mp3-preview/716d4c29b3670e5a3445f3d64abc26b00650a574?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4cf5b2e0b50af879de5ef234f934d9d1d17531bc",
+      "release_date": "2018-02-09"
+    }
+  ]
+}

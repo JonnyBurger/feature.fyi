@@ -1,0 +1,32 @@
+{
+  "artistName": "Kiki Dee",
+  "features": [
+    {
+      "featuredArtist": "Carmelo Luggeri",
+      "featuredArtistId": "5tdREfm2GmDhCuzoDGLnbL",
+      "trackName": "Lay Your Wisdom Down",
+      "trackId": "0YhRbGN19W8m07bhmKr2h5",
+      "preview": "https://p.scdn.co/mp3-preview/d729ce6e2faeb05fbb2f707bdd737678d7590645?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/078a6d0533273bfb9a513caee3163b16dbfcb086",
+      "release_date": "2015-05-25"
+    },
+    {
+      "featuredArtist": "Ian Lavine",
+      "featuredArtistId": "33TCUKcCJ5FBPEuYkEDmK0",
+      "trackName": "Another Day Comes (Another Day Goes) - Nightmare Mix, 2008 Remastered Version",
+      "trackId": "6JXCNPrXnwFxEw8Ezjcc5r",
+      "preview": "https://p.scdn.co/mp3-preview/9cd19c8881c83547830360e7e4fa414257d38c1a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db3d141d5722c20f36ddd5239b9e6892c90939ed",
+      "release_date": "2008-06-02"
+    },
+    {
+      "featuredArtist": "Elton John",
+      "featuredArtistId": "3PhoLpVuITZKcymswpck5b",
+      "trackName": "Don't Go Breaking My Heart - Remastered",
+      "trackId": "3Oa9AekIq67UBax1H9bXp6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0792c6c7734d7a71acefd7aa7920b1928b802ab1",
+      "release_date": "2017-11-10"
+    }
+  ]
+}

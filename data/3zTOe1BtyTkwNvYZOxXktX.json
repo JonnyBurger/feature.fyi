@@ -1,0 +1,212 @@
+{
+  "artistName": "Joe",
+  "features": [
+    {
+      "featuredArtist": "Gucci Mane",
+      "featuredArtistId": "13y7CgLHjMVRMDqxdx0Xdo",
+      "trackName": "Happy Hour",
+      "trackId": "4wH5cygNx2lZZlOYxQ0Jul",
+      "preview": "https://p.scdn.co/mp3-preview/ed545053983aadf477b3bcd306a81e5c529976bf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c7bb9faadcab05b28f51ff8c11138758efdce324",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Kelly Rowland",
+      "featuredArtistId": "3AuMNF8rQAKOzjYppFNAoB",
+      "trackName": "Love & Sex, Pt 2",
+      "trackId": "6UiItsAz67sFcUYzXGIQ5p",
+      "preview": "https://p.scdn.co/mp3-preview/9b3342ea7bac43c408b65512dd350e52775b8cc4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8d8691aa0ac30ba26e2a37dbe5d32393fdabebbf",
+      "release_date": "2014-11-14"
+    },
+    {
+      "featuredArtist": "50 Cent",
+      "featuredArtistId": "3q7HBObVc0L8jNeTe5Gofh",
+      "trackName": "Mary Jane - Remix",
+      "trackId": "599iRsE8lk11I4gLs5A79J",
+      "preview": "https://p.scdn.co/mp3-preview/7999d820b6859ae29c2908682241c150cf80f067?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8d8691aa0ac30ba26e2a37dbe5d32393fdabebbf",
+      "release_date": "2014-11-14"
+    },
+    {
+      "featuredArtist": "Mario",
+      "featuredArtistId": "613E0gWAQz8KN8RyuS6QY6",
+      "trackName": "We Need To Roll - Bonus",
+      "trackId": "0gwOJHd9mJxOMm4YxIHVdQ",
+      "preview": "https://p.scdn.co/mp3-preview/784033563b7f4c1da30c9ad1ded475cb1c59cef6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/df5bf75cd65b4619ffd989bc0560ddc2d166205b",
+      "release_date": "2009-07-20"
+    },
+    {
+      "featuredArtist": "Trey Songz",
+      "featuredArtistId": "2iojnBLj0qIMiKPvVhLnsH",
+      "trackName": "We Need To Roll - Bonus",
+      "trackId": "0gwOJHd9mJxOMm4YxIHVdQ",
+      "preview": "https://p.scdn.co/mp3-preview/784033563b7f4c1da30c9ad1ded475cb1c59cef6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/df5bf75cd65b4619ffd989bc0560ddc2d166205b",
+      "release_date": "2009-07-20"
+    },
+    {
+      "featuredArtist": "The Game",
+      "featuredArtistId": "0NbfKEOTQCcwd6o7wSDOHI",
+      "trackName": "Man In Your Life - Bonus",
+      "trackId": "1YYmx3pekLJtJoLixs40P0",
+      "preview": "https://p.scdn.co/mp3-preview/be127693ab3fdd59aeadd8e762e61b26e2fe80a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/df5bf75cd65b4619ffd989bc0560ddc2d166205b",
+      "release_date": "2009-07-20"
+    },
+    {
+      "featuredArtist": "Nas",
+      "featuredArtistId": "20qISvAhX20dpIbOOzGK3q",
+      "trackName": "Get To Know Me",
+      "trackId": "6NqsNZ0uCpbIt4ubA0zGIu",
+      "preview": "https://p.scdn.co/mp3-preview/3eba700a772fa3348166a86380194638296e4d8e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cb891d61ed5e704b01fe079ae79c93290dc7f794",
+      "release_date": "2007-04-24"
+    },
+    {
+      "featuredArtist": "Papoose",
+      "featuredArtistId": "0mbgkaYR8KNUb5s3s1yYHG",
+      "trackName": "Where You At",
+      "trackId": "3fR0ZGsoJP3wQ5tg52mKEy",
+      "preview": "https://p.scdn.co/mp3-preview/20f572a66c3847071ab8eaee4a891614619bf5fe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cb891d61ed5e704b01fe079ae79c93290dc7f794",
+      "release_date": "2007-04-24"
+    },
+    {
+      "featuredArtist": "Tony Yayo",
+      "featuredArtistId": "50UMTib697JJ44le8DO2Va",
+      "trackName": "Ain't Nothin' Like Me",
+      "trackId": "369w7IUMPCnh2HQUNfTfem",
+      "preview": "https://p.scdn.co/mp3-preview/b37dd78d33db840d9f149c6d3778080b5233e155?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cb891d61ed5e704b01fe079ae79c93290dc7f794",
+      "release_date": "2007-04-24"
+    },
+    {
+      "featuredArtist": "Young Buck",
+      "featuredArtistId": "4pr7J7wzgObkE3DD3Izi7q",
+      "trackName": "Ain't Nothin' Like Me",
+      "trackId": "369w7IUMPCnh2HQUNfTfem",
+      "preview": "https://p.scdn.co/mp3-preview/b37dd78d33db840d9f149c6d3778080b5233e155?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cb891d61ed5e704b01fe079ae79c93290dc7f794",
+      "release_date": "2007-04-24"
+    },
+    {
+      "featuredArtist": "Fabolous",
+      "featuredArtistId": "0YWxKQj2Go9CGHCp77UOyy",
+      "trackName": "Let's Just Do It",
+      "trackId": "3AuTVxhrJMsCKKj9iQWfyF",
+      "preview": "https://p.scdn.co/mp3-preview/33471ed6cbce65fc91bb7823288e2a0bfe85fd56?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cb891d61ed5e704b01fe079ae79c93290dc7f794",
+      "release_date": "2007-04-24"
+    },
+    {
+      "featuredArtist": "Dre",
+      "featuredArtistId": "3JRLFRAE6bDodbmvzgY2cH",
+      "trackName": "Just Relax Featuring Dre",
+      "trackId": "76NZR61pubvYGuoIPFJ6wS",
+      "preview": "https://p.scdn.co/mp3-preview/fe7ead93a71ead93932f009850ff654b6009ba35?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cb891d61ed5e704b01fe079ae79c93290dc7f794",
+      "release_date": "2007-04-24"
+    },
+    {
+      "featuredArtist": "G-Unit",
+      "featuredArtistId": "6evKD5JWJON3qPBJtUEmtY",
+      "trackName": "Ride wit U",
+      "trackId": "0VrRRGtjs70mqO41AG7ZIi",
+      "preview": "https://p.scdn.co/mp3-preview/7f3b436b766128d12b2dc1439e323b36aa92c689?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/675020330c9b08acbab44e59d2ca808d268fac51",
+      "release_date": "2003-12-09"
+    },
+    {
+      "featuredArtist": "Freeway",
+      "featuredArtistId": "1sTNITOzZLjiSmlkDzMzwD",
+      "trackName": "I Remember",
+      "trackId": "4OX82xKUZwmqoJJxrNHUGK",
+      "preview": "https://p.scdn.co/mp3-preview/d75e9179b73f91f79a5cd3e2b05f5133e25fabe2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/675020330c9b08acbab44e59d2ca808d268fac51",
+      "release_date": "2003-12-09"
+    },
+    {
+      "featuredArtist": "Shaggy",
+      "featuredArtistId": "5EvFsr3kj42KNv97ZEnqij",
+      "trackName": "Ghetto Child",
+      "trackId": "07fuMoaGykmhgH6Fa00CLJ",
+      "preview": "https://p.scdn.co/mp3-preview/262a0a5f76357aa2908517bbee11c22558d4ec58?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aaa6e236f3fefd0686b6bb83e81de9df91619c5a",
+      "release_date": "2001-12-11"
+    },
+    {
+      "featuredArtist": "Petey Pablo",
+      "featuredArtistId": "4Js9eYwAf9rypNtV8pNSw9",
+      "trackName": "Let's Stay Home Tonight - Remix",
+      "trackId": "54mZZJcEoLJrVJqwSPBZVH",
+      "preview": "https://p.scdn.co/mp3-preview/e0ab5a957948b195e8cb1a3986a918a6aecc3ed8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aaa6e236f3fefd0686b6bb83e81de9df91619c5a",
+      "release_date": "2001-12-11"
+    },
+    {
+      "featuredArtist": "Allen \"Allstar\" Gordon",
+      "featuredArtistId": "5BUFDFEpNa2jcJD9x7BTX3",
+      "trackName": "Let's Stay Home Tonight - Remix",
+      "trackId": "54mZZJcEoLJrVJqwSPBZVH",
+      "preview": "https://p.scdn.co/mp3-preview/e0ab5a957948b195e8cb1a3986a918a6aecc3ed8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aaa6e236f3fefd0686b6bb83e81de9df91619c5a",
+      "release_date": "2001-12-11"
+    },
+    {
+      "featuredArtist": "*NSYNC",
+      "featuredArtistId": "6Ff53KvcvAj5U7Z1vojB5o",
+      "trackName": "I Believe in You",
+      "trackId": "0XnLY7sYuflxqWSKgvrAVI",
+      "preview": "https://p.scdn.co/mp3-preview/bd971b5d03452fb7025f9aef16e9c24780bb0c8d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e30d5aa37e01447b9442aba706f3619edba7ef03",
+      "release_date": "2000-04-18"
+    },
+    {
+      "featuredArtist": "Mariah Carey",
+      "featuredArtistId": "4iHNK0tOyZPYnBU7nGAgpQ",
+      "trackName": "Thank God I Found You - Make It Last Remix Edit",
+      "trackId": "3LwuRjdGHGoVrGYYBIFlpV",
+      "preview": "https://p.scdn.co/mp3-preview/69e884e8f69a14400b8cb0725814e11e8841e0d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e30d5aa37e01447b9442aba706f3619edba7ef03",
+      "release_date": "2000-04-18"
+    },
+    {
+      "featuredArtist": "Clue",
+      "featuredArtistId": "4ybJiTIMVzeVOd00nI8Xxm",
+      "trackName": "Thank God I Found You - Make It Last Remix Edit",
+      "trackId": "3LwuRjdGHGoVrGYYBIFlpV",
+      "preview": "https://p.scdn.co/mp3-preview/69e884e8f69a14400b8cb0725814e11e8841e0d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e30d5aa37e01447b9442aba706f3619edba7ef03",
+      "release_date": "2000-04-18"
+    },
+    {
+      "featuredArtist": "Supa Engineer \"Duro\"",
+      "featuredArtistId": "04PvD1Anr3LC341vrIWXsf",
+      "trackName": "Thank God I Found You - Make It Last Remix Edit",
+      "trackId": "3LwuRjdGHGoVrGYYBIFlpV",
+      "preview": "https://p.scdn.co/mp3-preview/69e884e8f69a14400b8cb0725814e11e8841e0d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e30d5aa37e01447b9442aba706f3619edba7ef03",
+      "release_date": "2000-04-18"
+    },
+    {
+      "featuredArtist": "Mystikal",
+      "featuredArtistId": "3LIJJJkO7R5RasRwt7xIn5",
+      "trackName": "Stutter - Double Take Remix",
+      "trackId": "3JFnNnq2FmPemj24Bbcpsz",
+      "preview": "https://p.scdn.co/mp3-preview/fd1d5c78842fd39c37a7d0e6c66fe54cc8eed7a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e30d5aa37e01447b9442aba706f3619edba7ef03",
+      "release_date": "2000-04-18"
+    },
+    {
+      "featuredArtist": "Allen Gordon",
+      "featuredArtistId": "1f7DyDtA0IwtD0f9NLf4P6",
+      "trackName": "Stutter - Double Take Remix",
+      "trackId": "3JFnNnq2FmPemj24Bbcpsz",
+      "preview": "https://p.scdn.co/mp3-preview/fd1d5c78842fd39c37a7d0e6c66fe54cc8eed7a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e30d5aa37e01447b9442aba706f3619edba7ef03",
+      "release_date": "2000-04-18"
+    }
+  ]
+}

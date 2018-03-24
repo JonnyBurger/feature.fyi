@@ -1,0 +1,23 @@
+{
+  "artistName": "Billy Currington",
+  "features": [
+    {
+      "featuredArtist": "Jessie James Decker",
+      "featuredArtistId": "0GzIauSfKRc5BlNXpTWAGz",
+      "trackName": "Good Night",
+      "trackId": "5xhepHwTn6eGwzdp6V1BtA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/98de8595c5db0c1f49a445c554c109c91dcb94c1",
+      "release_date": "2015-06-02"
+    },
+    {
+      "featuredArtist": "Willie Nelson",
+      "featuredArtistId": "5W5bDNCqJ1jbCgTxDD0Cb3",
+      "trackName": "Hard To Be A Hippie",
+      "trackId": "6OlM7E39dtzyWcV1SPbmFx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/66d5792d1cf9623e6c47ca5686b0c7af241d03db",
+      "release_date": "2013-01-01"
+    }
+  ]
+}

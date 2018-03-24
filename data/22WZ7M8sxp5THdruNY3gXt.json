@@ -1,0 +1,32 @@
+{
+  "artistName": "The Doors",
+  "features": [
+    {
+      "featuredArtist": "Jim Morrison",
+      "featuredArtistId": "1QB4oo4JbSRdxNyidIuD0W",
+      "trackName": "Awake",
+      "trackId": "6U65Pc0A2qHYwJoU1OLgH0",
+      "preview": "https://p.scdn.co/mp3-preview/a2423bb8678eca6f7100a3cc48f075069dfa2b55?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f7b42141b73762487245532d6c3437071109278d",
+      "release_date": "1978"
+    },
+    {
+      "featuredArtist": "Skrillex",
+      "featuredArtistId": "5he5w2lnU9x7JFhnwcekXX",
+      "trackName": "Breakn' A Sweat - Zedd Remix",
+      "trackId": "3IBMJLY5uN014W1hTzdTRl",
+      "preview": "https://p.scdn.co/mp3-preview/ead7c08662cc68cad23fe18990964564606d9ae8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8ff1f7540d3f906ea2978c7986a3908acfb93d14",
+      "release_date": "2012-02-07"
+    },
+    {
+      "featuredArtist": "Zedd",
+      "featuredArtistId": "2qxJFvFYMEDqd7ui6kSAcq",
+      "trackName": "Breakn' A Sweat - Zedd Remix",
+      "trackId": "3IBMJLY5uN014W1hTzdTRl",
+      "preview": "https://p.scdn.co/mp3-preview/ead7c08662cc68cad23fe18990964564606d9ae8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8ff1f7540d3f906ea2978c7986a3908acfb93d14",
+      "release_date": "2012-02-07"
+    }
+  ]
+}

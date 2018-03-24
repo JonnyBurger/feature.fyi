@@ -1,0 +1,77 @@
+{
+  "artistName": "The Script",
+  "features": [
+    {
+      "featuredArtist": "will.i.am",
+      "featuredArtistId": "085pc2PYOi8bGKj0PNjekA",
+      "trackName": "Hall of Fame",
+      "trackId": "1X1DWw2pcNZ8zSub3uhlNz",
+      "preview": "https://p.scdn.co/mp3-preview/87ee8d6680a271e44e1130dbdf9901c4ccd47002?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a234693075f4c2b598e39b8fbc074408b22ffd5a",
+      "release_date": "2012-09-10"
+    },
+    {
+      "featuredArtist": "B.o.B",
+      "featuredArtistId": "5ndkK3dpZLKtBklKjxNQwT",
+      "trackName": "Walk Away",
+      "trackId": "007YzRKaY8AP8kZhzjDoUM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/63f85d60c8a432271a73a7e258b4b7a3dd1a4b66",
+      "release_date": "2011-01-18"
+    },
+    {
+      "featuredArtist": "Christy Dignam",
+      "featuredArtistId": "282CGVJs6pYcEgfGyIeYdG",
+      "trackName": "Crazy World - Live from Dublin",
+      "trackId": "5tChJ4NNuFYGdcdqWCLyae",
+      "preview": "https://p.scdn.co/mp3-preview/ed1f75b494b9377d21fcd7cdadc4cb57eced93c2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b30e642467d0c9f81cc03fa1e929da013a6a4f11",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Dan Frampton",
+      "featuredArtistId": "2CHbZTbZdKGVLSJZwnVO8f",
+      "trackName": "Arms Open - Wired Strings",
+      "trackId": "5iPzUkrJUemZjk5ICS815Y",
+      "preview": "https://p.scdn.co/mp3-preview/e7ec652f287938e89d275351ccfcf7ea0ce6b70d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3067305269d72ca0cc8e17046f09eed16c7f020",
+      "release_date": "2017-12-22"
+    },
+    {
+      "featuredArtist": "Benny Benassi",
+      "featuredArtistId": "4Ws2otunReOa6BbwxxpCt6",
+      "trackName": "Arms Open - Benny Benassi x MazZz & Rivaz Remix",
+      "trackId": "5Sf7NqdcYiVKr1ztezuLaC",
+      "preview": "https://p.scdn.co/mp3-preview/01f52ee3d908795e143adc155fb4c1dd48d351b6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2d8a0530d121eabc2d39b5726d2e75ae8751a150",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "MazZz",
+      "featuredArtistId": "3SiNCwhDyYfsNMw5sEQ7FZ",
+      "trackName": "Arms Open - Benny Benassi x MazZz & Rivaz Remix",
+      "trackId": "5Sf7NqdcYiVKr1ztezuLaC",
+      "preview": "https://p.scdn.co/mp3-preview/01f52ee3d908795e143adc155fb4c1dd48d351b6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2d8a0530d121eabc2d39b5726d2e75ae8751a150",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Rivaz",
+      "featuredArtistId": "1HQcOaGJzpSkk6xfQWv9Jn",
+      "trackName": "Arms Open - Benny Benassi x MazZz & Rivaz Remix",
+      "trackId": "5Sf7NqdcYiVKr1ztezuLaC",
+      "preview": "https://p.scdn.co/mp3-preview/01f52ee3d908795e143adc155fb4c1dd48d351b6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2d8a0530d121eabc2d39b5726d2e75ae8751a150",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Nick Talos",
+      "featuredArtistId": "5pCzC0BOLY2MpqYr1qksg2",
+      "trackName": "Rain - Nick Talos Remix",
+      "trackId": "66LS0AXtNEXMKl4Wx2gFCv",
+      "preview": "https://p.scdn.co/mp3-preview/c9127d466bac03b8aa8ecf91e18b89f73e3558e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45f413a0a265ec0a930ca2257a9a8e3d43d55c52",
+      "release_date": "2017-10-13"
+    }
+  ]
+}

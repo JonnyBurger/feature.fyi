@@ -1,0 +1,41 @@
+{
+  "artistName": "Leon Bridges",
+  "features": [
+    {
+      "featuredArtist": "Jon Batiste",
+      "featuredArtistId": "0eRbECAGCLLiTyVXPBRexU",
+      "trackName": "Ohio",
+      "trackId": "2wVrDSnhFnwy9SQLgP9Yiq",
+      "preview": "https://p.scdn.co/mp3-preview/95c215609014e8d49f20380a751ebf9ed9c10a0c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4898cfc4894dd041e717fdb11d843ad5abb36349",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Gary Clark Jr.",
+      "featuredArtistId": "01aC2ikO4Xgb2LUpf9JfKp",
+      "trackName": "Ohio",
+      "trackId": "2wVrDSnhFnwy9SQLgP9Yiq",
+      "preview": "https://p.scdn.co/mp3-preview/95c215609014e8d49f20380a751ebf9ed9c10a0c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4898cfc4894dd041e717fdb11d843ad5abb36349",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Kacey Musgraves",
+      "featuredArtistId": "70kkdajctXSbqSMJbQO424",
+      "trackName": "Present Without A Bow",
+      "trackId": "7maq54I4wVQd7YhRUYbmSu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/71c9b1b78dec9ca1c537c48d85a93b9fad632b2c",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "ODESZA",
+      "featuredArtistId": "21mKp7DqtSNHhCAU2ugvUw",
+      "trackName": "Across The Room",
+      "trackId": "3SnMdley18detAwxA4vpYk",
+      "preview": "https://p.scdn.co/mp3-preview/b34e62974ae6ecff01878270c0aac501c9141633?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/da20dc6d7b2a38187001652db4c340c8d038539e",
+      "release_date": "2017-09-08"
+    }
+  ]
+}

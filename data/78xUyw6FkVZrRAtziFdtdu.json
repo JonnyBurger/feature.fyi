@@ -1,0 +1,581 @@
+{
+  "artistName": "The Roots",
+  "features": [
+    {
+      "featuredArtist": "Patty Crash",
+      "featuredArtistId": "4HttokDhTKfd0TOUCQywRx",
+      "trackName": "Never",
+      "trackId": "0w9Jaqb7nnre8DpmhCYSYl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/78beec630a5d9842c2e12a9fc8a3dee6a69dddc9",
+      "release_date": "2014-05-19"
+    },
+    {
+      "featuredArtist": "Modesty Lycan",
+      "featuredArtistId": "1LcXJmD55hFoDHHL8Tnsrs",
+      "trackName": "When The People Cheer",
+      "trackId": "3OkfRJtMEw24XN1JQRzwD7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/78beec630a5d9842c2e12a9fc8a3dee6a69dddc9",
+      "release_date": "2014-05-19"
+    },
+    {
+      "featuredArtist": "Greg Porn",
+      "featuredArtistId": "56m3zvu4pwoqd9MrHkQHQg",
+      "trackName": "When The People Cheer",
+      "trackId": "3OkfRJtMEw24XN1JQRzwD7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/78beec630a5d9842c2e12a9fc8a3dee6a69dddc9",
+      "release_date": "2014-05-19"
+    },
+    {
+      "featuredArtist": "Dice Raw",
+      "featuredArtistId": "7df4aW2MDoNsEhmJ2NRoro",
+      "trackName": "Black Rock",
+      "trackId": "0JWgYXIruGdYqFAKyMea1P",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/78beec630a5d9842c2e12a9fc8a3dee6a69dddc9",
+      "release_date": "2014-05-19"
+    },
+    {
+      "featuredArtist": "Mercedes Martinez",
+      "featuredArtistId": "0IoH4QacS511QCu8Q08hj1",
+      "trackName": "The Coming",
+      "trackId": "7yZFjE7SD3n0FlcfUJd7ID",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/78beec630a5d9842c2e12a9fc8a3dee6a69dddc9",
+      "release_date": "2014-05-19"
+    },
+    {
+      "featuredArtist": "Raheem DeVaughn",
+      "featuredArtistId": "59NO6KX7wQCG7jGdtH1NtL",
+      "trackName": "The Unraveling",
+      "trackId": "6wW4qeZy88zVSQ7sVY9IE7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/78beec630a5d9842c2e12a9fc8a3dee6a69dddc9",
+      "release_date": "2014-05-19"
+    },
+    {
+      "featuredArtist": "Son Little",
+      "featuredArtistId": "4lujUKeO6nQAJXpq37Epn7",
+      "trackName": "Sleep",
+      "trackId": "2YPuToh0si4KLaB03xbiCP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f5d864dcad5254b2eb158573e7750027dc385ab5",
+      "release_date": "2011-12-06"
+    },
+    {
+      "featuredArtist": "Big K.R.I.T.",
+      "featuredArtistId": "0CKa42Jqrc9fSFbDjePaXP",
+      "trackName": "Make My",
+      "trackId": "36ivPR4vp20l5BWrLVritn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f5d864dcad5254b2eb158573e7750027dc385ab5",
+      "release_date": "2011-12-06"
+    },
+    {
+      "featuredArtist": "Phonte",
+      "featuredArtistId": "5SyCTZ8X8YQCI0J1VRp4iC",
+      "trackName": "One Time",
+      "trackId": "2vxwhAsRRVDhVybz3lzD0c",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f5d864dcad5254b2eb158573e7750027dc385ab5",
+      "release_date": "2011-12-06"
+    },
+    {
+      "featuredArtist": "Truck North",
+      "featuredArtistId": "52opCVsOa6emj48t30QSOq",
+      "trackName": "Kool On",
+      "trackId": "5gOwfgfPqQALRUpiQudMNm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f5d864dcad5254b2eb158573e7750027dc385ab5",
+      "release_date": "2011-12-06"
+    },
+    {
+      "featuredArtist": "Bilal Oliver",
+      "featuredArtistId": "5heNm2ip4tsArfVqVAGTSE",
+      "trackName": "The OtherSide",
+      "trackId": "0TdPHbWSEIgqrI04MjMENl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f5d864dcad5254b2eb158573e7750027dc385ab5",
+      "release_date": "2011-12-06"
+    },
+    {
+      "featuredArtist": "J. Period",
+      "featuredArtistId": "1MGyQRNDBHqVYkW1nNKRBv",
+      "trackName": "Rock Star (Intro)",
+      "trackId": "6J3ueh4x5WKk01jx07owc5",
+      "preview": "https://p.scdn.co/mp3-preview/c414eaac1a99b51789007258e899bbb42d362b01?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cacd3546505fdfa22af48f0e18b39fe0561a76c",
+      "release_date": "2011-11-22"
+    },
+    {
+      "featuredArtist": "Zion",
+      "featuredArtistId": "1CVKHwcsqgtMXbKZJlBYID",
+      "trackName": "Come Together (Feat. Zion)",
+      "trackId": "7fJjJwGxgbRWZ7wR1sN7gk",
+      "preview": "https://p.scdn.co/mp3-preview/76a552a97d0d1ff3559829239aec0eb0bbcc7e56?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cacd3546505fdfa22af48f0e18b39fe0561a76c",
+      "release_date": "2011-11-22"
+    },
+    {
+      "featuredArtist": "Kardinall Offishall",
+      "featuredArtistId": "5ZMWzwTljlYVPRdokDq8BA",
+      "trackName": "Push Ya Lighter (Feat. Kardinal Offishall)",
+      "trackId": "5YYh1QiH7DUmSMDl1itnaR",
+      "preview": "https://p.scdn.co/mp3-preview/96a7b8cc3bad1d60cc8b19edbffb45c96f23bf36?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cacd3546505fdfa22af48f0e18b39fe0561a76c",
+      "release_date": "2011-11-22"
+    },
+    {
+      "featuredArtist": "Rakim",
+      "featuredArtistId": "3PyWEKLWI0vHPmoNrIX0QE",
+      "trackName": "Concerto (Feat. Rakim)",
+      "trackId": "7ET0tXBdJKPFGSp7hUyQV7",
+      "preview": "https://p.scdn.co/mp3-preview/833d3348cb4d8d86ee311eba750a8f6089554a7e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cacd3546505fdfa22af48f0e18b39fe0561a76c",
+      "release_date": "2011-11-22"
+    },
+    {
+      "featuredArtist": "Big Pun",
+      "featuredArtistId": "2Xu7q46Hf02xOoEIm4E1Qs",
+      "trackName": "Superlyrical (Feat. Big Pun)",
+      "trackId": "58v8FgJWniPueKXUQbMCbv",
+      "preview": "https://p.scdn.co/mp3-preview/4bf75e55cd6fae3074ebb6ce027e71f2e20bd1bc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cacd3546505fdfa22af48f0e18b39fe0561a76c",
+      "release_date": "2011-11-22"
+    },
+    {
+      "featuredArtist": "Ghostface",
+      "featuredArtistId": "3t5QLYg3fqvohxXt7q1niX",
+      "trackName": "Life From The PJ's (Feat. Ghostface & Trife)",
+      "trackId": "0cGEy5hZ4qsU8tPiTkReQV",
+      "preview": "https://p.scdn.co/mp3-preview/0b6f55ee1156a7f2e59653190e541a6a6d5193a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cacd3546505fdfa22af48f0e18b39fe0561a76c",
+      "release_date": "2011-11-22"
+    },
+    {
+      "featuredArtist": "Trife",
+      "featuredArtistId": "2WP6obWWFMbDECHzRBvrsz",
+      "trackName": "Life From The PJ's (Feat. Ghostface & Trife)",
+      "trackId": "0cGEy5hZ4qsU8tPiTkReQV",
+      "preview": "https://p.scdn.co/mp3-preview/0b6f55ee1156a7f2e59653190e541a6a6d5193a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cacd3546505fdfa22af48f0e18b39fe0561a76c",
+      "release_date": "2011-11-22"
+    },
+    {
+      "featuredArtist": "Big L",
+      "featuredArtistId": "30fiiwr2EeZp1tAhzYCmyM",
+      "trackName": "PJ's (Feat. Big L)",
+      "trackId": "5t3qsZaEFDZSQl36mlOldh",
+      "preview": "https://p.scdn.co/mp3-preview/eb55661e79c0477c0bf8247189205b14039d1584?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cacd3546505fdfa22af48f0e18b39fe0561a76c",
+      "release_date": "2011-11-22"
+    },
+    {
+      "featuredArtist": "Q-Tip",
+      "featuredArtistId": "3ZotbHeyVQKxQCPDJuQ4SU",
+      "trackName": "Stay Cool (Feat. Q-Tip)",
+      "trackId": "4qwQ0iNcycrzIdhTV5nwA0",
+      "preview": "https://p.scdn.co/mp3-preview/a6c45925becf813374fe64890a49f661a523d74d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cacd3546505fdfa22af48f0e18b39fe0561a76c",
+      "release_date": "2011-11-22"
+    },
+    {
+      "featuredArtist": "Nas",
+      "featuredArtistId": "20qISvAhX20dpIbOOzGK3q",
+      "trackName": "Me Tienes (Feat. Nas)",
+      "trackId": "48rsAmn8P7DKMd5lhjaEyQ",
+      "preview": "https://p.scdn.co/mp3-preview/b4deb209d497cabd7806dbc310816cd41f93d152?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cacd3546505fdfa22af48f0e18b39fe0561a76c",
+      "release_date": "2011-11-22"
+    },
+    {
+      "featuredArtist": "Malik B.",
+      "featuredArtistId": "6iDKSaEFWMifCZyKlH9OZx",
+      "trackName": "Adrenaline (Feat. Malik B)",
+      "trackId": "1G99JTcGvORdfl1bukg4BM",
+      "preview": "https://p.scdn.co/mp3-preview/cab9d648daa0ba4a3a94c474d6832b0929fffed9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cacd3546505fdfa22af48f0e18b39fe0561a76c",
+      "release_date": "2011-11-22"
+    },
+    {
+      "featuredArtist": "Busta Rhymes",
+      "featuredArtistId": "1YfEcTuGvBQ8xSD1f53UnK",
+      "trackName": "Arenaline (Feat. Busta Rhymes)",
+      "trackId": "6Rl04qmWEXpTEeDsouD3wG",
+      "preview": "https://p.scdn.co/mp3-preview/19e6cdc6d4c0d6a590b4faba5052d014dbebcba4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cacd3546505fdfa22af48f0e18b39fe0561a76c",
+      "release_date": "2011-11-22"
+    },
+    {
+      "featuredArtist": "will.i.am",
+      "featuredArtistId": "085pc2PYOi8bGKj0PNjekA",
+      "trackName": "Yes Y'all (Feat. Will.I.Am)",
+      "trackId": "4ym6fzXow6YXjpd6yWSHG0",
+      "preview": "https://p.scdn.co/mp3-preview/06574e05689431312694d85d505f0f30fe4a9f12?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cacd3546505fdfa22af48f0e18b39fe0561a76c",
+      "release_date": "2011-11-22"
+    },
+    {
+      "featuredArtist": "Mayda Del Valle",
+      "featuredArtistId": "6HYgFyjBIu1PkjgHJAjhvG",
+      "trackName": "Love of My Life (Remix) (Feat. Mayda Del Valle)",
+      "trackId": "157XitPjqKhmYmGeLoQut0",
+      "preview": "https://p.scdn.co/mp3-preview/9c005157e2c5d59b99586fa45359d7cc44366d95?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cacd3546505fdfa22af48f0e18b39fe0561a76c",
+      "release_date": "2011-11-22"
+    },
+    {
+      "featuredArtist": "Ms. Lauryn Hill",
+      "featuredArtistId": "2Mu5NfyYm8n5iTomuKAEHl",
+      "trackName": "Water (Feat. Lauryn Hill)",
+      "trackId": "3jwQPsFd1HTL71FN192nyP",
+      "preview": "https://p.scdn.co/mp3-preview/1fcb61a2747cc988b9241f8b1352d5a2997e4710?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cacd3546505fdfa22af48f0e18b39fe0561a76c",
+      "release_date": "2011-11-22"
+    },
+    {
+      "featuredArtist": "D-Angelo",
+      "featuredArtistId": "7wOPW6zvuU6wZI109XrADb",
+      "trackName": "Break U Off (Feat. D'Angelo)",
+      "trackId": "69M7WyYB9zTITrM4ilceGy",
+      "preview": "https://p.scdn.co/mp3-preview/452aac9398707e5625a099dc7b1bd8c081042f1d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cacd3546505fdfa22af48f0e18b39fe0561a76c",
+      "release_date": "2011-11-22"
+    },
+    {
+      "featuredArtist": "Betty Wright",
+      "featuredArtistId": "0PDqlUGugF5Jt6DZyATvfz",
+      "trackName": "Old Songs",
+      "trackId": "6RsvFeZTgBbhPxEy4zzPSE",
+      "preview": "https://p.scdn.co/mp3-preview/2ba65290866f8b1bb5f34b6444965812235f6d04?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/298893a3c1fd58095592c16beb82e108477df552",
+      "release_date": "2011-11-15"
+    },
+    {
+      "featuredArtist": "Snoop Dogg",
+      "featuredArtistId": "7hJcb9fa4alzcOq3EaNPoG",
+      "trackName": "Real Woman (feat. Snoop Dogg)",
+      "trackId": "6SiUh73Tb7v9UUPn5Q53OS",
+      "preview": "https://p.scdn.co/mp3-preview/740851ee95081c1c3bf124056aac0d4f95f6cc0e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/298893a3c1fd58095592c16beb82e108477df552",
+      "release_date": "2011-11-15"
+    },
+    {
+      "featuredArtist": "Lil Wayne",
+      "featuredArtistId": "55Aa2cqylxrFIXC767Z865",
+      "trackName": "Grapes On A Vine (feat. Lil Wayne)",
+      "trackId": "4CzgQpSUfJffoCncFNQWHX",
+      "preview": "https://p.scdn.co/mp3-preview/1afb3565e32dfa688e9ce75328398d3fab897d5f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/298893a3c1fd58095592c16beb82e108477df552",
+      "release_date": "2011-11-15"
+    },
+    {
+      "featuredArtist": "Robert \"The Messenger\" Bozeman",
+      "featuredArtistId": "5KEw8GpnmOGzoTPeN5Mu1m",
+      "trackName": "Hollywould (feat. Robert \"The Messenger\" Bozeman)",
+      "trackId": "2tygACQOC9yEtwlSbS7sAC",
+      "preview": "https://p.scdn.co/mp3-preview/74ef14cebce9b6c4438ef6bc064d0c7d6d87289d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/298893a3c1fd58095592c16beb82e108477df552",
+      "release_date": "2011-11-15"
+    },
+    {
+      "featuredArtist": "Joss Stone",
+      "featuredArtistId": "7bvcQXJHkFiN1ppIN3q4fi",
+      "trackName": "Whisper In The Wind (feat. Joss Stone)",
+      "trackId": "5BLWmErh0bW5HiIjTaVovy",
+      "preview": "https://p.scdn.co/mp3-preview/12364ad8a8fb6a8d2d974254092e881f5a0cc96f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/298893a3c1fd58095592c16beb82e108477df552",
+      "release_date": "2011-11-15"
+    },
+    {
+      "featuredArtist": "Lenny Williams",
+      "featuredArtistId": "5VcrwzYyoX3WUTbkaqcIvN",
+      "trackName": "Baby Come Back (feat. Lenny Williams)",
+      "trackId": "5tqktygynVZ10Bf33evlnq",
+      "preview": "https://p.scdn.co/mp3-preview/e874c8f017f830c48ea4dce64f11a98923ddb9f1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/298893a3c1fd58095592c16beb82e108477df552",
+      "release_date": "2011-11-15"
+    },
+    {
+      "featuredArtist": "John Legend",
+      "featuredArtistId": "5y2Xq6xcjJb2jVM54GHK3t",
+      "trackName": "Hard Times",
+      "trackId": "6Ty9r1U9uSSGg4MQ2SVeRq",
+      "preview": "https://p.scdn.co/mp3-preview/3f165d2c25b6751326ffafcf80dd94b4ad2b9218?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/efd94a71076d828d80e98132f94d2442490453fa",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "Black Thought",
+      "featuredArtistId": "6DJEUXZm0e2rAohdoZ5Voo",
+      "trackName": "Hard Times",
+      "trackId": "6Ty9r1U9uSSGg4MQ2SVeRq",
+      "preview": "https://p.scdn.co/mp3-preview/3f165d2c25b6751326ffafcf80dd94b4ad2b9218?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/efd94a71076d828d80e98132f94d2442490453fa",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "Common",
+      "featuredArtistId": "2GHclqNVjqGuiE5mA7BEoc",
+      "trackName": "Wake up Everybody",
+      "trackId": "7lVxWMH0C3Bj8b8JLkh9EN",
+      "preview": "https://p.scdn.co/mp3-preview/3b6141fb0891d7fa317c7854bd9962d1603ec007?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/efd94a71076d828d80e98132f94d2442490453fa",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "Melanie Fiona",
+      "featuredArtistId": "4O2YL4ygn6eTBC0w1hyWUM",
+      "trackName": "Wake up Everybody",
+      "trackId": "7lVxWMH0C3Bj8b8JLkh9EN",
+      "preview": "https://p.scdn.co/mp3-preview/3b6141fb0891d7fa317c7854bd9962d1603ec007?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/efd94a71076d828d80e98132f94d2442490453fa",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "C.L. Smooth",
+      "featuredArtistId": "2i4dJzzPuB6lTP1ZQv9Tfb",
+      "trackName": "Our Generation (The Hope of the World)",
+      "trackId": "3meu5pk3FlHaYFg7KFHKhT",
+      "preview": "https://p.scdn.co/mp3-preview/ccd60f64775dc7f1ec08d51aa4cd95f40451bafc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/efd94a71076d828d80e98132f94d2442490453fa",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "Malik Yusef",
+      "featuredArtistId": "2hikCywT7dcTj6gt3jmsbD",
+      "trackName": "Little Ghetto Boy (Prelude)",
+      "trackId": "2WhjynOaEluqSAFRXmsoZi",
+      "preview": "https://p.scdn.co/mp3-preview/58bce0d91dc562d848558bd46b93d97ac7f42b00?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/efd94a71076d828d80e98132f94d2442490453fa",
+      "release_date": "2010-09-17"
+    },
+    {
+      "featuredArtist": "Amber Coffman",
+      "featuredArtistId": "4vpGVGgxSDcCTmqYbsOnsn",
+      "trackName": "A Peace Of Light",
+      "trackId": "2rByGzndD0TKPWDXOdF2hg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4b2d699e578f6b47a653faf95280e22618a927d9",
+      "release_date": "2009-06-29"
+    },
+    {
+      "featuredArtist": "Angel Deradoorian",
+      "featuredArtistId": "7a9GnOsFaJizxiUVLpcwcC",
+      "trackName": "A Peace Of Light",
+      "trackId": "2rByGzndD0TKPWDXOdF2hg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4b2d699e578f6b47a653faf95280e22618a927d9",
+      "release_date": "2009-06-29"
+    },
+    {
+      "featuredArtist": "Haley Dekle",
+      "featuredArtistId": "7wjZTTRz5QZ8GfJPJbmH1C",
+      "trackName": "A Peace Of Light",
+      "trackId": "2rByGzndD0TKPWDXOdF2hg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4b2d699e578f6b47a653faf95280e22618a927d9",
+      "release_date": "2009-06-29"
+    },
+    {
+      "featuredArtist": "P.O.R.N.",
+      "featuredArtistId": "5mgUdqdgAMZYOj1LwD7RzG",
+      "trackName": "Walk Alone",
+      "trackId": "5KNvpe4CaytSHjPXnQI6zU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4b2d699e578f6b47a653faf95280e22618a927d9",
+      "release_date": "2009-06-29"
+    },
+    {
+      "featuredArtist": "Monsters Of Folk",
+      "featuredArtistId": "7wcYEfyBTrH0iT6J4PgSTj",
+      "trackName": "Dear God 2.0",
+      "trackId": "0gDRvWeq0Qcg9KKEGGjFKE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4b2d699e578f6b47a653faf95280e22618a927d9",
+      "release_date": "2009-06-29"
+    },
+    {
+      "featuredArtist": "Blu",
+      "featuredArtistId": "1KeJhR0ENFviw187pD4LPT",
+      "trackName": "Radio Daze",
+      "trackId": "4o6Uq3dNrfs6kVOm3u1FL5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4b2d699e578f6b47a653faf95280e22618a927d9",
+      "release_date": "2009-06-29"
+    },
+    {
+      "featuredArtist": "STS",
+      "featuredArtistId": "09e1aib7HBYGg3XBOVhVsN",
+      "trackName": "Right On",
+      "trackId": "0QZkqy0yPdZ4KR8mroQ8CN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4b2d699e578f6b47a653faf95280e22618a927d9",
+      "release_date": "2009-06-29"
+    },
+    {
+      "featuredArtist": "Joanna Newsom",
+      "featuredArtistId": "4gn6f5jaOO75s0oF7ozqGG",
+      "trackName": "Right On",
+      "trackId": "0QZkqy0yPdZ4KR8mroQ8CN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4b2d699e578f6b47a653faf95280e22618a927d9",
+      "release_date": "2009-06-29"
+    },
+    {
+      "featuredArtist": "Peedi Peedi",
+      "featuredArtistId": "36dgBtLAQduHE6Z2MGHdII",
+      "trackName": "Web 20/20",
+      "trackId": "3kv5JrPEwD4D6nE5RdC8Ui",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4b2d699e578f6b47a653faf95280e22618a927d9",
+      "release_date": "2009-06-29"
+    },
+    {
+      "featuredArtist": "Blu",
+      "featuredArtistId": "63dhNZE7aodfHYu7o3hk7X",
+      "trackName": "Radio Daze - Album Version (Edited)",
+      "trackId": "5ONKVsaiuUlOpcJiQTnm53",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/585034a2e52f531ee99ffbe4a3b3fa8227d93a3a",
+      "release_date": "2009-06-29"
+    },
+    {
+      "featuredArtist": "STS",
+      "featuredArtistId": "0LhUDcQWIfiP624KorSrcB",
+      "trackName": "Right On - Album Version (Edited)",
+      "trackId": "0xoqlcaqVhwJ9BFuZZJK0o",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/585034a2e52f531ee99ffbe4a3b3fa8227d93a3a",
+      "release_date": "2009-06-29"
+    },
+    {
+      "featuredArtist": "Mos Def",
+      "featuredArtistId": "0Mz5XE0kb1GBnbLQm2VbcO",
+      "trackName": "Rising Down",
+      "trackId": "0ZeZYDlxvzmUIM07H4HbM6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/93f0e0b586b555329523c0ded8b810ec163fe7ff",
+      "release_date": "2008-04-29"
+    },
+    {
+      "featuredArtist": "Styles P",
+      "featuredArtistId": "2x8KDZdSONA3872CnhaAlX",
+      "trackName": "Rising Down",
+      "trackId": "0ZeZYDlxvzmUIM07H4HbM6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/93f0e0b586b555329523c0ded8b810ec163fe7ff",
+      "release_date": "2008-04-29"
+    },
+    {
+      "featuredArtist": "Saigon",
+      "featuredArtistId": "0mTfntDCCWRozUnyxpGf6E",
+      "trackName": "Criminal",
+      "trackId": "5zEz8va45DuY6YDP1KtYQ3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/93f0e0b586b555329523c0ded8b810ec163fe7ff",
+      "release_date": "2008-04-29"
+    },
+    {
+      "featuredArtist": "Porn",
+      "featuredArtistId": "6O1jQGuVJ8WS8EAH6nJSiO",
+      "trackName": "I Will Not Apologize",
+      "trackId": "2NRL5HLejd59RMbs5VAoV9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/93f0e0b586b555329523c0ded8b810ec163fe7ff",
+      "release_date": "2008-04-29"
+    },
+    {
+      "featuredArtist": "Talib Kweli",
+      "featuredArtistId": "0lEssBAxQl2In4RpaB1C2Y",
+      "trackName": "Lost Desire",
+      "trackId": "7EbMePnjTM3feDhjN24auo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/93f0e0b586b555329523c0ded8b810ec163fe7ff",
+      "release_date": "2008-04-29"
+    },
+    {
+      "featuredArtist": "Wale",
+      "featuredArtistId": "67nwj3Y5sZQLl72VNUHEYE",
+      "trackName": "Rising Up",
+      "trackId": "1l6h4j8Xh8z1iBQKQ9zybP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/93f0e0b586b555329523c0ded8b810ec163fe7ff",
+      "release_date": "2008-04-29"
+    },
+    {
+      "featuredArtist": "Chrisette Michele",
+      "featuredArtistId": "3YJMzGjAm245zwJooY7PEj",
+      "trackName": "Rising Up",
+      "trackId": "1l6h4j8Xh8z1iBQKQ9zybP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/93f0e0b586b555329523c0ded8b810ec163fe7ff",
+      "release_date": "2008-04-29"
+    },
+    {
+      "featuredArtist": "Patrick Stump",
+      "featuredArtistId": "0wsdUS0EJ7zHgti2nxTVWR",
+      "trackName": "Birthday Girl",
+      "trackId": "2DjpKoHBDzGKDr0LL6xI9L",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/93f0e0b586b555329523c0ded8b810ec163fe7ff",
+      "release_date": "2008-04-29"
+    },
+    {
+      "featuredArtist": "Porn",
+      "featuredArtistId": "3BwoVO33LVOTsaKZhNG2tn",
+      "trackName": "I Will Not Apologize",
+      "trackId": "5Td2nHaPZEL5zV9Y2V66xu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/93f0e0b586b555329523c0ded8b810ec163fe7ff",
+      "release_date": "2008-04-29"
+    },
+    {
+      "featuredArtist": "Wadud Ahmad",
+      "featuredArtistId": "7xofDFziEcA1iW49YIdqzH",
+      "trackName": "The Grand Return",
+      "trackId": "6Z3AMXjmQzyc7UF1Y0hMM3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/93f0e0b586b555329523c0ded8b810ec163fe7ff",
+      "release_date": "2008-04-29"
+    },
+    {
+      "featuredArtist": "Maimouna Youssef",
+      "featuredArtistId": "5UIl2yxuQbC2rU8m9pN8mD",
+      "trackName": "Don't Feel Right",
+      "trackId": "5XZvmCCn2fZ3vHU4nrFbJJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8fad143b979945391c01798fef5d3068be15f4c8",
+      "release_date": "2006-08-29"
+    },
+    {
+      "featuredArtist": "John-John",
+      "featuredArtistId": "1u6jj6OplFAEAZmvLv5cwe",
+      "trackName": "Baby",
+      "trackId": "6EzXcUqTxVgqEOQuZ62pcE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8fad143b979945391c01798fef5d3068be15f4c8",
+      "release_date": "2006-08-29"
+    },
+    {
+      "featuredArtist": "Bunny Sigler",
+      "featuredArtistId": "4wyNEslyuNURfltXmivNeg",
+      "trackName": "Long Time",
+      "trackId": "6B1ZmzO4rXcLT4tjd04F5C",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8fad143b979945391c01798fef5d3068be15f4c8",
+      "release_date": "2006-08-29"
+    },
+    {
+      "featuredArtist": "Jack Davey",
+      "featuredArtistId": "5BVTW4CsjlKT6yJitLCFoO",
+      "trackName": "Atonement",
+      "trackId": "2UP3rcCgIAUexGxURmN8mR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8fad143b979945391c01798fef5d3068be15f4c8",
+      "release_date": "2006-08-29"
+    }
+  ]
+}

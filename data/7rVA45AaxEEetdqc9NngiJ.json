@@ -1,0 +1,32 @@
+{
+  "artistName": "Remo",
+  "features": [
+    {
+      "featuredArtist": "Kravali",
+      "featuredArtistId": "6S9lTgwmg9MvEmfi5Yqwqx",
+      "trackName": "Modus",
+      "trackId": "4gqRibyPuTySJxIKW4xbvr",
+      "preview": "https://p.scdn.co/mp3-preview/c2499c623d19963493e89720c5aaff1518c846d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/81e06bff0d54f857df1549e1402c2a45dce01e63",
+      "release_date": "2017-11-27"
+    },
+    {
+      "featuredArtist": "G-Eazy",
+      "featuredArtistId": "02kJSzxNuaWGqwubyUba0Z",
+      "trackName": "I Mean It REMIX",
+      "trackId": "56Eh85ELaB7AkBI9QWbBZT",
+      "preview": "https://p.scdn.co/mp3-preview/359a278ddfafaf9c49ad3899f8b54f0b1e6ec8c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a58c1cd703bd6f7cef72fa3fc4ba9a0998e76a5",
+      "release_date": "2014-07-10"
+    },
+    {
+      "featuredArtist": "Rick Ross",
+      "featuredArtistId": "1sBkRIssrMs1AbVkOJbc7a",
+      "trackName": "I Mean It REMIX",
+      "trackId": "56Eh85ELaB7AkBI9QWbBZT",
+      "preview": "https://p.scdn.co/mp3-preview/359a278ddfafaf9c49ad3899f8b54f0b1e6ec8c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a58c1cd703bd6f7cef72fa3fc4ba9a0998e76a5",
+      "release_date": "2014-07-10"
+    }
+  ]
+}

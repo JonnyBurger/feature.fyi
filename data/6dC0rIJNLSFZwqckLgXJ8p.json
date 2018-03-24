@@ -1,0 +1,50 @@
+{
+  "artistName": "Timeflies",
+  "features": [
+    {
+      "featuredArtist": "Natalie La Rose",
+      "featuredArtistId": "2qdONMCoDngQk0eV4Avs1i",
+      "trackName": "Worse Things Than Love",
+      "trackId": "7A75KGAEC9IOYL5lRhtJXx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f93c6e32efdc3418bd92b52efa190ba359d88e01",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "Carly Rose Sonenclar",
+      "featuredArtistId": "0Z49rYPKsyCCLGq1UiHrBe",
+      "trackName": "Runaway",
+      "trackId": "0CB8732A7tDEkVsq3o4JT8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f93c6e32efdc3418bd92b52efa190ba359d88e01",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "T-Pain",
+      "featuredArtistId": "3aQeKQSyrW4qWr35idm0cy",
+      "trackName": "Somebody Gon Get It",
+      "trackId": "4A1rRMHAJ7ZXmJynGTiZQE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4d29a4b0004d85790ac104b43a1682fd3f530b6a",
+      "release_date": "2014-04-29"
+    },
+    {
+      "featuredArtist": "Fabolous",
+      "featuredArtistId": "0YWxKQj2Go9CGHCp77UOyy",
+      "trackName": "Fall",
+      "trackId": "2wnwC8N0dopygD89isXPw4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4d29a4b0004d85790ac104b43a1682fd3f530b6a",
+      "release_date": "2014-04-29"
+    },
+    {
+      "featuredArtist": "Katie Sky",
+      "featuredArtistId": "31bkgXHo67awewnmvrdsah",
+      "trackName": "Monsters",
+      "trackId": "57Wjcff1bw8TueYvFip4NN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4d29a4b0004d85790ac104b43a1682fd3f530b6a",
+      "release_date": "2014-04-29"
+    }
+  ]
+}

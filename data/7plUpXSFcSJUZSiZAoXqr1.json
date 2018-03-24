@@ -1,0 +1,59 @@
+{
+  "artistName": "Ximena Sariñana",
+  "features": [
+    {
+      "featuredArtist": "Los Angeles Azules",
+      "featuredArtistId": "0ZCO8oVkMj897cKgFH7fRW",
+      "trackName": "Mis Sentimientos",
+      "trackId": "7x9zoTjZe9qSl4xAMr5Ge2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/25f26b1ae98141e923fc2855b4c3e51f2a842ebd",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Jay de la Cueva",
+      "featuredArtistId": "2PQW0MnXmZd19XKZQyoPgu",
+      "trackName": "Si Nos Dejan",
+      "trackId": "7tYl5XyYDe2jCNdlM1iWpD",
+      "preview": "https://p.scdn.co/mp3-preview/02ced8f98ce568242a1d8b5750696f2f3e3c27e1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d8fd105c814435404532e423993cb6ed9d5e9fe2",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Tiê",
+      "featuredArtistId": "5rTjH3aABAmPM5B6DZebZ7",
+      "trackName": "Tudo ou nada",
+      "trackId": "5qw1VU3v14nFQi1nYSGD17",
+      "preview": "https://p.scdn.co/mp3-preview/5e1a3b8088990f514111d567dea375744c43534e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/174d4cfe9edf23e74489ff4c5b9e9859ba78cd52",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Torreblanca",
+      "featuredArtistId": "5sy13x4wGzkhvLeHr4HPEE",
+      "trackName": "Nada Me Saca De La Cama",
+      "trackId": "5cKYylFPaCCo2x1V9n8vxB",
+      "preview": "https://p.scdn.co/mp3-preview/57f68353cce0c151a2d50f480516a30486dfbeda?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f089c6de3fb90d1b8eb9b0e90094a8e46a08fe66",
+      "release_date": "2017-09-11"
+    },
+    {
+      "featuredArtist": "Little Jesus",
+      "featuredArtistId": "5p1ARDx76hnOXoeigLIKit",
+      "trackName": "Tqm",
+      "trackId": "4m6rvm52fAgZk7ffqgevcV",
+      "preview": "https://p.scdn.co/mp3-preview/61481348642effcb354244929f19a8135189173e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0a218c5f0c7fc9cfa0458faf3574985a04236f5b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Elsa Y Elmar",
+      "featuredArtistId": "5nKGeITSNCVP76muyOlszy",
+      "trackName": "Tqm",
+      "trackId": "4m6rvm52fAgZk7ffqgevcV",
+      "preview": "https://p.scdn.co/mp3-preview/61481348642effcb354244929f19a8135189173e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0a218c5f0c7fc9cfa0458faf3574985a04236f5b",
+      "release_date": "2017-04-07"
+    }
+  ]
+}

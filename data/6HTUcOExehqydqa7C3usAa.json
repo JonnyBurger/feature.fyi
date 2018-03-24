@@ -1,0 +1,32 @@
+{
+  "artistName": "Abel Pintos",
+  "features": [
+    {
+      "featuredArtist": "Leiva",
+      "featuredArtistId": "5Hsv8dUHHOdnn72q4XIVz7",
+      "trackName": "Alguien",
+      "trackId": "1vVPAGe2dA60o3a702akoB",
+      "preview": "https://p.scdn.co/mp3-preview/e4dddd5a96274fea1931e0cdcdd67e0ad5a737be?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c2fdbcb517652f3ace6113ebf35c7f75fab699e0",
+      "release_date": "2016-10-07"
+    },
+    {
+      "featuredArtist": "Malú",
+      "featuredArtistId": "3TLGNOdp1UWYMnV5XG9HkR",
+      "trackName": "Oncemil",
+      "trackId": "7tDcQO0Im18gKP5V6IsfDK",
+      "preview": "https://p.scdn.co/mp3-preview/14f2f1a7a3ba54408445d1bfd4db8231df178558?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/239bda0391a608b2b1bf46b88d7d20dcbbc4bb04",
+      "release_date": "2017-04-28"
+    },
+    {
+      "featuredArtist": "Eruca Sativa",
+      "featuredArtistId": "2RPNbhguRnI9uqahGYcUc6",
+      "trackName": "Amor Ausente (En Vivo)",
+      "trackId": "1sD9vqr4ariNYWc4ifbpOi",
+      "preview": "https://p.scdn.co/mp3-preview/0dfc25efd3fa80031a04e2002e7e93632b39b330?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/48c75918b6b1b6d7857994641132ff6cdf8cdef4",
+      "release_date": "2018-03-23"
+    }
+  ]
+}

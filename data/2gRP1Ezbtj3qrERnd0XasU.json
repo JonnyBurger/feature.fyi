@@ -1,0 +1,50 @@
+{
+  "artistName": "Camila",
+  "features": [
+    {
+      "featuredArtist": "Colbie Caillat",
+      "featuredArtistId": "6aZyMrc4doVtZyKNilOmwu",
+      "trackName": "Entre Tus Alas",
+      "trackId": "0qFNuoq23tBuZgzF9PYNao",
+      "preview": "https://p.scdn.co/mp3-preview/c860d3120f3892fdcd346b601f8f5617b88de772?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/07483691c51430b985d163a35c4d220da9205590",
+      "release_date": "2011-02-08"
+    },
+    {
+      "featuredArtist": "Chambao",
+      "featuredArtistId": "2qhLqZ1pkiUl5HNrU2Nz0R",
+      "trackName": "Yo Soy Quien",
+      "trackId": "2MGNm77HhlTUQVs8OnGydA",
+      "preview": "https://p.scdn.co/mp3-preview/44bf0dc003d2c6a6a9179e3222f165a6bd78ac1e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce378f0530458dcfa6768cd11c6e0b72b687f400",
+      "release_date": "2006"
+    },
+    {
+      "featuredArtist": "Marco Antonio Solís",
+      "featuredArtistId": "3tJnB0s6c3oXPq1SCCavnd",
+      "trackName": "La Vida Entera",
+      "trackId": "73lcrkJKuPLoMWF0UnecCb",
+      "preview": "https://p.scdn.co/mp3-preview/179409acd3e03093abd7920f9262d670cedef188?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/62a75d76323b8d6fc0546a1bf647611e43536575",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "Ricky Martin",
+      "featuredArtistId": "7slfeZO9LsJbWgpkIoXBUJ",
+      "trackName": "Perdón",
+      "trackId": "4gXhZzBAmaAh1dVh4NzjOu",
+      "preview": "https://p.scdn.co/mp3-preview/63e915d4b11af2dd7a828dcbb147f033fd73734a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7263d17ccb5bd6c5d79e10efc003a2c34b31d354",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Wanessa",
+      "featuredArtistId": "4tKyqcDgQpGEIvJlbhl07P",
+      "trackName": "Abrazamé / Me Abrace",
+      "trackId": "2rmzp85tgumMIdMZU8VUBu",
+      "preview": "https://p.scdn.co/mp3-preview/9b752e3ce9211485fc6d93595220d79ca81a1613?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3ccd91e8dad88358a8a50515144d0328594b174f",
+      "release_date": "2008-05-14"
+    }
+  ]
+}

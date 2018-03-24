@@ -1,0 +1,167 @@
+{
+  "artistName": "Tim McGraw",
+  "features": [
+    {
+      "featuredArtist": "Faith Hill",
+      "featuredArtistId": "25NQNriVT2YbSW80ILRWJa",
+      "trackName": "The Rest of Our Life",
+      "trackId": "19P6cJstaoQJHtHW3HOGcg",
+      "preview": "https://p.scdn.co/mp3-preview/e468f42357ae4b03cad36c1de64f2ae407f1d27a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8de4f7c735ced43d22eae07daf5e0841985ec690",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Gracie McGraw",
+      "featuredArtistId": "5GnD3nJLWruCGFwAGmM6Bc",
+      "trackName": "Here Tonight",
+      "trackId": "15QSc8YHlHE20fmBd0XjgB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5bbcde52467c61e11500d6122cd9493e9bd21555",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Big & Rich",
+      "featuredArtistId": "0oBEeN6BCxEgMogzThqrPf",
+      "trackName": "California",
+      "trackId": "0Fk9l39sxN8qSslQ34CHQI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5bbcde52467c61e11500d6122cd9493e9bd21555",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Catherine Dunn",
+      "featuredArtistId": "3tgurcCC4NE9Vri1AzDbZV",
+      "trackName": "Diamond Rings And Old Barstools",
+      "trackId": "4qnKG2EeHrhI3HlRgviEqO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4155db2242ea57c69e6803d11958a209fd593ec9",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Kid Rock",
+      "featuredArtistId": "7dOBabd5O4CvKrg4iriHTM",
+      "trackName": "Lincoln Continentals And Cadillacs",
+      "trackId": "2cRC9ZQJ2CtzF9t7BAQ5Es",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/be72b2d1f0d743ccafa22e93411b872206e72f71",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Lionel Richie",
+      "featuredArtistId": "3gMaNLQm7D9MornNILzdSl",
+      "trackName": "Sail On",
+      "trackId": "2rTZ1vzozwF7rxGRxo8wXK",
+      "preview": "https://p.scdn.co/mp3-preview/7ffad393596780d738fff5f388fc7f62e9392973?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba713a2a17b24f7710037979727b1bb29e553ec4",
+      "release_date": "2013-01-22"
+    },
+    {
+      "featuredArtist": "Colt Ford",
+      "featuredArtistId": "0OpWIlokQeE7BNQMhuu2Nx",
+      "trackName": "Twisted",
+      "trackId": "41MNoYR0eiXZncs8B3ftcI",
+      "preview": "https://p.scdn.co/mp3-preview/5982ad8d35d42562287cf77ae86961af51c1d3d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba713a2a17b24f7710037979727b1bb29e553ec4",
+      "release_date": "2013-01-22"
+    },
+    {
+      "featuredArtist": "Kenny Rogers",
+      "featuredArtistId": "4tw2Lmn9tTPUv7Gy7mVPI4",
+      "trackName": "Owe Them More Than That",
+      "trackId": "6PyxIX5KDouqkFkeBcwTGY",
+      "preview": "https://p.scdn.co/mp3-preview/28139181bb9b6b905ae79c471688b4e2ec0e82fe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba713a2a17b24f7710037979727b1bb29e553ec4",
+      "release_date": "2013-01-22"
+    },
+    {
+      "featuredArtist": "Gwyneth Paltrow",
+      "featuredArtistId": "4njFVSUWyxD84ur7w8Oy7h",
+      "trackName": "Me And Tennessee - from the motion picture Country Strong",
+      "trackId": "67AOYVNOgMC7kJHCxwkGWN",
+      "preview": "https://p.scdn.co/mp3-preview/f7bf5d6137f90826ce7f7c8a8b77a926506eba3f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba713a2a17b24f7710037979727b1bb29e553ec4",
+      "release_date": "2013-01-22"
+    },
+    {
+      "featuredArtist": "Jerry Lee Lewis",
+      "featuredArtistId": "2zyz0VJqrDXeFDIyrfVXSo",
+      "trackName": "Middle Age Crazy",
+      "trackId": "4N63PMuYDQsmH70vlzr4l7",
+      "preview": "https://p.scdn.co/mp3-preview/eb8a60dc3af9ce194ac241a3d8dc070a6d10cbe6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba713a2a17b24f7710037979727b1bb29e553ec4",
+      "release_date": "2013-01-22"
+    },
+    {
+      "featuredArtist": "Jon Brion",
+      "featuredArtistId": "57YJQe0ayvIaRZJ3PW5nFP",
+      "trackName": "Middle Age Crazy",
+      "trackId": "4N63PMuYDQsmH70vlzr4l7",
+      "preview": "https://p.scdn.co/mp3-preview/eb8a60dc3af9ce194ac241a3d8dc070a6d10cbe6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba713a2a17b24f7710037979727b1bb29e553ec4",
+      "release_date": "2013-01-22"
+    },
+    {
+      "featuredArtist": "Randy Travis",
+      "featuredArtistId": "1pTuR132U5b4Rizal2Pr7m",
+      "trackName": "Can't Hurt A Man",
+      "trackId": "7a2PrxLBAFpuA0BwCgcvcn",
+      "preview": "https://p.scdn.co/mp3-preview/82701b04d00cbce98c6d0b60aacf263128fb4ec7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba713a2a17b24f7710037979727b1bb29e553ec4",
+      "release_date": "2013-01-22"
+    },
+    {
+      "featuredArtist": "Tracy Lawrence",
+      "featuredArtistId": "2BQVRw9md4UKcGUrDXABCD",
+      "trackName": "Find Out Who Your Friends Are",
+      "trackId": "6QGdBagG1jUBapYN4xEfQa",
+      "preview": "https://p.scdn.co/mp3-preview/19b7bfca002787fa0d5a680f9f45354290a35537?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba713a2a17b24f7710037979727b1bb29e553ec4",
+      "release_date": "2013-01-22"
+    },
+    {
+      "featuredArtist": "Tony Bennett",
+      "featuredArtistId": "2lolQgalUvZDfp5vvVtTYV",
+      "trackName": "Cold, Cold Heart",
+      "trackId": "6JUpu7d6fGQFSrzxY4sSAn",
+      "preview": "https://p.scdn.co/mp3-preview/d644e987d23cf16467fd5d54e350a283e440ca3b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba713a2a17b24f7710037979727b1bb29e553ec4",
+      "release_date": "2013-01-22"
+    },
+    {
+      "featuredArtist": "Ray Benson",
+      "featuredArtistId": "2G6E8Q9UTzDIhoawhJm33M",
+      "trackName": "Milk Cow Blues",
+      "trackId": "0DHvyIg1xiFobAnEwi0zH8",
+      "preview": "https://p.scdn.co/mp3-preview/3662ff24d0d1f7d0554cab34b6e9686476fd8823?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba713a2a17b24f7710037979727b1bb29e553ec4",
+      "release_date": "2013-01-22"
+    },
+    {
+      "featuredArtist": "Jo Dee Messina",
+      "featuredArtistId": "3ltFy7g6KKQPPttsdOMlq3",
+      "trackName": "Bring On The Rain",
+      "trackId": "3xmOUReViSaxABqQQFs07c",
+      "preview": "https://p.scdn.co/mp3-preview/7f12041d5989cfe4bab64f9071fc21acb925f308?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba713a2a17b24f7710037979727b1bb29e553ec4",
+      "release_date": "2013-01-22"
+    },
+    {
+      "featuredArtist": "Taylor Swift",
+      "featuredArtistId": "06HL4z0CvFAxyc27GXpf02",
+      "trackName": "Highway Don't Care",
+      "trackId": "3tQWYZLkAsmFwVE2x5erYQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/152d1969f3fed0dd1f50bbce6818718ee7b2778a",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Keith Urban",
+      "featuredArtistId": "0u2FHSq3ln94y5Q57xazwf",
+      "trackName": "Highway Don't Care",
+      "trackId": "3tQWYZLkAsmFwVE2x5erYQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/152d1969f3fed0dd1f50bbce6818718ee7b2778a",
+      "release_date": "2013-01-01"
+    }
+  ]
+}

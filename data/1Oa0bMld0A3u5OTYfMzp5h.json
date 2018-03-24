@@ -1,0 +1,491 @@
+{
+  "artistName": "Nate Dogg",
+  "features": [
+    {
+      "featuredArtist": "Danny \"Butch\" Means",
+      "featuredArtistId": "1NHbYMke9B72UlF8fBMYuu",
+      "trackName": "I Don't Wanna Hurt No More",
+      "trackId": "1hnoefPhCJ1YhommKA1J8j",
+      "preview": "https://p.scdn.co/mp3-preview/9441fed1b34d48a7b4878186e1bedb1a511ad939?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b6ed1fe40adb17688ac96e138a913e839aaa13fd",
+      "release_date": "2015-05-12"
+    },
+    {
+      "featuredArtist": "Barbara Wilson",
+      "featuredArtistId": "2NB2sCxHR9mjCqSr2L18Fn",
+      "trackName": "She's Strange",
+      "trackId": "77pEpRweGRFC4rv4Ga1JcH",
+      "preview": "https://p.scdn.co/mp3-preview/037f336776f465283ffef080236d0d9c2ab72461?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b6ed1fe40adb17688ac96e138a913e839aaa13fd",
+      "release_date": "2015-05-12"
+    },
+    {
+      "featuredArtist": "Warren G",
+      "featuredArtistId": "2B4ZHz4QDWJTXPFPgO5peE",
+      "trackName": "Friends",
+      "trackId": "08MlAkPAOrOJd1YCpPtYrg",
+      "preview": "https://p.scdn.co/mp3-preview/310c1f3d6a1b65bf1098c5ea21bd4944c2d7c662?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b6ed1fe40adb17688ac96e138a913e839aaa13fd",
+      "release_date": "2015-05-12"
+    },
+    {
+      "featuredArtist": "Snoop Dogg",
+      "featuredArtistId": "7hJcb9fa4alzcOq3EaNPoG",
+      "trackName": "Friends",
+      "trackId": "08MlAkPAOrOJd1YCpPtYrg",
+      "preview": "https://p.scdn.co/mp3-preview/310c1f3d6a1b65bf1098c5ea21bd4944c2d7c662?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b6ed1fe40adb17688ac96e138a913e839aaa13fd",
+      "release_date": "2015-05-12"
+    },
+    {
+      "featuredArtist": "Kurupt",
+      "featuredArtistId": "6NyJIFHAePjHR1pFxwisqz",
+      "trackName": "Puppy Love",
+      "trackId": "3tUXcd28JmvzOqYLH8wjxj",
+      "preview": "https://p.scdn.co/mp3-preview/787f93b21560aa95ef46792b320be7c02d6e0d65?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b6ed1fe40adb17688ac96e138a913e839aaa13fd",
+      "release_date": "2015-05-12"
+    },
+    {
+      "featuredArtist": "Daz Dillinger",
+      "featuredArtistId": "5Jz9kKRnCRLTodCH58MyB4",
+      "trackName": "Puppy Love",
+      "trackId": "3tUXcd28JmvzOqYLH8wjxj",
+      "preview": "https://p.scdn.co/mp3-preview/787f93b21560aa95ef46792b320be7c02d6e0d65?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b6ed1fe40adb17688ac96e138a913e839aaa13fd",
+      "release_date": "2015-05-12"
+    },
+    {
+      "featuredArtist": "Isaac Reese",
+      "featuredArtistId": "1EVT3YkI9eaeDMavrcw8SP",
+      "trackName": "It's Goin' Down Tonight",
+      "trackId": "7uDbFXTY0dK7svIliwqeUQ",
+      "preview": "https://p.scdn.co/mp3-preview/a8b387cbd41511390dc17311e0e400ca4a7767a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b6ed1fe40adb17688ac96e138a913e839aaa13fd",
+      "release_date": "2015-05-12"
+    },
+    {
+      "featuredArtist": "Big Syke",
+      "featuredArtistId": "5J32qSlWzKCdcL31B8wglv",
+      "trackName": "Sexy Girl",
+      "trackId": "4Jja9hUVZiJSbWQ9PCipo6",
+      "preview": "https://p.scdn.co/mp3-preview/cb035024de4a83978baff4bdce494d423c4b5f7e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b6ed1fe40adb17688ac96e138a913e839aaa13fd",
+      "release_date": "2015-05-12"
+    },
+    {
+      "featuredArtist": "Tray Deee",
+      "featuredArtistId": "3tyvvVc2grQoy0W8cPqsb2",
+      "trackName": "Bag O' Weed",
+      "trackId": "3Wdbnp0SPOj4IkFYZ90zmy",
+      "preview": "https://p.scdn.co/mp3-preview/41c4290f6735f94ff25bf57536a9f0ad91823246?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ae63869f698e3b6c930e8ef83cc07dd54cc3efeb",
+      "release_date": "2015-05-05"
+    },
+    {
+      "featuredArtist": "Big Chuck",
+      "featuredArtistId": "5aIRKIhi6HchDy1dcisQIp",
+      "trackName": "Dirty Hoe's Drawers",
+      "trackId": "1WpmidzC0I8vaochJNsXM4",
+      "preview": "https://p.scdn.co/mp3-preview/916b5f070186510a48815555176c6be9aef84dd7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ae63869f698e3b6c930e8ef83cc07dd54cc3efeb",
+      "release_date": "2015-05-05"
+    },
+    {
+      "featuredArtist": "2Pac",
+      "featuredArtistId": "1ZwdS5xdxEREPySFridCfh",
+      "trackName": "Me and My Homies",
+      "trackId": "6wqsSAnC8gkV3vBB6rcbvn",
+      "preview": "https://p.scdn.co/mp3-preview/4daa3a6e065360ef2f935523701845d04c454ce2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ae63869f698e3b6c930e8ef83cc07dd54cc3efeb",
+      "release_date": "2015-05-05"
+    },
+    {
+      "featuredArtist": "Pamela Hale",
+      "featuredArtistId": "1GKniECmxXNv7XxWis7DWB",
+      "trackName": "Where Are You Going?",
+      "trackId": "7okWly6t2CPP1kpGk8TxBS",
+      "preview": "https://p.scdn.co/mp3-preview/14cb3ad31d9b0e132da85b6768b167b8bcaa1d83?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ae63869f698e3b6c930e8ef83cc07dd54cc3efeb",
+      "release_date": "2015-05-05"
+    },
+    {
+      "featuredArtist": "J. Period",
+      "featuredArtistId": "1MGyQRNDBHqVYkW1nNKRBv",
+      "trackName": "Last Prayer (Intro)",
+      "trackId": "5dbZgLL0zQsvHfOHO1w8dO",
+      "preview": "https://p.scdn.co/mp3-preview/f91c4888df250a2100072a1013bd4e6acf20f250?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "Fabolous",
+      "featuredArtistId": "0YWxKQj2Go9CGHCp77UOyy",
+      "trackName": "Can’t Deny It (feat. Fabolous)",
+      "trackId": "1pcO27Hw6BbUxpRCFxbeMB",
+      "preview": "https://p.scdn.co/mp3-preview/ce06a077d8f72ae0c7890f95c5ea4bb69aefa617?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "Devin The Dude",
+      "featuredArtistId": "0OMJR0LjjKv21qNvICTgbi",
+      "trackName": "Xxplosive (feat. Devin the Dude)",
+      "trackId": "7otVwFQvUcAPvBy6omQzSv",
+      "preview": "https://p.scdn.co/mp3-preview/69bf104cf7b039dda1be7b0dc33aebc812fe155a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "Xzibit",
+      "featuredArtistId": "4tujQJicOnuZRLiBFdp3Ou",
+      "trackName": "B*tch Please (feat. Xzibit & Snoop Dogg)",
+      "trackId": "0VjOHySu7lfHTk2aUVstLn",
+      "preview": "https://p.scdn.co/mp3-preview/1123c6e4447b74b374318f8082a6a603205a88b9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "Dre",
+      "featuredArtistId": "3JRLFRAE6bDodbmvzgY2cH",
+      "trackName": "B*tch Please (PT. 2)",
+      "trackId": "41Nz6Q3ajHqYsufku18Lx1",
+      "preview": "https://p.scdn.co/mp3-preview/8ff447596c886e4b2f72e9703bfb72f90bc9c742?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "Snoop",
+      "featuredArtistId": "0dCxhjMDmekt7b66ElLi6I",
+      "trackName": "B*tch Please (PT. 2)",
+      "trackId": "41Nz6Q3ajHqYsufku18Lx1",
+      "preview": "https://p.scdn.co/mp3-preview/8ff447596c886e4b2f72e9703bfb72f90bc9c742?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "Eminem",
+      "featuredArtistId": "7dGJo4pcD2V6oG8kP0tJRR",
+      "trackName": "B*tch Please (PT. 2)",
+      "trackId": "41Nz6Q3ajHqYsufku18Lx1",
+      "preview": "https://p.scdn.co/mp3-preview/8ff447596c886e4b2f72e9703bfb72f90bc9c742?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "Redman",
+      "featuredArtistId": "7xTKLpo7UCzXSnlH7fOIoM",
+      "trackName": "The Set Up (Remix)",
+      "trackId": "565Qtc38H8ftpOL0COxd5m",
+      "preview": "https://p.scdn.co/mp3-preview/e26b19671c1e3ae05c4ac874bb9cf78e6ad5847f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "Jadakiss",
+      "featuredArtistId": "5pnbUBPifNnlusY8kTBivi",
+      "trackName": "Time’s Up (J.Period Re-Edit)",
+      "trackId": "4ui2PaQ7k58uyKjuXRvxRX",
+      "preview": "https://p.scdn.co/mp3-preview/c2b24fb56981c5758cddaf1fc4947293ebd94274?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "WC",
+      "featuredArtistId": "3NgwMzys77S7sgfh2W5k0V",
+      "trackName": "The Streets (feat. WC & Snoop Dogg)",
+      "trackId": "7DDWv598K159M7oXfOZWnz",
+      "preview": "https://p.scdn.co/mp3-preview/9cd51af473d6fc2f84ba3624aa305c0804c5cc2e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "Ice Cube",
+      "featuredArtistId": "3Mcii5XWf6E0lrY3Uky4cA",
+      "trackName": "Gangsta Nation (feat. Ice Cube)",
+      "trackId": "1OYVh45hsPYH6NsfKK247i",
+      "preview": "https://p.scdn.co/mp3-preview/0e238aeb6e34f24578c902bc43385b7d5f771b34?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "21/3",
+      "featuredArtistId": "0MHoCWZN5xpVFzRC45QbsW",
+      "trackName": "Game Don’t Wait (Remix)",
+      "trackId": "7ggtTjXfeDr2b3uxZKBgMp",
+      "preview": "https://p.scdn.co/mp3-preview/a9bde4cea775e38b5301bea1f003183a9b077358?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "The Firm",
+      "featuredArtistId": "2v9oaQ9UhtuTPMyOUlx4oL",
+      "trackName": "Kush (J.Period Remix)",
+      "trackId": "3OknBhKIni8usTb7w0QqOT",
+      "preview": "https://p.scdn.co/mp3-preview/4bf9361e99a412b2fe1660831d35d9a33e85007a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "Nas",
+      "featuredArtistId": "20qISvAhX20dpIbOOzGK3q",
+      "trackName": "Good Life (feat. Nas)",
+      "trackId": "73rghL6QVsQTvbXajkxoRd",
+      "preview": "https://p.scdn.co/mp3-preview/8d43438408c1a38239afff2b308ebae943ec490b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "Mos Def",
+      "featuredArtistId": "0Mz5XE0kb1GBnbLQm2VbcO",
+      "trackName": "Oh No (feat. Mos Def & Pharoahe Monch)",
+      "trackId": "00J4DmF13ppCBIq89cVbAE",
+      "preview": "https://p.scdn.co/mp3-preview/68b206aea206c603465d2d8bb525b840baeceba7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "Pharoahe Monch",
+      "featuredArtistId": "5DKuVtlpDH0agZQUFDy8O7",
+      "trackName": "Oh No (feat. Mos Def & Pharoahe Monch)",
+      "trackId": "00J4DmF13ppCBIq89cVbAE",
+      "preview": "https://p.scdn.co/mp3-preview/68b206aea206c603465d2d8bb525b840baeceba7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "B.I.G.",
+      "featuredArtistId": "6gHyYB83BQlGKpqbn57D8R",
+      "trackName": "Ain’t No Chance (J.Period Remix)",
+      "trackId": "2bnsld6mQ2QagS5OrtMSiv",
+      "preview": "https://p.scdn.co/mp3-preview/1aeed7ffbe56b4b7d8f50805bfc33702d7ca955c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "Ludacris",
+      "featuredArtistId": "3ipn9JLAPI5GUEo4y4jcoi",
+      "trackName": "Area Codes (feat. Ludacris)",
+      "trackId": "6ufBf4Z5UzHT6VbUxvBiOM",
+      "preview": "https://p.scdn.co/mp3-preview/e44d5e5574b44d8aa304d3b297e7513276b100b4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "Ghostface",
+      "featuredArtistId": "3t5QLYg3fqvohxXt7q1niX",
+      "trackName": "Ooh Wee (feat. Ghostface)",
+      "trackId": "0eCZ7EzNqOz4WU3gcqqNlG",
+      "preview": "https://p.scdn.co/mp3-preview/f1bb2c931a1c9404f56d7eaff0165acc0db30e7a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "50 Cent",
+      "featuredArtistId": "3q7HBObVc0L8jNeTe5Gofh",
+      "trackName": "21 Questions (feat. 50 Cent)",
+      "trackId": "1hjamhsBsOI2BvXEXJ8Fkp",
+      "preview": "https://p.scdn.co/mp3-preview/9a4424a3d80494fa7533fa9570b71e9449fde996?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c27f1884506db38dc25bee5241d798788edde9e6",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "Kurupt The Kingpin",
+      "featuredArtistId": "6Nv8DJgV1BK0qaB09r8RxU",
+      "trackName": "Puppy Love",
+      "trackId": "6oBtPaP8bXX22cFfbrJFPc",
+      "preview": "https://p.scdn.co/mp3-preview/e4608f460d5292317a8fea6f471c6d5a7550d7a7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6578e5c77dbb2cd7d314d2a6b6455281c7ee2fdc",
+      "release_date": "2014-11-06"
+    },
+    {
+      "featuredArtist": "Danny 'Butch' Means",
+      "featuredArtistId": "5Qco7g5ss3cl1oxWLMMzPK",
+      "trackName": "It's Going Down Tonight",
+      "trackId": "1LApdq8R8V0t9CNdBh2vKf",
+      "preview": "https://p.scdn.co/mp3-preview/e71b4f362c2d6e8227e7204e1a9a284e3855ed29?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6578e5c77dbb2cd7d314d2a6b6455281c7ee2fdc",
+      "release_date": "2014-11-06"
+    },
+    {
+      "featuredArtist": "Tray Dee",
+      "featuredArtistId": "0bqBpcIABLyrGD6e6llQ1S",
+      "trackName": "Bag o'weed",
+      "trackId": "78nLfjaBPL04nFSnAgr1h1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ff6cf5755a344703cea05a733153610cd5afa0ae",
+      "release_date": "2001-12-10"
+    },
+    {
+      "featuredArtist": "Lil' Mo",
+      "featuredArtistId": "5wBDD4FNJvob5fAGkAIQ92",
+      "trackName": "Keep It G.A.N.G.S.T.A. (feat. Lil' Mo & Xzibit)",
+      "trackId": "6iH9WMCrhLOTfR7RNIE4Rh",
+      "preview": "https://p.scdn.co/mp3-preview/47b2846c3b10bdf97de835c4570e48164a6e47b0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41486161f0201baa08dac019b9adb1bc49fdfc32",
+      "release_date": "2001-12-04"
+    },
+    {
+      "featuredArtist": "Jermaine Dupri",
+      "featuredArtistId": "6nfYGe7IIuuP5bMY1jkJP6",
+      "trackName": "Your Woman Has Just Been Sighted (Ring The Alarm) [feat. Jermaine Dupri]",
+      "trackId": "1e2iPshSdRSBl7DokG94ZB",
+      "preview": "https://p.scdn.co/mp3-preview/9940248b10b49ddc0faeb3437d040177618e4f6c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41486161f0201baa08dac019b9adb1bc49fdfc32",
+      "release_date": "2001-12-04"
+    },
+    {
+      "featuredArtist": "Dr. Dre",
+      "featuredArtistId": "6DPYiyq5kWVQS4RGwxzPC7",
+      "trackName": "Your Wife (feat. Dr. Dre)",
+      "trackId": "10C83Ul1IxCyuoJRWtx5GN",
+      "preview": "https://p.scdn.co/mp3-preview/d006b8f80ea82d01321eb03ff15bb08959bf9cf0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41486161f0201baa08dac019b9adb1bc49fdfc32",
+      "release_date": "2001-12-04"
+    },
+    {
+      "featuredArtist": "Tha Eastsidaz",
+      "featuredArtistId": "51FyBBOW464toW099BsW8z",
+      "trackName": "Ditty Dum Ditty Doo (feat. Snoop Dogg & Tha Eastzidaz)",
+      "trackId": "67SnNGW8kH366XFFk7NmBj",
+      "preview": "https://p.scdn.co/mp3-preview/3cb9004e9815133482e99567118bf61198872b40?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41486161f0201baa08dac019b9adb1bc49fdfc32",
+      "release_date": "2001-12-04"
+    },
+    {
+      "featuredArtist": "B.R.E.T.T.",
+      "featuredArtistId": "3PFEGFjXbOSd6IWg4k7N22",
+      "trackName": "I Got Love (feat. Fabolous, B.R.E.T.T., Kurupt) - Remix",
+      "trackId": "0y4ylJfUqEp13AbnrFOhnx",
+      "preview": "https://p.scdn.co/mp3-preview/8b097d010f35c7b9d58e9da53ad83166b9375190?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41486161f0201baa08dac019b9adb1bc49fdfc32",
+      "release_date": "2001-12-04"
+    },
+    {
+      "featuredArtist": "Nancy Fletcher",
+      "featuredArtistId": "3E2vuvr0IQbReTbXw2MhX8",
+      "trackName": "G Funk",
+      "trackId": "0rNqUrYiOu4tuEMdNgpqTO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0b988cf35036b8f4cced3bcea663424811a0f1f9",
+      "release_date": "1998"
+    },
+    {
+      "featuredArtist": "Six Feet Deep",
+      "featuredArtistId": "3bTk9IFhMi4cMnbJ23ZZlI",
+      "trackName": "Crazy, Dangerous",
+      "trackId": "3t9aezdX0DjT5D3JonpCFT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0b988cf35036b8f4cced3bcea663424811a0f1f9",
+      "release_date": "1998"
+    },
+    {
+      "featuredArtist": "Fuskee",
+      "featuredArtistId": "60sNypohR2YaOTG8aatG2R",
+      "trackName": "These Days",
+      "trackId": "7yJZO5U57LEDNoW1QD5PC8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0b988cf35036b8f4cced3bcea663424811a0f1f9",
+      "release_date": "1998"
+    },
+    {
+      "featuredArtist": "Salim",
+      "featuredArtistId": "6A2nBPRqCpGk3yS6jOHDWf",
+      "trackName": "Dirty Hoe's Draws",
+      "trackId": "427fOio9hkcE8dJX9QRDnP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0b988cf35036b8f4cced3bcea663424811a0f1f9",
+      "release_date": "1998"
+    },
+    {
+      "featuredArtist": "Val Young",
+      "featuredArtistId": "1XOCjhHRAcUejG6Mkm4RFQ",
+      "trackName": "Dirty Hoe's Draws",
+      "trackId": "427fOio9hkcE8dJX9QRDnP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0b988cf35036b8f4cced3bcea663424811a0f1f9",
+      "release_date": "1998"
+    },
+    {
+      "featuredArtist": "L.T. Hutton",
+      "featuredArtistId": "1zLoWg3N8PkreCOYchJM8g",
+      "trackName": "Dirty Hoe's Draws",
+      "trackId": "427fOio9hkcE8dJX9QRDnP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0b988cf35036b8f4cced3bcea663424811a0f1f9",
+      "release_date": "1998"
+    },
+    {
+      "featuredArtist": "Butch Cassidy",
+      "featuredArtistId": "3uISNNuONokIh21KiNharS",
+      "trackName": "Scared of Love",
+      "trackId": "6zEOX18DAV0P5VawUwz3Ix",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0b988cf35036b8f4cced3bcea663424811a0f1f9",
+      "release_date": "1998"
+    },
+    {
+      "featuredArtist": "The Lady Of Rage",
+      "featuredArtistId": "5CxwOBCoGSvWxfDgNoa1Nv",
+      "trackName": "My Money",
+      "trackId": "1Mdr3cfSWhohROIDWFHZKX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0b988cf35036b8f4cced3bcea663424811a0f1f9",
+      "release_date": "1998"
+    },
+    {
+      "featuredArtist": "Nancy Hale",
+      "featuredArtistId": "4KcR1TtS6bZbsuESNYegoV",
+      "trackName": "Where Are You Going?",
+      "trackId": "1hmOunNbWwXeDq2tklua1W",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0b988cf35036b8f4cced3bcea663424811a0f1f9",
+      "release_date": "1998"
+    },
+    {
+      "featuredArtist": "Lil Nate Dogg",
+      "featuredArtistId": "5bkuye81T17KQ3ZR1sEEVg",
+      "trackName": "Get Away (feat. Pomona Pimpin Young)",
+      "trackId": "0MeuEfnPDnqUsB1ZCWvXfX",
+      "preview": "https://p.scdn.co/mp3-preview/429e23311cc814c9551a7c64e13a3b1686d056d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0e3288fb746540f3083a25685653e257961b30c0",
+      "release_date": "2017-12-22"
+    },
+    {
+      "featuredArtist": "Pomona Pimpin Young",
+      "featuredArtistId": "60lkt4dz9hASnKw1ijNTgR",
+      "trackName": "Get Away (feat. Pomona Pimpin Young)",
+      "trackId": "0MeuEfnPDnqUsB1ZCWvXfX",
+      "preview": "https://p.scdn.co/mp3-preview/429e23311cc814c9551a7c64e13a3b1686d056d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0e3288fb746540f3083a25685653e257961b30c0",
+      "release_date": "2017-12-22"
+    },
+    {
+      "featuredArtist": "Mister D",
+      "featuredArtistId": "1Yg9lgBUJBpWJc2jcfrVra",
+      "trackName": "Should Of Been Mine",
+      "trackId": "10vYZNXjqD6ohdBrDujS7A",
+      "preview": "https://p.scdn.co/mp3-preview/6e53ba6bb7793ffc77b4a61d7d03a8685dee48b6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d7187a29d976a9004057adf4c224af5cb5589b5f",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Sleepy Malo",
+      "featuredArtistId": "1JHdMI7wMEirtNqMaSazJ5",
+      "trackName": "Should Of Been Mine",
+      "trackId": "10vYZNXjqD6ohdBrDujS7A",
+      "preview": "https://p.scdn.co/mp3-preview/6e53ba6bb7793ffc77b4a61d7d03a8685dee48b6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d7187a29d976a9004057adf4c224af5cb5589b5f",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Roscoe",
+      "featuredArtistId": "5xFFhK1VYJZ4P6xetMYDWN",
+      "trackName": "Girls All Pause",
+      "trackId": "6uTJUuzo1LscubMreTRedI",
+      "preview": "https://p.scdn.co/mp3-preview/e232bce21fb4d8a7b4396d5ba0c5b7dc8a74ed57?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/256dbfa2e019f6079a0b808fc0531d4e2f3f05e0",
+      "release_date": "1999"
+    }
+  ]
+}

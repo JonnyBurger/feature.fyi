@@ -1,0 +1,41 @@
+{
+  "artistName": "P!nk",
+  "features": [
+    {
+      "featuredArtist": "Eminem",
+      "featuredArtistId": "7dGJo4pcD2V6oG8kP0tJRR",
+      "trackName": "Revenge",
+      "trackId": "3OEer2dQj1eWhSqxatGiru",
+      "preview": "https://p.scdn.co/mp3-preview/b7895958fbbcfcf68a8ce6e4b92159a9f8ee56ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8b5da3836c506525367980ed412451ec08feef68",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Nate Ruess",
+      "featuredArtistId": "1qUjOF5fzrpoNycD36b2jZ",
+      "trackName": "Just Give Me a Reason",
+      "trackId": "0DfSwM9GcC5lALmcFWjUBd",
+      "preview": "https://p.scdn.co/mp3-preview/47a17834223b2b789dd7241c42fc4e5779408ef9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3db4a3ef77a449abe5797ce25382245e96f25809",
+      "release_date": "2012-09-17"
+    },
+    {
+      "featuredArtist": "Lily Allen",
+      "featuredArtistId": "13saZpZnCDWOI9D4IJhp1f",
+      "trackName": "True Love",
+      "trackId": "1faAgK3xHVOUOBQExRwjbk",
+      "preview": "https://p.scdn.co/mp3-preview/d21c0c0ff553147fe499e581faf9703fe5de2cc8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3db4a3ef77a449abe5797ce25382245e96f25809",
+      "release_date": "2012-09-17"
+    },
+    {
+      "featuredArtist": "Indigo Girls",
+      "featuredArtistId": "4wM29TDTr3HI0qFY3KoSFG",
+      "trackName": "Dear Mr. President",
+      "trackId": "0Je5N8cKq5Cyrtr7A0jvBM",
+      "preview": "https://p.scdn.co/mp3-preview/af9aa5aabdafda0b0aa7764d36b9b5a2b055dfeb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/27d820eb88b4f33ede50ba81a56303da03870221",
+      "release_date": "2006-04-03"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "artistName": "Childish Gambino",
+  "features": [
+    {
+      "featuredArtist": "Christian Rich",
+      "featuredArtistId": "24BgMk7tQ7qZQsCXouKUCM",
+      "trackName": "The Palisades",
+      "trackId": "5D75FuywOiKjfmpmmobk8v",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ff18feb57782da013b3f21106c26d7f8f18b6d42",
+      "release_date": "2014-10-03"
+    },
+    {
+      "featuredArtist": "Steve G. Lover III",
+      "featuredArtistId": "7lkNv4c37Rh6WU6AZSe87g",
+      "trackName": "Poke",
+      "trackId": "2GSADrKbGB0nt0MRoCHVUH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ff18feb57782da013b3f21106c26d7f8f18b6d42",
+      "release_date": "2014-10-03"
+    },
+    {
+      "featuredArtist": "Jaden Smith",
+      "featuredArtistId": "0xOeVMOz2fVg5BJY3N6akT",
+      "trackName": "Late Night In Kauai",
+      "trackId": "0SSOFkCFU4SJ82VDJwRTxm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ff18feb57782da013b3f21106c26d7f8f18b6d42",
+      "release_date": "2014-10-03"
+    },
+    {
+      "featuredArtist": "Christian Rich",
+      "featuredArtistId": "7cAlvWK5rgMmJ37j7woN8l",
+      "trackName": "The Palisades",
+      "trackId": "1Xi28qSSoARTXiqMwb8Srg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/806c4d6630596a92464cba1f19f4668baa2935a3",
+      "release_date": "2014-10-03"
+    },
+    {
+      "featuredArtist": "Steve Glover",
+      "featuredArtistId": "7IBnZdHfB1rZLW42DnFqCs",
+      "trackName": "Poke",
+      "trackId": "5W9P1kTtJmkxJnVQWjr6Xc",
+      "preview": "https://p.scdn.co/mp3-preview/891e80420c779465a07597354ecbc7635fcb98c9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/120ab7437c42537257ef0b39e5c5875e53e434e3",
+      "release_date": "2014-10-03"
+    },
+    {
+      "featuredArtist": "Chance The Rapper",
+      "featuredArtistId": "1anyVhU62p31KFi8MEzkbf",
+      "trackName": "I. The Worst Guys",
+      "trackId": "464V1P4EY1xgbJn3bu1TOu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c83218edbd67e80799b65c1146938b517edba92f",
+      "release_date": "2013-12-10"
+    },
+    {
+      "featuredArtist": "Jhene Aiko",
+      "featuredArtistId": "5ZS223C6JyBfXasXxrRqOk",
+      "trackName": "I. Pink Toes",
+      "trackId": "1qvNv3aQhuwNoT2zsQ9i8E",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c83218edbd67e80799b65c1146938b517edba92f",
+      "release_date": "2013-12-10"
+    },
+    {
+      "featuredArtist": "Azealia Banks",
+      "featuredArtistId": "7gRhy3MIPHQo5CXYfWaw9I",
+      "trackName": "II. Earth: The Oldest Computer (The Last Night)",
+      "trackId": "2b634X8sUON5D6k2PTXjwf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c83218edbd67e80799b65c1146938b517edba92f",
+      "release_date": "2013-12-10"
+    },
+    {
+      "featuredArtist": "Donald Glover",
+      "featuredArtistId": "7tlzFDl81KD9RL045ewyIA",
+      "trackName": "III. life: the biggest troll [andrew auernheimer]",
+      "trackId": "4xsAbHRwDlPgorb5GLW2o6",
+      "preview": "https://p.scdn.co/mp3-preview/bad74e160986adec9b5b967c628fce799e73cf46?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e09feea143691b9b6b4e821377a8a4c6d474d539",
+      "release_date": "2013-12-10"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "artistName": "Robbie Williams",
+  "features": [
+    {
+      "featuredArtist": "Big Narstie",
+      "featuredArtistId": "4ITNzglfuGtfHgDu29GIMW",
+      "trackName": "Go Mental (feat. Big Narstie & The Atlantic Horns)",
+      "trackId": "6440BshmB4F1X9AzzBVw65",
+      "preview": "https://p.scdn.co/mp3-preview/df0fec1ea5493ae923a65b840dd7915a7dee7a06?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b320c0cdbc52c66be8a5b537ab7f8a0af3ad227",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Atlantic Horns",
+      "featuredArtistId": "5XcBG8nVRktMCnB3E6DhZQ",
+      "trackName": "Go Mental (feat. Big Narstie & The Atlantic Horns)",
+      "trackId": "6440BshmB4F1X9AzzBVw65",
+      "preview": "https://p.scdn.co/mp3-preview/df0fec1ea5493ae923a65b840dd7915a7dee7a06?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b320c0cdbc52c66be8a5b537ab7f8a0af3ad227",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Rufus Wainwright",
+      "featuredArtistId": "2PfBzriIMRsCXPDtSy9vg8",
+      "trackName": "Hotel Crazy",
+      "trackId": "61md9TGSi0KOczRwZbAgsR",
+      "preview": "https://p.scdn.co/mp3-preview/1806111167729f1d78fdb112c61bf95f21a2edd6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f136c3c178d01a1b22f7d5c9e46d56893f27b078",
+      "release_date": "2016-11-04"
+    },
+    {
+      "featuredArtist": "John Grant",
+      "featuredArtistId": "3TScZ6zJkavDy0tqoGqiCf",
+      "trackName": "I Don't Want to Hurt You",
+      "trackId": "3MGIDbd1efwsLXoT8aNX0A",
+      "preview": "https://p.scdn.co/mp3-preview/35ae07d7bae97aabace1cf4a168d79bb5f0d2474?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f136c3c178d01a1b22f7d5c9e46d56893f27b078",
+      "release_date": "2016-11-04"
+    },
+    {
+      "featuredArtist": "Olly Murs",
+      "featuredArtistId": "3whuHq0yGx60atvA2RCVRW",
+      "trackName": "I Wan'na Be Like You",
+      "trackId": "5NwgCjCw74GaonQeZnqT0x",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f538b6fa59d0ea06e2e7fa4f465047dd17caf5a9",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Lily Allen",
+      "featuredArtistId": "13saZpZnCDWOI9D4IJhp1f",
+      "trackName": "Dream A Little Dream",
+      "trackId": "2foI6dVPMRC7B3qwjca19u",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f538b6fa59d0ea06e2e7fa4f465047dd17caf5a9",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Michael Bublé",
+      "featuredArtistId": "1GxkXlMwML1oSg5eLPiAz3",
+      "trackName": "Soda Pop",
+      "trackId": "2Fv2WkDIyKJnuWAzbnUgzy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f538b6fa59d0ea06e2e7fa4f465047dd17caf5a9",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Kelly Clarkson",
+      "featuredArtistId": "3BmGtnKgCSGYIUhmivXKWX",
+      "trackName": "Little Green Apples",
+      "trackId": "2WgOdUuxAsysUDq6lUPCQY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f538b6fa59d0ea06e2e7fa4f465047dd17caf5a9",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Lissie",
+      "featuredArtistId": "3j4FHbC5zwmYGJ7r0ZgaMt",
+      "trackName": "Losers (feat. Lissie)",
+      "trackId": "7M60CPDezWJ3XIVP8yDRKV",
+      "preview": "https://p.scdn.co/mp3-preview/dba2b36f65e1f4d9fb196693f66d164539ee291b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/314464e8f56ae14ef89ae96d3822988537575b0b",
+      "release_date": "2012-11-05"
+    },
+    {
+      "featuredArtist": "Rupert Everett",
+      "featuredArtistId": "6Vrcshz5OXCwHyUBigJLOC",
+      "trackName": "They Can't Take That Away From Me",
+      "trackId": "7HYxvP1EgIcYt3SThlGzOy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b801868c5e4518f5e940823d9985516b14f85383",
+      "release_date": "2001"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "artistName": "Selena Gomez",
+  "features": [
+    {
+      "featuredArtist": "A$AP Rocky",
+      "featuredArtistId": "13ubrt8QOOCPljQ2FL1Kca",
+      "trackName": "Good For You",
+      "trackId": "6HbRfDo3nRQ7UuwZIkRcHS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1581ad30ecf267ba14c9974449e7948c2b8d44da",
+      "release_date": "2016-01-22"
+    },
+    {
+      "featuredArtist": "Kasbo",
+      "featuredArtistId": "1ikID9RZZMvkuBGDWrqajq",
+      "trackName": "Good For You - KASBO Remix",
+      "trackId": "3JbtFCWuXlYuMBO2izAoFP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1581ad30ecf267ba14c9974449e7948c2b8d44da",
+      "release_date": "2015-10-09"
+    },
+    {
+      "featuredArtist": "Selena",
+      "featuredArtistId": "6IE6z7DcZIT4Ml3Fh5Ivch",
+      "trackName": "Bidi Bidi Bom Bom",
+      "trackId": "7brHejB8gAkS3nUNyvllWp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c937c683a1998c1fc4c88e4f765372734b7f9ab1",
+      "release_date": "2014-11-24"
+    },
+    {
+      "featuredArtist": "Marshmello",
+      "featuredArtistId": "64KEffDW9EtZ1y2vBYgq8T",
+      "trackName": "Wolves - MOTi Remix",
+      "trackId": "7471s4m02axg6ZtBzBzy22",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/279a1220c7947d3e914edd3094a6ce7d26f1abed",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "MOTi",
+      "featuredArtistId": "1vo8zHmO1KzkuU9Xxh6J7W",
+      "trackName": "Wolves - MOTi Remix",
+      "trackId": "7471s4m02axg6ZtBzBzy22",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/279a1220c7947d3e914edd3094a6ce7d26f1abed",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Owen Norton",
+      "featuredArtistId": "4ZjJmxiWDURUeXl9erCsE5",
+      "trackName": "Wolves - Owen Norton Remix",
+      "trackId": "4fW4RaEHknj8iSqMJIEB6M",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/09424603ab12bad66cf956a5f005b3060c6fa679",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Rusko",
+      "featuredArtistId": "4BTcOR2hEQZQQL5AMo5u10",
+      "trackName": "Wolves - Rusko Remix",
+      "trackId": "4nIyuXb2MuJ13Ta3zD6EG4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d485a6cb7a9751bbf41537648cafb52a64904f2a",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Said the Sky",
+      "featuredArtistId": "4LZ4De2MoO3lP6QaNCfvcu",
+      "trackName": "Wolves - Said The Sky Remix",
+      "trackId": "4I3pQt1LtT3FhlCMixf1Jf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/400ee121e83b7eccab76d387d8a67c38aeecc4d4",
+      "release_date": "2018-02-23"
+    }
+  ]
+}

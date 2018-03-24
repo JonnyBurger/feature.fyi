@@ -1,0 +1,23 @@
+{
+  "artistName": "Marc Anthony",
+  "features": [
+    {
+      "featuredArtist": "La India",
+      "featuredArtistId": "3NIZFmehJM8YiGpCdihlck",
+      "trackName": "Vivir Lo Nuestro",
+      "trackId": "0LIZVQBQtDi4lLhB83qJIp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a47302b9a33e480cbf6dad571b0f07b125268ee8",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Jennifer Lopez",
+      "featuredArtistId": "2DlGxzQSjYe5N6G9nkYghR",
+      "trackName": "Escapémonos",
+      "trackId": "2SYSXxxYl4rePinHjOMSte",
+      "preview": "https://p.scdn.co/mp3-preview/63728453d7a1d6aa21768fbf34cf963cc05c7f1d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b6010c3ee21b4df5c18191a53c17fd2c9da4219",
+      "release_date": "2005-02-08"
+    }
+  ]
+}

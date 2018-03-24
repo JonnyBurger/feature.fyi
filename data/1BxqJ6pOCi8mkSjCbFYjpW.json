@@ -1,0 +1,23 @@
+{
+  "artistName": "Harry Gregson-Williams",
+  "features": [
+    {
+      "featuredArtist": "Tom Howe",
+      "featuredArtistId": "5784JqAJvI24V2Kr3xhoX6",
+      "trackName": "The Great State of Georgia",
+      "trackId": "1vUIyZlcWcY73rFcJqANxQ",
+      "preview": "https://p.scdn.co/mp3-preview/5e4185afb1720216f9de569819bed705696cc6d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0c188159acdba0b0fb9b5fa6a3d6fee2d55e73ef",
+      "release_date": "2017-04-01"
+    },
+    {
+      "featuredArtist": "Hans Zimmer",
+      "featuredArtistId": "0YC192cP3KPCRWx8zr8MfZ",
+      "trackName": "Isaiah's Theme",
+      "trackId": "1fxjgnDHzBO2Hbx6PMyC1b",
+      "preview": "https://p.scdn.co/mp3-preview/4913458ba54f94dd92ebd8a2b5c2e780a5fc72d4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff88629d4b7febd0ad3ebd3c1e1c07624f9f8e42",
+      "release_date": "2017-02-24"
+    }
+  ]
+}

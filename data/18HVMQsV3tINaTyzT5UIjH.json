@@ -1,0 +1,455 @@
+{
+  "artistName": "CyHi The Prynce",
+  "features": [
+    {
+      "featuredArtist": "Pusha T",
+      "featuredArtistId": "0ONHkAv9pCAFxb0zJwDNTy",
+      "trackName": "No Dope On Sundays",
+      "trackId": "3rOxgWzyypJIRFCDZHLFIS",
+      "preview": "https://p.scdn.co/mp3-preview/c387b197f8300628eeaff422a0e6600ddcf25276?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/df48039c7cc7788e439deb980ed44c818b9529c6",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "ScHoolboy Q",
+      "featuredArtistId": "5IcR3N7QB1j6KBL8eImZ8m",
+      "trackName": "Movin' Around",
+      "trackId": "2YzvqgbG4VZpmoGZpBTQOF",
+      "preview": "https://p.scdn.co/mp3-preview/61aa6320d06c51ea20e394e2d0c0ee318d6b3474?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/df48039c7cc7788e439deb980ed44c818b9529c6",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "2 Chainz",
+      "featuredArtistId": "17lzZA2AlOHwCwFALHttmp",
+      "trackName": "Trick Me",
+      "trackId": "1iHqWpiDOtqokGsKi0aQB6",
+      "preview": "https://p.scdn.co/mp3-preview/a451d11ecf30e46526310eef586456ad7a01b99a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/df48039c7cc7788e439deb980ed44c818b9529c6",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Estelle",
+      "featuredArtistId": "5T0MSzX9RC5NA6gAI6irSn",
+      "trackName": "Murda",
+      "trackId": "1k3lVF4bBlkkhvCguZATqF",
+      "preview": "https://p.scdn.co/mp3-preview/6d88fa9b5214e752db11d25169d23dc1e698bee0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/df48039c7cc7788e439deb980ed44c818b9529c6",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Jagged Edge",
+      "featuredArtistId": "7Aq8lpLMSt1Zxu56pe9bmp",
+      "trackName": "Don't Know Why",
+      "trackId": "1kzKtfYHRxLLOuIorOh3Iq",
+      "preview": "https://p.scdn.co/mp3-preview/7a2a8b29e35dfb6c4ef425d53877d142edf91dd3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/df48039c7cc7788e439deb980ed44c818b9529c6",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Kanye West",
+      "featuredArtistId": "5K4W6rqBFWDnAN6FQUkS6x",
+      "trackName": "Dat Side",
+      "trackId": "6NvSxE4pfP7TcD1OhGgaZW",
+      "preview": "https://p.scdn.co/mp3-preview/50d0652d585a8686d1343d0d82a54a168e835505?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/df48039c7cc7788e439deb980ed44c818b9529c6",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Ernestine Johnson",
+      "featuredArtistId": "42oknwLibyTsaag89UwSdU",
+      "trackName": "Nu Africa",
+      "trackId": "538zQrRrLGMEvBA18XSXoI",
+      "preview": "https://p.scdn.co/mp3-preview/a4fe356343d1cf613f282a8332514d8f3daec7ed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/df48039c7cc7788e439deb980ed44c818b9529c6",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "BJ The Chicago Kid",
+      "featuredArtistId": "07d5etnpjriczFBB8pxmRe",
+      "trackName": "80's Baby",
+      "trackId": "3icXHwT82TfvXGryxzQXGG",
+      "preview": "https://p.scdn.co/mp3-preview/c8741968cd1d1bf1b3303457db41f815f0925817?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/df48039c7cc7788e439deb980ed44c818b9529c6",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Travis Scott",
+      "featuredArtistId": "0Y5tJX1MQlPlqiwlOH1tJY",
+      "trackName": "I'm Fine",
+      "trackId": "0AU50oV3ypRPSxXqpmFGSd",
+      "preview": "https://p.scdn.co/mp3-preview/c6d0adefcfc61ac873cca12315ea6f4399c9027c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/df48039c7cc7788e439deb980ed44c818b9529c6",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Jonathan Hay",
+      "featuredArtistId": "4nAKZMj4ukSoCq0fXBIus0",
+      "trackName": "Long Damn Time (Extended) [feat. Ana, Aesja, Lil Jsean, Jc Flores & Matt Berman]",
+      "trackId": "5XimmymbT7bAw8UUcykCkS",
+      "preview": "https://p.scdn.co/mp3-preview/17fa85c805b19d8a05e565a21536734a16e80e7c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2979c96b80c35ac7996aeb9392f75de7b7d9c597",
+      "release_date": "2016-09-20"
+    },
+    {
+      "featuredArtist": "Ana",
+      "featuredArtistId": "5gcPitOUCorXGdV3XttmIT",
+      "trackName": "Long Damn Time (Extended) [feat. Ana, Aesja, Lil Jsean, Jc Flores & Matt Berman]",
+      "trackId": "5XimmymbT7bAw8UUcykCkS",
+      "preview": "https://p.scdn.co/mp3-preview/17fa85c805b19d8a05e565a21536734a16e80e7c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2979c96b80c35ac7996aeb9392f75de7b7d9c597",
+      "release_date": "2016-09-20"
+    },
+    {
+      "featuredArtist": "Aesja",
+      "featuredArtistId": "28osqOrcjy3qMUWHVSVfev",
+      "trackName": "Long Damn Time (Extended) [feat. Ana, Aesja, Lil Jsean, Jc Flores & Matt Berman]",
+      "trackId": "5XimmymbT7bAw8UUcykCkS",
+      "preview": "https://p.scdn.co/mp3-preview/17fa85c805b19d8a05e565a21536734a16e80e7c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2979c96b80c35ac7996aeb9392f75de7b7d9c597",
+      "release_date": "2016-09-20"
+    },
+    {
+      "featuredArtist": "LIL JSEAN",
+      "featuredArtistId": "4G6wXVlnByLONh28bCLsqZ",
+      "trackName": "Long Damn Time (Extended) [feat. Ana, Aesja, Lil Jsean, Jc Flores & Matt Berman]",
+      "trackId": "5XimmymbT7bAw8UUcykCkS",
+      "preview": "https://p.scdn.co/mp3-preview/17fa85c805b19d8a05e565a21536734a16e80e7c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2979c96b80c35ac7996aeb9392f75de7b7d9c597",
+      "release_date": "2016-09-20"
+    },
+    {
+      "featuredArtist": "JC Flores",
+      "featuredArtistId": "6AgTPVcgDsyGUrqDXbzkct",
+      "trackName": "Long Damn Time (Extended) [feat. Ana, Aesja, Lil Jsean, Jc Flores & Matt Berman]",
+      "trackId": "5XimmymbT7bAw8UUcykCkS",
+      "preview": "https://p.scdn.co/mp3-preview/17fa85c805b19d8a05e565a21536734a16e80e7c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2979c96b80c35ac7996aeb9392f75de7b7d9c597",
+      "release_date": "2016-09-20"
+    },
+    {
+      "featuredArtist": "Matt Berman",
+      "featuredArtistId": "0i9iCEIiAhGe91W085cQyJ",
+      "trackName": "Long Damn Time (Extended) [feat. Ana, Aesja, Lil Jsean, Jc Flores & Matt Berman]",
+      "trackId": "5XimmymbT7bAw8UUcykCkS",
+      "preview": "https://p.scdn.co/mp3-preview/17fa85c805b19d8a05e565a21536734a16e80e7c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2979c96b80c35ac7996aeb9392f75de7b7d9c597",
+      "release_date": "2016-09-20"
+    },
+    {
+      "featuredArtist": "Caskey",
+      "featuredArtistId": "7nVgP0ISalazUzugR7D8zk",
+      "trackName": "Flower in the Addict, Pt. 1 (feat. Caskey, King Tech, Big V, Mike Smith & Sabrina Hale)",
+      "trackId": "7LbnYZ1oKwE80sUYoeuiS3",
+      "preview": "https://p.scdn.co/mp3-preview/70b0c752de8d8c7bb5cb6e5c557c958d677c69cb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2979c96b80c35ac7996aeb9392f75de7b7d9c597",
+      "release_date": "2016-09-20"
+    },
+    {
+      "featuredArtist": "King Tech",
+      "featuredArtistId": "6WpKhPx4KbbT1q25nF2EWk",
+      "trackName": "Flower in the Addict, Pt. 1 (feat. Caskey, King Tech, Big V, Mike Smith & Sabrina Hale)",
+      "trackId": "7LbnYZ1oKwE80sUYoeuiS3",
+      "preview": "https://p.scdn.co/mp3-preview/70b0c752de8d8c7bb5cb6e5c557c958d677c69cb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2979c96b80c35ac7996aeb9392f75de7b7d9c597",
+      "release_date": "2016-09-20"
+    },
+    {
+      "featuredArtist": "Big V",
+      "featuredArtistId": "6t2RAhQ7FYKqc4zQvrAFDW",
+      "trackName": "Flower in the Addict, Pt. 1 (feat. Caskey, King Tech, Big V, Mike Smith & Sabrina Hale)",
+      "trackId": "7LbnYZ1oKwE80sUYoeuiS3",
+      "preview": "https://p.scdn.co/mp3-preview/70b0c752de8d8c7bb5cb6e5c557c958d677c69cb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2979c96b80c35ac7996aeb9392f75de7b7d9c597",
+      "release_date": "2016-09-20"
+    },
+    {
+      "featuredArtist": "Mike Smith",
+      "featuredArtistId": "5mMDpIXpgpFK07WnAaq05J",
+      "trackName": "Flower in the Addict, Pt. 1 (feat. Caskey, King Tech, Big V, Mike Smith & Sabrina Hale)",
+      "trackId": "7LbnYZ1oKwE80sUYoeuiS3",
+      "preview": "https://p.scdn.co/mp3-preview/70b0c752de8d8c7bb5cb6e5c557c958d677c69cb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2979c96b80c35ac7996aeb9392f75de7b7d9c597",
+      "release_date": "2016-09-20"
+    },
+    {
+      "featuredArtist": "Sabrina Hale",
+      "featuredArtistId": "2SlGLgqhQUM9YNbQ1rytmn",
+      "trackName": "Flower in the Addict, Pt. 1 (feat. Caskey, King Tech, Big V, Mike Smith & Sabrina Hale)",
+      "trackId": "7LbnYZ1oKwE80sUYoeuiS3",
+      "preview": "https://p.scdn.co/mp3-preview/70b0c752de8d8c7bb5cb6e5c557c958d677c69cb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2979c96b80c35ac7996aeb9392f75de7b7d9c597",
+      "release_date": "2016-09-20"
+    },
+    {
+      "featuredArtist": "Truth Ali",
+      "featuredArtistId": "0n3yiqwVo3zsh1KubdX61r",
+      "trackName": "James Brown (When the Sky Opens Up) [feat. Truth Ali, Frida Dee, Morgan Mcrae & Ajami]",
+      "trackId": "6v9T1yQJ4d1T6HY4sSZeYq",
+      "preview": "https://p.scdn.co/mp3-preview/3dc69b48f9239e454756e140040403c54d1c3234?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2979c96b80c35ac7996aeb9392f75de7b7d9c597",
+      "release_date": "2016-09-20"
+    },
+    {
+      "featuredArtist": "Frida Dee",
+      "featuredArtistId": "1Vi4LVtQYP0Rc6OoyZPzxB",
+      "trackName": "James Brown (When the Sky Opens Up) [feat. Truth Ali, Frida Dee, Morgan Mcrae & Ajami]",
+      "trackId": "6v9T1yQJ4d1T6HY4sSZeYq",
+      "preview": "https://p.scdn.co/mp3-preview/3dc69b48f9239e454756e140040403c54d1c3234?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2979c96b80c35ac7996aeb9392f75de7b7d9c597",
+      "release_date": "2016-09-20"
+    },
+    {
+      "featuredArtist": "Morgan McRae",
+      "featuredArtistId": "3BHqvTOv9gmTriRBndduhs",
+      "trackName": "James Brown (When the Sky Opens Up) [feat. Truth Ali, Frida Dee, Morgan Mcrae & Ajami]",
+      "trackId": "6v9T1yQJ4d1T6HY4sSZeYq",
+      "preview": "https://p.scdn.co/mp3-preview/3dc69b48f9239e454756e140040403c54d1c3234?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2979c96b80c35ac7996aeb9392f75de7b7d9c597",
+      "release_date": "2016-09-20"
+    },
+    {
+      "featuredArtist": "Ajami",
+      "featuredArtistId": "5bUA42EEr5QjBlOWXYbQ3k",
+      "trackName": "James Brown (When the Sky Opens Up) [feat. Truth Ali, Frida Dee, Morgan Mcrae & Ajami]",
+      "trackId": "6v9T1yQJ4d1T6HY4sSZeYq",
+      "preview": "https://p.scdn.co/mp3-preview/3dc69b48f9239e454756e140040403c54d1c3234?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2979c96b80c35ac7996aeb9392f75de7b7d9c597",
+      "release_date": "2016-09-20"
+    },
+    {
+      "featuredArtist": "Haylo 94",
+      "featuredArtistId": "1RRWkoJEdIHnwtAwH7cUvq",
+      "trackName": "Interlude: Stoned Mountain Commercial (feat. Haylo 94)",
+      "trackId": "3PMcwookYY5BWAX05k1bBf",
+      "preview": "https://p.scdn.co/mp3-preview/3f87e05817c84271cb1a49a31147cde97801822a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2979c96b80c35ac7996aeb9392f75de7b7d9c597",
+      "release_date": "2016-09-20"
+    },
+    {
+      "featuredArtist": "Pam Nicely",
+      "featuredArtistId": "4V3BfaS6aEZAyTAaogqfmY",
+      "trackName": "Waiting (In Due Time) [feat. Pam Nicely & Sabrina Hale]",
+      "trackId": "4aWwPjo3tMho2MhLDAS6Hc",
+      "preview": "https://p.scdn.co/mp3-preview/4305558b5b222dfca7486277970b3fa135c49888?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2979c96b80c35ac7996aeb9392f75de7b7d9c597",
+      "release_date": "2016-09-20"
+    },
+    {
+      "featuredArtist": "Canibus",
+      "featuredArtistId": "2lQvoGjN6jJfsAkaywtgrB",
+      "trackName": "Flower in the Addict, Pt. 2 (feat. Canibus, Frida Dee & Sabrina Hale)",
+      "trackId": "605mkSgRXTwd1Onnf6ma5X",
+      "preview": "https://p.scdn.co/mp3-preview/0e2824043ff6b9cce8fdc1fe455f2c414efb9b1a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2979c96b80c35ac7996aeb9392f75de7b7d9c597",
+      "release_date": "2016-09-20"
+    },
+    {
+      "featuredArtist": "Greg Street",
+      "featuredArtistId": "3q83BMJ3Mx2NSrEcqWA3A1",
+      "trackName": "Go Hard Freestyle (feat. Greg Street)",
+      "trackId": "1yA88TZ6K6fGrb7MbcIhHq",
+      "preview": "https://p.scdn.co/mp3-preview/dc8154eaa83d2d5be4ccf5bd5903fde1e7b4da34?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/60891ed432d78b5f7cf1c5f2d3136973ad97bd66",
+      "release_date": "2009-12-17"
+    },
+    {
+      "featuredArtist": "K CAMP",
+      "featuredArtistId": "5bgfj5zUoWpyeVatGDjn6H",
+      "trackName": "Lord Lord Lord",
+      "trackId": "3BNDLQgYfEqMQ17DLkTCWd",
+      "preview": "https://p.scdn.co/mp3-preview/165522e4fab42fc1b5f1427cd395f5e12a9e8fee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4af5b2ea9f9ac085c30560d738b8caac9e4344a5",
+      "release_date": "2015-09-15"
+    },
+    {
+      "featuredArtist": "The Visionary And The Architect",
+      "featuredArtistId": "1mJnGYqjHg5wX2miMejzu0",
+      "trackName": "Indiana (Single Version)",
+      "trackId": "6vKeWA0QFCgzb4QDI1CnEP",
+      "preview": "https://p.scdn.co/mp3-preview/556a5e76fe62c5222160d4e220ce6bf53ee30d36?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/16a8b9e0729f31d967d8a768529195927c38703b",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Faincarter",
+      "featuredArtistId": "24IRk9Cxx5cArkpqoOxCP5",
+      "trackName": "Indiana (Single Version)",
+      "trackId": "6vKeWA0QFCgzb4QDI1CnEP",
+      "preview": "https://p.scdn.co/mp3-preview/556a5e76fe62c5222160d4e220ce6bf53ee30d36?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/16a8b9e0729f31d967d8a768529195927c38703b",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Iliana Eve",
+      "featuredArtistId": "05R3xFaSD9x0usNmhA2Kei",
+      "trackName": "Indiana (Single Version)",
+      "trackId": "6vKeWA0QFCgzb4QDI1CnEP",
+      "preview": "https://p.scdn.co/mp3-preview/556a5e76fe62c5222160d4e220ce6bf53ee30d36?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/16a8b9e0729f31d967d8a768529195927c38703b",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Aneesa Badshaw",
+      "featuredArtistId": "2sB5Avsn2tA5op1TxPscRQ",
+      "trackName": "Indiana (Single Version)",
+      "trackId": "6vKeWA0QFCgzb4QDI1CnEP",
+      "preview": "https://p.scdn.co/mp3-preview/556a5e76fe62c5222160d4e220ce6bf53ee30d36?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/16a8b9e0729f31d967d8a768529195927c38703b",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "King Graint",
+      "featuredArtistId": "6G1OLMWExh1kxtQm7xdEZF",
+      "trackName": "Indiana (Single Version)",
+      "trackId": "6vKeWA0QFCgzb4QDI1CnEP",
+      "preview": "https://p.scdn.co/mp3-preview/556a5e76fe62c5222160d4e220ce6bf53ee30d36?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/16a8b9e0729f31d967d8a768529195927c38703b",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Benny Reid",
+      "featuredArtistId": "72cz5YneQ6tzhicbgYJIhe",
+      "trackName": "Indiana (Single Version)",
+      "trackId": "6vKeWA0QFCgzb4QDI1CnEP",
+      "preview": "https://p.scdn.co/mp3-preview/556a5e76fe62c5222160d4e220ce6bf53ee30d36?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/16a8b9e0729f31d967d8a768529195927c38703b",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Louie Gonz",
+      "featuredArtistId": "5P9XqQCQHp23aqp9YWOhGl",
+      "trackName": "Indiana (Remix)",
+      "trackId": "6a0y2zF4Nd6tMf9qZxjb2T",
+      "preview": "https://p.scdn.co/mp3-preview/d17ee52bfec9df07f803aa7dd20c4477fd9d5cac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/16a8b9e0729f31d967d8a768529195927c38703b",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Ranna Royce",
+      "featuredArtistId": "2MjwpwpvS1RYH9GxYgFoJl",
+      "trackName": "Indiana (Remix)",
+      "trackId": "6a0y2zF4Nd6tMf9qZxjb2T",
+      "preview": "https://p.scdn.co/mp3-preview/d17ee52bfec9df07f803aa7dd20c4477fd9d5cac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/16a8b9e0729f31d967d8a768529195927c38703b",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Colorblind and Reclusive",
+      "featuredArtistId": "0AJUVSy1esf4DuwttzEMIa",
+      "trackName": "Indiana (Extended Remix)",
+      "trackId": "64sRj6Z8ixniWsLdSrLA4H",
+      "preview": "https://p.scdn.co/mp3-preview/5ea1b1bd0e30da3b4f3c0e1b28ee647e305bbde7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/16a8b9e0729f31d967d8a768529195927c38703b",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Zac Fresh",
+      "featuredArtistId": "2nTPVmaz7b8i4F52wuUKO3",
+      "trackName": "Blame Yourself (Remix) [feat. Cyhi the Prynce]",
+      "trackId": "5AKyPDRt2elkROOHznKvVX",
+      "preview": "https://p.scdn.co/mp3-preview/9eeb8ce0f68fb485c08f22cd924c0bee1a3865d5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e01d6297a9b626c5653e8640c909520b43e0d12b",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Knoc-Turn'al",
+      "featuredArtistId": "24PJqH46WhB0pUB7NlsFna",
+      "trackName": "If You Wanna (Radio Version) [feat. Cyhi the Prynce & K-Young]",
+      "trackId": "7rOGY7TZK0WN1opfOTMARf",
+      "preview": "https://p.scdn.co/mp3-preview/200f29e4cce3332921d12d161c5a92c649280d67?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e01d6297a9b626c5653e8640c909520b43e0d12b",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "K-Young",
+      "featuredArtistId": "17BUBnfODzDxbXw1tim7JW",
+      "trackName": "If You Wanna (Radio Version) [feat. Cyhi the Prynce & K-Young]",
+      "trackId": "7rOGY7TZK0WN1opfOTMARf",
+      "preview": "https://p.scdn.co/mp3-preview/200f29e4cce3332921d12d161c5a92c649280d67?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e01d6297a9b626c5653e8640c909520b43e0d12b",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Kush God",
+      "featuredArtistId": "77lpylHiixIVCAqU4ufjXF",
+      "trackName": "Obama",
+      "trackId": "1eQh4PgGFc9qVJe8kF8lop",
+      "preview": "https://p.scdn.co/mp3-preview/d84e877cf6c9628b112469b147343cabcfd77dbf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6bf2b8434d7781b53055a78be68f41dd444c6fa5",
+      "release_date": "2018-02-07"
+    },
+    {
+      "featuredArtist": "Sy Ari Da Kid",
+      "featuredArtistId": "5ZI5pbnKxA6Qy1fVNsjCp0",
+      "trackName": "Free Fall (feat. Cyhi the Prynce & Translee)",
+      "trackId": "7GpvapzXba6lGdap3pzuPW",
+      "preview": "https://p.scdn.co/mp3-preview/6b66d974903cf81d641bfe0f3c8cfb5c9598256f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/46d90c7dc6653704f4e49ddf6cce92f0386244ae",
+      "release_date": "2018-01-25"
+    },
+    {
+      "featuredArtist": "Translee",
+      "featuredArtistId": "3PgKMVEjv0S3Nz8krppvvL",
+      "trackName": "Free Fall (feat. Cyhi the Prynce & Translee)",
+      "trackId": "7GpvapzXba6lGdap3pzuPW",
+      "preview": "https://p.scdn.co/mp3-preview/6b66d974903cf81d641bfe0f3c8cfb5c9598256f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/46d90c7dc6653704f4e49ddf6cce92f0386244ae",
+      "release_date": "2018-01-25"
+    },
+    {
+      "featuredArtist": "Tommie King",
+      "featuredArtistId": "6rtj7FDJ5zLdvV0SYbfnNm",
+      "trackName": "Eastside (feat. Cyhi the Prynce)",
+      "trackId": "5kEiZcQVCkNPuRXY34yrSU",
+      "preview": "https://p.scdn.co/mp3-preview/ed0076764810b4fb98a421253d42e0252c0039da?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/560d9bcc37bcd81ec2a6be21f35a84652426e76c",
+      "release_date": "2018-01-12"
+    },
+    {
+      "featuredArtist": "Faincarter",
+      "featuredArtistId": "2WfwgkDHGpTYSvhIO7aRxW",
+      "trackName": "Indiana",
+      "trackId": "3AKZf99k3tVsgzAJmESaUR",
+      "preview": "https://p.scdn.co/mp3-preview/29b9a7e911ac8b43724bd352f34eb0df79ef49a1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/39e3f62874045b8b6e795b134144259c82f38c91",
+      "release_date": "2018-01-12"
+    },
+    {
+      "featuredArtist": "Smith and Hay",
+      "featuredArtistId": "3MtoFGL4CbBQih7zUFOmdm",
+      "trackName": "Indiana Snake Flute (feat. Benny Reid, King Graint, Cyhi the Prynce, Faincarter & Aneesa Badshaw)",
+      "trackId": "6dvIZJngOa1JQdwhRyRPIB",
+      "preview": "https://p.scdn.co/mp3-preview/05a9889ef5ead1c31869fcc5f6735a246c3edbc4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/94cd0b480afe9fe54647e567ee6f681316c106f6",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Faincarter",
+      "featuredArtistId": "14ZES5Xo2o71R9BE5nDv2b",
+      "trackName": "Indiana Snake Flute (feat. Benny Reid, King Graint, Cyhi the Prynce, Faincarter & Aneesa Badshaw)",
+      "trackId": "6dvIZJngOa1JQdwhRyRPIB",
+      "preview": "https://p.scdn.co/mp3-preview/05a9889ef5ead1c31869fcc5f6735a246c3edbc4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/94cd0b480afe9fe54647e567ee6f681316c106f6",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "A-Trak",
+      "featuredArtistId": "3TaUSUXn41GixL7zbvrIDt",
+      "trackName": "Ray Ban Vision - Casper & B. Remix",
+      "trackId": "6qfXRudT5KuBbaVlH6T7Ws",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/312f7c5da74d7e1fa17f60834afa9408e2f886c1",
+      "release_date": "2017-12-14"
+    },
+    {
+      "featuredArtist": "Casper & B.",
+      "featuredArtistId": "2D3CXS70FRMw2FIkchBQdH",
+      "trackName": "Ray Ban Vision - Casper & B. Remix",
+      "trackId": "6qfXRudT5KuBbaVlH6T7Ws",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/312f7c5da74d7e1fa17f60834afa9408e2f886c1",
+      "release_date": "2017-12-14"
+    }
+  ]
+}

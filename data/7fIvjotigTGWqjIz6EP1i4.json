@@ -1,0 +1,50 @@
+{
+  "artistName": "Four Tops",
+  "features": [
+    {
+      "featuredArtist": "The Supremes",
+      "featuredArtistId": "57bUPid8xztkieZfS7OlEV",
+      "trackName": "River Deep, Mountain High",
+      "trackId": "18iH2bKasKZUE1A8TQVvSZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6aa21348df552cb63f3f47b8d49362d297aab387",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "The Temptations",
+      "featuredArtistId": "3RwQ26hR2tJtA8F9p2n7jG",
+      "trackName": "Just Another Lonely Night",
+      "trackId": "2pMa0jgaIqwVZIoZryDkDY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/48c7f377538b9e4b000df5f64ce33a4ac6a94ec8",
+      "release_date": "2001-01-01"
+    },
+    {
+      "featuredArtist": "Edwin Starr",
+      "featuredArtistId": "1B8AXU6gIIafpyLEpbcv1u",
+      "trackName": "Stranded On The Road Of Love",
+      "trackId": "5Hi832kRwmfYkPJmHivzbt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/48c7f377538b9e4b000df5f64ce33a4ac6a94ec8",
+      "release_date": "2001-01-01"
+    },
+    {
+      "featuredArtist": "Billy Eckstine",
+      "featuredArtistId": "6htazaFMy8zs0f3sMtM2Pt",
+      "trackName": "I'm Falling For You - Live ( 1965 Apollo Theater)",
+      "trackId": "35ORvIDPiT6Q3xqxTUZPnP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/95e4c620447ff4a267722f57cc18e29e0e041de8",
+      "release_date": "1999-01-01"
+    },
+    {
+      "featuredArtist": "Aretha Franklin",
+      "featuredArtistId": "7nwUJBm0HE4ZxD3f5cy5ok",
+      "trackName": "Christmas Here With You",
+      "trackId": "4RfSz0tUTmYX3Md7jX5Kz3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/69de2d45d8763d9460439fc7e7a21cc1abebc920",
+      "release_date": "1995-01-01"
+    }
+  ]
+}

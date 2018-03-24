@@ -1,0 +1,23 @@
+{
+  "artistName": "Ben Harper",
+  "features": [
+    {
+      "featuredArtist": "Ellen Harper",
+      "featuredArtistId": "6cGzcfuIBFaQjjcuW688Dy",
+      "trackName": "A House Is A Home",
+      "trackId": "1YYikTSCFdbivfd22fqGsX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/952c70f9a7ff4d75a512ffc6b40f25237d588d58",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Charlie Musselwhite",
+      "featuredArtistId": "4NikxGoDm5LGVYAHj0Euoc",
+      "trackName": "Don’t Look Twice",
+      "trackId": "1dPuelztrbbPk5M6d81wlS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d72c62d304f14e3193ddec368b4ad8036847a3d7",
+      "release_date": "2013-01-01"
+    }
+  ]
+}

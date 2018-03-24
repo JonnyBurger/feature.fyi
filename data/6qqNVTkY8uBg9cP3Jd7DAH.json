@@ -1,0 +1,113 @@
+{
+  "artistName": "Billie Eilish",
+  "features": [
+    {
+      "featuredArtist": "TroyBoi",
+      "featuredArtistId": "0tvpihdAsKiNnP6sWS3jUI",
+      "trackName": "MyBoi - TroyBoi Remix",
+      "trackId": "1T3E8z6VMXSsACrBSQHTkN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/618d033264e24cbcba8fbf1b51dc5aa87e27d8fd",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Sofi Tukker",
+      "featuredArtistId": "586uxXMyD5ObPuzjtrzO1Q",
+      "trackName": "COPYCAT - Sofi Tukker Remix",
+      "trackId": "2njUxZ4151DWIrfIK3loFj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e151a7b5035f6b066a706b7db721d4644333bc0f",
+      "release_date": "2018-01-12"
+    },
+    {
+      "featuredArtist": "Vince Staples",
+      "featuredArtistId": "68kEuyFKyqrdQQLLsmiatm",
+      "trackName": "&burn (with Vince Staples)",
+      "trackId": "6X7qcg95CAeJpTjtg1wooM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d7f9b43755bdb0272b77c37bab7314bf0c46b84e",
+      "release_date": "2017-12-22"
+    },
+    {
+      "featuredArtist": "Marian Hill",
+      "featuredArtistId": "1xHQO9GJIW9OXHxGBISYc5",
+      "trackName": "Bellyache - Marian Hill Remix",
+      "trackId": "61X077SWMs5aAGQHhf4pd0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/42e428be9602c615aa9313013ed4efc756b05326",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "BLU J",
+      "featuredArtistId": "0bI3VA9gVcpoOzrklKgG7V",
+      "trackName": "Six Feet Under - BLU J Remix",
+      "trackId": "4D5sitThGoz0RnMsFdFUuz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/56815dd28157577468eec8d14b58ca03e485f503",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Gazzo",
+      "featuredArtistId": "5st4KKihmnSMLRsxWOs2x3",
+      "trackName": "Six Feet Under - Gazzo Remix",
+      "trackId": "3UHa28GclZhNqqlaNFzKKY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/56815dd28157577468eec8d14b58ca03e485f503",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Jerry Folk",
+      "featuredArtistId": "356FCJoyYWyzONni54Dgrv",
+      "trackName": "Six Feet Under - Jerry Folk Remix",
+      "trackId": "58nxGpcCfNDiqmFXklOslz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/56815dd28157577468eec8d14b58ca03e485f503",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Aire Atlantica",
+      "featuredArtistId": "6Ta9RS3a6sLulTlM4FWY5K",
+      "trackName": "Six Feet Under - Aire Atlantica Remix",
+      "trackId": "75WGjm9867pcRxGwiLRwK8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/56815dd28157577468eec8d14b58ca03e485f503",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Astronomyy",
+      "featuredArtistId": "3EpmmPtV7DduqNmeqaADIm",
+      "trackName": "Ocean Eyes - Astronomyy Remix",
+      "trackId": "0YBxZA6oBJNYEDwiE1RZmj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bfa8d709938a20c0fc6559d1b53b3b0e78081f03",
+      "release_date": "2017-01-13"
+    },
+    {
+      "featuredArtist": "Blackbear",
+      "featuredArtistId": "2cFrymmkijnjDg9SS92EPM",
+      "trackName": "Ocean Eyes - Blackbear Remix",
+      "trackId": "3igpdzxRhFUxK3fFyvm09l",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bfa8d709938a20c0fc6559d1b53b3b0e78081f03",
+      "release_date": "2017-01-13"
+    },
+    {
+      "featuredArtist": "GOLDHOUSE",
+      "featuredArtistId": "670UISOh9XV1zlq5z5IfoY",
+      "trackName": "Ocean Eyes - GOLDHOUSE Remix",
+      "trackId": "0ChhO5rIld7AzJnwtY36M7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bfa8d709938a20c0fc6559d1b53b3b0e78081f03",
+      "release_date": "2017-01-13"
+    },
+    {
+      "featuredArtist": "Cautious Clay",
+      "featuredArtistId": "6iWuBN32BqCJAeXW6o3nil",
+      "trackName": "Ocean Eyes - Cautious Clay Remix",
+      "trackId": "75CrQCT7EMYCFFLpsd7ux6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bfa8d709938a20c0fc6559d1b53b3b0e78081f03",
+      "release_date": "2017-01-13"
+    }
+  ]
+}

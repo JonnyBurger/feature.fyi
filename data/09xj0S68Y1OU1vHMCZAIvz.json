@@ -1,0 +1,32 @@
+{
+  "artistName": "Café Tacvba",
+  "features": [
+    {
+      "featuredArtist": "Tony Peluso",
+      "featuredArtistId": "0oWEcXoF0Yk1HokfNyv2kG",
+      "trackName": "El Borrego",
+      "trackId": "5mzEmhsKmDmIsSK6qfn6z6",
+      "preview": "https://p.scdn.co/mp3-preview/18edbcd14976a5c7603cf9c6027e7300b9f7764d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/69b07d68bad0bd096ce4ec781d02562a4bd6c355",
+      "release_date": "1994-07-20"
+    },
+    {
+      "featuredArtist": "Tony Peuso",
+      "featuredArtistId": "2HBghjwJQWIr1uFjUOrDt6",
+      "trackName": "Verde",
+      "trackId": "73VgdCwHkLMsFJwUe8MUVM",
+      "preview": "https://p.scdn.co/mp3-preview/3af9b1bcddd7b8d18c519aea045b34a59f746902?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/69b07d68bad0bd096ce4ec781d02562a4bd6c355",
+      "release_date": "1994-07-20"
+    },
+    {
+      "featuredArtist": "Anibal Kerpel",
+      "featuredArtistId": "1tkoCroEpHe2UexqTAd8Wh",
+      "trackName": "La Pinta",
+      "trackId": "2Wp5y0mV5FPbdae77Uo4eF",
+      "preview": "https://p.scdn.co/mp3-preview/351332124c503e4d112cf59039436da84317a9b7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/69b07d68bad0bd096ce4ec781d02562a4bd6c355",
+      "release_date": "1994-07-20"
+    }
+  ]
+}

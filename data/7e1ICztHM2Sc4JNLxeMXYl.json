@@ -1,0 +1,50 @@
+{
+  "artistName": "dvsn",
+  "features": [
+    {
+      "featuredArtist": "Roy Woods",
+      "featuredArtistId": "7mDU6nMUJnOSY2Hkjz5oqM",
+      "trackName": "Balance (feat. dvsn & PnB Rock)",
+      "trackId": "78yeKzZVT9ARq9icCvEF3A",
+      "preview": "https://p.scdn.co/mp3-preview/64cf059987d107b6cc26d60ccba74dfb3c8505ae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41a6419b4f10104f09aad20816beb9b111268db8",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "PnB Rock",
+      "featuredArtistId": "21WS9wngs9AqFckK7yYJPM",
+      "trackName": "Balance (feat. dvsn & PnB Rock)",
+      "trackId": "78yeKzZVT9ARq9icCvEF3A",
+      "preview": "https://p.scdn.co/mp3-preview/64cf059987d107b6cc26d60ccba74dfb3c8505ae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41a6419b4f10104f09aad20816beb9b111268db8",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Majid Jordan",
+      "featuredArtistId": "4HzKw8XcD0piJmDrrPRCYk",
+      "trackName": "My Imagination (feat. dvsn)",
+      "trackId": "5GXXgD0V3Hfz0Q3SzxWGGn",
+      "preview": "https://p.scdn.co/mp3-preview/3b161c9a5077503627eec73beba00b7f9ea41e68?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8f8a22af30187754febdd377717551107ea510f0",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Drake",
+      "featuredArtistId": "3TVXtAsR1Inumwj472S9r4",
+      "trackName": "Faithful",
+      "trackId": "4dWVEAVhqNUjvsBHUo477f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e73c706e842eb5233eab7afd3404218a2696d568",
+      "release_date": "2016-05-13"
+    },
+    {
+      "featuredArtist": "Pimp C",
+      "featuredArtistId": "7v9bFXCdSMA2o3gS4nvp0F",
+      "trackName": "Faithful",
+      "trackId": "4dWVEAVhqNUjvsBHUo477f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e73c706e842eb5233eab7afd3404218a2696d568",
+      "release_date": "2016-05-13"
+    }
+  ]
+}

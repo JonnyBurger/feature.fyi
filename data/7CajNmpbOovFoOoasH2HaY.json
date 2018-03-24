@@ -1,0 +1,473 @@
+{
+  "artistName": "Calvin Harris",
+  "features": [
+    {
+      "featuredArtist": "Frank Ocean",
+      "featuredArtistId": "2h93pZq0e7k5yf4dywlkpM",
+      "trackName": "Slide",
+      "trackId": "7tr2za8SQg2CI8EDgrdtNl",
+      "preview": "https://p.scdn.co/mp3-preview/d3e8d7ced6e0f3844b8c0309a7d4baad511a3518?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Migos",
+      "featuredArtistId": "6oMuImdp5ZcFhWP0ESe6mG",
+      "trackName": "Slide",
+      "trackId": "7tr2za8SQg2CI8EDgrdtNl",
+      "preview": "https://p.scdn.co/mp3-preview/d3e8d7ced6e0f3844b8c0309a7d4baad511a3518?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "ScHoolboy Q",
+      "featuredArtistId": "5IcR3N7QB1j6KBL8eImZ8m",
+      "trackName": "Cash Out",
+      "trackId": "0Ws8D3EWUDgY962Xftb0h5",
+      "preview": "https://p.scdn.co/mp3-preview/6dc54b40c3664b8bda6ad60f5c63675e59485949?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "PARTYNEXTDOOR",
+      "featuredArtistId": "2HPaUgqeutzr3jx5a9WyDV",
+      "trackName": "Cash Out",
+      "trackId": "0Ws8D3EWUDgY962Xftb0h5",
+      "preview": "https://p.scdn.co/mp3-preview/6dc54b40c3664b8bda6ad60f5c63675e59485949?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "DRAM",
+      "featuredArtistId": "5M0lbkGluOPXLeFjApw8r8",
+      "trackName": "Cash Out",
+      "trackId": "0Ws8D3EWUDgY962Xftb0h5",
+      "preview": "https://p.scdn.co/mp3-preview/6dc54b40c3664b8bda6ad60f5c63675e59485949?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Young Thug",
+      "featuredArtistId": "50co4Is1HCEo8bhOyUWKpn",
+      "trackName": "Heatstroke",
+      "trackId": "60APt5N2NRaKWf5xzJdzyC",
+      "preview": "https://p.scdn.co/mp3-preview/a43b6717d8333767b71bbc27e03badbc913c3840?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Pharrell Williams",
+      "featuredArtistId": "2RdwBSPQiwcmiDo9kixcl8",
+      "trackName": "Heatstroke",
+      "trackId": "60APt5N2NRaKWf5xzJdzyC",
+      "preview": "https://p.scdn.co/mp3-preview/a43b6717d8333767b71bbc27e03badbc913c3840?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Ariana Grande",
+      "featuredArtistId": "66CXWjxzNUsdJxJ2JdwvnR",
+      "trackName": "Heatstroke",
+      "trackId": "60APt5N2NRaKWf5xzJdzyC",
+      "preview": "https://p.scdn.co/mp3-preview/a43b6717d8333767b71bbc27e03badbc913c3840?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Future",
+      "featuredArtistId": "1RyvyyTE3xzB2ZywiAwp0i",
+      "trackName": "Rollin",
+      "trackId": "0lMbuWUpfTWhEmOKxppEau",
+      "preview": "https://p.scdn.co/mp3-preview/78fad076a030a8b36b61c1013e91c2eee5459f1e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Khalid",
+      "featuredArtistId": "6LuN9FCkKOj5PcnpouEgny",
+      "trackName": "Rollin",
+      "trackId": "0lMbuWUpfTWhEmOKxppEau",
+      "preview": "https://p.scdn.co/mp3-preview/78fad076a030a8b36b61c1013e91c2eee5459f1e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Travis Scott",
+      "featuredArtistId": "0Y5tJX1MQlPlqiwlOH1tJY",
+      "trackName": "Prayers Up",
+      "trackId": "4KaIJ1FWXUoAAnOts1YWjD",
+      "preview": "https://p.scdn.co/mp3-preview/10607f537b1f93c34cc87a0570114ef292404bfb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "A-Trak",
+      "featuredArtistId": "3TaUSUXn41GixL7zbvrIDt",
+      "trackName": "Prayers Up",
+      "trackId": "4KaIJ1FWXUoAAnOts1YWjD",
+      "preview": "https://p.scdn.co/mp3-preview/10607f537b1f93c34cc87a0570114ef292404bfb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Snoop Dogg",
+      "featuredArtistId": "7hJcb9fa4alzcOq3EaNPoG",
+      "trackName": "Holiday",
+      "trackId": "08Wc3X7XNSyF8WYBPt2L8E",
+      "preview": "https://p.scdn.co/mp3-preview/c7c980a03fce255ffb77c4fc773248a347bab30c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "John Legend",
+      "featuredArtistId": "5y2Xq6xcjJb2jVM54GHK3t",
+      "trackName": "Holiday",
+      "trackId": "08Wc3X7XNSyF8WYBPt2L8E",
+      "preview": "https://p.scdn.co/mp3-preview/c7c980a03fce255ffb77c4fc773248a347bab30c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Takeoff",
+      "featuredArtistId": "3EW0kQ1skZiK1NHg3Spt9J",
+      "trackName": "Holiday",
+      "trackId": "08Wc3X7XNSyF8WYBPt2L8E",
+      "preview": "https://p.scdn.co/mp3-preview/c7c980a03fce255ffb77c4fc773248a347bab30c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Nicki Minaj",
+      "featuredArtistId": "0hCNtLu0JehylgoiP8L4Gh",
+      "trackName": "Skrt On Me",
+      "trackId": "7iDxZ5Cd0Yg08d4fI5WVtG",
+      "preview": "https://p.scdn.co/mp3-preview/de35ae840adeb65fc979ee7d9f5b74fcc6998af7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Katy Perry",
+      "featuredArtistId": "6jJ0s89eD6GaHleKKya26X",
+      "trackName": "Feels",
+      "trackId": "5bcTCxgc7xVfSaMV3RuVke",
+      "preview": "https://p.scdn.co/mp3-preview/0c58b32cdd0231ce4dc3cc2fe63a71046fd9f586?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Big Sean",
+      "featuredArtistId": "0c173mlxpT3dSFRgMO8XPh",
+      "trackName": "Feels",
+      "trackId": "5bcTCxgc7xVfSaMV3RuVke",
+      "preview": "https://p.scdn.co/mp3-preview/0c58b32cdd0231ce4dc3cc2fe63a71046fd9f586?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Kehlani",
+      "featuredArtistId": "0cGUm45nv7Z6M6qdXYQGTX",
+      "trackName": "Faking It",
+      "trackId": "0pJPdSVti6cTM1Q6xYGmcf",
+      "preview": "https://p.scdn.co/mp3-preview/0c89317d7e1ae63486c538a5a47b1b806314533c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Lil Yachty",
+      "featuredArtistId": "6icQOAFXDZKsumw3YXyusw",
+      "trackName": "Faking It",
+      "trackId": "0pJPdSVti6cTM1Q6xYGmcf",
+      "preview": "https://p.scdn.co/mp3-preview/0c89317d7e1ae63486c538a5a47b1b806314533c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Jessie Reyez",
+      "featuredArtistId": "3KedxarmBCyFBevnqQHy3P",
+      "trackName": "Hard to Love",
+      "trackId": "6KdmNK9MogmGcnO3wNZHhp",
+      "preview": "https://p.scdn.co/mp3-preview/6ab7825c891d399458e4068940eff436b67ae57b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Alesso",
+      "featuredArtistId": "4AVFqumd2ogHFlRbKIjp1t",
+      "trackName": "Under Control",
+      "trackId": "3I3S4JRMUko863eEaUjPJD",
+      "preview": "https://p.scdn.co/mp3-preview/9306a2ef7917784bf88d0264408f1727ff746add?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/35f57037a887e9b35037bd82eb23c84a69a28ab4",
+      "release_date": "2014-11-12"
+    },
+    {
+      "featuredArtist": "Hurts",
+      "featuredArtistId": "3w4VAlllkAWI6m0AV0Gn6a",
+      "trackName": "Under Control",
+      "trackId": "3I3S4JRMUko863eEaUjPJD",
+      "preview": "https://p.scdn.co/mp3-preview/9306a2ef7917784bf88d0264408f1727ff746add?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/35f57037a887e9b35037bd82eb23c84a69a28ab4",
+      "release_date": "2014-11-12"
+    },
+    {
+      "featuredArtist": "John Newman",
+      "featuredArtistId": "34v5MVKeQnIo0CWYMbbrPf",
+      "trackName": "Blame",
+      "trackId": "3jRIg3OtZX3QvhG7yXDFAC",
+      "preview": "https://p.scdn.co/mp3-preview/804723454704e7c08657e21f53fdee76353832ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/35f57037a887e9b35037bd82eb23c84a69a28ab4",
+      "release_date": "2014-11-12"
+    },
+    {
+      "featuredArtist": "All About She",
+      "featuredArtistId": "4v31ZbEICHeUehSZdcc4ga",
+      "trackName": "Love Now",
+      "trackId": "3kLT6YJJFn4SxYf9yZI0fT",
+      "preview": "https://p.scdn.co/mp3-preview/644db90e161d2210263e7e78174b922c44de6270?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/35f57037a887e9b35037bd82eb23c84a69a28ab4",
+      "release_date": "2014-11-12"
+    },
+    {
+      "featuredArtist": "Ellie Goulding",
+      "featuredArtistId": "0X2BH1fck6amBIoJhDVmmJ",
+      "trackName": "Outside",
+      "trackId": "3bWhtthHqCw7HKSaN37cc5",
+      "preview": "https://p.scdn.co/mp3-preview/b33e871a3a2d9bb43cd01b09b0cecffdcfd56d90?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/35f57037a887e9b35037bd82eb23c84a69a28ab4",
+      "release_date": "2014-11-12"
+    },
+    {
+      "featuredArtist": "Firebeatz",
+      "featuredArtistId": "53YSn9tHwGJ6bq5P0gGoYo",
+      "trackName": "It Was You",
+      "trackId": "6dT6KExhIQIhohNcbh6L6D",
+      "preview": "https://p.scdn.co/mp3-preview/2674c79af800e7df9e1f4c13de0337860cc3e784?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/35f57037a887e9b35037bd82eb23c84a69a28ab4",
+      "release_date": "2014-11-12"
+    },
+    {
+      "featuredArtist": "Ummet Ozcan",
+      "featuredArtistId": "7e1BNCygl2Gf7CX8LrByPv",
+      "trackName": "Overdrive",
+      "trackId": "6ZANwwbbkhTZ4vOlnJScxp",
+      "preview": "https://p.scdn.co/mp3-preview/0fc3c5ee653001db01a9634b7b6c06e2d5323384?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/35f57037a887e9b35037bd82eb23c84a69a28ab4",
+      "release_date": "2014-11-12"
+    },
+    {
+      "featuredArtist": "HAIM",
+      "featuredArtistId": "4Ui2kfOqGujY81UcPrb5KE",
+      "trackName": "Pray to God",
+      "trackId": "7bfJhsLDSNDh6kWVAUXsrd",
+      "preview": "https://p.scdn.co/mp3-preview/cb32a7ee696398531ddd907f541404a1bdb214c9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/35f57037a887e9b35037bd82eb23c84a69a28ab4",
+      "release_date": "2014-11-12"
+    },
+    {
+      "featuredArtist": "Gwen Stefani",
+      "featuredArtistId": "4yiQZ8tQPux8cPriYMWUFP",
+      "trackName": "Together",
+      "trackId": "4cshWe3AmsWgE5J17JkWhH",
+      "preview": "https://p.scdn.co/mp3-preview/713b6fdd7e8db07f83e461d727e26a3e0e667899?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/35f57037a887e9b35037bd82eb23c84a69a28ab4",
+      "release_date": "2014-11-12"
+    },
+    {
+      "featuredArtist": "R3HAB",
+      "featuredArtistId": "6cEuCEZu7PAE9ZSzLLc2oQ",
+      "trackName": "Burnin",
+      "trackId": "1JMiw1w2zKDz2ZUopbcpCQ",
+      "preview": "https://p.scdn.co/mp3-preview/b20b32cf6b01e5740cec9898abd764a6e6756d6b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/35f57037a887e9b35037bd82eb23c84a69a28ab4",
+      "release_date": "2014-11-12"
+    },
+    {
+      "featuredArtist": "Tinashe",
+      "featuredArtistId": "0NIIxcxNHmOoyBx03SfTCD",
+      "trackName": "Dollar Signs",
+      "trackId": "3YGFAm0npFB8iz2ihS6j2P",
+      "preview": "https://p.scdn.co/mp3-preview/003bb45be22bcba7061a79ad76a392192a28778a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/35f57037a887e9b35037bd82eb23c84a69a28ab4",
+      "release_date": "2014-11-12"
+    },
+    {
+      "featuredArtist": "Sunnery James & Ryan Marciano",
+      "featuredArtistId": "7kABWMhjA5GIl9PBEasBPt",
+      "trackName": "Under Control - Sunnery James and Ryan Marciano Mix",
+      "trackId": "4t0eN4mrL0Bz6riZV72UXb",
+      "preview": "https://p.scdn.co/mp3-preview/7f92ff4a128129c96c7c45db05a3127afb154b82?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/35f57037a887e9b35037bd82eb23c84a69a28ab4",
+      "release_date": "2014-11-12"
+    },
+    {
+      "featuredArtist": "R3hab & Ummet Ozcan",
+      "featuredArtistId": "6RwVJInalcxtqOKUOryJUJ",
+      "trackName": "Summer - R3hab & Ummet Ozcan Remix",
+      "trackId": "6wWm1tsyULvQCPwPu5Sw8n",
+      "preview": "https://p.scdn.co/mp3-preview/f40b8fd3fe3069c0e8da682528640d20d66c1afd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/35f57037a887e9b35037bd82eb23c84a69a28ab4",
+      "release_date": "2014-11-12"
+    },
+    {
+      "featuredArtist": "Kelis",
+      "featuredArtistId": "0IF46mUS8NXjgHabxk2MCM",
+      "trackName": "Bounce - Radio Edit",
+      "trackId": "0VVa88lEbjnkJdRqOqlC1L",
+      "preview": "https://p.scdn.co/mp3-preview/2e924bb7e859a96aa8247b45a7b3475d52bb7f88?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2ea7f9150fbd89af31641e3549a68d70e1024276",
+      "release_date": "2012-10-31"
+    },
+    {
+      "featuredArtist": "Rihanna",
+      "featuredArtistId": "5pKCCKE2ajJHZ9KAiaK11H",
+      "trackName": "We Found Love",
+      "trackId": "2DqpkxF6w92a1mDwWNCNNd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2ea7f9150fbd89af31641e3549a68d70e1024276",
+      "release_date": "2012-10-31"
+    },
+    {
+      "featuredArtist": "Example",
+      "featuredArtistId": "6Vh6UDWfu9PUSXSzAaB3CW",
+      "trackName": "We'll Be Coming Back",
+      "trackId": "6SDuQAA1rqYMSg7Uv1m1si",
+      "preview": "https://p.scdn.co/mp3-preview/8c051d18ecee3341ddcf54259f86b945f10cbc28?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2ea7f9150fbd89af31641e3549a68d70e1024276",
+      "release_date": "2012-10-31"
+    },
+    {
+      "featuredArtist": "Nicky Romero",
+      "featuredArtistId": "5ChF3i92IPZHduM7jN3dpg",
+      "trackName": "Iron",
+      "trackId": "43E6x6FIRRsfdZtQAdTCGM",
+      "preview": "https://p.scdn.co/mp3-preview/1a4dcb7e740b018f247739cb99384fc9466bb37b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2ea7f9150fbd89af31641e3549a68d70e1024276",
+      "release_date": "2012-10-31"
+    },
+    {
+      "featuredArtist": "Tinie Tempah",
+      "featuredArtistId": "0Tob4H0FLtEONHU1MjpUEp",
+      "trackName": "Drinking from the Bottle",
+      "trackId": "2vanH4oXfK8qCwfKLvKMyZ",
+      "preview": "https://p.scdn.co/mp3-preview/c676ea3f501284f835fd3af16d7295a8e31ae4ae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2ea7f9150fbd89af31641e3549a68d70e1024276",
+      "release_date": "2012-10-31"
+    },
+    {
+      "featuredArtist": "Florence Welch",
+      "featuredArtistId": "0IROOdQ2fQUcoaEPqt1Isg",
+      "trackName": "Sweet Nothing",
+      "trackId": "2OeTLZVw2vgALruj5K38WE",
+      "preview": "https://p.scdn.co/mp3-preview/aad0034391ac14c1a31106713da2eef33ab84dcc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2ea7f9150fbd89af31641e3549a68d70e1024276",
+      "release_date": "2012-10-31"
+    },
+    {
+      "featuredArtist": "Dillon Francis",
+      "featuredArtistId": "5R3Hr2cnCCjt220Jmt2xLf",
+      "trackName": "Here 2 China",
+      "trackId": "7n4C61mvLWosSbytp8fmBq",
+      "preview": "https://p.scdn.co/mp3-preview/00db33e1b14b18d9370b1a842ddec04623351687?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2ea7f9150fbd89af31641e3549a68d70e1024276",
+      "release_date": "2012-10-31"
+    },
+    {
+      "featuredArtist": "Dizzee Rascal",
+      "featuredArtistId": "0gusqTJKxtU1UTmNRMHZcv",
+      "trackName": "Here 2 China",
+      "trackId": "7n4C61mvLWosSbytp8fmBq",
+      "preview": "https://p.scdn.co/mp3-preview/00db33e1b14b18d9370b1a842ddec04623351687?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2ea7f9150fbd89af31641e3549a68d70e1024276",
+      "release_date": "2012-10-31"
+    },
+    {
+      "featuredArtist": "Ne-Yo",
+      "featuredArtistId": "21E3waRsmPlU7jZsS13rcj",
+      "trackName": "Let's Go",
+      "trackId": "6mfKpqyMwf20uMW9DEXPZR",
+      "preview": "https://p.scdn.co/mp3-preview/4daca687f7b88634b75a8123f112e7ace96b1a17?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2ea7f9150fbd89af31641e3549a68d70e1024276",
+      "release_date": "2012-10-31"
+    },
+    {
+      "featuredArtist": "Ayah Marar",
+      "featuredArtistId": "4xQ2BGOBUXgjxO2PAhrIyS",
+      "trackName": "Thinking About You",
+      "trackId": "1rrmkrTkKNjVdLovmMLjMS",
+      "preview": "https://p.scdn.co/mp3-preview/6476f5ae6b265f852e214304fabb95de01e4ec6b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2ea7f9150fbd89af31641e3549a68d70e1024276",
+      "release_date": "2012-10-31"
+    },
+    {
+      "featuredArtist": "Benny Benassi",
+      "featuredArtistId": "4Ws2otunReOa6BbwxxpCt6",
+      "trackName": "Feel So Close - Benny Benassi Remix",
+      "trackId": "7ziOt2CUF4LAnWWlGfSDrg",
+      "preview": "https://p.scdn.co/mp3-preview/f7e2c389c02ae2e28243ed90aab6a2fe2503a07f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2ea7f9150fbd89af31641e3549a68d70e1024276",
+      "release_date": "2012-10-31"
+    },
+    {
+      "featuredArtist": "Ale Benassi",
+      "featuredArtistId": "0vaqt0IU14MynjT7ZcgXXg",
+      "trackName": "Feel So Close - Benny Benassi Remix",
+      "trackId": "7ziOt2CUF4LAnWWlGfSDrg",
+      "preview": "https://p.scdn.co/mp3-preview/f7e2c389c02ae2e28243ed90aab6a2fe2503a07f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2ea7f9150fbd89af31641e3549a68d70e1024276",
+      "release_date": "2012-10-31"
+    },
+    {
+      "featuredArtist": "Michael Woods",
+      "featuredArtistId": "3G1QoWkaZ1CUnTLUb0CqtC",
+      "trackName": "We'll Be Coming Back - Michael Woods Remix",
+      "trackId": "36B6m255SuCQU54VgECjFo",
+      "preview": "https://p.scdn.co/mp3-preview/d63778410b5a337188d5a4abefd2970fe02ba943?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2ea7f9150fbd89af31641e3549a68d70e1024276",
+      "release_date": "2012-10-31"
+    },
+    {
+      "featuredArtist": "Tiësto",
+      "featuredArtistId": "2o5jDhtHVPhrJdv3cEQ99Z",
+      "trackName": "Sweet Nothing - Tiësto Remix",
+      "trackId": "4B9wsJXe47qoE3IwIxB4CO",
+      "preview": "https://p.scdn.co/mp3-preview/9cb4a525d7a489704177ad27b59f8220b316cc45?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2ea7f9150fbd89af31641e3549a68d70e1024276",
+      "release_date": "2012-10-31"
+    },
+    {
+      "featuredArtist": "Chrome",
+      "featuredArtistId": "6rRfU5PFMng3MXEU7xMwUW",
+      "trackName": "Dance Wiv Me - Extended Mix",
+      "trackId": "4Zxd73YOl7ZG2jcDbeGVkF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1f3d8ab1eba768091353eba501e2fdd5b809df00",
+      "release_date": "2009-08-17"
+    },
+    {
+      "featuredArtist": "Groove Armada",
+      "featuredArtistId": "67tgMwUfnmqzYsNAtnP6YJ",
+      "trackName": "The Girls - Groove Armada Remix",
+      "trackId": "1gU87g7kuRu5L5vbVN8Var",
+      "preview": "https://p.scdn.co/mp3-preview/937fd47faed285594f04d3d6c5c5bbbcea44ddeb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f15a8b3ba21ed05eda4b1c9eefa289485e1a849",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Tom Neville",
+      "featuredArtistId": "1gbiWzSQlYGEEFeH97pGwt",
+      "trackName": "Acceptable in the 80's - Tom Neville Remix",
+      "trackId": "70AscQTuEr7OxWlaAyfmOh",
+      "preview": "https://p.scdn.co/mp3-preview/dd8303334aea1c52860f014242ae3585d3878211?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f15a8b3ba21ed05eda4b1c9eefa289485e1a849",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "SZA",
+      "featuredArtistId": "7tYKF4w9nC0nq9CsPZTHyP",
+      "trackName": "The Weekend - Funk Wav Remix",
+      "trackId": "0P6AWOA4LG1XOctzaVu5tt",
+      "preview": "https://p.scdn.co/mp3-preview/215471369e674156c24562a8a49b745fe77b472d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f71edc4bd18f11f615f070d8d668cdce60d7d375",
+      "release_date": "2017-12-15"
+    }
+  ]
+}

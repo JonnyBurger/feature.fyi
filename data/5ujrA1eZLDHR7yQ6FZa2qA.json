@@ -1,0 +1,23 @@
+{
+  "artistName": "Vera Blue",
+  "features": [
+    {
+      "featuredArtist": "Kodie Shane",
+      "featuredArtistId": "1CUeN4GnHAGUk9nAXPorF4",
+      "trackName": "Lady Powers",
+      "trackId": "16CwBVK9HgxaCdoaFzPVAz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5fdd8f8074cef06e6f0a076f1b41130073227135",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Vice",
+      "featuredArtistId": "0q4NrXqJnc367PieejuROJ",
+      "trackName": "Regular Touch - Vice Remix",
+      "trackId": "5JgaCIj3E28BK6QeOdIEhr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/090738ddbb3bcaae9deb4a1b68577bc10bf5ac91",
+      "release_date": "2017-11-10"
+    }
+  ]
+}

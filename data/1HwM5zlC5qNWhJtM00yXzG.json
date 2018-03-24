@@ -1,0 +1,491 @@
+{
+  "artistName": "DMX",
+  "features": [
+    {
+      "featuredArtist": "Styles P",
+      "featuredArtistId": "2x8KDZdSONA3872CnhaAlX",
+      "trackName": "Still (feat. Styles P)",
+      "trackId": "0PNpBD9Ui2MKe5HQRaCKXd",
+      "preview": "https://p.scdn.co/mp3-preview/300409a13edc608920ab4b08a25cd2852a54d928?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7fa19a59e2768abb772993ced76310f8ae7e5c8d",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "Blackburner",
+      "featuredArtistId": "1YJMjs8wqatS75Lisew4wN",
+      "trackName": "We Gonna Tear Shit Up (Blackburner Vs. DMX)",
+      "trackId": "2YIYSrgWnTrf80wWp5Kxt7",
+      "preview": "https://p.scdn.co/mp3-preview/fd7b9ebe765df606e0cb189fa660b7698776537f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d71dc78a67af91938eb65dbac4c7598595d518f",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Ram-Page",
+      "featuredArtistId": "6ATBIqtclHGHYn30AAI2SP",
+      "trackName": "Solid",
+      "trackId": "4YjyCDFvdkwTlrvFZsYGHZ",
+      "preview": "https://p.scdn.co/mp3-preview/f4f10c4781e59ed1d80d859f3ccbdb3dc32e7059?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4872bea5a083e322c8c4ca05ca27a4f7c53730bb",
+      "release_date": "2015-01-13"
+    },
+    {
+      "featuredArtist": "Freeway",
+      "featuredArtistId": "1sTNITOzZLjiSmlkDzMzwD",
+      "trackName": "Where You Been",
+      "trackId": "0rYHnkxoe8yzDDDuyMDhDl",
+      "preview": "https://p.scdn.co/mp3-preview/6f279e4c03b61dfc7f4bbbb35c4008158d1aedd8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4872bea5a083e322c8c4ca05ca27a4f7c53730bb",
+      "release_date": "2015-01-13"
+    },
+    {
+      "featuredArtist": "Jannyce",
+      "featuredArtistId": "1btKMphdaC1YS4OhZVZ2eQ",
+      "trackName": "Right or Wrong",
+      "trackId": "5j4dxTfQwUviFKNQ0S8OWh",
+      "preview": "https://p.scdn.co/mp3-preview/4257d79e623c6bc06a0934678b33e31861c52948?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4872bea5a083e322c8c4ca05ca27a4f7c53730bb",
+      "release_date": "2015-01-13"
+    },
+    {
+      "featuredArtist": "Tyrese",
+      "featuredArtistId": "08p7B5OtcUuVblvkQIlBhJ",
+      "trackName": "That's My Baby",
+      "trackId": "5r7wcyihdWmLRszw69kUZ9",
+      "preview": "https://p.scdn.co/mp3-preview/4d3d1349cbad6b7525a813e66f9bab6e5d996f04?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d79d729b71c65e4780ba042cc6658fc680482b0f",
+      "release_date": "2012-09-11"
+    },
+    {
+      "featuredArtist": "Adreena Mills",
+      "featuredArtistId": "4q2vYDZBDL2jtMMlNxuAEg",
+      "trackName": "Cold World",
+      "trackId": "2sSrPdFLeNlNdO3mTNtNys",
+      "preview": "https://p.scdn.co/mp3-preview/ebd98a9b81e0b0005b7327e6c402396051866468?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/609cf0993a810eed2f8df43af98305c7346d1cbe",
+      "release_date": "2012-09-11"
+    },
+    {
+      "featuredArtist": "Machine Gun Kelly",
+      "featuredArtistId": "6TIYQ3jFPwQSRmorSezPxX",
+      "trackName": "I Don't Dance",
+      "trackId": "5NkfbzVxuvPP2twQrTSrLB",
+      "preview": "https://p.scdn.co/mp3-preview/e1d17dc99b3c5e2f3b84c12775d16264d4c37940?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/609cf0993a810eed2f8df43af98305c7346d1cbe",
+      "release_date": "2012-09-11"
+    },
+    {
+      "featuredArtist": "Dani Stevenson",
+      "featuredArtistId": "65HMIz4bTRHB2A7jjRmq83",
+      "trackName": "Sucka for Love",
+      "trackId": "5Xt3bbNhD4ZIgC5N3nYNbH",
+      "preview": "https://p.scdn.co/mp3-preview/d5da75f1ad1300d5fde1dc667066e93762141f35?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/609cf0993a810eed2f8df43af98305c7346d1cbe",
+      "release_date": "2012-09-11"
+    },
+    {
+      "featuredArtist": "Rachel Taylor",
+      "featuredArtistId": "1HCKPmE10EVcWyLnA14t2J",
+      "trackName": "I Get Scared",
+      "trackId": "4HwbPhHVJRYLdRGoSF8wKs",
+      "preview": "https://p.scdn.co/mp3-preview/78de64be0fe068752bf425e1b017d7c95f3ffc98?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/609cf0993a810eed2f8df43af98305c7346d1cbe",
+      "release_date": "2012-09-11"
+    },
+    {
+      "featuredArtist": "Kashmere",
+      "featuredArtistId": "6pXtYIu6X74qGk2gfCnhcP",
+      "trackName": "I Got Your Back",
+      "trackId": "4NWFL8CxdHPSeLlgJwwNwz",
+      "preview": "https://p.scdn.co/mp3-preview/621a4c341fedacbc788a24886f8ff7c0d58f9779?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/609cf0993a810eed2f8df43af98305c7346d1cbe",
+      "release_date": "2012-09-11"
+    },
+    {
+      "featuredArtist": "JR Writer",
+      "featuredArtistId": "55dc4rK8CrUWEneagloaa2",
+      "trackName": "I've Seen (feat. Jr Writer & Hell Rell)",
+      "trackId": "59uoeRkDPutsI34wsVwHfD",
+      "preview": "https://p.scdn.co/mp3-preview/210bf0b6c8f54606ed80e8b6c482c95484119344?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bf1e417501e082d32330a5e6196096c1afd7323",
+      "release_date": "2010-03-23"
+    },
+    {
+      "featuredArtist": "Hell Rell",
+      "featuredArtistId": "3m1knVGHFKK57xnleGMHcJ",
+      "trackName": "I've Seen (feat. Jr Writer & Hell Rell)",
+      "trackId": "59uoeRkDPutsI34wsVwHfD",
+      "preview": "https://p.scdn.co/mp3-preview/210bf0b6c8f54606ed80e8b6c482c95484119344?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bf1e417501e082d32330a5e6196096c1afd7323",
+      "release_date": "2010-03-23"
+    },
+    {
+      "featuredArtist": "Mobb Deep",
+      "featuredArtistId": "6O2zJ0tId7g07yzHtX0yap",
+      "trackName": "Boy Back Up (feat. Mobb Deep)",
+      "trackId": "2Vj2juvOxqsbBdNy0kElZF",
+      "preview": "https://p.scdn.co/mp3-preview/acba076fccfc170eb0fd25229e781f2b66b7f76f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bf1e417501e082d32330a5e6196096c1afd7323",
+      "release_date": "2010-03-23"
+    },
+    {
+      "featuredArtist": "Loon",
+      "featuredArtistId": "2gie1bU1LwnxdFAJoTLjzT",
+      "trackName": "U Aint $$$tt (feat. Loon & G-Dep)",
+      "trackId": "04vUUnsXSRwHi74YOSFgDV",
+      "preview": "https://p.scdn.co/mp3-preview/3f74188f5234ec79368977390f7496e10aab4a8e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bf1e417501e082d32330a5e6196096c1afd7323",
+      "release_date": "2010-03-23"
+    },
+    {
+      "featuredArtist": "G. Dep",
+      "featuredArtistId": "7x7pxJtOTFkTSStKmrRyRp",
+      "trackName": "U Aint $$$tt (feat. Loon & G-Dep)",
+      "trackId": "04vUUnsXSRwHi74YOSFgDV",
+      "preview": "https://p.scdn.co/mp3-preview/3f74188f5234ec79368977390f7496e10aab4a8e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bf1e417501e082d32330a5e6196096c1afd7323",
+      "release_date": "2010-03-23"
+    },
+    {
+      "featuredArtist": "AZ",
+      "featuredArtistId": "4P60C6hEA0UrFJNd0dRQ22",
+      "trackName": "No Where to Hide (feat. AZ)",
+      "trackId": "3QBZ8FneB9RhRfLmf8vZMD",
+      "preview": "https://p.scdn.co/mp3-preview/1527e186faee9eed459c8a2dbabdd2fd67f3e501?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bf1e417501e082d32330a5e6196096c1afd7323",
+      "release_date": "2010-03-23"
+    },
+    {
+      "featuredArtist": "Kieth Murray",
+      "featuredArtistId": "28QzaVH5ZM8ptJqODmk9uf",
+      "trackName": "Lil Room (feat. Kieth Murray)",
+      "trackId": "1Ui1HKA7iA5WcTFAqizrcD",
+      "preview": "https://p.scdn.co/mp3-preview/d8486741bf9d757194a8258f9636beba4769b7c2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bf1e417501e082d32330a5e6196096c1afd7323",
+      "release_date": "2010-03-23"
+    },
+    {
+      "featuredArtist": "Sheek",
+      "featuredArtistId": "0bbN8BIF8Ys24597Zajine",
+      "trackName": "Get At Me Dog - Greatest hits version explicit",
+      "trackId": "4yOtYUUvIq6VMazGWDdcHX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a5dec5f06fa357b21819afea5daf23a562b5f9d0",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Sisqo",
+      "featuredArtistId": "6x9QLdzo6eBZxJ1bHsDkjg",
+      "trackName": "What These Bitches Want",
+      "trackId": "2YabHsDt30UdsYXgFwqFZc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a5dec5f06fa357b21819afea5daf23a562b5f9d0",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "JAY Z",
+      "featuredArtistId": "3nFkdlSjzX9mRTtwJOzDYB",
+      "trackName": "Blackout",
+      "trackId": "5o7czVVfuenOMDiH5J68UP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a5dec5f06fa357b21819afea5daf23a562b5f9d0",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "The Lox",
+      "featuredArtistId": "0A7g2YbCA9FlyZvAG6VmKP",
+      "trackName": "Blackout",
+      "trackId": "5o7czVVfuenOMDiH5J68UP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a5dec5f06fa357b21819afea5daf23a562b5f9d0",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Kasseem Dean",
+      "featuredArtistId": "5Vg10TglAzllS3ZPyEG6gD",
+      "trackName": "No Love For Me",
+      "trackId": "6k07W3ES08Q0ebEG2zQbFJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a5dec5f06fa357b21819afea5daf23a562b5f9d0",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Drag-On",
+      "featuredArtistId": "2NsAJcAM18AExiMWKLKzuH",
+      "trackName": "No Love For Me",
+      "trackId": "6k07W3ES08Q0ebEG2zQbFJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a5dec5f06fa357b21819afea5daf23a562b5f9d0",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Faith Evans",
+      "featuredArtistId": "5NDMothbpdpq2xHqSjrrWn",
+      "trackName": "How's It Goin' Down - Album Version (Edited)",
+      "trackId": "2E2ne9LRBziDTpzlSuPfFI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dc2833fb8071abee3636aeceb5aa779173a6cf9e",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Swizz Beatz",
+      "featuredArtistId": "2cADQgiLMjNhbsfeN52Bf3",
+      "trackName": "We in Here",
+      "trackId": "7hpmS8RxSVyBeibzSCP0c3",
+      "preview": "https://p.scdn.co/mp3-preview/eb61ab92ac81cfbdd0fcbfc6a61b4daf83cb93ce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8b3e8e6a6f7717ad2c7ebf2ca4d25f53dec0479",
+      "release_date": "2006-08-01"
+    },
+    {
+      "featuredArtist": "Big Stan",
+      "featuredArtistId": "0wWxSCpA5vzDAbhrGnVeOd",
+      "trackName": "I Run Shit - I Run S*** (Clean Album Version)",
+      "trackId": "1mcvJIf3cRyRmUWvUuSOcm",
+      "preview": "https://p.scdn.co/mp3-preview/513f824c6589a9da69d8d37580e6551770c95bbd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8b3e8e6a6f7717ad2c7ebf2ca4d25f53dec0479",
+      "release_date": "2006-08-01"
+    },
+    {
+      "featuredArtist": "Busta Rhymes",
+      "featuredArtistId": "1YfEcTuGvBQ8xSD1f53UnK",
+      "trackName": "Come Thru (Move) - Clean Album Version",
+      "trackId": "1DN3DBZ3kY9NTjEG22iWgF",
+      "preview": "https://p.scdn.co/mp3-preview/f438ee6155a81823c1f72e42553468ec49749eeb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8b3e8e6a6f7717ad2c7ebf2ca4d25f53dec0479",
+      "release_date": "2006-08-01"
+    },
+    {
+      "featuredArtist": "Jadakiss",
+      "featuredArtistId": "5pnbUBPifNnlusY8kTBivi",
+      "trackName": "It's Personal - Clean Album Version",
+      "trackId": "5tdUrg1Aqc7lu5QcO8SimE",
+      "preview": "https://p.scdn.co/mp3-preview/e72ee9f896f98e11ba0d961f38c1263c95c9adef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8b3e8e6a6f7717ad2c7ebf2ca4d25f53dec0479",
+      "release_date": "2006-08-01"
+    },
+    {
+      "featuredArtist": "Janyce",
+      "featuredArtistId": "1D59EWPGLZkWe7iB3GnMA4",
+      "trackName": "Dog Love - Clean Album Version",
+      "trackId": "31dCTxij5PAhBXcBaFaZOk",
+      "preview": "https://p.scdn.co/mp3-preview/4c44f2083379ae61aae398d425a53667ec8f2b49?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8b3e8e6a6f7717ad2c7ebf2ca4d25f53dec0479",
+      "release_date": "2006-08-01"
+    },
+    {
+      "featuredArtist": "Amerie",
+      "featuredArtistId": "08rMCq2ek1YjdDBsCPVH2s",
+      "trackName": "Dog Love - Clean Album Version",
+      "trackId": "31dCTxij5PAhBXcBaFaZOk",
+      "preview": "https://p.scdn.co/mp3-preview/4c44f2083379ae61aae398d425a53667ec8f2b49?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8b3e8e6a6f7717ad2c7ebf2ca4d25f53dec0479",
+      "release_date": "2006-08-01"
+    },
+    {
+      "featuredArtist": "Bzr Royale",
+      "featuredArtistId": "79s64fTBGcahNZEdA5BaJm",
+      "trackName": "Wrong Or Right (I'm Tired) - Clean Album Version",
+      "trackId": "1rdcQn6509iPRyxwLqENd3",
+      "preview": "https://p.scdn.co/mp3-preview/c40a2a2eeeaba5c6992f3b69ff6f6c775ae6e850?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8b3e8e6a6f7717ad2c7ebf2ca4d25f53dec0479",
+      "release_date": "2006-08-01"
+    },
+    {
+      "featuredArtist": "Kashmir",
+      "featuredArtistId": "6Jsq0AbwEKcmDuyA4ca9wu",
+      "trackName": "Walk These Dogs - Clean Album Version",
+      "trackId": "4GQN3fsFsTJVKsXPEkVW6N",
+      "preview": "https://p.scdn.co/mp3-preview/3ea423b25e39210575d9a2bbe41b15537a1eb1c0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8b3e8e6a6f7717ad2c7ebf2ca4d25f53dec0479",
+      "release_date": "2006-08-01"
+    },
+    {
+      "featuredArtist": "Jinx",
+      "featuredArtistId": "66WCL9A4YUu8dBkwpU4OIV",
+      "trackName": "Blown Away - Clean Album Version",
+      "trackId": "05B76C37o2WyZoJ8cBuczn",
+      "preview": "https://p.scdn.co/mp3-preview/2371898ee9accd5aa687b69141c50519897b5b2a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8b3e8e6a6f7717ad2c7ebf2ca4d25f53dec0479",
+      "release_date": "2006-08-01"
+    },
+    {
+      "featuredArtist": "Jinx",
+      "featuredArtistId": "6te6JHTO5cQhgBBm2YoiAm",
+      "trackName": "Blown Away - Dirty Album Version",
+      "trackId": "6c1b3wsehrD01nxjSnKEtC",
+      "preview": "https://p.scdn.co/mp3-preview/b83bc4f46c15a45d280cd4271ae62c41eb569e49?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/84d7c2dfbf83567786698397ab35a664f9f64978",
+      "release_date": "2006-07-28"
+    },
+    {
+      "featuredArtist": "Chinky",
+      "featuredArtistId": "2PYVTosVsp4y44oeuU5Asv",
+      "trackName": "My Life",
+      "trackId": "3cXIXeQSqAUtdt98QLvkow",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/249878059bb9cee9535294268369ca0e3d9d9d33",
+      "release_date": "2003-09-16"
+    },
+    {
+      "featuredArtist": "50 Cent",
+      "featuredArtistId": "3q7HBObVc0L8jNeTe5Gofh",
+      "trackName": "Shot Down",
+      "trackId": "1qTH8O53L8046r3QLocYoO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/249878059bb9cee9535294268369ca0e3d9d9d33",
+      "release_date": "2003-09-16"
+    },
+    {
+      "featuredArtist": "Syleena Johnson",
+      "featuredArtistId": "1lE6SEy8f84Zhjvp7r8yTD",
+      "trackName": "Untouchable",
+      "trackId": "4j7BnZ26cSIYBR1Ic0dq9F",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/249878059bb9cee9535294268369ca0e3d9d9d33",
+      "release_date": "2003-09-16"
+    },
+    {
+      "featuredArtist": "Infa-Red & Cross",
+      "featuredArtistId": "4heq4It7gPnLQdiN9YW1t6",
+      "trackName": "Untouchable",
+      "trackId": "4j7BnZ26cSIYBR1Ic0dq9F",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/249878059bb9cee9535294268369ca0e3d9d9d33",
+      "release_date": "2003-09-16"
+    },
+    {
+      "featuredArtist": "Eve",
+      "featuredArtistId": "4d3yvTptO48nOYTPBcPFZC",
+      "trackName": "We're Back",
+      "trackId": "71IxW6Jq4TMQ1GHPpB603E",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/249878059bb9cee9535294268369ca0e3d9d9d33",
+      "release_date": "2003-09-16"
+    },
+    {
+      "featuredArtist": "Cam’ron",
+      "featuredArtistId": "7iMvwE8qANp3aIfAGKEAwS",
+      "trackName": "We Go Hard",
+      "trackId": "5pyjyjq7QfxVEiOwteAr9m",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/249878059bb9cee9535294268369ca0e3d9d9d33",
+      "release_date": "2003-09-16"
+    },
+    {
+      "featuredArtist": "Monica",
+      "featuredArtistId": "6nzxy2wXs6tLgzEtqOkEi2",
+      "trackName": "Don't Gotta Go Home",
+      "trackId": "1PDCPYOMxSzji4O59SdrF8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/249878059bb9cee9535294268369ca0e3d9d9d33",
+      "release_date": "2003-09-16"
+    },
+    {
+      "featuredArtist": "Magic",
+      "featuredArtistId": "5RszwcBlHzry6slQ9LRcSw",
+      "trackName": "A 'Yo Kato",
+      "trackId": "5vs6e7UQH29oggM5UcKENV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/249878059bb9cee9535294268369ca0e3d9d9d33",
+      "release_date": "2003-09-16"
+    },
+    {
+      "featuredArtist": "Val",
+      "featuredArtistId": "4RdqZqW3EjHIo7XkmkS0NS",
+      "trackName": "A 'Yo Kato",
+      "trackId": "5vs6e7UQH29oggM5UcKENV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/249878059bb9cee9535294268369ca0e3d9d9d33",
+      "release_date": "2003-09-16"
+    },
+    {
+      "featuredArtist": "Patti LaBelle",
+      "featuredArtistId": "0ty0xha1dbprYIUAQufkFn",
+      "trackName": "Thank You",
+      "trackId": "3LmWZnXtMmzwTBZwLjRSfO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/249878059bb9cee9535294268369ca0e3d9d9d33",
+      "release_date": "2003-09-16"
+    },
+    {
+      "featuredArtist": "Val",
+      "featuredArtistId": "1Rw4gQmVcZ5S5Gtg3aIUPi",
+      "trackName": "A 'Yo Kato",
+      "trackId": "23yM7lYdVYRdWwnIklLlmL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/180cd09386a314dc554d146a0e9b3051bc529879",
+      "release_date": "2003-09-16"
+    },
+    {
+      "featuredArtist": "Magic",
+      "featuredArtistId": "6z6gmIKKTBiWB65ICOXdF6",
+      "trackName": "A 'Yo Kato",
+      "trackId": "4h9KQ1Roa79ZqCMwHuojLY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8feb79d2ca965b261a16275529565d53c30bf821",
+      "release_date": "2003-01-01"
+    },
+    {
+      "featuredArtist": "Val",
+      "featuredArtistId": "5NnRLKGKTucyRqRLjPvEFA",
+      "trackName": "A 'Yo Kato",
+      "trackId": "4h9KQ1Roa79ZqCMwHuojLY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8feb79d2ca965b261a16275529565d53c30bf821",
+      "release_date": "2003-01-01"
+    },
+    {
+      "featuredArtist": "Stephanie Mills",
+      "featuredArtistId": "0PcIlEZa7rreM7729ot05g",
+      "trackName": "When I'm Nothing",
+      "trackId": "6C9K3UHXyzt0Xl7BS9KChg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3505965f023b3469131a741468a86f696eb7bde",
+      "release_date": "2001-01-01"
+    },
+    {
+      "featuredArtist": "Mic Geronimo",
+      "featuredArtistId": "3nLE33yBJ82QPWzvvqv7rE",
+      "trackName": "A Minute For Your Son",
+      "trackId": "2YmqMVz3OaYO6qhd5BHKmK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3505965f023b3469131a741468a86f696eb7bde",
+      "release_date": "2001-01-01"
+    },
+    {
+      "featuredArtist": "Jinx Da Juvy",
+      "featuredArtistId": "1ta4ZlzC03FwlTpsoSMMdj",
+      "trackName": "A Minute For Your Son",
+      "trackId": "2YmqMVz3OaYO6qhd5BHKmK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3505965f023b3469131a741468a86f696eb7bde",
+      "release_date": "2001-01-01"
+    },
+    {
+      "featuredArtist": "Kashmir",
+      "featuredArtistId": "2MB2FfSmXBvPhsvvMLwDqJ",
+      "trackName": "A Minute For Your Son",
+      "trackId": "2YmqMVz3OaYO6qhd5BHKmK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3505965f023b3469131a741468a86f696eb7bde",
+      "release_date": "2001-01-01"
+    },
+    {
+      "featuredArtist": "Loose",
+      "featuredArtistId": "3qUOX2z1S7tpp9UrgJZ6rc",
+      "trackName": "A Minute For Your Son",
+      "trackId": "2YmqMVz3OaYO6qhd5BHKmK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3505965f023b3469131a741468a86f696eb7bde",
+      "release_date": "2001-01-01"
+    },
+    {
+      "featuredArtist": "Mysonne",
+      "featuredArtistId": "3rTbLTVoxtJrCypTjkl0xD",
+      "trackName": "A Minute For Your Son",
+      "trackId": "2YmqMVz3OaYO6qhd5BHKmK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3505965f023b3469131a741468a86f696eb7bde",
+      "release_date": "2001-01-01"
+    }
+  ]
+}

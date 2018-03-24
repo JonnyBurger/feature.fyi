@@ -1,0 +1,59 @@
+{
+  "artistName": "Ed Sheeran",
+  "features": [
+    {
+      "featuredArtist": "Rudimental",
+      "featuredArtistId": "4WN5naL3ofxrVBgFpguzKo",
+      "trackName": "Lay It All On Me (feat. Ed Sheeran)",
+      "trackId": "1eIcWCHqpW2qlWwNOH3dL1",
+      "preview": "https://p.scdn.co/mp3-preview/167bf67341bda05f8197545ab254e59b237abcb6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/02a6e0894c93909845e3815f7ac21ba5d62b0f0a",
+      "release_date": "2015-11-13"
+    },
+    {
+      "featuredArtist": "Nekfeu",
+      "featuredArtistId": "4LXBc13z5EWsc5N32bLxfH",
+      "trackName": "Reuf (feat. Ed Sheeran)",
+      "trackId": "3iyJ2Yl3bQNQhHht2lWLnL",
+      "preview": "https://p.scdn.co/mp3-preview/b65613bebbbdcc8ea95487961aa394a44786ef8c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/02a6e0894c93909845e3815f7ac21ba5d62b0f0a",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Andrea Bocelli",
+      "featuredArtistId": "3EA9hVIzKfFiQI0Kikz2wo",
+      "trackName": "Perfect Symphony (Ed Sheeran & Andrea Bocelli)",
+      "trackId": "3zl7j5ua8mF4JDYuxrfo01",
+      "preview": "https://p.scdn.co/mp3-preview/a7a3d0c237792456f61c95fe4b9eff57a3cb6fc3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1819152179db9d41c9c38701c33a45b8210b01c",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Beyoncé",
+      "featuredArtistId": "6vWDO969PvNqNYHIOW5v0m",
+      "trackName": "Perfect Duet (Ed Sheeran & Beyoncé)",
+      "trackId": "1bhUWB0zJMIKr9yVPrkEuI",
+      "preview": "https://p.scdn.co/mp3-preview/65ee4bf5cfdc8f2cd9cc1742f9d4b2ba10c83b2f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6d27b4ab01b5f52ad8a4ed1b56422c6c7f71fcf2",
+      "release_date": "2017-11-30"
+    },
+    {
+      "featuredArtist": "Robin Schulz",
+      "featuredArtistId": "3t5xRXzsuZmMDkQzgOX35S",
+      "trackName": "Perfect - Robin Schulz Remix",
+      "trackId": "0AGAlxajK7xQN19o1eplzS",
+      "preview": "https://p.scdn.co/mp3-preview/cbeb9287ce320e9f33457046a7993f94afe7b0be?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e6a84983ed9b0a04ce633b021329f7df034e7c7c",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Mike Perry",
+      "featuredArtistId": "6lB8vOoI4DRrrVxXwuV19c",
+      "trackName": "Perfect - Mike Perry Remix",
+      "trackId": "5AJgjETGRZMlONKiKzYCUy",
+      "preview": "https://p.scdn.co/mp3-preview/67ee063219de67995aa55bb80d5d04d2e02fbccd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/59ba8b75dff51cf309f0c786fc6b7ada72cc7cca",
+      "release_date": "2017-11-10"
+    }
+  ]
+}

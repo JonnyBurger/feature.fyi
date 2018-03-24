@@ -1,0 +1,50 @@
+{
+  "artistName": "Skylar Grey",
+  "features": [
+    {
+      "featuredArtist": "Eminem",
+      "featuredArtistId": "7dGJo4pcD2V6oG8kP0tJRR",
+      "trackName": "Kill For You",
+      "trackId": "3uiYzME6KVO6icSkcGq1Ya",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4aeccd155bedc3fab392558dd39a346a02215165",
+      "release_date": "2016-10-14"
+    },
+    {
+      "featuredArtist": "Big Sean",
+      "featuredArtistId": "0c173mlxpT3dSFRgMO8XPh",
+      "trackName": "Back From The Dead",
+      "trackId": "13gNDAYWsSouJfVAzruqb6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/097505ec6e86fc4fbf930c0aa9ba9f853a828555",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Travis Barker",
+      "featuredArtistId": "4exLIFE8sISLr28sqG1qNX",
+      "trackName": "Back From The Dead",
+      "trackId": "13gNDAYWsSouJfVAzruqb6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/097505ec6e86fc4fbf930c0aa9ba9f853a828555",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Angel Haze",
+      "featuredArtistId": "2cyyGl4qnHZL0o16t0fpJl",
+      "trackName": "Shit, Man!",
+      "trackId": "3UBfG3B2k9Q5i2zaeo2BdS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/097505ec6e86fc4fbf930c0aa9ba9f853a828555",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "X Ambassadors",
+      "featuredArtistId": "3NPpFNZtSTHheNBaWC82rB",
+      "trackName": "Cannonball",
+      "trackId": "0jHNJWeevJedbjQFHuLBkR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f381cf883d69efd485ec6b163837767b14d51518",
+      "release_date": "2015-09-25"
+    }
+  ]
+}

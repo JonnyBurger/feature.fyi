@@ -1,0 +1,68 @@
+{
+  "artistName": "Broods",
+  "features": [
+    {
+      "featuredArtist": "Tove Lo",
+      "featuredArtistId": "4NHQUGzhtTLFvgF5SZesLK",
+      "trackName": "Freak Of Nature",
+      "trackId": "0PXUcKdinuGyp0byj05qFi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5f868b1cde7a2dccc9d477c0fcca29582e3ee64a",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Whethan",
+      "featuredArtistId": "0vqJkZ0RpLZixt3lTmD8vP",
+      "trackName": "Be Like You (feat. Broods)",
+      "trackId": "4onD2lx2ohTTT48FRDCH7h",
+      "preview": "https://p.scdn.co/mp3-preview/8789405cffa37a2af5194aad14046b75a1e9c97a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/868cdf26fcc21c2e034da3fedc9c4ca4d24e2bd7",
+      "release_date": "2018-03-15"
+    },
+    {
+      "featuredArtist": "Race Banyon",
+      "featuredArtistId": "5btOKBbjh04dkX7iqFERLL",
+      "trackName": "Heartlines - Race Banyon Remix",
+      "trackId": "2xSyWUZNghdoLQPArR6eTO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0e7829b0de651da8636ed162f7d3e74b2bb23eda",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "MOUNT",
+      "featuredArtistId": "4DMDkM0xOw9eBeCpW60ycz",
+      "trackName": "Heartlines - MOUNT Remix",
+      "trackId": "6vbnkZ8fIdK5NZxxRPAemy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6478b22bed099ec3f544b9b3e988f1038d7842f8",
+      "release_date": "2017-02-24"
+    },
+    {
+      "featuredArtist": "Cheat Codes",
+      "featuredArtistId": "7DMveApC7UnC2NPfPvlHSU",
+      "trackName": "Heartlines - Cheat Codes Remix",
+      "trackId": "1J0tIMnv8fto5NqbLtpdWu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f01bade12c6cfb70e7b23e6318b5d33315612f9c",
+      "release_date": "2016-11-04"
+    },
+    {
+      "featuredArtist": "BØRNS",
+      "featuredArtistId": "1KP6TWI40m7p3QBTU6u2xo",
+      "trackName": "Free - BØRNS X Tommy English Remix",
+      "trackId": "3hjjxM6JQUsPry27IpVx1S",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/908838fdca66b70cd507b5727d532358ea337c8a",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Tommy English",
+      "featuredArtistId": "5ov2lZO25IK0b86voo1ZAy",
+      "trackName": "Free - BØRNS X Tommy English Remix",
+      "trackId": "3hjjxM6JQUsPry27IpVx1S",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/908838fdca66b70cd507b5727d532358ea337c8a",
+      "release_date": "2016-06-17"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "artistName": "David Bowie",
+  "features": [
+    {
+      "featuredArtist": "Air",
+      "featuredArtistId": "1P6U1dCeHxPui5pIrGmndZ",
+      "trackName": "A Better Future - Remix by Air",
+      "trackId": "7rbVmF1BhVJ9qkeJgs5Qel",
+      "preview": "https://p.scdn.co/mp3-preview/8e38e2c5e654fc6c34748f5358e0f8054f6ae3a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/11771993fa89ddf56d19e3fd92c1892b6eee58ab",
+      "release_date": "2002-06-11"
+    },
+    {
+      "featuredArtist": "Julien Delfaux",
+      "featuredArtistId": "0DvyyU4okH55P6cLyLWnCJ",
+      "trackName": "A Better Future - Remix by Air",
+      "trackId": "7rbVmF1BhVJ9qkeJgs5Qel",
+      "preview": "https://p.scdn.co/mp3-preview/8e38e2c5e654fc6c34748f5358e0f8054f6ae3a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/11771993fa89ddf56d19e3fd92c1892b6eee58ab",
+      "release_date": "2002-06-11"
+    },
+    {
+      "featuredArtist": "Mark Plati",
+      "featuredArtistId": "6ZspT3xZPjYVscQkAIMF0i",
+      "trackName": "V-2 Schneider - TAO Jones Index",
+      "trackId": "2mLZvN0kFTLIa7jyTW5gnm",
+      "preview": "https://p.scdn.co/mp3-preview/1d429a1700d151554a7a2369690abdb8f31fe198?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/84a2552913c9c664b7de814fbe07650df00eb5cf",
+      "release_date": "1997-01-30"
+    },
+    {
+      "featuredArtist": "Lenny Kravitz",
+      "featuredArtistId": "5gznATMVO85ZcLTkE9ULU7",
+      "trackName": "Buddha Of Suburbia - feat. Lenny Kravitz On Guitar",
+      "trackId": "4LclhGwk8gaVWNrGdAy1t2",
+      "preview": "https://p.scdn.co/mp3-preview/11563a985e0dc5d247873b08c34001fa213d1ab7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e9c3ffb9ca984e3171e944889cb08332b6e07118",
+      "release_date": "1993-11-08"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "artistName": "Stromae",
+  "features": [
+    {
+      "featuredArtist": "Angel Haze",
+      "featuredArtistId": "2cyyGl4qnHZL0o16t0fpJl",
+      "trackName": "papaoutai - Bonus track",
+      "trackId": "5mZfIy9s7labLZGan5BuTm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/95ab79a33e86e54f813e84c93bcaa9dea567502a",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Kanye West",
+      "featuredArtistId": "5K4W6rqBFWDnAN6FQUkS6x",
+      "trackName": "Alors On Danse",
+      "trackId": "5TvbwJP6gEq3dKtdYxZRRh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/800761f636d18a997ac8729b9e1b88f1b3a22ce3",
+      "release_date": "2010"
+    },
+    {
+      "featuredArtist": "Solo",
+      "featuredArtistId": "4UG2aBxhQdifpaEWnA1VRD",
+      "trackName": "Alors On Danse - Solo Remix",
+      "trackId": "160C8TMcKyFGnh4fjMOjZb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/800761f636d18a997ac8729b9e1b88f1b3a22ce3",
+      "release_date": "2010"
+    },
+    {
+      "featuredArtist": "Mowgli",
+      "featuredArtistId": "5AnHxVyTuuBwNcpxgmV2Rf",
+      "trackName": "Alors On Danse - Mowgli Remix",
+      "trackId": "0CESmo4mBkl0ZQKGgpJ80T",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/800761f636d18a997ac8729b9e1b88f1b3a22ce3",
+      "release_date": "2010"
+    },
+    {
+      "featuredArtist": "Paul Kalkbrenner",
+      "featuredArtistId": "0rasA5Z5h1ITtHelCpfu9R",
+      "trackName": "Te Quiero - Paul Kalkbrenner Remix",
+      "trackId": "0PHSpagf1hG8ESvphplF91",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/800761f636d18a997ac8729b9e1b88f1b3a22ce3",
+      "release_date": "2010"
+    },
+    {
+      "featuredArtist": "Dieter Weyn",
+      "featuredArtistId": "3RYUUqUQvHrx3h0UFjBgTG",
+      "trackName": "papaoutai - Mystique Remix",
+      "trackId": "7aqZy1okD9dLRXTweRcPeD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e04968668c4fc36a36fe6c9d744ac104bb4eb89a",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Gilbere Forte",
+      "featuredArtistId": "6w9oNSpsNuLOwu2XVbQPGK",
+      "trackName": "Alors On Danse - Remix - Explicit",
+      "trackId": "2SRzCZMWi0vJM5ngaKjcjX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bdbcd5d89421a46558216c00966a7fb26d0bde30",
+      "release_date": "2010-09-02"
+    }
+  ]
+}

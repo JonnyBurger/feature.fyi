@@ -1,0 +1,50 @@
+{
+  "artistName": "Antonio José",
+  "features": [
+    {
+      "featuredArtist": "Cali Y El Dandee",
+      "featuredArtistId": "5DUlefCLzVRzNWaNURTFpK",
+      "trackName": "Tú Me Obligaste",
+      "trackId": "5GGQ4wZeVj26tkUnRA6jgC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a74308fd2f23794e7e4d4c40db680a16d501b99c",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Carlos Rivera",
+      "featuredArtistId": "39yVoqm6sYFvvqF1RciUVf",
+      "trackName": "Ahora Tú",
+      "trackId": "7pDNBYOQEaSZDFQEvMavYU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c21489542edf607c02a715088ff52aefb833c20c",
+      "release_date": "2016-07-08"
+    },
+    {
+      "featuredArtist": "La Fame",
+      "featuredArtistId": "0xJ1Xl1vqIIHaJT8ckQeY0",
+      "trackName": "Tú Me Obligaste - La Fame Salsa Version",
+      "trackId": "5rkHEp5HQAvrqdswZZt7Pd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/de2414911ed3e65a21765317232c968ae0222930",
+      "release_date": "2017-07-27"
+    },
+    {
+      "featuredArtist": "Van Hoick",
+      "featuredArtistId": "6w2IE77DRioYFTs0nF0Vik",
+      "trackName": "Tú Me Obligaste - Versión Dance",
+      "trackId": "6SkNbJ7tAOSatla5Wx4TQC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6ecf880b63603a380564fbe8a5bded6ea3f94946",
+      "release_date": "2017-07-27"
+    },
+    {
+      "featuredArtist": "Robin Mendez",
+      "featuredArtistId": "2aoi55dU98MwKwEEaO8LNN",
+      "trackName": "Tú Me Obligaste - Versión Reggaetón",
+      "trackId": "3pGvUPaHoHCNmdPeSllxVz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21d4cde3ea040a595e8a27bc6c91244e913c0ee7",
+      "release_date": "2017-07-27"
+    }
+  ]
+}

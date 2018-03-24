@@ -1,0 +1,284 @@
+{
+  "artistName": "Maria Gadú",
+  "features": [
+    {
+      "featuredArtist": "Jesse Harris",
+      "featuredArtistId": "1SE144wEx5NYxXBKH5mOqy",
+      "trackName": "Like A Rose",
+      "trackId": "0rA8Ei8YacLunVt2CKskc5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/73038a61f9f1a5f86456e7bf803e255a5a0137b9",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Lenine",
+      "featuredArtistId": "4YLBdrR3DVSMncm785NH6C",
+      "trackName": "Quem?",
+      "trackId": "0I3HmNwBFc4LPZVkPMEDol",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/73038a61f9f1a5f86456e7bf803e255a5a0137b9",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Dani Black",
+      "featuredArtistId": "5DlaVYlcVjPYeC4QLZDBJa",
+      "trackName": "Axé Acappella",
+      "trackId": "3Po6Ch1xQ98JMIjTGvqy40",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/73038a61f9f1a5f86456e7bf803e255a5a0137b9",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Marco Rodrigues",
+      "featuredArtistId": "7BO4WRsZ4rZLTDEXhA7xw0",
+      "trackName": "A Valsa",
+      "trackId": "1LbcyGVxrwnTpL9yWEIUDW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/73038a61f9f1a5f86456e7bf803e255a5a0137b9",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Totonho Villeroy",
+      "featuredArtistId": "6qw3Nr0ArcakRImsfghYmq",
+      "trackName": "Recomeço",
+      "trackId": "4EwIsGonlr17Ogxr2KBI4G",
+      "preview": "https://p.scdn.co/mp3-preview/a037d5603d1a258c0a7715bc47d7d705bd6942d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eea55d040d2485691da778574a0a7c43f47bf904",
+      "release_date": "2013-10-28"
+    },
+    {
+      "featuredArtist": "Moska",
+      "featuredArtistId": "3xKmiuyEnbvjs3RM3LpGvE",
+      "trackName": "Oh My Love, My Love",
+      "trackId": "1LO8t13dae5IPfmIvidHXn",
+      "preview": "https://p.scdn.co/mp3-preview/b4e467d984bc86adc22e0f095b977527ec90c574?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eea55d040d2485691da778574a0a7c43f47bf904",
+      "release_date": "2013-10-28"
+    },
+    {
+      "featuredArtist": "Kevin",
+      "featuredArtistId": "0MGolfd00KLbZklj7w4Xfy",
+      "trackName": "Oh My Love, My Love",
+      "trackId": "1LO8t13dae5IPfmIvidHXn",
+      "preview": "https://p.scdn.co/mp3-preview/b4e467d984bc86adc22e0f095b977527ec90c574?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eea55d040d2485691da778574a0a7c43f47bf904",
+      "release_date": "2013-10-28"
+    },
+    {
+      "featuredArtist": "Gilberto Gil",
+      "featuredArtistId": "7oEkUINVIj1Nr3Wnj8tzqr",
+      "trackName": "Lamento Sertanejo (Forró do Dominguinhos)",
+      "trackId": "4WvMm0nguc5j4jsvbwEPak",
+      "preview": "https://p.scdn.co/mp3-preview/32582e3bc9517aaf4bee3bc0b44323e1eadc9e3f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eea55d040d2485691da778574a0a7c43f47bf904",
+      "release_date": "2013-10-28"
+    },
+    {
+      "featuredArtist": "Milton Nascimento",
+      "featuredArtistId": "3Bnq7jiU506HcPjRgQ43TM",
+      "trackName": "Lamento Sertanejo (Forró do Dominguinhos)",
+      "trackId": "4WvMm0nguc5j4jsvbwEPak",
+      "preview": "https://p.scdn.co/mp3-preview/32582e3bc9517aaf4bee3bc0b44323e1eadc9e3f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eea55d040d2485691da778574a0a7c43f47bf904",
+      "release_date": "2013-10-28"
+    },
+    {
+      "featuredArtist": "Sandra De Sá",
+      "featuredArtistId": "5Rxz1EE4Jj08mu40vlrqHv",
+      "trackName": "Demônio Colorido",
+      "trackId": "0UkgTSfSgNdfJuleclsy5U",
+      "preview": "https://p.scdn.co/mp3-preview/8231f0fad18a5d22945640d191817d88f54423ff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eea55d040d2485691da778574a0a7c43f47bf904",
+      "release_date": "2013-10-28"
+    },
+    {
+      "featuredArtist": "Jay Vaquer",
+      "featuredArtistId": "7LSLnoj6uCCnE2TJ1G6kvw",
+      "trackName": "Do Nada, Me Jogaram Aos Leões",
+      "trackId": "6Hfnf3DMlPMhzgOBb8Pqbq",
+      "preview": "https://p.scdn.co/mp3-preview/9df45296aef6ee16bcd131d3f7f4ff83940fc1be?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eea55d040d2485691da778574a0a7c43f47bf904",
+      "release_date": "2013-10-28"
+    },
+    {
+      "featuredArtist": "Chitãozinho & Xororó",
+      "featuredArtistId": "7gfkYbxpguEc9bm6m8TpAr",
+      "trackName": "No Rancho Fundo",
+      "trackId": "33T1b70frfO0rAapl7u7TH",
+      "preview": "https://p.scdn.co/mp3-preview/2ce3dda914d49632545056af6b0d4b24f34c91f9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eea55d040d2485691da778574a0a7c43f47bf904",
+      "release_date": "2013-10-28"
+    },
+    {
+      "featuredArtist": "Daniel Chaudon",
+      "featuredArtistId": "2ZPnWyc1vrCAdHp6AvNYBJ",
+      "trackName": "Luzia",
+      "trackId": "37qkuIHbdRKczfkbrA2JD1",
+      "preview": "https://p.scdn.co/mp3-preview/3461043b94c69cf8f96eda04644795fa51601f91?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eea55d040d2485691da778574a0a7c43f47bf904",
+      "release_date": "2013-10-28"
+    },
+    {
+      "featuredArtist": "Banda Inventário",
+      "featuredArtistId": "6b1SFblWr8apIUnu48dXBn",
+      "trackName": "Camaleonte (Camaleão)",
+      "trackId": "0e4JtVSF12jMth79eMUVIB",
+      "preview": "https://p.scdn.co/mp3-preview/eb43fcb22b1a4d4012660b70b9f00df2b8ef359d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eea55d040d2485691da778574a0a7c43f47bf904",
+      "release_date": "2013-10-28"
+    },
+    {
+      "featuredArtist": "Ivan Lins",
+      "featuredArtistId": "64neTfIIdYKNhJ9zxoz3jF",
+      "trackName": "Quem Me Dera",
+      "trackId": "5xqY5PAm4qgBZvahgAUFr5",
+      "preview": "https://p.scdn.co/mp3-preview/691ce3273c44baa0b098d97ba5412e675dfa2572?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eea55d040d2485691da778574a0a7c43f47bf904",
+      "release_date": "2013-10-28"
+    },
+    {
+      "featuredArtist": "Jota Quest",
+      "featuredArtistId": "5re6NsyXzHg6uvNimzQ3F6",
+      "trackName": "Mais uma Vez - Ao Vivo",
+      "trackId": "1ou1iI1wr6jL0FiLSMJOdk",
+      "preview": "https://p.scdn.co/mp3-preview/004de386b429caa614cf94db59442ea254ab77f9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eea55d040d2485691da778574a0a7c43f47bf904",
+      "release_date": "2013-10-28"
+    },
+    {
+      "featuredArtist": "Eagle-Eye Cherry",
+      "featuredArtistId": "3ngKsDXZAssmljeXCvEgOe",
+      "trackName": "Alone",
+      "trackId": "0y5jZ3I5eHHLNBLMuF2Ytz",
+      "preview": "https://p.scdn.co/mp3-preview/88a226f16ea5f607238182e2f772a5155d74af25?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eea55d040d2485691da778574a0a7c43f47bf904",
+      "release_date": "2013-10-28"
+    },
+    {
+      "featuredArtist": "Tiago Iorc",
+      "featuredArtistId": "4iWkwAVzssjb8XgxdoOL6M",
+      "trackName": "Música Inédita",
+      "trackId": "1986XJYH0FIAAgFiK0kscK",
+      "preview": "https://p.scdn.co/mp3-preview/56ce9dc5e1963c3a8d2f31e4bf0339230e89a22a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eea55d040d2485691da778574a0a7c43f47bf904",
+      "release_date": "2013-10-28"
+    },
+    {
+      "featuredArtist": "Leandro Léo",
+      "featuredArtistId": "4VdN6acIkpyHgNCeCCGIYh",
+      "trackName": "Felicidade",
+      "trackId": "4YdcQhzdSM6AlGw2JTLPuu",
+      "preview": "https://p.scdn.co/mp3-preview/89abc97ae07ead9b90521bfab5e4bb79db801923?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eea55d040d2485691da778574a0a7c43f47bf904",
+      "release_date": "2013-10-28"
+    },
+    {
+      "featuredArtist": "Camila Wittmann",
+      "featuredArtistId": "27CJKEILhbWphQNNOOrUsJ",
+      "trackName": "Buquê",
+      "trackId": "05XCDF8nIikpDpa6jb4Qnf",
+      "preview": "https://p.scdn.co/mp3-preview/bb670916cf11e975f9546930df902f6d3dd15d1d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eea55d040d2485691da778574a0a7c43f47bf904",
+      "release_date": "2013-10-28"
+    },
+    {
+      "featuredArtist": "Ana Carolina",
+      "featuredArtistId": "4HP9KltldfmkH2M2pQozzN",
+      "trackName": "Mais Que a Mim",
+      "trackId": "3mGilPyPAnYNKf4ua4VoNr",
+      "preview": "https://p.scdn.co/mp3-preview/18eefc02f64a0bfc9c596d980c23ee61d5cb4b70?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/669ddbef3b07933f97765ac939222ac5de582907",
+      "release_date": "2013-08-05"
+    },
+    {
+      "featuredArtist": "Moska e Kevin",
+      "featuredArtistId": "0JM5GgqwbsxyO4XNFZOolo",
+      "trackName": "Oh My Love, My Love",
+      "trackId": "6Zq54vGvL4yAwQDHSfnHHV",
+      "preview": "https://p.scdn.co/mp3-preview/4d37641fdb23377c601db6efb5c46d7f8114075c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/669ddbef3b07933f97765ac939222ac5de582907",
+      "release_date": "2013-08-05"
+    },
+    {
+      "featuredArtist": "Caetano Veloso",
+      "featuredArtistId": "7HGNYPmbDrMkylWqeFCOIQ",
+      "trackName": "Nosso Estranho Amor",
+      "trackId": "0JT6us0CHE6Ups3q8LQVUL",
+      "preview": "https://p.scdn.co/mp3-preview/868a2347d60c03e5d89e8c92c97e36f620ee710d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/669ddbef3b07933f97765ac939222ac5de582907",
+      "release_date": "2013-08-05"
+    },
+    {
+      "featuredArtist": "5 a Seco",
+      "featuredArtistId": "1R9QfzgBmhk1spLg3BiU1f",
+      "trackName": "Em Paz",
+      "trackId": "5nZVfwWvgso9hhJxj0jlwH",
+      "preview": "https://p.scdn.co/mp3-preview/8d2459c8d1a0a02850774d2f2cf1494c6644875f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/669ddbef3b07933f97765ac939222ac5de582907",
+      "release_date": "2013-08-05"
+    },
+    {
+      "featuredArtist": "Camila Witmann",
+      "featuredArtistId": "53rKLMZ0zj06seQ4yhJ1Iv",
+      "trackName": "Buquê",
+      "trackId": "39NT6ww9JHSKF4PAfVA5qZ",
+      "preview": "https://p.scdn.co/mp3-preview/4cebb38993689ce5cbe19a37d42171643f5b02ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/669ddbef3b07933f97765ac939222ac5de582907",
+      "release_date": "2013-08-05"
+    },
+    {
+      "featuredArtist": "Luiz Mura",
+      "featuredArtistId": "5RlK0YqgWYpYSkLLNR9O6g",
+      "trackName": "Paracuti",
+      "trackId": "6T8qbYAdetwpg2h8EOF3Cy",
+      "preview": "https://p.scdn.co/mp3-preview/a48c9bae677e0231e27f4545514255b2282fde03?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5a57a39fec46ac4b78aa75df833e2c7da05962d2",
+      "release_date": "2010-11-20"
+    },
+    {
+      "featuredArtist": "Varandistas",
+      "featuredArtistId": "1OGB3P4c52GBLZRLn4EqSW",
+      "trackName": "A Culpa",
+      "trackId": "77CDUVYLjXYLAlbsarAzIB",
+      "preview": "https://p.scdn.co/mp3-preview/379da8dd6f07d10b990d16a681c404ad7034c4be?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5a57a39fec46ac4b78aa75df833e2c7da05962d2",
+      "release_date": "2010-11-20"
+    },
+    {
+      "featuredArtist": "Luis Kiari",
+      "featuredArtistId": "7JsyzZsFjaF86UX1CAAFio",
+      "trackName": "Quando Fui Chuva",
+      "trackId": "04pz2rPxaiY40G03Ww6xe7",
+      "preview": "https://p.scdn.co/mp3-preview/e4206f09bf4d0e38331da53a8d7a53fe508f573f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5a57a39fec46ac4b78aa75df833e2c7da05962d2",
+      "release_date": "2010-11-20"
+    },
+    {
+      "featuredArtist": "Ektor",
+      "featuredArtistId": "2QlGEN3fxfzx4fmm7Qe5Kn",
+      "trackName": "Axé Acapella (Ektor & Guitti Versus Maria Gadú)",
+      "trackId": "2LporsdDa3HlrlkBa2ua6k",
+      "preview": "https://p.scdn.co/mp3-preview/9ea667c05abf9e0e4912fa276e83beeff859ca7d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fc20b94df0578cf9a17333ce3cdb870be7166123",
+      "release_date": "2017-01-20"
+    },
+    {
+      "featuredArtist": "Guitti",
+      "featuredArtistId": "5psWNDBERXlfThNRVwVSeV",
+      "trackName": "Axé Acapella (Ektor & Guitti Versus Maria Gadú)",
+      "trackId": "2LporsdDa3HlrlkBa2ua6k",
+      "preview": "https://p.scdn.co/mp3-preview/9ea667c05abf9e0e4912fa276e83beeff859ca7d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fc20b94df0578cf9a17333ce3cdb870be7166123",
+      "release_date": "2017-01-20"
+    },
+    {
+      "featuredArtist": "Shapeless",
+      "featuredArtistId": "01056gItT5lFJEvQnFOByX",
+      "trackName": "Axé Acapella (Shapeless Versus Maria Gadú)",
+      "trackId": "4G481JTBJIZABAstJKfMYU",
+      "preview": "https://p.scdn.co/mp3-preview/9b8a50857698c32886edc893efbd1ca4d061ee60?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bb873068cf55b9bccac6565fe880dc7c0bbc8744",
+      "release_date": "2017-01-20"
+    }
+  ]
+}

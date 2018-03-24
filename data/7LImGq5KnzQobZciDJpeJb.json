@@ -1,0 +1,32 @@
+{
+  "artistName": "Charlotte Lawrence",
+  "features": [
+    {
+      "featuredArtist": "Nina Nesbitt",
+      "featuredArtistId": "7AzjETXRUKNRSJHMW9GIqd",
+      "trackName": "Psychopath - Recorded at Spotify Studios NYC",
+      "trackId": "3dBE30R12dDxc1jBDaqmo3",
+      "preview": "https://p.scdn.co/mp3-preview/db0bd33506c2d0a6a724ab53c5c8444e7727c741?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/83cc4dbd9d35d1d557774ff1788bfadb8c2a78b6",
+      "release_date": "2018-03-21"
+    },
+    {
+      "featuredArtist": "Sasha Sloan",
+      "featuredArtistId": "4xnihxcoXWK3UqryOSnbw5",
+      "trackName": "Psychopath - Recorded at Spotify Studios NYC",
+      "trackId": "3dBE30R12dDxc1jBDaqmo3",
+      "preview": "https://p.scdn.co/mp3-preview/db0bd33506c2d0a6a724ab53c5c8444e7727c741?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/83cc4dbd9d35d1d557774ff1788bfadb8c2a78b6",
+      "release_date": "2018-03-21"
+    },
+    {
+      "featuredArtist": "Kaskade",
+      "featuredArtistId": "6TQj5BFPooTa08A7pk8AQ1",
+      "trackName": "Cold as Stone",
+      "trackId": "5jfF26NIqQV3DXMOVgqEli",
+      "preview": "https://p.scdn.co/mp3-preview/3a4eb8ddb48514b183a56c7a7b199faaf657ac3b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b6571143fe4ff8770ed0205c94eb472045f41a23",
+      "release_date": "2018-03-16"
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "artistName": "Flume",
+  "features": [
+    {
+      "featuredArtist": "KUČKA",
+      "featuredArtistId": "6JcD2YKEhgimweLpUI0NEw",
+      "trackName": "Numb & Getting Colder - Baauer Remix",
+      "trackId": "5ldB6zv381lRAIPBUjt4tI",
+      "preview": "https://p.scdn.co/mp3-preview/0a1ba6005397edc38652cfa991eff0da231847fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Baauer",
+      "featuredArtistId": "25fqWEebq6PoiGQIHIrdtv",
+      "trackName": "Numb & Getting Colder - Baauer Remix",
+      "trackId": "5ldB6zv381lRAIPBUjt4tI",
+      "preview": "https://p.scdn.co/mp3-preview/0a1ba6005397edc38652cfa991eff0da231847fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "MNDR",
+      "featuredArtistId": "7gQNLR8mykA1KjGClbPYHe",
+      "trackName": "Like Water - Jacques Greene Remix",
+      "trackId": "7izt6RKAJIAJ7Q7BQP9TCd",
+      "preview": "https://p.scdn.co/mp3-preview/288493045d0fcce9cd764d4340a13e6ee7881e6b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Jacques Greene",
+      "featuredArtistId": "0ygIgsjUzKivFgxgjQ9iV9",
+      "trackName": "Like Water - Jacques Greene Remix",
+      "trackId": "7izt6RKAJIAJ7Q7BQP9TCd",
+      "preview": "https://p.scdn.co/mp3-preview/288493045d0fcce9cd764d4340a13e6ee7881e6b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Little Dragon",
+      "featuredArtistId": "6Tyzp9KzpiZ04DABQoedps",
+      "trackName": "Take A Chance - Kölsch Remix",
+      "trackId": "0StJBmsv2eWMDTX3iegcKW",
+      "preview": "https://p.scdn.co/mp3-preview/0b5eb1fdc18a7d3d3f0a47625dc19b0ac4cd339e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Kölsch",
+      "featuredArtistId": "2D9Oe8R9UhbMvFAsMJpXj0",
+      "trackName": "Take A Chance - Kölsch Remix",
+      "trackId": "0StJBmsv2eWMDTX3iegcKW",
+      "preview": "https://p.scdn.co/mp3-preview/0b5eb1fdc18a7d3d3f0a47625dc19b0ac4cd339e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Beck",
+      "featuredArtistId": "3vbKDsSS70ZX9D2OcvbZmS",
+      "trackName": "Tiny Cities - Lindstrøm & Prins Thomas Remix",
+      "trackId": "13QImL3IhesUmeKWpReq1V",
+      "preview": "https://p.scdn.co/mp3-preview/081da1dfb7094c5025260ecc98825389c5da31fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Lindstrøm",
+      "featuredArtistId": "2vTtjIqZ7hW0W15t1ApKTB",
+      "trackName": "Tiny Cities - Lindstrøm & Prins Thomas Remix",
+      "trackId": "13QImL3IhesUmeKWpReq1V",
+      "preview": "https://p.scdn.co/mp3-preview/081da1dfb7094c5025260ecc98825389c5da31fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Prins Thomas",
+      "featuredArtistId": "4rsEVNO1tGTY0beCnsnHi6",
+      "trackName": "Tiny Cities - Lindstrøm & Prins Thomas Remix",
+      "trackId": "13QImL3IhesUmeKWpReq1V",
+      "preview": "https://p.scdn.co/mp3-preview/081da1dfb7094c5025260ecc98825389c5da31fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Vic Mensa",
+      "featuredArtistId": "27w1NoOLMX7tJMYqcetPyG",
+      "trackName": "Lose It - Golden Features Remix",
+      "trackId": "2HcYaXcfWR7hqDlYGjGSw7",
+      "preview": "https://p.scdn.co/mp3-preview/6386dbbb117eef2de1424a779da8399fe8bbf413?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Golden Features",
+      "featuredArtistId": "2SrWifjYv7b5tR8EzEmn1x",
+      "trackName": "Lose It - Golden Features Remix",
+      "trackId": "2HcYaXcfWR7hqDlYGjGSw7",
+      "preview": "https://p.scdn.co/mp3-preview/6386dbbb117eef2de1424a779da8399fe8bbf413?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Naderi",
+      "featuredArtistId": "6AuUD6XK7azpz23KJCbExL",
+      "trackName": "Lose It - Naderi Remix",
+      "trackId": "5FVB9By7qqdhZDIoPJM7xU",
+      "preview": "https://p.scdn.co/mp3-preview/8f709103d45641179f1dceda4885a75f6c1c328e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Kai",
+      "featuredArtistId": "6xHUXzrfhFgnIv86EBR3Ml",
+      "trackName": "Never Be Like You - Disclosure Remix",
+      "trackId": "6jNItUVjEujJLF3tPgWcvC",
+      "preview": "https://p.scdn.co/mp3-preview/3748d1c36bd518c3e895ceea978ace64ac61932c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Disclosure",
+      "featuredArtistId": "6nS5roXSAGhTGr34W6n7Et",
+      "trackName": "Never Be Like You - Disclosure Remix",
+      "trackId": "6jNItUVjEujJLF3tPgWcvC",
+      "preview": "https://p.scdn.co/mp3-preview/3748d1c36bd518c3e895ceea978ace64ac61932c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Martin Solveig",
+      "featuredArtistId": "1bj5GrcLom5gZFF5t949Xl",
+      "trackName": "Never Be Like You - Martin Solveig Remix",
+      "trackId": "04TnA6CnOoZ49KMRfTAtHS",
+      "preview": "https://p.scdn.co/mp3-preview/c91aca84f4b0689fd2320550a45b9c702bd42532?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Teengirl Fantasy",
+      "featuredArtistId": "6Y7sP6UmEue4Ym3m5HqK8X",
+      "trackName": "Never Be Like You - Teengirl Fantasy Remix",
+      "trackId": "7ml6ZJeFVNqXhDmvwUE5nu",
+      "preview": "https://p.scdn.co/mp3-preview/26be587d54f5537c0982183d7eeda721bef66578?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Wave Racer",
+      "featuredArtistId": "147jymD5t0TCXW0DbaXry0",
+      "trackName": "Never Be Like You - Wave Racer Remix",
+      "trackId": "2Ew41qlRskNkMzSP9UIOrF",
+      "preview": "https://p.scdn.co/mp3-preview/1af012dbbe498c3765fdf555a8e9afb36c7ccef7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Tove Lo",
+      "featuredArtistId": "4NHQUGzhtTLFvgF5SZesLK",
+      "trackName": "Say It - Anna Lunoe Remix",
+      "trackId": "1x1DlAcHriwdq6pvYBU1Ps",
+      "preview": "https://p.scdn.co/mp3-preview/e8cd898a0f3c8b8d17bfac69b0691bcff343fad9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Anna Lunoe",
+      "featuredArtistId": "7d96RW5Vix23AiCHr3mf3D",
+      "trackName": "Say It - Anna Lunoe Remix",
+      "trackId": "1x1DlAcHriwdq6pvYBU1Ps",
+      "preview": "https://p.scdn.co/mp3-preview/e8cd898a0f3c8b8d17bfac69b0691bcff343fad9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Clean Bandit",
+      "featuredArtistId": "6MDME20pz9RveH9rEXvrOM",
+      "trackName": "Say It - Clean Bandit Remix",
+      "trackId": "6DpHUqgKwosO6thyD3vrKG",
+      "preview": "https://p.scdn.co/mp3-preview/c34a582df3e343aaf7269b3b0bb5a34699fb085b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Illenium",
+      "featuredArtistId": "45eNHdiiabvmbp4erw26rg",
+      "trackName": "Say It - Illenium Remix",
+      "trackId": "5Z5OCdMKuwtOX1z1076TNZ",
+      "preview": "https://p.scdn.co/mp3-preview/129fdc7870c9a2e0672df4c216ad177cf362d720?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "SG Lewis",
+      "featuredArtistId": "0GG2cWaonE4JPrjcCCQ1EG",
+      "trackName": "Say It - SG Lewis Remix",
+      "trackId": "0JLeaXYtiL4ROIt9QD3Y1z",
+      "preview": "https://p.scdn.co/mp3-preview/8f4277bd07419fc2e1517627eda8a878afccae44?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Stwo",
+      "featuredArtistId": "5WQxQAu4xmUwCzxPw3GiB4",
+      "trackName": "Say It - Stwo Remix",
+      "trackId": "3GIuX6Vudx1eI8T3ZQlfU4",
+      "preview": "https://p.scdn.co/mp3-preview/4507badec9633c2404860ec4f96037503749d65d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59fe477e87de6c80becdcf2944e5264f74b759b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Lindstrøm & Prins Thomas",
+      "featuredArtistId": "2U3dcuDVpg1sZiN8ZW5JWR",
+      "trackName": "Tiny Cities - Lindstrøm & Prins Thomas Remix",
+      "trackId": "5Ug7sFWTVQbpCqoMXcLAWq",
+      "preview": "https://p.scdn.co/mp3-preview/153e8b91eec8f61fe1ff5f49ed78c752a5d00387?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/699b790aba2dd6062ba8a3ce89cd9ed69e95c87b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Jacques Green",
+      "featuredArtistId": "6McbPiaCTUHUksTAaWhJgO",
+      "trackName": "Like Water - Jacquer Greene Remix",
+      "trackId": "0QBDGQLfNUrwk1L8IlJoQl",
+      "preview": "https://p.scdn.co/mp3-preview/9bccfc6986fcd7639ca1f34ccf943caf791423cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7c08f451a09f2b2b85cf8e62541b35e00fe9b82b",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Vince Staples",
+      "featuredArtistId": "68kEuyFKyqrdQQLLsmiatm",
+      "trackName": "Smoke & Retribution",
+      "trackId": "7gHKaFUso8Cp6JtpMq8OU1",
+      "preview": "https://p.scdn.co/mp3-preview/0c8cfc6af2e86e617e0bc1d3abd94ecd417faef3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/114eba868b37cd906570e4590ece1505b4814927",
+      "release_date": "2016-05-27"
+    },
+    {
+      "featuredArtist": "Allan Kingdom",
+      "featuredArtistId": "1tUALn7PEhW7LpMuxvat2x",
+      "trackName": "You Know",
+      "trackId": "2kL0OKyhiPRDiyRtJxkVBX",
+      "preview": "https://p.scdn.co/mp3-preview/6624e29f4d24aee0a673c5a778a72f974c5f6612?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/114eba868b37cd906570e4590ece1505b4814927",
+      "release_date": "2016-05-27"
+    },
+    {
+      "featuredArtist": "Raekwon",
+      "featuredArtistId": "2yQf6b8hxahZaT5dHlWaB1",
+      "trackName": "You Know",
+      "trackId": "2kL0OKyhiPRDiyRtJxkVBX",
+      "preview": "https://p.scdn.co/mp3-preview/6624e29f4d24aee0a673c5a778a72f974c5f6612?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/114eba868b37cd906570e4590ece1505b4814927",
+      "release_date": "2016-05-27"
+    },
+    {
+      "featuredArtist": "AlunaGeorge",
+      "featuredArtistId": "2VAnyOxzJuSAj7XIuEOT38",
+      "trackName": "Innocence",
+      "trackId": "1s5Uj5umUJmzYq0EhNx95l",
+      "preview": "https://p.scdn.co/mp3-preview/0002d2c9088ee2cd6a3a50b91ceadf4f0fe60788?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/114eba868b37cd906570e4590ece1505b4814927",
+      "release_date": "2016-05-27"
+    },
+    {
+      "featuredArtist": "Chet Faker",
+      "featuredArtistId": "2Q0MyH5YMI5HPQjFjlq5g3",
+      "trackName": "Left Alone",
+      "trackId": "3lAWskLVfTRRiNJhDQ8R0t",
+      "preview": "https://p.scdn.co/mp3-preview/a6d749e290e70a89ad5ed38e76940f7fcbfd6874?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8da59f094f409c0b3a76c448e8634868f111b43",
+      "release_date": "2013-11-11"
+    },
+    {
+      "featuredArtist": "Jezzabell Doran",
+      "featuredArtistId": "20RKwJZc7LXujAbOJuwDEZ",
+      "trackName": "Sleepless",
+      "trackId": "17n2kpZ56wOvC2mq5twsil",
+      "preview": "https://p.scdn.co/mp3-preview/008edbd364846a015e726abe657ddb1a8831973e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8da59f094f409c0b3a76c448e8634868f111b43",
+      "release_date": "2013-11-11"
+    },
+    {
+      "featuredArtist": "T-Shirt",
+      "featuredArtistId": "09v1n02OCBEntKxrSTw1L1",
+      "trackName": "On Top",
+      "trackId": "5nReZ5ztVR8C8KFPjkS4D3",
+      "preview": "https://p.scdn.co/mp3-preview/b35ae6ce9d3e80cbf23a9ce5610b4543f0a797d1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8da59f094f409c0b3a76c448e8634868f111b43",
+      "release_date": "2013-11-11"
+    },
+    {
+      "featuredArtist": "Moon Holiday",
+      "featuredArtistId": "5HAqdulyJZF8EPKIvPMRTy",
+      "trackName": "Insane",
+      "trackId": "6pH8LNOsthzjBZxyPfJ5DN",
+      "preview": "https://p.scdn.co/mp3-preview/c4610854d1b718832122dff260e1f41df45551d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8da59f094f409c0b3a76c448e8634868f111b43",
+      "release_date": "2013-11-11"
+    },
+    {
+      "featuredArtist": "George Maple",
+      "featuredArtistId": "19m3oZKjGSLzVW0OGIAcNg",
+      "trackName": "Bring You Down",
+      "trackId": "3IN43h6cyoV3JOaja8HySh",
+      "preview": "https://p.scdn.co/mp3-preview/51f6d406e7c3d7a45cbae8dfabd964731074a892?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8da59f094f409c0b3a76c448e8634868f111b43",
+      "release_date": "2013-11-11"
+    },
+    {
+      "featuredArtist": "T.Shirt",
+      "featuredArtistId": "6XMGTAFH07lSSW0qnk1lTB",
+      "trackName": "On Top",
+      "trackId": "76LNYEDWikUIPEmBePf7p3",
+      "preview": "https://p.scdn.co/mp3-preview/88815383cc3c5cd92eff3edc8a69c0cd84265336?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/11c3b8ef9b510523f08fc1dc8a4c8b65cc96c515",
+      "release_date": "2013-11-08"
+    },
+    {
+      "featuredArtist": "Stalley",
+      "featuredArtistId": "1wUmdemiR9Dxw8A2el365A",
+      "trackName": "Intro",
+      "trackId": "5bkJZdFCsJAQ9Jcbn0rcWU",
+      "preview": "https://p.scdn.co/mp3-preview/ea67442f9fef6c13b7b6c7e74f4520d40f255bfe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/11c3b8ef9b510523f08fc1dc8a4c8b65cc96c515",
+      "release_date": "2013-11-08"
+    },
+    {
+      "featuredArtist": "Ghostface Killah",
+      "featuredArtistId": "6FD0unjzGQhX3b6eMccMJe",
+      "trackName": "Space Cadet",
+      "trackId": "2JhMrX1BQsulTAmcBEYXDz",
+      "preview": "https://p.scdn.co/mp3-preview/007636a148f10a273fa4e8b8d9738c9ccd06c62e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/11c3b8ef9b510523f08fc1dc8a4c8b65cc96c515",
+      "release_date": "2013-11-08"
+    },
+    {
+      "featuredArtist": "Autre Ne Veut",
+      "featuredArtistId": "7MC5zmK3iZHzPqGZEVSROe",
+      "trackName": "Space Cadet",
+      "trackId": "2JhMrX1BQsulTAmcBEYXDz",
+      "preview": "https://p.scdn.co/mp3-preview/007636a148f10a273fa4e8b8d9738c9ccd06c62e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/11c3b8ef9b510523f08fc1dc8a4c8b65cc96c515",
+      "release_date": "2013-11-08"
+    },
+    {
+      "featuredArtist": "Killer Mike",
+      "featuredArtistId": "2N4EYkIlG1kv25g6Wv8LGI",
+      "trackName": "Insane",
+      "trackId": "0vKgqd4gzkD42XefHCpJrv",
+      "preview": "https://p.scdn.co/mp3-preview/1cdc6c86aafd0052bc123cc55c3d551391b2891a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/11c3b8ef9b510523f08fc1dc8a4c8b65cc96c515",
+      "release_date": "2013-11-08"
+    },
+    {
+      "featuredArtist": "Boldy James",
+      "featuredArtistId": "4fpwOzxFRMVGfd197dKIdY",
+      "trackName": "Stay Close",
+      "trackId": "14i2eBHFJHlZHAINaE6YC8",
+      "preview": "https://p.scdn.co/mp3-preview/ddda583fcb9a90f4107c141fe2f49b3b41e25f5f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/11c3b8ef9b510523f08fc1dc8a4c8b65cc96c515",
+      "release_date": "2013-11-08"
+    },
+    {
+      "featuredArtist": "Alexander Spit & Aaron Cohen",
+      "featuredArtistId": "1Q4vrKl9bYcFnmxquSVTnh",
+      "trackName": "Stay Close",
+      "trackId": "14i2eBHFJHlZHAINaE6YC8",
+      "preview": "https://p.scdn.co/mp3-preview/ddda583fcb9a90f4107c141fe2f49b3b41e25f5f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/11c3b8ef9b510523f08fc1dc8a4c8b65cc96c515",
+      "release_date": "2013-11-08"
+    },
+    {
+      "featuredArtist": "Freddie Gibbs",
+      "featuredArtistId": "0Y4inQK6OespitzD6ijMwb",
+      "trackName": "Holdin On",
+      "trackId": "0s7IPHuj8K0MlHn1Fp6DZ0",
+      "preview": "https://p.scdn.co/mp3-preview/fef58c8eea1ad4b0384e95938dbd05937082d90e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/11c3b8ef9b510523f08fc1dc8a4c8b65cc96c515",
+      "release_date": "2013-11-08"
+    },
+    {
+      "featuredArtist": "How To Dress Well",
+      "featuredArtistId": "4jLcgJjDGmW0HmvbSf6lEI",
+      "trackName": "Change",
+      "trackId": "1crWzz4P0QEnOenWzCT5iJ",
+      "preview": "https://p.scdn.co/mp3-preview/790fa03a406cb1455e2a994d6a7abb5f1076fea1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/11c3b8ef9b510523f08fc1dc8a4c8b65cc96c515",
+      "release_date": "2013-11-08"
+    },
+    {
+      "featuredArtist": "GrandeMarshall",
+      "featuredArtistId": "77mwUvtGS5LsptoQtofb0t",
+      "trackName": "Warm Thoughts",
+      "trackId": "3ndATDx9ELrsbsHdQpAyQ5",
+      "preview": "https://p.scdn.co/mp3-preview/fd277f650f245244515406824e1ecc039bf54297?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/11c3b8ef9b510523f08fc1dc8a4c8b65cc96c515",
+      "release_date": "2013-11-08"
+    },
+    {
+      "featuredArtist": "Goldie Glo",
+      "featuredArtistId": "0zqeVtkhpNyChwok9SesHw",
+      "trackName": "Warm Thoughts",
+      "trackId": "3ndATDx9ELrsbsHdQpAyQ5",
+      "preview": "https://p.scdn.co/mp3-preview/fd277f650f245244515406824e1ecc039bf54297?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/11c3b8ef9b510523f08fc1dc8a4c8b65cc96c515",
+      "release_date": "2013-11-08"
+    },
+    {
+      "featuredArtist": "Twin Shadow",
+      "featuredArtistId": "6fLrPFLWLSCrp7gcTZXcKb",
+      "trackName": "Sleepless",
+      "trackId": "0qB9N6wduLyieeqf1ZRdPl",
+      "preview": "https://p.scdn.co/mp3-preview/1577146f2a88fe929c4c5c0930bf89c1299e4e9e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/11c3b8ef9b510523f08fc1dc8a4c8b65cc96c515",
+      "release_date": "2013-11-08"
+    },
+    {
+      "featuredArtist": "Alexander Spit",
+      "featuredArtistId": "6lx2eNLdx4ZkZwrjNubj8W",
+      "trackName": "Stay Close",
+      "trackId": "6dHw5PKE7rP2ryvlvWgzFm",
+      "preview": "https://p.scdn.co/mp3-preview/ddda583fcb9a90f4107c141fe2f49b3b41e25f5f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d099d55ae6ace0d9295b52ef390f5916210240e",
+      "release_date": "2012-11-09"
+    },
+    {
+      "featuredArtist": "Aaron Cohen",
+      "featuredArtistId": "4j9hynzuOW6EIYhIR8UyDe",
+      "trackName": "Stay Close",
+      "trackId": "6dHw5PKE7rP2ryvlvWgzFm",
+      "preview": "https://p.scdn.co/mp3-preview/ddda583fcb9a90f4107c141fe2f49b3b41e25f5f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d099d55ae6ace0d9295b52ef390f5916210240e",
+      "release_date": "2012-11-09"
+    },
+    {
+      "featuredArtist": "M.O.P.",
+      "featuredArtistId": "1BH45DVSTeGBvcYXNCd67g",
+      "trackName": "Hyperparadise - Flume Mixtape Version",
+      "trackId": "4XjuiZdzJ1TdS85OkolHOg",
+      "preview": "https://p.scdn.co/mp3-preview/1a1d1628b7b75d952604e7d55fc3ea84e797e4b9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d099d55ae6ace0d9295b52ef390f5916210240e",
+      "release_date": "2012-11-09"
+    },
+    {
+      "featuredArtist": "ELIZA",
+      "featuredArtistId": "6zFuIjAuUMu6Jeyeqp4Twr",
+      "trackName": "You & Me - Flume Remix",
+      "trackId": "7edXYOZxQHQV3n2z3DGphh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3d099d55ae6ace0d9295b52ef390f5916210240e",
+      "release_date": "2012-11-09"
+    },
+    {
+      "featuredArtist": "Pusha T",
+      "featuredArtistId": "0ONHkAv9pCAFxb0zJwDNTy",
+      "trackName": "Enough",
+      "trackId": "57O9wvanius3PMAO2TlzEx",
+      "preview": "https://p.scdn.co/mp3-preview/5bd00a7d9c69e8ad4ab16887a3c2e9e2810b11f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/395602825a786deb3c3cfe404b74a8077b15f9f5",
+      "release_date": "2017-02-17"
+    },
+    {
+      "featuredArtist": "Moses Sumney",
+      "featuredArtistId": "5W10uJRsbt9bROJDKoI1Wn",
+      "trackName": "Weekend",
+      "trackId": "797cARXs5UuXT7anWuILTP",
+      "preview": "https://p.scdn.co/mp3-preview/eae8092a3a7a07cd7ef7101804f516a82084faa2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/395602825a786deb3c3cfe404b74a8077b15f9f5",
+      "release_date": "2017-02-17"
+    },
+    {
+      "featuredArtist": "Dave Glass Animals",
+      "featuredArtistId": "0FdM0AAFMH0vm7GyLGgYpn",
+      "trackName": "Fantastic",
+      "trackId": "79nrqwz4Q6P9OXSjxhifkJ",
+      "preview": "https://p.scdn.co/mp3-preview/8d8301788c5cde5f5c8f9a0436c4900ad02ffec6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/395602825a786deb3c3cfe404b74a8077b15f9f5",
+      "release_date": "2017-02-17"
+    }
+  ]
+}

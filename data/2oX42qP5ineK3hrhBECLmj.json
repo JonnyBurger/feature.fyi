@@ -1,0 +1,41 @@
+{
+  "artistName": "Andy Grammer",
+  "features": [
+    {
+      "featuredArtist": "LunchMoney Lewis",
+      "featuredArtistId": "2iUbk5KhZYZt4CRvWbwb7S",
+      "trackName": "Give Love",
+      "trackId": "0G9n6pr0518twnlxkG8HQO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2ad787781dc5ca837145b9b54a9275b9922d37a6",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Eli Young Band",
+      "featuredArtistId": "6eKWqnckwdIlSnjaYgIyxv",
+      "trackName": "Honey, I'm Good. (Duet w/ Eli Young Band)",
+      "trackId": "7MO1aSfRiohpXtMVxOs7kl",
+      "preview": "https://p.scdn.co/mp3-preview/e5c3b58806a2f7b80e731d37d4c078f9b7783cdd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/082cbb2457dfddff85770e669e1f388a72f94787",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Mike D",
+      "featuredArtistId": "0e6si4eBTPWosfLhmEyo4L",
+      "trackName": "Honey, I'm Good. - Mike D Remix",
+      "trackId": "0KgQ0U4aOzzapLU0ldKsPT",
+      "preview": "https://p.scdn.co/mp3-preview/bbff53e92b2957a85b221923d53294c66a86e3d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c9ad37fb6e29b6979f807aa0ce7394fa930a70a5",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Melissa NKonda",
+      "featuredArtistId": "3r75GZktx3mvu5wBpU6uXO",
+      "trackName": "Keep Your Head Up (Relève la tête) - en duo avec Melissa Nkonda",
+      "trackId": "0rJDdS0TXDUxAhkrEhFDNT",
+      "preview": "https://p.scdn.co/mp3-preview/3159332dd4e4cc6504d2087fb4e45c4d2cb48eac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/de2afada0e41042cca26945124b6bdbcb7d8e15e",
+      "release_date": "2011"
+    }
+  ]
+}

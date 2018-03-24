@@ -1,0 +1,41 @@
+{
+  "artistName": "Huncho Jack",
+  "features": [
+    {
+      "featuredArtist": "Travis Scott",
+      "featuredArtistId": "0Y5tJX1MQlPlqiwlOH1tJY",
+      "trackName": "Modern Slavery",
+      "trackId": "7J6bnDDitOwfelaJNixHhL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/396f6aebbee070b7ac03ca422fbd0913b4b8de45",
+      "release_date": "2017-12-21"
+    },
+    {
+      "featuredArtist": "Quavo",
+      "featuredArtistId": "0VRj0yCOv2FXJNP47XQnx5",
+      "trackName": "Modern Slavery",
+      "trackId": "7J6bnDDitOwfelaJNixHhL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/396f6aebbee070b7ac03ca422fbd0913b4b8de45",
+      "release_date": "2017-12-21"
+    },
+    {
+      "featuredArtist": "Takeoff",
+      "featuredArtistId": "3EW0kQ1skZiK1NHg3Spt9J",
+      "trackName": "Eye 2 Eye",
+      "trackId": "4vwfOiyWxXeEdx4ejAJgdx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/396f6aebbee070b7ac03ca422fbd0913b4b8de45",
+      "release_date": "2017-12-21"
+    },
+    {
+      "featuredArtist": "Offset",
+      "featuredArtistId": "4DdkRBBYG6Yk9Ka8tdJ9BW",
+      "trackName": "Dubai Shit",
+      "trackId": "6urLjX35oXXRYtcH1b3dCh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/396f6aebbee070b7ac03ca422fbd0913b4b8de45",
+      "release_date": "2017-12-21"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "artistName": "Chris Martin",
+  "features": [
+    {
+      "featuredArtist": "David Brent",
+      "featuredArtistId": "0k86X15lJJJkLvZWWbOaZm",
+      "trackName": "Electricity",
+      "trackId": "5xFBQINUfBawOGmqpwjRmQ"
+    },
+    {
+      "featuredArtist": "Jonny Buckland",
+      "featuredArtistId": "5NKS9kUzfS5tP79W7h0rTj",
+      "trackName": "Fix You",
+      "trackId": "1jqq4ZVTMz3Si8ZEaUbZtp"
+    },
+    {
+      "featuredArtist": "Guy Berryman",
+      "featuredArtistId": "2R0YxXQyGLURmOrY26P1kZ",
+      "trackName": "Fix You",
+      "trackId": "1jqq4ZVTMz3Si8ZEaUbZtp"
+    },
+    {
+      "featuredArtist": "Wil Champion",
+      "featuredArtistId": "3cTJP8K6aM7KqqRGt68WlE",
+      "trackName": "Fix You",
+      "trackId": "1jqq4ZVTMz3Si8ZEaUbZtp"
+    },
+    {
+      "featuredArtist": "Up North Session Orchestra",
+      "featuredArtistId": "2E9nxEkIgAxNYPKOu623Q3",
+      "trackName": "Fix You",
+      "trackId": "1jqq4ZVTMz3Si8ZEaUbZtp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "artistName": "Hungria Hip Hop",
+  "features": [
+    {
+      "featuredArtist": "Lucas Lucco",
+      "featuredArtistId": "06cd30Cv9US973Ika84gDw",
+      "trackName": "Quebra Cabeça - Alphaloud Remix",
+      "trackId": "19zdbObwJ0Pm5cfzV4S59f",
+      "preview": "https://p.scdn.co/mp3-preview/429fb71e64177a1c8e7c54a45ba368759231c93f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/60c2e6aad9443d1c448c31e7e8baf46a47b48e64",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "Alphaloud",
+      "featuredArtistId": "2A8sHYfiaiPjaeb5slbG1C",
+      "trackName": "Quebra Cabeça - Alphaloud Remix",
+      "trackId": "19zdbObwJ0Pm5cfzV4S59f",
+      "preview": "https://p.scdn.co/mp3-preview/429fb71e64177a1c8e7c54a45ba368759231c93f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/60c2e6aad9443d1c448c31e7e8baf46a47b48e64",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "Mr Catra",
+      "featuredArtistId": "5xyHgmzdyQ4KW3bMzbXPdJ",
+      "trackName": "Bolo Doido",
+      "trackId": "1GTBgTV9kQmM1YkYwPqIIc",
+      "preview": "https://p.scdn.co/mp3-preview/8153b6219940505a9b9c2ad965c19b4ff8648eab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a0a2a44a292fabde9727384d773379158441766f",
+      "release_date": "2015-12-01"
+    },
+    {
+      "featuredArtist": "Gusttavo Lima",
+      "featuredArtistId": "7MiDcPa6UiV3In7lIM71IN",
+      "trackName": "Eu Vou Te Buscar (Cha La La La La)",
+      "trackId": "2mY6k4lDX5et2zfygoNkxN",
+      "preview": "https://p.scdn.co/mp3-preview/b9c603d22956bf0e07d47b85ddf2ff449e397b18?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/346bfea3076420d5db1e5fce56b8df97173921f4",
+      "release_date": "2018-01-27"
+    },
+    {
+      "featuredArtist": "Pacificadores",
+      "featuredArtistId": "2uwIwpXUSnFLDvw6tfiX43",
+      "trackName": "A Rua",
+      "trackId": "1ZlLa0iUz0dzLaQMPa2J67",
+      "preview": "https://p.scdn.co/mp3-preview/1767d29e540e5e8b8fb1d4e87da155634d68205c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4868edf83554734bc45348273e98e2ddae405505",
+      "release_date": "2017-10-10"
+    },
+    {
+      "featuredArtist": "L.A Hip Hop",
+      "featuredArtistId": "3kcrSLmOomJzDzN3rtd0a6",
+      "trackName": "Vida de Boy",
+      "trackId": "7t8s3DozDcToaTrPhXDX42",
+      "preview": "https://p.scdn.co/mp3-preview/096c015e31448ce14ea5bfa7d19982a0f60a719b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1508c8c2b3f9534132388467ed3c844a91ee634e",
+      "release_date": "2017-01-30"
+    }
+  ]
+}

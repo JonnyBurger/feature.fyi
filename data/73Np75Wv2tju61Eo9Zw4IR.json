@@ -1,0 +1,50 @@
+{
+  "artistName": "Idina Menzel",
+  "features": [
+    {
+      "featuredArtist": "Michael Bublé",
+      "featuredArtistId": "1GxkXlMwML1oSg5eLPiAz3",
+      "trackName": "Baby It's Cold Outside (duet with Michael Bublé)",
+      "trackId": "4VhjM4kiD7IA9444FlgU0I",
+      "preview": "https://p.scdn.co/mp3-preview/910681d905ad71b3356c7896fafe0d65d7011a88?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/da77ad51999494c23a181763ed6184a4d4fe2bbb",
+      "release_date": "2014-10-14"
+    },
+    {
+      "featuredArtist": "Taye Diggs",
+      "featuredArtistId": "6jRmwlzMVSICyO97aN7UnT",
+      "trackName": "Where Or When",
+      "trackId": "6NgTju68JqzXm3tMXNCpCf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8319e9c079f0edc95f663d0194ac32c0d694e979",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Cara Mentzel",
+      "featuredArtistId": "72IXvuE3yHVcJDvwFjkTeq",
+      "trackName": "Never Never Land",
+      "trackId": "0Lp7n39iTWOfH27pXl6B1d",
+      "preview": "https://p.scdn.co/mp3-preview/205badcfaa43ac2510c8e7d2f49aa2b9c379c8f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/55acae608249cb718a19a84ce89c692b30f8c2a5",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Kristen Bell",
+      "featuredArtistId": "2kHxkdiKCSnHMkhIgFBZaI",
+      "trackName": "Making Today a Perfect Day - From \"Frozen Fever\"",
+      "trackId": "3r7CRQPy260K4iiqPvtGQf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/076a44ac3cff79ad0ae05995ec96219b6abd8f09",
+      "release_date": "2015-01-01"
+    },
+    {
+      "featuredArtist": "Cast of Frozen Fever",
+      "featuredArtistId": "5UHRyXGrSAdFV1tHINxRZf",
+      "trackName": "Making Today a Perfect Day - From \"Frozen Fever\"",
+      "trackId": "3r7CRQPy260K4iiqPvtGQf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/076a44ac3cff79ad0ae05995ec96219b6abd8f09",
+      "release_date": "2015-01-01"
+    }
+  ]
+}

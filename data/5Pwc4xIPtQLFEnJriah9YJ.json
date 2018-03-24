@@ -1,0 +1,59 @@
+{
+  "artistName": "OneRepublic",
+  "features": [
+    {
+      "featuredArtist": "Cassius",
+      "featuredArtistId": "0ZH6EbtVEyqyTUnVp994iF",
+      "trackName": "Oh My My",
+      "trackId": "5oMzKQoMFXKcyhzumiVM7o",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/06d0d473758a1e1a7208423b8971d5328a623fd7",
+      "release_date": "2016-12-03"
+    },
+    {
+      "featuredArtist": "Peter Gabriel",
+      "featuredArtistId": "7C4sUpWGlTy7IANjruj02I",
+      "trackName": "A.I.",
+      "trackId": "3Pp1zYscyzlPfxwKZNfZdi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/06d0d473758a1e1a7208423b8971d5328a623fd7",
+      "release_date": "2016-12-03"
+    },
+    {
+      "featuredArtist": "Santigold",
+      "featuredArtistId": "6Jrxnp0JgqmeUX1veU591p",
+      "trackName": "NbHD",
+      "trackId": "6zsFCfP4TK2J48tMYjb668",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3af30ea172ff0db16edfcbcc7b2256896f365460",
+      "release_date": "2016-12-02"
+    },
+    {
+      "featuredArtist": "Alesso",
+      "featuredArtistId": "4AVFqumd2ogHFlRbKIjp1t",
+      "trackName": "If I Lose Myself - Alesso vs OneRepublic",
+      "trackId": "3ScJy88F8KqGDfWu8XJhHx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e79753936a6bd9b53e5e69a46eb4c9f83418066c",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Timbaland",
+      "featuredArtistId": "5Y5TRrQiqgUO4S36tzjIRZ",
+      "trackName": "Apologize",
+      "trackId": "6vlhT8tOO7LLtLCiJsvZcZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2079088b91e3b1f52efee20744bf5070720269e0",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Sara Bareilles",
+      "featuredArtistId": "2Sqr0DXoaYABbjBo9HaMkM",
+      "trackName": "Come Home",
+      "trackId": "6WXiLXTFg3x1S5sR0jB2nt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2079088b91e3b1f52efee20744bf5070720269e0",
+      "release_date": "2008-01-01"
+    }
+  ]
+}

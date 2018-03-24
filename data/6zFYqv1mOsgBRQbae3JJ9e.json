@@ -1,0 +1,68 @@
+{
+  "artistName": "Billy Joel",
+  "features": [
+    {
+      "featuredArtist": "Tony Bennett",
+      "featuredArtistId": "2lolQgalUvZDfp5vvVtTYV",
+      "trackName": "New York State Of Mind - Live July 2008 At Shea Stadium, Queens, NY",
+      "trackId": "6HW3N8uqz6IMTXT7ffQzgi",
+      "preview": "https://p.scdn.co/mp3-preview/2d9d909481840c618859db189426e9df4dd2b749?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ed678ddd1d5ffd861eaeb26aa1b8b7c6dd060fd2",
+      "release_date": "2011-03-11"
+    },
+    {
+      "featuredArtist": "Garth Brooks",
+      "featuredArtistId": "4BclNkZtAUq1YrYNzye3N7",
+      "trackName": "Shameless - Live July 2008 At Shea Stadium, Queens, NY",
+      "trackId": "5yIsenAzY9NSwqTh1Enmdh",
+      "preview": "https://p.scdn.co/mp3-preview/196cb29530aed9942feeece45cc9158b3f84ba28?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ed678ddd1d5ffd861eaeb26aa1b8b7c6dd060fd2",
+      "release_date": "2011-03-11"
+    },
+    {
+      "featuredArtist": "John Mayer",
+      "featuredArtistId": "0hEurMDQu99nJRq8pTxO14",
+      "trackName": "This Is The Time - Live July 2008 At Shea Stadium, Queens, NY",
+      "trackId": "5Wf8sdQL7e9vHOVBDdGRdd",
+      "preview": "https://p.scdn.co/mp3-preview/cdf156191c3851162838e4412459997fe40dcdc5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ed678ddd1d5ffd861eaeb26aa1b8b7c6dd060fd2",
+      "release_date": "2011-03-11"
+    },
+    {
+      "featuredArtist": "Paul McCartney",
+      "featuredArtistId": "4STHEaNw4mPZ2tzheohgXB",
+      "trackName": "I Saw Her Standing There - Live July 2008 At Shea Stadium, Queens, NY",
+      "trackId": "28JzpzSoewPaTPlotYuhDz",
+      "preview": "https://p.scdn.co/mp3-preview/b2008b32f811f5123aec35680016f1afc32ec466?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ed678ddd1d5ffd861eaeb26aa1b8b7c6dd060fd2",
+      "release_date": "2011-03-11"
+    },
+    {
+      "featuredArtist": "Hyung-ki Joo",
+      "featuredArtistId": "2G917AaauILxD8PrWVvmBC",
+      "trackName": "Reverie (Villa D'Este)",
+      "trackId": "522wsrzNObCL3kyhNBsqv4",
+      "preview": "https://p.scdn.co/mp3-preview/f232093bdb4437b5f7ac01da9debb400ac2b303c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f8b4e7315011aa67248633b9328582f92c0719a7",
+      "release_date": "2001-10-02"
+    },
+    {
+      "featuredArtist": "Ray Charles",
+      "featuredArtistId": "1eYhYunlNJlDoQhtYBvPsi",
+      "trackName": "Baby Grand",
+      "trackId": "6B8r8owVznneehISUGzJFD",
+      "preview": "https://p.scdn.co/mp3-preview/8362f9807d8e0a55c588f59b29c572fd7cd0cb97?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64bccd333a3cd82d07ad77ebd4981f0aae7e8aed",
+      "release_date": "1986"
+    },
+    {
+      "featuredArtist": "Cyndi Lauper",
+      "featuredArtistId": "2BTZIqw0ntH9MvilQ3ewNY",
+      "trackName": "Code of Silence",
+      "trackId": "0zjmzjudjC5tPyFZJszvDU",
+      "preview": "https://p.scdn.co/mp3-preview/780eba08fadbb313e22b703f9a96e4589920b5dd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64bccd333a3cd82d07ad77ebd4981f0aae7e8aed",
+      "release_date": "1986"
+    }
+  ]
+}

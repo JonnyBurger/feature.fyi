@@ -1,0 +1,68 @@
+{
+  "artistName": "Frank Ocean",
+  "features": [
+    {
+      "featuredArtist": "Earl Sweatshirt",
+      "featuredArtistId": "3A5tHz1SfngyOZM2gItYKu",
+      "trackName": "Super Rich Kids",
+      "trackId": "1dsQLk5uItl8UOh1OUyqB4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d5b91f9fd71688b8ee8e4fbb1653320fb504b6cf",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "John Mayer",
+      "featuredArtistId": "0hEurMDQu99nJRq8pTxO14",
+      "trackName": "White",
+      "trackId": "1epDVn3ddLZJ7H1HtXNdIv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d5b91f9fd71688b8ee8e4fbb1653320fb504b6cf",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "André 3000",
+      "featuredArtistId": "74V3dE1a51skRkdII8y2C6",
+      "trackName": "Pink Matter",
+      "trackId": "2Dp0dpy9sX8UxxcVvvtF5x",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d5b91f9fd71688b8ee8e4fbb1653320fb504b6cf",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "JAY Z",
+      "featuredArtistId": "3nFkdlSjzX9mRTtwJOzDYB",
+      "trackName": "Biking",
+      "trackId": "2q0VexHJirnUPnEOhr2DxK",
+      "preview": "https://p.scdn.co/mp3-preview/35a608d4813f00f58d1c99b018531184d0c1e242?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d693dc8837c944e60528746f13c3a8e076d36dee",
+      "release_date": "2017-04-10"
+    },
+    {
+      "featuredArtist": "Tyler, The Creator",
+      "featuredArtistId": "4V8LLVI7PbaPR0K2TGSxFF",
+      "trackName": "Biking",
+      "trackId": "2q0VexHJirnUPnEOhr2DxK",
+      "preview": "https://p.scdn.co/mp3-preview/35a608d4813f00f58d1c99b018531184d0c1e242?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d693dc8837c944e60528746f13c3a8e076d36dee",
+      "release_date": "2017-04-10"
+    },
+    {
+      "featuredArtist": "Calvin Harris",
+      "featuredArtistId": "7CajNmpbOovFoOoasH2HaY",
+      "trackName": "Slide",
+      "trackId": "1wj23degJmbGZaJ1sUkVj8",
+      "preview": "https://p.scdn.co/mp3-preview/d3e8d7ced6e0f3844b8c0309a7d4baad511a3518?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9b7e031afa0f827434b74da5ffe924f11b135913",
+      "release_date": "2017-12-22"
+    },
+    {
+      "featuredArtist": "Migos",
+      "featuredArtistId": "3dn4XHZRNPUxC2UkepJmxy",
+      "trackName": "Slide",
+      "trackId": "1wj23degJmbGZaJ1sUkVj8",
+      "preview": "https://p.scdn.co/mp3-preview/d3e8d7ced6e0f3844b8c0309a7d4baad511a3518?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9b7e031afa0f827434b74da5ffe924f11b135913",
+      "release_date": "2017-12-22"
+    }
+  ]
+}

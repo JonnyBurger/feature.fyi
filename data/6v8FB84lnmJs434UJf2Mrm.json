@@ -1,0 +1,23 @@
+{
+  "artistName": "Neil Young",
+  "features": [
+    {
+      "featuredArtist": "Promise of the Real",
+      "featuredArtistId": "2XxfwJ8GFIwpwaHh6oL3PT",
+      "trackName": "Many Moons Ago in the Future",
+      "trackId": "4ewKOgZcbBg77imJ3sHvoc",
+      "preview": "https://p.scdn.co/mp3-preview/0fca5ae483f658345919acb0cc9a20d9796ca6df?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ee89fa7461019db3253ea515674c3f2a6be5cd38",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Crazy Horse",
+      "featuredArtistId": "0oi7g8NUnlLh5tJvg2y5e3",
+      "trackName": "Driftin' Back",
+      "trackId": "6kO8XD60H0MJ255o5rFk7W",
+      "preview": "https://p.scdn.co/mp3-preview/d336a5e1539334257d6d4f7edfec4dabe8541e40?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8c95b37fd478ec1b46f7cc7d505d3dcdb764348b",
+      "release_date": "2012-10-15"
+    }
+  ]
+}

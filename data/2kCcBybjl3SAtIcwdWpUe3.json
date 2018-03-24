@@ -1,0 +1,95 @@
+{
+  "artistName": "Lil Peep",
+  "features": [
+    {
+      "featuredArtist": "Lil Tracy",
+      "featuredArtistId": "5g63iWaMJ2UrkZMkCC8dMi",
+      "trackName": "Awful Things",
+      "trackId": "7Hr2XoaGpIMKbNXCZDZ3le",
+      "preview": "https://p.scdn.co/mp3-preview/4882cdac640a581c3a9c59c0072002e4cd2a8e5e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb502da315dfbebcb72964af5e88ad5befe34019",
+      "release_date": "2017-08-15"
+    },
+    {
+      "featuredArtist": "Marshmello",
+      "featuredArtistId": "64KEffDW9EtZ1y2vBYgq8T",
+      "trackName": "Spotlight",
+      "trackId": "6VrCmhRBFnuGKmtNfk4jDs",
+      "preview": "https://p.scdn.co/mp3-preview/5d0b9a2451188f0ee9106b40e52517e7e7769198?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c24a66e9898d1a3ccfb53a8f9a8b977f102a18f4",
+      "release_date": "2018-01-12"
+    },
+    {
+      "featuredArtist": "Døves",
+      "featuredArtistId": "7MdYtdLOSFdHTFfM4TU2bf",
+      "trackName": "Avoid (feat. Wicca Phase Springs Eternal & Døves)",
+      "trackId": "2EnUm3aTkmdD0WMKcle2bg",
+      "preview": "https://p.scdn.co/mp3-preview/f1b97d08f072ccd94db5bfccdee5c61fd3701acd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5d4cf117eb0dd777e27e76ebe263587fb56cf05c",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Wicca Phase Springs Eternal",
+      "featuredArtistId": "70AkqfU43ou9hFxJZTDt7A",
+      "trackName": "Avoid (feat. Wicca Phase Springs Eternal & Døves)",
+      "trackId": "2EnUm3aTkmdD0WMKcle2bg",
+      "preview": "https://p.scdn.co/mp3-preview/f1b97d08f072ccd94db5bfccdee5c61fd3701acd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5d4cf117eb0dd777e27e76ebe263587fb56cf05c",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Bexey",
+      "featuredArtistId": "3PXR1cXkJk5aOekoGOtWFA",
+      "trackName": "Nightslayer",
+      "trackId": "0mPfIi8QwAdZHnnYew83oQ",
+      "preview": "https://p.scdn.co/mp3-preview/7c422d01f5b8adcb6c435d56ad5bcc134e9ff0cb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/16483b80981fc39eb051c333ac6d9938c69a10b2",
+      "release_date": "2017-09-28"
+    },
+    {
+      "featuredArtist": "Horsehead",
+      "featuredArtistId": "07NLoddXdBEh9nmUH7tYVq",
+      "trackName": "Girls",
+      "trackId": "6Z1KNUrW7f6oo97w8BNom7",
+      "preview": "https://p.scdn.co/mp3-preview/525a97dff8331b8548ab8b668d8711cc1f9098c9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49f4fdacd9b087bad9dab429f517ed63a7a33833",
+      "release_date": "2017-06-08"
+    },
+    {
+      "featuredArtist": "P2thegoldmask",
+      "featuredArtistId": "0khvyoIrrRCIJ1PmJKfIlP",
+      "trackName": "Running Out Of Time (R.O.O.T.)",
+      "trackId": "56OtV9usSJBofxFyOXkC3r",
+      "preview": "https://p.scdn.co/mp3-preview/05a77a5d0bcd67b2dc95fc886e2e7dfde1be7ba6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/47d16dae394fd786a6827970dc7410155e4c83b4",
+      "release_date": "2016-10-20"
+    },
+    {
+      "featuredArtist": "mysticphonk",
+      "featuredArtistId": "6QHYF8nHzzx2ENwolOLOdw",
+      "trackName": "Haunt U",
+      "trackId": "6fxWseQSRKOF2nfkGbaJWO",
+      "preview": "https://p.scdn.co/mp3-preview/8edc3563038d9f2e8a12d215246495867a28e072?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bbfcd6b5181ff2c6f1a41e68e38acadbc6ccbb0",
+      "release_date": "2018-02-24"
+    },
+    {
+      "featuredArtist": "KirbLaGoop",
+      "featuredArtistId": "0eVhqF74EcgHDV2cwqEpv9",
+      "trackName": "I Can't Feel My Face (feat. Lil Peep & Mackned)",
+      "trackId": "2DciXUNQQYGCHP7eJmz3GD",
+      "preview": "https://p.scdn.co/mp3-preview/eb979b45678e7e6dd2b7dbed7ad6d309c70ad9c8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f72defd6204813cc3c164f8c0c84ffcd8cdd73fd",
+      "release_date": "2018-01-11"
+    },
+    {
+      "featuredArtist": "Mackned",
+      "featuredArtistId": "38wZLnW6ef7x07WnekBNMA",
+      "trackName": "I Can't Feel My Face (feat. Lil Peep & Mackned)",
+      "trackId": "2DciXUNQQYGCHP7eJmz3GD",
+      "preview": "https://p.scdn.co/mp3-preview/eb979b45678e7e6dd2b7dbed7ad6d309c70ad9c8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f72defd6204813cc3c164f8c0c84ffcd8cdd73fd",
+      "release_date": "2018-01-11"
+    }
+  ]
+}

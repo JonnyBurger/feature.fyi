@@ -1,0 +1,23 @@
+{
+  "artistName": "Milky Chance",
+  "features": [
+    {
+      "featuredArtist": "Izzy Bizu",
+      "featuredArtistId": "6b5YOgXIliAozdo49vUCJQ",
+      "trackName": "Bad Things",
+      "trackId": "3ryeWcVpVuweKdOZILENPW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/598dc0ea9c18f0f901e4048b1f2d7d7f493b3cf5",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Bondax",
+      "featuredArtistId": "4qobOrZpdUri80gScwsHfs",
+      "trackName": "Bad Things - Bondax Remix",
+      "trackId": "69710t0Y6oru6Az7YarLo2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6aa83457318746765ba83a16c2b41df818d9715a",
+      "release_date": "2017-11-10"
+    }
+  ]
+}

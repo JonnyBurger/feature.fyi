@@ -1,0 +1,59 @@
+{
+  "artistName": "Travie McCoy",
+  "features": [
+    {
+      "featuredArtist": "Bruno Mars",
+      "featuredArtistId": "0du5cEVh5yTK9QJze8zA0C",
+      "trackName": "Billionaire (feat. Bruno Mars) - Amended Album Version",
+      "trackId": "08AbzjAgSmDN6gEwbcnqgU",
+      "preview": "https://p.scdn.co/mp3-preview/7f56606a0e68c75a7d1a90b6bc21bd65d2dc3686?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/33a867c27505841780a9c727dea7fadf30e4d5dc",
+      "release_date": "2010-06-08"
+    },
+    {
+      "featuredArtist": "Sia",
+      "featuredArtistId": "5WUlDfRSoLAfcVSX1WnrxN",
+      "trackName": "Golden (feat. Sia)",
+      "trackId": "0HZWWaKieQ9ZETkTEUVTH2",
+      "preview": "https://p.scdn.co/mp3-preview/b4532c080af5fa40f8fd616331d85e3906d07996?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f301387027b7bddea25e54b95c5ca909125b4474",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Brendon Urie",
+      "featuredArtistId": "6eYFryfcEu3QSq59D62wZQ",
+      "trackName": "Keep On Keeping On (feat. Brendon Urie)",
+      "trackId": "7ezqQc9fdjV2YNbBIQNAUz",
+      "preview": "https://p.scdn.co/mp3-preview/c207cdc632df952a21e0649b52e80f91a2237ff8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/47ad13d9b097b644fa30f166d5476250b87c1e74",
+      "release_date": "2014-03-24"
+    },
+    {
+      "featuredArtist": "Jason Mraz",
+      "featuredArtistId": "4phGZZrJZRo4ElhRtViYdl",
+      "trackName": "Rough Water (feat. Jason Mraz)",
+      "trackId": "56z8UyE4foPVnSrER7lVR5",
+      "preview": "https://p.scdn.co/mp3-preview/9c388061034e8d169bc3d07ce0b71e5b9cb8613d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/488b30290a87c9860f17ea470b6f5793809ef258",
+      "release_date": "2013-09-10"
+    },
+    {
+      "featuredArtist": "Patrick Stump",
+      "featuredArtistId": "0wsdUS0EJ7zHgti2nxTVWR",
+      "trackName": "All In - New York Giants' Anthem",
+      "trackId": "4LcAZrrrFT72RV02Gw72zL",
+      "preview": "https://p.scdn.co/mp3-preview/010e172c8a6c98df16b89cd8cb0c74415bd6e098?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/597ecbe87d97dbed519f2bd53e0dd4fecd28f87c",
+      "release_date": "2012-11-13"
+    },
+    {
+      "featuredArtist": "Olly Murs",
+      "featuredArtistId": "3whuHq0yGx60atvA2RCVRW",
+      "trackName": "Wrapped Up",
+      "trackId": "4CeAZYjm7YcIf4ONO5eEiR",
+      "preview": "https://p.scdn.co/mp3-preview/b4f5ad166310198c056808924f6c7b24ded42fd1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad9ac4d21d96c7594cdb1dd1cc6d43759326ffad",
+      "release_date": "2018-03-02"
+    }
+  ]
+}

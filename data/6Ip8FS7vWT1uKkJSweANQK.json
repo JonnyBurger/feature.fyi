@@ -1,0 +1,59 @@
+{
+  "artistName": "Dave",
+  "features": [
+    {
+      "featuredArtist": "MoStack",
+      "featuredArtistId": "14H15rElxdGClICOZXEYHP",
+      "trackName": "No Words",
+      "trackId": "4USHZ3omhEBGjHLD9BIJYs",
+      "preview": "https://p.scdn.co/mp3-preview/9eb12c29db72c4313e053d3a002be442812bafe3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dd04294c412e4f40afc4531c1873bbb6029b6781",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "J Hus",
+      "featuredArtistId": "2a0uxJgbvvIRI4GX8pYfcr",
+      "trackName": "Samantha",
+      "trackId": "4YLzVD32aMH4qgSsSPtNbl",
+      "preview": "https://p.scdn.co/mp3-preview/f947046b34cd41b668ec4a36d39151b959c24db4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/491a23b955f56100f7fb8865be2f8b461446aac2",
+      "release_date": "2017-01-27"
+    },
+    {
+      "featuredArtist": "Drake",
+      "featuredArtistId": "3TVXtAsR1Inumwj472S9r4",
+      "trackName": "Wanna Know Remix (feat. Drake)",
+      "trackId": "7bPLo5Fv7h15E2fW3g1mVQ",
+      "preview": "https://p.scdn.co/mp3-preview/f1519694d86e1db6cd9a30157817271489a6646c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e695e7e2dfc045d8a1a1567bf77c3e0f965f64cf",
+      "release_date": "2016-10-28"
+    },
+    {
+      "featuredArtist": "AJ Tracey",
+      "featuredArtistId": "4Xi6LSfFqv26XgP9NKN26U",
+      "trackName": "Thiago Silva",
+      "trackId": "3DKCTIiJ97bS9TGiqcABjo",
+      "preview": "https://p.scdn.co/mp3-preview/d8a94cd90d3063f80de4aa0c00a76bfa865ca8c8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6f85c82752ff4014ac7b263242c6dc1595e113aa",
+      "release_date": "2016-05-13"
+    },
+    {
+      "featuredArtist": "Avelino",
+      "featuredArtistId": "039zhJoEkboZ8Ii6K40Fb6",
+      "trackName": "U Can Stand Up - Edit",
+      "trackId": "1SxPZPotAWHhYjJSR5hD6k",
+      "preview": "https://p.scdn.co/mp3-preview/1d71c521e63693c6a83e5b54b96ebfcbaea981d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/514517cb8c3980cba09053aabc0ab1a8b9bf659c",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Giggs",
+      "featuredArtistId": "3S0tlB4fE7ChxI2pWz8Xip",
+      "trackName": "Peligro",
+      "trackId": "0gxfdKlRNsUhwb296HvUXA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/096b3268a5c9133d99999bc4fdf07afcf4569e6c",
+      "release_date": "2017-10-06"
+    }
+  ]
+}

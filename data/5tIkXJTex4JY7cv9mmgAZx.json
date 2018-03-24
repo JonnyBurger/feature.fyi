@@ -1,0 +1,41 @@
+{
+  "artistName": "Ruelle",
+  "features": [
+    {
+      "featuredArtist": "UNSECRET",
+      "featuredArtistId": "721Thvnq29Or9LXUyfF75c",
+      "trackName": "Wake Up World",
+      "trackId": "7KGVC66mWZWfLtQZQLacIR",
+      "preview": "https://p.scdn.co/mp3-preview/dbeccc913e1bcd0fcf7807c1fcb7dcdabb557704?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/75ef934377015b46a09e30c63293bb2d48de8b2a",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "NF",
+      "featuredArtistId": "6fOMl44jA4Sp5b9PpYCkzz",
+      "trackName": "10 Feet Down",
+      "trackId": "68biLwi894rMQPeIiSky2t",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ecbc71f031d40de0c941e33a661e3aca1b342255",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Ki:Theory",
+      "featuredArtistId": "1mB4aweE1XGdjbFVFC8i5m",
+      "trackName": "Bringing Me Down (feat. Ruelle)",
+      "trackId": "0qeW6vTCpeEaXQJ5aq3c2Z",
+      "preview": "https://p.scdn.co/mp3-preview/67ebc2ebb6e5d1960f3451ae822c78f7c19f86e3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cf9bd7f885819b13e4b61c7d7f8dc809de98610",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Tommee Profitt",
+      "featuredArtistId": "73jlPRxT7z5xk29sMqFDjU",
+      "trackName": "Whose Side Are You on (feat. Ruelle)",
+      "trackId": "6zVym2AAC2tvRQnpG3tj3j",
+      "preview": "https://p.scdn.co/mp3-preview/eb4ee6ee9bd1aa79ce37f7a6686ccf4307436484?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8fe95c6bf44fdf1d6b9d255a34ffd1c2e71536e4",
+      "release_date": "2017-01-13"
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "artistName": "Ying Yang Twins",
+  "features": [
+    {
+      "featuredArtist": "Mr. Collipark",
+      "featuredArtistId": "3EtuDyQhDQYISGg1DU5qZj",
+      "trackName": "Make It Jump (feat. Mr. Colli Park)",
+      "trackId": "3DDmuR9VI3eP30VvJrYMri",
+      "preview": "https://p.scdn.co/mp3-preview/419a8634c5f7b0cc96ba434e00a5fe7b2e72ea32?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/975b237c0fe71d82683d155749d164860898598a",
+      "release_date": "2013-08-07"
+    },
+    {
+      "featuredArtist": "Rhythm",
+      "featuredArtistId": "1vSLblXsBsjbREZeGNKs7j",
+      "trackName": "Miley Cyrus (feat. Rhythm)",
+      "trackId": "0rgTBPkhqP4YOHVKB9g1PA",
+      "preview": "https://p.scdn.co/mp3-preview/03d31c86e7176719b00b18f38eb3ea007a2180e2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/975b237c0fe71d82683d155749d164860898598a",
+      "release_date": "2013-08-07"
+    },
+    {
+      "featuredArtist": "Duff.E",
+      "featuredArtistId": "4lctfbu1luzjEtLGwFI5vv",
+      "trackName": "Wet T-Shirt (feat. Duff.E)",
+      "trackId": "3ScGqtYh8ehp3GWu6f5RsV",
+      "preview": "https://p.scdn.co/mp3-preview/55fae36996945f7f230ce06df92cede66da09ad8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/975b237c0fe71d82683d155749d164860898598a",
+      "release_date": "2013-08-07"
+    },
+    {
+      "featuredArtist": "Tex James",
+      "featuredArtistId": "5Fc1NIEMpcxG2cXEpcMZ0s",
+      "trackName": "How We Party (feat. Tex James)",
+      "trackId": "1khqmiFebVod4en2OIjb37",
+      "preview": "https://p.scdn.co/mp3-preview/39130fdda227377252167a51c39fb65e699362a4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/975b237c0fe71d82683d155749d164860898598a",
+      "release_date": "2013-08-07"
+    },
+    {
+      "featuredArtist": "DJ Teddy-O",
+      "featuredArtistId": "3tUPN3EK2qkzQRDBDjHJVv",
+      "trackName": "Alcohol & Drugs",
+      "trackId": "1yQkV4ugOlzVb52boi1kIl",
+      "preview": "https://p.scdn.co/mp3-preview/5df76037d56e1c1c53096e04ffa0264cea24290d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e3c366758c4c2b36401801affcefdeaaa1e3e7b",
+      "release_date": "2012-09-28"
+    },
+    {
+      "featuredArtist": "Pitbull",
+      "featuredArtistId": "0TnOYISbd1XYRBk9myaseg",
+      "trackName": "Shake (Feat. Pitbull)",
+      "trackId": "1ZKKdGaFNy2dOMHRgkW93Y",
+      "preview": "https://p.scdn.co/mp3-preview/74bb42f560a683aa192c30d396905d1998e889e2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6f8ddeed099b508ca0d68979b3ef6d0583c4b4a6",
+      "release_date": "2009-11-03"
+    },
+    {
+      "featuredArtist": "Lil Jon & The East Side Boyz",
+      "featuredArtistId": "3ciRvbBIVz9fBoPbtSYq4x",
+      "trackName": "Salt Shaker (Feat. Lil Jon & The East Side Boyz)",
+      "trackId": "1JF1W6Wqrjc4fIz7uTAaEE",
+      "preview": "https://p.scdn.co/mp3-preview/61af62d490a672c153fbaa723056707c7acd935a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6f8ddeed099b508ca0d68979b3ef6d0583c4b4a6",
+      "release_date": "2009-11-03"
+    },
+    {
+      "featuredArtist": "Mike Jones",
+      "featuredArtistId": "6GsPmNut1ND0llA2WPLdyQ",
+      "trackName": "Badd Remix (Prod. By Mental Instruments) Feat. Mike Jones",
+      "trackId": "10951fKpymWEaw6AoAxjwK",
+      "preview": "https://p.scdn.co/mp3-preview/ecb673a03131ac4b13540c50bf420f060eecd57e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6f8ddeed099b508ca0d68979b3ef6d0583c4b4a6",
+      "release_date": "2009-11-03"
+    },
+    {
+      "featuredArtist": "Avant",
+      "featuredArtistId": "0AunegKKH2ys98aLxq8G1A",
+      "trackName": "Bedroom Boom (Feat. Avant)",
+      "trackId": "6vZyq8pjOueNoDHEvYF8oB",
+      "preview": "https://p.scdn.co/mp3-preview/62082f11b63ba0a07920c9b22685d1f8f30408c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6f8ddeed099b508ca0d68979b3ef6d0583c4b4a6",
+      "release_date": "2009-11-03"
+    },
+    {
+      "featuredArtist": "Da Musicianz",
+      "featuredArtistId": "7lnby2HPlaiK005oj3J0N1",
+      "trackName": "Swag City (Feat. Da Musicianz)",
+      "trackId": "671E8TZFlnI6ysxHSOfh0R",
+      "preview": "https://p.scdn.co/mp3-preview/5f8ae9aa2ea5ce90e11c288b1168d04951f3ec11?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6f8ddeed099b508ca0d68979b3ef6d0583c4b4a6",
+      "release_date": "2009-11-03"
+    },
+    {
+      "featuredArtist": "Jackl-O",
+      "featuredArtistId": "625eYGY4wR0C6Py8YqNI9n",
+      "trackName": "Georgia Dome Remix (Feat. Jackl-O And Fatman Scoop)",
+      "trackId": "6s1lNE4g0yXKmW19Rfcp38",
+      "preview": "https://p.scdn.co/mp3-preview/dcedfc0ca791dc87dfd738458c4d0a550aea97a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6f8ddeed099b508ca0d68979b3ef6d0583c4b4a6",
+      "release_date": "2009-11-03"
+    },
+    {
+      "featuredArtist": "Fatman Scoop",
+      "featuredArtistId": "15GGbJKqC6w0VYyAJtjej6",
+      "trackName": "Georgia Dome Remix (Feat. Jackl-O And Fatman Scoop)",
+      "trackId": "6s1lNE4g0yXKmW19Rfcp38",
+      "preview": "https://p.scdn.co/mp3-preview/dcedfc0ca791dc87dfd738458c4d0a550aea97a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6f8ddeed099b508ca0d68979b3ef6d0583c4b4a6",
+      "release_date": "2009-11-03"
+    },
+    {
+      "featuredArtist": "Trick Daddy",
+      "featuredArtistId": "12FHARd9fY0Tu0ila4Ua25",
+      "trackName": "Whats Happnin! (Feat. Trick Daddy)",
+      "trackId": "6QVDBajBKQAz7RSS66k4vF",
+      "preview": "https://p.scdn.co/mp3-preview/c0a690f144c96e168eb7f6fd9862c4ecbc756519?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6f8ddeed099b508ca0d68979b3ef6d0583c4b4a6",
+      "release_date": "2009-11-03"
+    },
+    {
+      "featuredArtist": "Homebwoi",
+      "featuredArtistId": "7m6jpo2SfoIToSZuEhRmkR",
+      "trackName": "Halftime (Stand Up & Get Crunk!) Feat. Homebwoi",
+      "trackId": "0vHuJINsxpgg6SWpuIbKfY",
+      "preview": "https://p.scdn.co/mp3-preview/3abf41ed89517bd85565e40094c14af9f0adf9a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6f8ddeed099b508ca0d68979b3ef6d0583c4b4a6",
+      "release_date": "2009-11-03"
+    },
+    {
+      "featuredArtist": "Lil Jon",
+      "featuredArtistId": "7sfl4Xt5KmfyDs2T3SVSMK",
+      "trackName": "Salt Shaker (Feat. Lil Jon & The East Side Boyz)",
+      "trackId": "7mOG3Ja7FUAfQM9SO1ep0Z",
+      "preview": "https://p.scdn.co/mp3-preview/fdefca551cd21b7aedf3b7c6985c8201f02cff15?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b4912e514fcd37e35d97fb385fd1605ecdf0b5fb",
+      "release_date": "2009-11-03"
+    },
+    {
+      "featuredArtist": "Eastside Boyz",
+      "featuredArtistId": "79Pqjevn76nsm1KiEgWuyS",
+      "trackName": "Salt Shaker (Feat. Lil Jon & The East Side Boyz)",
+      "trackId": "7mOG3Ja7FUAfQM9SO1ep0Z",
+      "preview": "https://p.scdn.co/mp3-preview/fdefca551cd21b7aedf3b7c6985c8201f02cff15?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b4912e514fcd37e35d97fb385fd1605ecdf0b5fb",
+      "release_date": "2009-11-03"
+    },
+    {
+      "featuredArtist": "Taurus",
+      "featuredArtistId": "31yqUKDLuRIRp6WrGHijf9",
+      "trackName": "Jack It Up",
+      "trackId": "2GniZ7gEQGvXYxsZP5eVxw",
+      "preview": "https://p.scdn.co/mp3-preview/5f940bc7a1bd876bca8d416ff969dd51488580ee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4c44e5742921129420f75a64ef3159ff7eda60d",
+      "release_date": "2006-11-28"
+    },
+    {
+      "featuredArtist": "Los Vegas",
+      "featuredArtistId": "4vpeSI03urz6wZLW45FPDA",
+      "trackName": "Take It Slow",
+      "trackId": "5vwwaSom9REk6GaeMkbhAI",
+      "preview": "https://p.scdn.co/mp3-preview/2e3a36403706ed6e1ac90856bf785456a38e13b5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4c44e5742921129420f75a64ef3159ff7eda60d",
+      "release_date": "2006-11-28"
+    },
+    {
+      "featuredArtist": "K.T.",
+      "featuredArtistId": "41hckCBzvyYWQ33UlxU8wl",
+      "trackName": "Big Boy Liquor",
+      "trackId": "1adILbWMQ66RqkBcyV2XfG",
+      "preview": "https://p.scdn.co/mp3-preview/ac629087076a9db308b646c9335e15a235f349bc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4c44e5742921129420f75a64ef3159ff7eda60d",
+      "release_date": "2006-11-28"
+    },
+    {
+      "featuredArtist": "Huggy",
+      "featuredArtistId": "2YjZtU4rJM24BrcMa0tWXN",
+      "trackName": "Big Boy Liquor",
+      "trackId": "1adILbWMQ66RqkBcyV2XfG",
+      "preview": "https://p.scdn.co/mp3-preview/ac629087076a9db308b646c9335e15a235f349bc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4c44e5742921129420f75a64ef3159ff7eda60d",
+      "release_date": "2006-11-28"
+    },
+    {
+      "featuredArtist": "Wyclef Jean",
+      "featuredArtistId": "7aBzpmFXB4WWpPl2F7RjBe",
+      "trackName": "Dangerous",
+      "trackId": "7HhR1L61r3Z3PMWRRJSDHe",
+      "preview": "https://p.scdn.co/mp3-preview/13f0b48892b5fefd0bb0839c92004970cb46736f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4c44e5742921129420f75a64ef3159ff7eda60d",
+      "release_date": "2006-11-28"
+    },
+    {
+      "featuredArtist": "Da Muzicians",
+      "featuredArtistId": "4kreCGTmzrLMoRh4lzn8ck",
+      "trackName": "The Walk",
+      "trackId": "1H2O20xAJhWdxOG5crtCkM",
+      "preview": "https://p.scdn.co/mp3-preview/22d6e316b165e138cd51b045473fcca21f1e19d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/57e6637d17a99c9f6cc55cb41f90a0027d01b67f",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Countrie Biggz",
+      "featuredArtistId": "0ThkSyHaBQcmhu9r7Ss93u",
+      "trackName": "The Walk",
+      "trackId": "1H2O20xAJhWdxOG5crtCkM",
+      "preview": "https://p.scdn.co/mp3-preview/22d6e316b165e138cd51b045473fcca21f1e19d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/57e6637d17a99c9f6cc55cb41f90a0027d01b67f",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "B!G",
+      "featuredArtistId": "7B6QTq4jOsNMhldln7qA4a",
+      "trackName": "The Walk",
+      "trackId": "1H2O20xAJhWdxOG5crtCkM",
+      "preview": "https://p.scdn.co/mp3-preview/22d6e316b165e138cd51b045473fcca21f1e19d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/57e6637d17a99c9f6cc55cb41f90a0027d01b67f",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Bun B",
+      "featuredArtistId": "45a6gCQWq61lIUDmr1tKuO",
+      "trackName": "23 Hr. Lock Down",
+      "trackId": "7DGbAx6wf55D6EwoU7Xojy",
+      "preview": "https://p.scdn.co/mp3-preview/801cfa344d549315623c895cb28195086c8d63b3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/57e6637d17a99c9f6cc55cb41f90a0027d01b67f",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Jacki-O",
+      "featuredArtistId": "7Mpn9y699j3PYnAK6Tf2LV",
+      "trackName": "Hoes",
+      "trackId": "1lRHlhwh3WZWI1sxitLtIu",
+      "preview": "https://p.scdn.co/mp3-preview/7181bfb50db111d939c1132fafc33b4735fe35b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/57e6637d17a99c9f6cc55cb41f90a0027d01b67f",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Busta Rhymes",
+      "featuredArtistId": "1YfEcTuGvBQ8xSD1f53UnK",
+      "trackName": "Wait (The Whisper song remix)",
+      "trackId": "71duEde7TVOiuO5THJXGy9",
+      "preview": "https://p.scdn.co/mp3-preview/be21ca5f4d27fbdceadf064cc13a484212778ffd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/57e6637d17a99c9f6cc55cb41f90a0027d01b67f",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Missy Elliott",
+      "featuredArtistId": "2wIVse2owClT7go1WT98tk",
+      "trackName": "Wait (The Whisper song remix)",
+      "trackId": "71duEde7TVOiuO5THJXGy9",
+      "preview": "https://p.scdn.co/mp3-preview/be21ca5f4d27fbdceadf064cc13a484212778ffd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/57e6637d17a99c9f6cc55cb41f90a0027d01b67f",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Lil Scrappy",
+      "featuredArtistId": "5einkgXXrjhfYCyac1FANB",
+      "trackName": "Wait (The Whisper song remix)",
+      "trackId": "71duEde7TVOiuO5THJXGy9",
+      "preview": "https://p.scdn.co/mp3-preview/be21ca5f4d27fbdceadf064cc13a484212778ffd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/57e6637d17a99c9f6cc55cb41f90a0027d01b67f",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Free",
+      "featuredArtistId": "2EGUDmBJ1eJUxOhzGqpM27",
+      "trackName": "Wait (The Whisper song remix)",
+      "trackId": "71duEde7TVOiuO5THJXGy9",
+      "preview": "https://p.scdn.co/mp3-preview/be21ca5f4d27fbdceadf064cc13a484212778ffd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/57e6637d17a99c9f6cc55cb41f90a0027d01b67f",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Adam Levine",
+      "featuredArtistId": "4bYPcJP5jwMhSivRcqie2n",
+      "trackName": "Live Again",
+      "trackId": "7vVLZQQvj5j6rlvjm16bOr",
+      "preview": "https://p.scdn.co/mp3-preview/ef07c7dc390734b907620477c11d21dbfae1a184?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/57e6637d17a99c9f6cc55cb41f90a0027d01b67f",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Teedra Moses",
+      "featuredArtistId": "6vfR5QRc3xca0KvpG8KZBE",
+      "trackName": "Pull That Thankg Down",
+      "trackId": "1mCbKSzqYBM7mwRf3Gtc5o",
+      "preview": "https://p.scdn.co/mp3-preview/1860836df196b1796fc28c9bdb817ccd7bc52b7f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/57e6637d17a99c9f6cc55cb41f90a0027d01b67f",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Anthony Hamilton",
+      "featuredArtistId": "2DzRMyWgjuMbYvt5BLbpCo",
+      "trackName": "Long Time",
+      "trackId": "05FXVObiXOzt0fuZbkJ1V3",
+      "preview": "https://p.scdn.co/mp3-preview/ef7da31417c4fce4e1d045aa0441e4e787147ccd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/57e6637d17a99c9f6cc55cb41f90a0027d01b67f",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Anwar",
+      "featuredArtistId": "6ongxClsLgHE42al51Wwx6",
+      "trackName": "My Brother's Keeper",
+      "trackId": "0bQHcfdOen7vRYJcyGWIvB",
+      "preview": "https://p.scdn.co/mp3-preview/1f42f3ec170f7351cb0d033a40e7c62277d0f748?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dded12cb259eaef52de702cd588536f00539e69",
+      "release_date": "2005-06-28"
+    },
+    {
+      "featuredArtist": "Juvenile",
+      "featuredArtistId": "0rG0AZBscc8S8q1ahIsasI",
+      "trackName": "Slow Motion [Remix]",
+      "trackId": "2emv7E4xpJh1uanArJu1qV",
+      "preview": "https://p.scdn.co/mp3-preview/699478218579daf1f9073ca2e743a6574e91c5c0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d88bc32e5b6e08e78aac05e22de4e53a8db1ca5d",
+      "release_date": "2004-11-02"
+    },
+    {
+      "featuredArtist": "UTP",
+      "featuredArtistId": "3spodygzJKEc3EYDwFCZEf",
+      "trackName": "Slow Motion [Remix]",
+      "trackId": "2emv7E4xpJh1uanArJu1qV",
+      "preview": "https://p.scdn.co/mp3-preview/699478218579daf1f9073ca2e743a6574e91c5c0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d88bc32e5b6e08e78aac05e22de4e53a8db1ca5d",
+      "release_date": "2004-11-02"
+    },
+    {
+      "featuredArtist": "Bone Crusher",
+      "featuredArtistId": "43FHtbCIWU28MtEz278jWb",
+      "trackName": "Take Ya Clothes Off",
+      "trackId": "1ejs6pe60oK3GauqTf2dQQ",
+      "preview": "https://p.scdn.co/mp3-preview/420d756f73cdd03e9f454d57168ad99888ef44c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d88bc32e5b6e08e78aac05e22de4e53a8db1ca5d",
+      "release_date": "2004-11-02"
+    },
+    {
+      "featuredArtist": "The Mujicians",
+      "featuredArtistId": "12h6LZWbmABFTW22VN3vN4",
+      "trackName": "Do It",
+      "trackId": "512AqPopU5WJddQv6ACqiy",
+      "preview": "https://p.scdn.co/mp3-preview/343f39b967d39a907559f7fdc7b79f46da3d2b27?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d88bc32e5b6e08e78aac05e22de4e53a8db1ca5d",
+      "release_date": "2004-11-02"
+    },
+    {
+      "featuredArtist": "Nubreed",
+      "featuredArtistId": "4wQZKDckV0rmORxc9j7Bvl",
+      "trackName": "Do It",
+      "trackId": "512AqPopU5WJddQv6ACqiy",
+      "preview": "https://p.scdn.co/mp3-preview/343f39b967d39a907559f7fdc7b79f46da3d2b27?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d88bc32e5b6e08e78aac05e22de4e53a8db1ca5d",
+      "release_date": "2004-11-02"
+    },
+    {
+      "featuredArtist": "Yonnie",
+      "featuredArtistId": "2EX3jiNegveG6tVyVTeyYy",
+      "trackName": "In Da Club",
+      "trackId": "5DrxFa4Ko33CjDT96LWvPM",
+      "preview": "https://p.scdn.co/mp3-preview/27f7bacaf2c5c2b9dfb6596efad9eb13cea0fcc1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d88bc32e5b6e08e78aac05e22de4e53a8db1ca5d",
+      "release_date": "2004-11-02"
+    },
+    {
+      "featuredArtist": "Youngbloodz",
+      "featuredArtistId": "2OqENqJFXPORP4BUGnu2Qq",
+      "trackName": "Me and My Brother [Remix]",
+      "trackId": "39ArTwmHvrOKOb0FqHtnt4",
+      "preview": "https://p.scdn.co/mp3-preview/bb93803b857365e3e4abb3fecce32ff4209e95f7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d88bc32e5b6e08e78aac05e22de4e53a8db1ca5d",
+      "release_date": "2004-11-02"
+    },
+    {
+      "featuredArtist": "Nick Cannon",
+      "featuredArtistId": "480i0t8YiGc2aoOR6BeLAb",
+      "trackName": "Get Crunk Shorty",
+      "trackId": "02KyjaQGxC10SL5sn2X8CL",
+      "preview": "https://p.scdn.co/mp3-preview/89de7c7aed06d77c42a6da0d0f053fae21287923?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d88bc32e5b6e08e78aac05e22de4e53a8db1ca5d",
+      "release_date": "2004-11-02"
+    },
+    {
+      "featuredArtist": "Murphy Lee",
+      "featuredArtistId": "07W0YfsvHM7Mw7Bq48Mb0A",
+      "trackName": "Salt Shaker Remix",
+      "trackId": "4X3rWuyvmsu4UcqiMee2as",
+      "preview": "https://p.scdn.co/mp3-preview/8505445f5d84db7a65fda891eb1a53bd6071edd9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d88bc32e5b6e08e78aac05e22de4e53a8db1ca5d",
+      "release_date": "2004-11-02"
+    },
+    {
+      "featuredArtist": "Fat Joe",
+      "featuredArtistId": "3ScY9CQxNLQei8Umvpx5g6",
+      "trackName": "Salt Shaker Remix",
+      "trackId": "4X3rWuyvmsu4UcqiMee2as",
+      "preview": "https://p.scdn.co/mp3-preview/8505445f5d84db7a65fda891eb1a53bd6071edd9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d88bc32e5b6e08e78aac05e22de4e53a8db1ca5d",
+      "release_date": "2004-11-02"
+    },
+    {
+      "featuredArtist": "B.G.",
+      "featuredArtistId": "36HvjE9pV91jEjO1qBRidS",
+      "trackName": "Salt Shaker Extended Remix",
+      "trackId": "5DEiT3OdrKXybwtvDcHrLT",
+      "preview": "https://p.scdn.co/mp3-preview/9f17063767196f9ce78c3c5d587f0f850cdbe0bc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d88bc32e5b6e08e78aac05e22de4e53a8db1ca5d",
+      "release_date": "2004-11-02"
+    },
+    {
+      "featuredArtist": "Killer Mike",
+      "featuredArtistId": "2N4EYkIlG1kv25g6Wv8LGI",
+      "trackName": "What The F---!",
+      "trackId": "5eaqfQ4tspSz7Gib3Z7C0X",
+      "preview": "https://p.scdn.co/mp3-preview/a93fa3e9d25582503a029863be3900be3ea0b830?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/54922f098729a22ad0a10a8c333536b21a8bb558",
+      "release_date": "2003-09-16"
+    },
+    {
+      "featuredArtist": "Hitman Sammy Sam",
+      "featuredArtistId": "6RhzdrHfuZEMnZTNRjbTpz",
+      "trackName": "Calling All Zones",
+      "trackId": "0uKLH7TUKXhgcUUIXZsnJI",
+      "preview": "https://p.scdn.co/mp3-preview/e8fa724562001e6fb5a75ee227c668c2e16a39d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/54922f098729a22ad0a10a8c333536b21a8bb558",
+      "release_date": "2003-09-16"
+    },
+    {
+      "featuredArtist": "Khujo",
+      "featuredArtistId": "1aESCe7tDjXSVlNEYRT7hk",
+      "trackName": "Calling All Zones",
+      "trackId": "0uKLH7TUKXhgcUUIXZsnJI",
+      "preview": "https://p.scdn.co/mp3-preview/e8fa724562001e6fb5a75ee227c668c2e16a39d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/54922f098729a22ad0a10a8c333536b21a8bb558",
+      "release_date": "2003-09-16"
+    },
+    {
+      "featuredArtist": "Ms Flawless",
+      "featuredArtistId": "0wuG63USlSePArHahYYU0R",
+      "trackName": "Naggin' Part II (The Answer)",
+      "trackId": "1tG8Dlp4cq8v8Lx2vCMLRY",
+      "preview": "https://p.scdn.co/mp3-preview/54fc94b45b4d76e9a20368b7b474e15be7ca783d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/54922f098729a22ad0a10a8c333536b21a8bb558",
+      "release_date": "2003-09-16"
+    },
+    {
+      "featuredArtist": "Tha Rhythum",
+      "featuredArtistId": "0D9AtcgHbNEcjHKsXpEIoo",
+      "trackName": "Naggin' Part II (The Answer)",
+      "trackId": "1tG8Dlp4cq8v8Lx2vCMLRY",
+      "preview": "https://p.scdn.co/mp3-preview/54fc94b45b4d76e9a20368b7b474e15be7ca783d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/54922f098729a22ad0a10a8c333536b21a8bb558",
+      "release_date": "2003-09-16"
+    },
+    {
+      "featuredArtist": "Mr. Ball",
+      "featuredArtistId": "08E6U3cRztJkXcxNGlL2Rs",
+      "trackName": "Alley (feat. Mr. Ball)",
+      "trackId": "6l0vQ57YbFiBPiTPEjHUoq",
+      "preview": "https://p.scdn.co/mp3-preview/bfc6f226227552b50472c59cabf2d438c4da0f7e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32935c582a0499e53454e4825d51714b82a79077",
+      "release_date": "2002-03-26"
+    },
+    {
+      "featuredArtist": "Dirty",
+      "featuredArtistId": "3TnuC2JOTxhH8c467ylBks",
+      "trackName": "Drop Like This 2001 (feat. Dirty)",
+      "trackId": "1ZD5Dn0HWqfWQZ2SQCo1OI",
+      "preview": "https://p.scdn.co/mp3-preview/d1dfdc035fe2d6c0b37567deac9c61c23a351ae3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32935c582a0499e53454e4825d51714b82a79077",
+      "release_date": "2002-03-26"
+    },
+    {
+      "featuredArtist": "Lil' Jon & The Eastside Boys",
+      "featuredArtistId": "1360Zo1k3SVtP3NeZrpCcT",
+      "trackName": "Atl Eternally (feat. Lil' jon & the Eastside Boys & Pastor Troy)",
+      "trackId": "6KTir6PBwgoSz8vhl1Tfzc",
+      "preview": "https://p.scdn.co/mp3-preview/b9b265265f94cdddf904653d8147b3831037fffc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32935c582a0499e53454e4825d51714b82a79077",
+      "release_date": "2002-03-26"
+    },
+    {
+      "featuredArtist": "Pastor Troy",
+      "featuredArtistId": "3D04N2X2w6vUGeyG94FBaY",
+      "trackName": "Atl Eternally (feat. Lil' jon & the Eastside Boys & Pastor Troy)",
+      "trackId": "6KTir6PBwgoSz8vhl1Tfzc",
+      "preview": "https://p.scdn.co/mp3-preview/b9b265265f94cdddf904653d8147b3831037fffc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32935c582a0499e53454e4825d51714b82a79077",
+      "release_date": "2002-03-26"
+    },
+    {
+      "featuredArtist": "Methrone",
+      "featuredArtistId": "3YqRniSXLT8kdm125ZfQF6",
+      "trackName": "Tongue Bath (feat. Methrone)",
+      "trackId": "3LYzUbO1fni0AgmTBE0rRi",
+      "preview": "https://p.scdn.co/mp3-preview/f8b1704ec1f49abc99ea56c4494e51f3db73cf30?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32935c582a0499e53454e4825d51714b82a79077",
+      "release_date": "2002-03-26"
+    },
+    {
+      "featuredArtist": "The Hood Ratz",
+      "featuredArtistId": "5Qz9G7ob0PFL4HGui9C17n",
+      "trackName": "Ying Yang in This Thang (feat. the Hood Ratz)",
+      "trackId": "3GG3SOq9qoLJFZ7zCb2QdF",
+      "preview": "https://p.scdn.co/mp3-preview/b83b880861309c0f9d486c026b109b0fee90a8d9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/235382a7dcd1ffc837f092a8f3ba54ef6aac0a86",
+      "release_date": "2000-04-10"
+    },
+    {
+      "featuredArtist": "China Dog",
+      "featuredArtistId": "5xDGLOoQLVRqKkkDrSUph0",
+      "trackName": "A! (feat. China Dog)",
+      "trackId": "1mx8TZhYjb3QXEDOgkWAd2",
+      "preview": "https://p.scdn.co/mp3-preview/ca185f625fb6d5f226960117c993a34996f93d71?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/235382a7dcd1ffc837f092a8f3ba54ef6aac0a86",
+      "release_date": "2000-04-10"
+    },
+    {
+      "featuredArtist": "DJ Kizzy Rock",
+      "featuredArtistId": "5YQiX8BsffumbkOpM0yCDP",
+      "trackName": "Whistle While You Twurk (E.a. Mix) (feat. DJ Kizzy Rock & Mr. Ball)",
+      "trackId": "5IpUDaNdx6eKcMjSLFaVLy",
+      "preview": "https://p.scdn.co/mp3-preview/6b1e92f039a03f5e500df1b7e56d90def21f70bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/235382a7dcd1ffc837f092a8f3ba54ef6aac0a86",
+      "release_date": "2000-04-10"
+    }
+  ]
+}

@@ -1,0 +1,680 @@
+{
+  "artistName": "LL Cool J",
+  "features": [
+    {
+      "featuredArtist": "Fitz and The Tantrums",
+      "featuredArtistId": "4AcHt3JxKy59IX7JNNlZn4",
+      "trackName": "Not Leaving You Tonight",
+      "trackId": "1P5oTNjkmMiOjSxV36idDR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51c268b75c2b36a364877602dbbe0393e7c366c8",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Eddie Van Halen",
+      "featuredArtistId": "4eg6G4HaUe2ILWXKd1eaDa",
+      "trackName": "Not Leaving You Tonight",
+      "trackId": "1P5oTNjkmMiOjSxV36idDR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51c268b75c2b36a364877602dbbe0393e7c366c8",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Charlie Wilson",
+      "featuredArtistId": "6CxZzQFUTM6AzgluGwtq5w",
+      "trackName": "New Love",
+      "trackId": "05slykpBQl5FBHlYKDE7Lg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51c268b75c2b36a364877602dbbe0393e7c366c8",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Snoop Dogg",
+      "featuredArtistId": "7hJcb9fa4alzcOq3EaNPoG",
+      "trackName": "We Came To Party",
+      "trackId": "2lLmKkYxC7TH3R5p18UQ4O",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51c268b75c2b36a364877602dbbe0393e7c366c8",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Fatman Scoop",
+      "featuredArtistId": "15GGbJKqC6w0VYyAJtjej6",
+      "trackName": "We Came To Party",
+      "trackId": "2lLmKkYxC7TH3R5p18UQ4O",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51c268b75c2b36a364877602dbbe0393e7c366c8",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Seal",
+      "featuredArtistId": "5GtMEZEeFFsuHY8ad4kOxv",
+      "trackName": "Give Me Love",
+      "trackId": "2lqjNvEqfaQPhts9lJriEy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51c268b75c2b36a364877602dbbe0393e7c366c8",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Earth, Wind & Fire",
+      "featuredArtistId": "4QQgXkCYTt3BlENzhyNETg",
+      "trackName": "Something About You (Love The World)",
+      "trackId": "57Hv0KNfnSIa5uxeJWCj7Y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51c268b75c2b36a364877602dbbe0393e7c366c8",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Melody Thornton",
+      "featuredArtistId": "1EibrdGchIU1GIgiqJR25K",
+      "trackName": "Something About You (Love The World)",
+      "trackId": "57Hv0KNfnSIa5uxeJWCj7Y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51c268b75c2b36a364877602dbbe0393e7c366c8",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Bootsy Collins",
+      "featuredArtistId": "5K0rbdBrs2tNXe5LeWMATT",
+      "trackName": "Bartender Please",
+      "trackId": "3N1Vo6rI4fhcQMUTluuDVp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51c268b75c2b36a364877602dbbe0393e7c366c8",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Travis Barker",
+      "featuredArtistId": "4exLIFE8sISLr28sqG1qNX",
+      "trackName": "Bartender Please",
+      "trackId": "3N1Vo6rI4fhcQMUTluuDVp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51c268b75c2b36a364877602dbbe0393e7c366c8",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Z-Trip",
+      "featuredArtistId": "0YUefH6Li1IsJBtlUWgtwc",
+      "trackName": "Whaddup",
+      "trackId": "60mllm9xk5iUL8FWPfv5gD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51c268b75c2b36a364877602dbbe0393e7c366c8",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Chuck D",
+      "featuredArtistId": "1JfH8gevkDviqs50A5NO0L",
+      "trackName": "Whaddup",
+      "trackId": "60mllm9xk5iUL8FWPfv5gD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51c268b75c2b36a364877602dbbe0393e7c366c8",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Tom Morello",
+      "featuredArtistId": "74NBPbyyftqJ4SpDZ4c1Ed",
+      "trackName": "Whaddup",
+      "trackId": "60mllm9xk5iUL8FWPfv5gD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51c268b75c2b36a364877602dbbe0393e7c366c8",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Mickey Shiloh",
+      "featuredArtistId": "2ZI5SpSI3z4jWeaFXr0WlC",
+      "trackName": "Between The Sheetz",
+      "trackId": "17py4jnsUTaSPUvycyaUMr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51c268b75c2b36a364877602dbbe0393e7c366c8",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Monica",
+      "featuredArtistId": "6nzxy2wXs6tLgzEtqOkEi2",
+      "trackName": "Closer",
+      "trackId": "0SDRfaNhSzOYfwjewmpa9c",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51c268b75c2b36a364877602dbbe0393e7c366c8",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Brad Paisley",
+      "featuredArtistId": "13YmWQJFwgZrd4bf5IjMY4",
+      "trackName": "Live For You",
+      "trackId": "1KCzc0qNshiO7ma55RQAar",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/51c268b75c2b36a364877602dbbe0393e7c366c8",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Babyface",
+      "featuredArtistId": "3aVoqlJOYx31lH1gibGDt3",
+      "trackName": "Waiting On You",
+      "trackId": "678IXN7iovpd36UOik9VDU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/454e39d4dcfb7bda7914e46725e446f9a18e041a",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Noelle Scaggs",
+      "featuredArtistId": "6ILqhNcsJfMAE5petFCDPB",
+      "trackName": "Waiting On You",
+      "trackId": "678IXN7iovpd36UOik9VDU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/454e39d4dcfb7bda7914e46725e446f9a18e041a",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Joe E. Lewis",
+      "featuredArtistId": "1nPD94Rj0NwcSu29qFwCKH",
+      "trackName": "Take It",
+      "trackId": "7uWylzLrbmNxKDqvZU00hr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/454e39d4dcfb7bda7914e46725e446f9a18e041a",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Alicia Myers",
+      "featuredArtistId": "7v4FV3DzSUOvaZyMwTxKIG",
+      "trackName": "Remember Me",
+      "trackId": "2FZla5W0kp5JtHJQBQWEZX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/454e39d4dcfb7bda7914e46725e446f9a18e041a",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Monica",
+      "featuredArtistId": "6qWpPgfKJehZmeJMIeicqW",
+      "trackName": "Closer",
+      "trackId": "2igwXIT2AVjlzz0LhUKwM2",
+      "preview": "https://p.scdn.co/mp3-preview/313ce2c96b2e28e9f4041d7e3311259d9c2e85f3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3abaedd7536c8a8f6b9625f5271a05ba2195897e",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Brax Paisley",
+      "featuredArtistId": "2hNRT3cOJar2Vlx4vtIuo0",
+      "trackName": "Live For You",
+      "trackId": "4CnrhjU6CoqWX7VVvLHkoF",
+      "preview": "https://p.scdn.co/mp3-preview/9973643b251904c676f87900755b046bd71673c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3abaedd7536c8a8f6b9625f5271a05ba2195897e",
+      "release_date": "2013-04-30"
+    },
+    {
+      "featuredArtist": "Alicia Meyers",
+      "featuredArtistId": "4NsW8mnXqo7DGr5gHcy0ml",
+      "trackName": "Remember Me",
+      "trackId": "5iOjAdWBLU5AnrrhpEiaN3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a9c0df42d215281c76ee998f4db9086f26e21dee",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "50 Cent",
+      "featuredArtistId": "3q7HBObVc0L8jNeTe5Gofh",
+      "trackName": "Feel My Heart Beat",
+      "trackId": "0VnrhqvbhD5KinkYvp3G1W",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3461fcf6ddcb9c43aa9baa34f3b220c5f6468bb",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "It's Ya Girl Nicolette",
+      "featuredArtistId": "4zo2RW6q5aH7VQowWWaOGn",
+      "trackName": "Get Over Here",
+      "trackId": "300yB83tPzZZTzt9WRIejz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3461fcf6ddcb9c43aa9baa34f3b220c5f6468bb",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "Jiz",
+      "featuredArtistId": "38CThoTDmXugNnfonW466d",
+      "trackName": "Get Over Here",
+      "trackId": "300yB83tPzZZTzt9WRIejz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3461fcf6ddcb9c43aa9baa34f3b220c5f6468bb",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "Lyrikal",
+      "featuredArtistId": "35KCSzO0sDCLggvo39D9ng",
+      "trackName": "Get Over Here",
+      "trackId": "300yB83tPzZZTzt9WRIejz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3461fcf6ddcb9c43aa9baa34f3b220c5f6468bb",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "Ticky Diamondz",
+      "featuredArtistId": "2kRmYnSC3sHvMGEFOAZwLd",
+      "trackName": "Get Over Here",
+      "trackId": "300yB83tPzZZTzt9WRIejz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3461fcf6ddcb9c43aa9baa34f3b220c5f6468bb",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "The-Dream",
+      "featuredArtistId": "1W3FSF1BLpY3hlVIgvenLz",
+      "trackName": "Baby",
+      "trackId": "39XMbx0vF1VsRT8KV2qp4J",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3461fcf6ddcb9c43aa9baa34f3b220c5f6468bb",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "Richie Sambora",
+      "featuredArtistId": "6uNjT2PKDfR7t48JKhajkh",
+      "trackName": "Baby - \"Rock Remix\" Album Version (Explicit)",
+      "trackId": "2QOuHPPAZOi4aqpFw0f2Hx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3461fcf6ddcb9c43aa9baa34f3b220c5f6468bb",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "Grandmaster Caz",
+      "featuredArtistId": "6QeZTS8BrU3r2TYJdA68j9",
+      "trackName": "Ringtone M...",
+      "trackId": "6y1Uflm8OiCfzWA5Kfl5V9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3461fcf6ddcb9c43aa9baa34f3b220c5f6468bb",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "Ryan Leslie",
+      "featuredArtistId": "3aTMDZLtkFlYQfQL7bzccp",
+      "trackName": "Like A Radio",
+      "trackId": "4qQ273Wds4ufMUngBcQKBP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3461fcf6ddcb9c43aa9baa34f3b220c5f6468bb",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "Elan of the DEY",
+      "featuredArtistId": "7dlogHF174aIngz3vHc4Ic",
+      "trackName": "I Fall In Love",
+      "trackId": "2Y4XArETw9QFTLQH2s26qV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3461fcf6ddcb9c43aa9baa34f3b220c5f6468bb",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "Wyclef Jean",
+      "featuredArtistId": "7aBzpmFXB4WWpPl2F7RjBe",
+      "trackName": "Mr. President",
+      "trackId": "5NQkrMo8D3pcnVOskw4KES",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3461fcf6ddcb9c43aa9baa34f3b220c5f6468bb",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "Funkmaster Flex",
+      "featuredArtistId": "34ABXKUj0gzq7R8vXjCaNj",
+      "trackName": "Speedin On Da Highway/Exit 13",
+      "trackId": "4xu2fo19zzIkpGyATtG2Da",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3461fcf6ddcb9c43aa9baa34f3b220c5f6468bb",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "Fat Joe",
+      "featuredArtistId": "3ScY9CQxNLQei8Umvpx5g6",
+      "trackName": "Come And Party With Me",
+      "trackId": "1CUDVe6Z9CAKiab79Y2lhF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3461fcf6ddcb9c43aa9baa34f3b220c5f6468bb",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "Sheek Louch",
+      "featuredArtistId": "14ejEUaU0wE2iAenbbv9b8",
+      "trackName": "Come And Party With Me",
+      "trackId": "1CUDVe6Z9CAKiab79Y2lhF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3461fcf6ddcb9c43aa9baa34f3b220c5f6468bb",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "Jim Jones",
+      "featuredArtistId": "6AMa1VFQ7qCi61tCRtVWXe",
+      "trackName": "5 Boroughs",
+      "trackId": "1Tplv3E7pF9mfAaDDzRPFk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3461fcf6ddcb9c43aa9baa34f3b220c5f6468bb",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "Method Man",
+      "featuredArtistId": "4VmEWwd8y9MCLwexFMdpwt",
+      "trackName": "5 Boroughs",
+      "trackId": "1Tplv3E7pF9mfAaDDzRPFk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3461fcf6ddcb9c43aa9baa34f3b220c5f6468bb",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "KRS-One",
+      "featuredArtistId": "2gINJ8xw86xawPyGvx1bla",
+      "trackName": "5 Boroughs",
+      "trackId": "1Tplv3E7pF9mfAaDDzRPFk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3461fcf6ddcb9c43aa9baa34f3b220c5f6468bb",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "Uncle Murda",
+      "featuredArtistId": "3kortApcf0ntRWexUkJE4H",
+      "trackName": "5 Boroughs",
+      "trackId": "1Tplv3E7pF9mfAaDDzRPFk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f3461fcf6ddcb9c43aa9baa34f3b220c5f6468bb",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "Lyrikal",
+      "featuredArtistId": "0BSl8YKVliuvCXpUhROZf1",
+      "trackName": "Get Over Here",
+      "trackId": "3VnIzH3ft82qbLVO9q1Hsc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0afbee0379ea78ada19d7d1813c036d15ab23288",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Lyrikal",
+      "featuredArtistId": "2MOlkNWEvlFUSjA7p6jzoD",
+      "trackName": "Get Over Here - Album Version (Edited)",
+      "trackId": "6qGbk5bvLOxcGsfJW888q4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/38d4d6c0cc7c1bd6470fd3cb28d2a143f170e401",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Juelz Santana",
+      "featuredArtistId": "6Uh8uJyN9g7oFjDK16nJgb",
+      "trackName": "It's LL and Santana",
+      "trackId": "2z0ULKBARyVoRfcSDd6hKT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5a68223f8c341947c6026dc87449a92657e0cfa",
+      "release_date": "2006-04-11"
+    },
+    {
+      "featuredArtist": "Jennifer Lopez",
+      "featuredArtistId": "2DlGxzQSjYe5N6G9nkYghR",
+      "trackName": "Control Myself",
+      "trackId": "4aooX29ivIVyVz6NtSzghm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5a68223f8c341947c6026dc87449a92657e0cfa",
+      "release_date": "2006-04-11"
+    },
+    {
+      "featuredArtist": "Mary J. Blige",
+      "featuredArtistId": "1XkoF8ryArs86LZvFOkbyr",
+      "trackName": "Favorite Flavor",
+      "trackId": "6SVD4Ggxid9qv9nyoMLr5B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5a68223f8c341947c6026dc87449a92657e0cfa",
+      "release_date": "2006-04-11"
+    },
+    {
+      "featuredArtist": "Lyfe Jennings",
+      "featuredArtistId": "33C3ByGk9NCrjTIXr6npqf",
+      "trackName": "Freeze",
+      "trackId": "6BXV8ylXyWILEZg6qBNjpX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5a68223f8c341947c6026dc87449a92657e0cfa",
+      "release_date": "2006-04-11"
+    },
+    {
+      "featuredArtist": "Jamie Foxx",
+      "featuredArtistId": "7LnaAXbDVIL75IVPnndf7w",
+      "trackName": "Best Dress",
+      "trackId": "2OZnLS0SU02kkqfxolhhUF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5a68223f8c341947c6026dc87449a92657e0cfa",
+      "release_date": "2006-04-11"
+    },
+    {
+      "featuredArtist": "Teairra Marí",
+      "featuredArtistId": "6Mox9P9U7HpuAd9ULwvP7N",
+      "trackName": "Preserve The Sexy",
+      "trackId": "5Qj5WgIcKRD3etA9VIFbfD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5a68223f8c341947c6026dc87449a92657e0cfa",
+      "release_date": "2006-04-11"
+    },
+    {
+      "featuredArtist": "Freeway",
+      "featuredArtistId": "2Jwr7hGoSNK3S3QBxh3T0z",
+      "trackName": "What You Want",
+      "trackId": "6CqLfhUrhJa3GAuMyeVHo6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5a68223f8c341947c6026dc87449a92657e0cfa",
+      "release_date": "2006-04-11"
+    },
+    {
+      "featuredArtist": "Ryan Toby",
+      "featuredArtistId": "1OspneDlIRw6yPOFzMsUGn",
+      "trackName": "I've Changed",
+      "trackId": "5bmFvnBewiYah5gQfhD0Q4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5a68223f8c341947c6026dc87449a92657e0cfa",
+      "release_date": "2006-04-11"
+    },
+    {
+      "featuredArtist": "Ginuwine",
+      "featuredArtistId": "7r8RF1tN2A4CiGEplkp1oP",
+      "trackName": "Ooh Wee",
+      "trackId": "6Bb1JI90HjFxgFAmGdlKqF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5a68223f8c341947c6026dc87449a92657e0cfa",
+      "release_date": "2006-04-11"
+    },
+    {
+      "featuredArtist": "112",
+      "featuredArtistId": "7urq0VfqxEYEEiZUkebXT4",
+      "trackName": "Down The Aisle",
+      "trackId": "1SNv3pap058S08AOq0I1kf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5a68223f8c341947c6026dc87449a92657e0cfa",
+      "release_date": "2006-04-11"
+    },
+    {
+      "featuredArtist": "Mary Mary",
+      "featuredArtistId": "12Kgt2eahvxNWhD5PnSUde",
+      "trackName": "We're Gonna Make It",
+      "trackId": "3AV4ZT7DJORYQHtaoDZlx6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5a68223f8c341947c6026dc87449a92657e0cfa",
+      "release_date": "2006-04-11"
+    },
+    {
+      "featuredArtist": "Ne-Yo",
+      "featuredArtistId": "21E3waRsmPlU7jZsS13rcj",
+      "trackName": "So Sick - Remix",
+      "trackId": "02RgHrRt4h18C53gtGqRAI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5a68223f8c341947c6026dc87449a92657e0cfa",
+      "release_date": "2006-04-11"
+    },
+    {
+      "featuredArtist": "Jason Nevins",
+      "featuredArtistId": "5w0ka9nPOmEH6CcZrutyP2",
+      "trackName": "Control Myself - Nevins Funktek Remix",
+      "trackId": "4YUUgAwpHTlb2hitVZwOIr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5a68223f8c341947c6026dc87449a92657e0cfa",
+      "release_date": "2006-04-11"
+    },
+    {
+      "featuredArtist": "R. Kelly",
+      "featuredArtistId": "2mxe0TnaNL039ysAj51xPQ",
+      "trackName": "I'm About To Get Her",
+      "trackId": "1bjqqbUbqTpQ8LfEgV04zy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5b2fda3f9b3c554275ee06fd56082f90ac32e2f4",
+      "release_date": "2004-08-31"
+    },
+    {
+      "featuredArtist": "7 Aurelius",
+      "featuredArtistId": "4riz3aqKLe0ROniKeD67ME",
+      "trackName": "Hush",
+      "trackId": "0CCDW5SLBppFbtfe2bKwfX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5b2fda3f9b3c554275ee06fd56082f90ac32e2f4",
+      "release_date": "2004-08-31"
+    },
+    {
+      "featuredArtist": "Amerie",
+      "featuredArtistId": "08rMCq2ek1YjdDBsCPVH2s",
+      "trackName": "Paradise",
+      "trackId": "2Ue2UK8R94rxPArpTPQfzH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fd40466cdc64cf1de67bbc7ac1a24fcaa0ba7e1c",
+      "release_date": "2002-10-08"
+    },
+    {
+      "featuredArtist": "Kandice Love",
+      "featuredArtistId": "75ZPuLjO3ALk3m475pJjPJ",
+      "trackName": "Amazin'",
+      "trackId": "1lwbU4nxkppLS91qSeIOLf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fd40466cdc64cf1de67bbc7ac1a24fcaa0ba7e1c",
+      "release_date": "2002-10-08"
+    },
+    {
+      "featuredArtist": "Diddy",
+      "featuredArtistId": "59wfkuBoNyhDMQGCljbUbA",
+      "trackName": "After School",
+      "trackId": "2SovKCzfP8yb28Fun9XBZZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fd40466cdc64cf1de67bbc7ac1a24fcaa0ba7e1c",
+      "release_date": "2002-10-08"
+    },
+    {
+      "featuredArtist": "Dru Hill",
+      "featuredArtistId": "1255GTUKNCLCTvH9ctD4cT",
+      "trackName": "Big Mama (Unconditional Love)",
+      "trackId": "1g4t8IOCoV4k75HIsdDY3B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fd40466cdc64cf1de67bbc7ac1a24fcaa0ba7e1c",
+      "release_date": "2002-10-08"
+    },
+    {
+      "featuredArtist": "James Yarde",
+      "featuredArtistId": "6oaMXhybf0dVsosFzoZ3XI",
+      "trackName": "Paradise - James Yarde Mix - feat. Terri Walker",
+      "trackId": "2ONHU5Ug0digusbHDBAANF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fd40466cdc64cf1de67bbc7ac1a24fcaa0ba7e1c",
+      "release_date": "2002-10-08"
+    },
+    {
+      "featuredArtist": "Ja Rule",
+      "featuredArtistId": "1J2VVASYAamtQ3Bt8wGgA6",
+      "trackName": "Back Where I Belong",
+      "trackId": "3Geu98yrIhEFX0mNTZ3Z3Z",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6235b1d85eda75236f8613fa9af24b9ae28e720",
+      "release_date": "2000-09-05"
+    },
+    {
+      "featuredArtist": "Redman",
+      "featuredArtistId": "7xTKLpo7UCzXSnlH7fOIoM",
+      "trackName": "Fuhgidabowdit",
+      "trackId": "0H8znfYZanstatGW2cBFqs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6235b1d85eda75236f8613fa9af24b9ae28e720",
+      "release_date": "2000-09-05"
+    },
+    {
+      "featuredArtist": "DMX",
+      "featuredArtistId": "1HwM5zlC5qNWhJtM00yXzG",
+      "trackName": "Fuhgidabowdit",
+      "trackId": "0H8znfYZanstatGW2cBFqs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6235b1d85eda75236f8613fa9af24b9ae28e720",
+      "release_date": "2000-09-05"
+    },
+    {
+      "featuredArtist": "Tikki Diamondz",
+      "featuredArtistId": "0ndzVtSWTgB9JCwdM5WN8p",
+      "trackName": "Farmers",
+      "trackId": "6vUkd8hF6pnoi9U1Wyq0XF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6235b1d85eda75236f8613fa9af24b9ae28e720",
+      "release_date": "2000-09-05"
+    },
+    {
+      "featuredArtist": "Carl Thomas",
+      "featuredArtistId": "6I6t21SFbxZ7RbQgD5dN7U",
+      "trackName": "This Is Us",
+      "trackId": "0I3xS4ZNzDljG2n9kFxr4M",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6235b1d85eda75236f8613fa9af24b9ae28e720",
+      "release_date": "2000-09-05"
+    },
+    {
+      "featuredArtist": "Amil",
+      "featuredArtistId": "6NzM38IkXdbQsQ4qW9CG7z",
+      "trackName": "Hello",
+      "trackId": "07UtGuIgar25tiQs2X6VzI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6235b1d85eda75236f8613fa9af24b9ae28e720",
+      "release_date": "2000-09-05"
+    },
+    {
+      "featuredArtist": "Kelly Price",
+      "featuredArtistId": "49FeZO3eSrJs7oH7lYLU1r",
+      "trackName": "You And Me",
+      "trackId": "19XuDyJfEpexe1X6CTKldp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6235b1d85eda75236f8613fa9af24b9ae28e720",
+      "release_date": "2000-09-05"
+    },
+    {
+      "featuredArtist": "Jayo Felony",
+      "featuredArtistId": "188HWxEQMjCaa7kf3ZGjwc",
+      "trackName": "U Can't F**k With Me",
+      "trackId": "5ZNxlmhINnGx4F5NQhv1O5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6235b1d85eda75236f8613fa9af24b9ae28e720",
+      "release_date": "2000-09-05"
+    },
+    {
+      "featuredArtist": "Xzibit",
+      "featuredArtistId": "4tujQJicOnuZRLiBFdp3Ou",
+      "trackName": "U Can't F**k With Me",
+      "trackId": "5ZNxlmhINnGx4F5NQhv1O5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6235b1d85eda75236f8613fa9af24b9ae28e720",
+      "release_date": "2000-09-05"
+    },
+    {
+      "featuredArtist": "Prodigy",
+      "featuredArtistId": "1GwxXgEc6oxCKQ5wykWXFs",
+      "trackName": "Queens Is",
+      "trackId": "6leaCWJ3CWn1ad7qAaUxHG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6235b1d85eda75236f8613fa9af24b9ae28e720",
+      "release_date": "2000-09-05"
+    },
+    {
+      "featuredArtist": "Big Kap",
+      "featuredArtistId": "1GeODmmQycY9UqF4MLO94I",
+      "trackName": "Ill Bomb",
+      "trackId": "7e3YBmI6nHIvx2tevyLdeV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6235b1d85eda75236f8613fa9af24b9ae28e720",
+      "release_date": "2000-09-05"
+    },
+    {
+      "featuredArtist": "Case",
+      "featuredArtistId": "5aEWnrN8h3MhuFUPRfaVuy",
+      "trackName": "M.I.S.S. I",
+      "trackId": "6HCD1dFDpyi0gkL93my30x",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6235b1d85eda75236f8613fa9af24b9ae28e720",
+      "release_date": "2000-09-05"
+    }
+  ]
+}

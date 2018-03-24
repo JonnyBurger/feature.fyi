@@ -1,0 +1,545 @@
+{
+  "artistName": "Redman",
+  "features": [
+    {
+      "featuredArtist": "Josh Gannet",
+      "featuredArtistId": "1j5ylyDXbkezoS849V9qLG",
+      "trackName": "Dr. Trevis (Intro) [feat. Josh Gannet]",
+      "trackId": "4KCC1CM3EjgNK17KEUy5Ee",
+      "preview": "https://p.scdn.co/mp3-preview/b9e35d410d56fa406a8b7b7aa12680a7ec7fa945?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/18e8a7aa8c8c5885e7337508d236cb54998be452",
+      "release_date": "2015-11-13"
+    },
+    {
+      "featuredArtist": "Stressmatic",
+      "featuredArtistId": "6bvnqprEw8P88PB8jEnL8f",
+      "trackName": "Dopeman (feat. StressMatic)",
+      "trackId": "4uyV4hBL4F0V7MY9W1d8WK",
+      "preview": "https://p.scdn.co/mp3-preview/23731f4bc5b3e377243dc7d00fe591f26920efbf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/18e8a7aa8c8c5885e7337508d236cb54998be452",
+      "release_date": "2015-11-13"
+    },
+    {
+      "featuredArtist": "Runt Dog",
+      "featuredArtistId": "3GoyBBpEePZ62Gc2Uc5309",
+      "trackName": "Undeniable (feat. Runt Dog, Ready Roc)",
+      "trackId": "6rMdlOznCKtlOKKgyqHbql",
+      "preview": "https://p.scdn.co/mp3-preview/ec1549f2ded65b6627891b9128179d997b1ae8eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/18e8a7aa8c8c5885e7337508d236cb54998be452",
+      "release_date": "2015-11-13"
+    },
+    {
+      "featuredArtist": "Ready Roc",
+      "featuredArtistId": "5xdj21xbUbN4blh3JszxFU",
+      "trackName": "Undeniable (feat. Runt Dog, Ready Roc)",
+      "trackId": "6rMdlOznCKtlOKKgyqHbql",
+      "preview": "https://p.scdn.co/mp3-preview/ec1549f2ded65b6627891b9128179d997b1ae8eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/18e8a7aa8c8c5885e7337508d236cb54998be452",
+      "release_date": "2015-11-13"
+    },
+    {
+      "featuredArtist": "DJ Kool",
+      "featuredArtistId": "1SWGyp2nxNSyQkRX1eqoUp",
+      "trackName": "That's Where I B - Album Version (Edited)",
+      "trackId": "3wFvLwKV0O4zYY3a2kn1We",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/43c740110a8a22665b6a802a4438ee64d0edb9f8",
+      "release_date": "2010-12-07"
+    },
+    {
+      "featuredArtist": "Runt Dawg",
+      "featuredArtistId": "1E0243TwapMkdkLMxEm6Wu",
+      "trackName": "Full Nelson - Album Version (Edited)",
+      "trackId": "768YrUZEB9nlXT4haXpL2h",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/43c740110a8a22665b6a802a4438ee64d0edb9f8",
+      "release_date": "2010-12-07"
+    },
+    {
+      "featuredArtist": "Saukrates",
+      "featuredArtistId": "4xvUHg4mIFbXo2caP0PO73",
+      "trackName": "Full Nelson - Album Version (Edited)",
+      "trackId": "768YrUZEB9nlXT4haXpL2h",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/43c740110a8a22665b6a802a4438ee64d0edb9f8",
+      "release_date": "2010-12-07"
+    },
+    {
+      "featuredArtist": "Faith Evans",
+      "featuredArtistId": "5NDMothbpdpq2xHqSjrrWn",
+      "trackName": "All I Do - Album Version (Edited)",
+      "trackId": "0ZDvBaGkaTIHhKROxl6h3e",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/43c740110a8a22665b6a802a4438ee64d0edb9f8",
+      "release_date": "2010-12-07"
+    },
+    {
+      "featuredArtist": "Melanie Rutherford",
+      "featuredArtistId": "0GGwpRkFx59V8VmkTRIIQy",
+      "trackName": "Cheerz - Album Version (Edited)",
+      "trackId": "5ZorpgznoF4AsJjfEou0TP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/43c740110a8a22665b6a802a4438ee64d0edb9f8",
+      "release_date": "2010-12-07"
+    },
+    {
+      "featuredArtist": "Kool Moe Dee",
+      "featuredArtistId": "2RE8NwNxsOyuNZDD0jRxHP",
+      "trackName": "Rockin' Wit Da Best - Album Version (Edited)",
+      "trackId": "2d9OE1JdcG5bYGW10y7XNC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/43c740110a8a22665b6a802a4438ee64d0edb9f8",
+      "release_date": "2010-12-07"
+    },
+    {
+      "featuredArtist": "Method Man",
+      "featuredArtistId": "4VmEWwd8y9MCLwexFMdpwt",
+      "trackName": "Lite 1 Witcha Boi - Album Version (Edited)",
+      "trackId": "7n044gcHJXDSNY0C767sxB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/43c740110a8a22665b6a802a4438ee64d0edb9f8",
+      "release_date": "2010-12-07"
+    },
+    {
+      "featuredArtist": "Bun B",
+      "featuredArtistId": "45a6gCQWq61lIUDmr1tKuO",
+      "trackName": "Lite 1 Witcha Boi - Album Version (Edited)",
+      "trackId": "7n044gcHJXDSNY0C767sxB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/43c740110a8a22665b6a802a4438ee64d0edb9f8",
+      "release_date": "2010-12-07"
+    },
+    {
+      "featuredArtist": "Poo Bear",
+      "featuredArtistId": "3JXpwnHbLvXxY99EuXqFPX",
+      "trackName": "Whn The Lights Go Off - Album Version (Edited)",
+      "trackId": "0gR7cvyN9txnBnBE39ug0B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/43c740110a8a22665b6a802a4438ee64d0edb9f8",
+      "release_date": "2010-12-07"
+    },
+    {
+      "featuredArtist": "Keith Murray",
+      "featuredArtistId": "2bwR166mSJEJrYJqfyust3",
+      "trackName": "Errbody Scream",
+      "trackId": "7vzIYszR7SVp8TBAENiVGl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/976b71eb51e2a0408756b8924797e3c58cbdf156",
+      "release_date": "2009-05-19"
+    },
+    {
+      "featuredArtist": "Tanisha Green",
+      "featuredArtistId": "0zVVBYdrUSSi0Uen3LibjJ",
+      "trackName": "Mrs. International (Skit)",
+      "trackId": "6vRWUeQZuaNWHqhvQuPArX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/976b71eb51e2a0408756b8924797e3c58cbdf156",
+      "release_date": "2009-05-19"
+    },
+    {
+      "featuredArtist": "Michelle Pinckney",
+      "featuredArtistId": "62KHXHOZS9W9ICjAg7smjI",
+      "trackName": "Mrs. International (Skit)",
+      "trackId": "6vRWUeQZuaNWHqhvQuPArX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/976b71eb51e2a0408756b8924797e3c58cbdf156",
+      "release_date": "2009-05-19"
+    },
+    {
+      "featuredArtist": "Erick Sermon",
+      "featuredArtistId": "2VX0o9LDIVmKIgpnwdJpOJ",
+      "trackName": "Mrs. International",
+      "trackId": "2WCVG3OohcyzhebHsDHgBd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/976b71eb51e2a0408756b8924797e3c58cbdf156",
+      "release_date": "2009-05-19"
+    },
+    {
+      "featuredArtist": "Street Life",
+      "featuredArtistId": "7CrVv4zLga71gdlMOMfjXL",
+      "trackName": "How Bout Dat",
+      "trackId": "2HliMGGkjxkg8xaZ3KKQm3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/976b71eb51e2a0408756b8924797e3c58cbdf156",
+      "release_date": "2009-05-19"
+    },
+    {
+      "featuredArtist": "DJ Kay Slay",
+      "featuredArtistId": "1giPduZUUFru23D2icr2A8",
+      "trackName": "Lock Down (Skit)",
+      "trackId": "7zHsNQYZ4OFoNSsDyUK4LG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/976b71eb51e2a0408756b8924797e3c58cbdf156",
+      "release_date": "2009-05-19"
+    },
+    {
+      "featuredArtist": "C.O Ellis",
+      "featuredArtistId": "3VfV3PwxrWfDpFSwYnrjDl",
+      "trackName": "Lock Down (Skit)",
+      "trackId": "7zHsNQYZ4OFoNSsDyUK4LG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/976b71eb51e2a0408756b8924797e3c58cbdf156",
+      "release_date": "2009-05-19"
+    },
+    {
+      "featuredArtist": "Reggie Noble",
+      "featuredArtistId": "0F2IaEMJEXpQaTF3EsiXQF",
+      "trackName": "Lock Down (Skit)",
+      "trackId": "7zHsNQYZ4OFoNSsDyUK4LG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/976b71eb51e2a0408756b8924797e3c58cbdf156",
+      "release_date": "2009-05-19"
+    },
+    {
+      "featuredArtist": "Raekwon",
+      "featuredArtistId": "2yQf6b8hxahZaT5dHlWaB1",
+      "trackName": "Four Minutes To Lock Down",
+      "trackId": "4VVDgoYEraLqUDjxNojq9I",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/976b71eb51e2a0408756b8924797e3c58cbdf156",
+      "release_date": "2009-05-19"
+    },
+    {
+      "featuredArtist": "Ghostface Killah",
+      "featuredArtistId": "6FD0unjzGQhX3b6eMccMJe",
+      "trackName": "Four Minutes To Lock Down",
+      "trackId": "4VVDgoYEraLqUDjxNojq9I",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/976b71eb51e2a0408756b8924797e3c58cbdf156",
+      "release_date": "2009-05-19"
+    },
+    {
+      "featuredArtist": "E3",
+      "featuredArtistId": "1ZMC1hfiGh2Jr4hztwiSyC",
+      "trackName": "Fire",
+      "trackId": "4sTXBhkGugRgoq6OV9DaRe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/549063cb635da2208a8de0ff0d762be99716ae72",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Blam!",
+      "featuredArtistId": "3gl8MolwWhzdUgJMOMMJzc",
+      "trackName": "Sumtn 4 Urrbody",
+      "trackId": "6BiY1H1h2Yml4d6tif1QYm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/549063cb635da2208a8de0ff0d762be99716ae72",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Icadon",
+      "featuredArtistId": "5JfWdhfuoyyCa0SdLwC7YP",
+      "trackName": "Sumtn 4 Urrbody",
+      "trackId": "6BiY1H1h2Yml4d6tif1QYm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/549063cb635da2208a8de0ff0d762be99716ae72",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Gov Mattic",
+      "featuredArtistId": "0sh3Yxj4sukhV7yiXYqGm4",
+      "trackName": "How U Like Dat",
+      "trackId": "5zgLYm8woVH4mB8JfPcDJ9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/549063cb635da2208a8de0ff0d762be99716ae72",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Biz Markie",
+      "featuredArtistId": "22282KfMxDo2PMjnBc82I4",
+      "trackName": "Walk In Gutta",
+      "trackId": "7hjXU2j9RCM7eW7NSOqABJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/549063cb635da2208a8de0ff0d762be99716ae72",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Snoop Dogg",
+      "featuredArtistId": "7hJcb9fa4alzcOq3EaNPoG",
+      "trackName": "Merry Jane",
+      "trackId": "6Ye43LbiQSth5S65aTAZ0Z",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/549063cb635da2208a8de0ff0d762be99716ae72",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Nate Dogg",
+      "featuredArtistId": "1Oa0bMld0A3u5OTYfMzp5h",
+      "trackName": "Merry Jane",
+      "trackId": "6Ye43LbiQSth5S65aTAZ0Z",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/549063cb635da2208a8de0ff0d762be99716ae72",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Hurricane G",
+      "featuredArtistId": "7qcHusKwagP6hU5r1mhhvl",
+      "trackName": "Soopaman Luva 6",
+      "trackId": "0AsRCZMxymHpFyMi2a052y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/549063cb635da2208a8de0ff0d762be99716ae72",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Adam F",
+      "featuredArtistId": "3m38ZSwkLdeBDUhdGnFPrn",
+      "trackName": "Roller Coaster Malpractice - Intro",
+      "trackId": "68jERSWe6SWE9jgrzGTiWR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "G. Forbes",
+      "featuredArtistId": "4HSttyzJsVJqhAVAKXQrcW",
+      "trackName": "Roller Coaster Malpractice - Intro",
+      "trackId": "68jERSWe6SWE9jgrzGTiWR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "Drama Squad",
+      "featuredArtistId": "2j9eM5YlxozLOZE8ylZEi9",
+      "trackName": "2-Way Madness - Skit",
+      "trackId": "3LsR9CfLUVLdiRL3NbmmZI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "Icarus",
+      "featuredArtistId": "0n72AAuFJMX68kAZxhxcx8",
+      "trackName": "Real Niggaz",
+      "trackId": "5Q9x386R83m6oChtpJn1Ju",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "Jamal",
+      "featuredArtistId": "70TIId9biBOwd5iqGIwTAX",
+      "trackName": "Real Niggaz",
+      "trackId": "5Q9x386R83m6oChtpJn1Ju",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "Scarface",
+      "featuredArtistId": "19KwjzvIL92r29IINtlPNP",
+      "trackName": "Real Niggaz",
+      "trackId": "5Q9x386R83m6oChtpJn1Ju",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "Treach",
+      "featuredArtistId": "3b3teOkAyYfhj4xiMvqYvW",
+      "trackName": "Real Niggaz",
+      "trackId": "5Q9x386R83m6oChtpJn1Ju",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "Funkmaster Flex",
+      "featuredArtistId": "34ABXKUj0gzq7R8vXjCaNj",
+      "trackName": "Who Wants To F*** A Millionare - Skit",
+      "trackId": "12P7lqFHgQugOhNrWFIlgB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "Big Kap",
+      "featuredArtistId": "1GeODmmQycY9UqF4MLO94I",
+      "trackName": "Who Wants To F*** A Millionare - Skit",
+      "trackId": "12P7lqFHgQugOhNrWFIlgB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "JAY Z",
+      "featuredArtistId": "3nFkdlSjzX9mRTtwJOzDYB",
+      "trackName": "Who Wants To F*** A Millionare - Skit",
+      "trackId": "12P7lqFHgQugOhNrWFIlgB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "Memphis Bleek",
+      "featuredArtistId": "4jWzNq3sdzSpqn7BnzvIKn",
+      "trackName": "Who Wants To F*** A Millionare - Skit",
+      "trackId": "12P7lqFHgQugOhNrWFIlgB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "Amil",
+      "featuredArtistId": "6NzM38IkXdbQsQ4qW9CG7z",
+      "trackName": "Who Wants To F*** A Millionare - Skit",
+      "trackId": "12P7lqFHgQugOhNrWFIlgB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "Beanie Sigel",
+      "featuredArtistId": "0tCtGc5vt29zFZp6KXzN50",
+      "trackName": "Who Wants To F*** A Millionare - Skit",
+      "trackId": "12P7lqFHgQugOhNrWFIlgB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "George Clinton Jr.",
+      "featuredArtistId": "1Y2MqfvZIygFEEEm8CHnw4",
+      "trackName": "J.U.M.P.",
+      "trackId": "3U84hxGZFBLoXv16hIKnAl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "D Don",
+      "featuredArtistId": "1PtLTwNEmIUQnyratBZcDh",
+      "trackName": "Bricks Two",
+      "trackId": "5113ufkj42tuYcQClCB9UY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "Double O",
+      "featuredArtistId": "4D7y5m4HiGQsvas7pey4DV",
+      "trackName": "Bricks Two",
+      "trackId": "5113ufkj42tuYcQClCB9UY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "Roz",
+      "featuredArtistId": "1CpFiR4T7a1DsK4dRtTnDo",
+      "trackName": "Bricks Two",
+      "trackId": "5113ufkj42tuYcQClCB9UY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "Shooga Bear",
+      "featuredArtistId": "5bulilHpMi9IhBaBsFHS2c",
+      "trackName": "Bricks Two",
+      "trackId": "5113ufkj42tuYcQClCB9UY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "Missy Elliott",
+      "featuredArtistId": "2wIVse2owClT7go1WT98tk",
+      "trackName": "Dat Bitch",
+      "trackId": "5NxEdp9yUt7tmJ0GvnvrTM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "DMX",
+      "featuredArtistId": "1HwM5zlC5qNWhJtM00yXzG",
+      "trackName": "Doggz II",
+      "trackId": "4pLM9l6X8Wiozu5tr6vZOf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b2a87a309e8bb42ca6cc1ce39037c85dc01ece4b",
+      "release_date": "2001-05-22"
+    },
+    {
+      "featuredArtist": "Jamal",
+      "featuredArtistId": "4Eu3KkF0NlarETHxMgpUrv",
+      "trackName": "Real Niggaz",
+      "trackId": "6XMe57iYyv8MTn7BlGsJme",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/315c6f22dbb56db749f6793a7fe3e007ef2f7051",
+      "release_date": "2001-01-01"
+    },
+    {
+      "featuredArtist": "LL Cool J",
+      "featuredArtistId": "1P8IfcNKwrkQP5xJWuhaOC",
+      "trackName": "4 Seasons",
+      "trackId": "01viKMyMsuUnrHjL5kms4u",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b67cd446604ce2f30a5607fa711f8846659755e8",
+      "release_date": "1999-09-28"
+    },
+    {
+      "featuredArtist": "Ja Rule",
+      "featuredArtistId": "1J2VVASYAamtQ3Bt8wGgA6",
+      "trackName": "4 Seasons",
+      "trackId": "01viKMyMsuUnrHjL5kms4u",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b67cd446604ce2f30a5607fa711f8846659755e8",
+      "release_date": "1999-09-28"
+    },
+    {
+      "featuredArtist": "Ghostface",
+      "featuredArtistId": "3t5QLYg3fqvohxXt7q1niX",
+      "trackName": "Run 4 Cover",
+      "trackId": "0qTJ9RrRshER8kS7BSkSwA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b67cd446604ce2f30a5607fa711f8846659755e8",
+      "release_date": "1999-09-28"
+    },
+    {
+      "featuredArtist": "Street",
+      "featuredArtistId": "3EPJIlRqEnU9I19ahzBgGw",
+      "trackName": "Run 4 Cover",
+      "trackId": "0qTJ9RrRshER8kS7BSkSwA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b67cd446604ce2f30a5607fa711f8846659755e8",
+      "release_date": "1999-09-28"
+    },
+    {
+      "featuredArtist": "Dennis Coles",
+      "featuredArtistId": "0vCjBtVHAvq5Gpfb4s5N6K",
+      "trackName": "Run 4 Cover",
+      "trackId": "0qTJ9RrRshER8kS7BSkSwA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b67cd446604ce2f30a5607fa711f8846659755e8",
+      "release_date": "1999-09-28"
+    },
+    {
+      "featuredArtist": "Mally G",
+      "featuredArtistId": "42t1eTo3ytiK1be2rL0IHI",
+      "trackName": "Dat's Dat Shit",
+      "trackId": "5PDcVCDzJ9UrbKPBJG4WoN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b67cd446604ce2f30a5607fa711f8846659755e8",
+      "release_date": "1999-09-28"
+    },
+    {
+      "featuredArtist": "Jamal",
+      "featuredArtistId": "0RM7Wj055edxvDonfNCs5j",
+      "trackName": "Dat's Dat Shit",
+      "trackId": "5PDcVCDzJ9UrbKPBJG4WoN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b67cd446604ce2f30a5607fa711f8846659755e8",
+      "release_date": "1999-09-28"
+    },
+    {
+      "featuredArtist": "Street",
+      "featuredArtistId": "5sSdUuww3wQAQzc7GSytF8",
+      "trackName": "Run 4 Cover - Album Version (Edited)",
+      "trackId": "1wWBzFPJNwm1ML31u3eKnw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/25923bdf73e25623d09e5d20668fec92f3f6cd8d",
+      "release_date": "1999-01-01"
+    }
+  ]
+}

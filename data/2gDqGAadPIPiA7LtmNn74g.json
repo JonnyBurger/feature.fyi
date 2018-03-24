@@ -1,0 +1,50 @@
+{
+  "artistName": "Gian Marco",
+  "features": [
+    {
+      "featuredArtist": "Amaury Gutiérrez",
+      "featuredArtistId": "5bnH2idOWAXzMEbw9gIP5D",
+      "trackName": "No existe",
+      "trackId": "5qWxrLs2P5GCObJeGYeMWp",
+      "preview": "https://p.scdn.co/mp3-preview/c7db93d4fbe5d813c7008938f5976ee1f49adec9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/98e10340c926f597d936f94b36fd3c9a65178085",
+      "release_date": "2017-06-23"
+    },
+    {
+      "featuredArtist": "Pablo Herrera",
+      "featuredArtistId": "65nGmwT7Nj7FITg14ZV8s0",
+      "trackName": "Tengo un Amor",
+      "trackId": "0oY6XbaKHgnsiWxQiIeTIE",
+      "preview": "https://p.scdn.co/mp3-preview/c4856679d23e79ae70d6125240cdc945e093bebb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f2c67fbb2e50ab7b02b633e839618062db1654b",
+      "release_date": "2018-01-30"
+    },
+    {
+      "featuredArtist": "Yordano",
+      "featuredArtistId": "207wrLMuGP7znQqdIaMCaJ",
+      "trackName": "Locos de Amor",
+      "trackId": "2JnWPZ31QYhfExVjJQkIIq",
+      "preview": "https://p.scdn.co/mp3-preview/8ccb18c313cb700fa3e18218e55a8c5639679e20?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/717ea91864d5fa79f7b24a96386a967d207770be",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Maho",
+      "featuredArtistId": "4IBcBM6KeJCRuQyF9wTlRE",
+      "trackName": "Nunca Mas Te Vi (feat. Gianmarco)",
+      "trackId": "7vuOaUm2POfl3RagJioo6O",
+      "preview": "https://p.scdn.co/mp3-preview/7df5ef650000e628d5ec5ff88981a31840571941?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/341f67b2b2006beb86daa2e7c58d26e3b5dbc2c0",
+      "release_date": "2016-08-20"
+    },
+    {
+      "featuredArtist": "Christian Meier",
+      "featuredArtistId": "3OgfCHk8YwaZ7NjQHbL4f3",
+      "trackName": "Alguien",
+      "trackId": "6wl1FWjnroEtgqLqDXHvEa",
+      "preview": "https://p.scdn.co/mp3-preview/d4deb85dbb2bf0b17686cec0c230bb3d1dbfe339?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cef4161552a7c5ef5d07fe5ac7e6df187e5a3738",
+      "release_date": "2016-08-08"
+    }
+  ]
+}

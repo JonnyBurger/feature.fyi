@@ -1,0 +1,41 @@
+{
+  "artistName": "Francis and the Lights",
+  "features": [
+    {
+      "featuredArtist": "Bon Iver",
+      "featuredArtistId": "4LEiUm1SRbFMgfqnQTwUbQ",
+      "trackName": "Friends (feat. Bon Iver)",
+      "trackId": "0ZpBPavoID3eDbaXKSWpAD",
+      "preview": "https://p.scdn.co/mp3-preview/c1a247ae5a6e0396724036c30c00705fbb96ae4e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6cb1624530293573981885139c87af2aeca39701",
+      "release_date": "2016-09-26"
+    },
+    {
+      "featuredArtist": "Chance The Rapper",
+      "featuredArtistId": "1anyVhU62p31KFi8MEzkbf",
+      "trackName": "May I Have This Dance (Remix) [feat. Chance the Rapper]",
+      "trackId": "0VaIsQoIQY10uxBrOyZ5cQ",
+      "preview": "https://p.scdn.co/mp3-preview/6fed5464d95633911da067965255aab0496edc99?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f065d5e71b75df1b046b86451070f065c26f2362",
+      "release_date": "2017-05-18"
+    },
+    {
+      "featuredArtist": "Cashmere Cat",
+      "featuredArtistId": "2LZDXcxJWgsJfKXZv9a5eG",
+      "trackName": "Wild Love",
+      "trackId": "2SvxZDMNHh6nRRDAdjDHD7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0500de1914406b968328d21eade90bfbc6e1e579",
+      "release_date": "2017-11-15"
+    },
+    {
+      "featuredArtist": "The Weeknd",
+      "featuredArtistId": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "trackName": "Wild Love",
+      "trackId": "2SvxZDMNHh6nRRDAdjDHD7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0500de1914406b968328d21eade90bfbc6e1e579",
+      "release_date": "2017-11-15"
+    }
+  ]
+}

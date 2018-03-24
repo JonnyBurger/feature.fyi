@@ -1,0 +1,23 @@
+{
+  "artistName": "Neil Diamond",
+  "features": [
+    {
+      "featuredArtist": "The 139th Street Quartet",
+      "featuredArtistId": "0Hhdobg94twK9cRl012ZsV",
+      "trackName": "Deck The Halls / We Wish You A Merry Christmas",
+      "trackId": "0vWAXM79ZVDt5JQ0prIEjz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ef82792c4cadc4dd40d02d76c7b1eb0d7e4c2ddc",
+      "release_date": "2009-10-13"
+    },
+    {
+      "featuredArtist": "Natalie Maines",
+      "featuredArtistId": "2wYbBxRMYtoM7L8zNSXv0J",
+      "trackName": "Another Day (That Time Forgot)",
+      "trackId": "1w5L0G6mFtzZotuL1mfGs7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/34d64de2c7d4f2b6f3846991d2ed933613b028ea",
+      "release_date": "2008-05-05"
+    }
+  ]
+}

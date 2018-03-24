@@ -1,0 +1,23 @@
+{
+  "artistName": "Shania Twain",
+  "features": [
+    {
+      "featuredArtist": "Bryan White",
+      "featuredArtistId": "45kyLFJs5SIEqyzfVopuSc",
+      "trackName": "From This Moment On",
+      "trackId": "40vXeJLrjfOVkthtXhRpin",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0fc1aa03249b79b39b712026b34754380e49720f",
+      "release_date": "1997-11-04"
+    },
+    {
+      "featuredArtist": "Olle Romo",
+      "featuredArtistId": "2uIdbhKbYDhskf3RCFhJ9d",
+      "trackName": "You've Got A Way - Notting Hill Remix",
+      "trackId": "4bVZ0HwrnGJSfKgjVheW6i",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7ddd313fe5262a6300fb9807cb802595bf8be17b",
+      "release_date": "1997-01-01"
+    }
+  ]
+}

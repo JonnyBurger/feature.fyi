@@ -1,0 +1,41 @@
+{
+  "artistName": "Tame Impala",
+  "features": [
+    {
+      "featuredArtist": "Erol Alkan",
+      "featuredArtistId": "3jQ8hpdQo3TCEnb5gmOtH5",
+      "trackName": "Why Won't You Make Up Your Mind? - Erol Alkan Rework",
+      "trackId": "570Lz3jxiF4gpgFqEzVFsX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8797e5d0576933487c2d21d368ee56573c7c88d9",
+      "release_date": "2010"
+    },
+    {
+      "featuredArtist": "ZHU",
+      "featuredArtistId": "28j8lBWDdDSHSSt5oPlsX2",
+      "trackName": "My Life",
+      "trackId": "0EVKzZFLHPPXm2KPBgmUf4",
+      "preview": "https://p.scdn.co/mp3-preview/3e1ec3f47e82e1e9679bd30b44fdb3532519fdf7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/52a0bfb650345765f8eab8d300ca20eb35f0efe3",
+      "release_date": "2018-03-05"
+    },
+    {
+      "featuredArtist": "GUM",
+      "featuredArtistId": "4Oov8BULUOBiX6UVpP04JW",
+      "trackName": "Reality In Motion - GUM Remix",
+      "trackId": "6aFxp3szJUOyI8MSDBKbFB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/823665f33518524c626294ef4b9a1b01a8183ce0",
+      "release_date": "2017-11-16"
+    },
+    {
+      "featuredArtist": "Soulwax",
+      "featuredArtistId": "43mWhBXSflupNLuNjM5vff",
+      "trackName": "Let It Happen - Soulwax Remix",
+      "trackId": "5Z1E4jrUzitOQRczI8gfSL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/823665f33518524c626294ef4b9a1b01a8183ce0",
+      "release_date": "2017-11-16"
+    }
+  ]
+}

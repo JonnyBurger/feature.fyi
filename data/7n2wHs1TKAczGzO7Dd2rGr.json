@@ -1,0 +1,32 @@
+{
+  "artistName": "Shawn Mendes",
+  "features": [
+    {
+      "featuredArtist": "Astrid S",
+      "featuredArtistId": "3AVfmawzu83sp94QW7CEGm",
+      "trackName": "Air",
+      "trackId": "0B7zbT8aL0VfxeUVEgpQH3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9a38e4d14767c0badf77bfdfe2b0ab47e39f0322",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Camila Cabello",
+      "featuredArtistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "I Know What You Did Last Summer",
+      "trackId": "7crplFzt7spG80NCbpmuCp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9a38e4d14767c0badf77bfdfe2b0ab47e39f0322",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "NOTD",
+      "featuredArtistId": "5jAMCwdNHWr7JThxtMuEyy",
+      "trackName": "There's Nothing Holdin' Me Back - NOTD Remix",
+      "trackId": "0n7kGBIfea9zdbXvYlqiGM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/37c6183b5eca0aa9ccdd14aa972a933161e25697",
+      "release_date": "2017-05-19"
+    }
+  ]
+}

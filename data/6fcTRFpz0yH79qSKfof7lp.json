@@ -1,0 +1,455 @@
+{
+  "artistName": "Seven Lions",
+  "features": [
+    {
+      "featuredArtist": "Skyler Stonestreet",
+      "featuredArtistId": "1sY8XHjk6WoA2B5YIGV1S2",
+      "trackName": "Freesol",
+      "trackId": "720VccfW5GV9ZM4OKAAGUg",
+      "preview": "https://p.scdn.co/mp3-preview/ae3efa49b7c6cb08056afc15764dccb957c3727b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e0b059ad7d8c7c14f639b8f819dd05bc0e3641d3",
+      "release_date": "2017-06-26"
+    },
+    {
+      "featuredArtist": "NÉONHÈART",
+      "featuredArtistId": "2kGEd3OUoUWgCmu9cIaBXV",
+      "trackName": "Where I Won't Be Found",
+      "trackId": "3k08Cja0lw4MKJ72AyCGzU",
+      "preview": "https://p.scdn.co/mp3-preview/b9872308263e63036b392099935c75eb27ab80b3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e0b059ad7d8c7c14f639b8f819dd05bc0e3641d3",
+      "release_date": "2017-06-26"
+    },
+    {
+      "featuredArtist": "Rico & Miella",
+      "featuredArtistId": "6F4KRaTnwZ3ttUYpdo45C8",
+      "trackName": "Sun Won't Rise",
+      "trackId": "4KXInOqTj0gCgVTvzHvQuG",
+      "preview": "https://p.scdn.co/mp3-preview/ff44673bd27452945e7edcd03a1a56060ee4c931?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e0b059ad7d8c7c14f639b8f819dd05bc0e3641d3",
+      "release_date": "2017-06-26"
+    },
+    {
+      "featuredArtist": "Unlike Pluto",
+      "featuredArtistId": "4zjO8Jhi2pciJJzd8Q6rga",
+      "trackName": "Rescue Me",
+      "trackId": "01Zr4Yhw7m2WKy2TjpFtDj",
+      "preview": "https://p.scdn.co/mp3-preview/7442af6a0201f2344ab44cefea4bf74d720173d1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e0b059ad7d8c7c14f639b8f819dd05bc0e3641d3",
+      "release_date": "2017-06-26"
+    },
+    {
+      "featuredArtist": "Karra",
+      "featuredArtistId": "24CzPFC4y3bM4AkUnZfuAU",
+      "trackName": "Silent Skies",
+      "trackId": "1WdhMGAc2q5gp2j049BZJy",
+      "preview": "https://p.scdn.co/mp3-preview/6857decb845d5ab30a480335a608197c1928f869?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e0b059ad7d8c7c14f639b8f819dd05bc0e3641d3",
+      "release_date": "2017-06-26"
+    },
+    {
+      "featuredArtist": "Vök",
+      "featuredArtistId": "7oDTyDfeA2JE2jUZztkBj8",
+      "trackName": "Creation",
+      "trackId": "56WUwIcJkysSpZcsdehDWg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b86797477a57abfa348f68192984d5c1b0c32450",
+      "release_date": "2016-03-25"
+    },
+    {
+      "featuredArtist": "Mike Mains",
+      "featuredArtistId": "6fMFAugldzxdvpZl0fZNKd",
+      "trackName": "Coming Home",
+      "trackId": "2XPGUbPKl9CyYqj1puhFaq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b86797477a57abfa348f68192984d5c1b0c32450",
+      "release_date": "2016-03-25"
+    },
+    {
+      "featuredArtist": "Lights",
+      "featuredArtistId": "5pdyjBIaY5o1yOyexGIUc6",
+      "trackName": "Falling Away - Festival Mix (Radio Edit)",
+      "trackId": "3g5a4r4gjgpB1DQ4Wg4srd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b86797477a57abfa348f68192984d5c1b0c32450",
+      "release_date": "2016-03-25"
+    },
+    {
+      "featuredArtist": "Sombear",
+      "featuredArtistId": "4utnV0ZxDPidklLpyc4JAC",
+      "trackName": "A Way To Say Goodbye - Puppet Remix",
+      "trackId": "7abe5b2qHGbLkqUth285kX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8b03a2ea6cd92b269541b71c28c03c4d329563ab",
+      "release_date": "2015-05-26"
+    },
+    {
+      "featuredArtist": "HALIENE",
+      "featuredArtistId": "1sKIizVYeHkGy7Tjmn9QRj",
+      "trackName": "The End - Birds Of Paradise Remix",
+      "trackId": "6ZTM8iaIoTBpqGuVPFT5Y3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8b03a2ea6cd92b269541b71c28c03c4d329563ab",
+      "release_date": "2015-05-26"
+    },
+    {
+      "featuredArtist": "Lynn Gunn",
+      "featuredArtistId": "0FA9w7Sxwr742KxVhkcuJh",
+      "trackName": "Lose Myself - Gazzo Remix",
+      "trackId": "0LSlyiWpMGtEUnoxUP31rn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8b03a2ea6cd92b269541b71c28c03c4d329563ab",
+      "release_date": "2015-05-26"
+    },
+    {
+      "featuredArtist": "Davey Havok",
+      "featuredArtistId": "1Q1ItjYrk6Si5q4tQtRbx8",
+      "trackName": "December - Beatman & Ludmilla Remix",
+      "trackId": "24ob6JXAjYDL4Xu41CZLFu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8b03a2ea6cd92b269541b71c28c03c4d329563ab",
+      "release_date": "2015-05-26"
+    },
+    {
+      "featuredArtist": "Puppet",
+      "featuredArtistId": "7borrOQHJRlyzrUqNAbhl4",
+      "trackName": "A Way To Say Goodbye - Puppet Remix",
+      "trackId": "3eSXpFghRcF0bgmuzfaKUI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eaa6251ab66fac232bf22e3662adc8c2c4698103",
+      "release_date": "2015-05-25"
+    },
+    {
+      "featuredArtist": "Birds of Paradise",
+      "featuredArtistId": "2cOMs1YerprZJ15SDrESaQ",
+      "trackName": "The End - Birds Of Paradise Remix",
+      "trackId": "6CNaygxAabLpVFxkY3ndby",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eaa6251ab66fac232bf22e3662adc8c2c4698103",
+      "release_date": "2015-05-25"
+    },
+    {
+      "featuredArtist": "Gazzo",
+      "featuredArtistId": "5st4KKihmnSMLRsxWOs2x3",
+      "trackName": "Lose Myself - Gazzo Remix",
+      "trackId": "55D9r5H5kpD9AVc2w88dj6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eaa6251ab66fac232bf22e3662adc8c2c4698103",
+      "release_date": "2015-05-25"
+    },
+    {
+      "featuredArtist": "Beatman & Ludmilla",
+      "featuredArtistId": "5zw6VEmYJYXpJnhuP3LzC2",
+      "trackName": "December - Beatman & Ludmilla Remix",
+      "trackId": "6MlyBh6zJaUdGX9Zfk8U7p",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eaa6251ab66fac232bf22e3662adc8c2c4698103",
+      "release_date": "2015-05-25"
+    },
+    {
+      "featuredArtist": "Ricky Mears",
+      "featuredArtistId": "5FSCLPrvr6ytMwIkMW2h71",
+      "trackName": "A Way To Say Goodbye - Ricky Mears Remix",
+      "trackId": "3PQUSFGALd9Zr9wt82wyx8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eaa6251ab66fac232bf22e3662adc8c2c4698103",
+      "release_date": "2015-05-25"
+    },
+    {
+      "featuredArtist": "Paris Blohm",
+      "featuredArtistId": "5lXf3xjcLx6BmYMY6TvczJ",
+      "trackName": "Lose Myself - Paris Blohm Remix",
+      "trackId": "05vxt9BW1gwuw3nuZ5VyvF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eaa6251ab66fac232bf22e3662adc8c2c4698103",
+      "release_date": "2015-05-25"
+    },
+    {
+      "featuredArtist": "RUNN",
+      "featuredArtistId": "3l0H4QNiYYNdIsnZ4JgJAg",
+      "trackName": "Calling You Home - Oliver Smith Remix",
+      "trackId": "0VsiRWxY13JeoN6hMyxQyR",
+      "preview": "https://p.scdn.co/mp3-preview/9845e15d2f97d806ebcdc58caccb99c46e1db777?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dc4f74757d3dcebedf754d2493433adcaf472a17",
+      "release_date": "2018-03-14"
+    },
+    {
+      "featuredArtist": "Oliver Smith",
+      "featuredArtistId": "2Npo4Cfm48M2uKlvxiXMic",
+      "trackName": "Calling You Home - Oliver Smith Remix",
+      "trackId": "0VsiRWxY13JeoN6hMyxQyR",
+      "preview": "https://p.scdn.co/mp3-preview/9845e15d2f97d806ebcdc58caccb99c46e1db777?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dc4f74757d3dcebedf754d2493433adcaf472a17",
+      "release_date": "2018-03-14"
+    },
+    {
+      "featuredArtist": "Direct",
+      "featuredArtistId": "5eOyDcFvvdc7D7BD6gCdsi",
+      "trackName": "Calling You Home - Direct Remix",
+      "trackId": "5o0mUMPILeWhkxJtUCwnoR",
+      "preview": "https://p.scdn.co/mp3-preview/76b7c9007a029a70958e7ef3d505a73ebd8bbbc6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dc4f74757d3dcebedf754d2493433adcaf472a17",
+      "release_date": "2018-03-14"
+    },
+    {
+      "featuredArtist": "Dabin",
+      "featuredArtistId": "7lZauDnRoAC3kmaYae2opv",
+      "trackName": "Freesol (Dabin Remix)",
+      "trackId": "5cwqO4thrTUj42WShkF39w",
+      "preview": "https://p.scdn.co/mp3-preview/fc5b25fa25849db4bdb5ef59c815b2ef87dc9e41?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2338780689d4815ab5a370873bbf6437b9eabe1",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Trivecta",
+      "featuredArtistId": "4AT7XlLBevgZIiKvZQ83ye",
+      "trackName": "Without You My Love (Trivecta Remix)",
+      "trackId": "1Yr93obwwyAOwTLuJb1F4O",
+      "preview": "https://p.scdn.co/mp3-preview/5f5071e86039dc2a6001bf317b8f292aad80a905?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2338780689d4815ab5a370873bbf6437b9eabe1",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "KARRA",
+      "featuredArtistId": "1k3xCGjTA5UHqJAvugwyGD",
+      "trackName": "Silent Skies (Xan Griffin Remix)",
+      "trackId": "3VdsARWP6yQuq07D9m5fBl",
+      "preview": "https://p.scdn.co/mp3-preview/68d30dd37a1e2c53b45d25d635074262db5e1282?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2338780689d4815ab5a370873bbf6437b9eabe1",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Xan Griffin",
+      "featuredArtistId": "3wkHMiy2I0PuYIh9JNyqVk",
+      "trackName": "Silent Skies (Xan Griffin Remix)",
+      "trackId": "3VdsARWP6yQuq07D9m5fBl",
+      "preview": "https://p.scdn.co/mp3-preview/68d30dd37a1e2c53b45d25d635074262db5e1282?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2338780689d4815ab5a370873bbf6437b9eabe1",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Kill The Noise",
+      "featuredArtistId": "3qnMl4DHT4gndzFAcG4FlM",
+      "trackName": "Cold Hearted",
+      "trackId": "67o4NHPeKGTkNuKnrojUc1",
+      "preview": "https://p.scdn.co/mp3-preview/1bf19427acc8023d62cd82b2993e4c5f69b2f0ba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cdf68b8decf5aa5c78848160a5d12686804b5e6a",
+      "release_date": "2017-10-25"
+    },
+    {
+      "featuredArtist": "Jason Ross",
+      "featuredArtistId": "6CCTvLyIHqUhY6VQizt150",
+      "trackName": "Higher Love - Grum Remix",
+      "trackId": "6Pyk6NOUhyjCnrc1wTfQbm",
+      "preview": "https://p.scdn.co/mp3-preview/c02b41624ed273231c93647fcdcefcd4b0870268?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/433a748caabea97b53474de5606cb5d1d9e7dbcf",
+      "release_date": "2017-07-28"
+    },
+    {
+      "featuredArtist": "Paul Meany",
+      "featuredArtistId": "0t3yoCFCow8O6LiUloM9cq",
+      "trackName": "Higher Love - Grum Remix",
+      "trackId": "6Pyk6NOUhyjCnrc1wTfQbm",
+      "preview": "https://p.scdn.co/mp3-preview/c02b41624ed273231c93647fcdcefcd4b0870268?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/433a748caabea97b53474de5606cb5d1d9e7dbcf",
+      "release_date": "2017-07-28"
+    },
+    {
+      "featuredArtist": "Grum",
+      "featuredArtistId": "3VEqFWRt47xQAZJMBF3duQ",
+      "trackName": "Higher Love - Grum Remix",
+      "trackId": "6Pyk6NOUhyjCnrc1wTfQbm",
+      "preview": "https://p.scdn.co/mp3-preview/c02b41624ed273231c93647fcdcefcd4b0870268?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/433a748caabea97b53474de5606cb5d1d9e7dbcf",
+      "release_date": "2017-07-28"
+    },
+    {
+      "featuredArtist": "Spencer Brown",
+      "featuredArtistId": "4L9PX6lwPWo2NeuXL9kyJK",
+      "trackName": "Higher Love - Spencer Brown Remix",
+      "trackId": "1v4LxhKYxtNoVkkuZntrK1",
+      "preview": "https://p.scdn.co/mp3-preview/9e03a30d564276798c36e038b2501d729452bc91?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/433a748caabea97b53474de5606cb5d1d9e7dbcf",
+      "release_date": "2017-07-28"
+    },
+    {
+      "featuredArtist": "Koven",
+      "featuredArtistId": "3UCbp6D1lvILlxRJT9LnFa",
+      "trackName": "Cold Skin (Koven Remix)",
+      "trackId": "6oR0vJHrRyrBkh6x2zwaTu",
+      "preview": "https://p.scdn.co/mp3-preview/55b4c06f1b41a44129a77cd7ffddc1fbd80c25e7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3b2dec17228f9ec28aa6388d54ddb325440cd07",
+      "release_date": "2017-06-13"
+    },
+    {
+      "featuredArtist": "Echos",
+      "featuredArtistId": "6SnMMbLQ4iS8WIyt3ksmCR",
+      "trackName": "Cold Skin (Koven Remix)",
+      "trackId": "6oR0vJHrRyrBkh6x2zwaTu",
+      "preview": "https://p.scdn.co/mp3-preview/55b4c06f1b41a44129a77cd7ffddc1fbd80c25e7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3b2dec17228f9ec28aa6388d54ddb325440cd07",
+      "release_date": "2017-06-13"
+    },
+    {
+      "featuredArtist": "Stonebank",
+      "featuredArtistId": "4lC8Q0azW5ij2e1skZo377",
+      "trackName": "Cold Skin (Stonebank Remix)",
+      "trackId": "00DFJ1qAfLhsB7NTn6lSFH",
+      "preview": "https://p.scdn.co/mp3-preview/05163315f65f4f06cc16e99e3752312fbf17b344?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3b2dec17228f9ec28aa6388d54ddb325440cd07",
+      "release_date": "2017-06-13"
+    },
+    {
+      "featuredArtist": "V!RTU",
+      "featuredArtistId": "5kpozH5ypgLVTUljZMzkQP",
+      "trackName": "Cold Skin (V!RTU Remix)",
+      "trackId": "3mttq0vyGKmGZvKP8yXXWy",
+      "preview": "https://p.scdn.co/mp3-preview/4b6f376e9a3432eb75315e87ac7d2c0d3ea77710?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3b2dec17228f9ec28aa6388d54ddb325440cd07",
+      "release_date": "2017-06-13"
+    },
+    {
+      "featuredArtist": "Mr FijiWiji",
+      "featuredArtistId": "2uEo8Rajpdz1AqineCVLHq",
+      "trackName": "Cold Skin (Mr FijiWiji Remix)",
+      "trackId": "1UerVhq3U8djFz1wvHvvF7",
+      "preview": "https://p.scdn.co/mp3-preview/f40d44ad1d68557078411db09b79ca2be2086eea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3b2dec17228f9ec28aa6388d54ddb325440cd07",
+      "release_date": "2017-06-13"
+    },
+    {
+      "featuredArtist": "MiTiS",
+      "featuredArtistId": "2ThbasyLiZFjj4yyxrQlZ6",
+      "trackName": "Cold Skin (MiTiS Remix)",
+      "trackId": "6sJAt8oI3GEyTMpiXUYpab",
+      "preview": "https://p.scdn.co/mp3-preview/44669da415e191b55a899c893bcd2f7047418b7d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3b2dec17228f9ec28aa6388d54ddb325440cd07",
+      "release_date": "2017-06-13"
+    },
+    {
+      "featuredArtist": "INTERCOM",
+      "featuredArtistId": "6cHi0QWaBxWN71YpvTR4Jr",
+      "trackName": "Cold Skin (INTERCOM Remix)",
+      "trackId": "3YGeXqE9hVU2gjp9HI547T",
+      "preview": "https://p.scdn.co/mp3-preview/6b8b043186dc11c27bcdfcdf8de3cf7369585f23?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3b2dec17228f9ec28aa6388d54ddb325440cd07",
+      "release_date": "2017-06-13"
+    },
+    {
+      "featuredArtist": "Ellie Goulding",
+      "featuredArtistId": "0X2BH1fck6amBIoJhDVmmJ",
+      "trackName": "Don’t Leave",
+      "trackId": "3nbnyZb8F60d9vHLm8RX9N",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0a60b4ac58010115f761a956cbcd5f26f5757c2c",
+      "release_date": "2017-05-15"
+    },
+    {
+      "featuredArtist": "Illenium",
+      "featuredArtistId": "45eNHdiiabvmbp4erw26rg",
+      "trackName": "Rush Over Me",
+      "trackId": "6BDLcvvtyJD2vnXRDi1IjQ",
+      "preview": "https://p.scdn.co/mp3-preview/9720b80edd5a45a367b623bffdf339204e6934cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f6bed5557f09c95dc8cf5d71fa5e21578d5e4711",
+      "release_date": "2016-10-10"
+    },
+    {
+      "featuredArtist": "Said the Sky",
+      "featuredArtistId": "4LZ4De2MoO3lP6QaNCfvcu",
+      "trackName": "Rush Over Me",
+      "trackId": "6BDLcvvtyJD2vnXRDi1IjQ",
+      "preview": "https://p.scdn.co/mp3-preview/9720b80edd5a45a367b623bffdf339204e6934cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f6bed5557f09c95dc8cf5d71fa5e21578d5e4711",
+      "release_date": "2016-10-10"
+    },
+    {
+      "featuredArtist": "Show Lex",
+      "featuredArtistId": "6vuDgoDmWmtdQfFjuQSDHU",
+      "trackName": "Creation - Soltan Remix",
+      "trackId": "6aA8uUNIv09KBDe1QaDq7L",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a71409a4e20a5b27e7f0cab84dc8f74c4a5b3dca",
+      "release_date": "2016-07-22"
+    },
+    {
+      "featuredArtist": "Kap Slap",
+      "featuredArtistId": "1yRxS3CXYM7s6amlkEmozI",
+      "trackName": "Coming Home - Kap Slap Remix",
+      "trackId": "0sftUerstCEt8pVn9BFh5c",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a71409a4e20a5b27e7f0cab84dc8f74c4a5b3dca",
+      "release_date": "2016-07-22"
+    },
+    {
+      "featuredArtist": "Luke Shipstad",
+      "featuredArtistId": "1uwYLKUKN2DeNNNKLvV7py",
+      "trackName": "Coming Home - Suspect 44 Remix",
+      "trackId": "6uD6tTlq6yPwKGM3oYPDzh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a71409a4e20a5b27e7f0cab84dc8f74c4a5b3dca",
+      "release_date": "2016-07-22"
+    },
+    {
+      "featuredArtist": "Zhiar Mahmoud",
+      "featuredArtistId": "3l0AbxzThDe9GOqeyH4gYc",
+      "trackName": "Coming Home - Suspect 44 Remix",
+      "trackId": "6uD6tTlq6yPwKGM3oYPDzh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a71409a4e20a5b27e7f0cab84dc8f74c4a5b3dca",
+      "release_date": "2016-07-22"
+    },
+    {
+      "featuredArtist": "Gábor Dienes",
+      "featuredArtistId": "7iQRgypalpzDZot4jo7HTz",
+      "trackName": "Creation - Beatman And Ludmilla Remix",
+      "trackId": "7MnKgDwuqUI5dmQjGW919i",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a71409a4e20a5b27e7f0cab84dc8f74c4a5b3dca",
+      "release_date": "2016-07-22"
+    },
+    {
+      "featuredArtist": "Fruzsina Luca Toman",
+      "featuredArtistId": "6aIF3CTpqJT63Jc6jfO36f",
+      "trackName": "Creation - Beatman And Ludmilla Remix",
+      "trackId": "7MnKgDwuqUI5dmQjGW919i",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a71409a4e20a5b27e7f0cab84dc8f74c4a5b3dca",
+      "release_date": "2016-07-22"
+    },
+    {
+      "featuredArtist": "3LAU",
+      "featuredArtistId": "4YLQaW1UU3mrVetC8gNkg5",
+      "trackName": "Coming Home - 3LAU Remix",
+      "trackId": "57mmlSkZRJcIA0Ap38tsGt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a71409a4e20a5b27e7f0cab84dc8f74c4a5b3dca",
+      "release_date": "2016-07-22"
+    },
+    {
+      "featuredArtist": "Jarrett Flythe",
+      "featuredArtistId": "3wyWaxmU5nGbvynKGMd7jL",
+      "trackName": "Creation - Sunday Service Remix",
+      "trackId": "2P6aBNYbZIYyj88XAyQUbl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a71409a4e20a5b27e7f0cab84dc8f74c4a5b3dca",
+      "release_date": "2016-07-22"
+    },
+    {
+      "featuredArtist": "Taylor Ashworth",
+      "featuredArtistId": "3nL5lFe5f9pMgEgjnT4E9i",
+      "trackName": "Creation - Sunday Service Remix",
+      "trackId": "2P6aBNYbZIYyj88XAyQUbl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a71409a4e20a5b27e7f0cab84dc8f74c4a5b3dca",
+      "release_date": "2016-07-22"
+    },
+    {
+      "featuredArtist": "Sunday Service",
+      "featuredArtistId": "06cbUoPtMI8kqHNONFTH2h",
+      "trackName": "Creation - Sunday Service Remix",
+      "trackId": "2P6aBNYbZIYyj88XAyQUbl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a71409a4e20a5b27e7f0cab84dc8f74c4a5b3dca",
+      "release_date": "2016-07-22"
+    }
+  ]
+}

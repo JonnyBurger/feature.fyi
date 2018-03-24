@@ -1,0 +1,41 @@
+{
+  "artistName": "Conjunto Primavera",
+  "features": [
+    {
+      "featuredArtist": "Antonio Meléndez Jr.",
+      "featuredArtistId": "2o6A31Dz2zQckVgIkKx3uV",
+      "trackName": "No Me Vas A Convencer",
+      "trackId": "47eiCUpeAKClKcUtallI6J",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5d4cfb9238a0c71ee463da6840c214baba605bba",
+      "release_date": "2015-09-11"
+    },
+    {
+      "featuredArtist": "Ricky Muñoz",
+      "featuredArtistId": "2fN4AmackOjPcaThwvLyy6",
+      "trackName": "Un Desengaño",
+      "trackId": "6qRJq1Dvdr5Vz3qIASpkhg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5d4cfb9238a0c71ee463da6840c214baba605bba",
+      "release_date": "2015-09-11"
+    },
+    {
+      "featuredArtist": "Louie Padilla",
+      "featuredArtistId": "0Pq3dKbP9Nw2ruAsukC86X",
+      "trackName": "Me Quedé Pensando",
+      "trackId": "6orZFJ9uYFRKd2A5P8z4uo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5d4cfb9238a0c71ee463da6840c214baba605bba",
+      "release_date": "2015-09-11"
+    },
+    {
+      "featuredArtist": "Graciela Beltran",
+      "featuredArtistId": "7HcFX1LEnI6zHIHCt8olTl",
+      "trackName": "Corazón Encadenado",
+      "trackId": "7saViZwtvYUgMhEcVx4N3J",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/83129f53ed409f2ca286efc6e6b111580f57a19f",
+      "release_date": "2015-01-20"
+    }
+  ]
+}

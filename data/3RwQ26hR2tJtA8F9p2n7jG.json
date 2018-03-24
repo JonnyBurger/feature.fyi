@@ -1,0 +1,23 @@
+{
+  "artistName": "The Temptations",
+  "features": [
+    {
+      "featuredArtist": "Diana Ross & The Supremes",
+      "featuredArtistId": "0rXI0q8Cahq6numvPlloaq",
+      "trackName": "I Second That Emotion",
+      "trackId": "0Bi8Dvt3GGQNqNPREfearu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c0084b37beffcae903f771520070ca789f9a3cd1",
+      "release_date": "2001-01-01"
+    },
+    {
+      "featuredArtist": "John Forte",
+      "featuredArtistId": "1damanY48OjG8KZHLdsSNo",
+      "trackName": "Stay - Remix Version",
+      "trackId": "7seWETm9zBbVD95gYMHzaA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/91d8db39528a0bba0362101f406871d6034a16de",
+      "release_date": "1998-01-01"
+    }
+  ]
+}

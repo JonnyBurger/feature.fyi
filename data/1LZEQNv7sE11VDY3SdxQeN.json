@@ -1,0 +1,23 @@
+{
+  "artistName": "Bee Gees",
+  "features": [
+    {
+      "featuredArtist": "Andy Gibb",
+      "featuredArtistId": "4YPqbAiLzBg5DIfsgQZ8QK",
+      "trackName": "Our Love (Don't Throw It All Away) - Live - At The MGM Grand",
+      "trackId": "4LwKu7Z4k1HbzAH5GXFbFD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f79670653251992a4e23652bbafad459f208d6b3",
+      "release_date": "1998-01-01"
+    },
+    {
+      "featuredArtist": "Céline Dion",
+      "featuredArtistId": "4S9EykWXhStSc15wEx8QFK",
+      "trackName": "Immortality - Live - At The MGM Grand",
+      "trackId": "2q7dMsWHPRkfEqMFoPVsoR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f79670653251992a4e23652bbafad459f208d6b3",
+      "release_date": "1998-01-01"
+    }
+  ]
+}

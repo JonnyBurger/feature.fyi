@@ -1,0 +1,23 @@
+{
+  "artistName": "Band of Horses",
+  "features": [
+    {
+      "featuredArtist": "Excision",
+      "featuredArtistId": "0NBBeEdiyoMtCjAwv88B8T",
+      "trackName": "The Funeral - Excision Remix",
+      "trackId": "39npZ2mx3dWuNdGRg9PBm0",
+      "preview": "https://p.scdn.co/mp3-preview/2daf50bec5edce5e4f2c7292a1022d31e2e654ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e22865034ee75673ac257ba09b07a0303db0c52",
+      "release_date": "2015-09-21"
+    },
+    {
+      "featuredArtist": "Grandaddy",
+      "featuredArtistId": "3W4xM5XYtUp4ifYYPVKVdk",
+      "trackName": "Hang an Ornament",
+      "trackId": "3dshr3BOgTcuwJPmikHrMW",
+      "preview": "https://p.scdn.co/mp3-preview/aee22eb94723c03595742e4b0682663994e19a45?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/baf229ce9f1c6dc1ff1452b794a6375224737aa1",
+      "release_date": "2014-12-17"
+    }
+  ]
+}

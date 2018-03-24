@@ -1,0 +1,77 @@
+{
+  "artistName": "Demi Lovato",
+  "features": [
+    {
+      "featuredArtist": "Lil Wayne",
+      "featuredArtistId": "55Aa2cqylxrFIXC767Z865",
+      "trackName": "Lonely",
+      "trackId": "3ogC9UpXOijiLIVZ0NzNyr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/935655684497ababf12b8e90be788ddfd9266354",
+      "release_date": "2017-09-29"
+    },
+    {
+      "featuredArtist": "Jax Jones",
+      "featuredArtistId": "4Q6nIcaBED8qUel8bBx6Cr",
+      "trackName": "Instruction",
+      "trackId": "2ytH5wDuqhgLTiDVYioteq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6dd55b571845590bb2dc86a07b047bd18b124e50",
+      "release_date": "2017-09-29"
+    },
+    {
+      "featuredArtist": "Stefflon Don",
+      "featuredArtistId": "2ExGrw6XpbtUAJHTLtUXUD",
+      "trackName": "Instruction",
+      "trackId": "2ytH5wDuqhgLTiDVYioteq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6dd55b571845590bb2dc86a07b047bd18b124e50",
+      "release_date": "2017-09-29"
+    },
+    {
+      "featuredArtist": "Cheat Codes",
+      "featuredArtistId": "7DMveApC7UnC2NPfPvlHSU",
+      "trackName": "No Promises - Acoustic",
+      "trackId": "10tuukId64A915wwQ9HzhK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6dd55b571845590bb2dc86a07b047bd18b124e50",
+      "release_date": "2017-09-29"
+    },
+    {
+      "featuredArtist": "Iggy Azalea",
+      "featuredArtistId": "5yG7ZAZafVaAlMTeBybKAL",
+      "trackName": "Kingdom Come",
+      "trackId": "7I4zJamsReVjDMmx8GkH5r",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0b92e6f9342bcca80644aa6c9bbbdc7854dca3ab",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Sirah",
+      "featuredArtistId": "3oAazIwC0nAYkOKVQPUC38",
+      "trackName": "Waitin for You",
+      "trackId": "6pCbOR0L5GhhU8e5UMmqJo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0b92e6f9342bcca80644aa6c9bbbdc7854dca3ab",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Cher Lloyd",
+      "featuredArtistId": "4m4SfDVbF5wxrwEjDKgi4k",
+      "trackName": "Really Don't Care",
+      "trackId": "5A7MSlqLfD2AEYCCrD6QWB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/17a986c0b74d0baf803cdc7ab7679fdba922fbc2",
+      "release_date": "2014-12-01"
+    },
+    {
+      "featuredArtist": "Olly Murs",
+      "featuredArtistId": "3whuHq0yGx60atvA2RCVRW",
+      "trackName": "Up",
+      "trackId": "5ke0m7VxCkPTZT2nCYPdud",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/17a986c0b74d0baf803cdc7ab7679fdba922fbc2",
+      "release_date": "2014-12-01"
+    }
+  ]
+}

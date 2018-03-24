@@ -1,0 +1,410 @@
+{
+  "artistName": "Datsik",
+  "features": [
+    {
+      "featuredArtist": "Virtual Riot",
+      "featuredArtistId": "4FXGRMSHh2JjHxVwS8dhH1",
+      "trackName": "Nasty",
+      "trackId": "6Rxa3iS3kpo9iTHg97Vxo3",
+      "preview": "https://p.scdn.co/mp3-preview/c336036b4c1e87f27b7442aa1b39740ce5638126?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db034532e306b3a38f29fffd951e3cc3d7f606f7",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "AD",
+      "featuredArtistId": "4Maf38TSoYT83qXqsO20JI",
+      "trackName": "Wreckless (feat. AD)",
+      "trackId": "5qwLoaenXMaxFk4gKA6hdk",
+      "preview": "https://p.scdn.co/mp3-preview/b26610a12e641b234548bef34796418843c4c743?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db034532e306b3a38f29fffd951e3cc3d7f606f7",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Lox Chatterbox",
+      "featuredArtistId": "3SFVIUlipGj3RpWCKe9s73",
+      "trackName": "Fly Low (feat. Lox Chatterbox)",
+      "trackId": "1TLXJnD1xRKzj2ora7rhVO",
+      "preview": "https://p.scdn.co/mp3-preview/51afd4ad84c0169422ce3774bf434c71c83adb2f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db034532e306b3a38f29fffd951e3cc3d7f606f7",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Excision",
+      "featuredArtistId": "5FKchcZpQOkqFvXBj1aCvb",
+      "trackName": "Redemption (feat. Excision)",
+      "trackId": "7jGxbprnsSTU5j5G0bMG9V",
+      "preview": "https://p.scdn.co/mp3-preview/c577d159378fda8d945b6f2410637a7250f2e49a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db034532e306b3a38f29fffd951e3cc3d7f606f7",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Zack The Lad",
+      "featuredArtistId": "6Cf4uUkFsCjbqjcdXEWF6C",
+      "trackName": "Gravity",
+      "trackId": "1NXJr3DYSGgKuLKGeI1Yvp",
+      "preview": "https://p.scdn.co/mp3-preview/89e7e2f3395491da2a6a1f680f11b48f011210ac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db034532e306b3a38f29fffd951e3cc3d7f606f7",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Georgia Murray",
+      "featuredArtistId": "3FXrLac81QW9ftwjSShV1o",
+      "trackName": "Hold It Down",
+      "trackId": "3q0lODdDXA26o1rcQ1QDzi",
+      "preview": "https://p.scdn.co/mp3-preview/3a6e959d5dd0c1e28f4860a7c7dee09d058f987b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/23d6982ecede78220150c37e6a3180a07b5bcd8c",
+      "release_date": "2013-10-01"
+    },
+    {
+      "featuredArtist": "Zyme",
+      "featuredArtistId": "5GpSReLqCd0tOfgq8Ngoez",
+      "trackName": "Oxygen",
+      "trackId": "0n9mpQKsdQmDR949h0qe0l",
+      "preview": "https://p.scdn.co/mp3-preview/bb01f5b84dd6b466eaa41a1279d29e074474dd54?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/23d6982ecede78220150c37e6a3180a07b5bcd8c",
+      "release_date": "2013-10-01"
+    },
+    {
+      "featuredArtist": "Getter",
+      "featuredArtistId": "3QryVD03gGZOLQQXjy3EoA",
+      "trackName": "Glock Burst",
+      "trackId": "3CVXzO2zMuNEBl0XBXX3Ce",
+      "preview": "https://p.scdn.co/mp3-preview/812c3770c57852d22dc0415b3fa5c8f001c8d0ea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/23d6982ecede78220150c37e6a3180a07b5bcd8c",
+      "release_date": "2013-10-01"
+    },
+    {
+      "featuredArtist": "Bais Haus",
+      "featuredArtistId": "5xxVV7AWY5fjlToTFKbIjp",
+      "trackName": "Closer to the Sun",
+      "trackId": "5NtNIQdc42T2T4ZpVE9eNS",
+      "preview": "https://p.scdn.co/mp3-preview/5677f38d6b2985f9ef200f1982845b565c43831c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/23d6982ecede78220150c37e6a3180a07b5bcd8c",
+      "release_date": "2013-10-01"
+    },
+    {
+      "featuredArtist": "Snak The Ripper",
+      "featuredArtistId": "2MG7NjBnZsaiKekJ0Q2z89",
+      "trackName": "Fully Blown (feat. Snak The Ripper)",
+      "trackId": "2Qj4DgkO6RxIAXpF4bEdQr",
+      "preview": "https://p.scdn.co/mp3-preview/467c0753c3617cda35c9794d8318e41e44cebeca?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d1a01ab462b2c20a3718cd4410d95bc59dd284b",
+      "release_date": "2012-04-10"
+    },
+    {
+      "featuredArtist": "Downlink",
+      "featuredArtistId": "6ynSq3csnauyqZeQgfuWWt",
+      "trackName": "Syndrome (feat. Downlink)",
+      "trackId": "5YUjvGtNSGn7tvdMwKuqZT",
+      "preview": "https://p.scdn.co/mp3-preview/1cb6bfeefadf374fecae2a68b9cad9bb6a36fab0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d1a01ab462b2c20a3718cd4410d95bc59dd284b",
+      "release_date": "2012-04-10"
+    },
+    {
+      "featuredArtist": "Infected Mushroom",
+      "featuredArtistId": "6S2tas4z6DyIklBajDqJxI",
+      "trackName": "Evilution (feat. Jonathan Davis)",
+      "trackId": "4e1HsvyKI6XCwKpc1n9dsh",
+      "preview": "https://p.scdn.co/mp3-preview/32fdaf02bf30cbd20b5336a68217b85f2d0414d4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d1a01ab462b2c20a3718cd4410d95bc59dd284b",
+      "release_date": "2012-04-10"
+    },
+    {
+      "featuredArtist": "Jonathan Davis",
+      "featuredArtistId": "1VW5tZ9pmSb2rG0GmSELwW",
+      "trackName": "Evilution (feat. Jonathan Davis)",
+      "trackId": "4e1HsvyKI6XCwKpc1n9dsh",
+      "preview": "https://p.scdn.co/mp3-preview/32fdaf02bf30cbd20b5336a68217b85f2d0414d4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d1a01ab462b2c20a3718cd4410d95bc59dd284b",
+      "release_date": "2012-04-10"
+    },
+    {
+      "featuredArtist": "Messinian",
+      "featuredArtistId": "79Np0PnytUJmeG5VRhop9u",
+      "trackName": "Napalm (feat. Messinian)",
+      "trackId": "4EfUxF63RcgeUzFkfypzAM",
+      "preview": "https://p.scdn.co/mp3-preview/e58c6bd1548643fc0665e7845959c7a32d956d7f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d1a01ab462b2c20a3718cd4410d95bc59dd284b",
+      "release_date": "2012-04-10"
+    },
+    {
+      "featuredArtist": "Z-Trip",
+      "featuredArtistId": "0YUefH6Li1IsJBtlUWgtwc",
+      "trackName": "Double Trouble (feat. Z-Trip)",
+      "trackId": "3VBVXHsLovTB8p7mdKtLfY",
+      "preview": "https://p.scdn.co/mp3-preview/a02a48801b9fd2f62444369c8768604cec59c2a7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d1a01ab462b2c20a3718cd4410d95bc59dd284b",
+      "release_date": "2012-04-10"
+    },
+    {
+      "featuredArtist": "Ganja White Night",
+      "featuredArtistId": "1a6oIpEh4DGgaqgWg5xwd3",
+      "trackName": "Bad Behavior (feat. T.Rabb)",
+      "trackId": "3lmJq0owtVfHZug93YLil8",
+      "preview": "https://p.scdn.co/mp3-preview/0234faf1b71169b27bba90e1d88105b8f6447066?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/21765863f23fcf2b79be87027431b1ab412c9e00",
+      "release_date": "2018-01-12"
+    },
+    {
+      "featuredArtist": "T.Rabb",
+      "featuredArtistId": "5y7JTGTYLrEVVs0GSygBWv",
+      "trackName": "Bad Behavior (feat. T.Rabb)",
+      "trackId": "3lmJq0owtVfHZug93YLil8",
+      "preview": "https://p.scdn.co/mp3-preview/0234faf1b71169b27bba90e1d88105b8f6447066?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/21765863f23fcf2b79be87027431b1ab412c9e00",
+      "release_date": "2018-01-12"
+    },
+    {
+      "featuredArtist": "Jphelpz",
+      "featuredArtistId": "6HQoKW0HOFSfkolUJIdWaB",
+      "trackName": "Ronin Riddim",
+      "trackId": "19OYebXEFi5j72sVgcPYt2",
+      "preview": "https://p.scdn.co/mp3-preview/9b9f57293dbf661ee109aa6c59230893aac5fd81?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/21765863f23fcf2b79be87027431b1ab412c9e00",
+      "release_date": "2018-01-12"
+    },
+    {
+      "featuredArtist": "Dion Timmer",
+      "featuredArtistId": "06VibSJEr3GLxLBBZhRums",
+      "trackName": "Find Me (feat. Excision & Dion Timmer)",
+      "trackId": "3jonrSfDYisR7r7pReY9VV",
+      "preview": "https://p.scdn.co/mp3-preview/cad26dcbdd96c097da501da257408348e877c776?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/21765863f23fcf2b79be87027431b1ab412c9e00",
+      "release_date": "2018-01-12"
+    },
+    {
+      "featuredArtist": "1000volts",
+      "featuredArtistId": "6MiWYUZOD7VJbJNSx8nUNW",
+      "trackName": "Monster",
+      "trackId": "0wWxo0UJlBcdV30z7ytM9q",
+      "preview": "https://p.scdn.co/mp3-preview/08cf676cd7cfdf562c67259ef6bb69a30628416a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/24ef771875ee4e7dd44e6b66ded9c56e1d3e895f",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Redman",
+      "featuredArtistId": "7xTKLpo7UCzXSnlH7fOIoM",
+      "trackName": "Monster",
+      "trackId": "0wWxo0UJlBcdV30z7ytM9q",
+      "preview": "https://p.scdn.co/mp3-preview/08cf676cd7cfdf562c67259ef6bb69a30628416a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/24ef771875ee4e7dd44e6b66ded9c56e1d3e895f",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Jayceeoh",
+      "featuredArtistId": "1tCaVerFstPJotxmXX6lFL",
+      "trackName": "Monster",
+      "trackId": "0wWxo0UJlBcdV30z7ytM9q",
+      "preview": "https://p.scdn.co/mp3-preview/08cf676cd7cfdf562c67259ef6bb69a30628416a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/24ef771875ee4e7dd44e6b66ded9c56e1d3e895f",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Badklaat",
+      "featuredArtistId": "4AgEF49juDBIfJUoPCPncc",
+      "trackName": "Monster - BadKlaat Remix",
+      "trackId": "0IVK9UjN45GIB1das67xDC",
+      "preview": "https://p.scdn.co/mp3-preview/9c7a5cfda4ab7d96a52f249aef29c33e159e48b9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/24ef771875ee4e7dd44e6b66ded9c56e1d3e895f",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Dubloadz",
+      "featuredArtistId": "4akLvvJyLbJxlbpSXHTLvT",
+      "trackName": "Monster - Dubloadz Remix",
+      "trackId": "4VNiF0724CMo9DAxRPLm9T",
+      "preview": "https://p.scdn.co/mp3-preview/6e115af248e0996f5dd63cef1493cb01bf180bd9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/24ef771875ee4e7dd44e6b66ded9c56e1d3e895f",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Trinidad James",
+      "featuredArtistId": "0I5HubncQ8E1MFZOlPDY4J",
+      "trackName": "Tantrum (feat. Trinidad James)",
+      "trackId": "61dedBJhAspPFhWoua8hax",
+      "preview": "https://p.scdn.co/mp3-preview/47d069c7207f102aa208c8085e034f9960fb06b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aeda424839f2e716fc111cd1f5ee5412988e41bf",
+      "release_date": "2016-03-25"
+    },
+    {
+      "featuredArtist": "Armanni Reign",
+      "featuredArtistId": "7eLk4SsrtZtCANV4X713uI",
+      "trackName": "Let 'em Know (feat. Armanni Reign)",
+      "trackId": "6NwJSK1w6kOPCWsd02G6Jj",
+      "preview": "https://p.scdn.co/mp3-preview/b127bf4a1917da3a84df4e2aabf694898761444c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aeda424839f2e716fc111cd1f5ee5412988e41bf",
+      "release_date": "2016-03-25"
+    },
+    {
+      "featuredArtist": "Soltan",
+      "featuredArtistId": "6wIbmO0mcpIyQ6CFXIJmIy",
+      "trackName": "No Mind",
+      "trackId": "1sU5PidgGqKRXg3Hif6Htp",
+      "preview": "https://p.scdn.co/mp3-preview/7c38fa3ddf575259200981269a7cf2196d7c9d6a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aeda424839f2e716fc111cd1f5ee5412988e41bf",
+      "release_date": "2016-03-25"
+    },
+    {
+      "featuredArtist": "Travis Barker",
+      "featuredArtistId": "4exLIFE8sISLr28sqG1qNX",
+      "trackName": "Darkstar (feat. Travis Barker & Liinks)",
+      "trackId": "3FJosqBwr5jSw4jaUJi58F",
+      "preview": "https://p.scdn.co/mp3-preview/423e4ca099453520db62b42e8f6b96c038a7dd10?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aeda424839f2e716fc111cd1f5ee5412988e41bf",
+      "release_date": "2016-03-25"
+    },
+    {
+      "featuredArtist": "Liinks",
+      "featuredArtistId": "3tTrvuZL6yAhHb1x2iWlBY",
+      "trackName": "Darkstar (feat. Travis Barker & Liinks)",
+      "trackId": "3FJosqBwr5jSw4jaUJi58F",
+      "preview": "https://p.scdn.co/mp3-preview/423e4ca099453520db62b42e8f6b96c038a7dd10?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aeda424839f2e716fc111cd1f5ee5412988e41bf",
+      "release_date": "2016-03-25"
+    },
+    {
+      "featuredArtist": "Snoop Dogg",
+      "featuredArtistId": "7hJcb9fa4alzcOq3EaNPoG",
+      "trackName": "Smoke Bomb",
+      "trackId": "0dtSrDWoIYZdPYY6CoIXYs",
+      "preview": "https://p.scdn.co/mp3-preview/149dfac05c17acbd09f32fa9dea21df73995a392?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/809bab9be0dc48cef302345e8117f846c6a9b00a",
+      "release_date": "2016-01-26"
+    },
+    {
+      "featuredArtist": "Barely Alive",
+      "featuredArtistId": "5c3akKV3CUqAVOnGZqf4S3",
+      "trackName": "The Blastaz",
+      "trackId": "7r8j9yAY25BPAzNc23A2xx",
+      "preview": "https://p.scdn.co/mp3-preview/c4e7b768dd283d1a1f43831eba4cd2e40efe7d5a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9cb62b3d7b26291edebe222d66da3eb1a886a91c",
+      "release_date": "2015-03-09"
+    },
+    {
+      "featuredArtist": "Bryx",
+      "featuredArtistId": "1dnB1vdNYX4omsJ79vFMZY",
+      "trackName": "Wickedest Wobble (feat. Bryx)",
+      "trackId": "1qALIaEmhZvjfnFvhKZBpo",
+      "preview": "https://p.scdn.co/mp3-preview/4ca46a767d6ebc5a4aa1c2f87ef4c9403744d965?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca673630e1c5c842702d8fbe8785b2dd859ac8f9",
+      "release_date": "2014-11-25"
+    },
+    {
+      "featuredArtist": "Mayor Apeshit",
+      "featuredArtistId": "006vxZB858jX6ETI6mfDFA",
+      "trackName": "Katana (feat. Mayor Apeshit)",
+      "trackId": "3IyICJJMcWKGsRN0F8FxEk",
+      "preview": "https://p.scdn.co/mp3-preview/607b3d54e9e9605342dbbbcbfb74adac745787ce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b4e0131978f88786034d9581d59ce93944f466db",
+      "release_date": "2014-11-25"
+    },
+    {
+      "featuredArtist": "DJ Paul",
+      "featuredArtistId": "2ledyuziz6YjLK5Dw483Oc",
+      "trackName": "Get Smashed (feat. DJ Paul K.O.M of Three 6 Mafia)",
+      "trackId": "4IQx5LlVrvuCkwCHifFLqT",
+      "preview": "https://p.scdn.co/mp3-preview/18c747be433efddcf17d4fd9fcb0be3d3376d5c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b4e0131978f88786034d9581d59ce93944f466db",
+      "release_date": "2014-11-25"
+    },
+    {
+      "featuredArtist": "DJ PAUL K.O.M OF THREE 6 MAFIA",
+      "featuredArtistId": "7CAuvFKQUMVyg7fkKUAUei",
+      "trackName": "Get Smashed (feat. DJ Paul K.O.M of Three 6 Mafia)",
+      "trackId": "4IQx5LlVrvuCkwCHifFLqT",
+      "preview": "https://p.scdn.co/mp3-preview/18c747be433efddcf17d4fd9fcb0be3d3376d5c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b4e0131978f88786034d9581d59ce93944f466db",
+      "release_date": "2014-11-25"
+    },
+    {
+      "featuredArtist": "KRS-One",
+      "featuredArtistId": "2gINJ8xw86xawPyGvx1bla",
+      "trackName": "No Requests (feat. KRS-One)",
+      "trackId": "47wWQiJ7x24lozA9Jp6nZc",
+      "preview": "https://p.scdn.co/mp3-preview/b11c730959a96fe8a5cd31c1ec3aeac059fbff6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b4e0131978f88786034d9581d59ce93944f466db",
+      "release_date": "2014-11-25"
+    },
+    {
+      "featuredArtist": "Walt Grizzly",
+      "featuredArtistId": "3uT1DW89GUwDmQCjecs80B",
+      "trackName": "Astronomical (feat. Walt Grizzly)",
+      "trackId": "1EsMJ9oV7YySW7vipuUlf8",
+      "preview": "https://p.scdn.co/mp3-preview/c5e507f4980987e0560dd31fec1d3c1e786a0dca?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b4e0131978f88786034d9581d59ce93944f466db",
+      "release_date": "2014-11-25"
+    },
+    {
+      "featuredArtist": "Twine",
+      "featuredArtistId": "2aY6BempYyL4jB9MJNQT9P",
+      "trackName": "When They Drop",
+      "trackId": "1wwiABHHfieofQwA08HWKN",
+      "preview": "https://p.scdn.co/mp3-preview/5a94b8a03717eae1be038a3a56f0ca0559112fb8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b4e0131978f88786034d9581d59ce93944f466db",
+      "release_date": "2014-11-25"
+    },
+    {
+      "featuredArtist": "Doctor P",
+      "featuredArtistId": "0tgjwsn1Lpjj8kKEvWm0KQ",
+      "trackName": "Hold It Down - Doctor P Remix",
+      "trackId": "4LslqO0PnBEikovcPed9h0",
+      "preview": "https://p.scdn.co/mp3-preview/490088410d64ce5beb0e8e31c42df3afdb7b1860?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b06626d06b4840007579daccd9fe48e7cb3c31c6",
+      "release_date": "2014-04-15"
+    },
+    {
+      "featuredArtist": "Joe Ford",
+      "featuredArtistId": "32rwroseSEZ7dEwooAUikF",
+      "trackName": "Hold It Down - Joe Ford Remix",
+      "trackId": "7oLgJF3eAz5u8OWM8hmGid",
+      "preview": "https://p.scdn.co/mp3-preview/0d23062b4460384792a1b6a87c4baa9ad9d7bd24?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b06626d06b4840007579daccd9fe48e7cb3c31c6",
+      "release_date": "2014-04-15"
+    },
+    {
+      "featuredArtist": "Luminox",
+      "featuredArtistId": "27aLRpdMcuwLCYDarq8rSK",
+      "trackName": "Hold It Down - Luminox Remix",
+      "trackId": "5htNfo72dSoqGEKb5A2Jab",
+      "preview": "https://p.scdn.co/mp3-preview/5c329110f638af7be302d52038376917a6b77608?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b06626d06b4840007579daccd9fe48e7cb3c31c6",
+      "release_date": "2014-04-15"
+    },
+    {
+      "featuredArtist": "MUST DIE!",
+      "featuredArtistId": "4aBx7mA6lUOVhEsjokZrXb",
+      "trackName": "Release Me - Must Die! Remix",
+      "trackId": "52EIFmuVviB8zc3oiTulit",
+      "preview": "https://p.scdn.co/mp3-preview/a3e9d14699127a63c8324e7277dc675f6dca748d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/351319882c1409dffe47e054527a8f109587db1f",
+      "release_date": "2013-05-21"
+    },
+    {
+      "featuredArtist": "Protohype",
+      "featuredArtistId": "7KG6QgP9Xb87ybAr9C24qw",
+      "trackName": "Release Me - Protohype Remix",
+      "trackId": "7crxi23IAMQedfuf6jRuOo",
+      "preview": "https://p.scdn.co/mp3-preview/a6b923d4e1b4d01231fd6cb0826b6804145a7e2f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/351319882c1409dffe47e054527a8f109587db1f",
+      "release_date": "2013-05-21"
+    },
+    {
+      "featuredArtist": "Barron",
+      "featuredArtistId": "1ZWZbiYjRc6oq2gm13vqky",
+      "trackName": "Release Me - Barron Remix",
+      "trackId": "6XVIn3xMchXfKP1axpZZPD",
+      "preview": "https://p.scdn.co/mp3-preview/95a7c8dbbcddbb3701e462f9b5a4db0b15ac8c7c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/351319882c1409dffe47e054527a8f109587db1f",
+      "release_date": "2013-05-21"
+    },
+    {
+      "featuredArtist": "Young Sin",
+      "featuredArtistId": "32n8jt0mraAeUYSsyoOUrW",
+      "trackName": "Machete",
+      "trackId": "2DtvuUckdqKncMkgH8EUag",
+      "preview": "https://p.scdn.co/mp3-preview/6ecec0cdbe4814eb2855c9a9cb353a89f275e640?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1f67587843e9a03ba74d92d9c953e0e886bb1e4c",
+      "release_date": "2013-01-22"
+    }
+  ]
+}

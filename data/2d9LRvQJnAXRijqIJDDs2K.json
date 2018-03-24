@@ -1,0 +1,500 @@
+{
+  "artistName": "Emicida",
+  "features": [
+    {
+      "featuredArtist": "Dona Jacira",
+      "featuredArtistId": "7LCbsnkvwdjpIIpXk4VW8U",
+      "trackName": "Mãe",
+      "trackId": "2DwGhr0spTcS7ihvazX5Qc",
+      "preview": "https://p.scdn.co/mp3-preview/2a870a2fc3b31b79493fe538f56694894d4c2bd2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0768bc4f5ebf596982e3e09d091921247b5418ea",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Anna Tréa",
+      "featuredArtistId": "0nffPOYWCX8Kx9mrxBkyUS",
+      "trackName": "Mãe",
+      "trackId": "2DwGhr0spTcS7ihvazX5Qc",
+      "preview": "https://p.scdn.co/mp3-preview/2a870a2fc3b31b79493fe538f56694894d4c2bd2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0768bc4f5ebf596982e3e09d091921247b5418ea",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Caetano Veloso",
+      "featuredArtistId": "7HGNYPmbDrMkylWqeFCOIQ",
+      "trackName": "Baiana",
+      "trackId": "0rWFKPPYTWW4Fdl4bqZCUz",
+      "preview": "https://p.scdn.co/mp3-preview/893199f0e168c307cfbfc6041fc99c8eba22ea7a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0768bc4f5ebf596982e3e09d091921247b5418ea",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Vanessa Da Mata",
+      "featuredArtistId": "57pVvBwa3ZCR9LsVlkLXj7",
+      "trackName": "Passarinhos",
+      "trackId": "0YO5tN0dyiMD1yAM4hijum",
+      "preview": "https://p.scdn.co/mp3-preview/c95663f8881974636c386cee34531adc81870fae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0768bc4f5ebf596982e3e09d091921247b5418ea",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Batucadeiras do Terrero dos Órgãos",
+      "featuredArtistId": "417b9fiXDGBeAwIyPbcz4G",
+      "trackName": "Chapa",
+      "trackId": "0Y9X0pApI8mFaTpet07qCZ",
+      "preview": "https://p.scdn.co/mp3-preview/eea53339759722101b5464b29b9ef06fffedaa9f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0768bc4f5ebf596982e3e09d091921247b5418ea",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "J. Ghetto",
+      "featuredArtistId": "6vcFsBBJc4qleLGg6JzT4z",
+      "trackName": "Boa Esperança",
+      "trackId": "4CpsWAiIyY3GcjxaWCsLun",
+      "preview": "https://p.scdn.co/mp3-preview/c81d389c0140417884ab4637f803af7181b18f8c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0768bc4f5ebf596982e3e09d091921247b5418ea",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Drik Barbosa",
+      "featuredArtistId": "1VJZvjGu80pBwk0qeJz8ZR",
+      "trackName": "Mandume",
+      "trackId": "0v4DEZVPkOtN4SaREXRdBx",
+      "preview": "https://p.scdn.co/mp3-preview/abe10a76863fa67c5729ee49281fa0cb24176e50?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0768bc4f5ebf596982e3e09d091921247b5418ea",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Amiri",
+      "featuredArtistId": "32P92G3BmOh9zOUeWTsE7p",
+      "trackName": "Mandume",
+      "trackId": "0v4DEZVPkOtN4SaREXRdBx",
+      "preview": "https://p.scdn.co/mp3-preview/abe10a76863fa67c5729ee49281fa0cb24176e50?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0768bc4f5ebf596982e3e09d091921247b5418ea",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Rico Dalasam",
+      "featuredArtistId": "5nbaj9RaJdFNlS5ZxoqN97",
+      "trackName": "Mandume",
+      "trackId": "0v4DEZVPkOtN4SaREXRdBx",
+      "preview": "https://p.scdn.co/mp3-preview/abe10a76863fa67c5729ee49281fa0cb24176e50?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0768bc4f5ebf596982e3e09d091921247b5418ea",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Muzzike",
+      "featuredArtistId": "2XTtA7Pvl5vucL3oFXlMyT",
+      "trackName": "Mandume",
+      "trackId": "0v4DEZVPkOtN4SaREXRdBx",
+      "preview": "https://p.scdn.co/mp3-preview/abe10a76863fa67c5729ee49281fa0cb24176e50?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0768bc4f5ebf596982e3e09d091921247b5418ea",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Raphão Alaafin",
+      "featuredArtistId": "1OKFuXrEWahihhc9VZ0iSy",
+      "trackName": "Mandume",
+      "trackId": "0v4DEZVPkOtN4SaREXRdBx",
+      "preview": "https://p.scdn.co/mp3-preview/abe10a76863fa67c5729ee49281fa0cb24176e50?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0768bc4f5ebf596982e3e09d091921247b5418ea",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Batucaderas do Terreiro dos Orgãos",
+      "featuredArtistId": "3bH9n1kYg9jtX6y71oq2gI",
+      "trackName": "Chapa",
+      "trackId": "1mhks7xIeHrl9Jhnmcjbm3",
+      "preview": "https://p.scdn.co/mp3-preview/f13708fa2278a9e0720bbc50ec9767bbe3613f17?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8ee823c0467011240c44909c1c67644a1a9bdbea",
+      "release_date": "2015-09-11"
+    },
+    {
+      "featuredArtist": "Marcelino Freire",
+      "featuredArtistId": "5lBqlQCxjZFh7l34DkVzOy",
+      "trackName": "Trabalhadores do Brasil",
+      "trackId": "7w48F4uktgLVr6hwxc3gkW",
+      "preview": "https://p.scdn.co/mp3-preview/37943c325ff6c3aaaf3ed3e6d3c49d0e4b905859?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8ee823c0467011240c44909c1c67644a1a9bdbea",
+      "release_date": "2015-09-11"
+    },
+    {
+      "featuredArtist": "Martinho Da Vila",
+      "featuredArtistId": "6rM2yY0GnVcOHMU5GD3y9E",
+      "trackName": "Oi Compadre - Ao Vivo",
+      "trackId": "2Fh70KjMy77YO3V3NO4FIo",
+      "preview": "https://p.scdn.co/mp3-preview/48e9ff0d3b3c7ba1d45a3d0052b2eefe00bcd042?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/914b25ecc78e24b6fd74a518a302cfa165d81d19",
+      "release_date": "2014-05-20"
+    },
+    {
+      "featuredArtist": "Cidade Negra",
+      "featuredArtistId": "4cx31cxKTg5L8blZE24qfZ",
+      "trackName": "Oi Compadre - Ao Vivo",
+      "trackId": "2Fh70KjMy77YO3V3NO4FIo",
+      "preview": "https://p.scdn.co/mp3-preview/48e9ff0d3b3c7ba1d45a3d0052b2eefe00bcd042?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/914b25ecc78e24b6fd74a518a302cfa165d81d19",
+      "release_date": "2014-05-20"
+    },
+    {
+      "featuredArtist": "Elisa Lucinda",
+      "featuredArtistId": "6itwAOOfY2r3VkS1Sz2KbT",
+      "trackName": "Milionário do Sonho",
+      "trackId": "68dNlrviwRwTrKWDnyVqda",
+      "preview": "https://p.scdn.co/mp3-preview/f9027e6a11ae70b87ee596da3a37b09c9231e94e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13369601e573808c8f7861a037373c8f990c5e1d",
+      "release_date": "2014-01-25"
+    },
+    {
+      "featuredArtist": "Rael",
+      "featuredArtistId": "0GWNKI3VPEcJsOIEhUjmxd",
+      "trackName": "Levanta e Anda",
+      "trackId": "3BBWqSpbGdF2TLH05XJhSZ",
+      "preview": "https://p.scdn.co/mp3-preview/e37c37d8929403760ab024f67e559c7620cfc766?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13369601e573808c8f7861a037373c8f990c5e1d",
+      "release_date": "2014-01-25"
+    },
+    {
+      "featuredArtist": "Estela Vergílio",
+      "featuredArtistId": "0JMarn23ZxviVEdOG2To5q",
+      "trackName": "Sol de Giz de Cera",
+      "trackId": "6FKBRKbr7pU9sanQLsqCBp",
+      "preview": "https://p.scdn.co/mp3-preview/fde4c664590ff6dd7934a8e5d2fcb440c15cfea5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13369601e573808c8f7861a037373c8f990c5e1d",
+      "release_date": "2014-01-25"
+    },
+    {
+      "featuredArtist": "Tulipa Ruiz",
+      "featuredArtistId": "6OokCpvxnYv43WcFqejMLb",
+      "trackName": "Sol de Giz de Cera",
+      "trackId": "6FKBRKbr7pU9sanQLsqCBp",
+      "preview": "https://p.scdn.co/mp3-preview/fde4c664590ff6dd7934a8e5d2fcb440c15cfea5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13369601e573808c8f7861a037373c8f990c5e1d",
+      "release_date": "2014-01-25"
+    },
+    {
+      "featuredArtist": "Pitty",
+      "featuredArtistId": "5DwlAjhdtRsak1TdOaB4nS",
+      "trackName": "Hoje Cedo",
+      "trackId": "7GaL1LJRl0yopHVVpP9A4q",
+      "preview": "https://p.scdn.co/mp3-preview/9142eb6dca010fcd98215e828332d383fa51f138?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13369601e573808c8f7861a037373c8f990c5e1d",
+      "release_date": "2014-01-25"
+    },
+    {
+      "featuredArtist": "Wilson Das Neves",
+      "featuredArtistId": "0dDz30ZxGRurnghF0Q6Oxn",
+      "trackName": "Trepadeira",
+      "trackId": "4pvcJGQDEQlCLZVGMtHZ41",
+      "preview": "https://p.scdn.co/mp3-preview/8cc66027af8537e0e817ed29cb9e85cd367de693?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13369601e573808c8f7861a037373c8f990c5e1d",
+      "release_date": "2014-01-25"
+    },
+    {
+      "featuredArtist": "Adriana Drê",
+      "featuredArtistId": "0PxFLZzbt8WUaE6WIaa4IW",
+      "trackName": "Bang!",
+      "trackId": "5IFDfQ7UZESBM6OSkvrQpf",
+      "preview": "https://p.scdn.co/mp3-preview/9e3a844af12e75a9cc052afc4806419462310aa5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13369601e573808c8f7861a037373c8f990c5e1d",
+      "release_date": "2014-01-25"
+    },
+    {
+      "featuredArtist": "Mc Guime",
+      "featuredArtistId": "3ge4xOaKvWfhRwgx0Rldov",
+      "trackName": "Gueto",
+      "trackId": "6cYISTrRPCMk8OUkJ6IKNo",
+      "preview": "https://p.scdn.co/mp3-preview/95e508225e1da8461c10927441f0b2314df8b29e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13369601e573808c8f7861a037373c8f990c5e1d",
+      "release_date": "2014-01-25"
+    },
+    {
+      "featuredArtist": "Leo Justi",
+      "featuredArtistId": "1puzPcrOHKTMQ6KTuYfqU0",
+      "trackName": "Gueto",
+      "trackId": "6cYISTrRPCMk8OUkJ6IKNo",
+      "preview": "https://p.scdn.co/mp3-preview/95e508225e1da8461c10927441f0b2314df8b29e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13369601e573808c8f7861a037373c8f990c5e1d",
+      "release_date": "2014-01-25"
+    },
+    {
+      "featuredArtist": "Quinteto em Branco e Preto",
+      "featuredArtistId": "33WgWL5KOK7WGrHNawwuf3",
+      "trackName": "Hino Vira-lata",
+      "trackId": "1hPGs5gyh6kLfcjUhdDlwg",
+      "preview": "https://p.scdn.co/mp3-preview/b71269dcda52ba1840022c4191fd2e792ca58854?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13369601e573808c8f7861a037373c8f990c5e1d",
+      "release_date": "2014-01-25"
+    },
+    {
+      "featuredArtist": "Rafa Kabelo",
+      "featuredArtistId": "6cupOd2OwF1v3l1Lrt1PPc",
+      "trackName": "Alma Gêmea",
+      "trackId": "08oKdYVEnfZYMp658masRw",
+      "preview": "https://p.scdn.co/mp3-preview/b20ab3ef8ddc08d1bc33449ff3ebf7ba03b6e6fb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13369601e573808c8f7861a037373c8f990c5e1d",
+      "release_date": "2014-01-25"
+    },
+    {
+      "featuredArtist": "Fabiana Cozza",
+      "featuredArtistId": "4LRB7RihmGCUE9TYFH6151",
+      "trackName": "Samba do Fim do Mundo",
+      "trackId": "78qE5ilXApKH7runGc34G0",
+      "preview": "https://p.scdn.co/mp3-preview/5ee027532901edbe13baf74f0b0240ac2677932d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13369601e573808c8f7861a037373c8f990c5e1d",
+      "release_date": "2014-01-25"
+    },
+    {
+      "featuredArtist": "Juçara Marçal",
+      "featuredArtistId": "74PBfm6hR8w1StnVKSac3i",
+      "trackName": "Samba do Fim do Mundo",
+      "trackId": "78qE5ilXApKH7runGc34G0",
+      "preview": "https://p.scdn.co/mp3-preview/5ee027532901edbe13baf74f0b0240ac2677932d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13369601e573808c8f7861a037373c8f990c5e1d",
+      "release_date": "2014-01-25"
+    },
+    {
+      "featuredArtist": "Martinho da Vida",
+      "featuredArtistId": "12lcSiTv0vTtSIWsS0b5VR",
+      "trackName": "Quero Ver Quarta-Feira - Ao Vivo",
+      "trackId": "1QcodsyoLPPaRKk9CP8KFZ",
+      "preview": "https://p.scdn.co/mp3-preview/124e177f1065f2ead25eccb9e48d975f84c732df?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/584371095ff93ab13c97f0bb5cab64b967bf8724",
+      "release_date": "2013-08-07"
+    },
+    {
+      "featuredArtist": "Criolo",
+      "featuredArtistId": "37ZflmHTdxkSLQuT8w9NBs",
+      "trackName": "Zica Vai Lá - Live",
+      "trackId": "6F4zAdEznwkmn8MHJtcjtT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/14cee96e3df7a8463aef9748591c561c3143a37a",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Evandro Fióti",
+      "featuredArtistId": "0mXdPvdqQete31NQDPBlT4",
+      "trackName": "Só Mais Uma Noite - Live",
+      "trackId": "4dr8LN0s4WhnLLTzfsZkj5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/14cee96e3df7a8463aef9748591c561c3143a37a",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Rodrigo Campos",
+      "featuredArtistId": "08VlguMfAFdEAJb15OWAeJ",
+      "trackName": "Linha De Frente - Live",
+      "trackId": "6KzAGApzyPBttDCH9rKUNv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/14cee96e3df7a8463aef9748591c561c3143a37a",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Mano Brown",
+      "featuredArtistId": "0fMjaafeNhHPA6mJ5ZglAJ",
+      "trackName": "Capítulo 4, Versículo 3 - Live",
+      "trackId": "0ITzKSRykU81569IrYUhVC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/14cee96e3df7a8463aef9748591c561c3143a37a",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Dona Jacira",
+      "featuredArtistId": "5qiBrPROw2IWolMIjPf2ax",
+      "trackName": "Crisântemo",
+      "trackId": "6ttr8uK3KcGCnTghOm3hwN",
+      "preview": "https://p.scdn.co/mp3-preview/881963600c9331675e2a96e733b2757751a53c21?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/226d75357944551f1d4c991aa1a1a5fbd417712b",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Estela Vergílio",
+      "featuredArtistId": "2Yo86np78XwT8Y6ug7Dg1p",
+      "trackName": "Sol de Giz de Cera",
+      "trackId": "7LsxnS3jwRa0EB7Gq78lkf",
+      "preview": "https://p.scdn.co/mp3-preview/63876aa4ded1cf33a4d6791219859de2c353d859?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/226d75357944551f1d4c991aa1a1a5fbd417712b",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Pitty",
+      "featuredArtistId": "2dmQ0vMD3THLMcz7DsvfaT",
+      "trackName": "Hoje Cedo",
+      "trackId": "2C9LPYpH9YUgROQDHfRXrU",
+      "preview": "https://p.scdn.co/mp3-preview/7090dae5f7c87f5e2d463acdbf8a2c3fcd783250?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/226d75357944551f1d4c991aa1a1a5fbd417712b",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Adriana Drê",
+      "featuredArtistId": "6u28ts1PMD1tgk1srIobnX",
+      "trackName": "Bang!",
+      "trackId": "08ruTdy0c38Lr44UgJNwAi",
+      "preview": "https://p.scdn.co/mp3-preview/28f4e206e66a32bada57d621172fb08b554fb293?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/226d75357944551f1d4c991aa1a1a5fbd417712b",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Mc Guime",
+      "featuredArtistId": "2yMMz4O5FR5YDYIRdJ9n0q",
+      "trackName": "Gueto",
+      "trackId": "3w3n1qclgTVw38IJoov6xO",
+      "preview": "https://p.scdn.co/mp3-preview/dbd3e15a42249a2638cfb4eef764646604dfbf0a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/226d75357944551f1d4c991aa1a1a5fbd417712b",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Leo Justi",
+      "featuredArtistId": "0m935jw0QsoKdhg5gPxX0g",
+      "trackName": "Gueto",
+      "trackId": "3w3n1qclgTVw38IJoov6xO",
+      "preview": "https://p.scdn.co/mp3-preview/dbd3e15a42249a2638cfb4eef764646604dfbf0a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/226d75357944551f1d4c991aa1a1a5fbd417712b",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Rafa Kabelo",
+      "featuredArtistId": "1f45kEQGljLiTKsb3hX5Dj",
+      "trackName": "Alma Gêmea",
+      "trackId": "4XlMzWC8jUKd6nTXcQmWF8",
+      "preview": "https://p.scdn.co/mp3-preview/9699c40d47e65c2bc092f88ae3bd9014acb4d344?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/226d75357944551f1d4c991aa1a1a5fbd417712b",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Beatnick",
+      "featuredArtistId": "1wvKPzgThaFccAELYVQzKI",
+      "trackName": "Intro (Shiiiiu!)",
+      "trackId": "60kKsvUbaau0c5uVxc4c3u",
+      "preview": "https://p.scdn.co/mp3-preview/88159ef0eca8836041ba259961d3b62a5f532b8d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9e8605669dd316573f033c9b100d89702661376a",
+      "release_date": "2011-12-20"
+    },
+    {
+      "featuredArtist": "K-Salaam",
+      "featuredArtistId": "7eDtRejmiXPmd5LeRZeuM6",
+      "trackName": "Intro (Shiiiiu!)",
+      "trackId": "60kKsvUbaau0c5uVxc4c3u",
+      "preview": "https://p.scdn.co/mp3-preview/88159ef0eca8836041ba259961d3b62a5f532b8d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9e8605669dd316573f033c9b100d89702661376a",
+      "release_date": "2011-12-20"
+    },
+    {
+      "featuredArtist": "Fióti",
+      "featuredArtistId": "2M89xAvGk4XHPq4C2tkISM",
+      "trackName": "Zica, Vai Lá...",
+      "trackId": "0qJR1a1RZzytdaZkOvIhgy",
+      "preview": "https://p.scdn.co/mp3-preview/e0e3beae272c4ee7009e520766a183a456a35397?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9e8605669dd316573f033c9b100d89702661376a",
+      "release_date": "2011-12-20"
+    },
+    {
+      "featuredArtist": "Mv Bill",
+      "featuredArtistId": "4oE4ASN8auDhoW9vsXp3VJ",
+      "trackName": "Pequenas Empresas",
+      "trackId": "5KEHBly4M86ATGAie8FnH5",
+      "preview": "https://p.scdn.co/mp3-preview/3ebef12278669cca21a9f744c0f134b32b987ffd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9e8605669dd316573f033c9b100d89702661376a",
+      "release_date": "2011-12-20"
+    },
+    {
+      "featuredArtist": "Don Pixote",
+      "featuredArtistId": "4SihecP0Ar3ekh29FLZ4w1",
+      "trackName": "Pequenas Empresas",
+      "trackId": "5KEHBly4M86ATGAie8FnH5",
+      "preview": "https://p.scdn.co/mp3-preview/3ebef12278669cca21a9f744c0f134b32b987ffd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9e8605669dd316573f033c9b100d89702661376a",
+      "release_date": "2011-12-20"
+    },
+    {
+      "featuredArtist": "Paola",
+      "featuredArtistId": "5BTindkTUHsxMgs8FK1Rrq",
+      "trackName": "Canção para Meus Amigos Mortos",
+      "trackId": "4P2lxxOqpLloDsIcxOCLo6",
+      "preview": "https://p.scdn.co/mp3-preview/a53a4205eabfbdcc58164468acf70bcea03b5313?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9e8605669dd316573f033c9b100d89702661376a",
+      "release_date": "2011-12-20"
+    },
+    {
+      "featuredArtist": "Paola",
+      "featuredArtistId": "7m0YMvg7P6lnhSa2Ttu5TF",
+      "trackName": "Canção pros meus amigos mortos",
+      "trackId": "2r25cyb7U3wDoxb79g31ti",
+      "preview": "https://p.scdn.co/mp3-preview/a53a4205eabfbdcc58164468acf70bcea03b5313?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b306bef81f2c7a68392dc070e31eacb0a73dc5b3",
+      "release_date": "2011-12-20"
+    },
+    {
+      "featuredArtist": "Kaion",
+      "featuredArtistId": "3tyZuJ5fqNOUxWpsxLvoIP",
+      "trackName": "E Agora?",
+      "trackId": "44wKmxd8LYGFnd1qHvnJZa",
+      "preview": "https://p.scdn.co/mp3-preview/4ca9580ac8a650e538cf409674baf501edcf0f9a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba7753b9d104bcfa482be34cc33f0937c0afd40d",
+      "release_date": "2010-09-15"
+    },
+    {
+      "featuredArtist": "Xênia França",
+      "featuredArtistId": "1v0rEJk9ZuCrCQDvCXbO3D",
+      "trackName": "Isso Não Pode Se Perder",
+      "trackId": "5rhKZ9kTujDSi9JKe5d1B7",
+      "preview": "https://p.scdn.co/mp3-preview/083e6729f14a9e53b3a8478a6a27621ab11aef87?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba7753b9d104bcfa482be34cc33f0937c0afd40d",
+      "release_date": "2010-09-15"
+    },
+    {
+      "featuredArtist": "Curumim",
+      "featuredArtistId": "44E9gMNjoNj3jmSm3Z8GPR",
+      "trackName": "Santo Amaro da Purificação",
+      "trackId": "0pfJc2Y5KhSPW7PLXiZmrr",
+      "preview": "https://p.scdn.co/mp3-preview/a30f6b4bfe25ea2a28360436574cb858ed5c9d12?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba7753b9d104bcfa482be34cc33f0937c0afd40d",
+      "release_date": "2010-09-15"
+    },
+    {
+      "featuredArtist": "Cohen",
+      "featuredArtistId": "6YANUKWAHOVnWhG0wnvm2M",
+      "trackName": "Eu Gosto Dela",
+      "trackId": "4Y4bDyNVyBmqMcER7GglXT",
+      "preview": "https://p.scdn.co/mp3-preview/2466a81a594d06cd3830acd61febf266b1274774?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba7753b9d104bcfa482be34cc33f0937c0afd40d",
+      "release_date": "2010-09-15"
+    },
+    {
+      "featuredArtist": "Zegon (N.A.S.A.)",
+      "featuredArtistId": "2JnCRkQqnPe0Mzjnca9T6x",
+      "trackName": "É Só Mais uma Noite",
+      "trackId": "3uVQJETMgqfKNrHb0n1BIA",
+      "preview": "https://p.scdn.co/mp3-preview/2e0147deee0cceac0da5f754dd4efcc97f28fa26?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba7753b9d104bcfa482be34cc33f0937c0afd40d",
+      "release_date": "2010-09-15"
+    },
+    {
+      "featuredArtist": "Xenia",
+      "featuredArtistId": "4Qmj2jnbzioc6inX5Y6LtD",
+      "trackName": "Isso não pode se perder",
+      "trackId": "1H7TpqKAav3wWZeDPKtajx",
+      "preview": "https://p.scdn.co/mp3-preview/083e6729f14a9e53b3a8478a6a27621ab11aef87?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/120a8fde0289afffc6e384ca1ef6710aa3e52300",
+      "release_date": "2010-09-15"
+    },
+    {
+      "featuredArtist": "Nave",
+      "featuredArtistId": "4daPNabvOSzKA0Ilp6teHU",
+      "trackName": "Intro (É Necessário Voltar ao Começo)",
+      "trackId": "0exCqJxlzth6qSoDu3LAJZ",
+      "preview": "https://p.scdn.co/mp3-preview/30774fae12646cfcc29369fe8bf2cbac7b66d465?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/139815c6ce6bfb5a84a8407c56edb260a4097bb4",
+      "release_date": "2009-05-01"
+    },
+    {
+      "featuredArtist": "Mariana Timbó",
+      "featuredArtistId": "3wIxP0x4aWZmkWpD6m1QLd",
+      "trackName": "Pra Não Ter Tempo Ruim",
+      "trackId": "5GtHcOYlBQoxVUkbcwOlRE",
+      "preview": "https://p.scdn.co/mp3-preview/6255b4a023d06423244f4d49960b5e6c8f7f4c51?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/139815c6ce6bfb5a84a8407c56edb260a4097bb4",
+      "release_date": "2009-05-01"
+    }
+  ]
+}

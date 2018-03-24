@@ -1,0 +1,266 @@
+{
+  "artistName": "Fabolous",
+  "features": [
+    {
+      "featuredArtist": "Jadakiss",
+      "featuredArtistId": "5pnbUBPifNnlusY8kTBivi",
+      "trackName": "F vs J Intro",
+      "trackId": "32NuxpDVL7uwvr2omo5G9J",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/20bd0e8a8843ff5cf6d73077d71515ea38784306",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Future",
+      "featuredArtistId": "1RyvyyTE3xzB2ZywiAwp0i",
+      "trackName": "Stand Up",
+      "trackId": "29Ji3FhJkfqlSVbj9ebGxI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/20bd0e8a8843ff5cf6d73077d71515ea38784306",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Swizz Beatz",
+      "featuredArtistId": "2cADQgiLMjNhbsfeN52Bf3",
+      "trackName": "Theme Music",
+      "trackId": "1ffKnBrhzeWJcU3AXuxXS4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/20bd0e8a8843ff5cf6d73077d71515ea38784306",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Teyana Taylor",
+      "featuredArtistId": "4ULO7IGI3M2bo0Ap7B9h8a",
+      "trackName": "Talk About It",
+      "trackId": "3THmPNSpsiDWeS5TWJZj8s",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/20bd0e8a8843ff5cf6d73077d71515ea38784306",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "French Montana",
+      "featuredArtistId": "6vXTefBL93Dj5IqAWq6OTv",
+      "trackName": "All About It",
+      "trackId": "4y08GlEuK1YHr2GgiWGnkY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/20bd0e8a8843ff5cf6d73077d71515ea38784306",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Yo Gotti",
+      "featuredArtistId": "6Ha4aES39QiVjR0L2lwuwq",
+      "trackName": "Stand Up - Remix",
+      "trackId": "5JIvaRMoa1Jve1yFpOqwvm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/20bd0e8a8843ff5cf6d73077d71515ea38784306",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Jeezy",
+      "featuredArtistId": "4yBK75WVCQXej1p04GWqxH",
+      "trackName": "Stand Up - Remix",
+      "trackId": "5JIvaRMoa1Jve1yFpOqwvm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/20bd0e8a8843ff5cf6d73077d71515ea38784306",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Future",
+      "featuredArtistId": "6TiNbcfVoO3SppeLYJbnSr",
+      "trackName": "Stand Up",
+      "trackId": "3IpWqZuONfZm0nBMYJMklk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4b32c4b43449ddfdf4c255a6edbf5d85d5e2a9ce",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Rich Homie Quan",
+      "featuredArtistId": "5lHRUCqkQZCIWeX7xG4sYT",
+      "trackName": "We Good",
+      "trackId": "7hCqSTDuv7oIR4bzmB8lO7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4597309bfb60c88fe0a7c6bccc767ffb05436269",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Tish Hyman",
+      "featuredArtistId": "6WzffCtFJ1iDsAwEV35h6K",
+      "trackName": "You Made Me",
+      "trackId": "5NAYDUJ4fKGAvyqUOqUhyi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4597309bfb60c88fe0a7c6bccc767ffb05436269",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Chris Brown",
+      "featuredArtistId": "7bXgB6jMjp9ATFy66eO08Z",
+      "trackName": "She Wildin'",
+      "trackId": "0WjwBzkodEEg7m7Jp8QvaD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4597309bfb60c88fe0a7c6bccc767ffb05436269",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Velous",
+      "featuredArtistId": "5wSwUKypCXZ3fhJL0ulHdg",
+      "trackName": "Gone For The Winter",
+      "trackId": "7aSWu9WkmX117xEPNSwMbx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4597309bfb60c88fe0a7c6bccc767ffb05436269",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Kevin Hart",
+      "featuredArtistId": "3rHl3rSgCnHhOlVB87ZxyF",
+      "trackName": "Cinnamon Apple",
+      "trackId": "7LSN9DAkiYTUaVCkRu9g1O",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4597309bfb60c88fe0a7c6bccc767ffb05436269",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Abir Haronni",
+      "featuredArtistId": "1OGUBikqZxVqWpVnwB2IbC",
+      "trackName": "Young OG II",
+      "trackId": "64pEwTnqe8s6EPBqwRlwX6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4597309bfb60c88fe0a7c6bccc767ffb05436269",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Cam’ron",
+      "featuredArtistId": "7iMvwE8qANp3aIfAGKEAwS",
+      "trackName": "Body Bag Remix",
+      "trackId": "1scpslgYhiobtj5z5iaukV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/23964e027198ec75271ee2228ee8d7adb9eec8b8",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Vado",
+      "featuredArtistId": "4ubKsFJjMgWkARG6w2Qlv8",
+      "trackName": "Body Bag Remix",
+      "trackId": "1scpslgYhiobtj5z5iaukV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/23964e027198ec75271ee2228ee8d7adb9eec8b8",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Red Cafe",
+      "featuredArtistId": "4BWn7qje7L2bGp79bupn3B",
+      "trackName": "Tonight",
+      "trackId": "0NghGrfBnHjksDbWv7fnSn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/23964e027198ec75271ee2228ee8d7adb9eec8b8",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Jeremih",
+      "featuredArtistId": "3KV3p5EY4AvKxOlhGHORLg",
+      "trackName": "My Time",
+      "trackId": "6VD2YPeb1P3BCP5q0lZHrs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/88385c6784ac11edbb417d4cfbda86fb2dfa4783",
+      "release_date": "2009-07-28"
+    },
+    {
+      "featuredArtist": "Kobe",
+      "featuredArtistId": "1XNFcPvkDxMDRFnLz0vjZk",
+      "trackName": "Imma Do It",
+      "trackId": "5dxUXnTHpRX8YB4PVIMlNe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/88385c6784ac11edbb417d4cfbda86fb2dfa4783",
+      "release_date": "2009-07-28"
+    },
+    {
+      "featuredArtist": "Keri Hilson",
+      "featuredArtistId": "63wjoROpeh5f11Qm93UiJ1",
+      "trackName": "Everything, Everyday, Everywhere",
+      "trackId": "6O21dvfPoUMz2W5KE0vPIA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/88385c6784ac11edbb417d4cfbda86fb2dfa4783",
+      "release_date": "2009-07-28"
+    },
+    {
+      "featuredArtist": "The-Dream",
+      "featuredArtistId": "1W3FSF1BLpY3hlVIgvenLz",
+      "trackName": "Throw It In The Bag",
+      "trackId": "6c0GmyBsE7mQtrVvxJaWc3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/88385c6784ac11edbb417d4cfbda86fb2dfa4783",
+      "release_date": "2009-07-28"
+    },
+    {
+      "featuredArtist": "JAY Z",
+      "featuredArtistId": "3nFkdlSjzX9mRTtwJOzDYB",
+      "trackName": "Money Goes, Honey Stay (When The Money Goes Remix)",
+      "trackId": "0TudxdV1jdiqMCnosB8cIG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/88385c6784ac11edbb417d4cfbda86fb2dfa4783",
+      "release_date": "2009-07-28"
+    },
+    {
+      "featuredArtist": "Lil Wayne",
+      "featuredArtistId": "55Aa2cqylxrFIXC767Z865",
+      "trackName": "Salute",
+      "trackId": "0UQEWi4jXBGmvnyctFNAAV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/88385c6784ac11edbb417d4cfbda86fb2dfa4783",
+      "release_date": "2009-07-28"
+    },
+    {
+      "featuredArtist": "Paul Cain",
+      "featuredArtistId": "6IKfyH1tuaSOaRoBnVFlAE",
+      "trackName": "There He Go",
+      "trackId": "06zkXGcEflwwKi21H4EK2f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/88385c6784ac11edbb417d4cfbda86fb2dfa4783",
+      "release_date": "2009-07-28"
+    },
+    {
+      "featuredArtist": "Freck Billionaire",
+      "featuredArtistId": "4X8YN0pptHtDozeFcP6YG7",
+      "trackName": "There He Go",
+      "trackId": "06zkXGcEflwwKi21H4EK2f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/88385c6784ac11edbb417d4cfbda86fb2dfa4783",
+      "release_date": "2009-07-28"
+    },
+    {
+      "featuredArtist": "Ryan Leslie",
+      "featuredArtistId": "3aTMDZLtkFlYQfQL7bzccp",
+      "trackName": "The Fabolous Life",
+      "trackId": "04kvMnJ6zo72bSnZDWyE7m",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/88385c6784ac11edbb417d4cfbda86fb2dfa4783",
+      "release_date": "2009-07-28"
+    },
+    {
+      "featuredArtist": "Ne-Yo",
+      "featuredArtistId": "21E3waRsmPlU7jZsS13rcj",
+      "trackName": "Makin Love",
+      "trackId": "3ykIig4Y7J8KtmPR3555L9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/88385c6784ac11edbb417d4cfbda86fb2dfa4783",
+      "release_date": "2009-07-28"
+    },
+    {
+      "featuredArtist": "Trey Songz",
+      "featuredArtistId": "2iojnBLj0qIMiKPvVhLnsH",
+      "trackName": "Last Time",
+      "trackId": "772JQiETB02ExNkFVtwl8T",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/88385c6784ac11edbb417d4cfbda86fb2dfa4783",
+      "release_date": "2009-07-28"
+    },
+    {
+      "featuredArtist": "Marsha Ambrosius",
+      "featuredArtistId": "46VWDbmWmzvPBTmkSr25gM",
+      "trackName": "Stay",
+      "trackId": "5sYwn2Qzq4SoSU4n4jx2OO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/88385c6784ac11edbb417d4cfbda86fb2dfa4783",
+      "release_date": "2009-07-28"
+    }
+  ]
+}

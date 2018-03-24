@@ -1,0 +1,77 @@
+{
+  "artistName": "Elvis Presley",
+  "features": [
+    {
+      "featuredArtist": "Royal Philharmonic Orchestra",
+      "featuredArtistId": "0MvSBMGRQJY3mRwIbJsqF1",
+      "trackName": "Santa Claus Is Back In Town",
+      "trackId": "1uyqLKq8623aSB1nEdIQXz",
+      "preview": "https://p.scdn.co/mp3-preview/5f74c0b212bcc7687532068b12d189ff95f6d657?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86acd6cf56063cfea6d45c7c71e57d0104da69f2",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Helene Fischer",
+      "featuredArtistId": "7MzHPIXAqIOCnvK0sVY72W",
+      "trackName": "Just Pretend",
+      "trackId": "7AzxLAOmihjCrr9RTpC7l7",
+      "preview": "https://p.scdn.co/mp3-preview/b55757ca2be85aaf5cb3e91b1f819a82f6b72df8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/979b3688a09ce5c9f40d9bc2cc2a757205226519",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "The Jordanaires",
+      "featuredArtistId": "6CXezToiGS8K6jr9kr8Muv",
+      "trackName": "King Creole",
+      "trackId": "6M9AoYBTKjHSv5u1TahCOT",
+      "preview": "https://p.scdn.co/mp3-preview/a2db9cec62fab8c44aa9ebed7fcdda196fb18c12?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e411b356b27ef7ccec6dc052c6419d0afeb446aa",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "JXL",
+      "featuredArtistId": "6EkPaTMpQmLwR7CgYiKHha",
+      "trackName": "A Little Less Conversation - JXL Radio Edit Remix",
+      "trackId": "0m7xvX7nhPZ9DOZipTUedd",
+      "preview": "https://p.scdn.co/mp3-preview/db974910604d133fe6155c3c97fb515877eaa367?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e411b356b27ef7ccec6dc052c6419d0afeb446aa",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Michael Bublé",
+      "featuredArtistId": "1GxkXlMwML1oSg5eLPiAz3",
+      "trackName": "Fever",
+      "trackId": "1jr4sTzhvO3qmVMnYGymBF",
+      "preview": "https://p.scdn.co/mp3-preview/5313579bd95d4e1e80f016714d97d40f6dc1582f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/38574793b4f465e08ee1217184dee4fad2d678cf",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "J.D. Sumner",
+      "featuredArtistId": "6krxSQGvGldXRaoFYNCYpK",
+      "trackName": "Burning Love (Viva Elvis)",
+      "trackId": "0Dcfko0c72bzZo7UC8xUUB",
+      "preview": "https://p.scdn.co/mp3-preview/6acbef07778af053ff64a6294b5253191051ed84?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d696177691173d480bcabe21660e0a7aca86b9ee",
+      "release_date": "2010-11-05"
+    },
+    {
+      "featuredArtist": "The Stamps",
+      "featuredArtistId": "5YIOmoWDeGBepGGfERdQao",
+      "trackName": "Burning Love (Viva Elvis)",
+      "trackId": "0Dcfko0c72bzZo7UC8xUUB",
+      "preview": "https://p.scdn.co/mp3-preview/6acbef07778af053ff64a6294b5253191051ed84?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d696177691173d480bcabe21660e0a7aca86b9ee",
+      "release_date": "2010-11-05"
+    },
+    {
+      "featuredArtist": "Dennis Ferrante",
+      "featuredArtistId": "50yvW55aA7jyMetSRnmH6y",
+      "trackName": "Baby, What You Want Me To Do (First 'Stand-Up' Show) - Live",
+      "trackId": "5370n05yaN4Zdoev4BhtWd",
+      "preview": "https://p.scdn.co/mp3-preview/3f427255340a822199af2646671e7c25ebba8bfc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13051d9bb68df90abeb8cd3ddd6802fe795decad",
+      "release_date": "2008-08-05"
+    }
+  ]
+}

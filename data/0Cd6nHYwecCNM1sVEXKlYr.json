@@ -1,0 +1,365 @@
+{
+  "artistName": "Krewella",
+  "features": [
+    {
+      "featuredArtist": "Diskord",
+      "featuredArtistId": "3o8BMojuQONFOJ0cJ0qOEc",
+      "trackName": "Fortune",
+      "trackId": "7KxeIz6PuXN3mzfYctPklI",
+      "preview": "https://p.scdn.co/mp3-preview/38bc32292758c7c5e67791837f74e5783af757ca?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/80f094aa2f5025bbd4a8eed65a7ebb47cfaa89ca",
+      "release_date": "2017-06-08"
+    },
+    {
+      "featuredArtist": "Nicky Romero",
+      "featuredArtistId": "5ChF3i92IPZHduM7jN3dpg",
+      "trackName": "Legacy",
+      "trackId": "1jG10Noes1RMcOfG88besL",
+      "preview": "https://p.scdn.co/mp3-preview/bdf8b6099524b046f95094dbfd72833cc58070af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0560ab7420dd56f3dce74270b9a315c7996d51d6",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "Headhunterz",
+      "featuredArtistId": "6C0KWmCdqrLU2LzzWBPbOy",
+      "trackName": "United Kids of the World",
+      "trackId": "2zr7gRmsQpPtyeuIn9B26o",
+      "preview": "https://p.scdn.co/mp3-preview/0925b2b69d9ea8f3c5f54ff2732ab370121f2825?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0560ab7420dd56f3dce74270b9a315c7996d51d6",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "Hardwell",
+      "featuredArtistId": "6BrvowZBreEkXzJQMpL174",
+      "trackName": "Alive - Hardwell Remix",
+      "trackId": "6J0I7sVKxq2wgDUowhdR9e",
+      "preview": "https://p.scdn.co/mp3-preview/e5aa6e0ba798908919ccd33487c39af982706ceb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0560ab7420dd56f3dce74270b9a315c7996d51d6",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "Corporate Slackrs",
+      "featuredArtistId": "57TvkbpmyWEXja8k98ZFFB",
+      "trackName": "Ammunition - Corporate Slackrs Remix",
+      "trackId": "4wxmi5RV8HGsbx5h72pj4p",
+      "preview": "https://p.scdn.co/mp3-preview/2943151f5892c10b628961f21ecf5bfeaeba238a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/94350423a5077017da8df75a96e6eed8f148f578",
+      "release_date": "2016-09-02"
+    },
+    {
+      "featuredArtist": "Snavs",
+      "featuredArtistId": "4xFadP7L1YVwVSjDDfjKjM",
+      "trackName": "Ammunition - Snavs Remix",
+      "trackId": "5uDtaxSuHQLKjKuOArp3XU",
+      "preview": "https://p.scdn.co/mp3-preview/0fb369725f286affed88670702cf6d7b6d39f828?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/94350423a5077017da8df75a96e6eed8f148f578",
+      "release_date": "2016-09-02"
+    },
+    {
+      "featuredArtist": "Nitti Gritti",
+      "featuredArtistId": "21AUdblPrTRzkvJn8FGrlk",
+      "trackName": "Marching On - Nitti Gritti Remix",
+      "trackId": "7B3CV1x8M5Hh6S9QCbTmpO",
+      "preview": "https://p.scdn.co/mp3-preview/4c82cde7fd12e9154d41ee21db63fa6f165031b9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/94350423a5077017da8df75a96e6eed8f148f578",
+      "release_date": "2016-09-02"
+    },
+    {
+      "featuredArtist": "FKYA",
+      "featuredArtistId": "7AGL6rHRzH2FSmJaG0Mjb0",
+      "trackName": "Can't Forget You - FKYA Remix",
+      "trackId": "2wsWpFdWlwVSF9bdxBe6nc",
+      "preview": "https://p.scdn.co/mp3-preview/47fadf3d94783c01dbfffd07dac687994074f058?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/94350423a5077017da8df75a96e6eed8f148f578",
+      "release_date": "2016-09-02"
+    },
+    {
+      "featuredArtist": "Zatox",
+      "featuredArtistId": "27Z5l2Kfy1IaYZMg5INWqO",
+      "trackName": "Beggars - Zatox Remix",
+      "trackId": "0mQhSDOeVdRSy6AD5u7OH5",
+      "preview": "https://p.scdn.co/mp3-preview/3367e7f1bde60b3fdb468adb18971f641cb71e90?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/94350423a5077017da8df75a96e6eed8f148f578",
+      "release_date": "2016-09-02"
+    },
+    {
+      "featuredArtist": "3LAU",
+      "featuredArtistId": "4YLQaW1UU3mrVetC8gNkg5",
+      "trackName": "Can't Forget You - 3LAU Remix",
+      "trackId": "2zcoi9PYIEexfNmGXczab4",
+      "preview": "https://p.scdn.co/mp3-preview/029ff9e6f1235eb1460743f190c6ba660a154e94?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/94350423a5077017da8df75a96e6eed8f148f578",
+      "release_date": "2016-09-02"
+    },
+    {
+      "featuredArtist": "Kayzo",
+      "featuredArtistId": "72iCiKwu6nu6Qq9emIwzYv",
+      "trackName": "Can't Forget You - KAYZO Remix",
+      "trackId": "73ahmKmo8T2dO2EXXf952w",
+      "preview": "https://p.scdn.co/mp3-preview/ef2650903d859c23000e490f891fc0229369dfa2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/94350423a5077017da8df75a96e6eed8f148f578",
+      "release_date": "2016-09-02"
+    },
+    {
+      "featuredArtist": "Chaz Jackson",
+      "featuredArtistId": "6ikrJfiWq0wzzJWQX4dren",
+      "trackName": "Broken Record - Chaz Jackson Remix",
+      "trackId": "4AwbfJTgqMB3bLyWoqboZF",
+      "preview": "https://p.scdn.co/mp3-preview/a841d9caf43613ac20a950540ad0a8f17b6e29ed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/94350423a5077017da8df75a96e6eed8f148f578",
+      "release_date": "2016-09-02"
+    },
+    {
+      "featuredArtist": "Shady Moves",
+      "featuredArtistId": "54nZFauT4ASE1MeSWJzsBI",
+      "trackName": "Broken Record - Shady Moves Remix",
+      "trackId": "6vZKkzGv7u5xjCEuueBkUd",
+      "preview": "https://p.scdn.co/mp3-preview/cb8f4f729b38396805b023253d5a52a16047e981?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/94350423a5077017da8df75a96e6eed8f148f578",
+      "release_date": "2016-09-02"
+    },
+    {
+      "featuredArtist": "Twofold",
+      "featuredArtistId": "68xmAQeqCDxYS3XZpLFpK7",
+      "trackName": "Marching On - Twofold Remix",
+      "trackId": "2nq498XYJriEz6A7hychD0",
+      "preview": "https://p.scdn.co/mp3-preview/a75b201661bfe9fdf18b10bc75ed0f8f5564d819?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/94350423a5077017da8df75a96e6eed8f148f578",
+      "release_date": "2016-09-02"
+    },
+    {
+      "featuredArtist": "Blasterjaxx",
+      "featuredArtistId": "37awA8DFCAnCCL7aqYbDnD",
+      "trackName": "Marching On - Blasterjaxx Remix",
+      "trackId": "20bvznRWIPiNKd6v06Z4lg",
+      "preview": "https://p.scdn.co/mp3-preview/d244cbccf7fc6300eaf7706fef14468d4ac96878?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/94350423a5077017da8df75a96e6eed8f148f578",
+      "release_date": "2016-09-02"
+    },
+    {
+      "featuredArtist": "Halogen",
+      "featuredArtistId": "0Za5KjrhmN4OYMr04f3g1e",
+      "trackName": "Can't Forget You - Halogen Remix",
+      "trackId": "5BZOqYcGk29Iq2T9jMSkXw",
+      "preview": "https://p.scdn.co/mp3-preview/4f2c733f771c79d187abf023b932d86213bf2c6f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/94350423a5077017da8df75a96e6eed8f148f578",
+      "release_date": "2016-09-02"
+    },
+    {
+      "featuredArtist": "Carter Cruise",
+      "featuredArtistId": "6iqbaiAKcX5hXUlixfP4e3",
+      "trackName": "Marching On - Carter Cruise Remix",
+      "trackId": "23jMpt5L7XzwFVsuiXpkMS",
+      "preview": "https://p.scdn.co/mp3-preview/3d24ff31e6aedc2d90f8865b67ac3cb5fae3b28d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/94350423a5077017da8df75a96e6eed8f148f578",
+      "release_date": "2016-09-02"
+    },
+    {
+      "featuredArtist": "Patrick Stump",
+      "featuredArtistId": "0wsdUS0EJ7zHgti2nxTVWR",
+      "trackName": "Dancing with the Devil",
+      "trackId": "1QmIjmY8L4r8HEJvlZNDyi",
+      "preview": "https://p.scdn.co/mp3-preview/36ba8ed69184987a620f1602cca2512d4caa2537?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1537253c1da10ab1429090cbc6fe0d3c555743ad",
+      "release_date": "2013-09-20"
+    },
+    {
+      "featuredArtist": "Travis Barker",
+      "featuredArtistId": "4exLIFE8sISLr28sqG1qNX",
+      "trackName": "Dancing with the Devil",
+      "trackId": "1QmIjmY8L4r8HEJvlZNDyi",
+      "preview": "https://p.scdn.co/mp3-preview/36ba8ed69184987a620f1602cca2512d4caa2537?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1537253c1da10ab1429090cbc6fe0d3c555743ad",
+      "release_date": "2013-09-20"
+    },
+    {
+      "featuredArtist": "Pegboard Nerds",
+      "featuredArtistId": "0lLY20XpZ9yDobkbHI7u1y",
+      "trackName": "This Is Not the End",
+      "trackId": "1g3TrHz4DoDfxk4iFPYdsc",
+      "preview": "https://p.scdn.co/mp3-preview/bee528e1dc81e98ce2831e0b5254637bf9bbd96a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1537253c1da10ab1429090cbc6fe0d3c555743ad",
+      "release_date": "2013-09-20"
+    },
+    {
+      "featuredArtist": "Cash Cash",
+      "featuredArtistId": "1LOB7jTeEV14pHai6EXSzF",
+      "trackName": "Alive - Cash Cash & Kalkutta Remix",
+      "trackId": "5Zt0jYvv5QLtxj4RT2VaVN",
+      "preview": "https://p.scdn.co/mp3-preview/268c0f0396f5cdfb91108b544d26e01f072f5fdc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976e0c705d4d57a3d7897f47eb6ce033ba6a390c",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "Kalkutta",
+      "featuredArtistId": "2mdmNrDnwCK1wJpHd6yhwl",
+      "trackName": "Alive - Cash Cash & Kalkutta Remix",
+      "trackId": "5Zt0jYvv5QLtxj4RT2VaVN",
+      "preview": "https://p.scdn.co/mp3-preview/268c0f0396f5cdfb91108b544d26e01f072f5fdc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976e0c705d4d57a3d7897f47eb6ce033ba6a390c",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "Jakob Liedholm",
+      "featuredArtistId": "1N8s1kXnFIAoPL53mSGsem",
+      "trackName": "Alive - Jakob Liedholm Remix",
+      "trackId": "10ibHM97bmRcjjrWNEqEfV",
+      "preview": "https://p.scdn.co/mp3-preview/718abca9fdda4ec1704d4e4b762633033dde344f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976e0c705d4d57a3d7897f47eb6ce033ba6a390c",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "Mutrix",
+      "featuredArtistId": "26fx4ofxpIKIEsU5V5fHcx",
+      "trackName": "Killin' It - Mutrix Remix",
+      "trackId": "6wLuCPbNTtQ5bhu2o7F7NV",
+      "preview": "https://p.scdn.co/mp3-preview/23059dcb8cba0650c3a3ef7f37cde5a7856b1163?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976e0c705d4d57a3d7897f47eb6ce033ba6a390c",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "KillaGraham",
+      "featuredArtistId": "1bTozP3jBtV8kxyHOnWXKQ",
+      "trackName": "Killin' It - KillaGraham Remix",
+      "trackId": "4iyoPZz8kpI7XR8Yyvy7eK",
+      "preview": "https://p.scdn.co/mp3-preview/96679c2031c0631892fca2fd2be7b627243ef6e8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976e0c705d4d57a3d7897f47eb6ce033ba6a390c",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "Dirtyphonics",
+      "featuredArtistId": "4zymhxzJ0UJc74tMHGyoWs",
+      "trackName": "Killin' It - Dirtyphonics Remix",
+      "trackId": "1pXwyfj2rzIAQKCEHBzIoI",
+      "preview": "https://p.scdn.co/mp3-preview/c618b0c2e41e275923e1abaa5c2173a8790d8dd7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976e0c705d4d57a3d7897f47eb6ce033ba6a390c",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "Chuckie",
+      "featuredArtistId": "4x7gxsrTH3gThvSKZPPwaQ",
+      "trackName": "Killin' It - DJ Chuckie Remix",
+      "trackId": "1IauBOnCQFTtZ5pIWCJy5J",
+      "preview": "https://p.scdn.co/mp3-preview/2679a8c3a48a01ce6b909b87b3d79b8db3da3464?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976e0c705d4d57a3d7897f47eb6ce033ba6a390c",
+      "release_date": "2012-12-11"
+    },
+    {
+      "featuredArtist": "Jeffrey X. Sutorius",
+      "featuredArtistId": "2wmWJGh6CxDNK49GBoQD26",
+      "trackName": "Live for the Night - Dash Berlin Remix",
+      "trackId": "3lFyVBiXDPzbNmIkHq8TEI",
+      "preview": "https://p.scdn.co/mp3-preview/e323206c6d753eac23518c1843ba4086360aa1ce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/34be1118b7117fde636f5685b1142bd0f7445735",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "R3HAB",
+      "featuredArtistId": "6cEuCEZu7PAE9ZSzLLc2oQ",
+      "trackName": "Ain't That Why - Skytech Remix",
+      "trackId": "3XLKvimqONwDWeSmr1QY1v",
+      "preview": "https://p.scdn.co/mp3-preview/81ea9299b341db886dfadd0e27e1d43d227db34f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d1e411507c810d4609b641214e725f7c1170c718",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Skytech",
+      "featuredArtistId": "4CrDEHL7ysNabeYvL3xjUX",
+      "trackName": "Ain't That Why - Skytech Remix",
+      "trackId": "3XLKvimqONwDWeSmr1QY1v",
+      "preview": "https://p.scdn.co/mp3-preview/81ea9299b341db886dfadd0e27e1d43d227db34f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d1e411507c810d4609b641214e725f7c1170c718",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Yellow Claw",
+      "featuredArtistId": "47z7ZrgFoBvVpCnElCE3Zh",
+      "trackName": "New World ft. Vava",
+      "trackId": "1vn7Y9dR0e6i58R71yccG9",
+      "preview": "https://p.scdn.co/mp3-preview/9929d6b594cebdfbc736938e22362a3bc5e55916?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3477a6fdf8bb83350437f3aea89c101aa7647260",
+      "release_date": "2018-01-24"
+    },
+    {
+      "featuredArtist": "Vava",
+      "featuredArtistId": "2qkHW4sO2LpxEQyUiCE9U6",
+      "trackName": "New World ft. Vava",
+      "trackId": "1vn7Y9dR0e6i58R71yccG9",
+      "preview": "https://p.scdn.co/mp3-preview/9929d6b594cebdfbc736938e22362a3bc5e55916?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3477a6fdf8bb83350437f3aea89c101aa7647260",
+      "release_date": "2018-01-24"
+    },
+    {
+      "featuredArtist": "Lookas",
+      "featuredArtistId": "27fy6rHPC58Eo2VUu0iJSG",
+      "trackName": "Alarm",
+      "trackId": "4FWy01sbPGBv2VaaZwCJC9",
+      "preview": "https://p.scdn.co/mp3-preview/1bc820329555c4834a4897f85c58cc4f4bdb386b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/06d715315ed8f1e93a77381d7b48b1b2f251bbb4",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Taylor Bennett",
+      "featuredArtistId": "6CqjoQyGZlnhnq5gAUz92c",
+      "trackName": "New World",
+      "trackId": "2gBQ35qqBE75t00kV221Xy",
+      "preview": "https://p.scdn.co/mp3-preview/b55b0e341bc14ef13c65ce5dbd0f57d6ab60a8d3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/04670c2cb51c7bb1929f3a8bfbeb29424d3e6eb7",
+      "release_date": "2017-09-18"
+    },
+    {
+      "featuredArtist": "Dyro",
+      "featuredArtistId": "03MVmfitJTVJIxYmObhQn9",
+      "trackName": "TH2C (Dyro Remix)",
+      "trackId": "40OPelo8dGHHrqugcnIRC1",
+      "preview": "https://p.scdn.co/mp3-preview/fdaf63b00d68b0da82a124780ed55ac101057e2a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8104e3a14f9376f8f386d75b199911f0b64388ce",
+      "release_date": "2017-08-14"
+    },
+    {
+      "featuredArtist": "Justin Caruso",
+      "featuredArtistId": "1NyxTiCivDmzgFWYD1V01m",
+      "trackName": "Parachute (Justin Caruso Remix)",
+      "trackId": "08lFNC7sV16fPjPsnVBCn8",
+      "preview": "https://p.scdn.co/mp3-preview/979b344311d6c3a1ef57f88acb68000ebf3efe9e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8104e3a14f9376f8f386d75b199911f0b64388ce",
+      "release_date": "2017-08-14"
+    },
+    {
+      "featuredArtist": "Havok Roth",
+      "featuredArtistId": "1W5GDN3fdEbY5AORDcJhmK",
+      "trackName": "Calm Down (Havok Roth Remix)",
+      "trackId": "5ABmYQxCcxjVbdK6Nb6dEt",
+      "preview": "https://p.scdn.co/mp3-preview/073fe8225e8a3c877f60239db5615f55808aeb90?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8104e3a14f9376f8f386d75b199911f0b64388ce",
+      "release_date": "2017-08-14"
+    },
+    {
+      "featuredArtist": "Spag Heddy",
+      "featuredArtistId": "043Bey7ngSGRFpJftAlKpi",
+      "trackName": "Be There (Spag Heddy Remix)",
+      "trackId": "1CBVm3SWZi7t23kKPgy4dS",
+      "preview": "https://p.scdn.co/mp3-preview/6bdd389e4f90eb2732bd929abedcc787e3d43f35?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8104e3a14f9376f8f386d75b199911f0b64388ce",
+      "release_date": "2017-08-14"
+    },
+    {
+      "featuredArtist": "Vice City",
+      "featuredArtistId": "6FMnbEpj546xh7ZgYkERIt",
+      "trackName": "Be There (VICE CITY Remix)",
+      "trackId": "06YXgpXWjl2Ey3LS1KzyZn",
+      "preview": "https://p.scdn.co/mp3-preview/9e36094b76facc5cc68479f14be9fe196ea2ca72?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8104e3a14f9376f8f386d75b199911f0b64388ce",
+      "release_date": "2017-08-14"
+    },
+    {
+      "featuredArtist": "Pierce",
+      "featuredArtistId": "1sg7LKlpfKmZSvI0xxqNWC",
+      "trackName": "Love Outta Me (Pierce Remix)",
+      "trackId": "08A2iOhwLT6Ovob5GUdslf",
+      "preview": "https://p.scdn.co/mp3-preview/706fd290ef969580b7ca5d660925453158927558?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8104e3a14f9376f8f386d75b199911f0b64388ce",
+      "release_date": "2017-08-14"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "artistName": "Dashboard Confessional",
+  "features": [
+    {
+      "featuredArtist": "Cash Cash",
+      "featuredArtistId": "1LOB7jTeEV14pHai6EXSzF",
+      "trackName": "Belong",
+      "trackId": "4otlaULwl7EcfsfqI3HP2g",
+      "preview": "https://p.scdn.co/mp3-preview/86ee64a6b61ad65ff0d2616875ecf67d5513e0fa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac48b5e1b948628751cbee0ae8f85b57bcbe92c6",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Lindsey Stirling",
+      "featuredArtistId": "378dH6EszOLFShpRzAQkVM",
+      "trackName": "Open My Eyes (feat. Lindsey Stirling)",
+      "trackId": "5CqOUHLJiuIjhhfzZsQcZe",
+      "preview": "https://p.scdn.co/mp3-preview/2a8270a9419a036db8c5a1b67f1360d42172decf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac48b5e1b948628751cbee0ae8f85b57bcbe92c6",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Chrissy Costanza",
+      "featuredArtistId": "2zmjYl582zO64LcLQtOEuv",
+      "trackName": "Just What To Say (feat. Chrissy Costanza)",
+      "trackId": "3mLTNZpFdX1qvlOXH8jRWX",
+      "preview": "https://p.scdn.co/mp3-preview/6bdce767782979f881d5dd09ef2100ac32b8b4bf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac48b5e1b948628751cbee0ae8f85b57bcbe92c6",
+      "release_date": "2018-02-09"
+    }
+  ]
+}

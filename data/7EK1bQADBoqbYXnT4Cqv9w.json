@@ -1,0 +1,23 @@
+{
+  "artistName": "John Denver",
+  "features": [
+    {
+      "featuredArtist": "Emmylou Harris",
+      "featuredArtistId": "5s6TJEuHTr9GR894wc6VfP",
+      "trackName": "Wild Montana Skies",
+      "trackId": "4QS34ztVNOdEshqiQn80Ja",
+      "preview": "https://p.scdn.co/mp3-preview/7a985fe94b3b40c98d8e31279f44b6cdccbda0c9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/417601aee199b27582f83e80301d13c402054174",
+      "release_date": "2001-10-01"
+    },
+    {
+      "featuredArtist": "Plácido Domingo",
+      "featuredArtistId": "4pU3BpenOZFEBzORx2YBJW",
+      "trackName": "Perhaps Love",
+      "trackId": "5cej869f5Juk7yfsk8oOwY",
+      "preview": "https://p.scdn.co/mp3-preview/5b8f559bbeaa5d081fcafe24e1558807320bce2b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/417601aee199b27582f83e80301d13c402054174",
+      "release_date": "2001-10-01"
+    }
+  ]
+}

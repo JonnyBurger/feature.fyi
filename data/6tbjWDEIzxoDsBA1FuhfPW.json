@@ -1,0 +1,59 @@
+{
+  "artistName": "Madonna",
+  "features": [
+    {
+      "featuredArtist": "Nicki Minaj",
+      "featuredArtistId": "0hCNtLu0JehylgoiP8L4Gh",
+      "trackName": "Bitch I'm Madonna",
+      "trackId": "2GB3bUoLiZWCtujmU056uL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cf31886515bfb16bdffbf7ee3271c61e95ee455",
+      "release_date": "2015-03-10"
+    },
+    {
+      "featuredArtist": "Chance The Rapper",
+      "featuredArtistId": "1anyVhU62p31KFi8MEzkbf",
+      "trackName": "Iconic",
+      "trackId": "6V3CqWEAX1THZaeqcFjmDK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cf31886515bfb16bdffbf7ee3271c61e95ee455",
+      "release_date": "2015-03-10"
+    },
+    {
+      "featuredArtist": "Mike Tyson",
+      "featuredArtistId": "5MCgysjFa88X9uVFMKHbDe",
+      "trackName": "Iconic",
+      "trackId": "6V3CqWEAX1THZaeqcFjmDK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cf31886515bfb16bdffbf7ee3271c61e95ee455",
+      "release_date": "2015-03-10"
+    },
+    {
+      "featuredArtist": "Nas",
+      "featuredArtistId": "20qISvAhX20dpIbOOzGK3q",
+      "trackName": "Veni Vidi Vici",
+      "trackId": "5yfuKMXpU8V8v1u9a4NVAN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cf31886515bfb16bdffbf7ee3271c61e95ee455",
+      "release_date": "2015-03-10"
+    },
+    {
+      "featuredArtist": "M.I.A.",
+      "featuredArtistId": "0QJIPDAEDILuo8AIq3pMuU",
+      "trackName": "Give Me All Your Luvin'",
+      "trackId": "4PtvJM73075KqXcQrt8MbT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9df9f183334664d485e05668f109298b0445223d",
+      "release_date": "2012-03-26"
+    },
+    {
+      "featuredArtist": "LMFAO",
+      "featuredArtistId": "3sgFRtyBnxXD5ESfmbK4dl",
+      "trackName": "Give Me All Your Luvin' - Party Rock Remix",
+      "trackId": "5L5VRTQSiIbPjdSsJLntbr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9df9f183334664d485e05668f109298b0445223d",
+      "release_date": "2012-03-26"
+    }
+  ]
+}

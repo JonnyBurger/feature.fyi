@@ -1,0 +1,284 @@
+{
+  "artistName": "Marracash",
+  "features": [
+    {
+      "featuredArtist": "Gue Pequeno",
+      "featuredArtistId": "7F2utINZ6tSokSiZTQBE27",
+      "trackName": "Intro/Santeria - Live @ Santeria Tour 2017",
+      "trackId": "0wVfcMqCmRs7Y9vR5g7XcW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/431169d5a92a35b50d1a49aa16294ac13e4b5a19",
+      "release_date": "2017-03-31"
+    },
+    {
+      "featuredArtist": "Sfera Ebbasta",
+      "featuredArtistId": "23TFHmajVfBtlRx5MXqgoz",
+      "trackName": "Scooteroni - RMX",
+      "trackId": "2ALJr1qNX1OgTPBHUGn98v",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e05bb65c458d9ff965c1742553077895173d9d1",
+      "release_date": "2016-12-02"
+    },
+    {
+      "featuredArtist": "Fabri Fibra",
+      "featuredArtistId": "7u710e44HW3K7A5eTnRqHC",
+      "trackName": "Purdi - RMX",
+      "trackId": "3s8D621VEL9FKOisUZ4SjQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e05bb65c458d9ff965c1742553077895173d9d1",
+      "release_date": "2016-12-02"
+    },
+    {
+      "featuredArtist": "Luchè",
+      "featuredArtistId": "0yHtPBDrHuVC45vj5E1yMi",
+      "trackName": "Senza Dio - RMX",
+      "trackId": "1J3gRjtdGUOWzrzIbKrR8O",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e05bb65c458d9ff965c1742553077895173d9d1",
+      "release_date": "2016-12-02"
+    },
+    {
+      "featuredArtist": "Federica Abbate",
+      "featuredArtistId": "05brE7yGJDmIYlMirfSi0B",
+      "trackName": "Niente Canzoni D'Amore - Inedito",
+      "trackId": "7uu3YZytpYW15VIfa7ynJk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3ce302764beb7eaf283ab01b36a4a9e7b7cd8da4",
+      "release_date": "2016-01-22"
+    },
+    {
+      "featuredArtist": "Tiziano Ferro",
+      "featuredArtistId": "11TplWqOPQBTmg2eiSLt1m",
+      "trackName": "Senza Un Posto Nel Mondo - New Version",
+      "trackId": "66RcuCK6dnKTnRWPYfeI2l",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3ce302764beb7eaf283ab01b36a4a9e7b7cd8da4",
+      "release_date": "2016-01-22"
+    },
+    {
+      "featuredArtist": "Charlie Charles",
+      "featuredArtistId": "1UCxzrM5WJh9ure5vCcsim",
+      "trackName": "XDVRMX",
+      "trackId": "2VcqdXsiNQUGoknGZF7wPp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3ce302764beb7eaf283ab01b36a4a9e7b7cd8da4",
+      "release_date": "2016-01-22"
+    },
+    {
+      "featuredArtist": "Salmo",
+      "featuredArtistId": "3hBQ4zniNdQf1cqqo6hzuW",
+      "trackName": "A Volte Esagero - Live @ Status Tour 2015, Carroponte - Milano",
+      "trackId": "03IVZBt0gW0qmwHMM8SO1S",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3ce302764beb7eaf283ab01b36a4a9e7b7cd8da4",
+      "release_date": "2016-01-22"
+    },
+    {
+      "featuredArtist": "Coez",
+      "featuredArtistId": "5dXlc7MnpaTeUIsHLVe3n4",
+      "trackName": "A Volte Esagero - Live @ Status Tour 2015, Carroponte - Milano",
+      "trackId": "03IVZBt0gW0qmwHMM8SO1S",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3ce302764beb7eaf283ab01b36a4a9e7b7cd8da4",
+      "release_date": "2016-01-22"
+    },
+    {
+      "featuredArtist": "Achille Lauro",
+      "featuredArtistId": "0lI3rF4hi4op6UxqlLHPzv",
+      "trackName": "Don - Live @ Status Tour 2015, Carroponte - Milano",
+      "trackId": "603DDNcyIp1SXsoZHjG4TA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3ce302764beb7eaf283ab01b36a4a9e7b7cd8da4",
+      "release_date": "2016-01-22"
+    },
+    {
+      "featuredArtist": "Luche",
+      "featuredArtistId": "3yiEJ9SByXZMXTwaKdVFN4",
+      "trackName": "Sushi & Cocaina",
+      "trackId": "0AdM63IFJbQE7j8KHZ85In",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/49354ba2078e99248dbaa196009ad8440c4a1864",
+      "release_date": "2016-01-22"
+    },
+    {
+      "featuredArtist": "Neffa",
+      "featuredArtistId": "54dqxLAclwu0QSaTwCyCaF",
+      "trackName": "Nella Macchina",
+      "trackId": "4hUmwu2Cq4o7HlBBkyFNDY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/49354ba2078e99248dbaa196009ad8440c4a1864",
+      "release_date": "2016-01-22"
+    },
+    {
+      "featuredArtist": "Co'Sang",
+      "featuredArtistId": "1Pc6myra4XAEMjHzclAtAL",
+      "trackName": "Se La Scelta Fosse Mia",
+      "trackId": "2cCQkjfqLbx07zcYNkbv53",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21b6d7a6833f3776c6dfeaa9363d7418a4dc8d13",
+      "release_date": "2011-10-01"
+    },
+    {
+      "featuredArtist": "Fedez",
+      "featuredArtistId": "3pgCLfNbw5ozIfoNsvDU7i",
+      "trackName": "Non Passerà",
+      "trackId": "5LxmUVXgxepkhsbhoTDEd2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21b6d7a6833f3776c6dfeaa9363d7418a4dc8d13",
+      "release_date": "2011-10-01"
+    },
+    {
+      "featuredArtist": "Entics",
+      "featuredArtistId": "6GNKEqtVedvHFdhsdDtg2d",
+      "trackName": "Non Passerà",
+      "trackId": "5LxmUVXgxepkhsbhoTDEd2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21b6d7a6833f3776c6dfeaa9363d7418a4dc8d13",
+      "release_date": "2011-10-01"
+    },
+    {
+      "featuredArtist": "Emis Killa",
+      "featuredArtistId": "6FtwCmLY6L1sqvjaQ2lV6G",
+      "trackName": "Slot Machine",
+      "trackId": "7ncqSy4KJrV57Gzx25RXCq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21b6d7a6833f3776c6dfeaa9363d7418a4dc8d13",
+      "release_date": "2011-10-01"
+    },
+    {
+      "featuredArtist": "Dargen D'Amico",
+      "featuredArtistId": "7muPB2GhV0sEg2K1Fgj0Xm",
+      "trackName": "L'Albatro",
+      "trackId": "0DSEK9fB45gzVW9xgzhqk2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21b6d7a6833f3776c6dfeaa9363d7418a4dc8d13",
+      "release_date": "2011-10-01"
+    },
+    {
+      "featuredArtist": "Rancore",
+      "featuredArtistId": "5DkmrXKeWgDS86KKEw45o6",
+      "trackName": "L'Albatro",
+      "trackId": "0DSEK9fB45gzVW9xgzhqk2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21b6d7a6833f3776c6dfeaa9363d7418a4dc8d13",
+      "release_date": "2011-10-01"
+    },
+    {
+      "featuredArtist": "Aban",
+      "featuredArtistId": "5MasrVSTkp9gZ1PRatZniJ",
+      "trackName": "Paradiso Italiano",
+      "trackId": "03ioTvxhYac3TRvF98clN7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21b6d7a6833f3776c6dfeaa9363d7418a4dc8d13",
+      "release_date": "2011-10-01"
+    },
+    {
+      "featuredArtist": "Ted Bundy",
+      "featuredArtistId": "3kIcdD2xNVFfWv50FPq2xy",
+      "trackName": "Paradiso Italiano",
+      "trackId": "03ioTvxhYac3TRvF98clN7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21b6d7a6833f3776c6dfeaa9363d7418a4dc8d13",
+      "release_date": "2011-10-01"
+    },
+    {
+      "featuredArtist": "Noyz Narcos",
+      "featuredArtistId": "49UAapOfpOg1ZOU4xf2NgY",
+      "trackName": "Parole Sante",
+      "trackId": "59p7N8aqrl5sMrANeL1Xu2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21b6d7a6833f3776c6dfeaa9363d7418a4dc8d13",
+      "release_date": "2011-10-01"
+    },
+    {
+      "featuredArtist": "Vincenzo Da Via Anfossi",
+      "featuredArtistId": "3fe7sEsyZiMKV8T2vW3EoA",
+      "trackName": "Fiaba Di Strada",
+      "trackId": "6ZxUOVusAtDHsXZ6mZde91",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21b6d7a6833f3776c6dfeaa9363d7418a4dc8d13",
+      "release_date": "2011-10-01"
+    },
+    {
+      "featuredArtist": "Max Il Nano",
+      "featuredArtistId": "4CAXf9sxsxjNZkdXRBV7xc",
+      "trackName": "2 Strade",
+      "trackId": "5519BlVzmdTUnTkLH4iiKQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21b6d7a6833f3776c6dfeaa9363d7418a4dc8d13",
+      "release_date": "2011-10-01"
+    },
+    {
+      "featuredArtist": "Izio Sklero",
+      "featuredArtistId": "0lg3D9xhcKocvK4AjOTdPt",
+      "trackName": "2 Strade",
+      "trackId": "5519BlVzmdTUnTkLH4iiKQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21b6d7a6833f3776c6dfeaa9363d7418a4dc8d13",
+      "release_date": "2011-10-01"
+    },
+    {
+      "featuredArtist": "Del .",
+      "featuredArtistId": "1mDo8jqnADKVCGOVKJOwmv",
+      "trackName": "Amore In Polvere",
+      "trackId": "6dWgXBfk1sbHwN6LQYkoRj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21b6d7a6833f3776c6dfeaa9363d7418a4dc8d13",
+      "release_date": "2011-10-01"
+    },
+    {
+      "featuredArtist": "The Buildzer",
+      "featuredArtistId": "4SHOjyivGFu9IMRVD18hdW",
+      "trackName": "Mixare E' Bello - Remix",
+      "trackId": "6JJ9F9enwAMVb161v6qSH6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21b6d7a6833f3776c6dfeaa9363d7418a4dc8d13",
+      "release_date": "2011-10-01"
+    },
+    {
+      "featuredArtist": "Tayone",
+      "featuredArtistId": "1b4o4uLuM34FSXFtqERKUh",
+      "trackName": "Parole Chiave - Remix",
+      "trackId": "32rrbf7rRHaivb84xbU8a8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21b6d7a6833f3776c6dfeaa9363d7418a4dc8d13",
+      "release_date": "2011-10-01"
+    },
+    {
+      "featuredArtist": "Attila",
+      "featuredArtistId": "4Uv5bceTJ2h3tLlssUNDNP",
+      "trackName": "Semtex",
+      "trackId": "2HN0OrctL3QBLsbZTLC1fe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/38c7a3c032bbd4db345158da6e9ddab2dbae08bd",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Jake La Furia",
+      "featuredArtistId": "6JFRI91YaCXREGQYzHSnUH",
+      "trackName": "Quando Sarò Morto...",
+      "trackId": "2BlvyyT5GnnGUC3M2mQC6W",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/38c7a3c032bbd4db345158da6e9ddab2dbae08bd",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "J-AX",
+      "featuredArtistId": "2iK8weavvfS2xJCmzNzNE5",
+      "trackName": "...Quando Ero Vivo",
+      "trackId": "5sT90ay2RWIhlVKEClwYF6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/38c7a3c032bbd4db345158da6e9ddab2dbae08bd",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Giusy Ferreri",
+      "featuredArtistId": "0dwEXtB6gceh7EO7tCsxhD",
+      "trackName": "Rivincita",
+      "trackId": "5WEvd5gkARagzHty8USfxD",
+      "preview": null,
+      "cover": null,
+      "release_date": "2010-01-01"
+    }
+  ]
+}

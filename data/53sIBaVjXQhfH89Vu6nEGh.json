@@ -1,0 +1,50 @@
+{
+  "artistName": "GoonRock",
+  "features": [
+    {
+      "featuredArtist": "Ehab Tawfik",
+      "featuredArtistId": "7AuBGlcUaHok37yr6u963C",
+      "trackName": "The Light",
+      "trackId": "4YEHjUf8rveOaXrYsAhCma",
+      "preview": "https://p.scdn.co/mp3-preview/7a49ac2b0141caa70f7c507055f670080f285cff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b23069bcd65e43398ea83b5aace42b192cdcd643",
+      "release_date": "2014-05-11"
+    },
+    {
+      "featuredArtist": "Fergie",
+      "featuredArtistId": "3r17AfJCCUqC9Lf0OAc73G",
+      "trackName": "A Little Party Never Killed Nobody (All We Got) - Paige Festival Remix",
+      "trackId": "2ADQMybPvIYS2b2a7qh8v8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9fa64f5263a08bc5a3f6f13cf5b38e8f8bab98ed",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Q-Tip",
+      "featuredArtistId": "3ZotbHeyVQKxQCPDJuQ4SU",
+      "trackName": "A Little Party Never Killed Nobody (All We Got) - Paige Festival Remix",
+      "trackId": "2ADQMybPvIYS2b2a7qh8v8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9fa64f5263a08bc5a3f6f13cf5b38e8f8bab98ed",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "LMFAO",
+      "featuredArtistId": "3sgFRtyBnxXD5ESfmbK4dl",
+      "trackName": "Party Rock Anthem",
+      "trackId": "2OVFRTRgoiWO2qIT6oISQj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c0a886c93bffb69e84760f76b9393d853129f57b",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Lauren Bennett",
+      "featuredArtistId": "2jLE4BoXHriQ96JagEtiDP",
+      "trackName": "Party Rock Anthem",
+      "trackId": "2OVFRTRgoiWO2qIT6oISQj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c0a886c93bffb69e84760f76b9393d853129f57b",
+      "release_date": "2017-12-15"
+    }
+  ]
+}

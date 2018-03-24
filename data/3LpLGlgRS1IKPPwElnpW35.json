@@ -1,0 +1,32 @@
+{
+  "artistName": "James Morrison",
+  "features": [
+    {
+      "featuredArtist": "iLL BLU",
+      "featuredArtistId": "550Zxz0BTZi3yd8gX9QINw",
+      "trackName": "Lonely People",
+      "trackId": "11yYLiOdSbR1MN6fsZmgUC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e328d632a9675c79cf8c210a386849bdbc9a788b",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Jessie J",
+      "featuredArtistId": "2gsggkzM5R49q6jpPvazou",
+      "trackName": "Up",
+      "trackId": "7DXf8oTlSH1pizoC3r7vVi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3be5923b624c02f856f5805b64f0e1966383dbd9",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Nelly Furtado",
+      "featuredArtistId": "2jw70GZXlAI8QzWeY2bgRc",
+      "trackName": "Broken Strings",
+      "trackId": "6jBUP2KCe821yqf1hiBqPR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/07b9ba753d53c4d32ee471504864974e4a4aa30f",
+      "release_date": "2008-01-01"
+    }
+  ]
+}

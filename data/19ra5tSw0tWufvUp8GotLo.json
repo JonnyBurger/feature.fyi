@@ -1,0 +1,95 @@
+{
+  "artistName": "George Michael",
+  "features": [
+    {
+      "featuredArtist": "Nile Rodgers",
+      "featuredArtistId": "3yDIp0kaq9EFKe07X1X2rz",
+      "trackName": "Fantasy",
+      "trackId": "4KWyVkKxuFY4KxmCmW9YlC",
+      "preview": "https://p.scdn.co/mp3-preview/64e4b4c71032bba2dfb49dc2571145bb1006e89c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c4e59e3b78b463cea3c86d6b6f9ea10601d57b51",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Paul McCartney",
+      "featuredArtistId": "4STHEaNw4mPZ2tzheohgXB",
+      "trackName": "Heal the Pain",
+      "trackId": "4PPvcFVmgJq7bJrAAa6hDe",
+      "preview": "https://p.scdn.co/mp3-preview/2cef92f168054928380eeb697085864ac756615c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c4e59e3b78b463cea3c86d6b6f9ea10601d57b51",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Astrud Gilberto",
+      "featuredArtistId": "5rX2c1zow6hCph8PnnU3kF",
+      "trackName": "Desafinado",
+      "trackId": "12mgkzfizFiWfrhr4EOKfn",
+      "preview": "https://p.scdn.co/mp3-preview/9a3bb5d4b5e0f58b398ed56dd76011cd6aec6046?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c4e59e3b78b463cea3c86d6b6f9ea10601d57b51",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Kinky Roland",
+      "featuredArtistId": "5z3qVCTBu4haySk9wQdAPu",
+      "trackName": "White Light - Kinky Roland Remix",
+      "trackId": "5XfAOiESRfyFAtwXIdsaix",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/652d7ccd8db22204162bae14fe8ddb17cdac1611",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Steve Redant",
+      "featuredArtistId": "0sDKlzcP04BuJFz5PF2RVn",
+      "trackName": "White Light - Steven Redant & Phil Romano Divine Vox Remix",
+      "trackId": "0iSVnDLpUrGypoUvYbiAk6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/652d7ccd8db22204162bae14fe8ddb17cdac1611",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Phil Romano",
+      "featuredArtistId": "6oMif51ax0kNxLI3rVMogf",
+      "trackName": "White Light - Steven Redant & Phil Romano Divine Vox Remix",
+      "trackId": "0iSVnDLpUrGypoUvYbiAk6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/652d7ccd8db22204162bae14fe8ddb17cdac1611",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Stereogamous",
+      "featuredArtistId": "2K1nBBwGQh603lZJlHMhl3",
+      "trackName": "White Light - Stereogamous Bath House Mix",
+      "trackId": "3Zov2OYElyFW2RMj6iiADH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/652d7ccd8db22204162bae14fe8ddb17cdac1611",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Voodoo Sonics",
+      "featuredArtistId": "7sWGr41m6WrSzbM2qMXfUB",
+      "trackName": "White Light - Voodoo Sonics Remix",
+      "trackId": "1MZipyRKvoam3DLqTUfpzB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/652d7ccd8db22204162bae14fe8ddb17cdac1611",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "James Jackman",
+      "featuredArtistId": "5tXAVIZp9DZum673Cq8XuX",
+      "trackName": "White Light - Jackman & Thomas Remix",
+      "trackId": "780OHh6r26WAO6PKpkUuDG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/652d7ccd8db22204162bae14fe8ddb17cdac1611",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "David Kay",
+      "featuredArtistId": "51BR2K8WnVQYmhyga9TbRJ",
+      "trackName": "White Light - David Kay Remix",
+      "trackId": "6WLN3nYdpZUUrNRkNKlObs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/652d7ccd8db22204162bae14fe8ddb17cdac1611",
+      "release_date": "2012-01-01"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "artistName": "Little Big Town",
+  "features": [
+    {
+      "featuredArtist": "Little Big Town with Jake Owen & Sugarland",
+      "featuredArtistId": "1clPEku48e5pZzaZCsqagv",
+      "trackName": "Life in a Northern Town",
+      "trackId": "4Pi2EZtnM2SWAgfymQ6OHN",
+      "preview": "https://p.scdn.co/mp3-preview/b75b24e81fb4315dfce5d1944f45507bbcca8f70?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cbc9a1dcf70f8272c6bfcd65583e5c4eab774f0b",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Jake Owen",
+      "featuredArtistId": "1n2pb9Tsfe4SwAjmUac6YT",
+      "trackName": "Life in a Northern Town",
+      "trackId": "4Pi2EZtnM2SWAgfymQ6OHN",
+      "preview": "https://p.scdn.co/mp3-preview/b75b24e81fb4315dfce5d1944f45507bbcca8f70?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cbc9a1dcf70f8272c6bfcd65583e5c4eab774f0b",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Sugarland",
+      "featuredArtistId": "0hYxQe3AK5jBPCr5MumLHD",
+      "trackName": "Life in a Northern Town",
+      "trackId": "4Pi2EZtnM2SWAgfymQ6OHN",
+      "preview": "https://p.scdn.co/mp3-preview/b75b24e81fb4315dfce5d1944f45507bbcca8f70?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cbc9a1dcf70f8272c6bfcd65583e5c4eab774f0b",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Jimmy Webb",
+      "featuredArtistId": "0YJUdunUDA1pTDxJ8AJlyB",
+      "trackName": "Wichita Lineman - Live",
+      "trackId": "506ZPBdnMp2dpq800lwmRg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/09e920fa2aff06ee43a246f70627504728aa2143",
+      "release_date": "2017-11-09"
+    }
+  ]
+}

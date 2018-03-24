@@ -1,0 +1,86 @@
+{
+  "artistName": "Bryson Tiller",
+  "features": [
+    {
+      "featuredArtist": "Jazmine Sullivan",
+      "featuredArtistId": "7gSjFKpVmDgC2MMsnN8CYq",
+      "trackName": "Insecure",
+      "trackId": "360NCp4XoQ0sFi5jgu5Ww7",
+      "preview": "https://p.scdn.co/mp3-preview/be5deaa7b956f808a0aa10e6ece9539301360e07?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/72375f5933f3ae21dd8ae96ca2e79a69cf909bd0",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Young Thug",
+      "featuredArtistId": "50co4Is1HCEo8bhOyUWKpn",
+      "trackName": "Get Mine",
+      "trackId": "4sxLB4ibrNZko2Y9wHfwZ3",
+      "preview": "https://p.scdn.co/mp3-preview/8c3ec777e368959e7fbd44ca8f23870d811f9c35?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef180422778af39423c4b0873253f3e99cc027c0",
+      "release_date": "2017-05-10"
+    },
+    {
+      "featuredArtist": "Lotus",
+      "featuredArtistId": "5aBxTog6fsFTQDcC7ssxQ2",
+      "trackName": "No Other - BigBeat Mix Edit",
+      "trackId": "2ZyZt3x0LRgxlQQHKj561Y",
+      "preview": "https://p.scdn.co/mp3-preview/332c8143399c37ddea3a707d35d09164ae52a544?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dcf5fae2aabefba52f656ac1abbb56c74ce4c155",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Frost Vegas",
+      "featuredArtistId": "1jm3lHIDqc8YRlMihegtHr",
+      "trackName": "No Other - BigBeat Mix Edit",
+      "trackId": "2ZyZt3x0LRgxlQQHKj561Y",
+      "preview": "https://p.scdn.co/mp3-preview/332c8143399c37ddea3a707d35d09164ae52a544?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dcf5fae2aabefba52f656ac1abbb56c74ce4c155",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "BigBeat",
+      "featuredArtistId": "5UC38zRkWdhlSre7CR5LzT",
+      "trackName": "No Other - BigBeat Mix Edit",
+      "trackId": "2ZyZt3x0LRgxlQQHKj561Y",
+      "preview": "https://p.scdn.co/mp3-preview/332c8143399c37ddea3a707d35d09164ae52a544?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dcf5fae2aabefba52f656ac1abbb56c74ce4c155",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Bodybangers",
+      "featuredArtistId": "7koJQAjVzXoUpH6pXrihXA",
+      "trackName": "No Other - Bodybangers Mix Edit",
+      "trackId": "6ZYtWhyHx01gSI7GgHwxHt",
+      "preview": "https://p.scdn.co/mp3-preview/f7ffa7479abd914e97d6474c1918255bd37b6307?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dcf5fae2aabefba52f656ac1abbb56c74ce4c155",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "John Joseph",
+      "featuredArtistId": "6NwXewhfprJQi0GsRL3FQG",
+      "trackName": "What You Deserve (feat. Bryson Tiller)",
+      "trackId": "3znS3two5wx2rQJdegWjC8",
+      "preview": "https://p.scdn.co/mp3-preview/7b5503d63c01b27f26510027ef40af984bcfe45b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f38c6847a0d490e88cc96ad2dd283fb82f7121cc",
+      "release_date": "2017-12-31"
+    },
+    {
+      "featuredArtist": "DJ Khaled",
+      "featuredArtistId": "0QHgL1lAIqAw0HtD7YldmP",
+      "trackName": "Wild Thoughts",
+      "trackId": "3xH0Fkm8Vpk1Ej0YEIMGwh",
+      "preview": "https://p.scdn.co/mp3-preview/a1a92ff710bfbff7e7768922c5616f4571e2cc97?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8ac1e730829488e36071041eaea9c845ff965da",
+      "release_date": "2017-12-22"
+    },
+    {
+      "featuredArtist": "Rihanna",
+      "featuredArtistId": "5pKCCKE2ajJHZ9KAiaK11H",
+      "trackName": "Wild Thoughts",
+      "trackId": "3xH0Fkm8Vpk1Ej0YEIMGwh",
+      "preview": "https://p.scdn.co/mp3-preview/a1a92ff710bfbff7e7768922c5616f4571e2cc97?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8ac1e730829488e36071041eaea9c845ff965da",
+      "release_date": "2017-12-22"
+    }
+  ]
+}

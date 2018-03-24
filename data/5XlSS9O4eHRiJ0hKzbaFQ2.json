@@ -1,0 +1,23 @@
+{
+  "artistName": "Kari Jobe",
+  "features": [
+    {
+      "featuredArtist": "Cody Carnes",
+      "featuredArtistId": "7apN8bBgl19E0Ona9pvPq0",
+      "trackName": "Closer To Your Heart",
+      "trackId": "5yot2mtCgXHtFq3IhmoecE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8afaf3fbbbd37825b2251d22174834a7ac5e627",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Matt Maher",
+      "featuredArtistId": "1dPl8axUL09mso0myZqPZW",
+      "trackName": "We Exalt Your Name - feat. Matt Maher",
+      "trackId": "1wYw2pcFKRIMLgGBcRBqnX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5132495a8cb9ab0ef62488d664128574391c72a1",
+      "release_date": "2012-11-09"
+    }
+  ]
+}

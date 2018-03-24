@@ -1,0 +1,32 @@
+{
+  "artistName": "RHODES",
+  "features": [
+    {
+      "featuredArtist": "Birdy",
+      "featuredArtistId": "2WX2uTcsvV5OnS0inACecP",
+      "trackName": "Let It All Go",
+      "trackId": "58UvYdApSMp509GGhFpemK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dd27633d00c9026c6d8849d4983b2d8c8125a2f1",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "Alle Farben",
+      "featuredArtistId": "61ipISvUVa5LkJlKZnm3Oo",
+      "trackName": "H.O.L.Y.",
+      "trackId": "625SfHM2FVyyUj3cT8108G",
+      "preview": "https://p.scdn.co/mp3-preview/ef62eae6f16564f8248a16e163a9f5e19c5f7c8d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b3e81ca234798e3019601956fe94969b0711aeb3",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Felix Jaehn",
+      "featuredArtistId": "4bL2B6hmLlMWnUEZnorEtG",
+      "trackName": "Your Soul (Holding On)",
+      "trackId": "4L9g4gEP92mW616J1o66sh",
+      "preview": "https://p.scdn.co/mp3-preview/befe73caf89dedc6462a29b023c6c706910a30fa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7ea5c34f43b44f8efc6286390d1f9f92a945ead",
+      "release_date": "2016-12-16"
+    }
+  ]
+}

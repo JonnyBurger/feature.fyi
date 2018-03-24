@@ -1,0 +1,41 @@
+{
+  "artistName": "Brantley Gilbert",
+  "features": [
+    {
+      "featuredArtist": "Justin Moore",
+      "featuredArtistId": "30e8DmahrEamvLbFRPdWmk",
+      "trackName": "Small Town Throwdown",
+      "trackId": "5NReCPX24NMmxTiNLHFJ6K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cf9f68434a9e38ad02dc3c6f4b66c1ab3916d389",
+      "release_date": "2015-05-19"
+    },
+    {
+      "featuredArtist": "Thomas Rhett",
+      "featuredArtistId": "6x2LnllRG5uGarZMsD4iO8",
+      "trackName": "Small Town Throwdown",
+      "trackId": "5NReCPX24NMmxTiNLHFJ6K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cf9f68434a9e38ad02dc3c6f4b66c1ab3916d389",
+      "release_date": "2015-05-19"
+    },
+    {
+      "featuredArtist": "T.I.",
+      "featuredArtistId": "4OBJLual30L7gRl5UkeRcT",
+      "trackName": "Bottoms Up - Remix",
+      "trackId": "4IDGDkqjfvbaCwRUALmQlQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cf9f68434a9e38ad02dc3c6f4b66c1ab3916d389",
+      "release_date": "2015-05-19"
+    },
+    {
+      "featuredArtist": "Colt Ford",
+      "featuredArtistId": "0OpWIlokQeE7BNQMhuu2Nx",
+      "trackName": "Dirt Road Anthem (Revisited)",
+      "trackId": "6bCPpCP0eHAxMbbxAWzSZ2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ad71d8ce5341a8fd500391f8340d583625b01c29",
+      "release_date": "2015-02-14"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "artistName": "Granger Smith",
+  "features": [
+    {
+      "featuredArtist": "Earl Dibbles Jr.",
+      "featuredArtistId": "2fTNvkLCMQkrFLxid6yHPG",
+      "trackName": "Don't Tread on Me (feat. Earl Dibbles Jr.)",
+      "trackId": "4JNdKmSZRsYDBwhIgZpa5M",
+      "preview": "https://p.scdn.co/mp3-preview/1b01837bd3f822f5fced10f0a765f016a2de9e24?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6daa8423d70d84ad667c8b657fe65ea8c203c965",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Brooke Eden",
+      "featuredArtistId": "6TFhESBLRTi95wmI1dRFVt",
+      "trackName": "Crazy as Me (feat. Brooke Eden)",
+      "trackId": "1WPz19X10wIR4vTR3lFIJw",
+      "preview": "https://p.scdn.co/mp3-preview/0c225e7e7b19bd8f41d80173b46da6a413e2a7df?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8e2ec5ddd3467599b16dfa465aa8adaa234703af",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Colt Ford",
+      "featuredArtistId": "0OpWIlokQeE7BNQMhuu2Nx",
+      "trackName": "Keepin' it Real (feat. Granger Smith)",
+      "trackId": "6rp1NTLCbCguLmIFqzq251",
+      "preview": "https://p.scdn.co/mp3-preview/93a2d946734d0225917a88f40d6d52fb5ea39e23?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2d8017f2b88cc07cd5716f259461b9663cb7c21f",
+      "release_date": "2017-05-05"
+    }
+  ]
+}

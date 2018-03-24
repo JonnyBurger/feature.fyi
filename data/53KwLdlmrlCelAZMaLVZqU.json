@@ -1,0 +1,41 @@
+{
+  "artistName": "James Blake",
+  "features": [
+    {
+      "featuredArtist": "Bon Iver",
+      "featuredArtistId": "4LEiUm1SRbFMgfqnQTwUbQ",
+      "trackName": "I Need A Forest Fire",
+      "trackId": "0x4KG7bxABwL5TIhC9k9EN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/03c73ccf88d1c66ed7454adf49705087777aca0c",
+      "release_date": "2016-05-05"
+    },
+    {
+      "featuredArtist": "RZA",
+      "featuredArtistId": "4iCwCMnqsNZ6atvRiADgtn",
+      "trackName": "Take A Fall For Me",
+      "trackId": "6CPGVZGwXUzeeUgQ2rhEQJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0eef0b3048f0bb2991ec5a31bc0243ecc64767cf",
+      "release_date": "2013-04-08"
+    },
+    {
+      "featuredArtist": "Vince Staples",
+      "featuredArtistId": "68kEuyFKyqrdQQLLsmiatm",
+      "trackName": "Timeless",
+      "trackId": "5wSc4vSdesjiDM48Zt5tsV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dfa509fb52a6c860e46726ee07cd0df3a922983a",
+      "release_date": "2016-09-02"
+    },
+    {
+      "featuredArtist": "Chance The Rapper",
+      "featuredArtistId": "1anyVhU62p31KFi8MEzkbf",
+      "trackName": "Life Round Here",
+      "trackId": "0fq2N4qK5B4mDuVx9FTpkc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ab5f886590b55260ef37217895294a3516b7f213",
+      "release_date": "2013-01-01"
+    }
+  ]
+}

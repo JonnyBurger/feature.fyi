@@ -1,0 +1,518 @@
+{
+  "artistName": "Pablo Martins",
+  "features": [
+    {
+      "featuredArtist": "WC no Beat",
+      "featuredArtistId": "2QjS2N6sORI7H4qbf6xitS",
+      "trackName": "Moça",
+      "trackId": "0xmeoqnrwtiXCA0ix2FYff",
+      "preview": "https://p.scdn.co/mp3-preview/3839147b201d48909cc8f2fcf6de4139ac439f14?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3abcbf722f80522e9bb531160760c5909afa441",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Don Juan",
+      "featuredArtistId": "3pcfEdFMBpKDauA7tmMpPH",
+      "trackName": "Moça",
+      "trackId": "0xmeoqnrwtiXCA0ix2FYff",
+      "preview": "https://p.scdn.co/mp3-preview/3839147b201d48909cc8f2fcf6de4139ac439f14?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3abcbf722f80522e9bb531160760c5909afa441",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Cacife Clandestino",
+      "featuredArtistId": "2RKcy8YT2w2QYn0D7TjiIi",
+      "trackName": "Moça",
+      "trackId": "0xmeoqnrwtiXCA0ix2FYff",
+      "preview": "https://p.scdn.co/mp3-preview/3839147b201d48909cc8f2fcf6de4139ac439f14?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3abcbf722f80522e9bb531160760c5909afa441",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "1Kilo",
+      "featuredArtistId": "6E2st8OqIaS7PU5gj95FSE",
+      "trackName": "Corpo Fechado",
+      "trackId": "3LGglirZ5WrjanyBjYX7HV",
+      "preview": "https://p.scdn.co/mp3-preview/c2f1a68f31e5fda10c4bec95283bd6ef0d39e3cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95ed79ff7f5987867c5609feb2781c3b223402de",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Piruka",
+      "featuredArtistId": "5iZ6jMDkRa7RKLQplJuQUC",
+      "trackName": "Corpo Fechado",
+      "trackId": "3LGglirZ5WrjanyBjYX7HV",
+      "preview": "https://p.scdn.co/mp3-preview/c2f1a68f31e5fda10c4bec95283bd6ef0d39e3cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95ed79ff7f5987867c5609feb2781c3b223402de",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Morgado",
+      "featuredArtistId": "6Pt2MYL0v97h4FajGcKJTT",
+      "trackName": "Corpo Fechado",
+      "trackId": "3LGglirZ5WrjanyBjYX7HV",
+      "preview": "https://p.scdn.co/mp3-preview/c2f1a68f31e5fda10c4bec95283bd6ef0d39e3cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95ed79ff7f5987867c5609feb2781c3b223402de",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "CT",
+      "featuredArtistId": "3WxUgB4Yr20VbdbKaFyHkV",
+      "trackName": "Corpo Fechado",
+      "trackId": "3LGglirZ5WrjanyBjYX7HV",
+      "preview": "https://p.scdn.co/mp3-preview/c2f1a68f31e5fda10c4bec95283bd6ef0d39e3cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95ed79ff7f5987867c5609feb2781c3b223402de",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Beleza",
+      "featuredArtistId": "05jPqk82hkCZQQXSTO8MTX",
+      "trackName": "Corpo Fechado",
+      "trackId": "3LGglirZ5WrjanyBjYX7HV",
+      "preview": "https://p.scdn.co/mp3-preview/c2f1a68f31e5fda10c4bec95283bd6ef0d39e3cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95ed79ff7f5987867c5609feb2781c3b223402de",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Baviera",
+      "featuredArtistId": "3v9jtq6vguRmAZ7Y2wolVI",
+      "trackName": "Deixe-Me Ir - DJ Tom Remix",
+      "trackId": "32FbtQn9JcMrf9l7dYivdG",
+      "preview": "https://p.scdn.co/mp3-preview/29a71639dc1ccb9105c32f1a53e64eafc237789b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/759c686822ce3bf05e61c885af8f29b06242a343",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Knust",
+      "featuredArtistId": "7e61ipXgYkB4fZOkM9k8sa",
+      "trackName": "Deixe-Me Ir - DJ Tom Remix",
+      "trackId": "32FbtQn9JcMrf9l7dYivdG",
+      "preview": "https://p.scdn.co/mp3-preview/29a71639dc1ccb9105c32f1a53e64eafc237789b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/759c686822ce3bf05e61c885af8f29b06242a343",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Chris",
+      "featuredArtistId": "6Tez9PXmGwA7lsY39lJhrK",
+      "trackName": "Quando Me Chama",
+      "trackId": "7uSH5eusNiDd3WMMjDbf3C",
+      "preview": "https://p.scdn.co/mp3-preview/aa024b585a4c2ba4bb02ccb1342bfec332b3e01c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/48994e806179a25eeb31b7773e76a2fc38899783",
+      "release_date": "2018-03-01"
+    },
+    {
+      "featuredArtist": "Nocivo Shomon",
+      "featuredArtistId": "7fVTW9oFlXKy9tzG15tcof",
+      "trackName": "Preciso Andar",
+      "trackId": "1kLXexZ71JKCS5RXN8DJ21",
+      "preview": "https://p.scdn.co/mp3-preview/59871995375fb5bf4175d9a0b457fa481c7cb8ad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef95b3d9499b2a10959e053f276a58528bf1c897",
+      "release_date": "2018-02-15"
+    },
+    {
+      "featuredArtist": "Mz",
+      "featuredArtistId": "3zx2ThJE2K2SgN7EFn68Z7",
+      "trackName": "Preciso Andar",
+      "trackId": "1kLXexZ71JKCS5RXN8DJ21",
+      "preview": "https://p.scdn.co/mp3-preview/59871995375fb5bf4175d9a0b457fa481c7cb8ad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef95b3d9499b2a10959e053f276a58528bf1c897",
+      "release_date": "2018-02-15"
+    },
+    {
+      "featuredArtist": "Sérgio Chiavazzoli",
+      "featuredArtistId": "6GDzbhH5bcHbbAWWQNXKNA",
+      "trackName": "Preciso Andar",
+      "trackId": "1kLXexZ71JKCS5RXN8DJ21",
+      "preview": "https://p.scdn.co/mp3-preview/59871995375fb5bf4175d9a0b457fa481c7cb8ad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef95b3d9499b2a10959e053f276a58528bf1c897",
+      "release_date": "2018-02-15"
+    },
+    {
+      "featuredArtist": "Pelé MilFlows",
+      "featuredArtistId": "4WbHbolEKZIhnkO2xv2Lm0",
+      "trackName": "Radin",
+      "trackId": "4vYcoZVnxEoOBVtZxWMrIu",
+      "preview": "https://p.scdn.co/mp3-preview/cedd5029366dd06a1bc6a5809c1378cdbd224550?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b78710b0eaeb4b7686860d8c71a79f3dd57ebac2",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Nata Química",
+      "featuredArtistId": "7yEaxKSTJqc4xEb416wMjx",
+      "trackName": "Esperança",
+      "trackId": "0p09YLWBCe4gMsD9o2T726",
+      "preview": "https://p.scdn.co/mp3-preview/c0a5d313b5ea56ea665c0a99738b2cf3cfd4ce49?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13b41b30403ed459e661b63badb4829b8301a6bc",
+      "release_date": "2018-01-15"
+    },
+    {
+      "featuredArtist": "Xamã",
+      "featuredArtistId": "4rz1Meopombn0wOQTZZLcG",
+      "trackName": "O Que Tiver Que Ser Vai Ser",
+      "trackId": "4WSVd1MeVfX1O3GA9bn1l3",
+      "preview": "https://p.scdn.co/mp3-preview/7f1900e9a7f04189d1d5a8165a413e1b97424057?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/59574f3c7eb128ef0f9952d883ae7d6ed12639d0",
+      "release_date": "2017-11-28"
+    },
+    {
+      "featuredArtist": "Baviera",
+      "featuredArtistId": "1b2nDdiLDYnzsAOxktHZ3P",
+      "trackName": "O Que Tiver Que Ser Vai Ser",
+      "trackId": "4WSVd1MeVfX1O3GA9bn1l3",
+      "preview": "https://p.scdn.co/mp3-preview/7f1900e9a7f04189d1d5a8165a413e1b97424057?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/59574f3c7eb128ef0f9952d883ae7d6ed12639d0",
+      "release_date": "2017-11-28"
+    },
+    {
+      "featuredArtist": "Sant",
+      "featuredArtistId": "2nIdh9G1JuKdxuoq4Webr5",
+      "trackName": "O Que Tiver Que Ser Vai Ser",
+      "trackId": "4WSVd1MeVfX1O3GA9bn1l3",
+      "preview": "https://p.scdn.co/mp3-preview/7f1900e9a7f04189d1d5a8165a413e1b97424057?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/59574f3c7eb128ef0f9952d883ae7d6ed12639d0",
+      "release_date": "2017-11-28"
+    },
+    {
+      "featuredArtist": "Nabrisa",
+      "featuredArtistId": "47kAdo05uGztGU3wLZZuMV",
+      "trackName": "O Que Tiver Que Ser Vai Ser",
+      "trackId": "4WSVd1MeVfX1O3GA9bn1l3",
+      "preview": "https://p.scdn.co/mp3-preview/7f1900e9a7f04189d1d5a8165a413e1b97424057?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/59574f3c7eb128ef0f9952d883ae7d6ed12639d0",
+      "release_date": "2017-11-28"
+    },
+    {
+      "featuredArtist": "DoisP",
+      "featuredArtistId": "4xcFNIVM3qTAXKmGRcBxx2",
+      "trackName": "O Que Tiver Que Ser Vai Ser",
+      "trackId": "4WSVd1MeVfX1O3GA9bn1l3",
+      "preview": "https://p.scdn.co/mp3-preview/7f1900e9a7f04189d1d5a8165a413e1b97424057?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/59574f3c7eb128ef0f9952d883ae7d6ed12639d0",
+      "release_date": "2017-11-28"
+    },
+    {
+      "featuredArtist": "Chino Oriente MC",
+      "featuredArtistId": "2Ue3Bon1VMDu9HmEEU1EWc",
+      "trackName": "Tudo Bem",
+      "trackId": "3yZz0emaKwHuEEjWeTTF7n",
+      "preview": "https://p.scdn.co/mp3-preview/120d9d5cc6eccd2bd71837b068caf5c8b237f989?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce1e8219f100162736cf8ffac072a818fee094c5",
+      "release_date": "2017-10-30"
+    },
+    {
+      "featuredArtist": "Lucas Lucco MC",
+      "featuredArtistId": "4tsm5E7If7h3Km3QwFbRlK",
+      "trackName": "Tudo Bem",
+      "trackId": "3yZz0emaKwHuEEjWeTTF7n",
+      "preview": "https://p.scdn.co/mp3-preview/120d9d5cc6eccd2bd71837b068caf5c8b237f989?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce1e8219f100162736cf8ffac072a818fee094c5",
+      "release_date": "2017-10-30"
+    },
+    {
+      "featuredArtist": "Ari MC",
+      "featuredArtistId": "60jyScVvJSdAnPrmLcBwPi",
+      "trackName": "Tudo Bem",
+      "trackId": "3yZz0emaKwHuEEjWeTTF7n",
+      "preview": "https://p.scdn.co/mp3-preview/120d9d5cc6eccd2bd71837b068caf5c8b237f989?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce1e8219f100162736cf8ffac072a818fee094c5",
+      "release_date": "2017-10-30"
+    },
+    {
+      "featuredArtist": "Chino Oriente",
+      "featuredArtistId": "5P1u2dpO21b3fcnwofPqoQ",
+      "trackName": "Tudo Bem",
+      "trackId": "3yZz0emaKwHuEEjWeTTF7n",
+      "preview": "https://p.scdn.co/mp3-preview/120d9d5cc6eccd2bd71837b068caf5c8b237f989?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce1e8219f100162736cf8ffac072a818fee094c5",
+      "release_date": "2017-10-30"
+    },
+    {
+      "featuredArtist": "Lucas Lucco",
+      "featuredArtistId": "06cd30Cv9US973Ika84gDw",
+      "trackName": "Tudo Bem",
+      "trackId": "3yZz0emaKwHuEEjWeTTF7n",
+      "preview": "https://p.scdn.co/mp3-preview/120d9d5cc6eccd2bd71837b068caf5c8b237f989?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce1e8219f100162736cf8ffac072a818fee094c5",
+      "release_date": "2017-10-30"
+    },
+    {
+      "featuredArtist": "Ari",
+      "featuredArtistId": "34zbyEB4LV9RuKpvQ0Oj0D",
+      "trackName": "Tudo Bem",
+      "trackId": "3yZz0emaKwHuEEjWeTTF7n",
+      "preview": "https://p.scdn.co/mp3-preview/120d9d5cc6eccd2bd71837b068caf5c8b237f989?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce1e8219f100162736cf8ffac072a818fee094c5",
+      "release_date": "2017-10-30"
+    },
+    {
+      "featuredArtist": "Knust",
+      "featuredArtistId": "2fbrBJC3VW1PbQbW6NauBy",
+      "trackName": "Baile 01",
+      "trackId": "15MlbDAQ7hV0knjID8jeSU",
+      "preview": "https://p.scdn.co/mp3-preview/c35bd98e6d0a68dd77b9a0cf3c29d432bacfeb8c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b310b376616656884d6551a7ceb2fb6376e4746",
+      "release_date": "2017-10-26"
+    },
+    {
+      "featuredArtist": "Pele",
+      "featuredArtistId": "3N7OpnUgIte042WEsMuZhu",
+      "trackName": "Baile 01",
+      "trackId": "15MlbDAQ7hV0knjID8jeSU",
+      "preview": "https://p.scdn.co/mp3-preview/c35bd98e6d0a68dd77b9a0cf3c29d432bacfeb8c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b310b376616656884d6551a7ceb2fb6376e4746",
+      "release_date": "2017-10-26"
+    },
+    {
+      "featuredArtist": "Chris",
+      "featuredArtistId": "1xkyjBYEwvBITrcsGDcOr3",
+      "trackName": "Baile 01",
+      "trackId": "15MlbDAQ7hV0knjID8jeSU",
+      "preview": "https://p.scdn.co/mp3-preview/c35bd98e6d0a68dd77b9a0cf3c29d432bacfeb8c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b310b376616656884d6551a7ceb2fb6376e4746",
+      "release_date": "2017-10-26"
+    },
+    {
+      "featuredArtist": "Mz",
+      "featuredArtistId": "0asO1iKBUKy3y7yjGEfhHz",
+      "trackName": "Baile 01",
+      "trackId": "15MlbDAQ7hV0knjID8jeSU",
+      "preview": "https://p.scdn.co/mp3-preview/c35bd98e6d0a68dd77b9a0cf3c29d432bacfeb8c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b310b376616656884d6551a7ceb2fb6376e4746",
+      "release_date": "2017-10-26"
+    },
+    {
+      "featuredArtist": "Funkeiro",
+      "featuredArtistId": "50UoJr5xhrXHT20hxA0rTr",
+      "trackName": "Baile 01",
+      "trackId": "15MlbDAQ7hV0knjID8jeSU",
+      "preview": "https://p.scdn.co/mp3-preview/c35bd98e6d0a68dd77b9a0cf3c29d432bacfeb8c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b310b376616656884d6551a7ceb2fb6376e4746",
+      "release_date": "2017-10-26"
+    },
+    {
+      "featuredArtist": "Diogo Loko",
+      "featuredArtistId": "64NI6abxh7ei9L5HnKCxPm",
+      "trackName": "O Surto",
+      "trackId": "629fXqEOMzNuGE18CL6UFv",
+      "preview": "https://p.scdn.co/mp3-preview/c617ab63b6af3ec9d7f3593cdc29e37ebfe8d439?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d4f3595ab0a922fb12e68a90e5df9fd497667ede",
+      "release_date": "2017-10-19"
+    },
+    {
+      "featuredArtist": "Sadan",
+      "featuredArtistId": "0jd8ZtGYdzpWj3EJEjjHcT",
+      "trackName": "O Surto",
+      "trackId": "629fXqEOMzNuGE18CL6UFv",
+      "preview": "https://p.scdn.co/mp3-preview/c617ab63b6af3ec9d7f3593cdc29e37ebfe8d439?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d4f3595ab0a922fb12e68a90e5df9fd497667ede",
+      "release_date": "2017-10-19"
+    },
+    {
+      "featuredArtist": "Menestrel",
+      "featuredArtistId": "1zEJ4VbH5gJ8emAAwVByq7",
+      "trackName": "O Surto",
+      "trackId": "629fXqEOMzNuGE18CL6UFv",
+      "preview": "https://p.scdn.co/mp3-preview/c617ab63b6af3ec9d7f3593cdc29e37ebfe8d439?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d4f3595ab0a922fb12e68a90e5df9fd497667ede",
+      "release_date": "2017-10-19"
+    },
+    {
+      "featuredArtist": "Matheus Mt",
+      "featuredArtistId": "46sI9QYT4q0S6AdaqEEZcV",
+      "trackName": "Jóias E Verdades (feat. Pablo Martins, MatheusMT, Chino Oriente, Nuquepi, DoisP, Água Viva, Mz & Nissin Oriente)",
+      "trackId": "7KlNTLj8RNqL4FhpMtWWvD",
+      "preview": "https://p.scdn.co/mp3-preview/1ade6debc436cacf14080cee5d6c2c7aef7aec2a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d3c468bf82d212041dee902fc8f7a126f0eec5e",
+      "release_date": "2017-10-04"
+    },
+    {
+      "featuredArtist": "Nuquepi",
+      "featuredArtistId": "46sjbrps75QG3U4U1wRsFq",
+      "trackName": "Jóias E Verdades (feat. Pablo Martins, MatheusMT, Chino Oriente, Nuquepi, DoisP, Água Viva, Mz & Nissin Oriente)",
+      "trackId": "7KlNTLj8RNqL4FhpMtWWvD",
+      "preview": "https://p.scdn.co/mp3-preview/1ade6debc436cacf14080cee5d6c2c7aef7aec2a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d3c468bf82d212041dee902fc8f7a126f0eec5e",
+      "release_date": "2017-10-04"
+    },
+    {
+      "featuredArtist": "DoisP",
+      "featuredArtistId": "17nL39Pbbf5ravJJkiD9Jl",
+      "trackName": "Jóias E Verdades (feat. Pablo Martins, MatheusMT, Chino Oriente, Nuquepi, DoisP, Água Viva, Mz & Nissin Oriente)",
+      "trackId": "7KlNTLj8RNqL4FhpMtWWvD",
+      "preview": "https://p.scdn.co/mp3-preview/1ade6debc436cacf14080cee5d6c2c7aef7aec2a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d3c468bf82d212041dee902fc8f7a126f0eec5e",
+      "release_date": "2017-10-04"
+    },
+    {
+      "featuredArtist": "Agua Viva",
+      "featuredArtistId": "6zxNUzdYpAuwGpZOnaAhDA",
+      "trackName": "Jóias E Verdades (feat. Pablo Martins, MatheusMT, Chino Oriente, Nuquepi, DoisP, Água Viva, Mz & Nissin Oriente)",
+      "trackId": "7KlNTLj8RNqL4FhpMtWWvD",
+      "preview": "https://p.scdn.co/mp3-preview/1ade6debc436cacf14080cee5d6c2c7aef7aec2a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d3c468bf82d212041dee902fc8f7a126f0eec5e",
+      "release_date": "2017-10-04"
+    },
+    {
+      "featuredArtist": "MZ",
+      "featuredArtistId": "7n9UmiVdvVQaI1A4JcuXOJ",
+      "trackName": "Jóias E Verdades (feat. Pablo Martins, MatheusMT, Chino Oriente, Nuquepi, DoisP, Água Viva, Mz & Nissin Oriente)",
+      "trackId": "7KlNTLj8RNqL4FhpMtWWvD",
+      "preview": "https://p.scdn.co/mp3-preview/1ade6debc436cacf14080cee5d6c2c7aef7aec2a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d3c468bf82d212041dee902fc8f7a126f0eec5e",
+      "release_date": "2017-10-04"
+    },
+    {
+      "featuredArtist": "Nissin Oriente",
+      "featuredArtistId": "702AgPGp1zUrp8odrd9FHt",
+      "trackName": "Jóias E Verdades (feat. Pablo Martins, MatheusMT, Chino Oriente, Nuquepi, DoisP, Água Viva, Mz & Nissin Oriente)",
+      "trackId": "7KlNTLj8RNqL4FhpMtWWvD",
+      "preview": "https://p.scdn.co/mp3-preview/1ade6debc436cacf14080cee5d6c2c7aef7aec2a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d3c468bf82d212041dee902fc8f7a126f0eec5e",
+      "release_date": "2017-10-04"
+    },
+    {
+      "featuredArtist": "Kalango",
+      "featuredArtistId": "0C3AEwIVtcxHW3NoVEF785",
+      "trackName": "Não é Normal (feat. Pablo Martins, Kalango, Pd, Rudah Zion, Bertoni & Laurinho Linhares)",
+      "trackId": "4SjnBX1epspU3WbCGGvIiG",
+      "preview": "https://p.scdn.co/mp3-preview/60283c54f50e3a8057813a0f857211d055f82d16?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f04cf45ca28d515adf31665647ac31a36b499923",
+      "release_date": "2017-10-02"
+    },
+    {
+      "featuredArtist": "PD",
+      "featuredArtistId": "7fdWz1m3vpsB17BmX6seZY",
+      "trackName": "Não é Normal (feat. Pablo Martins, Kalango, Pd, Rudah Zion, Bertoni & Laurinho Linhares)",
+      "trackId": "4SjnBX1epspU3WbCGGvIiG",
+      "preview": "https://p.scdn.co/mp3-preview/60283c54f50e3a8057813a0f857211d055f82d16?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f04cf45ca28d515adf31665647ac31a36b499923",
+      "release_date": "2017-10-02"
+    },
+    {
+      "featuredArtist": "Rudah Zion",
+      "featuredArtistId": "3jMSmuwFG4nGEtuINtMDwF",
+      "trackName": "Não é Normal (feat. Pablo Martins, Kalango, Pd, Rudah Zion, Bertoni & Laurinho Linhares)",
+      "trackId": "4SjnBX1epspU3WbCGGvIiG",
+      "preview": "https://p.scdn.co/mp3-preview/60283c54f50e3a8057813a0f857211d055f82d16?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f04cf45ca28d515adf31665647ac31a36b499923",
+      "release_date": "2017-10-02"
+    },
+    {
+      "featuredArtist": "Bertoni",
+      "featuredArtistId": "1sE5GzInliu3CWnsvxrSKx",
+      "trackName": "Não é Normal (feat. Pablo Martins, Kalango, Pd, Rudah Zion, Bertoni & Laurinho Linhares)",
+      "trackId": "4SjnBX1epspU3WbCGGvIiG",
+      "preview": "https://p.scdn.co/mp3-preview/60283c54f50e3a8057813a0f857211d055f82d16?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f04cf45ca28d515adf31665647ac31a36b499923",
+      "release_date": "2017-10-02"
+    },
+    {
+      "featuredArtist": "Laurinho Linhares",
+      "featuredArtistId": "6xaJYR57AQLRLasUGVSVlQ",
+      "trackName": "Não é Normal (feat. Pablo Martins, Kalango, Pd, Rudah Zion, Bertoni & Laurinho Linhares)",
+      "trackId": "4SjnBX1epspU3WbCGGvIiG",
+      "preview": "https://p.scdn.co/mp3-preview/60283c54f50e3a8057813a0f857211d055f82d16?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f04cf45ca28d515adf31665647ac31a36b499923",
+      "release_date": "2017-10-02"
+    },
+    {
+      "featuredArtist": "Lenzi",
+      "featuredArtistId": "10fo6xevdhpfOoTJy1Ds1g",
+      "trackName": "Tipo Agora (feat. Pablo Martins, Lenzi & Pedro Qualy)",
+      "trackId": "29pAeJS3wQkbPM6OYdbID5",
+      "preview": "https://p.scdn.co/mp3-preview/602dc1ea2986fae6c99086e5bb9bda20844abea9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/105dfce458ac9d9e399664d438e349368913ceb2",
+      "release_date": "2017-09-06"
+    },
+    {
+      "featuredArtist": "Pedro Qualy",
+      "featuredArtistId": "4AfTjKLguMiMYaGIS7sBJp",
+      "trackName": "Tipo Agora (feat. Pablo Martins, Lenzi & Pedro Qualy)",
+      "trackId": "29pAeJS3wQkbPM6OYdbID5",
+      "preview": "https://p.scdn.co/mp3-preview/602dc1ea2986fae6c99086e5bb9bda20844abea9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/105dfce458ac9d9e399664d438e349368913ceb2",
+      "release_date": "2017-09-06"
+    },
+    {
+      "featuredArtist": "Morgado",
+      "featuredArtistId": "18PzCN6SSqd7FcS21URnnN",
+      "trackName": "Você Vai Entender (feat. Pablo Martins, Morgado, NaBrisa & Baviera)",
+      "trackId": "3IfJVGTOfqoecb0bCm0CO8",
+      "preview": "https://p.scdn.co/mp3-preview/320a5a4701f0a4abfccfb88e5620ff3cc5f80db3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c2997394dfa204af461e4015f4efae2971412655",
+      "release_date": "2017-08-15"
+    },
+    {
+      "featuredArtist": "NaBrisa",
+      "featuredArtistId": "6hsjrcWvWqeIJaEUa9Fh3c",
+      "trackName": "Você Vai Entender (feat. Pablo Martins, Morgado, NaBrisa & Baviera)",
+      "trackId": "3IfJVGTOfqoecb0bCm0CO8",
+      "preview": "https://p.scdn.co/mp3-preview/320a5a4701f0a4abfccfb88e5620ff3cc5f80db3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c2997394dfa204af461e4015f4efae2971412655",
+      "release_date": "2017-08-15"
+    },
+    {
+      "featuredArtist": "Baviera",
+      "featuredArtistId": "6cUTkFvlPW27lYc3qcoOgy",
+      "trackName": "Você Vai Entender (feat. Pablo Martins, Morgado, NaBrisa & Baviera)",
+      "trackId": "3IfJVGTOfqoecb0bCm0CO8",
+      "preview": "https://p.scdn.co/mp3-preview/320a5a4701f0a4abfccfb88e5620ff3cc5f80db3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c2997394dfa204af461e4015f4efae2971412655",
+      "release_date": "2017-08-15"
+    },
+    {
+      "featuredArtist": "Mz",
+      "featuredArtistId": "3Sd2Rfc1c1crdEVk99YqUX",
+      "trackName": "1kilo Na Linha de Frente (feat. Pablo Martins, Mz, Knust, Pelé MilFlows, DoisP, Funkero, Sadan & Xamã)",
+      "trackId": "314AODeNf7LfrGgVfL9lbF",
+      "preview": "https://p.scdn.co/mp3-preview/33f2fbfa31fdc248ac5640b664550aabeb0eef8f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64ec9ea680b12f1e529847fc93026017077b58c8",
+      "release_date": "2017-07-31"
+    },
+    {
+      "featuredArtist": "Knust",
+      "featuredArtistId": "5n5JvhHhmqC32XQ7orEymr",
+      "trackName": "1kilo Na Linha de Frente (feat. Pablo Martins, Mz, Knust, Pelé MilFlows, DoisP, Funkero, Sadan & Xamã)",
+      "trackId": "314AODeNf7LfrGgVfL9lbF",
+      "preview": "https://p.scdn.co/mp3-preview/33f2fbfa31fdc248ac5640b664550aabeb0eef8f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64ec9ea680b12f1e529847fc93026017077b58c8",
+      "release_date": "2017-07-31"
+    },
+    {
+      "featuredArtist": "Pelé MilFlows",
+      "featuredArtistId": "0ySzjQHjM2Al8xpvf1Nh70",
+      "trackName": "1kilo Na Linha de Frente (feat. Pablo Martins, Mz, Knust, Pelé MilFlows, DoisP, Funkero, Sadan & Xamã)",
+      "trackId": "314AODeNf7LfrGgVfL9lbF",
+      "preview": "https://p.scdn.co/mp3-preview/33f2fbfa31fdc248ac5640b664550aabeb0eef8f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64ec9ea680b12f1e529847fc93026017077b58c8",
+      "release_date": "2017-07-31"
+    },
+    {
+      "featuredArtist": "Funkero",
+      "featuredArtistId": "2ZMHN7QDrXusDtc3N4WJdG",
+      "trackName": "1kilo Na Linha de Frente (feat. Pablo Martins, Mz, Knust, Pelé MilFlows, DoisP, Funkero, Sadan & Xamã)",
+      "trackId": "314AODeNf7LfrGgVfL9lbF",
+      "preview": "https://p.scdn.co/mp3-preview/33f2fbfa31fdc248ac5640b664550aabeb0eef8f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64ec9ea680b12f1e529847fc93026017077b58c8",
+      "release_date": "2017-07-31"
+    },
+    {
+      "featuredArtist": "Sadan",
+      "featuredArtistId": "6FPRA7V2UG8uSiEwwFUZtc",
+      "trackName": "1kilo Na Linha de Frente (feat. Pablo Martins, Mz, Knust, Pelé MilFlows, DoisP, Funkero, Sadan & Xamã)",
+      "trackId": "314AODeNf7LfrGgVfL9lbF",
+      "preview": "https://p.scdn.co/mp3-preview/33f2fbfa31fdc248ac5640b664550aabeb0eef8f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64ec9ea680b12f1e529847fc93026017077b58c8",
+      "release_date": "2017-07-31"
+    },
+    {
+      "featuredArtist": "Xamã",
+      "featuredArtistId": "47QfwBg119nOOyOL1i7W9b",
+      "trackName": "1kilo Na Linha de Frente (feat. Pablo Martins, Mz, Knust, Pelé MilFlows, DoisP, Funkero, Sadan & Xamã)",
+      "trackId": "314AODeNf7LfrGgVfL9lbF",
+      "preview": "https://p.scdn.co/mp3-preview/33f2fbfa31fdc248ac5640b664550aabeb0eef8f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64ec9ea680b12f1e529847fc93026017077b58c8",
+      "release_date": "2017-07-31"
+    }
+  ]
+}

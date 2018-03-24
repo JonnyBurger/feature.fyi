@@ -1,0 +1,50 @@
+{
+  "artistName": "Niall Horan",
+  "features": [
+    {
+      "featuredArtist": "Maren Morris",
+      "featuredArtistId": "6WY7D3jk8zTrHtmkqqo5GI",
+      "trackName": "Seeing Blind",
+      "trackId": "1CxLWO9XW1aK4yv7zViVdn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ba46318025b0a89163deb083806643e75b039a72",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "slenderbodies",
+      "featuredArtistId": "3S4d3YRNGg2OhnNm3QvfhA",
+      "trackName": "On The Loose - slenderbodies Remix",
+      "trackId": "42Vg8q8cGfzGFn5BoVfVyF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e0fed7e2bbacf666087091994a33f2f5fac4cc70",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Basic Tape",
+      "featuredArtistId": "6EzGm3fYBR8QcdIZ0xvHsl",
+      "trackName": "On The Loose - Basic Tape Remix",
+      "trackId": "5hnKUHsAP86WIDnrYSAjnv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/205aecb85922c8cb55c32a1b5f3b1c3a325af6cf",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Cedric Gervais",
+      "featuredArtistId": "4Wjf8diP59VmPG7fi4y724",
+      "trackName": "Too Much To Ask - Cedric Gervais Remix",
+      "trackId": "2DXy7bUp7RQhuatiFi0HAX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/643d4eca939d68aae86b782413ee5629162b7b1c",
+      "release_date": "2017-10-10"
+    },
+    {
+      "featuredArtist": "TRU Concept",
+      "featuredArtistId": "0i8byW08EV6y7Dv9gDPUCF",
+      "trackName": "Too Much To Ask - TRU Concept Remix",
+      "trackId": "0EvBasktVJsBYZXDv3GeI2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/da1d1dd85f4c4fbbc988da61a77c03aa5315bf99",
+      "release_date": "2017-10-10"
+    }
+  ]
+}

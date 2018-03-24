@@ -1,0 +1,545 @@
+{
+  "artistName": "Colt Ford",
+  "features": [
+    {
+      "featuredArtist": "Taylor Ray Holbrook",
+      "featuredArtistId": "58nB2Z6IiDdTUTwHYw56xI",
+      "trackName": "Reload (feat. Taylor Ray Holbrook)",
+      "trackId": "4PKPYaqznLL7PVwM6U3vWq",
+      "preview": "https://p.scdn.co/mp3-preview/5467112a2029e90f762236b8b64f66c03ab470e8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2d8017f2b88cc07cd5716f259461b9663cb7c21f",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Waterloo Revival",
+      "featuredArtistId": "3dYdcyW7mhZYVDDkNvkd0c",
+      "trackName": "Dynamite (feat. Waterloo Revival)",
+      "trackId": "3CmKcztYOwGj0fmho6AyQy",
+      "preview": "https://p.scdn.co/mp3-preview/4512df25540852c644d1ba5b25ac45e070db09ff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2d8017f2b88cc07cd5716f259461b9663cb7c21f",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Charles Kelley",
+      "featuredArtistId": "2Hbxyk7qJ22i8wFEqgM3vC",
+      "trackName": "Young Americans (feat. Charles Kelley & Josh Kelley)",
+      "trackId": "5rEVlPTBj7d9vBT7jWmDb0",
+      "preview": "https://p.scdn.co/mp3-preview/0047f41bcb6e042899d99e739160d3f3f4bfe896?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2d8017f2b88cc07cd5716f259461b9663cb7c21f",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Josh Kelley",
+      "featuredArtistId": "1yLlQimDTRrACa45u50LXW",
+      "trackName": "Young Americans (feat. Charles Kelley & Josh Kelley)",
+      "trackId": "5rEVlPTBj7d9vBT7jWmDb0",
+      "preview": "https://p.scdn.co/mp3-preview/0047f41bcb6e042899d99e739160d3f3f4bfe896?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2d8017f2b88cc07cd5716f259461b9663cb7c21f",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Tyler Farr",
+      "featuredArtistId": "3vHV92ecrylnUHDM4d2MtC",
+      "trackName": "My Truck (feat. Tyler Farr)",
+      "trackId": "0tLuoCdvhS8gsvAAbwUI7f",
+      "preview": "https://p.scdn.co/mp3-preview/8a3cb246a63b3f8c3729d0a55edb7a6bf9a4a22f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2d8017f2b88cc07cd5716f259461b9663cb7c21f",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Brad Paisley",
+      "featuredArtistId": "13YmWQJFwgZrd4bf5IjMY4",
+      "trackName": "Lookin' for a Hand out (feat. Brad Paisley)",
+      "trackId": "2Go9P56Tv075SGjRGfRj8m",
+      "preview": "https://p.scdn.co/mp3-preview/0c6bca28f89fcb972ff25454418b0f570f3d1989?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2d8017f2b88cc07cd5716f259461b9663cb7c21f",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Toby Keith",
+      "featuredArtistId": "2bA6fzP0lMAQ4kz6CF61w8",
+      "trackName": "Time Flies (feat. Toby Keith)",
+      "trackId": "0JDVa6kfcTNdNrrbKEbhYS",
+      "preview": "https://p.scdn.co/mp3-preview/63bd48876a7517fc72b757b10a8c5c1a25eff177?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2d8017f2b88cc07cd5716f259461b9663cb7c21f",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Javier Colon",
+      "featuredArtistId": "3flTDj1VSZCktpBGZlNutt",
+      "trackName": "No Rest (feat. Javier Colon)",
+      "trackId": "0s5YcMB3iUKZ8r8gurcvGY",
+      "preview": "https://p.scdn.co/mp3-preview/f3657ab2f854d4a1b233a3e980920fb4669e3ba3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2d8017f2b88cc07cd5716f259461b9663cb7c21f",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Lit",
+      "featuredArtistId": "5mgr0FFpvy267wKVAYg8qp",
+      "trackName": "I'm Mud (feat. Lit)",
+      "trackId": "1y0uSuy5BI9549FieMduZr",
+      "preview": "https://p.scdn.co/mp3-preview/4021bf1b44a70af49534623bc56c097f866f790b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2d8017f2b88cc07cd5716f259461b9663cb7c21f",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Rizzi Myers",
+      "featuredArtistId": "7KudkDqaTQnh7htd2BKJM1",
+      "trackName": "Bad Day (feat. Rizzi Myers)",
+      "trackId": "7F1Gabsqtkms3ulKwBRkOv",
+      "preview": "https://p.scdn.co/mp3-preview/5dd7e0ae455f215ddd60fe49506336ad58a97bf3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2d8017f2b88cc07cd5716f259461b9663cb7c21f",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Granger Smith",
+      "featuredArtistId": "4sTFGCigAQIUiEy8wSSQNF",
+      "trackName": "Keepin' it Real (feat. Granger Smith)",
+      "trackId": "6rp1NTLCbCguLmIFqzq251",
+      "preview": "https://p.scdn.co/mp3-preview/93a2d946734d0225917a88f40d6d52fb5ea39e23?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2d8017f2b88cc07cd5716f259461b9663cb7c21f",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "JJ Lawhorn",
+      "featuredArtistId": "3HvapZ323lwmK8tu8JsLvb",
+      "trackName": "Answer to No One (feat. JJ Lawhorn)",
+      "trackId": "5KEaUdTl5vdFAVrXfR9MnI",
+      "preview": "https://p.scdn.co/mp3-preview/ff59e472f5a882890014cf02fe5c6ab632d15b72?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab049acbe3c504aa08747a431271d875fcd205d",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Chase Rice",
+      "featuredArtistId": "6pBNfggcZZDCmb0p92OnGn",
+      "trackName": "The High Life (feat. Chase Rice)",
+      "trackId": "2XNyIrEZKHDiqYp1nSxOcz",
+      "preview": "https://p.scdn.co/mp3-preview/0ad029810c98e1e18ac4a97fa1b19228333a9814?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab049acbe3c504aa08747a431271d875fcd205d",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Jake Owen",
+      "featuredArtistId": "1n2pb9Tsfe4SwAjmUac6YT",
+      "trackName": "Back (feat. Jake Owen)",
+      "trackId": "39F5HkNdUrwrVfo3JQlyby",
+      "preview": "https://p.scdn.co/mp3-preview/2c33ea1509dbbc6dc11254d0d8f633a9f38cf62a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab049acbe3c504aa08747a431271d875fcd205d",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Nappy Roots",
+      "featuredArtistId": "3tCxM1rTj2qUXsiQZxvt2I",
+      "trackName": "Waste Some Time (feat. Nappy Roots & Nic Cowan)",
+      "trackId": "6J82P12OjzkJOORa7WnOy0",
+      "preview": "https://p.scdn.co/mp3-preview/939a29321fdb61fd88c39e7923f7785dd72d17a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab049acbe3c504aa08747a431271d875fcd205d",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Nic Cowan",
+      "featuredArtistId": "20pWb2yNSfJk05s8tjZwXI",
+      "trackName": "Waste Some Time (feat. Nappy Roots & Nic Cowan)",
+      "trackId": "6J82P12OjzkJOORa7WnOy0",
+      "preview": "https://p.scdn.co/mp3-preview/939a29321fdb61fd88c39e7923f7785dd72d17a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab049acbe3c504aa08747a431271d875fcd205d",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Willie Robertson",
+      "featuredArtistId": "3PHMlnKZR0rezaBsQ2t0ir",
+      "trackName": "Cut 'em All (feat. Willie Robertson)",
+      "trackId": "6AuuVpFyXd0XyF1tZLFsB0",
+      "preview": "https://p.scdn.co/mp3-preview/fd38826ae17f8b5039f5db11fc6f6c770ca80639?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab049acbe3c504aa08747a431271d875fcd205d",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Eric Church",
+      "featuredArtistId": "2IvkS5MXK0vPGnwyJsrEyV",
+      "trackName": "Country Thang (feat. Eric Church)",
+      "trackId": "1z7TPZSuhfoHdIbMjAdCCC",
+      "preview": "https://p.scdn.co/mp3-preview/33c06a7060fba753a7274db970d462198543f496?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab049acbe3c504aa08747a431271d875fcd205d",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Jason Aldean",
+      "featuredArtistId": "3FfvYsEGaIb52QPXhg4DcH",
+      "trackName": "Drivin' Around Song (feat. Jason Aldean)",
+      "trackId": "3gg7FCvUe9rskWaGzhKysP",
+      "preview": "https://p.scdn.co/mp3-preview/c4e83c356c73ef81e697d35307ea098601fa44a7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab049acbe3c504aa08747a431271d875fcd205d",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Jamey Johnson",
+      "featuredArtistId": "5yhxqYI0JBwUKfXpSEjiM8",
+      "trackName": "Cold Beer (feat. Jamey Johnson)",
+      "trackId": "7oefbsMnGaBeyuOmu2Px0O",
+      "preview": "https://p.scdn.co/mp3-preview/3a3a9b64ed88ec96ab580491a66fe61fbfec25f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab049acbe3c504aa08747a431271d875fcd205d",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "John Michael Montgomery",
+      "featuredArtistId": "7mPcfx7PhnBh6n4HMCd61A",
+      "trackName": "Ride Through the Country (feat. John Michael Montgomery)",
+      "trackId": "526G4Rx6GP2Hb3mrvujGax",
+      "preview": "https://p.scdn.co/mp3-preview/688e7b50f1490d0660493bfde346052d74fc49a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab049acbe3c504aa08747a431271d875fcd205d",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "James Otto",
+      "featuredArtistId": "3VStI6m5Ig9FAyUaa0lYAP",
+      "trackName": "Chicken and Biscuits (feat. James Otto)",
+      "trackId": "60maZci7M44pwcflwpa7J9",
+      "preview": "https://p.scdn.co/mp3-preview/cf5f884017a1a04b546e26911e8da54781804448?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab049acbe3c504aa08747a431271d875fcd205d",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Brantley Gilbert",
+      "featuredArtistId": "5q8HGNo0BjLWaTAhRtbwxa",
+      "trackName": "Dirt Road Anthem (feat. Brantley Gilbert)",
+      "trackId": "1YkvIlSvLXOb0OHllovKXc",
+      "preview": "https://p.scdn.co/mp3-preview/c9ba2aa3eba7ceca15d63568ce811b7a129ad73a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fab049acbe3c504aa08747a431271d875fcd205d",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Daniel Lee",
+      "featuredArtistId": "6l3pNvLTkJiDE3V1SLSGCj",
+      "trackName": "Thanks for Listening (feat. Daniel Lee)",
+      "trackId": "3WIgiek0xpLgO64TIHeRg5",
+      "preview": "https://p.scdn.co/mp3-preview/e6cc4d34ea264871dbcd25e38984780707f88e8b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41d2b21836960a12435bfc85dee3642120723a0c",
+      "release_date": "2014-07-01"
+    },
+    {
+      "featuredArtist": "Keith Urban",
+      "featuredArtistId": "0u2FHSq3ln94y5Q57xazwf",
+      "trackName": "She's Like (feat. Keith Urban)",
+      "trackId": "5Rvwrl8locJaWsgUkvccXR",
+      "preview": "https://p.scdn.co/mp3-preview/33cc656f1be292675e378c37e8f2b1dd0d3631a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41d2b21836960a12435bfc85dee3642120723a0c",
+      "release_date": "2014-07-01"
+    },
+    {
+      "featuredArtist": "Walker Hayes",
+      "featuredArtistId": "7sKxqpSqbIzphAKAhrqvlf",
+      "trackName": "Dirty Side (feat. Walker Hayes)",
+      "trackId": "12oinV3EzFDWj89DBgnpwq",
+      "preview": "https://p.scdn.co/mp3-preview/80386f70f722e10fe09153a76e0c157755559609?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41d2b21836960a12435bfc85dee3642120723a0c",
+      "release_date": "2014-07-01"
+    },
+    {
+      "featuredArtist": "Lee Brice",
+      "featuredArtistId": "5Zq7R5qmi58ByYyBQTlNuk",
+      "trackName": "Sip It Slow (feat. Lee Brice)",
+      "trackId": "5dLLrP4wd6447cDOm0RD1B",
+      "preview": "https://p.scdn.co/mp3-preview/45692ec80c8bb01f7d1457c4e934e1489a8aa33e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41d2b21836960a12435bfc85dee3642120723a0c",
+      "release_date": "2014-07-01"
+    },
+    {
+      "featuredArtist": "Justin Moore",
+      "featuredArtistId": "6hEYrFMRtCkCtpwUoClOeZ",
+      "trackName": "Farm Life (feat. Justin Moore)",
+      "trackId": "5XcW12dn1IdLBVtxMzA1XD",
+      "preview": "https://p.scdn.co/mp3-preview/f90a7e2a8c3347d7a514f0e1f93780a29401d6d1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41d2b21836960a12435bfc85dee3642120723a0c",
+      "release_date": "2014-07-01"
+    },
+    {
+      "featuredArtist": "Jerrod Niemann",
+      "featuredArtistId": "0RKP52f5PNDCRZ9Luq2Sr7",
+      "trackName": "Crickets (feat. Jerrod Niemann)",
+      "trackId": "5fKnUZMzKBbIiRuGieDZAB",
+      "preview": "https://p.scdn.co/mp3-preview/f19092e5b7524668d8f91b5abd77e718f913ce0a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41d2b21836960a12435bfc85dee3642120723a0c",
+      "release_date": "2014-07-01"
+    },
+    {
+      "featuredArtist": "Randy Houser",
+      "featuredArtistId": "56x8mYvS3cyDGAi8N2FxbB",
+      "trackName": "Washed in the Mud (feat. Randy Houser)",
+      "trackId": "5Dp5RPICiuwGdA7zHalMow",
+      "preview": "https://p.scdn.co/mp3-preview/66c428aa19dd68fd5731f584b392c9bff1eda3db?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41d2b21836960a12435bfc85dee3642120723a0c",
+      "release_date": "2014-07-01"
+    },
+    {
+      "featuredArtist": "Justin Moore",
+      "featuredArtistId": "30e8DmahrEamvLbFRPdWmk",
+      "trackName": "Farm Life (feat. Justin Moore)",
+      "trackId": "0tZ0i4h3kOgWR8zpYrJOi4",
+      "preview": "https://p.scdn.co/mp3-preview/c93f1c83bb49e89fdec226c3408f650c49415df2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41d2b21836960a12435bfc85dee3642120723a0c",
+      "release_date": "2014-07-01"
+    },
+    {
+      "featuredArtist": "Kix Brooks",
+      "featuredArtistId": "1blfMUdqahbMZzbmbbN2j8",
+      "trackName": "All in (feat. Kix Brooks)",
+      "trackId": "3koPX9jHlHl065nouma1Gf",
+      "preview": "https://p.scdn.co/mp3-preview/ca2ee3857e953d0b0c70e7ea215f371ec5351ce1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d53aea5d5daad9529e23e1bb58a47679b92b851",
+      "release_date": "2012-08-07"
+    },
+    {
+      "featuredArtist": "Montgomery Gentry",
+      "featuredArtistId": "3bGXaFVQLASmDMdjjeJr8a",
+      "trackName": "Ain’t Out of the Woods Yet (feat. Montgomery Gentry)",
+      "trackId": "29NYfHt5c5eAjAFuo53Ugu",
+      "preview": "https://p.scdn.co/mp3-preview/c8cd79035c36c51e001c50a2298a6bb0c30e8216?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d53aea5d5daad9529e23e1bb58a47679b92b851",
+      "release_date": "2012-08-07"
+    },
+    {
+      "featuredArtist": "Jonathan Singleton",
+      "featuredArtistId": "4Cfb1SD8jT5HaX4eQ0aMjq",
+      "trackName": "Lucky (feat. Jonathan Singleton)",
+      "trackId": "54HfoRszOcgosGDOs5uHqT",
+      "preview": "https://p.scdn.co/mp3-preview/c8758da9c8d159c29bdf95453761f69e965be98b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d53aea5d5daad9529e23e1bb58a47679b92b851",
+      "release_date": "2012-08-07"
+    },
+    {
+      "featuredArtist": "LOCASH",
+      "featuredArtistId": "5IcGbIAgdns0R5EJKHMjCQ",
+      "trackName": "Dancin’ While Intoxicated (DWI) [feat. Lo Cash Cowboys & Redneck Social Club]",
+      "trackId": "2kYiUYivOkOZi3uyPtvUrI",
+      "preview": "https://p.scdn.co/mp3-preview/5ab3a33e5d35a53eaf60292d13aeb77e69f387be?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d53aea5d5daad9529e23e1bb58a47679b92b851",
+      "release_date": "2012-08-07"
+    },
+    {
+      "featuredArtist": "Redneck Social Club",
+      "featuredArtistId": "4nPrlCWAm20yBoiyE5vpr1",
+      "trackName": "Dancin’ While Intoxicated (DWI) [feat. Lo Cash Cowboys & Redneck Social Club]",
+      "trackId": "2kYiUYivOkOZi3uyPtvUrI",
+      "preview": "https://p.scdn.co/mp3-preview/5ab3a33e5d35a53eaf60292d13aeb77e69f387be?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d53aea5d5daad9529e23e1bb58a47679b92b851",
+      "release_date": "2012-08-07"
+    },
+    {
+      "featuredArtist": "Jeffrey Steele",
+      "featuredArtistId": "2Znov2bFtJO4sppc5bSa2d",
+      "trackName": "It’s All (feat. Jeffrey Steele)",
+      "trackId": "0EIQsDRQJzUxnzNuprmN8C",
+      "preview": "https://p.scdn.co/mp3-preview/ad1cf59b2110bc133283bbdb6ce82842f7a9302a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d53aea5d5daad9529e23e1bb58a47679b92b851",
+      "release_date": "2012-08-07"
+    },
+    {
+      "featuredArtist": "Laura Bell Bundy",
+      "featuredArtistId": "32bisvV1h0yF3PeKmWI6sj",
+      "trackName": "Hugh Damn Right (feat. Laura Bell Bundy)",
+      "trackId": "3pnTK60UjBGVO8JMikYAcS",
+      "preview": "https://p.scdn.co/mp3-preview/664300ac995badf4f06c2a6f06b0c9a77abf67c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d53aea5d5daad9529e23e1bb58a47679b92b851",
+      "release_date": "2012-08-07"
+    },
+    {
+      "featuredArtist": "Corey Smith",
+      "featuredArtistId": "2Da6v0shOpKrOG07ZxonXo",
+      "trackName": "Room At the Bar (feat. Corey Smith)",
+      "trackId": "3L5i7Mt9Y0XkEeVz1DlmIP",
+      "preview": "https://p.scdn.co/mp3-preview/9fbfbc925ce1146582a0fd18c38fd8f75d10072f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d53aea5d5daad9529e23e1bb58a47679b92b851",
+      "release_date": "2012-08-07"
+    },
+    {
+      "featuredArtist": "Russell Dickerson",
+      "featuredArtistId": "1E2AEtxaFaJtH0lO7kgNKw",
+      "trackName": "All of My Tomorrows (feat. Russell Dickerson)",
+      "trackId": "2vhgxsLCX933KOYHljocqJ",
+      "preview": "https://p.scdn.co/mp3-preview/779b8dd39e9a4d4e71f30d4df4f61c30d6bc8bb9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d53aea5d5daad9529e23e1bb58a47679b92b851",
+      "release_date": "2012-08-07"
+    },
+    {
+      "featuredArtist": "Wanya Morris",
+      "featuredArtistId": "1BUKOA8zRAhTbh3xPE6gDm",
+      "trackName": "Happy in Hell (feat. Wanya Morris)",
+      "trackId": "7cqc3ckusdRREe5MfgUkg4",
+      "preview": "https://p.scdn.co/mp3-preview/6de76f91b6409a8155b4bac004bedcd882981e74?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d53aea5d5daad9529e23e1bb58a47679b92b851",
+      "release_date": "2012-08-07"
+    },
+    {
+      "featuredArtist": "Darius Rucker",
+      "featuredArtistId": "7FY5V3XMwlNBPitEjXowHQ",
+      "trackName": "Way Too Early (feat. Darius Rucker)",
+      "trackId": "5W4BhgjsJmmtB4HUqrPeST",
+      "preview": "https://p.scdn.co/mp3-preview/392754a6afa9095b0bcebb293f3298344c77473c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d53aea5d5daad9529e23e1bb58a47679b92b851",
+      "release_date": "2012-08-07"
+    },
+    {
+      "featuredArtist": "Lamar Williams Jr.",
+      "featuredArtistId": "1ArGVCjCLeHMHzUK4MUkD4",
+      "trackName": "Angels & Demons (feat. Lamar Williams Jr.)",
+      "trackId": "6YlYsjmzxJk5Hp0CZ3O76i",
+      "preview": "https://p.scdn.co/mp3-preview/45bf75e54efdf9ecf9730110e9e54fa3b5406c3a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d53aea5d5daad9529e23e1bb58a47679b92b851",
+      "release_date": "2012-08-07"
+    },
+    {
+      "featuredArtist": "Luke Bryan",
+      "featuredArtistId": "0BvkDsjIUla7X0k6CSWh1I",
+      "trackName": "Work It Out (feat. Luke Bryan)",
+      "trackId": "185uvLQEcwXw0GhtAi4maI",
+      "preview": "https://p.scdn.co/mp3-preview/a256c9137d9bd939d5cf537be830666194b43560?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8aaacf6027a479583460fb52d80acfa1c201019c",
+      "release_date": "2011-05-03"
+    },
+    {
+      "featuredArtist": "Josh Thompson",
+      "featuredArtistId": "0KKimaooAXZiC7tzAvdqHg",
+      "trackName": "Do It With My Eyes Closed (feat. Josh Thompson)",
+      "trackId": "4ciQKHNluPofjl43TH2Fxa",
+      "preview": "https://p.scdn.co/mp3-preview/8d577db62b6d82d4a0b1ad254ff2849ba83b807e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8aaacf6027a479583460fb52d80acfa1c201019c",
+      "release_date": "2011-05-03"
+    },
+    {
+      "featuredArtist": "Danny Boone",
+      "featuredArtistId": "6hbruWbLY9C6Id2335jVF8",
+      "trackName": "This Is Our Song (feat. Danny Boone of Rehab)",
+      "trackId": "3C5vNnzhvWbNqoGYhs619y",
+      "preview": "https://p.scdn.co/mp3-preview/0ec0782a07a936476e0f57386994dfcb09d831fe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8aaacf6027a479583460fb52d80acfa1c201019c",
+      "release_date": "2011-05-03"
+    },
+    {
+      "featuredArtist": "Trent Tomlinson",
+      "featuredArtistId": "1Zn69emN3uZsF6YwCrkgYp",
+      "trackName": "Titty’s Beer (feat. Trent Tomlinson)",
+      "trackId": "1rySRqqSYcBTMFWJIYLsAv",
+      "preview": "https://p.scdn.co/mp3-preview/c8b0a190904ad0d79dc16c1b91269b6a06c041d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8aaacf6027a479583460fb52d80acfa1c201019c",
+      "release_date": "2011-05-03"
+    },
+    {
+      "featuredArtist": "Craig Morgan",
+      "featuredArtistId": "6ktyNEnEukKzskQEiXgCFD",
+      "trackName": "She Likes To Ride In Trucks (feat. Craig Morgan)",
+      "trackId": "2zkVwIFfrkXD26oCBSUIIj",
+      "preview": "https://p.scdn.co/mp3-preview/9f8e5101a0911d33bafa45452aae3e0fd74ff71d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8aaacf6027a479583460fb52d80acfa1c201019c",
+      "release_date": "2011-05-03"
+    },
+    {
+      "featuredArtist": "JB and The Moonshine Band",
+      "featuredArtistId": "0fY9RWMWc5guge9XOKe4OW",
+      "trackName": "What I Call Home (feat. JB and The Moonshine Band)",
+      "trackId": "14AAb2TLONyvf0aNS8i45E",
+      "preview": "https://p.scdn.co/mp3-preview/62f66241c882176f563472276bfbff6262ab2b99?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8aaacf6027a479583460fb52d80acfa1c201019c",
+      "release_date": "2011-05-03"
+    },
+    {
+      "featuredArtist": "Charlie Daniels",
+      "featuredArtistId": "6UpFUXmXvDV7Qj1SPymamh",
+      "trackName": "Overworked & Underpaid (feat. Charlie Daniels)",
+      "trackId": "1g855rnKtLvI55Ye8zF8vK",
+      "preview": "https://p.scdn.co/mp3-preview/805a7486adc0eb10522d2140a0e55d9134724150?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8aaacf6027a479583460fb52d80acfa1c201019c",
+      "release_date": "2011-05-03"
+    },
+    {
+      "featuredArtist": "Frankie Ballard",
+      "featuredArtistId": "0dvKgSdNB2U1gfp6ZcekYi",
+      "trackName": "Skirts & Boots (feat. Frankie Ballard)",
+      "trackId": "0YnZHw4pxOnMDkIiZZ2MA6",
+      "preview": "https://p.scdn.co/mp3-preview/71fc22fa3f1338da36642dc5859f0855728bff4e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8aaacf6027a479583460fb52d80acfa1c201019c",
+      "release_date": "2011-05-03"
+    },
+    {
+      "featuredArtist": "Tim McGraw",
+      "featuredArtistId": "6roFdX1y5BYSbp60OTJWMd",
+      "trackName": "Twisted (feat. Tim McGraw)",
+      "trackId": "1FuHTxR51Bm92D20uw8M8X",
+      "preview": "https://p.scdn.co/mp3-preview/c38141e1f15024fe551302ead23c0e5d4a1d993c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8aaacf6027a479583460fb52d80acfa1c201019c",
+      "release_date": "2011-05-03"
+    },
+    {
+      "featuredArtist": "Ronnie Dunn",
+      "featuredArtistId": "1iLuTmIgxCEiEllDSWkeIy",
+      "trackName": "Ride Through the Country (feat. John Michael Montgomery, Ronnie Dunn & Joe Diffie)",
+      "trackId": "6hzn8kNb4zSol1nW1ul33W",
+      "preview": "https://p.scdn.co/mp3-preview/7be681b060e9ec9e64cc04d5d618ae528a7953b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f759e70ae824197d237c4932f8a3751ee8cd38a",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Joe Diffie",
+      "featuredArtistId": "3THMgU4KdL7LlO5TEREs2g",
+      "trackName": "Ride Through the Country (feat. John Michael Montgomery, Ronnie Dunn & Joe Diffie)",
+      "trackId": "6hzn8kNb4zSol1nW1ul33W",
+      "preview": "https://p.scdn.co/mp3-preview/7be681b060e9ec9e64cc04d5d618ae528a7953b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f759e70ae824197d237c4932f8a3751ee8cd38a",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Wynonna",
+      "featuredArtistId": "4yiXkMbxDIZ3jgEG89NSC1",
+      "trackName": "Never Thought (feat. Wynonna)",
+      "trackId": "5qIrWsyhEejntxjqwif1Tg",
+      "preview": "https://p.scdn.co/mp3-preview/ad0d653f8ea844c7320b32c6e27e274b8d1b9c81?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f759e70ae824197d237c4932f8a3751ee8cd38a",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Charlie Farley",
+      "featuredArtistId": "7c9KnWYDsZgK8k5QiCi9wk",
+      "trackName": "Saddle Up (feat. Charlie Farley & Attitude)",
+      "trackId": "3vX47OyylXXSyMpRaDfDWV",
+      "preview": "https://p.scdn.co/mp3-preview/62842d102d0bf630ec54ebe7f7c4e0524ef1f2f8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f759e70ae824197d237c4932f8a3751ee8cd38a",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Attitude",
+      "featuredArtistId": "4fbubCUHZTOBfdDCsGWQXL",
+      "trackName": "Saddle Up (feat. Charlie Farley & Attitude)",
+      "trackId": "3vX47OyylXXSyMpRaDfDWV",
+      "preview": "https://p.scdn.co/mp3-preview/62842d102d0bf630ec54ebe7f7c4e0524ef1f2f8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f759e70ae824197d237c4932f8a3751ee8cd38a",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "John Anderson",
+      "featuredArtistId": "7mGoO4tvPlp7Ea5RjYyJLJ",
+      "trackName": "Waffle House (feat. John Anderson)",
+      "trackId": "0k2A09ws6qg8HrMQ07uoMi",
+      "preview": "https://p.scdn.co/mp3-preview/379da4c865fb17a979cb2ba8008728cb51968fd1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f759e70ae824197d237c4932f8a3751ee8cd38a",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "The Lacs",
+      "featuredArtistId": "23OFz99wX0NDBBwrxthLWU",
+      "trackName": "Tailgate (feat. The Lacs)",
+      "trackId": "6sz4FS4qjytYuA21bR4u1t",
+      "preview": "https://p.scdn.co/mp3-preview/c904508ec89cba3cb2fb04023e0ca769f515de68?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f759e70ae824197d237c4932f8a3751ee8cd38a",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Bone Crusher",
+      "featuredArtistId": "43FHtbCIWU28MtEz278jWb",
+      "trackName": "Gangsta of Love (feat. Bonecrusher)",
+      "trackId": "3o4laTLnLEV5fsNsOxIUZA",
+      "preview": "https://p.scdn.co/mp3-preview/1b840b3256cd3729feb46c077a2b46823fc2e6aa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f759e70ae824197d237c4932f8a3751ee8cd38a",
+      "release_date": "2008"
+    }
+  ]
+}

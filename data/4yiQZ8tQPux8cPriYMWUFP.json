@@ -1,0 +1,95 @@
+{
+  "artistName": "Gwen Stefani",
+  "features": [
+    {
+      "featuredArtist": "Blake Shelton",
+      "featuredArtistId": "1UTPBmNbXNTittyMJrNkvw",
+      "trackName": "You Make It Feel Like Christmas (feat. Blake Shelton)",
+      "trackId": "6C81GGUCNbEmR8gMIi0CpH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8390ee4fa63213fdae1f7fd3c7d798e39dc4576d",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Fetty Wap",
+      "featuredArtistId": "6PXS4YHDkKvl1wkIl4V8DL",
+      "trackName": "Asking 4 It",
+      "trackId": "0RuNfjn0fjmFpAY1wUbEMK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4c72a18aa6a460b30e71322aa4bf4ee9d9927b51",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Akon",
+      "featuredArtistId": "0z4gvV4rjIZ9wHck67ucSV",
+      "trackName": "The Sweet Escape",
+      "trackId": "57ZMU5IOyTnam00807h01H",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7e3921dd42c2b81f1e32dcbbe79e795adc9569b1",
+      "release_date": "2006-12-05"
+    },
+    {
+      "featuredArtist": "Pharrell Williams",
+      "featuredArtistId": "2RdwBSPQiwcmiDo9kixcl8",
+      "trackName": "Yummy",
+      "trackId": "08NdSOcDwiKKC5L5t8Tw16",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7e3921dd42c2b81f1e32dcbbe79e795adc9569b1",
+      "release_date": "2006-12-05"
+    },
+    {
+      "featuredArtist": "Eve",
+      "featuredArtistId": "4d3yvTptO48nOYTPBcPFZC",
+      "trackName": "Rich Girl",
+      "trackId": "6O9p1RVCVJcFPUpypYpItI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e1bde2a86eccee04c3efca01153224b342c1d0d",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Johnny Vulture",
+      "featuredArtistId": "698jqy5RzKp9XzvSiNbCDy",
+      "trackName": "Bubble Pop Electric",
+      "trackId": "5oq4MyHXfW0sieLvkwT0nU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e1bde2a86eccee04c3efca01153224b342c1d0d",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "André 3000",
+      "featuredArtistId": "74V3dE1a51skRkdII8y2C6",
+      "trackName": "Long Way To Go",
+      "trackId": "4KWFZTV0pi9AT3bWOqH7X1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e1bde2a86eccee04c3efca01153224b342c1d0d",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Diplo",
+      "featuredArtistId": "5fMUXHkw8R8eOP2RNVYEZX",
+      "trackName": "Hollaback Girl - Hollatronix Remix by Diplo",
+      "trackId": "29iU5uQD7znDrlgpQF96GC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e1bde2a86eccee04c3efca01153224b342c1d0d",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Elan",
+      "featuredArtistId": "1GBYi98icFDBm4DvUGU7yU",
+      "trackName": "Hollaback Girl - Dancehollaback Remix by Tony Kanal",
+      "trackId": "6ZpgCQaDWGOVAkDWQTCHZf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e1bde2a86eccee04c3efca01153224b342c1d0d",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Tony Kanal",
+      "featuredArtistId": "1uQyPN98OayGGujOgM5k2b",
+      "trackName": "Hollaback Girl - Dancehollaback Remix by Tony Kanal",
+      "trackId": "6ZpgCQaDWGOVAkDWQTCHZf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e1bde2a86eccee04c3efca01153224b342c1d0d",
+      "release_date": "2005-01-01"
+    }
+  ]
+}

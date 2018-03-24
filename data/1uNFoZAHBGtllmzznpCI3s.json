@@ -1,0 +1,212 @@
+{
+  "artistName": "Justin Bieber",
+  "features": [
+    {
+      "featuredArtist": "Big Sean",
+      "featuredArtistId": "0c173mlxpT3dSFRgMO8XPh",
+      "trackName": "No Pressure",
+      "trackId": "23UV8pJEvRnAZd6ZAXBC0H",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8b47495ce0c4a341f7196f70bcf4361e6257c1a0",
+      "release_date": "2015-11-13"
+    },
+    {
+      "featuredArtist": "Travis Scott",
+      "featuredArtistId": "0Y5tJX1MQlPlqiwlOH1tJY",
+      "trackName": "No Sense",
+      "trackId": "5L9WFUodzACitS1TiGm7Mi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8b47495ce0c4a341f7196f70bcf4361e6257c1a0",
+      "release_date": "2015-11-13"
+    },
+    {
+      "featuredArtist": "Halsey",
+      "featuredArtistId": "26VFTg2z8YR0cCuwLzESi2",
+      "trackName": "The Feeling",
+      "trackId": "7E390nZTMqEbrNC1TmHd42",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8b47495ce0c4a341f7196f70bcf4361e6257c1a0",
+      "release_date": "2015-11-13"
+    },
+    {
+      "featuredArtist": "Skrillex",
+      "featuredArtistId": "5he5w2lnU9x7JFhnwcekXX",
+      "trackName": "Where Are Ü Now",
+      "trackId": "0n8ob8S72lvznoVfiwz4qL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8b47495ce0c4a341f7196f70bcf4361e6257c1a0",
+      "release_date": "2015-11-13"
+    },
+    {
+      "featuredArtist": "Diplo",
+      "featuredArtistId": "5fMUXHkw8R8eOP2RNVYEZX",
+      "trackName": "Where Are Ü Now",
+      "trackId": "0n8ob8S72lvznoVfiwz4qL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8b47495ce0c4a341f7196f70bcf4361e6257c1a0",
+      "release_date": "2015-11-13"
+    },
+    {
+      "featuredArtist": "Nas",
+      "featuredArtistId": "20qISvAhX20dpIbOOzGK3q",
+      "trackName": "We Are",
+      "trackId": "1m6FkAtWVloxIRHKl7pBDP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8b47495ce0c4a341f7196f70bcf4361e6257c1a0",
+      "release_date": "2015-11-13"
+    },
+    {
+      "featuredArtist": "R. Kelly",
+      "featuredArtistId": "2mxe0TnaNL039ysAj51xPQ",
+      "trackName": "PYD",
+      "trackId": "04NmbDAX37omJoNmmA6nmI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/afe7b87279104ee086dec7413c35a884439654a5",
+      "release_date": "2014-05-13"
+    },
+    {
+      "featuredArtist": "Chance The Rapper",
+      "featuredArtistId": "1anyVhU62p31KFi8MEzkbf",
+      "trackName": "Confident",
+      "trackId": "1apd6eReTArwkITTi11qD3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/afe7b87279104ee086dec7413c35a884439654a5",
+      "release_date": "2014-05-13"
+    },
+    {
+      "featuredArtist": "Lil Wayne",
+      "featuredArtistId": "55Aa2cqylxrFIXC767Z865",
+      "trackName": "Backpack",
+      "trackId": "1axhXGCaMMY09YGVcbsJBF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/afe7b87279104ee086dec7413c35a884439654a5",
+      "release_date": "2014-05-13"
+    },
+    {
+      "featuredArtist": "Future",
+      "featuredArtistId": "1RyvyyTE3xzB2ZywiAwp0i",
+      "trackName": "What's Hatnin'",
+      "trackId": "3VqWvmopFfXX30Fxizbxhs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/afe7b87279104ee086dec7413c35a884439654a5",
+      "release_date": "2014-05-13"
+    },
+    {
+      "featuredArtist": "Ludacris",
+      "featuredArtistId": "3ipn9JLAPI5GUEo4y4jcoi",
+      "trackName": "All Around The World",
+      "trackId": "09wl0Y935dcXeM8B0QIGvH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a17cf84e7a0512a31611e39744be383e61b8e9ed",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Drake",
+      "featuredArtistId": "3TVXtAsR1Inumwj472S9r4",
+      "trackName": "Right Here",
+      "trackId": "134ih8wLwhgx292RjhefXA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a17cf84e7a0512a31611e39744be383e61b8e9ed",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Nicki Minaj",
+      "featuredArtistId": "0hCNtLu0JehylgoiP8L4Gh",
+      "trackName": "Beauty And A Beat",
+      "trackId": "2NMjRPEeyziyj9UHtKpDiV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a17cf84e7a0512a31611e39744be383e61b8e9ed",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Jaden Smith",
+      "featuredArtistId": "0xOeVMOz2fVg5BJY3N6akT",
+      "trackName": "Fairytale",
+      "trackId": "7CvCplpla3nyDwftdkG0JE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/647aa3d2b7b0be98de9150ef4dda6c7002dd78fd",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Rascal Flatts",
+      "featuredArtistId": "0a1gHP0HAqALbEyxaD5Ngn",
+      "trackName": "That Should Be Me",
+      "trackId": "42wmRq3kfUUuyszlkWQbPS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c17a39cb86114c25d67de694e15d25f94996e5bc",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Usher",
+      "featuredArtistId": "23zg3TcAtWQy7J6upgbUnj",
+      "trackName": "Somebody To Love Remix",
+      "trackId": "7IUl5c6u18rzmyQOblj10T",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c17a39cb86114c25d67de694e15d25f94996e5bc",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Chris Brown",
+      "featuredArtistId": "7bXgB6jMjp9ATFy66eO08Z",
+      "trackName": "Up",
+      "trackId": "0NLaJkNWZARgae0ojQOOvi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c17a39cb86114c25d67de694e15d25f94996e5bc",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Miley Cyrus",
+      "featuredArtistId": "5YGY8feqx7naU7z4HrwZM6",
+      "trackName": "Overboard (Live)",
+      "trackId": "5h4Z1fyzlAZhGPRaQz7ima",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c17a39cb86114c25d67de694e15d25f94996e5bc",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Raekwon",
+      "featuredArtistId": "2yQf6b8hxahZaT5dHlWaB1",
+      "trackName": "Runaway Love - Kanye West Remix",
+      "trackId": "0esMJjir6P5YsfQinJANmm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c17a39cb86114c25d67de694e15d25f94996e5bc",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Boyz II Men",
+      "featuredArtistId": "6O74knDqdv3XaWtkII7Xjp",
+      "trackName": "Fa La La",
+      "trackId": "6jpyrnPJxDsMIIIpWkku98",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65accbb0e98fb804a0e6d61aaee5ef8ec578f1e3",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Mariah Carey",
+      "featuredArtistId": "4iHNK0tOyZPYnBU7nGAgpQ",
+      "trackName": "All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey",
+      "trackId": "5oWjpE4N00WgaxmcDvWdsQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65accbb0e98fb804a0e6d61aaee5ef8ec578f1e3",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Busta Rhymes",
+      "featuredArtistId": "1YfEcTuGvBQ8xSD1f53UnK",
+      "trackName": "Drummer Boy",
+      "trackId": "0rzT4ESods7NDcuZviu6cC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65accbb0e98fb804a0e6d61aaee5ef8ec578f1e3",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "The Band Perry",
+      "featuredArtistId": "75FnCoo4FBxH5K1Rrx0k5A",
+      "trackName": "Home This Christmas",
+      "trackId": "0xg8L14cgcPWFuBJ91v7rL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65accbb0e98fb804a0e6d61aaee5ef8ec578f1e3",
+      "release_date": "2011-01-01"
+    }
+  ]
+}

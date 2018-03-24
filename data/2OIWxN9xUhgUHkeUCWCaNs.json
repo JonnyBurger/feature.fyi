@@ -1,0 +1,23 @@
+{
+  "artistName": "Veronica Maggio",
+  "features": [
+    {
+      "featuredArtist": "Håkan Hellström",
+      "featuredArtistId": "3H7Ez7cwaYw4L3ELy4v3Lc",
+      "trackName": "Hela huset",
+      "trackId": "0y5k4hnsyebM4nK7uYQNnH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2b914eee965ac71acb0fcbd8b357ceddabc5f01a",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Joakim Jarl",
+      "featuredArtistId": "0ABvN2YF5cSFHnuNZPKts0",
+      "trackName": "Låtsas som det regnar - Jarly Remix",
+      "trackId": "73YWlw3iqd0BHHH38udVT6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1ceb00cb484c40274d492a59bf50255d96d42564",
+      "release_date": "2014-01-01"
+    }
+  ]
+}

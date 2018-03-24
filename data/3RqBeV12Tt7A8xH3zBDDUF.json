@@ -1,0 +1,23 @@
+{
+  "artistName": "Kelsea Ballerini",
+  "features": [
+    {
+      "featuredArtist": "Maribou State",
+      "featuredArtistId": "7zrkALJ9ayRjzysp4QYoEg",
+      "trackName": "Looking at Stars",
+      "trackId": "62Ual5OuA3EshyWYiEmsUn",
+      "preview": "https://p.scdn.co/mp3-preview/a797736a728da4bc73c42486fa84a05b6fae5462?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7f46f8148d50168e67a659da9885819162073320",
+      "release_date": "2015-12-22"
+    },
+    {
+      "featuredArtist": "Joey Alexander",
+      "featuredArtistId": "0FcNSKwWZJb98ry9M2qEII",
+      "trackName": "My Favorite Things",
+      "trackId": "2kO5Egy17uFWI9hBP6B37K",
+      "preview": "https://p.scdn.co/mp3-preview/76eb033cc514d9da4bbd7278cf93b2261c213db8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d2f6c80a1bfae9cc2bda60ac7f527dc35fc281b0",
+      "release_date": "2016-11-25"
+    }
+  ]
+}

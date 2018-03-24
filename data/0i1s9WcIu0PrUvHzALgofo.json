@@ -1,0 +1,95 @@
+{
+  "artistName": "Seu Jorge",
+  "features": [
+    {
+      "featuredArtist": "Marcelinho Da Lua",
+      "featuredArtistId": "4Yw5FcyGxFtur6gG4YWmZ6",
+      "trackName": "Cotidiano",
+      "trackId": "5xZUJZpRO2bsqYt9SERyEg",
+      "preview": "https://p.scdn.co/mp3-preview/8be9d44c0090450656c478c61b6b92741c42d1d5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/28e928328bc6796eb12e33266321bf377a5761a6",
+      "release_date": "2014"
+    },
+    {
+      "featuredArtist": "Alexandre Pires",
+      "featuredArtistId": "0Rrl4hJQjRAbGtiEwAqS5N",
+      "trackName": "Vizinha - Live At Quinta Da Boa Vista/Rio de Janeiro(RJ)-Brazil/2011",
+      "trackId": "6adoWes3WGC4SlcMXIeJvY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65f4da7cc3ab4d227c3862680117fbd27f67ffcb",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Zeca Pagodinho",
+      "featuredArtistId": "3qZ2n5keOAat1SoF6bHwmb",
+      "trackName": "Lua De Ogum - Live At Quinta Da Boa Vista/Rio de Janeiro(RJ)-Brazil/2011",
+      "trackId": "3VS5T6X5zOqg7IdhumewZU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65f4da7cc3ab4d227c3862680117fbd27f67ffcb",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Caetano Veloso",
+      "featuredArtistId": "7HGNYPmbDrMkylWqeFCOIQ",
+      "trackName": "São Gonça - Live At Quinta Da Boa Vista/Rio de Janeiro(RJ)-Brazil/2011",
+      "trackId": "4oUGVqKdWGAB6mCimutjoD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65f4da7cc3ab4d227c3862680117fbd27f67ffcb",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Flor de Maria",
+      "featuredArtistId": "23wfIxHF8o50K9F0B1u5WI",
+      "trackName": "Dois Beijinhos - Live At Quinta Da Boa Vista/Rio de Janeiro(RJ)-Brazil/2011",
+      "trackId": "0AXdJbnNvgewV3wwZyrYBP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65f4da7cc3ab4d227c3862680117fbd27f67ffcb",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Trio Preto+1",
+      "featuredArtistId": "2MA34BNaNOrZiyqxtESJVl",
+      "trackName": "Preto Do Beco - Live At Quinta Da Boa Vista/Rio de Janeiro(RJ)-Brazil/2011",
+      "trackId": "0X0OszXmio2ZmA2os0RNBs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65f4da7cc3ab4d227c3862680117fbd27f67ffcb",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Racionais MC's",
+      "featuredArtistId": "29CQLw9uLWsl8Qkz9holfr",
+      "trackName": "Diário De Um Detento - Live At Quinta Da Boa Vista/Rio de Janeiro(RJ)-Brazil/2011",
+      "trackId": "7EAxm560pHi45Fof4d0UNT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65f4da7cc3ab4d227c3862680117fbd27f67ffcb",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Sandra De Sá",
+      "featuredArtistId": "5Rxz1EE4Jj08mu40vlrqHv",
+      "trackName": "Olhos Coloridos - Live At Quinta Da Boa Vista/Rio de Janeiro(RJ)-Brazil/2011",
+      "trackId": "638xRRNtcd4PLxBV3KFrBF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/65f4da7cc3ab4d227c3862680117fbd27f67ffcb",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Almaz",
+      "featuredArtistId": "5KqtTdLfUaEosBfaCFgYM3",
+      "trackName": "Errare Humanum Est",
+      "trackId": "0wtLyvkwd4gjXfkMbNvCYZ",
+      "preview": "https://p.scdn.co/mp3-preview/6a22b24aaf75ff9fa74892da0c777fe874b26c29?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b61d7f98d7ef01c8c849a438120b64e15de43570",
+      "release_date": "2010-07-27"
+    },
+    {
+      "featuredArtist": "Ana Carolina",
+      "featuredArtistId": "4HP9KltldfmkH2M2pQozzN",
+      "trackName": "Comparsas/O Pequenez E O Pit Bull",
+      "trackId": "1SCHnL226Vc4S4lyoGeeSf",
+      "preview": "https://p.scdn.co/mp3-preview/9f38a4a28bfb8fd4e29c2fb10419f30d4836eedd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7a53ae14d0fde3e5f00885eb2c20905d50ba7c3",
+      "release_date": "2005-11-17"
+    }
+  ]
+}

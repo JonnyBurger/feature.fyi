@@ -1,0 +1,167 @@
+{
+  "artistName": "Dua Lipa",
+  "features": [
+    {
+      "featuredArtist": "Miguel",
+      "featuredArtistId": "360IAlyVv4PCEVjgyMZrxK",
+      "trackName": "Lost In Your Light",
+      "trackId": "6zTahYqfTBzflSy6aL0B0d",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fd38d7b61eead4b0b8d12a121aa57e71c8d58192",
+      "release_date": "2017-06-02"
+    },
+    {
+      "featuredArtist": "B-Case",
+      "featuredArtistId": "1o9x7ez0NvhDb7gBqrYnUj",
+      "trackName": "IDGAF - B-Case Remix",
+      "trackId": "3a1xcASsMoB5QL3fO8U3WS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0a71c7d2af5128979a36978be772fcdd77285962",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Hazers",
+      "featuredArtistId": "5X9N1eM5gI3riDXDdk4GPC",
+      "trackName": "IDGAF - Hazers Remix",
+      "trackId": "1eGvT2vUVfLBSLt4ycX6mm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0a71c7d2af5128979a36978be772fcdd77285962",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Anna Of The North",
+      "featuredArtistId": "1mSJCvDX0W7Dn7S9C6vmvI",
+      "trackName": "IDGAF - Anna Of The North Remix",
+      "trackId": "5nmvp78UJzhIMloxm3W4NJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0a71c7d2af5128979a36978be772fcdd77285962",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Darius",
+      "featuredArtistId": "5vfEaoOBcK0Lzr07WN8KaK",
+      "trackName": "IDGAF - Darius Remix",
+      "trackId": "0GgHOBoOr6onNkCKlhCMiC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0a71c7d2af5128979a36978be772fcdd77285962",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Young Franco",
+      "featuredArtistId": "6mK0vAO13gT8jWYANyoXAl",
+      "trackName": "IDGAF - Young Franco Remix",
+      "trackId": "5yyFe8JAGEyOmUQwDPoIiQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0a71c7d2af5128979a36978be772fcdd77285962",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Gallant",
+      "featuredArtistId": "7wFDo161xYdeaiLz3KIHoM",
+      "trackName": "Tears Dry On Their Own - Acoustic",
+      "trackId": "6ftZrt4wcgSHokKl7ice5y",
+      "preview": "https://p.scdn.co/mp3-preview/00e8aeaa6248839f9c242e18ac85da8163a32c2f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/37b0e954b78b8fb8342e67550f51613c82abe54e",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Initial Talk",
+      "featuredArtistId": "0YQmcNgfnoqxBMJ8dcw3Eh",
+      "trackName": "New Rules - Initial Talk Remix",
+      "trackId": "2ygfHXyt3gvyhvKrNJU61n",
+      "preview": "https://p.scdn.co/mp3-preview/9c65127df2f579bc2e77012815b79332129216e1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce55090bfe3596c35cf20244dd7e5e30ca707bd4",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "KREAM",
+      "featuredArtistId": "5h7dew1Nm0A7QBqz10ptco",
+      "trackName": "New Rules - KREAM Remix",
+      "trackId": "4KP4kgJFoBicBUjKywZ7rU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d9a3dea50d2954918cba4bdc4049ad650db11238",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Freedo",
+      "featuredArtistId": "2b6Cbp1cgD0hwisrGbKsZJ",
+      "trackName": "New Rules - Freedo Remix",
+      "trackId": "4GcJHi8ChABXf2Pvx0EXE4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d9a3dea50d2954918cba4bdc4049ad650db11238",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "SG Lewis",
+      "featuredArtistId": "0GG2cWaonE4JPrjcCCQ1EG",
+      "trackName": "New Rules - SG Lewis Remix",
+      "trackId": "1LDC6z1FyyZD321sSFbOZB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d9a3dea50d2954918cba4bdc4049ad650db11238",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "MRK",
+      "featuredArtistId": "5dqWC0UvN5mC2eRzKb4JKb",
+      "trackName": "New Rules - MRK Club Mix",
+      "trackId": "1rRJIEuZ7KhntPAbJQWFfe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d9a3dea50d2954918cba4bdc4049ad650db11238",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Alison Wonderland",
+      "featuredArtistId": "11gWrKZMBsGQWmobv3oNfW",
+      "trackName": "New Rules - Alison Wonderland Remix",
+      "trackId": "5cQaXYP39kv6AgDXoPUD8X",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d9a3dea50d2954918cba4bdc4049ad650db11238",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "KREAM",
+      "featuredArtistId": "0DdDnziut7wOo6cAYWVZC5",
+      "trackName": "New Rules - KREAM Remix",
+      "trackId": "4NkgQJFG0aDHXyylIGnmJ4",
+      "preview": "https://p.scdn.co/mp3-preview/1c95d448154afd21f6e60caa75762d096f0d03c0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3df93bdc3b5d643c679dcc6e8a809a83acf59e32",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "MRK",
+      "featuredArtistId": "7vX253va0fqx0oGl2KuW22",
+      "trackName": "New Rules - MRK Club Mix",
+      "trackId": "2Y7IyUXMDQCSQBLiSTxOlC",
+      "preview": "https://p.scdn.co/mp3-preview/34336d2dd46a71f7d055daa61b4f739c70e606b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3df93bdc3b5d643c679dcc6e8a809a83acf59e32",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Wale",
+      "featuredArtistId": "67nwj3Y5sZQLl72VNUHEYE",
+      "trackName": "My Love (feat. Major Lazer, WizKid, Dua Lipa) - Major Lazer VIP Remix",
+      "trackId": "7GFGC45zBdW62SH6pmv2V0",
+      "preview": "https://p.scdn.co/mp3-preview/9da555ed81259a84416268b9e6303de09e1fb3d5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aee74c916d2584bda6309897d9492a936e784e03",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Major Lazer",
+      "featuredArtistId": "738wLrAtLtCtFOLvQBXOXp",
+      "trackName": "My Love (feat. Major Lazer, WizKid, Dua Lipa) - Major Lazer VIP Remix",
+      "trackId": "7GFGC45zBdW62SH6pmv2V0",
+      "preview": "https://p.scdn.co/mp3-preview/9da555ed81259a84416268b9e6303de09e1fb3d5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aee74c916d2584bda6309897d9492a936e784e03",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "WizKid",
+      "featuredArtistId": "3tVQdUvClmAT7URs9V3rsp",
+      "trackName": "My Love (feat. Major Lazer, WizKid, Dua Lipa) - Major Lazer VIP Remix",
+      "trackId": "7GFGC45zBdW62SH6pmv2V0",
+      "preview": "https://p.scdn.co/mp3-preview/9da555ed81259a84416268b9e6303de09e1fb3d5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aee74c916d2584bda6309897d9492a936e784e03",
+      "release_date": "2017-09-08"
+    }
+  ]
+}
