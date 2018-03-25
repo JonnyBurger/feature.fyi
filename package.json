@@ -19,6 +19,7 @@
     "node-fetch": "^2.1.1",
     "pascal-case": "^2.0.1",
     "prettier": "^1.11.1",
-    "spotify-web-api-node": "^3.0.0"
+    "spotify-web-api-node": "^3.0.0",
+    "sql-escape": "^1.0.1"
   }
 }
