@@ -1,0 +1,41 @@
+{
+  "artistName": "Thomas Newman",
+  "features": [
+    {
+      "featuredArtist": "Tambuco",
+      "featuredArtistId": "0vjF6mwWB9WB8EUJv3CBGK",
+      "trackName": "Los Muertos Vivos Estan - From “Spectre” Soundtrack",
+      "trackId": "3OJXFVis0tFTncm9JuCmry",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b38b2fdf020b646863ab23193ed007c33fd9c041",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Rick Cox",
+      "featuredArtistId": "3F2G8rwhK4XegnxPhJ6yM2",
+      "trackName": "A Well Staring at the Sky",
+      "trackId": "5fpqjJKxbgaU5lzSkzmwhb",
+      "preview": "https://p.scdn.co/mp3-preview/a86ff47392297c87929ab21f2f1a49442d6fd38f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/47fa5e46d39631e27aa3c827c2a7e4c54ded4f6c",
+      "release_date": "2014-09-01"
+    },
+    {
+      "featuredArtist": "Jeff Elmassian",
+      "featuredArtistId": "5Aj8zRm0liSYkIFL7wlof1",
+      "trackName": "Exit 3",
+      "trackId": "4Sj2OaFOL19vWjUxFYZOm3",
+      "preview": "https://p.scdn.co/mp3-preview/665688a08a1fe063b03e5e6399ca6693911fea1c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/47fa5e46d39631e27aa3c827c2a7e4c54ded4f6c",
+      "release_date": "2014-09-01"
+    },
+    {
+      "featuredArtist": "Richard Cox",
+      "featuredArtistId": "0pvBW9VWTPYIqC7Kc2Tne7",
+      "trackName": "Carapace",
+      "trackId": "0t6hX7DnaT8q3HRWkzQGtJ",
+      "preview": "https://p.scdn.co/mp3-preview/9bbd15d6b9b712d2c23fe75e733450e31aac3924?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/47fa5e46d39631e27aa3c827c2a7e4c54ded4f6c",
+      "release_date": "2014-09-01"
+    }
+  ]
+}

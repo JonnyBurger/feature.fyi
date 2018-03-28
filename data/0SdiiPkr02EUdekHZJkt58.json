@@ -1,0 +1,32 @@
+{
+  "artistName": "Hanson",
+  "features": [
+    {
+      "featuredArtist": "Todd Terry",
+      "featuredArtistId": "3dE92yGWcrboP1kC5SWyqu",
+      "trackName": "I Will Come To You - Dance Remix",
+      "trackId": "7ekltg1T1uuQ4NTrKkRmiV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/177540626e8845c8a8442fc565a0f190fddf1b16",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Tom Lord-Alge",
+      "featuredArtistId": "32ckuKo8LrZhQMyCehYKkt",
+      "trackName": "Weird - South Beach Mix",
+      "trackId": "2U6bgCct0NcD7Gh2zjGOUl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/177540626e8845c8a8442fc565a0f190fddf1b16",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "JF Paris",
+      "featuredArtistId": "6skmJj0Q2j93tXYY1U6TT3",
+      "trackName": "If Only - JFP Club Mix",
+      "trackId": "42KPmmcuUq5cEBc36osrkd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fbacfc42cd7651741817ad43dc9903b263726fbc",
+      "release_date": "2005-01-01"
+    }
+  ]
+}

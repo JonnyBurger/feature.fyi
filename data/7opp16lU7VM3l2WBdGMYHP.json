@@ -1,0 +1,50 @@
+{
+  "artistName": "Héctor Lavoe",
+  "features": [
+    {
+      "featuredArtist": "Van Lester",
+      "featuredArtistId": "4b9MBGHPz8RNjMFFEji4L5",
+      "trackName": "Las Flores Del Campo",
+      "trackId": "4jzHrGUQmPqqdC4wjCyfhZ",
+      "preview": "https://p.scdn.co/mp3-preview/c1b715d720403553622f9f0d771eeebce26174d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e111ee2094d0e9dcb34cf1702fb295c244aa0326",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Willie Colón",
+      "featuredArtistId": "7x5Slu7yTE5icZjNsc3OzW",
+      "trackName": "Abuelita",
+      "trackId": "0rS3JtPiNWnJeENRT8gAXB",
+      "preview": "https://p.scdn.co/mp3-preview/276a931947b1b721e9302d2ba924e2a783e432c9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c5381a1a9737d4c54367544e21651074de14e3b1",
+      "release_date": "2013-06-18"
+    },
+    {
+      "featuredArtist": "Fania All Stars",
+      "featuredArtistId": "1OdyhpUABf8avaZ9r8nI1u",
+      "trackName": "El Rey De La Puntualidad",
+      "trackId": "7aegyzkmhZnoO6xvD0BNc5",
+      "preview": "https://p.scdn.co/mp3-preview/25ec08330562e5f35533f2f84540e7aec7babda1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2deff33fc27059e33e3862bf30a697a03949ab0b",
+      "release_date": "2012-03-26"
+    },
+    {
+      "featuredArtist": "Yomo Toro",
+      "featuredArtistId": "112OOUPY3pq7Hr35s3po6E",
+      "trackName": "Introduction Feliz Navidad",
+      "trackId": "0R32dOKLsSP5CmGthaeOJV",
+      "preview": "https://p.scdn.co/mp3-preview/4d019770bdc5dd2e32faa894513835dff1dbe77d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0bce2b2b0ccd84cabf768c995a7026597daddd58",
+      "release_date": "2006-10-10"
+    },
+    {
+      "featuredArtist": "D Santos",
+      "featuredArtistId": "5wXpL7ijG70h8Rbu4bReE6",
+      "trackName": "Introduction Feliz Navidad",
+      "trackId": "0R32dOKLsSP5CmGthaeOJV",
+      "preview": "https://p.scdn.co/mp3-preview/4d019770bdc5dd2e32faa894513835dff1dbe77d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0bce2b2b0ccd84cabf768c995a7026597daddd58",
+      "release_date": "2006-10-10"
+    }
+  ]
+}

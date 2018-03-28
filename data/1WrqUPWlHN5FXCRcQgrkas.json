@@ -1,0 +1,23 @@
+{
+  "artistName": "Lucius",
+  "features": [
+    {
+      "featuredArtist": "Nels Cline",
+      "featuredArtistId": "3s6o8vxtYJ1utkWl8EXxUp",
+      "trackName": "Million Dollar Secret",
+      "trackId": "67grd9k6Yq9jkt9ltzMA5t",
+      "preview": "https://p.scdn.co/mp3-preview/24edbfe1f61dc237a547c9f8db73a72d734b41ea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/902f67ffa6c7318e260efe793938e391502f2917",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Roger Waters",
+      "featuredArtistId": "40DqL6Tv84cKT2pH2NMs9r",
+      "trackName": "Goodnight, Irene",
+      "trackId": "3oMwfp5g3fNYyy2Ifw7h6J",
+      "preview": "https://p.scdn.co/mp3-preview/db8a538ed71c687a2a7c37c5e5dd4ca708770501?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/902f67ffa6c7318e260efe793938e391502f2917",
+      "release_date": "2018-03-02"
+    }
+  ]
+}

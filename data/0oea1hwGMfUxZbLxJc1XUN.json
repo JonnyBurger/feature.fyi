@@ -1,0 +1,41 @@
+{
+  "artistName": "Peter Tosh",
+  "features": [
+    {
+      "featuredArtist": "The Wailers",
+      "featuredArtistId": "6uSKeCyQEhvPC2NODgiqFE",
+      "trackName": "Steppin Razor - JAD",
+      "trackId": "07VCvSbteCP6KmEOh1D7Ec",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/25108efdd21c026f242acc2c983c9fb2319e0804",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Gwen Guthrie",
+      "featuredArtistId": "77HthcNFa6SbicRaQKdhyy",
+      "trackName": "Nothing But Love (with Gwen Guthrie) - 2002 Remastered Version",
+      "trackId": "0MZIgzHxOSvWWYqxaaxKsK",
+      "preview": "https://p.scdn.co/mp3-preview/918f0659463ff2c71dc06405efcbb3ac55359fad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d3e8d397f3d7aa647af74a9b7a7bbcd293aced3",
+      "release_date": "2002-07-08"
+    },
+    {
+      "featuredArtist": "The Wailers",
+      "featuredArtistId": "3w1N6MEbGEQNw1MJabSP6M",
+      "trackName": "Lion",
+      "trackId": "4sEKw7zoxjFvmlXhIuM72l",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c393158d334aa73399fd87d55b9bba67eb7d43d4",
+      "release_date": "1997"
+    },
+    {
+      "featuredArtist": "John Benitez",
+      "featuredArtistId": "04tkc4IcAn3q0zy1C6oWBI",
+      "trackName": "Johnny B Goode - 2002 Remastered Version",
+      "trackId": "5uPYEStMW3KsXnnLV7iCTw",
+      "preview": "https://p.scdn.co/mp3-preview/18c93830f1399f6ccf43cb28b80a85959d72642a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/36178d07932298473db5318a40a185c85fbc53ba",
+      "release_date": "1983"
+    }
+  ]
+}

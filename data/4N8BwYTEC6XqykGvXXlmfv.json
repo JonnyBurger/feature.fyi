@@ -1,0 +1,293 @@
+{
+  "artistName": "George Benson",
+  "features": [
+    {
+      "featuredArtist": "Ricky Peterson",
+      "featuredArtistId": "1SB2erkfFBYuaaQLuFmNLk",
+      "trackName": "C-Smooth",
+      "trackId": "52917l9tAdmAlNFZyrdfqj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5ee747a6642ed3ad04fafe9d6a14b9d7a300f62b",
+      "release_date": "2016-04-29"
+    },
+    {
+      "featuredArtist": "Gerald Albright",
+      "featuredArtistId": "3bhckpkRmz8mqONUceSutp",
+      "trackName": "Inner City Blues",
+      "trackId": "5W9CtHpBnzqBcFoHEvaSAM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5ee747a6642ed3ad04fafe9d6a14b9d7a300f62b",
+      "release_date": "2016-04-29"
+    },
+    {
+      "featuredArtist": "Lee Ritenour",
+      "featuredArtistId": "1nDqTUspmq8IXhcEZT93iq",
+      "trackName": "Inner City Blues",
+      "trackId": "5W9CtHpBnzqBcFoHEvaSAM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5ee747a6642ed3ad04fafe9d6a14b9d7a300f62b",
+      "release_date": "2016-04-29"
+    },
+    {
+      "featuredArtist": "Gerald McCauley",
+      "featuredArtistId": "5RTZbaOmBog1RS0FpeAj0V",
+      "trackName": "Keep Rollin'",
+      "trackId": "4Tj6BNZMRri6AdBvCkgJql",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5ee747a6642ed3ad04fafe9d6a14b9d7a300f62b",
+      "release_date": "2016-04-29"
+    },
+    {
+      "featuredArtist": "Nils",
+      "featuredArtistId": "1vzmLZbXh0Bw5Kz5U4iIyB",
+      "trackName": "Keep Rollin'",
+      "trackId": "4Tj6BNZMRri6AdBvCkgJql",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5ee747a6642ed3ad04fafe9d6a14b9d7a300f62b",
+      "release_date": "2016-04-29"
+    },
+    {
+      "featuredArtist": "Ray Charles",
+      "featuredArtistId": "1eYhYunlNJlDoQhtYBvPsi",
+      "trackName": "I Got a Woman",
+      "trackId": "3D0kLGes7Wbhesc88IbaaW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/42b051b596e229838001d925fe948156276079d3",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Harold Lomax Ousley",
+      "featuredArtistId": "4XCzgqVp6masN2PZ9GJo4t",
+      "trackName": "Thunder Walk",
+      "trackId": "4WUqmqhggFo7Vj5pS2SO04",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/42b051b596e229838001d925fe948156276079d3",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Tandyn Almer",
+      "featuredArtistId": "30hmhMYNzGXODYLo12LAvc",
+      "trackName": "Along Comes Mary",
+      "trackId": "2K4ykzJWQfjkdjnVkPuE7O",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/42b051b596e229838001d925fe948156276079d3",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Horace Silver",
+      "featuredArtistId": "5ZATfKurLqflrBhv2FLht5",
+      "trackName": "Song For My Father",
+      "trackId": "601EINc6xIs3gNs2GuYznu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/42b051b596e229838001d925fe948156276079d3",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Cannonball Adderley",
+      "featuredArtistId": "5v74mT11KGJqadf9sLw4dA",
+      "trackName": "Sack O'woe",
+      "trackId": "3TpgajhwhsZ2ss4mRrpV5i",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/42b051b596e229838001d925fe948156276079d3",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Jon Hendricks",
+      "featuredArtistId": "2Kn5swSfLmUU2WEJVlQvJY",
+      "trackName": "Sack O'woe",
+      "trackId": "3TpgajhwhsZ2ss4mRrpV5i",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/42b051b596e229838001d925fe948156276079d3",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "James Yester",
+      "featuredArtistId": "0AzOekuKaQR9bGUfoqu22S",
+      "trackName": "Goodbye Columbus",
+      "trackId": "1VaMYLIBkgtZILZ82ste80",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/42b051b596e229838001d925fe948156276079d3",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Charlie Parker",
+      "featuredArtistId": "4Ww5mwS7BWYjoZTUIrMHfC",
+      "trackName": "Billie's Bounce",
+      "trackId": "7MaroNynvsL412oA4WGlyG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/42b051b596e229838001d925fe948156276079d3",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Harry Warren",
+      "featuredArtistId": "6vOhSMuCQ8BXVkLJOamR8Z",
+      "trackName": "Chattanooga Choo Choo",
+      "trackId": "4akczosohjh5aNJwlIR8Oj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/42b051b596e229838001d925fe948156276079d3",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Mack Gordon",
+      "featuredArtistId": "1jWoaneGYXdkbOU30PbBBj",
+      "trackName": "Chattanooga Choo Choo",
+      "trackId": "4akczosohjh5aNJwlIR8Oj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/42b051b596e229838001d925fe948156276079d3",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Aretha Franklin",
+      "featuredArtistId": "7nwUJBm0HE4ZxD3f5cy5ok",
+      "trackName": "Don't Let Me Lose This Dream",
+      "trackId": "2brj63g0rS5qR7yFgH1mOc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/42b051b596e229838001d925fe948156276079d3",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Ted White",
+      "featuredArtistId": "3lA0LCtGD2glNcaVumDui5",
+      "trackName": "Don't Let Me Lose This Dream",
+      "trackId": "2brj63g0rS5qR7yFgH1mOc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/42b051b596e229838001d925fe948156276079d3",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Paul Brown",
+      "featuredArtistId": "3PBqIzqLxJlcyyNJKvYMub",
+      "trackName": "Fly By Night",
+      "trackId": "7npjd0jh4moL7wuSBRpE9G",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/42b051b596e229838001d925fe948156276079d3",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Tim Heintz",
+      "featuredArtistId": "1HMXyEp2udhHB4gt2PcF5D",
+      "trackName": "Fly By Night",
+      "trackId": "7npjd0jh4moL7wuSBRpE9G",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/42b051b596e229838001d925fe948156276079d3",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Billy Vera",
+      "featuredArtistId": "79wnqcube11BTT6VnhdPoA",
+      "trackName": "Good Morning Blues",
+      "trackId": "2bkTZvTy7Yc8mRTqCEE2zX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/42b051b596e229838001d925fe948156276079d3",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Felix Cavaliere",
+      "featuredArtistId": "74wxdlP4utkNZrtAL0mKrQ",
+      "trackName": "Groovin'",
+      "trackId": "6J30UyNUlxAvrBjMefTDhi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/42b051b596e229838001d925fe948156276079d3",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Edward J. Brigati Jr.",
+      "featuredArtistId": "70nOdqshLiUY5tfbehWXkh",
+      "trackName": "Groovin'",
+      "trackId": "6J30UyNUlxAvrBjMefTDhi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/42b051b596e229838001d925fe948156276079d3",
+      "release_date": "2014-04-02"
+    },
+    {
+      "featuredArtist": "Wynton Marsalis",
+      "featuredArtistId": "375zxMmh2cSgUzFFnva0O7",
+      "trackName": "Unforgettable",
+      "trackId": "3yChwH2rMFUc0ZSzsgXeRl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/29a81d11aa75bbbb4f9f38bca7bd624b42ab991d",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Idina Menzel",
+      "featuredArtistId": "73Np75Wv2tju61Eo9Zw4IR",
+      "trackName": "When I Fall In Love",
+      "trackId": "5WzX16XGhRXiCTRc0PmV3j",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/29a81d11aa75bbbb4f9f38bca7bd624b42ab991d",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Till Brönner",
+      "featuredArtistId": "3Q4xYZ2ZuFaAsZZyjPIfc8",
+      "trackName": "Smile",
+      "trackId": "50f1gsP7fMDYKuDVPgCh3B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/29a81d11aa75bbbb4f9f38bca7bd624b42ab991d",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Judith Hill",
+      "featuredArtistId": "04ka9403wgTxmWFMY1PD5t",
+      "trackName": "Too Young",
+      "trackId": "4qB3CN6H1ESn3PCq3j2P6C",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/29a81d11aa75bbbb4f9f38bca7bd624b42ab991d",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Jack McDuff",
+      "featuredArtistId": "0GX5PlFlvOiEdNvA7YHJzs",
+      "trackName": "Hot Barbecue",
+      "trackId": "3sLvrxaSQcV3izW6Cjeb1R",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9e91f38745df974b664c77d1f7feadd7959472be",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Al Jarreau",
+      "featuredArtistId": "3YR92OLKlvkK5oKNekSqXe",
+      "trackName": "Breezin'",
+      "trackId": "7iX9wyZkiKg8AyD7XUu3mK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f94d74f228c12b52fcc1791e386b14e87832c091",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Herbie Hancock",
+      "featuredArtistId": "2ZvrvbQNrHKwjT7qfGFFUW",
+      "trackName": "'long Come Tutu",
+      "trackId": "6ExOkMmUZwzHKmSeBk1bZ9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f94d74f228c12b52fcc1791e386b14e87832c091",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Jill Scott",
+      "featuredArtistId": "6AVLthptCPhfrxlHadOBJD",
+      "trackName": "God Bless The Child",
+      "trackId": "2PxiEgoMVWC7aZ9RA7ma9A",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f94d74f228c12b52fcc1791e386b14e87832c091",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Patti Austin",
+      "featuredArtistId": "0JxChc2w5fwTGbXKfc4cRd",
+      "trackName": "Let It Rain",
+      "trackId": "2IgfBpphXH5xJcQP2UFryN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f94d74f228c12b52fcc1791e386b14e87832c091",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Paul McCartney",
+      "featuredArtistId": "4STHEaNw4mPZ2tzheohgXB",
+      "trackName": "Bring It On Home To Me",
+      "trackId": "4UTiJVbfdmDwXcygT2KiEY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f94d74f228c12b52fcc1791e386b14e87832c091",
+      "release_date": "2006-01-01"
+    }
+  ]
+}

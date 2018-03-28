@@ -1,0 +1,32 @@
+{
+  "artistName": "Wanz",
+  "features": [
+    {
+      "featuredArtist": "Macklemore",
+      "featuredArtistId": "3JhNCzhSMTxs9WLGJJxWOY",
+      "trackName": "Thrift Shop",
+      "trackId": "7i1X1hAhUE6W789Fd7H1nG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c7d31ef8d34f0291b5ca9c3500b030bc566ae703",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Ryan Lewis",
+      "featuredArtistId": "4myTppRgh0rojLxx8RycOp",
+      "trackName": "Thrift Shop",
+      "trackId": "7i1X1hAhUE6W789Fd7H1nG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c7d31ef8d34f0291b5ca9c3500b030bc566ae703",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Macklemore & Ryan Lewis",
+      "featuredArtistId": "5BcAKTbp20cv7tC5VqPFoC",
+      "trackName": "Thrift Shop (feat. Wanz)",
+      "trackId": "4YMqbFcDIFiCBd02PzUBcM",
+      "preview": "https://p.scdn.co/mp3-preview/26cdc03872031160b4ec74e8b2bd21ae7359c46d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/410191f75b2d2d48adb5a5d80d2acd09f811ff47",
+      "release_date": "2012-10-10"
+    }
+  ]
+}

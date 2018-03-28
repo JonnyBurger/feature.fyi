@@ -1,0 +1,32 @@
+{
+  "artistName": "Lauren Daigle",
+  "features": [
+    {
+      "featuredArtist": "All Sons & Daughters",
+      "featuredArtistId": "44LPOpECjnIlnwH91wo2ir",
+      "trackName": "Power To Redeem",
+      "trackId": "1ZIaYpFztkAUmQ7mwBueAN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d4a34ffecf05f4ee305efc9ff99d51635749d28c",
+      "release_date": "2015-04-14"
+    },
+    {
+      "featuredArtist": "Reba McEntire",
+      "featuredArtistId": "02rd0anEWfMtF7iMku9uor",
+      "trackName": "Back To God",
+      "trackId": "5YLX8gu91ECXW4Idl49J3b",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea898e9743d8c9a7e390d36e5d4dc884f32fa847",
+      "release_date": "2017-04-02"
+    },
+    {
+      "featuredArtist": "Chris Tomlin",
+      "featuredArtistId": "6pRi6EIPXz4QJEOEsBaA0m",
+      "trackName": "Noel - Live",
+      "trackId": "0jZrhrPkmDy6RNjPPwlhdq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e32e98ea6b0ce63c9a5084b0564b40589e996459",
+      "release_date": "2017-12-01"
+    }
+  ]
+}

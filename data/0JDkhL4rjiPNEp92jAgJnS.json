@@ -1,0 +1,68 @@
+{
+  "artistName": "Roy Orbison",
+  "features": [
+    {
+      "featuredArtist": "Ward Thomas",
+      "featuredArtistId": "0xBhUB0EfzvchYnaIWkdBw",
+      "trackName": "I Drove All Night",
+      "trackId": "2YlkDdXHAdME7NCdnVyLxJ",
+      "preview": "https://p.scdn.co/mp3-preview/f9fae62b48eaf04acfae00aa438c51176e9d0ced?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fafd37438bee85d67b9700bd474754b3ef60b148",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Helmut Lotti",
+      "featuredArtistId": "2nO2dO0kAVom6pa0Dcvgjn",
+      "trackName": "Only the Lonely (Know the Way I Feel)",
+      "trackId": "14XH9VMmMRsknctgz8Qdff",
+      "preview": "https://p.scdn.co/mp3-preview/52743126cae5e9cafa4ce2d38da9a68f0ea859eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fafd37438bee85d67b9700bd474754b3ef60b148",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "The Teen Kings",
+      "featuredArtistId": "6eZeDQei4hJnzUlGt4QATQ",
+      "trackName": "Trying To Get To You",
+      "trackId": "15HQQb6zBB4ZVxSGEOIRug",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/229b375f64aa2d4e35bdc5002155de1b0efe15b8",
+      "release_date": "2016-07-01"
+    },
+    {
+      "featuredArtist": "Emmylou Harris",
+      "featuredArtistId": "5s6TJEuHTr9GR894wc6VfP",
+      "trackName": "That Lovin' You Feelin' Again",
+      "trackId": "7nbXPG67YlFHLzW7SjKv7p",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/229b375f64aa2d4e35bdc5002155de1b0efe15b8",
+      "release_date": "2016-07-01"
+    },
+    {
+      "featuredArtist": "Alex Orbison",
+      "featuredArtistId": "1fprDBeCKrHSz3TZDiML9a",
+      "trackName": "You Fool You - Remastered 2015",
+      "trackId": "6dQVunQ2xPO31Aa07bqFJv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3509d54320189fe1b515654d6c1247940dce5205",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Chuck Turner",
+      "featuredArtistId": "6QDmPJhokG5dCAAyn7RWeP",
+      "trackName": "You Fool You - Remastered 2015",
+      "trackId": "6dQVunQ2xPO31Aa07bqFJv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3509d54320189fe1b515654d6c1247940dce5205",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "k.d. lang",
+      "featuredArtistId": "6W1BHDF0T4a4KYcSwzD586",
+      "trackName": "Crying",
+      "trackId": "1LXIGfDrobAa9y0kYT9BLJ",
+      "preview": "https://p.scdn.co/mp3-preview/3b6b424f709f61baf297d5033b339fd7a0d2ff28?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/15dd6de5438d5404743807863c2cfc6b0df97d74",
+      "release_date": "1992"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "artistName": "Linda Ronstadt",
+  "features": [
+    {
+      "featuredArtist": "Dolly Parton",
+      "featuredArtistId": "32vWCbZh0xZ4o9gkz4PsEU",
+      "trackName": "Lover's Return - Remastered",
+      "trackId": "215uukDK1o0eXE6iuhp4TL",
+      "preview": "https://p.scdn.co/mp3-preview/0409755d699f7f6999fa6d41124b35d07f4a4ce0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/46903810f1e35ebbe13bd45008e97ce6ba74aa01",
+      "release_date": "1999-01-26"
+    },
+    {
+      "featuredArtist": "Emmylou Harris",
+      "featuredArtistId": "5s6TJEuHTr9GR894wc6VfP",
+      "trackName": "Lover's Return - Remastered",
+      "trackId": "215uukDK1o0eXE6iuhp4TL",
+      "preview": "https://p.scdn.co/mp3-preview/0409755d699f7f6999fa6d41124b35d07f4a4ce0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/46903810f1e35ebbe13bd45008e97ce6ba74aa01",
+      "release_date": "1999-01-26"
+    },
+    {
+      "featuredArtist": "Aaron Neville",
+      "featuredArtistId": "57ALvbCBaCkNlgTOSiUPdT",
+      "trackName": "Still Within The Sound Of My Voice (feat. Aaron Neville)",
+      "trackId": "2M05wWdJvqdG9SJRhtFaYE",
+      "preview": "https://p.scdn.co/mp3-preview/410028f395422922d9a1fc2133e0672f9a78c110?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c798c8ca1eb412e8f4e6b520537255aad6b6a0dc",
+      "release_date": "1989"
+    }
+  ]
+}

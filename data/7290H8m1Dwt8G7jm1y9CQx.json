@@ -1,0 +1,50 @@
+{
+  "artistName": "Chris Isaak",
+  "features": [
+    {
+      "featuredArtist": "Michael Bublé",
+      "featuredArtistId": "1GxkXlMwML1oSg5eLPiAz3",
+      "trackName": "The Christmas Song - Live; with Michael Bublé",
+      "trackId": "2rXtC32g4AlwZ4Qz9pghJj",
+      "preview": "https://p.scdn.co/mp3-preview/3e082bbbc59de9ee299e28825b84f6e7d799fe57?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/da62e671b187acedb8be6306ab53b9a8b994b814",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Brian McKnight",
+      "featuredArtistId": "6k0IBR0lU42s2GYpNX7kA9",
+      "trackName": "Have Yourself a Merry Little Christmas - Live; with Brian McKnight",
+      "trackId": "7E6oMNMIk9AoNsZJrQD7nZ",
+      "preview": "https://p.scdn.co/mp3-preview/71e39877a0753b609eb9c96c85cd6c205857b4cf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/da62e671b187acedb8be6306ab53b9a8b994b814",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Stevie Nicks",
+      "featuredArtistId": "7crPfGd2k81ekOoSqQKWWz",
+      "trackName": "Santa Claus Is Coming to Town - Live; with Stevie Nicks",
+      "trackId": "4qRdMg8p6MMLQYzArLn9cM",
+      "preview": "https://p.scdn.co/mp3-preview/de3a0d9f2e2e84803add6a60f19d8944e18c8c9a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/da62e671b187acedb8be6306ab53b9a8b994b814",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Trisha Yearwood",
+      "featuredArtistId": "3XlIhgydjvC4EniPFZT20j",
+      "trackName": "Breaking Apart",
+      "trackId": "14aZVUdU6Sc99zdoPAyDjI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/656828fe513ed63a87339dc76df565d90557d055",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Michelle Branch",
+      "featuredArtistId": "5rScKX1Sh1U67meeUyTGwk",
+      "trackName": "I Lose My Heart",
+      "trackId": "2k4JpMHrg4RTHA9Hy4mjux",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/656828fe513ed63a87339dc76df565d90557d055",
+      "release_date": "2009-01-01"
+    }
+  ]
+}

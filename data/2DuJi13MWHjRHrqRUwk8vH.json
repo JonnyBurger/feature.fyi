@@ -1,0 +1,50 @@
+{
+  "artistName": "Knife Party",
+  "features": [
+    {
+      "featuredArtist": "Tom Morello",
+      "featuredArtistId": "74NBPbyyftqJ4SpDZ4c1Ed",
+      "trackName": "Battle Sirens",
+      "trackId": "5q7R8Nl4liNVz0DyX5Eqcd",
+      "preview": "https://p.scdn.co/mp3-preview/96a5165d71d2b1be0038479ee578b49995bc4488?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/412ace82be69162311901a0bc79e493e2579f3e1",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "Brillz",
+      "featuredArtistId": "26Pe1UkFeUi8pqFaTS1JCq",
+      "trackName": "Battle Sirens - Brillz Remix",
+      "trackId": "6mmOe0zbeJ9ISy4YJRROrD",
+      "preview": "https://p.scdn.co/mp3-preview/36107326911fa0a649677a51b7510935ae08fdc0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/412ace82be69162311901a0bc79e493e2579f3e1",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "Ephwurd",
+      "featuredArtistId": "548YUkLaLzti0BLqaWpn1W",
+      "trackName": "Battle Sirens - Ephwurd Remix",
+      "trackId": "0GIRQLXMeVT2ataoPHoBaE",
+      "preview": "https://p.scdn.co/mp3-preview/79f10b28f0e30bf948cbe9a62d558ee46de56cd3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/412ace82be69162311901a0bc79e493e2579f3e1",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "Tom Staar",
+      "featuredArtistId": "0iSYvHKAdhWVdZkS1PYK3u",
+      "trackName": "Kraken",
+      "trackId": "520GQFgzhdkCYEhRqq52wc",
+      "preview": "https://p.scdn.co/mp3-preview/0ef95162d81d8be59c01d803399c0bd2a1439b18?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/239b395d3e5995045a08d02bde481c3861a3597d",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Jauz",
+      "featuredArtistId": "5ttgIeUVka6FLyi00Uu5h8",
+      "trackName": "PLUR Police - Jauz Remix",
+      "trackId": "3UGe9YVS1ooqw0QmKnxt1m",
+      "preview": "https://p.scdn.co/mp3-preview/a07add86563a79abd298614f4f53ec900b3d6ea9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/239b395d3e5995045a08d02bde481c3861a3597d",
+      "release_date": "2015-11-20"
+    }
+  ]
+}

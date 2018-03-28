@@ -1,0 +1,41 @@
+{
+  "artistName": "Luke Combs",
+  "features": [
+    {
+      "featuredArtist": "Tracy Lawrence",
+      "featuredArtistId": "2BQVRw9md4UKcGUrDXABCD",
+      "trackName": "If the World Had a Front Porch",
+      "trackId": "7AW2WsM8dc5pmXIgdn2SpC",
+      "preview": "https://p.scdn.co/mp3-preview/f846127d8ea7312b93792c5e905cfbe18a113a3b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/34b04d21da1af6c0916c7f1cbd079c173fb5a6df",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Tom O'Connor",
+      "featuredArtistId": "3BuBz0Mt6fwdb93a3nfgk6",
+      "trackName": "Deserve",
+      "trackId": "1VoI0WoKuKJB5rpLX4GvF6",
+      "preview": "https://p.scdn.co/mp3-preview/3b90b388b1b1761f48469f6485e11fecd7e512bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/61551a90d642224c7348c6e6941acb29a22aaf65",
+      "release_date": "2017-02-17"
+    },
+    {
+      "featuredArtist": "Jacob Bryant",
+      "featuredArtistId": "53Pdb9rdy3SWEzBtyKk1om",
+      "trackName": "Out There - Unplugged",
+      "trackId": "5Jgjax3H43q2q7kwY5kxHl",
+      "preview": "https://p.scdn.co/mp3-preview/1c8f864ef74f08d949bd5e209fe46de22a81c1fc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4cefcbf19f5b739e33437885fa2feb17bcad037d",
+      "release_date": "2016-04-29"
+    },
+    {
+      "featuredArtist": "Upchurch",
+      "featuredArtistId": "2pSObt5Fk8izuX8ZfI3jRn",
+      "trackName": "Outlaw (feat. Luke Combs)",
+      "trackId": "0EC7AIDVljIgd6SfqCl3yE",
+      "preview": "https://p.scdn.co/mp3-preview/49d9c7d3b6cc6b36a021dfaa6e38068ed056ef14?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e168823c5b2b5fe54b3b80dbbb1340c8ab8242ed",
+      "release_date": "2016-01-15"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "artistName": "Leafs",
+  "features": [
+    {
+      "featuredArtist": "Ramiks",
+      "featuredArtistId": "0JsGs5vw0BLS9x3dT79REB",
+      "trackName": "Mikado",
+      "trackId": "0rk9GGbSQmFisLS2lxHb0N",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3808dbe4932c60c8c7a81fd1aa8adbedfd93da0e",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Sevn Alias",
+      "featuredArtistId": "0HDMwoCS316xhKCZlJPBnc",
+      "trackName": "On Me",
+      "trackId": "5dvOtYbJGsDUO828JLTbcc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3808dbe4932c60c8c7a81fd1aa8adbedfd93da0e",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Yung Nnelg",
+      "featuredArtistId": "7bbzOJyYWRp0cef7NpIClP",
+      "trackName": "Alright",
+      "trackId": "7Keqfut4UY5NukcPnmYnxT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/62e69f18aed23a9b8032e957f28668e2893f14f5",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Bokoesam",
+      "featuredArtistId": "2NFWbreVmIEJG0iqIvLDOI",
+      "trackName": "Yokomokohama",
+      "trackId": "1qwpM4Fn52oexsjaPxsODw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/62e69f18aed23a9b8032e957f28668e2893f14f5",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Ronnie Flex",
+      "featuredArtistId": "5eir5zFJpES4j7gsymbVyl",
+      "trackName": "Wat Is Love",
+      "trackId": "7z2Z7umksOctXzjfHWODQI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8560b7cc74a68ef9ea20dd502bf1eb63107fa7d3",
+      "release_date": "2018-03-22"
+    }
+  ]
+}

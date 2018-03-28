@@ -1,0 +1,32 @@
+{
+  "artistName": "Manolo Garcia",
+  "features": [
+    {
+      "featuredArtist": "Antonio Fidel y Los Navegantes",
+      "featuredArtistId": "57lQ0hqZ0T9J1WN91tmumZ",
+      "trackName": "Rencillas por Pasión",
+      "trackId": "5DZBUElkUR3JdhhtTLwCVw",
+      "preview": "https://p.scdn.co/mp3-preview/33b47ddf056ae354fe1ba6928afe66079f7e94ab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bb29116654128537d79080173849dbf3dfcaee03",
+      "release_date": "2018-01-22"
+    },
+    {
+      "featuredArtist": "Adrià Puntí",
+      "featuredArtistId": "4gQzCU2uamGf9aX5DMOnuV",
+      "trackName": "Rencillas por Pasión",
+      "trackId": "5DZBUElkUR3JdhhtTLwCVw",
+      "preview": "https://p.scdn.co/mp3-preview/33b47ddf056ae354fe1ba6928afe66079f7e94ab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bb29116654128537d79080173849dbf3dfcaee03",
+      "release_date": "2018-01-22"
+    },
+    {
+      "featuredArtist": "Quimi Portet",
+      "featuredArtistId": "03FGY5MFUz7JNP6yYbiceB",
+      "trackName": "No Volver",
+      "trackId": "3joCgxrLQB9UfsSFKKG86Q",
+      "preview": "https://p.scdn.co/mp3-preview/dd9d64751aa3472af36b1c094afd365152070a4a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/82b96175b2d8333b9e4b2020041867bf60e5a7b5",
+      "release_date": "2017-06-02"
+    }
+  ]
+}

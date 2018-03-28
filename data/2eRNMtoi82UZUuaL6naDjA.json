@@ -1,0 +1,50 @@
+{
+  "artistName": "Cœur De Pirate",
+  "features": [
+    {
+      "featuredArtist": "Arthur H",
+      "featuredArtistId": "2nYkI1rHgPRp95pTmO9GZR",
+      "trackName": "Rêve d'une vie",
+      "trackId": "2dRbJU5iBh9MkYM5wUX8Rs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6aade08aa109270edb4a14b27feebd86314fd40d",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "Marc Lavoine",
+      "featuredArtistId": "3K8EYZ4Ltg6ythgGZzrFXf",
+      "trackName": "Je tombe amoureux",
+      "trackId": "66O9Rz313XNivEbety4ch2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6aade08aa109270edb4a14b27feebd86314fd40d",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "Allan Kingdom",
+      "featuredArtistId": "1tUALn7PEhW7LpMuxvat2x",
+      "trackName": "I Don't Want to Break Your Heart",
+      "trackId": "0FQU3OL6yrcdjwjSBNP4nN",
+      "preview": "https://p.scdn.co/mp3-preview/8219d861151739dda8e55722723ddf353d3c6c17?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9aa1d670826c14ebafec4a65a8fd4ca38386d319",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Felix Cartal",
+      "featuredArtistId": "6roDXEmZ6AARdOUv6x5U2v",
+      "trackName": "Oublie-moi - Felix Cartal Remix",
+      "trackId": "5ucTgJMTWjj1ZDEwOhlu4Z",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3465da82462e1e6a2f6685c339390b29a18a2f23",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Julien Doré",
+      "featuredArtistId": "6jStlKLflTMUN6BajxrNlj",
+      "trackName": "Pour un infidèle",
+      "trackId": "5ksihcEVuM3Ytwyw1SsvtV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b49381a3c4a06bcfcdb323f62b06788dd0ae88ba",
+      "release_date": "2009-01-01"
+    }
+  ]
+}

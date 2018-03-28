@@ -1,0 +1,32 @@
+{
+  "artistName": "R5",
+  "features": [
+    {
+      "featuredArtist": "Belanova",
+      "featuredArtistId": "3oNy8cjBtJzLC07I70sklp",
+      "trackName": "F.E.E.L.G.O.O.D.",
+      "trackId": "6R68mxEZDTznR5cI22ZHWj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/104ccffee7d4573768ea3572ee3897fbbeeb6b63",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Ross Lynch",
+      "featuredArtistId": "4UxLFBvSr4xMDpHe1lrLrH",
+      "trackName": "Christmas Is Coming",
+      "trackId": "6ihkaRzJ7KWjEBd4tzRHZj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/43e5bab756342130d8baaf0200ace5c7f32e8b6b",
+      "release_date": "2013-11-13"
+    },
+    {
+      "featuredArtist": "New Beat Fund",
+      "featuredArtistId": "5IqdTZwvASXwM39z5qPqAA",
+      "trackName": "Red Velvet",
+      "trackId": "1HNyn8lQPeEhwF5whMpWIc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d90278db05f4f0a5e2d75478d7011d9764a6e4d1",
+      "release_date": "2017-05-12"
+    }
+  ]
+}

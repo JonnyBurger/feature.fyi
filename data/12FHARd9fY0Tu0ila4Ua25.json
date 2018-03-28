@@ -1,0 +1,581 @@
+{
+  "artistName": "Trick Daddy",
+  "features": [
+    {
+      "featuredArtist": "SNS All Stars",
+      "featuredArtistId": "2QaDW6RjZUAfCglptyUWeo",
+      "trackName": "1990 Until...",
+      "trackId": "3uwl01XOrMHdVvcDZBY3Xn",
+      "preview": "https://p.scdn.co/mp3-preview/2bc34010ddbe37ccf6933909a04e78d42c152bba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3f15cffcb4ebdee1ccb6a144817822bb116711e2",
+      "release_date": "2014-04-25"
+    },
+    {
+      "featuredArtist": "Young Buck",
+      "featuredArtistId": "4pr7J7wzgObkE3DD3Izi7q",
+      "trackName": "Straight Up (feat. Young Buck)",
+      "trackId": "4zIFyypv7g3XsKxuKFCdI4",
+      "preview": "https://p.scdn.co/mp3-preview/00793e51e1a566f2bec60dbbc51c25770ea07339?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b49fce76c8e4bff1dfe326ba0e91408cb5d0fc",
+      "release_date": "2006-12-19"
+    },
+    {
+      "featuredArtist": "Chamillionaire",
+      "featuredArtistId": "6vdMPayKk8YJxxeNP5oMCb",
+      "trackName": "Bet That (feat. Chamillionaire and GoldRush)",
+      "trackId": "1686JQ5Qk3KFf6YqTDvJKe",
+      "preview": "https://p.scdn.co/mp3-preview/2a20f89a934bab14aa9bf71a8c8a1f393bde9f1f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b49fce76c8e4bff1dfe326ba0e91408cb5d0fc",
+      "release_date": "2006-12-19"
+    },
+    {
+      "featuredArtist": "Goldrush",
+      "featuredArtistId": "4hvUds7bICxtDRJydorhpg",
+      "trackName": "Bet That (feat. Chamillionaire and GoldRush)",
+      "trackId": "1686JQ5Qk3KFf6YqTDvJKe",
+      "preview": "https://p.scdn.co/mp3-preview/2a20f89a934bab14aa9bf71a8c8a1f393bde9f1f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b49fce76c8e4bff1dfe326ba0e91408cb5d0fc",
+      "release_date": "2006-12-19"
+    },
+    {
+      "featuredArtist": "Baby",
+      "featuredArtistId": "1MVek4xx7e63no2JPY9mBD",
+      "trackName": "Tuck Ya Ice (feat. Baby)",
+      "trackId": "71iVrFQEaqPAVR3YLDkKfG",
+      "preview": "https://p.scdn.co/mp3-preview/c089d20df359a87fa22b4a45d51971ee19c4569f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b49fce76c8e4bff1dfe326ba0e91408cb5d0fc",
+      "release_date": "2006-12-19"
+    },
+    {
+      "featuredArtist": "International Jones",
+      "featuredArtistId": "1aOzFBc9zUzmgcPKsEKBOi",
+      "trackName": "Booty Doo (feat. Webbie and International Jones)",
+      "trackId": "1yn6poBwL7AO59f5Gb6Wmc",
+      "preview": "https://p.scdn.co/mp3-preview/d4c7720b7d986fc557472e1e6599a6d21bdc44e5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b49fce76c8e4bff1dfe326ba0e91408cb5d0fc",
+      "release_date": "2006-12-19"
+    },
+    {
+      "featuredArtist": "Webbie",
+      "featuredArtistId": "6aIm51fHkokqlJn2vzNTH8",
+      "trackName": "Booty Doo (feat. Webbie and International Jones)",
+      "trackId": "1yn6poBwL7AO59f5Gb6Wmc",
+      "preview": "https://p.scdn.co/mp3-preview/d4c7720b7d986fc557472e1e6599a6d21bdc44e5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b49fce76c8e4bff1dfe326ba0e91408cb5d0fc",
+      "release_date": "2006-12-19"
+    },
+    {
+      "featuredArtist": "Jaheim",
+      "featuredArtistId": "4sbB4Yy6Qig51pKCIKSLw3",
+      "trackName": "Tonight (feat. Jaheim and Trina)",
+      "trackId": "7KwA5dISoQuKJlkm5xFVGc",
+      "preview": "https://p.scdn.co/mp3-preview/0b642741a99220ae1450fd0bf6ccb5deea09d5b4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b49fce76c8e4bff1dfe326ba0e91408cb5d0fc",
+      "release_date": "2006-12-19"
+    },
+    {
+      "featuredArtist": "Trina",
+      "featuredArtistId": "4PrinKSrmILmo0kERG0Ogn",
+      "trackName": "Tonight (feat. Jaheim and Trina)",
+      "trackId": "7KwA5dISoQuKJlkm5xFVGc",
+      "preview": "https://p.scdn.co/mp3-preview/0b642741a99220ae1450fd0bf6ccb5deea09d5b4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b49fce76c8e4bff1dfe326ba0e91408cb5d0fc",
+      "release_date": "2006-12-19"
+    },
+    {
+      "featuredArtist": "Dunk Ryders",
+      "featuredArtistId": "6G5pIVnavvYt61Cn0MUWK8",
+      "trackName": "You Damn Right (feat. Dunk Ryders and Skky)",
+      "trackId": "4rKcZk9IzA5kFkYwFRk7fq",
+      "preview": "https://p.scdn.co/mp3-preview/514155ba5eb5b4ddbac1e7dbe402a3156de65ac8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b49fce76c8e4bff1dfe326ba0e91408cb5d0fc",
+      "release_date": "2006-12-19"
+    },
+    {
+      "featuredArtist": "Skky",
+      "featuredArtistId": "70FYU63OwHdtC57deXp1vf",
+      "trackName": "You Damn Right (feat. Dunk Ryders and Skky)",
+      "trackId": "4rKcZk9IzA5kFkYwFRk7fq",
+      "preview": "https://p.scdn.co/mp3-preview/514155ba5eb5b4ddbac1e7dbe402a3156de65ac8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b49fce76c8e4bff1dfe326ba0e91408cb5d0fc",
+      "release_date": "2006-12-19"
+    },
+    {
+      "featuredArtist": "Young Steff",
+      "featuredArtistId": "1onV3wRLwIfiGSMuNxsVnr",
+      "trackName": "Chevy (feat. Young Steff)",
+      "trackId": "1DNCHcHoABOajuJErHCQNO",
+      "preview": "https://p.scdn.co/mp3-preview/de312b1e4f89deb5193ee87215e4ae477c72967d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b49fce76c8e4bff1dfe326ba0e91408cb5d0fc",
+      "release_date": "2006-12-19"
+    },
+    {
+      "featuredArtist": "8Ball",
+      "featuredArtistId": "6B16XZWuJ9VERn7pXxCIda",
+      "trackName": "So High (feat. Trey Songz and 8Ball)",
+      "trackId": "7qL30qJYZWO1saOO3PBr5Q",
+      "preview": "https://p.scdn.co/mp3-preview/804a81c00dacdfdbf33b3afabd595385e2152a07?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b49fce76c8e4bff1dfe326ba0e91408cb5d0fc",
+      "release_date": "2006-12-19"
+    },
+    {
+      "featuredArtist": "Trey Songz",
+      "featuredArtistId": "2iojnBLj0qIMiKPvVhLnsH",
+      "trackName": "So High (feat. Trey Songz and 8Ball)",
+      "trackId": "7qL30qJYZWO1saOO3PBr5Q",
+      "preview": "https://p.scdn.co/mp3-preview/804a81c00dacdfdbf33b3afabd595385e2152a07?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b49fce76c8e4bff1dfe326ba0e91408cb5d0fc",
+      "release_date": "2006-12-19"
+    },
+    {
+      "featuredArtist": "Plies",
+      "featuredArtistId": "3jksrX4oBklxR78ft8gv3j",
+      "trackName": "Duck Down (feat. Plies) - Bonus Version",
+      "trackId": "2aw3bS8LVL33ZQTnBCIJur",
+      "preview": "https://p.scdn.co/mp3-preview/fafd2493684587fea49ce47255065e0195b762f8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b49fce76c8e4bff1dfe326ba0e91408cb5d0fc",
+      "release_date": "2006-12-19"
+    },
+    {
+      "featuredArtist": "Baby",
+      "featuredArtistId": "7E1r06wbRiF2soZtFoc62z",
+      "trackName": "Tuck Ya Ice (feat. Baby)",
+      "trackId": "0WzJnehmHXjNiZALTAns1d",
+      "preview": "https://p.scdn.co/mp3-preview/ef1eb5ff2413875a106c2b9ce691e36d7ba4c6ac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f3ab556f4e473a02b69a01112c357f393af7d965",
+      "release_date": "2006-12-19"
+    },
+    {
+      "featuredArtist": "T.I.",
+      "featuredArtistId": "4OBJLual30L7gRl5UkeRcT",
+      "trackName": "F**ckin' Around",
+      "trackId": "2Tr0hhjQBpR7iHDOhZCDnK",
+      "preview": "https://p.scdn.co/mp3-preview/393508e128cda291a43d38985c63a85ca179d00b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7dde6c5a7096ab6e869513fa1360b389a0332041",
+      "release_date": "2004-10-26"
+    },
+    {
+      "featuredArtist": "Kase 1",
+      "featuredArtistId": "3gO8XxnLPkqnCAyM6LBYeB",
+      "trackName": "F**ckin' Around",
+      "trackId": "2Tr0hhjQBpR7iHDOhZCDnK",
+      "preview": "https://p.scdn.co/mp3-preview/393508e128cda291a43d38985c63a85ca179d00b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7dde6c5a7096ab6e869513fa1360b389a0332041",
+      "release_date": "2004-10-26"
+    },
+    {
+      "featuredArtist": "Jeezy",
+      "featuredArtistId": "4yBK75WVCQXej1p04GWqxH",
+      "trackName": "F**ckin' Around",
+      "trackId": "2Tr0hhjQBpR7iHDOhZCDnK",
+      "preview": "https://p.scdn.co/mp3-preview/393508e128cda291a43d38985c63a85ca179d00b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7dde6c5a7096ab6e869513fa1360b389a0332041",
+      "release_date": "2004-10-26"
+    },
+    {
+      "featuredArtist": "Big D",
+      "featuredArtistId": "3a2TTT8yA6ffsrAyNRUoGg",
+      "trackName": "Let's Go (feat. Big D & Twista)",
+      "trackId": "1fLibtVj3MrNTwRZq5yUOs",
+      "preview": "https://p.scdn.co/mp3-preview/8625e92bd385d2d883f4438c834f173427de7ebb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7dde6c5a7096ab6e869513fa1360b389a0332041",
+      "release_date": "2004-10-26"
+    },
+    {
+      "featuredArtist": "Twista",
+      "featuredArtistId": "6vbY3hOaCAhC7VjucswgdS",
+      "trackName": "Let's Go (feat. Big D & Twista)",
+      "trackId": "1fLibtVj3MrNTwRZq5yUOs",
+      "preview": "https://p.scdn.co/mp3-preview/8625e92bd385d2d883f4438c834f173427de7ebb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7dde6c5a7096ab6e869513fa1360b389a0332041",
+      "release_date": "2004-10-26"
+    },
+    {
+      "featuredArtist": "CeeLo Green",
+      "featuredArtistId": "5nLYd9ST4Cnwy6NHaCxbj8",
+      "trackName": "Sugar (Gimme Some) [feat. Cee-Lo & Ludacris]",
+      "trackId": "7x6SuiiH3fcrsAgfkp2OwQ",
+      "preview": "https://p.scdn.co/mp3-preview/5f646af08163bc13ea5e8fd620dd501a861cbcaa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7dde6c5a7096ab6e869513fa1360b389a0332041",
+      "release_date": "2004-10-26"
+    },
+    {
+      "featuredArtist": "Ludacris",
+      "featuredArtistId": "3ipn9JLAPI5GUEo4y4jcoi",
+      "trackName": "Sugar (Gimme Some) [feat. Cee-Lo & Ludacris]",
+      "trackId": "7x6SuiiH3fcrsAgfkp2OwQ",
+      "preview": "https://p.scdn.co/mp3-preview/5f646af08163bc13ea5e8fd620dd501a861cbcaa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7dde6c5a7096ab6e869513fa1360b389a0332041",
+      "release_date": "2004-10-26"
+    },
+    {
+      "featuredArtist": "Jazze Pha",
+      "featuredArtistId": "1QkusyyiLCVP97x3TADKV9",
+      "trackName": "Menage A Trois",
+      "trackId": "6MAOZugZOVpsNIAAlU98NA",
+      "preview": "https://p.scdn.co/mp3-preview/42782dfd9339af7359214c7b6574fb32708c62a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7dde6c5a7096ab6e869513fa1360b389a0332041",
+      "release_date": "2004-10-26"
+    },
+    {
+      "featuredArtist": "Smoke",
+      "featuredArtistId": "31dKfnz1LacLTFDYEe1yid",
+      "trackName": "Menage A Trois",
+      "trackId": "6MAOZugZOVpsNIAAlU98NA",
+      "preview": "https://p.scdn.co/mp3-preview/42782dfd9339af7359214c7b6574fb32708c62a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7dde6c5a7096ab6e869513fa1360b389a0332041",
+      "release_date": "2004-10-26"
+    },
+    {
+      "featuredArtist": "Money Mark",
+      "featuredArtistId": "6I2891HPq8zEnBEuwc5iAP",
+      "trackName": "Menage A Trois",
+      "trackId": "6MAOZugZOVpsNIAAlU98NA",
+      "preview": "https://p.scdn.co/mp3-preview/42782dfd9339af7359214c7b6574fb32708c62a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7dde6c5a7096ab6e869513fa1360b389a0332041",
+      "release_date": "2004-10-26"
+    },
+    {
+      "featuredArtist": "Tampa Tony",
+      "featuredArtistId": "1FY1mblircgGN2XGoSIwVD",
+      "trackName": "J.O.D.D.",
+      "trackId": "5niZfYBH2i5KlPYe5Wbaaj",
+      "preview": "https://p.scdn.co/mp3-preview/371227db7722ac5968687b38f505b2bbe827130d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7dde6c5a7096ab6e869513fa1360b389a0332041",
+      "release_date": "2004-10-26"
+    },
+    {
+      "featuredArtist": "Khia",
+      "featuredArtistId": "3q7isf09BuwXLyR2khBs60",
+      "trackName": "J.O.D.D.",
+      "trackId": "5niZfYBH2i5KlPYe5Wbaaj",
+      "preview": "https://p.scdn.co/mp3-preview/371227db7722ac5968687b38f505b2bbe827130d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7dde6c5a7096ab6e869513fa1360b389a0332041",
+      "release_date": "2004-10-26"
+    },
+    {
+      "featuredArtist": "Ron Isley",
+      "featuredArtistId": "3x5793xivRq6Bw9CkjdtWs",
+      "trackName": "I Cry",
+      "trackId": "5z4cr6gLQBg0Ce4fPwuNAg",
+      "preview": "https://p.scdn.co/mp3-preview/4c240a58a508f0df7d2190c0d030833648757ab6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7dde6c5a7096ab6e869513fa1360b389a0332041",
+      "release_date": "2004-10-26"
+    },
+    {
+      "featuredArtist": "Dirt Bag",
+      "featuredArtistId": "1GSS8mPoZByVTTtN4RfcBc",
+      "trackName": "Thugs About",
+      "trackId": "5BMABjK863DsVFL6ehQo1r",
+      "preview": "https://p.scdn.co/mp3-preview/acff15fa3825abe4272e3c32c550ef80ae03c1c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7dde6c5a7096ab6e869513fa1360b389a0332041",
+      "release_date": "2004-10-26"
+    },
+    {
+      "featuredArtist": "Deuce Komradz",
+      "featuredArtistId": "71JUdxBEX5HNuyQ6fZyB9x",
+      "trackName": "Down Wit Da South",
+      "trackId": "1L5sEHPeLw1oBYiw2IwcNP",
+      "preview": "https://p.scdn.co/mp3-preview/5b21e609507f0f09522e3ba1f544a65729c443cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7dde6c5a7096ab6e869513fa1360b389a0332041",
+      "release_date": "2004-10-26"
+    },
+    {
+      "featuredArtist": "Ying Yang Twinz",
+      "featuredArtistId": "5a0hedowub8l4SjIO30ILq",
+      "trackName": "Down Wit Da South",
+      "trackId": "1L5sEHPeLw1oBYiw2IwcNP",
+      "preview": "https://p.scdn.co/mp3-preview/5b21e609507f0f09522e3ba1f544a65729c443cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7dde6c5a7096ab6e869513fa1360b389a0332041",
+      "release_date": "2004-10-26"
+    },
+    {
+      "featuredArtist": "Lil Jon",
+      "featuredArtistId": "7sfl4Xt5KmfyDs2T3SVSMK",
+      "trackName": "Let's Go (feat. Big D & Twista)",
+      "trackId": "4MatugKuTLRqQGLss6Ch4a",
+      "preview": "https://p.scdn.co/mp3-preview/a53ddc37aa4d6230d284aef59d5538b77b795ba2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f1118b7da91400e2f59649d7f803ad6d64be4c60",
+      "release_date": "2004"
+    },
+    {
+      "featuredArtist": "Big D",
+      "featuredArtistId": "1lRh0Inhjz1QPRzxOULqrq",
+      "trackName": "Let's Go (feat. Big D & Twista)",
+      "trackId": "4MatugKuTLRqQGLss6Ch4a",
+      "preview": "https://p.scdn.co/mp3-preview/a53ddc37aa4d6230d284aef59d5538b77b795ba2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f1118b7da91400e2f59649d7f803ad6d64be4c60",
+      "release_date": "2004"
+    },
+    {
+      "featuredArtist": "InfaRed",
+      "featuredArtistId": "4R529xQ7WQfRpSEXaHFbRg",
+      "trackName": "All I Need",
+      "trackId": "0EbfgL4cuGQ3c8GRdrcG3o",
+      "preview": "https://p.scdn.co/mp3-preview/b8a6adff492d2942e9ac2adff9f1c37f5d2e4c51?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2924524e81f725017fed91d8860fafef57d3a9a6",
+      "release_date": "2002-08-06"
+    },
+    {
+      "featuredArtist": "Big Boi",
+      "featuredArtistId": "2ht3wxeT69CzyKFChNnNAB",
+      "trackName": "In Da Wind",
+      "trackId": "0MO5QX9vcpEuC3rYJIkqOh",
+      "preview": "https://p.scdn.co/mp3-preview/7e6aa4f6e10e27d1c2968ff7d8c2e56861c40d04?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2924524e81f725017fed91d8860fafef57d3a9a6",
+      "release_date": "2002-08-06"
+    },
+    {
+      "featuredArtist": "Scarface",
+      "featuredArtistId": "19KwjzvIL92r29IINtlPNP",
+      "trackName": "Gangsta",
+      "trackId": "5S8CA6QV855ccZigXY0M2F",
+      "preview": "https://p.scdn.co/mp3-preview/4af02ddda59e88f58bf99a6a06e0f6c7147bd8df?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2924524e81f725017fed91d8860fafef57d3a9a6",
+      "release_date": "2002-08-06"
+    },
+    {
+      "featuredArtist": "Baby from Cash Money",
+      "featuredArtistId": "13OJgvmtC71VM184CuqmFw",
+      "trackName": "Gangsta",
+      "trackId": "5S8CA6QV855ccZigXY0M2F",
+      "preview": "https://p.scdn.co/mp3-preview/4af02ddda59e88f58bf99a6a06e0f6c7147bd8df?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2924524e81f725017fed91d8860fafef57d3a9a6",
+      "release_date": "2002-08-06"
+    },
+    {
+      "featuredArtist": "LaTocha Scott",
+      "featuredArtistId": "0reX7t2M37jLqLy1Nj1FpT",
+      "trackName": "Thug Holiday",
+      "trackId": "5I3uXbWBJhkZ62znIU6XEq",
+      "preview": "https://p.scdn.co/mp3-preview/b089a181ece1042681ac8fd5fff98ffe04678a22?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2924524e81f725017fed91d8860fafef57d3a9a6",
+      "release_date": "2002-08-06"
+    },
+    {
+      "featuredArtist": "Rick Ross",
+      "featuredArtistId": "1sBkRIssrMs1AbVkOJbc7a",
+      "trackName": "Let Me Ride",
+      "trackId": "4ZVMGQNCfCT1ODafzgTxdv",
+      "preview": "https://p.scdn.co/mp3-preview/96dce9d0c7165df8d07b6a0428f5a0a815aa2a2c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2924524e81f725017fed91d8860fafef57d3a9a6",
+      "release_date": "2002-08-06"
+    },
+    {
+      "featuredArtist": "Money Mark of Tre+6",
+      "featuredArtistId": "2gWp7r6Qluw454jPAueUuR",
+      "trackName": "Rock N Roll",
+      "trackId": "4J10bgJ5akgxNeX9vc7CT1",
+      "preview": "https://p.scdn.co/mp3-preview/e4db0a8cad0d12744a1c3f802a068955699490e3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2924524e81f725017fed91d8860fafef57d3a9a6",
+      "release_date": "2002-08-06"
+    },
+    {
+      "featuredArtist": "Tre+6",
+      "featuredArtistId": "11VVazjggjGO3xO8JPbq0b",
+      "trackName": "Rags to Riches",
+      "trackId": "5t5YhndNJhCICPjLDjk9ZC",
+      "preview": "https://p.scdn.co/mp3-preview/f7c81074a3b0f5437351426d2e91662164bd5d85?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2924524e81f725017fed91d8860fafef57d3a9a6",
+      "release_date": "2002-08-06"
+    },
+    {
+      "featuredArtist": "Mystic",
+      "featuredArtistId": "2hLBMpnVLdS8kOLFyFlq58",
+      "trackName": "Bout Mine",
+      "trackId": "4lRgXXGKwulNmOP9IPFE9I",
+      "preview": "https://p.scdn.co/mp3-preview/7c83fa9171eda5cdb4a5e82cb79ee8e04bdd5d77?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2924524e81f725017fed91d8860fafef57d3a9a6",
+      "release_date": "2002-08-06"
+    },
+    {
+      "featuredArtist": "Duece Poppi",
+      "featuredArtistId": "1hacdeB7oEZgq17ecoKrMa",
+      "trackName": "Bout Mine",
+      "trackId": "4lRgXXGKwulNmOP9IPFE9I",
+      "preview": "https://p.scdn.co/mp3-preview/7c83fa9171eda5cdb4a5e82cb79ee8e04bdd5d77?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2924524e81f725017fed91d8860fafef57d3a9a6",
+      "release_date": "2002-08-06"
+    },
+    {
+      "featuredArtist": "Betty Wright's Children's Choir",
+      "featuredArtistId": "022wB7phfB5Fni30NaCNHO",
+      "trackName": "God's Been Good",
+      "trackId": "1ZGlkuTXSvCtdesp1W9rM4",
+      "preview": "https://p.scdn.co/mp3-preview/b60b393332eab37bf70d83ad875705f3f8a3c1b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2924524e81f725017fed91d8860fafef57d3a9a6",
+      "release_date": "2002-08-06"
+    },
+    {
+      "featuredArtist": "Infa Red From Unda Presha",
+      "featuredArtistId": "2qY1nkMtyZnvnlK6WlXbHn",
+      "trackName": "Money & Drugs",
+      "trackId": "3GM5YzADkVrzXAYo0XmBNy",
+      "preview": "https://p.scdn.co/mp3-preview/ea54ea5755ccb7e09c17f939c48ee722a9bb5227?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2924524e81f725017fed91d8860fafef57d3a9a6",
+      "release_date": "2002-08-06"
+    },
+    {
+      "featuredArtist": "The Slip N' Slide Express",
+      "featuredArtistId": "10vqCqhaputyLSbo0mZi4k",
+      "trackName": "Take It To Da House (feat. The Slip N' Slide Express)",
+      "trackId": "2dh2VWHJ5ajoXWoC1w8xKn",
+      "preview": "https://p.scdn.co/mp3-preview/8b2ade0a551fd81efa0eb8c445521bc3d85dab5a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d57f42992693082f78a507df668c50a098182991",
+      "release_date": "2001-03-20"
+    },
+    {
+      "featuredArtist": "Lost Tribe",
+      "featuredArtistId": "5Yc0I2tQYUqltpkc1jXT3A",
+      "trackName": "Boy (feat. The Lost Tribe And JV)",
+      "trackId": "5EZ3mMZnHap7dwoJj10AHA",
+      "preview": "https://p.scdn.co/mp3-preview/0048c4d8d3252c6fb46937aea96b045af8a44803?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a325a4cb4d5c48978fd5704717b1d765d2e0bb34",
+      "release_date": "2000-02-04"
+    },
+    {
+      "featuredArtist": "Jv",
+      "featuredArtistId": "5ppnEFVYhZ3leysA1DNAPJ",
+      "trackName": "Boy (feat. The Lost Tribe And JV)",
+      "trackId": "5EZ3mMZnHap7dwoJj10AHA",
+      "preview": "https://p.scdn.co/mp3-preview/0048c4d8d3252c6fb46937aea96b045af8a44803?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a325a4cb4d5c48978fd5704717b1d765d2e0bb34",
+      "release_date": "2000-02-04"
+    },
+    {
+      "featuredArtist": "Izm",
+      "featuredArtistId": "0MT0zvb8AhUnk38Z1kRvo3",
+      "trackName": "Sittin' On D's (feat. Izm)",
+      "trackId": "3ZRuUIby7rUIs1yNSNd3E6",
+      "preview": "https://p.scdn.co/mp3-preview/d2129ef84c17f2839cad1f6fb47f00f8ec306a39?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a325a4cb4d5c48978fd5704717b1d765d2e0bb34",
+      "release_date": "2000-02-04"
+    },
+    {
+      "featuredArtist": "Society",
+      "featuredArtistId": "2WFfXQs1h5ttzDtzv0Vs8w",
+      "trackName": "America (feat. Society)",
+      "trackId": "4HH5dW4vGD5TtZ2WSc7ExT",
+      "preview": "https://p.scdn.co/mp3-preview/d5166bd24529abfcef04918d1366f9b63b4235c3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a325a4cb4d5c48978fd5704717b1d765d2e0bb34",
+      "release_date": "2000-02-04"
+    },
+    {
+      "featuredArtist": "Duece Poppito",
+      "featuredArtistId": "76ir7a6NKz1Cx5nixMtUxB",
+      "trackName": "Shut Up (feat. Duece Poppito Of 24 Karatz, Trina, & Co Of Tre +)",
+      "trackId": "66MsAs4nVj68t6va1lygIm",
+      "preview": "https://p.scdn.co/mp3-preview/423f3f3d71d73bb32ea425c5470a0681c79e8198?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a325a4cb4d5c48978fd5704717b1d765d2e0bb34",
+      "release_date": "2000-02-04"
+    },
+    {
+      "featuredArtist": "Co of Tre +6",
+      "featuredArtistId": "6OM5vgzcjqfl2LzRO0ECF3",
+      "trackName": "Shut Up (feat. Duece Poppito Of 24 Karatz, Trina, & Co Of Tre +)",
+      "trackId": "66MsAs4nVj68t6va1lygIm",
+      "preview": "https://p.scdn.co/mp3-preview/423f3f3d71d73bb32ea425c5470a0681c79e8198?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a325a4cb4d5c48978fd5704717b1d765d2e0bb34",
+      "release_date": "2000-02-04"
+    },
+    {
+      "featuredArtist": "Kase And Mystic Of The Lost Tribe",
+      "featuredArtistId": "0svmGrLbQPtpEJaPAMTbH2",
+      "trackName": "Thug For Life (feat. Kase And Mystic Of The Lost Tribe)",
+      "trackId": "2fonoB6s310QpDkRjQy95M",
+      "preview": "https://p.scdn.co/mp3-preview/cee4ed2d88a6c604b36d1a69fc67b256cb78aeb5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a325a4cb4d5c48978fd5704717b1d765d2e0bb34",
+      "release_date": "2000-02-04"
+    },
+    {
+      "featuredArtist": "Mystikal",
+      "featuredArtistId": "3LIJJJkO7R5RasRwt7xIn5",
+      "trackName": "Tryin' To Stop Smokin' (feat. Mystikal)",
+      "trackId": "57vFPbh8YCelx5LmxncFWI",
+      "preview": "https://p.scdn.co/mp3-preview/d8d493f08d77860d78d5ec389dd3df4567803cbc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a325a4cb4d5c48978fd5704717b1d765d2e0bb34",
+      "release_date": "2000-02-04"
+    },
+    {
+      "featuredArtist": "BuddyRoe",
+      "featuredArtistId": "1yCZRyxzsvuTsQ5kIvVZ6n",
+      "trackName": "Gotta Let You Have It (feat. Buddy Roe)",
+      "trackId": "0IQLCdYpldO9erOtY480WQ",
+      "preview": "https://p.scdn.co/mp3-preview/8d8c8c100667e754a8ec305b45e52a38b3d94ef9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a325a4cb4d5c48978fd5704717b1d765d2e0bb34",
+      "release_date": "2000-02-04"
+    },
+    {
+      "featuredArtist": "Co",
+      "featuredArtistId": "14LqWJuShbLIy4PBJaUSa0",
+      "trackName": "Shut Up (feat. Duece Poppito, Trina, & Co)",
+      "trackId": "1a6Wu2fORbFmZbAQryjr4u",
+      "preview": "https://p.scdn.co/mp3-preview/9dc1f58702677493567388856a8deee4aa8a68d5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ae194686019330c0d32d88072ecbbafbaebc2aac",
+      "release_date": "2000"
+    },
+    {
+      "featuredArtist": "Kase",
+      "featuredArtistId": "4wADD6R4Z6U3GLDCX3iSpB",
+      "trackName": "Thug For Life (feat. Kase And Mystic)",
+      "trackId": "1Sm2EjASFpBdW7NT0U1bCV",
+      "preview": "https://p.scdn.co/mp3-preview/094d0d2109b11020d07491d4942293c3398cfa13?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ae194686019330c0d32d88072ecbbafbaebc2aac",
+      "release_date": "2000"
+    },
+    {
+      "featuredArtist": "The Lost Tribe",
+      "featuredArtistId": "5zXdODoKPIDlDzM4oepFJ4",
+      "trackName": "So What (feat. The Lost Tribe)",
+      "trackId": "5XvO1Hv7nm6KwMyIDZHrvz",
+      "preview": "https://p.scdn.co/mp3-preview/9f4a39617aaeb2d126e3a4156f6e07181bbbfa10?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b91a68d3b4b788bb895d6ef7e813ba8a815e3de8",
+      "release_date": "1999-03-30"
+    },
+    {
+      "featuredArtist": "J-Shin",
+      "featuredArtistId": "61whxt4O1XSL0DNux0eTtp",
+      "trackName": "Hold On (feat. J-Shin)",
+      "trackId": "3MxMIRYBrdRso5pjptQklZ",
+      "preview": "https://p.scdn.co/mp3-preview/7b0945072e7c28cba214e3a4c197b52885959d64?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b91a68d3b4b788bb895d6ef7e813ba8a815e3de8",
+      "release_date": "1999-03-30"
+    },
+    {
+      "featuredArtist": "J.A.B.A.N.",
+      "featuredArtistId": "173mv8uVKUM0RMHhSLNawr",
+      "trackName": "I'll Be Your Other Man (feat. J.A.B.A.N)",
+      "trackId": "1Q9zyY6LMSqb7bjWHyw96z",
+      "preview": "https://p.scdn.co/mp3-preview/fbd8302dc6ee09eb73d5239542a552dc169da570?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b91a68d3b4b788bb895d6ef7e813ba8a815e3de8",
+      "release_date": "1999-03-30"
+    },
+    {
+      "featuredArtist": "Mark of Tre+6",
+      "featuredArtistId": "7kFATSpUjxszSVOOnCabQE",
+      "trackName": "Change My Life",
+      "trackId": "66lYVBcVQl98rABQJSsToE",
+      "preview": "https://p.scdn.co/mp3-preview/719404168f4781e012b816b006b75620d535e7d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a8e7b4bbfadec534ba5c5d03ce69d539140e941d",
+      "release_date": "1999-03-30"
+    },
+    {
+      "featuredArtist": "Daz Dilinger",
+      "featuredArtistId": "4WVk2X5xj6C7tF6q0xHrUk",
+      "trackName": "I Luv",
+      "trackId": "3iXD9yJvdzdE7fkNZ3vb1Z",
+      "preview": "https://p.scdn.co/mp3-preview/4819a29890f00e42cdaeea8f8ab7e9e142c95a60?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a8e7b4bbfadec534ba5c5d03ce69d539140e941d",
+      "release_date": "1999-03-30"
+    },
+    {
+      "featuredArtist": "Joan Of Arc",
+      "featuredArtistId": "6U9PwS3WsiKBVewf7wtwIZ",
+      "trackName": "I Luv",
+      "trackId": "3iXD9yJvdzdE7fkNZ3vb1Z",
+      "preview": "https://p.scdn.co/mp3-preview/4819a29890f00e42cdaeea8f8ab7e9e142c95a60?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a8e7b4bbfadec534ba5c5d03ce69d539140e941d",
+      "release_date": "1999-03-30"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "artistName": "Brooks & Dunn",
+  "features": [
+    {
+      "featuredArtist": "Billy Gibbons",
+      "featuredArtistId": "4DqeVw9M195lj22iU1elxD",
+      "trackName": "Honky Tonk Stomp - feat. Billy Gibbons",
+      "trackId": "2lhYYuUU2ut4QLsA7iib1T",
+      "preview": "https://p.scdn.co/mp3-preview/a8d1ac994ac13f5c3b241d337c573e859aa8bdbd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/220236bfb6bf65997a2ef04a2d560674f9629250",
+      "release_date": "2012-04-17"
+    },
+    {
+      "featuredArtist": "Reba McEntire",
+      "featuredArtistId": "02rd0anEWfMtF7iMku9uor",
+      "trackName": "If You See Him / If You See Her - with Reba McEntire",
+      "trackId": "39ehzF0Us5bG3vFFRMLmYR",
+      "preview": "https://p.scdn.co/mp3-preview/2ae3201be91a1d03aa447b644536118dc175f70a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3188258d5c00c8749d440a1f15aa6c0215b40854",
+      "release_date": "2004-10-19"
+    }
+  ]
+}

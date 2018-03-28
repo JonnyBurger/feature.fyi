@@ -1,0 +1,41 @@
+{
+  "artistName": "Ariel Pink",
+  "features": [
+    {
+      "featuredArtist": "Dâm-Funk",
+      "featuredArtistId": "1AEcpjnSCmm53IBZQo3g9z",
+      "trackName": "Acting",
+      "trackId": "6cL5IOInB1sA6rVwrh71dr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1ae6b254328b3667b9f686b2ccc69b59781362b7",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "R. Stevie Moore",
+      "featuredArtistId": "7sGhjDpOtxrMLip4lGFU7P",
+      "trackName": "Organ Trumpet Tower",
+      "trackId": "6v2epRQdWRb8XlhDJf8IC1",
+      "preview": "https://p.scdn.co/mp3-preview/10fb2db133df05e2fd6df2db8d731c46922e129a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/40470b0b4da19f372dbf7f9457ab47c85f86c3d3",
+      "release_date": "2012-02-23"
+    },
+    {
+      "featuredArtist": "Jason Falkner",
+      "featuredArtistId": "5DSSaD2HBvTDwGTsxLGjHb",
+      "trackName": "Come My Way",
+      "trackId": "2iMx83LVxlWOsUN3PB75bz",
+      "preview": "https://p.scdn.co/mp3-preview/989e0fe7a03e11a20d48ac6d41ed01eda7cca5df?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/40470b0b4da19f372dbf7f9457ab47c85f86c3d3",
+      "release_date": "2012-02-23"
+    },
+    {
+      "featuredArtist": "Rose Keeler-Schäffeler",
+      "featuredArtistId": "0FNaalYHDKhdKhfN11TFer",
+      "trackName": "Douche Me (Keel Her)",
+      "trackId": "6vtJILQ8r9301RkNBOhBf9",
+      "preview": "https://p.scdn.co/mp3-preview/395932b7b76bdcd1b421b18652470561bd22fc96?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/40470b0b4da19f372dbf7f9457ab47c85f86c3d3",
+      "release_date": "2012-02-23"
+    }
+  ]
+}

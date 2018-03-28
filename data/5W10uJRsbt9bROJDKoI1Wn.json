@@ -1,0 +1,23 @@
+{
+  "artistName": "Moses Sumney",
+  "features": [
+    {
+      "featuredArtist": "Flume",
+      "featuredArtistId": "6nxWCVXbOlEVRexSbLsTer",
+      "trackName": "Weekend",
+      "trackId": "797cARXs5UuXT7anWuILTP",
+      "preview": "https://p.scdn.co/mp3-preview/eae8092a3a7a07cd7ef7101804f516a82084faa2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/395602825a786deb3c3cfe404b74a8077b15f9f5",
+      "release_date": "2017-02-17"
+    },
+    {
+      "featuredArtist": "The Cinematic Orchestra",
+      "featuredArtistId": "32ogthv0BdaSMPml02X9YB",
+      "trackName": "To Believe",
+      "trackId": "4lVTbSA2iAEAV5Cdj7Ranw",
+      "preview": "https://p.scdn.co/mp3-preview/3d1ada00b6ebfeaee9ea10c05a87b5983289482e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f05f11e86feb854a824281c8c57ae5544bf6e92d",
+      "release_date": "2016-10-20"
+    }
+  ]
+}

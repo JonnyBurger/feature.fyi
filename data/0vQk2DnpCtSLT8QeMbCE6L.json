@@ -1,0 +1,32 @@
+{
+  "artistName": "Federica Carta",
+  "features": [
+    {
+      "featuredArtist": "La Rua",
+      "featuredArtistId": "0t1P9udir2kuY3xvgRqV7Y",
+      "trackName": "Sull'Orlo Di Una Crisi D'Amore",
+      "trackId": "7dz4eREUXG2jpgMepgfOS3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d4e59a64b6ebd8339db17cecdeeb132d04750f97",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Shade",
+      "featuredArtistId": "1xqolkIzTFMmqgCuD48WNt",
+      "trackName": "Irraggiungibile (feat. Federica Carta)",
+      "trackId": "03PDOt4cRKQgpYfA9I9wnC",
+      "preview": "https://p.scdn.co/mp3-preview/dc4039e826c2aef3a5d694636c08bea36a96ae5e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ee9ea94487031cbe169107c567f29fa64e2c4e03",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Lenny Ibizarre",
+      "featuredArtistId": "46EFdhRhsYOdmx63ffjOtu",
+      "trackName": "One World",
+      "trackId": "6yECJ1ukk4U2JjVDWG9iBf",
+      "preview": "https://p.scdn.co/mp3-preview/ae67066d02be9c233972403dad03767dfd0ec284?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d1614e6f60450b4fa83cf3e9b6bb7fe2418a4c89",
+      "release_date": "2013-09-27"
+    }
+  ]
+}

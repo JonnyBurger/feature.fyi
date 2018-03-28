@@ -1,0 +1,32 @@
+{
+  "artistName": "The Wailers",
+  "features": [
+    {
+      "featuredArtist": "Ashley Beedle",
+      "featuredArtistId": "7gs54cZveSV3kraHmiGYDr",
+      "trackName": "Stand Up Jamrock - Ashley Beedle Remix",
+      "trackId": "6OlE0JfuD9BAKHI7JjHYun",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d9efc5bdf54827e21ce9b41c9ed39dfe80aa8a4e",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Bob Marley & The Wailers",
+      "featuredArtistId": "2QsynagSdAqZj3U9HgDzjD",
+      "trackName": "Slogans",
+      "trackId": "5ZgmzNwvNUqvqq8Vv8uGsn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d9efc5bdf54827e21ce9b41c9ed39dfe80aa8a4e",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Peter Tosh",
+      "featuredArtistId": "0oea1hwGMfUxZbLxJc1XUN",
+      "trackName": "Stop the Train",
+      "trackId": "7DPaxFdP0VPNwFS276Pqb7",
+      "preview": "https://p.scdn.co/mp3-preview/e3185a35d4b87a1cf6d285c0d44f38e0550211be?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0e095de8b4c8ff13bc7c087027371ecc23c0293f",
+      "release_date": "2015-01-07"
+    }
+  ]
+}

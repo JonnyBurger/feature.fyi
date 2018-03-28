@@ -1,0 +1,32 @@
+{
+  "artistName": "Gal Costa",
+  "features": [
+    {
+      "featuredArtist": "Gilberto Gil",
+      "featuredArtistId": "7oEkUINVIj1Nr3Wnj8tzqr",
+      "trackName": "Trinca de Ases - Ao Vivo",
+      "trackId": "4kOBTvfDMWV64sMJVJWNTK",
+      "preview": "https://p.scdn.co/mp3-preview/16ef2cfd90092b941f2ecdfb6785e960cd42e48c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8a24a9015415ef799e8ce57e5db3690bd2b1fd09",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Nando Reis",
+      "featuredArtistId": "7n1XMwvxPf10t4OX6h6Ufy",
+      "trackName": "Trinca de Ases - Ao Vivo",
+      "trackId": "4kOBTvfDMWV64sMJVJWNTK",
+      "preview": "https://p.scdn.co/mp3-preview/16ef2cfd90092b941f2ecdfb6785e960cd42e48c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8a24a9015415ef799e8ce57e5db3690bd2b1fd09",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Caetano Veloso",
+      "featuredArtistId": "7HGNYPmbDrMkylWqeFCOIQ",
+      "trackName": "Coração Vagabundo",
+      "trackId": "5Ui9vEtY6ZNINX5Ci99F8F",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8652f1d4567d93b06a4eed453a0e8915a6f718b3",
+      "release_date": "2015-10-30"
+    }
+  ]
+}

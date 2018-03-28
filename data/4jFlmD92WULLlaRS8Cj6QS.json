@@ -1,0 +1,32 @@
+{
+  "artistName": "Francesca Michielin",
+  "features": [
+    {
+      "featuredArtist": "Cristina D'Avena",
+      "featuredArtistId": "1IPsn7d84HQ5V311bDHNrq",
+      "trackName": "L'incantevole Creamy (feat. Francesca Michielin)",
+      "trackId": "1x6ppZbzsOc0XZYpaZWGPm",
+      "preview": "https://p.scdn.co/mp3-preview/9c65b766c79669bcb87d2609b98e7efc777c9b36?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/30619f67b17d83bcec6bb9ebace0f1a165907350",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Syria",
+      "featuredArtistId": "604Wl5irR5wDZc1t8vyOHn",
+      "trackName": "Non Dimentico Più",
+      "trackId": "2IekO1Z6nHSy124RktlLLp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/22e2e11e92469ee9f524681e64effb15a19b06c9",
+      "release_date": "2017-04-28"
+    },
+    {
+      "featuredArtist": "Fedez",
+      "featuredArtistId": "3pgCLfNbw5ozIfoNsvDU7i",
+      "trackName": "Magnifico",
+      "trackId": "218o2LbwBEtYDbDWcuUUxG",
+      "preview": "https://p.scdn.co/mp3-preview/1224d54ccc3a91d06481ef07ed0a2fbd65340534?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a379f4b04ae68bd4f63453ea1e8c35f212d5dec4",
+      "release_date": "2015-10-09"
+    }
+  ]
+}

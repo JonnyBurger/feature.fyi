@@ -1,0 +1,41 @@
+{
+  "artistName": "Phil Wickham",
+  "features": [
+    {
+      "featuredArtist": "Madison Cunningham",
+      "featuredArtistId": "3h9TfIgwhovQELlP2jj4xL",
+      "trackName": "The Secret Place - Acoustic",
+      "trackId": "2kLHSJ9B6sqDYggynPrNiA",
+      "preview": "https://p.scdn.co/mp3-preview/33e44df13b86c2ce0edb72fd7ec295df33dff725?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/858faa6de334de7111051ece2e8b16f34a1877f3",
+      "release_date": "2016-10-14"
+    },
+    {
+      "featuredArtist": "Jeremy Riddle",
+      "featuredArtistId": "6jZbQXvNtDjnj18yoHMuvi",
+      "trackName": "This Is Amazing Grace (Live)",
+      "trackId": "1Iu0Z1LbqQoRtq2ZKo8aKA",
+      "preview": "https://p.scdn.co/mp3-preview/3e356b295c3f87488ae3c7415ced08d34570de58?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d068f630b1893c6b88aa4654e33504d658bdf2d3",
+      "release_date": "2015-05-12"
+    },
+    {
+      "featuredArtist": "Shane & Shane",
+      "featuredArtistId": "2LFbgsbEhfilNpQYW7mied",
+      "trackName": "When My Heart Is Torn Asunder (Live)",
+      "trackId": "6q2M6umIxN4Ryomu2QC0eM",
+      "preview": "https://p.scdn.co/mp3-preview/febbec95fd6f503feb6bd8dccf3eb7702ddaa31a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d068f630b1893c6b88aa4654e33504d658bdf2d3",
+      "release_date": "2015-05-12"
+    },
+    {
+      "featuredArtist": "Kari Jobe",
+      "featuredArtistId": "5XlSS9O4eHRiJ0hKzbaFQ2",
+      "trackName": "Revelation Song (Live)",
+      "trackId": "2ManXVobIzttWQq2OwVgzV",
+      "preview": "https://p.scdn.co/mp3-preview/a2d12b58240bbb2cf3ee28efa114a9689c0ff1a4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d068f630b1893c6b88aa4654e33504d658bdf2d3",
+      "release_date": "2015-05-12"
+    }
+  ]
+}

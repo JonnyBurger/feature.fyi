@@ -1,0 +1,50 @@
+{
+  "artistName": "Julia Sheer",
+  "features": [
+    {
+      "featuredArtist": "Corey Gray",
+      "featuredArtistId": "6TKKVFCBfak1kInOPl7hCz",
+      "trackName": "Want U Back",
+      "trackId": "30YW4vNWDOgpfJXYWOEahA",
+      "preview": "https://p.scdn.co/mp3-preview/6ff148f9e939bac0899052d22c279e3480d68b1c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/507902056723e31104d24534426dfa844dcb2ff1",
+      "release_date": "2012-08-04"
+    },
+    {
+      "featuredArtist": "Jake Coco",
+      "featuredArtistId": "6WyeyhNDpeIVbznnztFDQZ",
+      "trackName": "The Fighter",
+      "trackId": "6uBA53kflZllADQlUk7Z82",
+      "preview": "https://p.scdn.co/mp3-preview/8a5aaff7e3c1cac2c7a719e9285e441c55c50fb5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/507902056723e31104d24534426dfa844dcb2ff1",
+      "release_date": "2012-08-04"
+    },
+    {
+      "featuredArtist": "Landon Austin",
+      "featuredArtistId": "2WROyFfIOmKtRopsTrIL52",
+      "trackName": "It Ain't Me",
+      "trackId": "60qoWJbo0ibvbt7t4HPEao",
+      "preview": "https://p.scdn.co/mp3-preview/ddeaaf6f6cb71d7aa29a05a04f86c17b5429d110?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e504be2c314d9e2484cbc9edee824cd9ac95ddf",
+      "release_date": "2017-03-15"
+    },
+    {
+      "featuredArtist": "Eppic",
+      "featuredArtistId": "5UJ6lALUgCvxJWUPjMeeH0",
+      "trackName": "It Ain't Me",
+      "trackId": "60qoWJbo0ibvbt7t4HPEao",
+      "preview": "https://p.scdn.co/mp3-preview/ddeaaf6f6cb71d7aa29a05a04f86c17b5429d110?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e504be2c314d9e2484cbc9edee824cd9ac95ddf",
+      "release_date": "2017-03-15"
+    },
+    {
+      "featuredArtist": "RUNAGROUND",
+      "featuredArtistId": "0bTwqu2kHGHJyomMDAGpkK",
+      "trackName": "We Were Us",
+      "trackId": "6oSztOECZ96njZRohMBVq7",
+      "preview": "https://p.scdn.co/mp3-preview/eba1b503426f50f5d17b494ef77ce67ba51398ed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e0366457f65b1c50037852e82835439a98dc5c9b",
+      "release_date": "2013-11-01"
+    }
+  ]
+}

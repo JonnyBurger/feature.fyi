@@ -1,0 +1,23 @@
+{
+  "artistName": "Jorge Ben Jor",
+  "features": [
+    {
+      "featuredArtist": "Erasmo Carlos",
+      "featuredArtistId": "6cHQUDAPGKRE2NbVjBlOcz",
+      "trackName": "O Comilão",
+      "trackId": "7seBDnA6J2NkLSExizy9xj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1c65d74624aa915b85cf413b4fbe232d20e841f6",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Lucinha Lins",
+      "featuredArtistId": "0BOUcqQ4QBKASefkp11yXA",
+      "trackName": "Georgia e Jorge (feat. Lucinha Lins)",
+      "trackId": "581nhSmUSi6RA4pGyYxWd4",
+      "preview": "https://p.scdn.co/mp3-preview/7f2d5647f2777e2bf8176ae9840f1964b3b89c20?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/34244d9ba100e4435aab07060b2df1e9a9ded898",
+      "release_date": "2014-07-28"
+    }
+  ]
+}

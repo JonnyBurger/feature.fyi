@@ -1,0 +1,23 @@
+{
+  "artistName": "Saliva",
+  "features": [
+    {
+      "featuredArtist": "Brad Arnold",
+      "featuredArtistId": "1NSuMBUj4oAk0F1IfJ6zU4",
+      "trackName": "Razor's Edge",
+      "trackId": "5LXDaEW6eZMBVcdRsa31ud",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c04162942ecb3914aed6f2ee26b1a1cbd16dbb57",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Brent Smith",
+      "featuredArtistId": "72WcGKyczmErhVnMOUi0aR",
+      "trackName": "My Own Worst Enemy",
+      "trackId": "6krtWR6d8QfmKYE3rr0llV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/57cebfd2d59d2deb635358744305e43dc05d6086",
+      "release_date": "2008-12-16"
+    }
+  ]
+}

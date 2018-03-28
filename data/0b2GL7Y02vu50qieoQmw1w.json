@@ -1,0 +1,554 @@
+{
+  "artistName": "IAmChino",
+  "features": [
+    {
+      "featuredArtist": "Pitbull",
+      "featuredArtistId": "0TnOYISbd1XYRBk9myaseg",
+      "trackName": "Amor - Spanglish Remix",
+      "trackId": "5AnWh7q5AadwZLlT1SUvjr",
+      "preview": "https://p.scdn.co/mp3-preview/062bbe1437c6afc015c25fa5fd5bb93c4c4c6774?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eed31f2781fe350842fff0dc1687bd8527c86c01",
+      "release_date": "2018-03-19"
+    },
+    {
+      "featuredArtist": "El Chacal",
+      "featuredArtistId": "1xFn1xod58AGaSZjrxdiXA",
+      "trackName": "Amor - Spanglish Remix",
+      "trackId": "5AnWh7q5AadwZLlT1SUvjr",
+      "preview": "https://p.scdn.co/mp3-preview/062bbe1437c6afc015c25fa5fd5bb93c4c4c6774?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eed31f2781fe350842fff0dc1687bd8527c86c01",
+      "release_date": "2018-03-19"
+    },
+    {
+      "featuredArtist": "Wisin",
+      "featuredArtistId": "3E6xrwgnVfYCrCs0ePERDz",
+      "trackName": "Amor - Spanglish Remix",
+      "trackId": "5AnWh7q5AadwZLlT1SUvjr",
+      "preview": "https://p.scdn.co/mp3-preview/062bbe1437c6afc015c25fa5fd5bb93c4c4c6774?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eed31f2781fe350842fff0dc1687bd8527c86c01",
+      "release_date": "2018-03-19"
+    },
+    {
+      "featuredArtist": "Akon",
+      "featuredArtistId": "0z4gvV4rjIZ9wHck67ucSV",
+      "trackName": "Amor - Spanglish Remix",
+      "trackId": "5AnWh7q5AadwZLlT1SUvjr",
+      "preview": "https://p.scdn.co/mp3-preview/062bbe1437c6afc015c25fa5fd5bb93c4c4c6774?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eed31f2781fe350842fff0dc1687bd8527c86c01",
+      "release_date": "2018-03-19"
+    },
+    {
+      "featuredArtist": "Austin Mahone",
+      "featuredArtistId": "04abdnqPQe2N4fjztDea6z",
+      "trackName": "Amor (Remix) [feat. Chacal, Wisin & Austin Mahone]",
+      "trackId": "3g7T7WLw6AcP8o2n8oiIj3",
+      "preview": "https://p.scdn.co/mp3-preview/d250bd7ec6533e11a4c1bd9b896ad1c87fba6a26?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/17cb7a35edbbd31c1b5a0cac8a1d67a0b7dec297",
+      "release_date": "2017-10-18"
+    },
+    {
+      "featuredArtist": "Matilda Thompson",
+      "featuredArtistId": "3dxm5RgSrWmvloiAzP54jr",
+      "trackName": "Chemicals (feat. Matilda Thompson)",
+      "trackId": "2UhH6pH7rsqcJT9uSd1hRu",
+      "preview": "https://p.scdn.co/mp3-preview/7e75d0f64880111084855d951241a1e8ca4a0e90?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64abf7c2bdaf321a507845f9905628b13dbb1bc2",
+      "release_date": "2016-09-30"
+    },
+    {
+      "featuredArtist": "Yandel",
+      "featuredArtistId": "0eHQ9o50hj6ZDNBt6Ys1sD",
+      "trackName": "Ay Mi Dios",
+      "trackId": "6stYbAJgTszHAHZMPxWWCY",
+      "preview": "https://p.scdn.co/mp3-preview/29ae806b26245359a44c1750dea6aba65fc7d23b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4344339e1c284eb63b88233b2adaf6d3bc3cde6c",
+      "release_date": "2016-02-22"
+    },
+    {
+      "featuredArtist": "Mohombi",
+      "featuredArtistId": "37GUqxafAvAKGMZbXCUnmr",
+      "trackName": "Hasta Que Salga el Sol",
+      "trackId": "3ayDKh9tM3hFX2RWK1zbN4",
+      "preview": "https://p.scdn.co/mp3-preview/e7e2a1ba322973ef455c3cccce228283fb0598ac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/993b445d25feb63d2ed9e86ecb9cd0a6b576a229",
+      "release_date": "2015-05-04"
+    },
+    {
+      "featuredArtist": "Farruko",
+      "featuredArtistId": "329e4yvIujISKGKz1BZZbO",
+      "trackName": "Hasta Que Salga el Sol",
+      "trackId": "3ayDKh9tM3hFX2RWK1zbN4",
+      "preview": "https://p.scdn.co/mp3-preview/e7e2a1ba322973ef455c3cccce228283fb0598ac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/993b445d25feb63d2ed9e86ecb9cd0a6b576a229",
+      "release_date": "2015-05-04"
+    },
+    {
+      "featuredArtist": "Gente De Zona",
+      "featuredArtistId": "2cy1zPcrFcXAJTP0APWewL",
+      "trackName": "Dame una Noche",
+      "trackId": "0lBRKd8gPEX50zohzb1Hik",
+      "preview": "https://p.scdn.co/mp3-preview/5e7c6fa9b941e982bbee1df5e86c934624b2f723?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6dcf02f9abd56a2dac1005c5a4c099e3a3d77b14",
+      "release_date": "2014-05-06"
+    },
+    {
+      "featuredArtist": "Fito Blanko",
+      "featuredArtistId": "5eYDJJfPXinVZq2mXleOSW",
+      "trackName": "Dame una Noche",
+      "trackId": "0lBRKd8gPEX50zohzb1Hik",
+      "preview": "https://p.scdn.co/mp3-preview/5e7c6fa9b941e982bbee1df5e86c934624b2f723?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6dcf02f9abd56a2dac1005c5a4c099e3a3d77b14",
+      "release_date": "2014-05-06"
+    },
+    {
+      "featuredArtist": "Fuego",
+      "featuredArtistId": "7wU2WGCJ8HxkekHHE2QLul",
+      "trackName": "Dame una Noche",
+      "trackId": "0lBRKd8gPEX50zohzb1Hik",
+      "preview": "https://p.scdn.co/mp3-preview/5e7c6fa9b941e982bbee1df5e86c934624b2f723?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6dcf02f9abd56a2dac1005c5a4c099e3a3d77b14",
+      "release_date": "2014-05-06"
+    },
+    {
+      "featuredArtist": "Papayo",
+      "featuredArtistId": "5F2Bwl7Is7KVwTbNbMclIS",
+      "trackName": "Si Te Agarro",
+      "trackId": "4UHGkS99hIKcv6Exa8in5o",
+      "preview": "https://p.scdn.co/mp3-preview/aa9a83ed4124f2d3e62b8dd672b859e0aecd4e0a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31ade2d9d73d74417547d94f208d8214969e984f",
+      "release_date": "2013-01-06"
+    },
+    {
+      "featuredArtist": "Jimmy Joker",
+      "featuredArtistId": "1EvQKZjkU0yKrokPN3sqej",
+      "trackName": "Lady (feat. Pitbull) - IAmChino & Jimmy Joker Remix",
+      "trackId": "5k1eFWaj5M1uU7kGOnhgzd",
+      "preview": "https://p.scdn.co/mp3-preview/ec390d69a82cbf852a71f9e8e1ace0fe6a0d6f34?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b96610b0b0e3db94ddf1e426770bf096372a0845",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Brian Cross",
+      "featuredArtistId": "6hKA4fRHqmcL8WYEmJfCaY",
+      "trackName": "Faces & Lighters",
+      "trackId": "2VtBSuwIWi0XtbTOX3Pv90",
+      "preview": "https://p.scdn.co/mp3-preview/dff55be8638dc30edca3c447907f9fc7872e041c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8c876db65b5fd927ba12a7a2cae11c3114f1a25",
+      "release_date": "2017-02-24"
+    },
+    {
+      "featuredArtist": "Vein",
+      "featuredArtistId": "3BnF35ARlp8mMeyXTjUZsr",
+      "trackName": "Faces & Lighters",
+      "trackId": "2VtBSuwIWi0XtbTOX3Pv90",
+      "preview": "https://p.scdn.co/mp3-preview/dff55be8638dc30edca3c447907f9fc7872e041c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8c876db65b5fd927ba12a7a2cae11c3114f1a25",
+      "release_date": "2017-02-24"
+    },
+    {
+      "featuredArtist": "Two Tone",
+      "featuredArtistId": "2KPgHRIcgEiJ8RzXtbvwDf",
+      "trackName": "Faces & Lighters",
+      "trackId": "2VtBSuwIWi0XtbTOX3Pv90",
+      "preview": "https://p.scdn.co/mp3-preview/dff55be8638dc30edca3c447907f9fc7872e041c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8c876db65b5fd927ba12a7a2cae11c3114f1a25",
+      "release_date": "2017-02-24"
+    },
+    {
+      "featuredArtist": "Calvin Harris",
+      "featuredArtistId": "7CajNmpbOovFoOoasH2HaY",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Mako",
+      "featuredArtistId": "0Ye4nfYAA91T1X56gnlXAA",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Sunnery James & Ryan Marciano",
+      "featuredArtistId": "7kABWMhjA5GIl9PBEasBPt",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Various Artists",
+      "featuredArtistId": "0LyfQWJT6nXafLPZqxe9Of",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Armin van Buuren",
+      "featuredArtistId": "0SfsnGyD8FpIN4U4WCkBZ5",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Bassjackers",
+      "featuredArtistId": "6xQvQwZQQuq9R3TdPNbcR8",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Benny Benassi",
+      "featuredArtistId": "4Ws2otunReOa6BbwxxpCt6",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Dash Berlin",
+      "featuredArtistId": "1xT5p0VBpnZDrvVSjX9sri",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "David Guetta",
+      "featuredArtistId": "1Cs0zKBU1kc0i8ypK3B9ai",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Hardwell",
+      "featuredArtistId": "6BrvowZBreEkXzJQMpL174",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "KSHMR",
+      "featuredArtistId": "2wX6xSig4Rig5kZU6ePlWe",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Major Lazer",
+      "featuredArtistId": "738wLrAtLtCtFOLvQBXOXp",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Martin Garrix",
+      "featuredArtistId": "60d24wfXkVzDSfLS6hyCjZ",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Project 46",
+      "featuredArtistId": "2RhRT6DNOVoDTfS0rG31pZ",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Steve Aoki",
+      "featuredArtistId": "77AiFEVeAVj2ORpC85QVJs",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "3LAU",
+      "featuredArtistId": "4YLQaW1UU3mrVetC8gNkg5",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Bebe Rexha",
+      "featuredArtistId": "64M6ah0SkkRsnPGtGiRAbb",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Cedric Gervais",
+      "featuredArtistId": "4Wjf8diP59VmPG7fi4y724",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Jay Hardway",
+      "featuredArtistId": "12SPNXi0aDpFt0rMVbmLrr",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Jay Sean",
+      "featuredArtistId": "4pADjHPWyrlAF0FA7joK2H",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Showtek",
+      "featuredArtistId": "3gk0OYeLFWYupGFRHqLSR7",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Chris Willis",
+      "featuredArtistId": "2qSEpijpT3YSXgxcXac1ly",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "B3nte & Badjack",
+      "featuredArtistId": "39zqN6tcBjbz8EQYzkTzRs",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "BullySongs",
+      "featuredArtistId": "5YMqwPmb7ViNXM63g1MUH5",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Dawn Golden",
+      "featuredArtistId": "6MzxeKydmXufvX7HYPknFW",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Eric Vloeimans",
+      "featuredArtistId": "0GJnVOotvnAmZvUYL8Kpmx",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Haliene",
+      "featuredArtistId": "2n1yuz3hnuFVbgbNPis6jh",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Luciana",
+      "featuredArtistId": "3Zr8dNu3neSH31shBBT9UM",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Rich The Kid",
+      "featuredArtistId": "1pPmIToKXyGdsCF6LmqLmI",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Vein",
+      "featuredArtistId": "6vAPysZIQKIQgIfSUfbHqO",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Bright Lights",
+      "featuredArtistId": "2AoeqcUs8DySgZRJ9yV4Ou",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "ILoveMakonnen",
+      "featuredArtistId": "3aGFCoR8xGN6DKwvdzeSja",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Dannic",
+      "featuredArtistId": "1PFc84GHTYPL0G12JHh9Mc",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Patrick Hagenaar",
+      "featuredArtistId": "6tbmy77VmvgGGBano6HoUh",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Tiësto",
+      "featuredArtistId": "2o5jDhtHVPhrJdv3cEQ99Z",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Kaaze",
+      "featuredArtistId": "6WGE3kO8ULME2ErBcOksSR",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Tom Staar",
+      "featuredArtistId": "0iSYvHKAdhWVdZkS1PYK3u",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "DallasK",
+      "featuredArtistId": "7uas0F5EhsZg6KDJ7yy7rW",
+      "trackName": "Ultra South Africa 2017 - Continuous DJ Mix 1",
+      "trackId": "4AgOC3OjUu5CCZjsPNa9Ta",
+      "preview": "https://p.scdn.co/mp3-preview/47455ff9f30d87ddd0d868d7b27da035e3edaef5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bf7568dd761f3a843c12268e919ac0e35451ea3",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Bobby Biscayne",
+      "featuredArtistId": "1WWDevmVEMlvbpiUGOP0qx",
+      "trackName": "El Malo (feat. Bobby Biscayne & Iamchino)",
+      "trackId": "5r9voxQ0FXzfCfYAP4Siqy",
+      "preview": "https://p.scdn.co/mp3-preview/76a00af9a47f5a9049d303ffabf3f893bc686142?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7b2a64ae797195e9d77270ac5386b30b4a4432ac",
+      "release_date": "2017-01-27"
+    },
+    {
+      "featuredArtist": "Fedde V",
+      "featuredArtistId": "3ZPowxoBmAWmdE25MDhGHO",
+      "trackName": "Faces & Lighters - Fedde V Remix",
+      "trackId": "6ABF58HD5f4oMfMEPXqRYT",
+      "preview": "https://p.scdn.co/mp3-preview/216ea92eec239841897188556540fef88b952e03?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a91ed910fad3cd0c9982bb87f6a3e19c59ededb8",
+      "release_date": "2016-07-29"
+    },
+    {
+      "featuredArtist": "HEREN",
+      "featuredArtistId": "6dgMUXNQNMIZgi92JcI0RX",
+      "trackName": "Faces & Lighters - Heren Remix",
+      "trackId": "3BOgqBg70M2M1eVu1aSBdA",
+      "preview": "https://p.scdn.co/mp3-preview/6c34bc7981232350ab90a6c4fca0695b91ca3a60?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a91ed910fad3cd0c9982bb87f6a3e19c59ededb8",
+      "release_date": "2016-07-29"
+    },
+    {
+      "featuredArtist": "The Kemist",
+      "featuredArtistId": "1HvF89QVwGlk74nQZC6MCG",
+      "trackName": "Faces & Lighters - The Kemist Remix",
+      "trackId": "7qdFN0HXffXZe4Ndz8R1td",
+      "preview": "https://p.scdn.co/mp3-preview/7d050836c894b42bbee7df7dcaefad0f5ad9dee3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a91ed910fad3cd0c9982bb87f6a3e19c59ededb8",
+      "release_date": "2016-07-29"
+    },
+    {
+      "featuredArtist": "Joswerk",
+      "featuredArtistId": "55Qltbl6SP2bH18FqU54Ba",
+      "trackName": "Faces & Lighters - Joswerk Remix",
+      "trackId": "1gadEajRpLBcRAUJxDVJha",
+      "preview": "https://p.scdn.co/mp3-preview/ff5734d7278c12293cb4a34dded82db6402dfd32?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a91ed910fad3cd0c9982bb87f6a3e19c59ededb8",
+      "release_date": "2016-07-29"
+    },
+    {
+      "featuredArtist": "Abelthekid",
+      "featuredArtistId": "5zzxBJrsG9830lUE1NYQVK",
+      "trackName": "Faces & Lighters - Abelthekid Remix",
+      "trackId": "45EiDlSvJJc46mNez0fMBD",
+      "preview": "https://p.scdn.co/mp3-preview/ac7fed8bfd0d7a8da7ef9771bf34f1a2744d845b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a91ed910fad3cd0c9982bb87f6a3e19c59ededb8",
+      "release_date": "2016-07-29"
+    }
+  ]
+}

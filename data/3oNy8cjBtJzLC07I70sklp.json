@@ -1,0 +1,77 @@
+{
+  "artistName": "Belanova",
+  "features": [
+    {
+      "featuredArtist": "Javier Blake",
+      "featuredArtistId": "7rWuyGabaLQSmsHpZJkMzx",
+      "trackName": "Cada Que... - En Vivo",
+      "trackId": "7BAzacWBgUywzEh2KIZtBl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b0da837882884ecffaef3dece44282d5f9ba43cd",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Jay de la Cueva",
+      "featuredArtistId": "2PQW0MnXmZd19XKZQyoPgu",
+      "trackName": "No Voy A Parar - En Vivo",
+      "trackId": "4H7upy3Tgl7fyWsOMIEWb6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2866da25e4fa20ae72cba794adb24f12045b57c8",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Lena Katina",
+      "featuredArtistId": "5RfS9o5FOLPdO77H58h3oA",
+      "trackName": "Tic - Toc",
+      "trackId": "1m9eftUmR6YZQ1cruEPuGe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3c73637e7f7890946582bc332f952c1c073f032e",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Mario Ochoa",
+      "featuredArtistId": "2zviRwkdWgt0rjV3cxM7mg",
+      "trackName": "Baila Mi Corazón - Mario Ochoa Remix",
+      "trackId": "5GUfBN040tXQ1P9qTpUQGv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/71e30f3ce6d8e914c77b032d81865b29769eab3c",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Coti",
+      "featuredArtistId": "1OUDQLymoysITxprkd0Qvj",
+      "trackName": "Tus Ojos - Live",
+      "trackId": "4l3ZukmaEeN8JQ8cgRW4Dh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e3731eccaadffce54f9eaa57e7f1df7373cebf1d",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Joselo",
+      "featuredArtistId": "0XKa46TBVU1fsNUEovUS91",
+      "trackName": "Mirame - Live",
+      "trackId": "03PqtaQDfeuDYbOX7M4PXj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e3731eccaadffce54f9eaa57e7f1df7373cebf1d",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Brian Amadeus (Jay De La Cueva)",
+      "featuredArtistId": "2ppa8Zc4j4aM4qc5OKtjTf",
+      "trackName": "Y Aún Así Te Vas - Live",
+      "trackId": "6Oy9KhGKmfaD9BEXhv7F05",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e3731eccaadffce54f9eaa57e7f1df7373cebf1d",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Joselo",
+      "featuredArtistId": "0hmjstJWmkorK8xJkPD5ki",
+      "trackName": "Mirame - Live",
+      "trackId": "2JMafBZ5wmcb7djEuf9oiw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/418e105587d3e1d7926e3ccc0bc56501186debc0",
+      "release_date": "2006-01-01"
+    }
+  ]
+}

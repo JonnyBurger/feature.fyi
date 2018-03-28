@@ -1,0 +1,383 @@
+{
+  "artistName": "Super Sako",
+  "features": [
+    {
+      "featuredArtist": "Melo",
+      "featuredArtistId": "6ZwHQBOxNak6mPvo7vh3i1",
+      "trackName": "Ur Gnam (feat. Melo)",
+      "trackId": "2eQudKoQYeiS2Bb0614i6V",
+      "preview": "https://p.scdn.co/mp3-preview/abccea8d92be772fa36350366e568b04d5c6ce2c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95cb981b3465545d48f99f1520397bebc426f196",
+      "release_date": "2017-03-19"
+    },
+    {
+      "featuredArtist": "Tatoul",
+      "featuredArtistId": "0use89UWEtcxee0HsdOAwG",
+      "trackName": "Havatam (feat. Tatoul)",
+      "trackId": "5nlF3RjOXgi4l5xBiiAfjU",
+      "preview": "https://p.scdn.co/mp3-preview/66448b6f3d193447862f0cf0140c1dc3b07c9f4e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95cb981b3465545d48f99f1520397bebc426f196",
+      "release_date": "2017-03-19"
+    },
+    {
+      "featuredArtist": "Suro",
+      "featuredArtistId": "7xhOXepxm5zuJsyZIxYj5h",
+      "trackName": "El Ov Uni (feat. Suro)",
+      "trackId": "2XlxPbTBbrCGuuqlfNjVPx",
+      "preview": "https://p.scdn.co/mp3-preview/af6946767b03fec920bb569230679d388b111d34?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95cb981b3465545d48f99f1520397bebc426f196",
+      "release_date": "2017-03-19"
+    },
+    {
+      "featuredArtist": "Ara Martirosyan",
+      "featuredArtistId": "4P7oRZfmfsrNHNGq5JQrOm",
+      "trackName": "Ari (feat. Ara Martirosyan)",
+      "trackId": "72zLAUFyxgwWWNtHj25Y9D",
+      "preview": "https://p.scdn.co/mp3-preview/dde3db990688bd736ac526060228f93ef795d930?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95cb981b3465545d48f99f1520397bebc426f196",
+      "release_date": "2017-03-19"
+    },
+    {
+      "featuredArtist": "KG",
+      "featuredArtistId": "2y0QGjnlzB39Nf2duLQoxk",
+      "trackName": "Boyfriend 4 da Night (feat. Kg)",
+      "trackId": "09LGxTyrEPzp65E2lgQADn",
+      "preview": "https://p.scdn.co/mp3-preview/e98fbdbfd4d13113a30119b0116beaa2bb3b3edc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95cb981b3465545d48f99f1520397bebc426f196",
+      "release_date": "2017-03-19"
+    },
+    {
+      "featuredArtist": "Tamerlan",
+      "featuredArtistId": "2dGi9l7v9SCt74CFGwI3TD",
+      "trackName": "Missin You (feat. Tamerlan & Alena Omargalieva)",
+      "trackId": "0zZNH42j31ztapIYt3HCXT",
+      "preview": "https://p.scdn.co/mp3-preview/f5c37506b80b390248022d05db0f5bde258c1917?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95cb981b3465545d48f99f1520397bebc426f196",
+      "release_date": "2017-03-19"
+    },
+    {
+      "featuredArtist": "Алена Омаргалиева",
+      "featuredArtistId": "1gg8DiQzv8QV2Ej1lWGIQV",
+      "trackName": "Missin You (feat. Tamerlan & Alena Omargalieva)",
+      "trackId": "0zZNH42j31ztapIYt3HCXT",
+      "preview": "https://p.scdn.co/mp3-preview/f5c37506b80b390248022d05db0f5bde258c1917?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95cb981b3465545d48f99f1520397bebc426f196",
+      "release_date": "2017-03-19"
+    },
+    {
+      "featuredArtist": "Hovo",
+      "featuredArtistId": "02HXb0Jjw9tlzjxHP0rTuh",
+      "trackName": "Inchu Heratsar (feat. Hovo)",
+      "trackId": "1mcRXykJLmYNRRPsZnhyr9",
+      "preview": "https://p.scdn.co/mp3-preview/c97456aa3d923fe03dfe3c2a820f17ce30a51370?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95cb981b3465545d48f99f1520397bebc426f196",
+      "release_date": "2017-03-19"
+    },
+    {
+      "featuredArtist": "Young Life",
+      "featuredArtistId": "4QBBm7g0sXXauG7IW77KPb",
+      "trackName": "Liar (feat. Young Life)",
+      "trackId": "3pEnwBioXtlWSjCKnWmLpi",
+      "preview": "https://p.scdn.co/mp3-preview/7a294f25c570239e1c13ff4624173c554c0c7c6e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95cb981b3465545d48f99f1520397bebc426f196",
+      "release_date": "2017-03-19"
+    },
+    {
+      "featuredArtist": "Harout Khatchoyan",
+      "featuredArtistId": "7EixEL5k2IFTWNnOlORAfI",
+      "trackName": "Voncem Moranalu (feat. Harout Khatchoyan)",
+      "trackId": "480XVXNwj7WUq1lf3fcui1",
+      "preview": "https://p.scdn.co/mp3-preview/db05d2e961e1e1ab65d8ef128f6e225f1ce05341?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95cb981b3465545d48f99f1520397bebc426f196",
+      "release_date": "2017-03-19"
+    },
+    {
+      "featuredArtist": "SPO",
+      "featuredArtistId": "5qjNxHUuhQCUVEMsDVfE8G",
+      "trackName": "Eli Eli (feat. Spo)",
+      "trackId": "7bLTgiNsQMemLtY38vnn2X",
+      "preview": "https://p.scdn.co/mp3-preview/0b33f58e27fd4f96630669a76f20c7a4d1f77267?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7468d0dd74fda4502310b7caae240a48ca528f03",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "Mustafa Kirk",
+      "featuredArtistId": "6oEg5MEs6C6BOiK13dnpt2",
+      "trackName": "#Lovecrimes (feat. Mustafa Kirk)",
+      "trackId": "1DPVUuYmaJQ65poXN0z6ku",
+      "preview": "https://p.scdn.co/mp3-preview/b1a7efc311031b68adf845352f72c65750b2e333?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7468d0dd74fda4502310b7caae240a48ca528f03",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "Spitakci Hyko",
+      "featuredArtistId": "5TQsb2nnlnmvq0OMfwUmvE",
+      "trackName": "Mi Gna (feat. Spitakci Hyko)",
+      "trackId": "7tidkZuZ0kgBrnGMwVKH6d",
+      "preview": "https://p.scdn.co/mp3-preview/94c29324ec14b11ea39d8d9200dc1449b51dc77f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7468d0dd74fda4502310b7caae240a48ca528f03",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "Saqo H",
+      "featuredArtistId": "5WRFVUfJc6v9gwR2tNd7wM",
+      "trackName": "Sirunik (feat. Saqo H & Sash)",
+      "trackId": "5rCmWr9kVhy2N09ImDRKFo",
+      "preview": "https://p.scdn.co/mp3-preview/3bdf04917b22d8baf7f699671ab6e2cf616dc29c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7468d0dd74fda4502310b7caae240a48ca528f03",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "Sash",
+      "featuredArtistId": "39Dvr7vYbF25VD8W2YF8Ir",
+      "trackName": "Sirunik (feat. Saqo H & Sash)",
+      "trackId": "5rCmWr9kVhy2N09ImDRKFo",
+      "preview": "https://p.scdn.co/mp3-preview/3bdf04917b22d8baf7f699671ab6e2cf616dc29c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7468d0dd74fda4502310b7caae240a48ca528f03",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "Dj Davo",
+      "featuredArtistId": "0vEFUkyEdf4xrna3agam0X",
+      "trackName": "Sexy Lady (feat. Suro & DJ Davo)",
+      "trackId": "22nP7RERMB1zkinCyrjjtb",
+      "preview": "https://p.scdn.co/mp3-preview/0f708b8a0692fda83edb80a01ea62331ab636d4e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7468d0dd74fda4502310b7caae240a48ca528f03",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "Ayser",
+      "featuredArtistId": "2km5SdAEhXHEXk8UT4Gogh",
+      "trackName": "Kez Paypayem (feat. Ayser)",
+      "trackId": "4GYG95IClZiRa37YjCkTPX",
+      "preview": "https://p.scdn.co/mp3-preview/adfe52a6de986b1151fd7c2ee0a0f687aada115e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7468d0dd74fda4502310b7caae240a48ca528f03",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "Harut Pambukjyan",
+      "featuredArtistId": "7vA4F9asR2UTkB3dED0mWd",
+      "trackName": "Te Acheres (feat. Harut Pambukjyan)",
+      "trackId": "0VzxSR5j7NoHe1Fw7loqL6",
+      "preview": "https://p.scdn.co/mp3-preview/db96a66adfdb6031ce55e8f4421ee50c4684e406?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7468d0dd74fda4502310b7caae240a48ca528f03",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "Paul Baghdadlian",
+      "featuredArtistId": "2IeSV9kXdifTISKns1fAxJ",
+      "trackName": "Siretsi Yes Megin (feat. Paul Baghdadlian)",
+      "trackId": "1KQNCZAW9yqadnVkdr4jNH",
+      "preview": "https://p.scdn.co/mp3-preview/3f4ca51a1d9bd9b5f992427f7a8abf7df81e7129?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7468d0dd74fda4502310b7caae240a48ca528f03",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "Rob Manukyan",
+      "featuredArtistId": "6bbhsh9atbeamaGNn7yLFU",
+      "trackName": "De Ari Ari (feat. Rob Manukyan)",
+      "trackId": "3ilZLfN49iy63RlsRIzWw7",
+      "preview": "https://p.scdn.co/mp3-preview/992e28509e23d664dea0d084758d8b51f98a6af9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7468d0dd74fda4502310b7caae240a48ca528f03",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "Azat",
+      "featuredArtistId": "6yDyl0BkjGwfMAYJViWFmN",
+      "trackName": "Ela Ela (feat. Azat)",
+      "trackId": "4wxmRoIOLsClo2TC6cCldV",
+      "preview": "https://p.scdn.co/mp3-preview/738f496b51e87f1974f7a513d050399b2a31a737?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7468d0dd74fda4502310b7caae240a48ca528f03",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "Arman Ghazarian",
+      "featuredArtistId": "24AV0by1LaHeipTpUkIptu",
+      "trackName": "Bez Tebya (feat. Arman Ghazarian)",
+      "trackId": "4urDWeGgKfesl5krM9n9cE",
+      "preview": "https://p.scdn.co/mp3-preview/68232999f1393d4b5953fea63a76af59c17198b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7468d0dd74fda4502310b7caae240a48ca528f03",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "K G",
+      "featuredArtistId": "7nfT04J8cyXTxqIqtRoXgU",
+      "trackName": "W.I.L.Y (feat. Kg)",
+      "trackId": "1RtM46OgdG6L2JlcoYdHGU",
+      "preview": "https://p.scdn.co/mp3-preview/0823a66a9286cc1bd29cfb5bc59939aa38f3c12f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7468d0dd74fda4502310b7caae240a48ca528f03",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "Hrazdanci Spo",
+      "featuredArtistId": "1V3hXl66cBNTTRRV4Xh433",
+      "trackName": "Husheri Tsovum (feat. Hrazdanci Spo)",
+      "trackId": "4JykCF0GdTwxzML9EtNDY3",
+      "preview": "https://p.scdn.co/mp3-preview/e1dd079e10ee18ac424628c0c8fecb8fe479988f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cfe1ec1d8ce25f6b27e748d5d6c7f8e42cf9cea",
+      "release_date": "2012-10-07"
+    },
+    {
+      "featuredArtist": "Hyko",
+      "featuredArtistId": "3bttkVQ84UG73klT9f3vom",
+      "trackName": "Zarmanum Em (feat. Hyko)",
+      "trackId": "5akURKSF2PJR01aRyktQvn",
+      "preview": "https://p.scdn.co/mp3-preview/c276bf51f3a6ab25aee3387ec072c144cb6ba795?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cfe1ec1d8ce25f6b27e748d5d6c7f8e42cf9cea",
+      "release_date": "2012-10-07"
+    },
+    {
+      "featuredArtist": "Saqo Harutyunyan",
+      "featuredArtistId": "4txfh75XUgdtqfkxqVsKSk",
+      "trackName": "Korcrecir Du Indz (feat. Sash & Saqo Harutyunyan)",
+      "trackId": "1cQ7JhQhcfNNqTmiQnXiwd",
+      "preview": "https://p.scdn.co/mp3-preview/37ebe9dbc7f8f32bbf8fb916c9c432a59810ad64?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cfe1ec1d8ce25f6b27e748d5d6c7f8e42cf9cea",
+      "release_date": "2012-10-07"
+    },
+    {
+      "featuredArtist": "Azat Hakobyan",
+      "featuredArtistId": "0eEJjqDdHoKRqEFt3SwBx8",
+      "trackName": "Havata (feat. Azat Hakobyan)",
+      "trackId": "4fPmSJuLp0JGqPBJ5hYvvS",
+      "preview": "https://p.scdn.co/mp3-preview/b64324766af8cb8b9ed9c3be80f54d9363646a2f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cfe1ec1d8ce25f6b27e748d5d6c7f8e42cf9cea",
+      "release_date": "2012-10-07"
+    },
+    {
+      "featuredArtist": "Vardan Yeghiazaryan",
+      "featuredArtistId": "5HpMzTzNd1OtxcptPDcydQ",
+      "trackName": "Mrs. Fancy Face (feat. Vardan Yeghiazaryan)",
+      "trackId": "2TyuP5eXB5pcBPrKdIIY6d",
+      "preview": "https://p.scdn.co/mp3-preview/c3c2ff777d95d060ff5b529eea08cc9a09c2adba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cfe1ec1d8ce25f6b27e748d5d6c7f8e42cf9cea",
+      "release_date": "2012-10-07"
+    },
+    {
+      "featuredArtist": "Lucy Hart",
+      "featuredArtistId": "5OjgnqI6gwRvPcuO3xLpCD",
+      "trackName": "Fall in Love (feat. Lucy Hart)",
+      "trackId": "62W4KTMAzzXCj8nLJ65nAk",
+      "preview": "https://p.scdn.co/mp3-preview/231bff230e312dc5794ccf3046472d10ceb507c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cfe1ec1d8ce25f6b27e748d5d6c7f8e42cf9cea",
+      "release_date": "2012-10-07"
+    },
+    {
+      "featuredArtist": "Joseph K",
+      "featuredArtistId": "3eaiJcfxIGKdP4N9Nn3ARF",
+      "trackName": "Ya Hayati (feat. Joseph K)",
+      "trackId": "1CN9x8mMa3UZpczzFIZZTH",
+      "preview": "https://p.scdn.co/mp3-preview/249dc9c61bd7d1a359be1a73605c5fb340f93123?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cfe1ec1d8ce25f6b27e748d5d6c7f8e42cf9cea",
+      "release_date": "2012-10-07"
+    },
+    {
+      "featuredArtist": "Edik Harutyunyan",
+      "featuredArtistId": "7JvfHgjLFsQpz3XyiZrCuO",
+      "trackName": "An Hnar E (feat. Edik Harutyunyan)",
+      "trackId": "1XLcHRynWkcCAJnlZak5ff",
+      "preview": "https://p.scdn.co/mp3-preview/278f41dfd70ac8b609b132ca0bbfb675c7239a84?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cfe1ec1d8ce25f6b27e748d5d6c7f8e42cf9cea",
+      "release_date": "2012-10-07"
+    },
+    {
+      "featuredArtist": "Vartan Taymazyan",
+      "featuredArtistId": "1t8axo5FYgr3OUZ8hrjk4C",
+      "trackName": "Sirum Em (feat. Vartan Taymazyan & Frenchie)",
+      "trackId": "6XXpQ8FASmY5LYHIijD7DC",
+      "preview": "https://p.scdn.co/mp3-preview/423447df9b1354e6a1a9310406319b3f4fbc0b0b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cfe1ec1d8ce25f6b27e748d5d6c7f8e42cf9cea",
+      "release_date": "2012-10-07"
+    },
+    {
+      "featuredArtist": "Frenchie",
+      "featuredArtistId": "469V2L6m3ifvujjcnxhkek",
+      "trackName": "Sirum Em (feat. Vartan Taymazyan & Frenchie)",
+      "trackId": "6XXpQ8FASmY5LYHIijD7DC",
+      "preview": "https://p.scdn.co/mp3-preview/423447df9b1354e6a1a9310406319b3f4fbc0b0b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cfe1ec1d8ce25f6b27e748d5d6c7f8e42cf9cea",
+      "release_date": "2012-10-07"
+    },
+    {
+      "featuredArtist": "Panos Kiamos",
+      "featuredArtistId": "2EsTolBYIEICM1kx7MGluy",
+      "trackName": "Thelo Na Se Xanado - Mi Gna",
+      "trackId": "3V49q9SWVR0fZn4Ox1J8Yi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/40e2d9732fc5e64557a63f271fb76bd69b4301de",
+      "release_date": "2018-03-05"
+    },
+    {
+      "featuredArtist": "BO",
+      "featuredArtistId": "4zjHeQz8ZOY77CsOiBuVAu",
+      "trackName": "Thelo Na Se Xanado - Mi Gna",
+      "trackId": "3V49q9SWVR0fZn4Ox1J8Yi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/40e2d9732fc5e64557a63f271fb76bd69b4301de",
+      "release_date": "2018-03-05"
+    },
+    {
+      "featuredArtist": "Maître Gims",
+      "featuredArtistId": "0GOx72r5AAEKRGQFn3xqXK",
+      "trackName": "Mi Gna - Maître Gims Remix",
+      "trackId": "2Qk8dVhZgVpAftReOcXM2I",
+      "preview": "https://p.scdn.co/mp3-preview/5505470459d42a5d51bde2edbae0230a746d5232?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/23d50aae92d71ebc433dcdb0f89066ba7bdcec39",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Hayko",
+      "featuredArtistId": "1G6vOMAmvp8zog2GhG6avm",
+      "trackName": "Mi Gna - Maître Gims Remix",
+      "trackId": "2Qk8dVhZgVpAftReOcXM2I",
+      "preview": "https://p.scdn.co/mp3-preview/5505470459d42a5d51bde2edbae0230a746d5232?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/23d50aae92d71ebc433dcdb0f89066ba7bdcec39",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Arti M",
+      "featuredArtistId": "0kEFwslbObKAEl2OmGYUGf",
+      "trackName": "Bailamos Juntos (feat. Arti M)",
+      "trackId": "4LxzCDUqyzLd3jlAz7pb0N",
+      "preview": "https://p.scdn.co/mp3-preview/9d0626271d79af372dc3934dcfa974a59f2f276a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/140c3440f4648a01211b7890c98d7d6af46bb7e8",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Spitakci Hayko",
+      "featuredArtistId": "4mJPYeRYly43YVa0X0TxgB",
+      "trackName": "Mi Gna",
+      "trackId": "2GVUhEm1iisrbLxKvOluIU",
+      "preview": "https://p.scdn.co/mp3-preview/34b9ed0004af7f0979643de9dcfb5cd1fe461735?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/42f751ecbe5914fcebf4c65a5a8ebbf1411bdb75",
+      "release_date": "2017-09-05"
+    },
+    {
+      "featuredArtist": "Harout Balyan",
+      "featuredArtistId": "4Ure9hrUNxrm3ZAT7ozWwg",
+      "trackName": "Amena Lavnes",
+      "trackId": "71cU6cRSFpA1Jwnzi0ptAt",
+      "preview": "https://p.scdn.co/mp3-preview/a98c4d9fc44fb20d9e85d8493e9071dcb9d93198?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2b2e41e5ddc13e1962d0fb1a79162d71c63efcdb",
+      "release_date": "2017-08-07"
+    },
+    {
+      "featuredArtist": "Armenchik",
+      "featuredArtistId": "2o0cYZ0hpCn0i0bfgyDEDb",
+      "trackName": "She's Mine",
+      "trackId": "2swsUbS4dCGFjxtJCL7RKs",
+      "preview": "https://p.scdn.co/mp3-preview/021614823b7bb48d65e49567a030a47ca5c47d7e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/42861bcde3525a256bda02b7515eac0fbbe84734",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Arman Hovhannisyan",
+      "featuredArtistId": "4WS0CuzDNznWst9QvOi4vD",
+      "trackName": "La La La",
+      "trackId": "2Z352P2nCCLP8Ha2xm8qBL",
+      "preview": "https://p.scdn.co/mp3-preview/0a99c4190bbbceb4dd54b0db6bf0a0d8b8faeae1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d0e5554c566ef6f7a969c82910915959b05eccbb",
+      "release_date": "2013-07-26"
+    }
+  ]
+}

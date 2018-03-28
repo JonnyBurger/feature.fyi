@@ -1,0 +1,50 @@
+{
+  "artistName": "DubVision",
+  "features": [
+    {
+      "featuredArtist": "Afrojack",
+      "featuredArtistId": "4D75GcNG95ebPtNvoNVXhz",
+      "trackName": "New Memories - Instrumental Mix",
+      "trackId": "3BJXhn3L0g9Z9wZX8eAXoX",
+      "preview": "https://p.scdn.co/mp3-preview/7759568cc9b880d46e1a8c19514a43b84fa54afd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6f6566740a2237aaea2a233e5d38002748adbce1",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Raiden",
+      "featuredArtistId": "4YXNoMVTHRt01jYaKXTumJ",
+      "trackName": "Keep My Light On",
+      "trackId": "5zADzgQPu2VDODCcXANZou",
+      "preview": "https://p.scdn.co/mp3-preview/241ac9157fc0acdad63fc0733b67ff6ae6d4b53b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86847058ce8d540e99e75c68e2215c58f10ebf08",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Nevve",
+      "featuredArtistId": "3RTklnRcfHgkQJwFpgOq3t",
+      "trackName": "Something Real",
+      "trackId": "3DJjXhCn2B0BcTVnB2e8LL",
+      "preview": "https://p.scdn.co/mp3-preview/9aeb26113adaa6a11cb9b222392f8880a2121bca?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2511e584794ebdfc33802d079c8671f6f2e2140d",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "David Guetta",
+      "featuredArtistId": "1Cs0zKBU1kc0i8ypK3B9ai",
+      "trackName": "Another Life - DubVision Remix",
+      "trackId": "4Xh613ElXFjbL8xdmaLmFI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/adb828a38bce326ffff9e27e43d7a4f02457168a",
+      "release_date": "2017-07-28"
+    },
+    {
+      "featuredArtist": "Ester Dean",
+      "featuredArtistId": "0v2Y5jwtcv8LiWNTRls1KM",
+      "trackName": "Another Life - DubVision Remix",
+      "trackId": "4Xh613ElXFjbL8xdmaLmFI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/adb828a38bce326ffff9e27e43d7a4f02457168a",
+      "release_date": "2017-07-28"
+    }
+  ]
+}

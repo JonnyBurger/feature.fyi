@@ -1,0 +1,104 @@
+{
+  "artistName": "Tom Jones",
+  "features": [
+    {
+      "featuredArtist": "Imelda May",
+      "featuredArtistId": "6AnjHMqEAps8VJdHU8RykH",
+      "trackName": "Honey, Honey",
+      "trackId": "6dGAM8zVouLoczmx0dTWyr",
+      "preview": "https://p.scdn.co/mp3-preview/df1a84a1f69126d0c732542a009553b713e94f37?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5959c5ed6ff083fa5d7fafa2152909172748cd16",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "The Squires",
+      "featuredArtistId": "6hSI0FjXMYoh2gZVDXbD9b",
+      "trackName": "Little By Little - Live \"On Stage\" Version",
+      "trackId": "67fNilKNMyWjmBIkBGsBWa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f0f91a6c5483ac27d1d5cbb2685f926385445be3",
+      "release_date": "2011-04-05"
+    },
+    {
+      "featuredArtist": "Chicane",
+      "featuredArtistId": "5GxyeQagayzZOg4UwffQlD",
+      "trackName": "Stoned In Love - Radio Edit",
+      "trackId": "4uolQBgv84WI7nRbbpSrkt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4f75e55411bcba9173bb3957a2ac6f89187b4161",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Robbie Williams",
+      "featuredArtistId": "2HcwFjNelS49kFbfvMxQYw",
+      "trackName": "Medley From \"The Full Monty\" - Live From London Arena, U.K./1998",
+      "trackId": "0ViCcpYqByDtWTBMuKAJNA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4f75e55411bcba9173bb3957a2ac6f89187b4161",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Cerys Matthews",
+      "featuredArtistId": "4jTShTMSgJPRtzrW8dzIPi",
+      "trackName": "Baby It's Cold Outside",
+      "trackId": "6rzO7R7N2W1zCRnvR0Cyy5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4f75e55411bcba9173bb3957a2ac6f89187b4161",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Art Of Noise",
+      "featuredArtistId": "77zrvBORXcnTyysjjKRfBU",
+      "trackName": "Kiss",
+      "trackId": "2FfHmsF4tiZIhG468T63Sj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4f75e55411bcba9173bb3957a2ac6f89187b4161",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Stereophonics",
+      "featuredArtistId": "21UJ7PRWb3Etgsu99f8yo8",
+      "trackName": "Mama Told Me Not To Come",
+      "trackId": "7L0cQX48nk06nBLeMm801I",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4f75e55411bcba9173bb3957a2ac6f89187b4161",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Mousse T.",
+      "featuredArtistId": "5N6EzjkOoyABhNZJggeXi6",
+      "trackName": "Sexbomb",
+      "trackId": "2IICPQAtkHQ0xXPPz0GvKH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4f75e55411bcba9173bb3957a2ac6f89187b4161",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "The Cardigans",
+      "featuredArtistId": "1tqZaCwM57UFKjWoYwMLrw",
+      "trackName": "Burning Down The House",
+      "trackId": "6Bv6HfwjCRfGXofab1cdZs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4f75e55411bcba9173bb3957a2ac6f89187b4161",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Van Morrison",
+      "featuredArtistId": "44NX2ffIYHr6D4n7RaZF7A",
+      "trackName": "Sometimes We Cry",
+      "trackId": "7atHgOTwzkbsWS3451tZUR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/baeb9f7b60d288b28b6f836eced8d069bdba6e40",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Portishead",
+      "featuredArtistId": "6liAMWkVf5LH7YR9yfFy1Y",
+      "trackName": "Motherless Child",
+      "trackId": "39mkjTfYJG6hPOqqejWSXO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/baeb9f7b60d288b28b6f836eced8d069bdba6e40",
+      "release_date": "2007-01-01"
+    }
+  ]
+}

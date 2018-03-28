@@ -1,0 +1,68 @@
+{
+  "artistName": "The Who",
+  "features": [
+    {
+      "featuredArtist": "Nigel Kennedy",
+      "featuredArtistId": "7AANfmLM36QqH6QsOQnV3h",
+      "trackName": "Baba O'Riley",
+      "trackId": "4nzzmTQ3w7HU0dqPqGpMH3",
+      "preview": "https://p.scdn.co/mp3-preview/d26dc8dccc4573446fd5eeab3aefdd302d91698f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2ea960619b1530270fc7b56fdf6fc98ce313402",
+      "release_date": "2016-11-30"
+    },
+    {
+      "featuredArtist": "Paul Weller",
+      "featuredArtistId": "7Lf3LOZp3U3u2f6cWMd3AH",
+      "trackName": "So Sad About Us",
+      "trackId": "2X72aObxU3GGlNnevTksT2",
+      "preview": "https://p.scdn.co/mp3-preview/79217caae7655175b28022a771c9e4cba66fe8ff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2ea960619b1530270fc7b56fdf6fc98ce313402",
+      "release_date": "2016-11-30"
+    },
+    {
+      "featuredArtist": "Eddie Vedder",
+      "featuredArtistId": "0mXTJETA4XUa12MmmXxZJh",
+      "trackName": "I'm One",
+      "trackId": "1AqRyshjcKxIh6WznesGJ9",
+      "preview": "https://p.scdn.co/mp3-preview/a3de2ebef0ebcfc1fcbe3524e69cb5e2d4f5bd9e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2ea960619b1530270fc7b56fdf6fc98ce313402",
+      "release_date": "2016-11-30"
+    },
+    {
+      "featuredArtist": "Noel Gallagher",
+      "featuredArtistId": "6IRQd80VHepXiTXdmBzk6l",
+      "trackName": "Won't Get Fooled Again",
+      "trackId": "0xEeY3Ctn4vj26U1IvKIWX",
+      "preview": "https://p.scdn.co/mp3-preview/0d4769d07d064faf3995b2e80651ccfda80ee7f7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2ea960619b1530270fc7b56fdf6fc98ce313402",
+      "release_date": "2016-11-30"
+    },
+    {
+      "featuredArtist": "Kennedy",
+      "featuredArtistId": "2jBr4lB6u9aTYxDZ9t4HSI",
+      "trackName": "Won't Get Fooled Again",
+      "trackId": "0xEeY3Ctn4vj26U1IvKIWX",
+      "preview": "https://p.scdn.co/mp3-preview/0d4769d07d064faf3995b2e80651ccfda80ee7f7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2ea960619b1530270fc7b56fdf6fc98ce313402",
+      "release_date": "2016-11-30"
+    },
+    {
+      "featuredArtist": "Andy Macpherson",
+      "featuredArtistId": "3eLgh6OisMjiR9tWPyZCp5",
+      "trackName": "Heaven And Hell - Live At Hull Version",
+      "trackId": "5y9dQl4AOCJYJB5tfEAnPB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d035a981ee750d345a8cf2e62923f6728a38ea76",
+      "release_date": "2012-11-19"
+    },
+    {
+      "featuredArtist": "Jon Astley",
+      "featuredArtistId": "1I8A3N4AgFS3geeMC8uh8I",
+      "trackName": "Heaven And Hell - Live At Hull Version",
+      "trackId": "5y9dQl4AOCJYJB5tfEAnPB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d035a981ee750d345a8cf2e62923f6728a38ea76",
+      "release_date": "2012-11-19"
+    }
+  ]
+}

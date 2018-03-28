@@ -1,0 +1,23 @@
+{
+  "artistName": "Alfredo Matheus",
+  "features": [
+    {
+      "featuredArtist": "Chino & Nacho",
+      "featuredArtistId": "5NS0854TqZQVoRmJKSWtFZ",
+      "trackName": "Chica Ideal - Version Pop",
+      "trackId": "7pl9lslJU08dh2RIEQu6K3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2564224b8d6e77cb833085ea06abd2d596b845cd",
+      "release_date": "2015-05-05"
+    },
+    {
+      "featuredArtist": "Ricardo Montaner",
+      "featuredArtistId": "4uoz4FUMvpeyGClFTTDBsD",
+      "trackName": "El poder de tu amor",
+      "trackId": "5ufrcxwXUrtNuLOo9q4OCN",
+      "preview": "https://p.scdn.co/mp3-preview/44900696a7b98480773a9b07edbe97db772f1752?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f7e3a6dd0b18a9ac2223a980bf67668f2aad25c",
+      "release_date": "2011-09-27"
+    }
+  ]
+}

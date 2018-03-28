@@ -1,0 +1,41 @@
+{
+  "artistName": "Jake Miller",
+  "features": [
+    {
+      "featuredArtist": "Jabbar Hakeem",
+      "featuredArtistId": "4Wk8B4yfOs4c4kU9BphaeP",
+      "trackName": "The Girl That's Underneath (feat. Jabbar Hakeem)",
+      "trackId": "6vzMM12p1XkbheVj39VVvT",
+      "preview": "https://p.scdn.co/mp3-preview/f2b0ccc648561abaf222afb2fbdadb37e531244f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d32ffb7fb1f5efbd1bdab616ee2ac7e96bc172f5",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Jeremy Thurber",
+      "featuredArtistId": "5HrQa0SJ0Wu4OQ29L2wZBH",
+      "trackName": "High Life (feat. Jeremy Thurber)",
+      "trackId": "3HgkOI2QzL0Cba4NN3DG3E",
+      "preview": "https://p.scdn.co/mp3-preview/86f048926d38a3046bf046a62f9ca12d0f4702d4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/61514a829cbfd43195b0f69c1b265ff172e425e8",
+      "release_date": "2013-11-05"
+    },
+    {
+      "featuredArtist": "Nikki Flores",
+      "featuredArtistId": "21q45xu51WtV5Td6ZBJHiB",
+      "trackName": "Ghost (feat. Nikki Flores)",
+      "trackId": "79ooipPrqoaCRAZtckNbyt",
+      "preview": "https://p.scdn.co/mp3-preview/1dedbdcccfb0ad09071d05d8d3cd026e8338e046?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5a01b93b9a6b4e7b49aaaf31d98c43b7e32ba981",
+      "release_date": "2014-10-31"
+    },
+    {
+      "featuredArtist": "Travie McCoy",
+      "featuredArtistId": "7o9Nl7K1Al6NNAHX6jn6iG",
+      "trackName": "Dazed And Confused (feat. Travie McCoy)",
+      "trackId": "2lM7UCECnnV6HKfans1bjD",
+      "preview": "https://p.scdn.co/mp3-preview/f9ba1ce918ddf12c6efda985fb7e0c1cb38e4b78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5a01b93b9a6b4e7b49aaaf31d98c43b7e32ba981",
+      "release_date": "2014-10-31"
+    }
+  ]
+}

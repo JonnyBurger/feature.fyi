@@ -1,0 +1,617 @@
+{
+  "artistName": "Pritam",
+  "features": [
+    {
+      "featuredArtist": "Shahid Mallya",
+      "featuredArtistId": "4LnYRxNZVCTsDCO2xKjOn8",
+      "trackName": "Radha",
+      "trackId": "5yYgGkyYJmmSwRp3caFplJ",
+      "preview": "https://p.scdn.co/mp3-preview/ac24828b0cbab05f1549879ff574458fd5f29875?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Sunidhi Chauhan",
+      "featuredArtistId": "3eDT9fwXKuHWFvgZaaYC5v",
+      "trackName": "Radha",
+      "trackId": "5yYgGkyYJmmSwRp3caFplJ",
+      "preview": "https://p.scdn.co/mp3-preview/ac24828b0cbab05f1549879ff574458fd5f29875?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Arijit Singh",
+      "featuredArtistId": "4YRxDV8wJFPHPTeXepOstw",
+      "trackName": "Beech Beech Mein",
+      "trackId": "2sic7k1mazP5o05wBFDK55",
+      "preview": "https://p.scdn.co/mp3-preview/050e6600e5646d6da13bf72d4e922f29812d8b33?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Shalmali Kholgade",
+      "featuredArtistId": "6uskWv5K2FA0YOAYr7JOUz",
+      "trackName": "Beech Beech Mein",
+      "trackId": "2sic7k1mazP5o05wBFDK55",
+      "preview": "https://p.scdn.co/mp3-preview/050e6600e5646d6da13bf72d4e922f29812d8b33?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Shefali Alvares",
+      "featuredArtistId": "1Jt7JB3WIWaANzwHoybsVn",
+      "trackName": "Beech Beech Mein",
+      "trackId": "2sic7k1mazP5o05wBFDK55",
+      "preview": "https://p.scdn.co/mp3-preview/050e6600e5646d6da13bf72d4e922f29812d8b33?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Dev Negi",
+      "featuredArtistId": "04FsFHujpuqonrPXZrEJlK",
+      "trackName": "Butterfly",
+      "trackId": "6wW02dwL3QVGV3EEem4kLP",
+      "preview": "https://p.scdn.co/mp3-preview/cbaec0b6020adfa843f38aae21ef6010bea152f9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Aman Trikha",
+      "featuredArtistId": "2MMPzBpMeCZVPRnV5mddc3",
+      "trackName": "Butterfly",
+      "trackId": "6wW02dwL3QVGV3EEem4kLP",
+      "preview": "https://p.scdn.co/mp3-preview/cbaec0b6020adfa843f38aae21ef6010bea152f9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Nooran Sisters",
+      "featuredArtistId": "2gFFvbbdzYzzWltI2HkZEV",
+      "trackName": "Butterfly",
+      "trackId": "6wW02dwL3QVGV3EEem4kLP",
+      "preview": "https://p.scdn.co/mp3-preview/cbaec0b6020adfa843f38aae21ef6010bea152f9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Pardeep Sran",
+      "featuredArtistId": "4LUGmBDuNtbBZp5naOMEnC",
+      "trackName": "Parinda",
+      "trackId": "0SYnsrjdztOywMMqA4vVa9",
+      "preview": "https://p.scdn.co/mp3-preview/f26d8b9267ad633e88e3bcc5f52af588266f41d4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Nikhita Gandhi",
+      "featuredArtistId": "3tPQOjkxO3mrYrrgkTeXgH",
+      "trackName": "Ghar",
+      "trackId": "7EDsUT0289qe2W6N2vTe47",
+      "preview": "https://p.scdn.co/mp3-preview/7e1f2ebbfa59f3148874f1aac938769719a346e2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Mohit Chauhan",
+      "featuredArtistId": "5GnnSrwNCGyfAU4zuIytiS",
+      "trackName": "Ghar",
+      "trackId": "7EDsUT0289qe2W6N2vTe47",
+      "preview": "https://p.scdn.co/mp3-preview/7e1f2ebbfa59f3148874f1aac938769719a346e2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Jonita Gandhi",
+      "featuredArtistId": "00sCATpEvwH48ays7PlQFU",
+      "trackName": "Yaadon Mein",
+      "trackId": "5BhaPJfOEJC8cN1CodOP1s",
+      "preview": "https://p.scdn.co/mp3-preview/5473dbbc41da622176e6638e5f14904647a94632?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Mohd. Irfan",
+      "featuredArtistId": "1R4nhwI4mYV0V5ykEzcCpC",
+      "trackName": "Yaadon Mein",
+      "trackId": "5BhaPJfOEJC8cN1CodOP1s",
+      "preview": "https://p.scdn.co/mp3-preview/5473dbbc41da622176e6638e5f14904647a94632?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Cuca Roseta",
+      "featuredArtistId": "5JfkzRrPKWcMQenALP3UKL",
+      "trackName": "Yaadon Mein",
+      "trackId": "5BhaPJfOEJC8cN1CodOP1s",
+      "preview": "https://p.scdn.co/mp3-preview/5473dbbc41da622176e6638e5f14904647a94632?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Diljit Dosanjh",
+      "featuredArtistId": "2FKWNmZWDBZR4dE5KX4plR",
+      "trackName": "Raula",
+      "trackId": "5fuXyn3OBdYnGmgncTLUiE",
+      "preview": "https://p.scdn.co/mp3-preview/01f32faf087f5f5ba903db4bda9dd044c051f2e8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Neeti Mohan",
+      "featuredArtistId": "3ZxZ03fj3tXBZHZWzvaLSM",
+      "trackName": "Raula",
+      "trackId": "5fuXyn3OBdYnGmgncTLUiE",
+      "preview": "https://p.scdn.co/mp3-preview/01f32faf087f5f5ba903db4bda9dd044c051f2e8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Diplo",
+      "featuredArtistId": "5fMUXHkw8R8eOP2RNVYEZX",
+      "trackName": "Phurrr - Film Version",
+      "trackId": "45mrPZ4Mqb0pn2RlZdEYtH",
+      "preview": "https://p.scdn.co/mp3-preview/38af93a0ed7e1b8dad17872907d4a8119293819b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "TUSHAR JOSHI",
+      "featuredArtistId": "324yz9K4ufBcGkcgUhTiHH",
+      "trackName": "Phurrr - Film Version",
+      "trackId": "45mrPZ4Mqb0pn2RlZdEYtH",
+      "preview": "https://p.scdn.co/mp3-preview/38af93a0ed7e1b8dad17872907d4a8119293819b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Tochi Raina",
+      "featuredArtistId": "6k6dimE4a6OFnD0HWmkIUW",
+      "trackName": "Parinda - Search",
+      "trackId": "4e9LoZRYTiOZoqGp43QztE",
+      "preview": "https://p.scdn.co/mp3-preview/bd70ebdcd8896486b31acdc92db19d9c672b424e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Nikhil D'Souza",
+      "featuredArtistId": "39fT56OHEL2E98zDKrqBsC",
+      "trackName": "Parinda - Search",
+      "trackId": "4e9LoZRYTiOZoqGp43QztE",
+      "preview": "https://p.scdn.co/mp3-preview/bd70ebdcd8896486b31acdc92db19d9c672b424e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bc796d4c681538891aa8cb851e1f6bcd5715242",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Rana",
+      "featuredArtistId": "4zaooDMBGG8tr4TKmx9tgQ",
+      "trackName": "Karle Mujhse Pyaar (From \"Toh Baat Pakki!\")",
+      "trackId": "2J5jK3SBoXfLDl6rH0QZ5k",
+      "preview": "https://p.scdn.co/mp3-preview/d4023b0e8eff10debc9d7e4094916563085d8841?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/935fe397ce7b4ce846b7563ff5ddccc6feda2049",
+      "release_date": "2017-06-24"
+    },
+    {
+      "featuredArtist": "Soham",
+      "featuredArtistId": "6icGUGLUKCVB5esdQXdjiw",
+      "trackName": "Karle Mujhse Pyaar (From \"Toh Baat Pakki!\")",
+      "trackId": "2J5jK3SBoXfLDl6rH0QZ5k",
+      "preview": "https://p.scdn.co/mp3-preview/d4023b0e8eff10debc9d7e4094916563085d8841?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/935fe397ce7b4ce846b7563ff5ddccc6feda2049",
+      "release_date": "2017-06-24"
+    },
+    {
+      "featuredArtist": "Neeraj Shridhar",
+      "featuredArtistId": "3tHD07u1ON4uHxmnT9rwqZ",
+      "trackName": "Khwab Dekhe Sexy Lady (From \"Race\")",
+      "trackId": "3JDSyDef0p4AEbh2DuXrOU",
+      "preview": "https://p.scdn.co/mp3-preview/2f9e475b2f153e5e6e15ff3b3da87a32d66a3783?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/935fe397ce7b4ce846b7563ff5ddccc6feda2049",
+      "release_date": "2017-06-24"
+    },
+    {
+      "featuredArtist": "Monali Thakur",
+      "featuredArtistId": "2o4R2rK7FetH40HTv0SUWl",
+      "trackName": "Khwab Dekhe Sexy Lady (From \"Race\")",
+      "trackId": "3JDSyDef0p4AEbh2DuXrOU",
+      "preview": "https://p.scdn.co/mp3-preview/2f9e475b2f153e5e6e15ff3b3da87a32d66a3783?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/935fe397ce7b4ce846b7563ff5ddccc6feda2049",
+      "release_date": "2017-06-24"
+    },
+    {
+      "featuredArtist": "Atif Aslam",
+      "featuredArtistId": "2oSONSC9zQ4UonDKnLqksx",
+      "trackName": "Allah Duhai Hai (From \"Race 2\")",
+      "trackId": "2soClEGTi6os7xt2zdOH3s",
+      "preview": "https://p.scdn.co/mp3-preview/4681fa1711c110e8f9baf32b57bd58cf69c23e5d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/935fe397ce7b4ce846b7563ff5ddccc6feda2049",
+      "release_date": "2017-06-24"
+    },
+    {
+      "featuredArtist": "Vishal Dadlani",
+      "featuredArtistId": "6CXEwIaXYfVJ84biCxqc9k",
+      "trackName": "Allah Duhai Hai (From \"Race 2\")",
+      "trackId": "2soClEGTi6os7xt2zdOH3s",
+      "preview": "https://p.scdn.co/mp3-preview/4681fa1711c110e8f9baf32b57bd58cf69c23e5d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/935fe397ce7b4ce846b7563ff5ddccc6feda2049",
+      "release_date": "2017-06-24"
+    },
+    {
+      "featuredArtist": "Anushka Manchanda",
+      "featuredArtistId": "4K4N32uNO1VRSY4hB7v8kg",
+      "trackName": "Allah Duhai Hai (From \"Race 2\")",
+      "trackId": "2soClEGTi6os7xt2zdOH3s",
+      "preview": "https://p.scdn.co/mp3-preview/4681fa1711c110e8f9baf32b57bd58cf69c23e5d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/935fe397ce7b4ce846b7563ff5ddccc6feda2049",
+      "release_date": "2017-06-24"
+    },
+    {
+      "featuredArtist": "Ritu Pathak",
+      "featuredArtistId": "7dlRYB2xNL7gYsiXfSQI1f",
+      "trackName": "Allah Duhai Hai (From \"Race 2\")",
+      "trackId": "2soClEGTi6os7xt2zdOH3s",
+      "preview": "https://p.scdn.co/mp3-preview/4681fa1711c110e8f9baf32b57bd58cf69c23e5d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/935fe397ce7b4ce846b7563ff5ddccc6feda2049",
+      "release_date": "2017-06-24"
+    },
+    {
+      "featuredArtist": "Michie One",
+      "featuredArtistId": "1otleRGxIU5q64yzCNUHsi",
+      "trackName": "Allah Duhai Hai (From \"Race 2\")",
+      "trackId": "2soClEGTi6os7xt2zdOH3s",
+      "preview": "https://p.scdn.co/mp3-preview/4681fa1711c110e8f9baf32b57bd58cf69c23e5d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/935fe397ce7b4ce846b7563ff5ddccc6feda2049",
+      "release_date": "2017-06-24"
+    },
+    {
+      "featuredArtist": "Kamaal Khan",
+      "featuredArtistId": "0oXD3gW056DGEfWuEWcs7R",
+      "trackName": "Radio",
+      "trackId": "4fZfZYHaKo7iIAiaCjnBxo",
+      "preview": "https://p.scdn.co/mp3-preview/0d4adab0d2cadc71516fd400c628f6a5f153eab7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/362ebdbf65604cbe74f2e452ca2e94ffd783502d",
+      "release_date": "2017-06-22"
+    },
+    {
+      "featuredArtist": "Amit Mishra",
+      "featuredArtistId": "2LgKrgRJcbJlt14i1LTzDU",
+      "trackName": "Radio",
+      "trackId": "4fZfZYHaKo7iIAiaCjnBxo",
+      "preview": "https://p.scdn.co/mp3-preview/0d4adab0d2cadc71516fd400c628f6a5f153eab7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/362ebdbf65604cbe74f2e452ca2e94ffd783502d",
+      "release_date": "2017-06-22"
+    },
+    {
+      "featuredArtist": "Nakash Aziz",
+      "featuredArtistId": "4kq8z3vydHjPDggxb16ErB",
+      "trackName": "Naach Meri Jaan",
+      "trackId": "7cvByqy8euqE4DYLO6b3EU",
+      "preview": "https://p.scdn.co/mp3-preview/36e2205001fb89932a50cb58d709fdb6564b90ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/362ebdbf65604cbe74f2e452ca2e94ffd783502d",
+      "release_date": "2017-06-22"
+    },
+    {
+      "featuredArtist": "Rahat Fateh Ali Khan",
+      "featuredArtistId": "3OLGltG8UPIea8sA4w0yg0",
+      "trackName": "Tinka Tinka Dil Mera",
+      "trackId": "46b9qvjjDiWwISjvhsqHGf",
+      "preview": "https://p.scdn.co/mp3-preview/50f97d5dccd9714a2fa178d5cdd035f5d6390fd9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/362ebdbf65604cbe74f2e452ca2e94ffd783502d",
+      "release_date": "2017-06-22"
+    },
+    {
+      "featuredArtist": "Javed Ali",
+      "featuredArtistId": "4W91bbPB2CTSsHwt7eqNl7",
+      "trackName": "Kuch Nahi",
+      "trackId": "5LedsdL7sLCVYhE8EK4hzb",
+      "preview": "https://p.scdn.co/mp3-preview/4535e6d630a9a32dcf76178b24bd213b7a853432?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/362ebdbf65604cbe74f2e452ca2e94ffd783502d",
+      "release_date": "2017-06-22"
+    },
+    {
+      "featuredArtist": "Jubin Nautiyal",
+      "featuredArtistId": "0Tgdv4JlRUoXWfGTrWgY1m",
+      "trackName": "Tinka Tinka Dil Mera (Film Version)",
+      "trackId": "7GXo8DL5t8GTuRHarf2QPh",
+      "preview": "https://p.scdn.co/mp3-preview/e70eb706264d4e0c2d718bd0a87db98a43964eb9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/362ebdbf65604cbe74f2e452ca2e94ffd783502d",
+      "release_date": "2017-06-22"
+    },
+    {
+      "featuredArtist": "Shafqat Amanat Ali",
+      "featuredArtistId": "5SuRAj1A9FEHj5NxS86YAm",
+      "trackName": "Kuch Nahi - Reprised",
+      "trackId": "1TiTU4p44blkHpo24BFXll",
+      "preview": "https://p.scdn.co/mp3-preview/0f5ce727a50e84d35aad6acab10daa51a3bbbaf7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/362ebdbf65604cbe74f2e452ca2e94ffd783502d",
+      "release_date": "2017-06-22"
+    },
+    {
+      "featuredArtist": "KK",
+      "featuredArtistId": "4fEkbug6kZzzJ8eYX6Kbbp",
+      "trackName": "Main Agar - Film Version",
+      "trackId": "02wqtAANE4mxUTFiw71IyC",
+      "preview": "https://p.scdn.co/mp3-preview/2b08f41b13e9fffd44d6d98737435b1991d5a503?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/362ebdbf65604cbe74f2e452ca2e94ffd783502d",
+      "release_date": "2017-06-22"
+    },
+    {
+      "featuredArtist": "Papon",
+      "featuredArtistId": "2FPwX3Gh0w4Qr1v3zSTtcT",
+      "trackName": "Kuch Nahi - Encore",
+      "trackId": "1bJoSudLtfR4zZIWU4Shve",
+      "preview": "https://p.scdn.co/mp3-preview/b37909b3031cfbf0a318c70d09cb61e91984ec5e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/362ebdbf65604cbe74f2e452ca2e94ffd783502d",
+      "release_date": "2017-06-22"
+    },
+    {
+      "featuredArtist": "Shilpa Rao",
+      "featuredArtistId": "19LIHDDSHBD5NyYHI3gpzB",
+      "trackName": "Bulleya (From \"Ae Dil Hai Mushkil\")",
+      "trackId": "6m7BplTntgncqZSwZ88qiC",
+      "preview": "https://p.scdn.co/mp3-preview/e0e9734386a7f07468888f93196290aaa3e89c8b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976695e15c3a422322389cb6993326ad39fb0a24",
+      "release_date": "2017-06-14"
+    },
+    {
+      "featuredArtist": "Benny Dayal",
+      "featuredArtistId": "61if35zz1W11GejEkxTLEQ",
+      "trackName": "Tu Hi Toh Hai (From \"Holiday\")",
+      "trackId": "409iSHu08vfSOGBxnUownh",
+      "preview": "https://p.scdn.co/mp3-preview/1fdae2b143cc6aceeaaf42b0cb7194f8d1f8f03b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976695e15c3a422322389cb6993326ad39fb0a24",
+      "release_date": "2017-06-14"
+    },
+    {
+      "featuredArtist": "Anupam Amod",
+      "featuredArtistId": "69EjD8i1YtmeJRBou0I21r",
+      "trackName": "Tera Deedar Hua (From \"Jannat 2\")",
+      "trackId": "1orkJXjW23Ax4JblCB10KS",
+      "preview": "https://p.scdn.co/mp3-preview/8b26328d46bc4b05eb39138cd85616870949e1be?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976695e15c3a422322389cb6993326ad39fb0a24",
+      "release_date": "2017-06-14"
+    },
+    {
+      "featuredArtist": "Antara Mitra",
+      "featuredArtistId": "2UwDJeoMqYers5Jmm75zm2",
+      "trackName": "Bheegi Si Bhaagi Si (From \"Raajneeti\")",
+      "trackId": "5ecrmd9bRGk3JoYi5Y4yPL",
+      "preview": "https://p.scdn.co/mp3-preview/487e9ba85ad4a70e6188072d3b69a5817f8751f9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976695e15c3a422322389cb6993326ad39fb0a24",
+      "release_date": "2017-06-14"
+    },
+    {
+      "featuredArtist": "Babbu Mann",
+      "featuredArtistId": "46jIdfIfaOgj3rrV79Pmv5",
+      "trackName": "Challa (From \"Crook\")",
+      "trackId": "255mxG4PAnShNYEjWx6dT4",
+      "preview": "https://p.scdn.co/mp3-preview/6951bc4ae45d4bbace7182afb98a52595431db46?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976695e15c3a422322389cb6993326ad39fb0a24",
+      "release_date": "2017-06-14"
+    },
+    {
+      "featuredArtist": "Suzanne D'Mello",
+      "featuredArtistId": "4HQeSXwG2BVH0KvxHE5oCf",
+      "trackName": "Challa (From \"Crook\")",
+      "trackId": "255mxG4PAnShNYEjWx6dT4",
+      "preview": "https://p.scdn.co/mp3-preview/6951bc4ae45d4bbace7182afb98a52595431db46?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976695e15c3a422322389cb6993326ad39fb0a24",
+      "release_date": "2017-06-14"
+    },
+    {
+      "featuredArtist": "Irshan Ashraf",
+      "featuredArtistId": "5OG0IXzIqYPB67VMlEJOo0",
+      "trackName": "Tu Hi Haqeeqat (From \"Tum Mile\")",
+      "trackId": "5UPvygOzKy5M6sBGjNZj9h",
+      "preview": "https://p.scdn.co/mp3-preview/eda8ffd18cdb3f8f47bf796b1decaf9533439270?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976695e15c3a422322389cb6993326ad39fb0a24",
+      "release_date": "2017-06-14"
+    },
+    {
+      "featuredArtist": "Shadab",
+      "featuredArtistId": "0NeoPmJb4LMYLHhX8OVaNA",
+      "trackName": "Tu Hi Haqeeqat (From \"Tum Mile\")",
+      "trackId": "5UPvygOzKy5M6sBGjNZj9h",
+      "preview": "https://p.scdn.co/mp3-preview/eda8ffd18cdb3f8f47bf796b1decaf9533439270?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/976695e15c3a422322389cb6993326ad39fb0a24",
+      "release_date": "2017-06-14"
+    },
+    {
+      "featuredArtist": "Kamran Ahmed",
+      "featuredArtistId": "2OMafVUM7PrgRrasNPZbKN",
+      "trackName": "Judai (From \"Jannat\")",
+      "trackId": "1pZLjOn0CumgSbxr9MxrdW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/976695e15c3a422322389cb6993326ad39fb0a24",
+      "release_date": "2017-06-14"
+    },
+    {
+      "featuredArtist": "Badshah",
+      "featuredArtistId": "0y59o4v8uw5crbN9M3JiL1",
+      "trackName": "The Breakup Song",
+      "trackId": "5FihcmME7NlwW8KbYOaHVH",
+      "preview": "https://p.scdn.co/mp3-preview/a00ad3d18734c87601a7399619582ee05255cdee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41f639426428f429433a463d209921d23ba12484",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Pardeep Singh Sran",
+      "featuredArtistId": "2dnnS3sjCk9OHns6kAYI19",
+      "trackName": "Cutiepie",
+      "trackId": "7hXnhouVPnOnFwCGrQMHvB",
+      "preview": "https://p.scdn.co/mp3-preview/883ae7ca43c7b31d5e021fd7ab1abb87bf5018fc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41f639426428f429433a463d209921d23ba12484",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Ash King",
+      "featuredArtistId": "1cfG7UM0OD4O1II1nd15Qo",
+      "trackName": "Alizeh",
+      "trackId": "3w9EgtkQgMTrlSwuQEFdR0",
+      "preview": "https://p.scdn.co/mp3-preview/60005a9129e097e7d611eb2d0cedd08e94c47ef4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41f639426428f429433a463d209921d23ba12484",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Shashwat Singh",
+      "featuredArtistId": "6iv4lysB1yHXoZJ2gfqTdh",
+      "trackName": "Alizeh",
+      "trackId": "3w9EgtkQgMTrlSwuQEFdR0",
+      "preview": "https://p.scdn.co/mp3-preview/60005a9129e097e7d611eb2d0cedd08e94c47ef4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41f639426428f429433a463d209921d23ba12484",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Neha Kakkar",
+      "featuredArtistId": "5f4QpKfy7ptCHwTqspnSJI",
+      "trackName": "Tukur Tukur - Celebration Mix [From \"Dilwale\"] - DJ Shilpi Mix",
+      "trackId": "79cOLK0KS2ibdXOcXKMoNU",
+      "preview": "https://p.scdn.co/mp3-preview/33dd72d324a57fd4971e2bf01842b1b0b0780988?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a4a2c12e39b78c24dc584209a92e6ba2294c34c",
+      "release_date": "2015-12-17"
+    },
+    {
+      "featuredArtist": "Kanika Kapoor",
+      "featuredArtistId": "6qcIg4IPLulyc03mWR87N8",
+      "trackName": "Tukur Tukur - Celebration Mix [From \"Dilwale\"] - DJ Shilpi Mix",
+      "trackId": "79cOLK0KS2ibdXOcXKMoNU",
+      "preview": "https://p.scdn.co/mp3-preview/33dd72d324a57fd4971e2bf01842b1b0b0780988?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a4a2c12e39b78c24dc584209a92e6ba2294c34c",
+      "release_date": "2015-12-17"
+    },
+    {
+      "featuredArtist": "Siddharth Mahadevan",
+      "featuredArtistId": "7hwEGO7U6JwQ7M1teoO8GW",
+      "trackName": "Tukur Tukur - Celebration Mix [From \"Dilwale\"] - DJ Shilpi Mix",
+      "trackId": "79cOLK0KS2ibdXOcXKMoNU",
+      "preview": "https://p.scdn.co/mp3-preview/33dd72d324a57fd4971e2bf01842b1b0b0780988?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a4a2c12e39b78c24dc584209a92e6ba2294c34c",
+      "release_date": "2015-12-17"
+    },
+    {
+      "featuredArtist": "Arjun Iyer",
+      "featuredArtistId": "5cJfXcI6GTlvjvebwaLEL0",
+      "trackName": "Janam Janam [From \"Dilwale\"] - Mikey McCleary Mix",
+      "trackId": "7dNy4GQnnXhuQXL7WBzhOB",
+      "preview": "https://p.scdn.co/mp3-preview/3204a2972d7cbb56fedd832b8d122d654c8b91a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a4a2c12e39b78c24dc584209a92e6ba2294c34c",
+      "release_date": "2015-12-17"
+    },
+    {
+      "featuredArtist": "Kunal Ganjawala",
+      "featuredArtistId": "3t4P7aXVor3NxlJPZxLzOQ",
+      "trackName": "Tu Hi Toh Hai - Version-2",
+      "trackId": "0ajf7kiE6Vx5uueITDXwPW",
+      "preview": "https://p.scdn.co/mp3-preview/14e9a25ed9d567c00c0dd2d0674ebe2ae0b9bebc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e6306c9f4e28409e0bda88453356963c6cf5df9",
+      "release_date": "2014-05-30"
+    },
+    {
+      "featuredArtist": "Aditi Singh Sharma",
+      "featuredArtistId": "4iW4xSfMEIvrXM0Iu3aFDY",
+      "trackName": "Blame the Night",
+      "trackId": "4sXEJJs4vxE4WFTmSEoLnG",
+      "preview": "https://p.scdn.co/mp3-preview/fba1052f2565cdb38685c7cbc2986a710ab9f905?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e6306c9f4e28409e0bda88453356963c6cf5df9",
+      "release_date": "2014-05-30"
+    },
+    {
+      "featuredArtist": "Piyush Kapoor",
+      "featuredArtistId": "3QSkMsj71gq33qVAGpXNp8",
+      "trackName": "Blame the Night",
+      "trackId": "4sXEJJs4vxE4WFTmSEoLnG",
+      "preview": "https://p.scdn.co/mp3-preview/fba1052f2565cdb38685c7cbc2986a710ab9f905?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e6306c9f4e28409e0bda88453356963c6cf5df9",
+      "release_date": "2014-05-30"
+    },
+    {
+      "featuredArtist": "Chinmayi",
+      "featuredArtistId": "5UJ2sHO2ELrgW6aXeRLTQQ",
+      "trackName": "Main Rang Sharbaton Ka",
+      "trackId": "7hNb5juMQyy93U63jW4Mwj",
+      "preview": "https://p.scdn.co/mp3-preview/3da0937d066af01dcb8d0cf6687f3f1fcd3fa635?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0e0b1617943111161170b46a499633ed0f974cc3",
+      "release_date": "2013-09-10"
+    },
+    {
+      "featuredArtist": "Harshdeep",
+      "featuredArtistId": "1tlHwnym7psve3NAesil3R",
+      "trackName": "Mere Bina Tu",
+      "trackId": "095IthM9RJgOginWNc178p",
+      "preview": "https://p.scdn.co/mp3-preview/aeb759879256538506f98083cf4a039f3f7c15d9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0e0b1617943111161170b46a499633ed0f974cc3",
+      "release_date": "2013-09-10"
+    },
+    {
+      "featuredArtist": "Shreya Ghoshal",
+      "featuredArtistId": "0oOet2f43PA68X5RxKobEy",
+      "trackName": "Mausam (From \"Kidnap\")",
+      "trackId": "6DGZefkunhfi9SkAYQzVSV",
+      "preview": "https://p.scdn.co/mp3-preview/d01c48529568a724d9389ae6796354060acc1398?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6a14a1aeb247f2b41e63d29e023fef29a28a35f",
+      "release_date": "2013-06-18"
+    },
+    {
+      "featuredArtist": "DJ Suketu",
+      "featuredArtistId": "4TfiXd01xLFV0xg8PSCysH",
+      "trackName": "Allah Duhai Hai - Remix",
+      "trackId": "2GVzX4trMcmUPukpfagseF",
+      "preview": "https://p.scdn.co/mp3-preview/7412e62ebfef1ab317268e6333e7a0d8aa98b7a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a266cb475a52071cdb3ecda9c00e2007cfebf2",
+      "release_date": "2013-01-14"
+    },
+    {
+      "featuredArtist": "Sachin",
+      "featuredArtistId": "3ReIQon5ZkSQK8eC2OvRha",
+      "trackName": "Allah Duhai Hai - Remix",
+      "trackId": "2GVzX4trMcmUPukpfagseF",
+      "preview": "https://p.scdn.co/mp3-preview/7412e62ebfef1ab317268e6333e7a0d8aa98b7a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a266cb475a52071cdb3ecda9c00e2007cfebf2",
+      "release_date": "2013-01-14"
+    },
+    {
+      "featuredArtist": "AKS",
+      "featuredArtistId": "0PdCjwR9pWo87eM0RkDyPK",
+      "trackName": "Be Intehaan - Remix",
+      "trackId": "7wQ4OK5yJan8FSzQYeZlIa",
+      "preview": "https://p.scdn.co/mp3-preview/bef6baceccc21c7e5a5a491f4bf28eb301f37e3f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a266cb475a52071cdb3ecda9c00e2007cfebf2",
+      "release_date": "2013-01-14"
+    },
+    {
+      "featuredArtist": "KK",
+      "featuredArtistId": "3rUSk3kcpl4Nseu1DqFNpJ",
+      "trackName": "Party on My Mind - Remix",
+      "trackId": "7DMp1JrZPW9yOHL3rkIV1o",
+      "preview": "https://p.scdn.co/mp3-preview/1fb56740c1216a661f811c7a640852e945cec90e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a266cb475a52071cdb3ecda9c00e2007cfebf2",
+      "release_date": "2013-01-14"
+    },
+    {
+      "featuredArtist": "DJ Jay Dabhi",
+      "featuredArtistId": "4LSXzxwwtTw0uutkiIl8Qk",
+      "trackName": "Party on My Mind - Remix",
+      "trackId": "7DMp1JrZPW9yOHL3rkIV1o",
+      "preview": "https://p.scdn.co/mp3-preview/1fb56740c1216a661f811c7a640852e945cec90e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a266cb475a52071cdb3ecda9c00e2007cfebf2",
+      "release_date": "2013-01-14"
+    },
+    {
+      "featuredArtist": "Rahul Vaidya",
+      "featuredArtistId": "6XypcJDBmfuRjq52PFUVwd",
+      "trackName": "Be Intehaan (Unplugged)",
+      "trackId": "2o4hANu9gh1z6Evjfwy2GF",
+      "preview": "https://p.scdn.co/mp3-preview/43e47bff9ffb6756b9fe1e74b1c98b15afcd3c17?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a266cb475a52071cdb3ecda9c00e2007cfebf2",
+      "release_date": "2013-01-14"
+    },
+    {
+      "featuredArtist": "Kiran Kamath",
+      "featuredArtistId": "6vdtEGdFKh4hO5EcZgG7qh",
+      "trackName": "Race 2 (Mashup)",
+      "trackId": "7gim9gVPCsCcJhUD3557Aj",
+      "preview": "https://p.scdn.co/mp3-preview/4071cb8e341e38e71c9b15ca6cad309a14e70871?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a266cb475a52071cdb3ecda9c00e2007cfebf2",
+      "release_date": "2013-01-14"
+    }
+  ]
+}

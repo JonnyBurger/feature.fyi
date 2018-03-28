@@ -1,0 +1,32 @@
+{
+  "artistName": "Tyler Farr",
+  "features": [
+    {
+      "featuredArtist": "Jason Aldean",
+      "featuredArtistId": "3FfvYsEGaIb52QPXhg4DcH",
+      "trackName": "Damn Good Friends - Duet with Jason Aldean",
+      "trackId": "7p7Htw2r4UavqvWv1O6omI",
+      "preview": "https://p.scdn.co/mp3-preview/d865c635063a40048f378e35d10dc7591cc813d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/20a8e84aabeb2ddb63e1c4fdb024924e2093fdf9",
+      "release_date": "2015-04-27"
+    },
+    {
+      "featuredArtist": "Colt Ford",
+      "featuredArtistId": "0OpWIlokQeE7BNQMhuu2Nx",
+      "trackName": "Chicks, Trucks, and Beer - feat. Colt Ford",
+      "trackId": "6UP1XUjfh31BTPeSBh7C0l",
+      "preview": "https://p.scdn.co/mp3-preview/6ce3243db8ca2cef36bd009c4f4b61857eee47a4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/79d07bdd9b9c33911af4e0fb6b2225b24e026385",
+      "release_date": "2013-09-27"
+    },
+    {
+      "featuredArtist": "The Doobie Brothers",
+      "featuredArtistId": "39T6qqI0jDtSWWioX8eGJz",
+      "trackName": "Take Me in Your Arms (Rock Me) - with Tyler Farr",
+      "trackId": "0qQISs22XOY3a4vIIFVMpe",
+      "preview": "https://p.scdn.co/mp3-preview/5b34ac60fad419c1560192f6d9e0c5d91cd79bfa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cdc866d9b85959bda5db1b940bed59a3db509221",
+      "release_date": "2014-11-03"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "artistName": "P.O.D.",
+  "features": [
+    {
+      "featuredArtist": "Maria Brink",
+      "featuredArtistId": "6W8xq7TXME3WXP7c7LMWBR",
+      "trackName": "Criminal Conversations",
+      "trackId": "5sNc8JSmoB0I1XhMJkesdP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a344701eade9443d8af4d463cffdbcb04d43013e",
+      "release_date": "2015-08-21"
+    },
+    {
+      "featuredArtist": "Lou Koller",
+      "featuredArtistId": "00oVA7aWQ4Sd1ZT3W6UpHU",
+      "trackName": "Revolución",
+      "trackId": "2aiTuNdJgFEaUhGrPc7vLz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a344701eade9443d8af4d463cffdbcb04d43013e",
+      "release_date": "2015-08-21"
+    }
+  ]
+}

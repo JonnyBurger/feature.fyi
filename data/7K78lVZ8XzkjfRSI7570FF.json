@@ -1,0 +1,41 @@
+{
+  "artistName": "José Feliciano",
+  "features": [
+    {
+      "featuredArtist": "Jools Holland",
+      "featuredArtistId": "6eLbRJP12OhyvUv4ntto4e",
+      "trackName": "As You See Me Now",
+      "trackId": "5h5xeZGY7TrXU6zOqhvAJc",
+      "preview": "https://p.scdn.co/mp3-preview/9ac2bb9bf81fd05ed87649f20a660a696ada57af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b88b065d85f09ca100742cf13e3e6216e1897a05",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Ruby Turner",
+      "featuredArtistId": "0yIXmbc7ceEmnecGhc71ke",
+      "trackName": "Hit the Road Jack (feat. Ruby Turner)",
+      "trackId": "6NRk9VuQjlwBH6AU6vAjX8",
+      "preview": "https://p.scdn.co/mp3-preview/21de6baf041548c2a2165ba01bc460a754519a18?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b88b065d85f09ca100742cf13e3e6216e1897a05",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Rita Wilson",
+      "featuredArtistId": "60LfX8q7jliswygVxBPIL4",
+      "trackName": "You're So Cold (feat. Rita Wilson)",
+      "trackId": "37QC5u6gRCSloLeSkF3b7x",
+      "preview": "https://p.scdn.co/mp3-preview/faa6bf37b34bdf50902cf07c8946e2d4012edeec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b88b065d85f09ca100742cf13e3e6216e1897a05",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "José José",
+      "featuredArtistId": "4mN0qcMxWX8oToqfDPM5yV",
+      "trackName": "Por Ella",
+      "trackId": "3pZ5BnbCFftjHiV1wFIPNo",
+      "preview": "https://p.scdn.co/mp3-preview/434ae128443f930de1c76914fd5d090e7c57e241?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/752fa4d21305847ffe48f87b81a6bd353869e53c",
+      "release_date": "2011-09-05"
+    }
+  ]
+}

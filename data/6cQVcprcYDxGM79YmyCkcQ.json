@@ -1,0 +1,50 @@
+{
+  "artistName": "VAX",
+  "features": [
+    {
+      "featuredArtist": "Tove Styrke",
+      "featuredArtistId": "2QSPrJfYeRXaltEEiriXN9",
+      "trackName": "Endless - Acoustic Version",
+      "trackId": "5eDTMtx8lpbKjZhriTVsi9",
+      "preview": "https://p.scdn.co/mp3-preview/1133d04dc461e432a77b72784ed38a96de122d5c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c0d7972fef354878b145e50c7aaf1b8318d9a290",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Teddy Sky",
+      "featuredArtistId": "6D0UYqXOF2HFQOet85VDKd",
+      "trackName": "Fireproof - Jello Remix",
+      "trackId": "2HEokWmzzphwQMGffiOk3r",
+      "preview": "https://p.scdn.co/mp3-preview/4f18a02d9335a5d217ededbd85c670f4b23c2ee0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/845c6c15aed2595b289f882a0610e077f9f0b485",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Jello",
+      "featuredArtistId": "7MTtIGOjqC1Oan0eMP03Rv",
+      "trackName": "Fireproof - Jello Remix",
+      "trackId": "2HEokWmzzphwQMGffiOk3r",
+      "preview": "https://p.scdn.co/mp3-preview/4f18a02d9335a5d217ededbd85c670f4b23c2ee0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/845c6c15aed2595b289f882a0610e077f9f0b485",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "DIMA",
+      "featuredArtistId": "55mpRKnylTTZ3N1cNNM7zh",
+      "trackName": "Fireproof - DIMA Remix",
+      "trackId": "53h0cF96llr92BFeNMD03Z",
+      "preview": "https://p.scdn.co/mp3-preview/9bfc60ccfd12cc743e52784e15d96cf08bfa4b2c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7a610b150b58420f9e537e868988e913c29d9705",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Margaret",
+      "featuredArtistId": "6aGmKxXoKrSdovRUn8MBhZ",
+      "trackName": "6 In the Morning",
+      "trackId": "7nbr4TKPTsVbngPqWmXhNi",
+      "preview": "https://p.scdn.co/mp3-preview/525ecdebf3663c2120177c1c1ce42d679f6f8310?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c384c5609cf975f743ce1cb41edd271cbf0d73ef",
+      "release_date": "2017-05-26"
+    }
+  ]
+}

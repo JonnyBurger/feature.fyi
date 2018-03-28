@@ -1,0 +1,59 @@
+{
+  "artistName": "Bill Withers",
+  "features": [
+    {
+      "featuredArtist": "Phil Schier",
+      "featuredArtistId": "36hmhGXGFs9qu5aIyrm8kf",
+      "trackName": "Medley: Harlem / Cold Baloney - Live",
+      "trackId": "3ROP3Z7Ed8yD4NjnajlLi0",
+      "preview": "https://p.scdn.co/mp3-preview/e8b451e06e64904c64c1bf9d8944df77a5d5cd63?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba5c19f5b3fdd6416e1647ac2c59a82937e46132",
+      "release_date": "1973"
+    },
+    {
+      "featuredArtist": "Lido",
+      "featuredArtistId": "1aSwrSGBNGMLn9ymttfRkk",
+      "trackName": "Ain't No Sunshine - Lido Remix",
+      "trackId": "46a59ZT7JG0i3tJNaQmPom",
+      "preview": "https://p.scdn.co/mp3-preview/0ae43a270abb17ff504b62dab3080cc1e66921d9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0bd5b423ac08aba2d0fb63cb3d91fdfaf586ef55",
+      "release_date": "2015-05-26"
+    },
+    {
+      "featuredArtist": "DJ DX",
+      "featuredArtistId": "4gGFdpDwEe8zIY1XSE3dGe",
+      "trackName": "Just the two of us",
+      "trackId": "3q88W3n8SrCUUyRLPh3E3B",
+      "preview": "https://p.scdn.co/mp3-preview/036ef12e0eb1c7ab355c103c86476bc62a9ab8a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1612428d29f80db520bc7b6410ef13b53f5142b9",
+      "release_date": "2015-02-24"
+    },
+    {
+      "featuredArtist": "Grover Washington, Jr.",
+      "featuredArtistId": "05YVYeV4HxYp5rrWalvuE1",
+      "trackName": "Just the Two of Us",
+      "trackId": "1uV0YwfqKonfLSeO34WtTV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f95fa6f2f464255a2d42a3a7a96d8fc3718dd53f",
+      "release_date": "2017-07-28"
+    },
+    {
+      "featuredArtist": "The Crusaders",
+      "featuredArtistId": "3Bhgbs9kIwl8SuU0eIqN6b",
+      "trackName": "Soul Shadows - Edit",
+      "trackId": "4hgv4956mWXzZTSoOP5Eie",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b945de5af1448e16b8b6dd59ee0b98f1bee8197b",
+      "release_date": "2013-08-20"
+    },
+    {
+      "featuredArtist": "Ralph McDonald",
+      "featuredArtistId": "2hL1cdNamJPPiuIyzWqSUa",
+      "trackName": "In the Name of Love",
+      "trackId": "6z5nrhrRGnvvogFXCrbN3V",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b945de5af1448e16b8b6dd59ee0b98f1bee8197b",
+      "release_date": "2013-08-20"
+    }
+  ]
+}

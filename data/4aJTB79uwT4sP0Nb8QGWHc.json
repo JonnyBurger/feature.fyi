@@ -1,0 +1,23 @@
+{
+  "artistName": "Joe Nichols",
+  "features": [
+    {
+      "featuredArtist": "Darren Knight",
+      "featuredArtistId": "37EEg61XsbxkpkyRYa85g2",
+      "trackName": "Baby Got Back",
+      "trackId": "5QAWrLlymOFxNdwpG5gSOe",
+      "preview": "https://p.scdn.co/mp3-preview/14f2e0af78c32c9fcff23eaf0c785fa7115f3610?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c13efb7c8f0c13396dd38de41fde7fbe6f20a97a",
+      "release_date": "2017-07-28"
+    },
+    {
+      "featuredArtist": "Colt Ford",
+      "featuredArtistId": "0OpWIlokQeE7BNQMhuu2Nx",
+      "trackName": "Tequila Makes Her Clothes Fall Off - Fat Shan Remix",
+      "trackId": "5kiprwxTogy40jPmHqo3if",
+      "preview": "https://p.scdn.co/mp3-preview/eb9b04d038b57fd359ffd4fbb13fc24971f6a1dd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f72844881d8bc7a4885d95310a581c37c21d4fe8",
+      "release_date": "2009-10-26"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "artistName": "Hale",
+  "features": [
+    {
+      "featuredArtist": "Sarah Geronimo",
+      "featuredArtistId": "6aiCKnIN68hohzU3ZzNq48",
+      "trackName": "The Great Unknown",
+      "trackId": "02cIVAKTkj1lGxRIitrjPd",
+      "preview": "https://p.scdn.co/mp3-preview/f6e569344aadbe69ee67c8ed3354274884d033bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a66186d2e7f7428e971ec49f53ce0d0dfa42c14f",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Tosel",
+      "featuredArtistId": "1naxzAMkIo1wAE8KBvatck",
+      "trackName": "Don't Get Mad at Me",
+      "trackId": "7DwAaVOxSVN3ydBjusWhFH",
+      "preview": "https://p.scdn.co/mp3-preview/6a187d79cff7a1c61a4b6bcdc44fe663ad67e183?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f0c0e4c6674e18f56954d2e97e78e05b5408d6fa",
+      "release_date": "2015-02-23"
+    },
+    {
+      "featuredArtist": "Manos",
+      "featuredArtistId": "5OMDeoerQcNzhSQ8TRX8bg",
+      "trackName": "Don't Get Mad at Me",
+      "trackId": "7DwAaVOxSVN3ydBjusWhFH",
+      "preview": "https://p.scdn.co/mp3-preview/6a187d79cff7a1c61a4b6bcdc44fe663ad67e183?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f0c0e4c6674e18f56954d2e97e78e05b5408d6fa",
+      "release_date": "2015-02-23"
+    },
+    {
+      "featuredArtist": "Rusty Zinn",
+      "featuredArtistId": "77UQRtaUFQsLPkd9EeXMsv",
+      "trackName": "The Big Eye",
+      "trackId": "6wTe5i8cpkV6r6gKISqMi9",
+      "preview": "https://p.scdn.co/mp3-preview/e0edcdf793f6e0e43ad392827df8c7beed66ba7f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/43a1a143802ea47eb0fd8a9802e1d9dbba27abff",
+      "release_date": "2013-10-22"
+    },
+    {
+      "featuredArtist": "Estrin",
+      "featuredArtistId": "3c2dYGXFbkiEzuuG46qdPK",
+      "trackName": "The Big Eye",
+      "trackId": "6wTe5i8cpkV6r6gKISqMi9",
+      "preview": "https://p.scdn.co/mp3-preview/e0edcdf793f6e0e43ad392827df8c7beed66ba7f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/43a1a143802ea47eb0fd8a9802e1d9dbba27abff",
+      "release_date": "2013-10-22"
+    },
+    {
+      "featuredArtist": "Zinn",
+      "featuredArtistId": "6Pv7wAlpFHY15lHrcDA8ov",
+      "trackName": "The Big Eye",
+      "trackId": "6wTe5i8cpkV6r6gKISqMi9",
+      "preview": "https://p.scdn.co/mp3-preview/e0edcdf793f6e0e43ad392827df8c7beed66ba7f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/43a1a143802ea47eb0fd8a9802e1d9dbba27abff",
+      "release_date": "2013-10-22"
+    }
+  ]
+}

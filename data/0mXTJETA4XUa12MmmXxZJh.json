@@ -1,0 +1,59 @@
+{
+  "artistName": "Eddie Vedder",
+  "features": [
+    {
+      "featuredArtist": "Glen Hansard",
+      "featuredArtistId": "3Caot8EtHX6wLpNF2wRzS0",
+      "trackName": "Sleepless Nights",
+      "trackId": "7Cx0HrRuCFr68QwjeIX8UL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/18456474e4ca6f876b473126f26f09a5f5b3a465",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Cat Power",
+      "featuredArtistId": "6G7OerKc3eBO9sVkRNopFC",
+      "trackName": "Tonight You Belong To Me",
+      "trackId": "7tFDcSoYHk54Fc5oqM2Zii",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/18456474e4ca6f876b473126f26f09a5f5b3a465",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "The Who",
+      "featuredArtistId": "67ea9eGLXYMsO2eYQRui3w",
+      "trackName": "I'm One",
+      "trackId": "1AqRyshjcKxIh6WznesGJ9",
+      "preview": "https://p.scdn.co/mp3-preview/a3de2ebef0ebcfc1fcbe3524e69cb5e2d4f5bd9e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2ea960619b1530270fc7b56fdf6fc98ce313402",
+      "release_date": "2016-11-30"
+    },
+    {
+      "featuredArtist": "The Beat Bugs",
+      "featuredArtistId": "2zaXzyRTG9N2adhmmnV31p",
+      "trackName": "Magical Mystery Tour",
+      "trackId": "6wPimasBqcIWgHfdDl8PzG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fb3da1d68898613c02703731346e5ca9ca2794f4",
+      "release_date": "2016-11-04"
+    },
+    {
+      "featuredArtist": "Simon Townshend",
+      "featuredArtistId": "3laL2CZKuS2QEdq06u7xCh",
+      "trackName": "I'm the Answer",
+      "trackId": "2RVSLtMESXH8KRLaP4Yu5g",
+      "preview": "https://p.scdn.co/mp3-preview/8c82810a4ef71df5c5b7fbbc56c0e2349841b40f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c7abc84f9457534b0815467ea95b5b0e4dc49205",
+      "release_date": "2016-10-14"
+    },
+    {
+      "featuredArtist": "The Sonics",
+      "featuredArtistId": "2g3PKH7Z1Ofn5oGR6oDjLy",
+      "trackName": "Leaving Here",
+      "trackId": "0COBWiO3wcBWRfEqCe9SwD",
+      "preview": "https://p.scdn.co/mp3-preview/8e2f3e992bb325b8fc76a375e56f404971cd78b1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3af8aa4afc4c18389170b87af8d27cf02e1f7a7a",
+      "release_date": "2016-05-06"
+    }
+  ]
+}

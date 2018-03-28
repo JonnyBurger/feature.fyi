@@ -1,0 +1,32 @@
+{
+  "artistName": "The Staves",
+  "features": [
+    {
+      "featuredArtist": "yMusic",
+      "featuredArtistId": "4h7DUL1L3RrCzquDp8xQXY",
+      "trackName": "Hopeless",
+      "trackId": "2wWT9igLuzc4L2VSuyNswU",
+      "preview": "https://p.scdn.co/mp3-preview/3696912f2faed11a9915cec23ed5e5790e0fa4f7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4c1ba538c21cd18a311fb1db1395808cef9f6c9b",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Ariza",
+      "featuredArtistId": "4hfAjEKTAFTmJvGQCGTED5",
+      "trackName": "No Me, No You, No More - Ariza Remix",
+      "trackId": "5VEIoCIRVUJWo2ygakS6uE",
+      "preview": "https://p.scdn.co/mp3-preview/564d0ff4fd819e492e88fc5d3de2d2a2dd3eca53?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e4df6d19a44a937c9a411e1ed504afe0ec0f60f",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "DEM YUUT",
+      "featuredArtistId": "0u1fO6mHKAITXLMvsWKLB8",
+      "trackName": "Tired As Fuck - DEM YUUT Remix",
+      "trackId": "0lPu2jntYuwtoXMXuWvTFM",
+      "preview": "https://p.scdn.co/mp3-preview/7cba6cbde7366535b3048aa32e20a66c20b8c801?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/400369d9c40e82f13f8f6fe0ac61cee4feec2a61",
+      "release_date": "2017-06-09"
+    }
+  ]
+}

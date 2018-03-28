@@ -1,0 +1,680 @@
+{
+  "artistName": "Andrew Lloyd Webber",
+  "features": [
+    {
+      "featuredArtist": "Michael Crawford",
+      "featuredArtistId": "5fRiVl9fyhUEZhcpMyIxUG",
+      "trackName": "The Phantom Of The Opera - From \"The Phantom Of The Opera\"",
+      "trackId": "0G8uB6IlM4ojFjZkK0fCmo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Sarah Brightman",
+      "featuredArtistId": "7Ead768rc4ShGxnqtqccU5",
+      "trackName": "The Phantom Of The Opera - From \"The Phantom Of The Opera\"",
+      "trackId": "0G8uB6IlM4ojFjZkK0fCmo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Antonio Banderas",
+      "featuredArtistId": "1EmxvwBQjmCB7e3dOVincQ",
+      "trackName": "Oh What A Circus - From \"Evita\" Original Motion Picture Soundtrack",
+      "trackId": "3pDelUXtiyPhilYvz53KQj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Madonna",
+      "featuredArtistId": "6tbjWDEIzxoDsBA1FuhfPW",
+      "trackName": "Oh What A Circus - From \"Evita\" Original Motion Picture Soundtrack",
+      "trackId": "3pDelUXtiyPhilYvz53KQj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Michael Ball",
+      "featuredArtistId": "2MISUlPFrBMRlIcazbEOUI",
+      "trackName": "Love Changes Everything - From \"Aspects Of Love\"",
+      "trackId": "4uQqE8J8Yn4izuKz9Eu9x3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Alex Brightman",
+      "featuredArtistId": "7abCELr0U2E5K2nPjVtWkN",
+      "trackName": "Stick It To The Man - From \"School Of Rock\"",
+      "trackId": "4Z6Jsc1FrFfBUTmnLtt1kn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "The Original Broadway Cast Of School Of Rock",
+      "featuredArtistId": "4V41s4NEnbEnbTFErZbbZ5",
+      "trackName": "Stick It To The Man - From \"School Of Rock\"",
+      "trackId": "4Z6Jsc1FrFfBUTmnLtt1kn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Marti Webb",
+      "featuredArtistId": "40mIDxRW5aqgFGVjBed4qf",
+      "trackName": "Take That Look Off Your Face - From \"Tell Me On A Sunday\"",
+      "trackId": "3ywgpDX47utVDJ9llfMcTa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Joanna Riding",
+      "featuredArtistId": "5W9v4j2SqXZOKvTIVJ8cNT",
+      "trackName": "I'm Hopeless When It Comes To You - From \"Stephen Ward\"",
+      "trackId": "5Iv8aU2FHIPO08ygahHZ6Q",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Donny Osmond",
+      "featuredArtistId": "5ZEAzHE2TzAwUcOj6jMIgf",
+      "trackName": "Any Dream Will Do - From \"Joseph And The Amazing Technicolor Dreamcoat\"",
+      "trackId": "5scvNCcSjZbEwLYvXwtxqb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "\"Joseph And The Amazing Technicolor Dreamcoat\" 1992 Canadian Cast",
+      "featuredArtistId": "2PT695UML2m3qBDsamIcB3",
+      "trackName": "Any Dream Will Do - From \"Joseph And The Amazing Technicolor Dreamcoat\"",
+      "trackId": "5scvNCcSjZbEwLYvXwtxqb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Glenn Close",
+      "featuredArtistId": "5gYZraqDisF60MICASfpWe",
+      "trackName": "As If We Never Said Goodbye - From \"Sunset Boulevard\"",
+      "trackId": "2Hu17lKDU0dhmvUhJWVygq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Harry Rabinowitz",
+      "featuredArtistId": "7fhs5jWVmqKeYAU5iF6xFe",
+      "trackName": "Theme And Variations 1-4 (From Paganini's Caprice in A Minor, No. 24) - Single Version",
+      "trackId": "4F5MnEekKCzyGUIyzDcSsS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Tom Jones",
+      "featuredArtistId": "1T0wRBO0CK0vK8ouUMqEl5",
+      "trackName": "The Vaults Of Heaven - From \"Whistle Down The Wind\"",
+      "trackId": "7psJuXD0eflRhk6R2uvZPG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Sounds Of Blackness",
+      "featuredArtistId": "0a0l3QVhfMwQNAO4wPAmP9",
+      "trackName": "The Vaults Of Heaven - From \"Whistle Down The Wind\"",
+      "trackId": "7psJuXD0eflRhk6R2uvZPG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "The Everly Brothers",
+      "featuredArtistId": "4ACplpEqD6JIVgKrafauzs",
+      "trackName": "Cold - From \"Whistle Down The Wind\"",
+      "trackId": "7rMmO8FnNdlAHeCqImZjy2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Denise Van Outen",
+      "featuredArtistId": "0T17VKgopV3csTElVlDpXF",
+      "trackName": "Come Back With The Same Look In Your Eyes - From \"Tell Me On A Sunday\"",
+      "trackId": "7H8ULwGO8sZdpRw8YCr1Nb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Paul Nicholas",
+      "featuredArtistId": "0IZKN6jW1R51jYXBw6FC2V",
+      "trackName": "Mr. Mistoffelees - From \"Cats\"",
+      "trackId": "0CepTzkX3sW5ZQJieyCDgA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Emmy Rossum",
+      "featuredArtistId": "6JcDqt1rBKIWfnoPjXFYqc",
+      "trackName": "Think Of Me - From \"The Phantom Of The Opera\" Motion Picture",
+      "trackId": "3iXtiRaHunmVr26EpkPUA1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Patrick Wilson",
+      "featuredArtistId": "7JDIzsiYm1WS3zUpiTdW52",
+      "trackName": "Think Of Me - From \"The Phantom Of The Opera\" Motion Picture",
+      "trackId": "3iXtiRaHunmVr26EpkPUA1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Cliff Richard",
+      "featuredArtistId": "2nvKpWcP8etYTq4JrRiUiy",
+      "trackName": "All I Ask Of You - From \"The Phantom Of The Opera\"",
+      "trackId": "5gDYZOxXhnVr6QGuRXZsm3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Sierra Boggess",
+      "featuredArtistId": "6QB1J3JKvV9KXWu33g1r7W",
+      "trackName": "Wishing You Were Somehow Here Again - From \"The Phantom Of The Opera\" / Live At The Royal Albert Hall",
+      "trackId": "3ftBmueEmrqcexszxtQrfp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Beyoncé",
+      "featuredArtistId": "6vWDO969PvNqNYHIOW5v0m",
+      "trackName": "Learn To Be Lonely - From \"The Phantom Of The Opera\" / Live At The Oscars",
+      "trackId": "4HoYFaETI9j0yn315wUxFO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Alice Cooper",
+      "featuredArtistId": "3EhbVgyfGd7HkpsagwL9GS",
+      "trackName": "King Herod's Song - From \"Jesus Christ Superstar\"",
+      "trackId": "7B1adJAgZHjHwfZzmUXv7a",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "\"Cats\" 1981 Original London Cast",
+      "featuredArtistId": "5PwgSnrvg48DYvdsf2Y2ZD",
+      "trackName": "Skimbleshanks The Railway Cat - From \"Cats\"",
+      "trackId": "2UI0HiMni2eSLoqJDv2YNQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Wendy Edmead",
+      "featuredArtistId": "3F1882LLJA1TxkePqJcLud",
+      "trackName": "Macavity: The Mystery Cat - From \"Cats\"",
+      "trackId": "6CcEl4YbsLfhNkQ9yCFMNK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Donna King",
+      "featuredArtistId": "7bSKJdYDqqCgR2wSz1MAXi",
+      "trackName": "Macavity: The Mystery Cat - From \"Cats\"",
+      "trackId": "6CcEl4YbsLfhNkQ9yCFMNK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "\"Cats\" 1983 Broadway Cast",
+      "featuredArtistId": "2cez574BwRD00PGEbNl4SH",
+      "trackName": "Macavity: The Mystery Cat - From \"Cats\"",
+      "trackId": "6CcEl4YbsLfhNkQ9yCFMNK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Stephen Ward Original London Cast",
+      "featuredArtistId": "3Fc6XBJDnRRBSNY4D4fG3f",
+      "trackName": "You've Never Had It So Good - From \"Stephen Ward\"",
+      "trackId": "2m9jEBIvINKL0BnBnUWTjG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Elena Roger",
+      "featuredArtistId": "3i3ZiJGsP5tkz69ad7Mbie",
+      "trackName": "I'd Be Surprisingly Good For You - From \"Evita\"",
+      "trackId": "7d5QYacSfhQuopSlCS0X7Y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Philip Quast",
+      "featuredArtistId": "5g8ZPEIbAFjUfoo68mYS4G",
+      "trackName": "I'd Be Surprisingly Good For You - From \"Evita\"",
+      "trackId": "7d5QYacSfhQuopSlCS0X7Y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Original Evita Cast",
+      "featuredArtistId": "7r0Mc0nEZCwo3tLMahpcfn",
+      "trackName": "I'd Be Surprisingly Good For You - From \"Evita\"",
+      "trackId": "7d5QYacSfhQuopSlCS0X7Y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "The Original London Cast Of 'The Woman In White'",
+      "featuredArtistId": "0Ml7tdKlDC4zH1bz61J1ut",
+      "trackName": "Evermore Without You - From ' The Woman In White'",
+      "trackId": "1qo0vVKWT4ZbL4ZP4IcpOz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Martin Crewes",
+      "featuredArtistId": "4ZOKDsBlxq1wBuZ2qinwLP",
+      "trackName": "Evermore Without You - From ' The Woman In White'",
+      "trackId": "1qo0vVKWT4ZbL4ZP4IcpOz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Duncan James",
+      "featuredArtistId": "2m0JoCqbe2cnauFT4hEUfR",
+      "trackName": "I Believe My Heart - From ' The Woman In White'",
+      "trackId": "05MpDaZxZUV5JrS9ZRYzc5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Keedie",
+      "featuredArtistId": "00wHLvsqygwGUgNg3EMtDO",
+      "trackName": "I Believe My Heart - From ' The Woman In White'",
+      "trackId": "05MpDaZxZUV5JrS9ZRYzc5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "‘Jesus Christ Superstar’ 1996 London Cast",
+      "featuredArtistId": "5RzauMZQELIuit9D6Y2KKd",
+      "trackName": "Hosanna - From \"Jesus Christ Superstar\"",
+      "trackId": "1b6y9Fojs1OI7lhf7C3V0V",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Peter Gallagher",
+      "featuredArtistId": "1RORiKtAbKns0JTwTjOk0k",
+      "trackName": "Hosanna - From \"Jesus Christ Superstar\"",
+      "trackId": "1b6y9Fojs1OI7lhf7C3V0V",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Steve Balsamo",
+      "featuredArtistId": "6g4NDZyv8dDbZUnNu2dDEe",
+      "trackName": "Hosanna - From \"Jesus Christ Superstar\"",
+      "trackId": "1b6y9Fojs1OI7lhf7C3V0V",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bea9b03c9b312c1cd4c6f75281569b870d866769",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Kevin Anderson",
+      "featuredArtistId": "5RSJN1bL0BLhKKKCanj4Ym",
+      "trackName": "Sunset Boulevard - From \"Sunset Boulevard\"",
+      "trackId": "2kZZqgZaCrSuxVP9ZvTkdG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bf40af475d8925e8d549b4f05078c3e249a1a929",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Ramin Karimloo",
+      "featuredArtistId": "2caaCPRmsp0wFF9utMxeMP",
+      "trackName": "‘Til I Hear You Sing - From \"Love Never Dies\"",
+      "trackId": "6B3HnmFRWfZ5U1Wlhv29yu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bf40af475d8925e8d549b4f05078c3e249a1a929",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Bonnie Langford",
+      "featuredArtistId": "0pxqtAylebfD2ITx8YuKTR",
+      "trackName": "Mungojerrie And Rumpelteazer - From \"Cats\"",
+      "trackId": "6cVJcX2F6tFwIo2In0TE0f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bf40af475d8925e8d549b4f05078c3e249a1a929",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "John Thornton",
+      "featuredArtistId": "59R2bIpux6gTCbklUZpY8H",
+      "trackName": "Mungojerrie And Rumpelteazer - From \"Cats\"",
+      "trackId": "6cVJcX2F6tFwIo2In0TE0f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bf40af475d8925e8d549b4f05078c3e249a1a929",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Alexander Hanson",
+      "featuredArtistId": "498OLUGBV0hSPmRHokzvaA",
+      "trackName": "Human Sacrifice",
+      "trackId": "3F9sZdxupPBJ1abE8tjjPv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Charlotte Spencer",
+      "featuredArtistId": "6K1NnhNQwqsbTb5I8tU1ko",
+      "trackName": "Super Duper Hula Hooper",
+      "trackId": "3txuN56ssq9Os1yqsOc6iD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Charlotte Blackledge",
+      "featuredArtistId": "67mf6clvdWqOHjH0tCIVZb",
+      "trackName": "Super Duper Hula Hooper",
+      "trackId": "3txuN56ssq9Os1yqsOc6iD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Kate Goyston",
+      "featuredArtistId": "1qic5oTohuxWRUuW0fbdOK",
+      "trackName": "Super Duper Hula Hooper",
+      "trackId": "3txuN56ssq9Os1yqsOc6iD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Amy Griffiths",
+      "featuredArtistId": "06gwrkLnuHeLOcuFCNeIHV",
+      "trackName": "Super Duper Hula Hooper",
+      "trackId": "3txuN56ssq9Os1yqsOc6iD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Emma Kate Nelson",
+      "featuredArtistId": "3lYw5Qwki4Yv5jmmBO3YZT",
+      "trackName": "Super Duper Hula Hooper",
+      "trackId": "3txuN56ssq9Os1yqsOc6iD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Helen Ternent",
+      "featuredArtistId": "2Fav9aKd9uqZxkIQy15uje",
+      "trackName": "Super Duper Hula Hooper",
+      "trackId": "3txuN56ssq9Os1yqsOc6iD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Emily Squibb",
+      "featuredArtistId": "1ktljfjJXUq6rYfDGQLibY",
+      "trackName": "Super Duper Hula Hooper",
+      "trackId": "3txuN56ssq9Os1yqsOc6iD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Tim Walton",
+      "featuredArtistId": "3iiAvEwIrHcVrscx6OUTHH",
+      "trackName": "Super Duper Hula Hooper",
+      "trackId": "3txuN56ssq9Os1yqsOc6iD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Ian Conningham",
+      "featuredArtistId": "3eJbrBVrq4IFmGsrNsmhNT",
+      "trackName": "Manipulation",
+      "trackId": "5V1o44I0oi4gobYAazEQl5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Ricardo Coke-Thomas",
+      "featuredArtistId": "2b6TXqQG17cPORy6x5VIzf",
+      "trackName": "Black-hearted Woman",
+      "trackId": "561if9jufLYmaZmOoGi8XM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Daniel Flynn",
+      "featuredArtistId": "139l1dO3kP3UJBkY4wmIUp",
+      "trackName": "Love Nest",
+      "trackId": "2m24DOF1AimVLi45DDpEll",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Wayne Robinson",
+      "featuredArtistId": "5G9VuJOLYUL6C3j8tg5gtC",
+      "trackName": "1963",
+      "trackId": "2ky47bB8WUc8wD1Iia0PKt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Christopher Howell",
+      "featuredArtistId": "498jjaeddK4OwBLHA0LPVI",
+      "trackName": "Give Us Something Juicy",
+      "trackId": "0XNK5YAe3DM2eBaTr0Sbjf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Martin Callaghan",
+      "featuredArtistId": "1AWazFLSZASYtgGWOCqs6Q",
+      "trackName": "Give Us Something Juicy",
+      "trackId": "0XNK5YAe3DM2eBaTr0Sbjf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Paul Kemble",
+      "featuredArtistId": "3fHZKQlASeIj8PTM0RNPxM",
+      "trackName": "Manipulation Reprise",
+      "trackId": "5U4aQeBC21A6AxBopa1v34",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "John Stacey",
+      "featuredArtistId": "5kABNek3TsCIWGYTGlQbBz",
+      "trackName": "Manipulation Reprise",
+      "trackId": "5U4aQeBC21A6AxBopa1v34",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Julian Forsyth",
+      "featuredArtistId": "4xvDPfm3n9NUYDOwoHATtU",
+      "trackName": "Manipulation Reprise",
+      "trackId": "5U4aQeBC21A6AxBopa1v34",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Kate Coyston",
+      "featuredArtistId": "6ffvpSgVetGZbMczAymx4S",
+      "trackName": "Police Interview",
+      "trackId": "7pkrdAIeq8o26xoRKCKNEm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Anthony Calf",
+      "featuredArtistId": "5bF0I0apmY10awghvDFhcJ",
+      "trackName": "The Arrest",
+      "trackId": "0EujQHJy9tKW8iiXdFDfjY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Jason Denton",
+      "featuredArtistId": "4RkN1jNjlb07jYHNkLZFV0",
+      "trackName": "The Arrest",
+      "trackId": "0EujQHJy9tKW8iiXdFDfjY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Carl Sanderson",
+      "featuredArtistId": "6FG46GfwtnB0LWeKVVq332",
+      "trackName": "The Arrest",
+      "trackId": "0EujQHJy9tKW8iiXdFDfjY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/519b29e9cd114790127aca5323599a3c5e08cbc2",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Danielle Hope",
+      "featuredArtistId": "7o2VZhk52WnA7KTnnI7mCv",
+      "trackName": "Nobody Understands Me",
+      "trackId": "3bAeGzn8BlvVReZwpaet6h",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/efd25b11f9f77c14a7a254a495c5176a3a6ca288",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Paul Keating",
+      "featuredArtistId": "0TdckdAgbh1xwcJrvRJx9N",
+      "trackName": "Nobody Understands Me",
+      "trackId": "3bAeGzn8BlvVReZwpaet6h",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/efd25b11f9f77c14a7a254a495c5176a3a6ca288",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Edward Baker-Duly",
+      "featuredArtistId": "3fJCORtMUvnsP1amDZgVl7",
+      "trackName": "Nobody Understands Me",
+      "trackId": "3bAeGzn8BlvVReZwpaet6h",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/efd25b11f9f77c14a7a254a495c5176a3a6ca288",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "David Ganly",
+      "featuredArtistId": "7AO05obaOuFSDfeh56xEvG",
+      "trackName": "Nobody Understands Me",
+      "trackId": "3bAeGzn8BlvVReZwpaet6h",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/efd25b11f9f77c14a7a254a495c5176a3a6ca288",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Hannah Waddingham",
+      "featuredArtistId": "5frdTVBdf1us1enTzY7xYB",
+      "trackName": "Nobody Understands Me",
+      "trackId": "3bAeGzn8BlvVReZwpaet6h",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/efd25b11f9f77c14a7a254a495c5176a3a6ca288",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Helen Walsh",
+      "featuredArtistId": "6JZUETcG5QXPnGSS5mSJM4",
+      "trackName": "Nobody Understands Me",
+      "trackId": "3bAeGzn8BlvVReZwpaet6h",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/efd25b11f9f77c14a7a254a495c5176a3a6ca288",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Stephen Scott",
+      "featuredArtistId": "1YXgKXo0L7UTnbjk9jVmtU",
+      "trackName": "Nobody Understands Me",
+      "trackId": "3bAeGzn8BlvVReZwpaet6h",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/efd25b11f9f77c14a7a254a495c5176a3a6ca288",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Emily Tierney",
+      "featuredArtistId": "017FM2KCAHyBcfAhHuKvnK",
+      "trackName": "Munchkinland / Ding-Dong! The Witch Is Dead",
+      "trackId": "3YHgfWTPEVeVf1y2n9xMRR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/efd25b11f9f77c14a7a254a495c5176a3a6ca288",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Sophie Evans",
+      "featuredArtistId": "1Zxr7cTbYqyskRtWSh2PR7",
+      "trackName": "Finale",
+      "trackId": "23QmDulfXW1Ie7E2RFZl3J",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/efd25b11f9f77c14a7a254a495c5176a3a6ca288",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "\"Love Never Dies\" Original London Cast",
+      "featuredArtistId": "0W70yrGv73ORtdueciPB8p",
+      "trackName": "The Coney Island Waltz - Original London Cast Recording",
+      "trackId": "1skMoXYzCxqlnkpwFXPrq9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a10b030a52d70e7e6936cf75189acae4ab451534",
+      "release_date": "2010-01-01"
+    }
+  ]
+}

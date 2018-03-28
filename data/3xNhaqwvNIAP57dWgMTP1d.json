@@ -1,0 +1,23 @@
+{
+  "artistName": "Cornelio Vega y su Dinastia",
+  "features": [
+    {
+      "featuredArtist": "Adriel Favela",
+      "featuredArtistId": "0PrhwIWbqYFYyY2ZrkIWgI",
+      "trackName": "El Problema",
+      "trackId": "1BRuE4luBAoMZJ1TQpudnb",
+      "preview": "https://p.scdn.co/mp3-preview/a10727509bd60a0987d791b40c24a5c542f303e7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e555e763b28ec157cabe963e64a18f8286da8e6e",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Luis Coronel",
+      "featuredArtistId": "5DlVR9AUTrBgXWN4wiy5aL",
+      "trackName": "Cambio de Papeles",
+      "trackId": "4LuJpxI0bNOak4DQn7Pr2O",
+      "preview": "https://p.scdn.co/mp3-preview/aa8d2675883c543fa0b31b00939a476f50d201d3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/018210b6987f0c65aab1c965391993c581d3bc58",
+      "release_date": "2018-02-16"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "artistName": "White Lies",
+  "features": [
+    {
+      "featuredArtist": "Torn",
+      "featuredArtistId": "76d165yzFwFURNTJqVDQeg",
+      "trackName": "There Goes Our Love Again - TORN Remix",
+      "trackId": "06rJ58uHI7WZlXz62sBg7J",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9f553913630e324b30595f49d5f1f2c8f1e135f6",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Walls",
+      "featuredArtistId": "7K4E5evCmGAY5vrVUpYY1T",
+      "trackName": "Bigger Than Us - Walls Hold Me Remix",
+      "trackId": "41JDlMkM92DkW5UNab60rY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/75b3859ac07622936fe93dd5bfbe3ae3cec0d011",
+      "release_date": "2011"
+    },
+    {
+      "featuredArtist": "Ethan Kath",
+      "featuredArtistId": "6iCmANq2wUSvCYMIG3F7oH",
+      "trackName": "Death - Crystal Castles Remix",
+      "trackId": "7sm88Pqnt2N90JdTRIU81F",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f6d95494ddfd4e59d773c3b1949b0553cc365028",
+      "release_date": "2009"
+    },
+    {
+      "featuredArtist": "Yuksek",
+      "featuredArtistId": "2ePIzx9NjxplS724QMZtsf",
+      "trackName": "Farewell To The Fairground - Yuksek Remix",
+      "trackId": "2RNWc4gOjm1ZtKAcSsP59U",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f6d95494ddfd4e59d773c3b1949b0553cc365028",
+      "release_date": "2009"
+    }
+  ]
+}

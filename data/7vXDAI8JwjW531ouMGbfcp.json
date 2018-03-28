@@ -1,0 +1,68 @@
+{
+  "artistName": "TINI",
+  "features": [
+    {
+      "featuredArtist": "Sebastian Yatra",
+      "featuredArtistId": "07YUOmWljBTXwIseAUd9TW",
+      "trackName": "Ya No Hay Nadie Que Nos Pare",
+      "trackId": "6c9eHvNPci0RsK8Er0QI6v",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f711c41da9af66f07d15217c83bdd2077a78a89c",
+      "release_date": "2016-10-14"
+    },
+    {
+      "featuredArtist": "Jorge Blanco",
+      "featuredArtistId": "6MWKObDGDrI3jN3Q3d9dpD",
+      "trackName": "Yo Te Amo A Ti",
+      "trackId": "578QxCzsWlrHJrXaZGOpwY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/165e9e8995dc94587d71a6df154d9db60a5f1765",
+      "release_date": "2016-04-29"
+    },
+    {
+      "featuredArtist": "MAX",
+      "featuredArtistId": "1bqxdqvUtPWZri43cKHac8",
+      "trackName": "Lights Down Low - Latin Urban Mix",
+      "trackId": "5KOVm1mD7sDAVfAIDEvrbz",
+      "preview": "https://p.scdn.co/mp3-preview/d0bc5ee1fded2e217f5ac31d8dbe8facc74ace62?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5c40f67f9f2c221340e1961f34aeb3ba5017438d",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Daneon",
+      "featuredArtistId": "31lgn9wBmL5NFehhsF1MwU",
+      "trackName": "Lights Down Low - Latin Urban Mix",
+      "trackId": "5KOVm1mD7sDAVfAIDEvrbz",
+      "preview": "https://p.scdn.co/mp3-preview/d0bc5ee1fded2e217f5ac31d8dbe8facc74ace62?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5c40f67f9f2c221340e1961f34aeb3ba5017438d",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Nacho",
+      "featuredArtistId": "2ayNSoKPCRAfjp6hQ76hRu",
+      "trackName": "Te Quiero Más",
+      "trackId": "07bKfw7BFeYOJBqIPVJRAm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3d8ddfd51b6d3c2b87169378a02740120829d33d",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Odino Faccia",
+      "featuredArtistId": "6hFoJyBrrgb02Ajs1UKIe2",
+      "trackName": "Somos el Cambio",
+      "trackId": "7KE0m8IwzMuE3GcS6HggUw",
+      "preview": "https://p.scdn.co/mp3-preview/a6244a182e084b2ca4624ec811b4c76a0fd635be?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d78b1c3165ad7a35eccd1072f321bf0d8ace9f19",
+      "release_date": "2017-07-28"
+    },
+    {
+      "featuredArtist": "Anton Powers",
+      "featuredArtistId": "7h7ahzbTkbAFsshWJ7fOrc",
+      "trackName": "Great Escape - Anton Powers Remix",
+      "trackId": "5KZULWjLTWrMpzBBCw7GK9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5e77c30f512a82433c47330cd7a55a3bddd64cd0",
+      "release_date": "2016-07-29"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "artistName": "The Everly Brothers",
+  "features": [
+    {
+      "featuredArtist": "Paul McCartney",
+      "featuredArtistId": "4STHEaNw4mPZ2tzheohgXB",
+      "trackName": "On The Wings Of A Nightingale",
+      "trackId": "5hNLAOGfuhdCCTIioKOmad",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0629206ff5c43475f3d168c493761b33df2e6a42",
+      "release_date": "1984-08-02"
+    },
+    {
+      "featuredArtist": "The Beach Boys",
+      "featuredArtistId": "3oDbviiivRWhXwIE8hxkVV",
+      "trackName": "Don't Worry Baby",
+      "trackId": "2cH31pfPLvbA6eN3AFffVN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0629206ff5c43475f3d168c493761b33df2e6a42",
+      "release_date": "1984-08-02"
+    }
+  ]
+}

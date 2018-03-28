@@ -1,0 +1,41 @@
+{
+  "artistName": "Luis Enrique",
+  "features": [
+    {
+      "featuredArtist": "Rubén Blades",
+      "featuredArtistId": "5BwMgvRwlq61SmknvsVIQj",
+      "trackName": "Ya Comenzó",
+      "trackId": "7zzG0nvuiG2ZMAbyAGVfjw",
+      "preview": "https://p.scdn.co/mp3-preview/3b258fe1639229c6b2bb37fb4ed7ce3b040097b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c6059d2798b3c1154e1b7b4bd964ac5833d8f5fb",
+      "release_date": "2017-06-12"
+    },
+    {
+      "featuredArtist": "Alex Cuba",
+      "featuredArtistId": "7gZRUp2WL6r11PXTv309P1",
+      "trackName": "Deseos",
+      "trackId": "2pb083bjCBXfJjBOgK55zG",
+      "preview": "https://p.scdn.co/mp3-preview/07bfe1c7e7eb8905289ac3dadefbb63589e51167?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/40115f47908d59ade9da9c2b4a2c6c177b46e047",
+      "release_date": "2012-06-12"
+    },
+    {
+      "featuredArtist": "Prince Royce",
+      "featuredArtistId": "3MHaV05u0io8fQbZ2XPtlC",
+      "trackName": "Sabes",
+      "trackId": "4cbN1oRopnvBUXSKblOqmH",
+      "preview": "https://p.scdn.co/mp3-preview/0d00d1582673414b3355b797d3585a1af53439ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/40115f47908d59ade9da9c2b4a2c6c177b46e047",
+      "release_date": "2012-06-12"
+    },
+    {
+      "featuredArtist": "Yuri",
+      "featuredArtistId": "4OgNARLQSC4yy7Dsa5cqxx",
+      "trackName": "Química Perfecta",
+      "trackId": "4y61DnroBSJ4D07CMGWbKh",
+      "preview": "https://p.scdn.co/mp3-preview/422e23404d9a334a14d8eff094c97479e038e341?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c6430ab3fef202c7c6ee48bfa12b9baad22c3807",
+      "release_date": "2010-10-25"
+    }
+  ]
+}

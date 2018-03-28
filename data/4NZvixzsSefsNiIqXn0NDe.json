@@ -1,0 +1,41 @@
+{
+  "artistName": "Maggie Rogers",
+  "features": [
+    {
+      "featuredArtist": "Sofi Tukker",
+      "featuredArtistId": "586uxXMyD5ObPuzjtrzO1Q",
+      "trackName": "Alaska - Sofi Tukker Remix",
+      "trackId": "6hrbuGy0XxLZb9EBmfgLnM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d69c82e0ec0f49c23b4c8e2bdd25f405fca16661",
+      "release_date": "2017-07-07"
+    },
+    {
+      "featuredArtist": "Toby Green",
+      "featuredArtistId": "7IVgVM49Z4ztdmOqOIxhvP",
+      "trackName": "Alaska - Toby Green Remix",
+      "trackId": "1S4z3fHfqPuIlWbx3fJAlp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8855c1bd2f5d1a323237503c1990e38931241c7f",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Tycho",
+      "featuredArtistId": "5oOhM2DFWab8XhSdQiITry",
+      "trackName": "Alaska - Tycho Remix",
+      "trackId": "1dxDwGeBVrXNOpO3L9c5JI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7c28f21609a5603f2aec6acb4ff49e091703f8b2",
+      "release_date": "2017-06-23"
+    },
+    {
+      "featuredArtist": "SOHN",
+      "featuredArtistId": "6XZYAWJLL8UIbxAqjKj3cg",
+      "trackName": "Alaska - SOHN Remix",
+      "trackId": "7dAJUzL8GPVqUX9zCr6s58",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e8789c24d89ad4e489c9460f86ec49e81e414c3",
+      "release_date": "2017-05-26"
+    }
+  ]
+}

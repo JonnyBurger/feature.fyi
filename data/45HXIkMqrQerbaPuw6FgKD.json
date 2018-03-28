@@ -1,0 +1,41 @@
+{
+  "artistName": "Chris Quilala",
+  "features": [
+    {
+      "featuredArtist": "Kari Jobe",
+      "featuredArtistId": "5XlSS9O4eHRiJ0hKzbaFQ2",
+      "trackName": "Surrendered",
+      "trackId": "6hIl5nRg1C0tHPrlqCgieX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d6dcac1178d2f6a7eb9c465700037720d2b84cdf",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Sarah Reeves",
+      "featuredArtistId": "2vGA5qCDLZGW6exRQgKfLL",
+      "trackName": "This I Know",
+      "trackId": "4eXt8OeRjjTmteiA6KlmUD",
+      "preview": "https://p.scdn.co/mp3-preview/65e1eab57e5a6981de6a6b52e8877a94493a5cde?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e0f82290d3097756467feb96a563f87161a18fd0",
+      "release_date": "2017-09-29"
+    },
+    {
+      "featuredArtist": "Jesus Culture",
+      "featuredArtistId": "0Onvkz1Nbs4wHXXUwOIGk8",
+      "trackName": "Halls Of Heaven - Live",
+      "trackId": "6E5LDmuOeTpFJc3rvi4ugT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8e97e6e8f9782db8a679e7a92b99ca907b4206d8",
+      "release_date": "2017-08-11"
+    },
+    {
+      "featuredArtist": "André Aquino",
+      "featuredArtistId": "6xHt6gUd0LMPtKm0XokFiq",
+      "trackName": "Ninguém Se Compara",
+      "trackId": "2BxjtmgJ7Svbi2CTyv6Akd",
+      "preview": "https://p.scdn.co/mp3-preview/ee176507c81a130b3c8b87043ba40ad05e5ea703?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f413dcfe88ea05d6385f261dabae622179fd8b24",
+      "release_date": "2016-12-10"
+    }
+  ]
+}

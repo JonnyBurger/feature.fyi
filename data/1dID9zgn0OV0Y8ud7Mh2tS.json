@@ -1,0 +1,23 @@
+{
+  "artistName": "Dustin Lynch",
+  "features": [
+    {
+      "featuredArtist": "Karen Fairchild",
+      "featuredArtistId": "3RXtieA0L2l22SWlOUMNca",
+      "trackName": "Love Me Or Leave Me Alone (feat. Karen Fairchild)",
+      "trackId": "06n8e1GbmK3b7ZHv20N8Jl",
+      "preview": "https://p.scdn.co/mp3-preview/244d6fcc7a03721222886a96656de7d1b291d8df?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be13e1979c8a3b6c509fddd02e86917bacb79639",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Tracy Lawrence",
+      "featuredArtistId": "2BQVRw9md4UKcGUrDXABCD",
+      "trackName": "Texas Tornado",
+      "trackId": "06APFovkaKPgGmAjWpFtjh",
+      "preview": "https://p.scdn.co/mp3-preview/42d03a7f644c992630b4fb6790a38e9af3119989?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/34b04d21da1af6c0916c7f1cbd079c173fb5a6df",
+      "release_date": "2017-11-10"
+    }
+  ]
+}

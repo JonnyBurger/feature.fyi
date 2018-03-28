@@ -1,0 +1,41 @@
+{
+  "artistName": "Slash",
+  "features": [
+    {
+      "featuredArtist": "Myles Kennedy And The Conspirators",
+      "featuredArtistId": "1J0FSEQhWSMHcYqaapIjY6",
+      "trackName": "Ghost - Live",
+      "trackId": "1i9BLoVMZv68iEUBNJQpS8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/31c56a1140c69a33cb306d0fdcd97233aeb19ddb",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Myles Kennedy",
+      "featuredArtistId": "2YZOQlBE1v44RxPEAVSdVR",
+      "trackName": "World On Fire",
+      "trackId": "1JHlhhxjYBpdW9pGdvbLhf",
+      "preview": "https://p.scdn.co/mp3-preview/72e4e4206a6dba1a92c51844b0cb8fdc94e48537?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4ad936acd2a78cd1e64d4dc6937ab11bde0c8e75",
+      "release_date": "2014-09-12"
+    },
+    {
+      "featuredArtist": "The Conspirators",
+      "featuredArtistId": "22qQ6645Xmd9wBFxo6NB6K",
+      "trackName": "World On Fire",
+      "trackId": "1JHlhhxjYBpdW9pGdvbLhf",
+      "preview": "https://p.scdn.co/mp3-preview/72e4e4206a6dba1a92c51844b0cb8fdc94e48537?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4ad936acd2a78cd1e64d4dc6937ab11bde0c8e75",
+      "release_date": "2014-09-12"
+    },
+    {
+      "featuredArtist": "Beth Hart",
+      "featuredArtistId": "30TrHDLNCKQVTYWOn9QqOC",
+      "trackName": "Mother Maria - feat. Beth Hart",
+      "trackId": "0ZKHxY5KYqp0WUklPW5Nnx",
+      "preview": "https://p.scdn.co/mp3-preview/fd0ab8a589a9d238c5687d4f7dbbb19115909b0b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41c72108e4b68799ad55bd18df1a5f795e22a693",
+      "release_date": "2010-05-07"
+    }
+  ]
+}

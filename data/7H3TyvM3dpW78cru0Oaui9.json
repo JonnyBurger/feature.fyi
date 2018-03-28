@@ -1,0 +1,50 @@
+{
+  "artistName": "Yonii",
+  "features": [
+    {
+      "featuredArtist": "Choukri",
+      "featuredArtistId": "2H2cZ4g0luvZNPLoJMH4s6",
+      "trackName": "Tu as compris - Choukri Remix",
+      "trackId": "5pnrgg0PH02sNJftzuyLw3",
+      "preview": "https://p.scdn.co/mp3-preview/017c5e04bf52e94842fda80ecc6bc353d0ae5ed4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/441b13762c5b9b518aaea4e525b96a1004b016d5",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Capo",
+      "featuredArtistId": "5y9wg9qkGBl0n9v9RzaPKu",
+      "trackName": "Komm wir chillen (feat. Yonii & Bausa) - Bonustrack",
+      "trackId": "4BtGQ89Xgmf9NmnFD9RBRc",
+      "preview": "https://p.scdn.co/mp3-preview/64cbb01321a1d29cbdabe560ef5e7bf22b2dcbb9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/80a6e3ee9a3b0dc506269dfed24085b6548fd598",
+      "release_date": "2017-07-07"
+    },
+    {
+      "featuredArtist": "Bausa",
+      "featuredArtistId": "13bDjug9N0pyv3ZUINjkDV",
+      "trackName": "Komm wir chillen (feat. Yonii & Bausa) - Bonustrack",
+      "trackId": "4BtGQ89Xgmf9NmnFD9RBRc",
+      "preview": "https://p.scdn.co/mp3-preview/64cbb01321a1d29cbdabe560ef5e7bf22b2dcbb9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/80a6e3ee9a3b0dc506269dfed24085b6548fd598",
+      "release_date": "2017-07-07"
+    },
+    {
+      "featuredArtist": "O.G.",
+      "featuredArtistId": "5QZJttrSLq4WJL9Vb1MgFq",
+      "trackName": "Polis",
+      "trackId": "19qDGFxpr49RehDEdEhJ25",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f66ffa8c330de562e2d6c1263d82f9b23e78a209",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Dardan",
+      "featuredArtistId": "3pjq2pDV9RR6VY55wBjVnp",
+      "trackName": "Polis",
+      "trackId": "19qDGFxpr49RehDEdEhJ25",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f66ffa8c330de562e2d6c1263d82f9b23e78a209",
+      "release_date": "2017-06-16"
+    }
+  ]
+}

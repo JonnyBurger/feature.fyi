@@ -1,0 +1,23 @@
+{
+  "artistName": "SOHN",
+  "features": [
+    {
+      "featuredArtist": "SQL",
+      "featuredArtistId": "0CVGZAPX3PoWewDyNgNyVp",
+      "trackName": "Lights - SQL Remix",
+      "trackId": "5dDVTo4alYrt7XaknvZn0S",
+      "preview": "https://p.scdn.co/mp3-preview/044b568b4750e2e1d774f7ec49db07e9187bc1e9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b785272e8ffd51ef6d5d054b87111a447e597c72",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Maggie Rogers",
+      "featuredArtistId": "4NZvixzsSefsNiIqXn0NDe",
+      "trackName": "Alaska - SOHN Remix",
+      "trackId": "7dAJUzL8GPVqUX9zCr6s58",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e8789c24d89ad4e489c9460f86ec49e81e414c3",
+      "release_date": "2017-05-26"
+    }
+  ]
+}

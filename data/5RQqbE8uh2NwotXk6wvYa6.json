@@ -1,0 +1,23 @@
+{
+  "artistName": "Ricegum",
+  "features": [
+    {
+      "featuredArtist": "Alissa Violet",
+      "featuredArtistId": "0eXDc4nH9o04fidVlbUecE",
+      "trackName": "Its Every Night Sis",
+      "trackId": "15Uxmx6D6hW0gY5kc7bpqU",
+      "preview": "https://p.scdn.co/mp3-preview/416d3a8da5ab5cfc86a0d28b8b05089197631da9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0fea9e09f5b8a3691591150cfd49e5e6edf7d206",
+      "release_date": "2017-06-09"
+    },
+    {
+      "featuredArtist": "KSI",
+      "featuredArtistId": "1nzgtKYFckznkcVMR3Gg4z",
+      "trackName": "Earthquake",
+      "trackId": "4veJxHnfgBo4BWTuXtGI3B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/84954dff3960dc1905b6043e7a2c823e61924aad",
+      "release_date": "2017-09-29"
+    }
+  ]
+}

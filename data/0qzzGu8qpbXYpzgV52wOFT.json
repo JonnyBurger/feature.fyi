@@ -1,0 +1,32 @@
+{
+  "artistName": "Bibio",
+  "features": [
+    {
+      "featuredArtist": "Gotye",
+      "featuredArtistId": "2AsusXITU8P25dlRNhcAbG",
+      "trackName": "The Way You Talk",
+      "trackId": "1V2Q2OPyqSivMbgPlJAEF7",
+      "preview": "https://p.scdn.co/mp3-preview/2fc28a81f1bd852588344782bf0f354a9c9d4ca6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f0b5ef8e740cd65c1c5d10fa788a429259719bf7",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Olivier St.Louis",
+      "featuredArtistId": "0HHMWJfJPFFuZqnv2rSsyI",
+      "trackName": "Why So Serious?",
+      "trackId": "4BJzKdCz0zMnqITMESu3b5",
+      "preview": "https://p.scdn.co/mp3-preview/9a88ce866b1c90c1bf2e9f347290bbf123751d5b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f0b5ef8e740cd65c1c5d10fa788a429259719bf7",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Wax Stag",
+      "featuredArtistId": "3tTu9Bby7dprwsoPFDlqw3",
+      "trackName": "Gasoline & Mirrors",
+      "trackId": "27D809YEzcMcPp2dItxfkL",
+      "preview": "https://p.scdn.co/mp3-preview/39d067ff1c13801aace11ff86c0dc7171d73a5a0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f0b5ef8e740cd65c1c5d10fa788a429259719bf7",
+      "release_date": "2016-04-01"
+    }
+  ]
+}

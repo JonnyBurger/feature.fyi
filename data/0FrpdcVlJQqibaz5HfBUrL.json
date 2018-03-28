@@ -1,0 +1,68 @@
+{
+  "artistName": "Rick James",
+  "features": [
+    {
+      "featuredArtist": "Teena Marie",
+      "featuredArtistId": "61UT1Zj9dFgPAjZfwnsqsb",
+      "trackName": "Fire And Desire",
+      "trackId": "7f4QUFKthZ0mq96vq6wGvd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eda4c2c37729c0fb03e2a947c1b1aa835567e55f",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "The Temptations",
+      "featuredArtistId": "3RwQ26hR2tJtA8F9p2n7jG",
+      "trackName": "Standing On The Top - Pt. 1",
+      "trackId": "3K02Gg4088OO9AB3tIsFCn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eda4c2c37729c0fb03e2a947c1b1aa835567e55f",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Smokey Robinson",
+      "featuredArtistId": "0h9smro0z3HqUbD94jotU8",
+      "trackName": "Ebony Eyes",
+      "trackId": "4yxKJ7cJZ7p3WocY1wC76s",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eda4c2c37729c0fb03e2a947c1b1aa835567e55f",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Roxanne Shante",
+      "featuredArtistId": "3r7n7y3j0nYgkPePO4p3QC",
+      "trackName": "Loosey's Rap",
+      "trackId": "6FaCa0obeZupQGi4cG3pYR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eda4c2c37729c0fb03e2a947c1b1aa835567e55f",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Grandmaster Flash",
+      "featuredArtistId": "1JfnADNz5yYEq3hrzlZHLk",
+      "trackName": "P.I.M.P. The S.I.M.P.",
+      "trackId": "7EAiZQRwMJQ8NU7Ti1LYAg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/16187845971937876be4d81b7446699c7ed2069d",
+      "release_date": "1983-08-05"
+    },
+    {
+      "featuredArtist": "Billy Dee Williams",
+      "featuredArtistId": "4HOU9gX8w9pcNf0fB3WjmB",
+      "trackName": "Tell Me (What You Want)",
+      "trackId": "37gSPokdilhKJ7okuvwzlM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/16187845971937876be4d81b7446699c7ed2069d",
+      "release_date": "1983-08-05"
+    },
+    {
+      "featuredArtist": "Levi Ruffin Jr.",
+      "featuredArtistId": "0gJVSle3CA8dp48SXwnW09",
+      "trackName": "I'm A Sucker For Your Love - 1981/Live In Long Beach, CA",
+      "trackId": "2sGsVSW0yBXeXjDJCTNzNS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/534f0f708377be4b6444c37e4c1a61a88a08f0f5",
+      "release_date": "1981-04-07"
+    }
+  ]
+}

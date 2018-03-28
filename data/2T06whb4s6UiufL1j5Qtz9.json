@@ -1,0 +1,59 @@
+{
+  "artistName": "José Alfredo Jimenez",
+  "features": [
+    {
+      "featuredArtist": "Mariachi Vargas De Tecalitlan",
+      "featuredArtistId": "0JTujDbHVqhWAGl06aaW78",
+      "trackName": "El Rey",
+      "trackId": "2ASI7k2YEAPpVWYd3QzcyE",
+      "preview": "https://p.scdn.co/mp3-preview/d6f1096543b8b69b4de08ce1a50e5ae44ed92841?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8be2fcf17dccdf405c25ab4c9a14778051b56694",
+      "release_date": "2017-01-01"
+    },
+    {
+      "featuredArtist": "Amalia Mendoza",
+      "featuredArtistId": "3zH5WktZU1xXqBZMsgV0IC",
+      "trackName": "El Silencio de la Noche",
+      "trackId": "04KagopVbt8Yf1M03bv824",
+      "preview": "https://p.scdn.co/mp3-preview/f6da3b538bd60ce9eb2a6c7e48dbeda408c7bfbe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad302bcd36216cf75a63229adea944ffeab903c2",
+      "release_date": "2014-09-02"
+    },
+    {
+      "featuredArtist": "Alicia Juarez",
+      "featuredArtistId": "2MwY1LeuAuGU4xygWhA8hT",
+      "trackName": "Las Coplas:",
+      "trackId": "0cfY46tg9z8CV94FrpiTyR",
+      "preview": "https://p.scdn.co/mp3-preview/9dbe333ce3140ca38402439e52d563e86ffa4a14?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad302bcd36216cf75a63229adea944ffeab903c2",
+      "release_date": "2014-09-02"
+    },
+    {
+      "featuredArtist": "Armando Manzanero",
+      "featuredArtistId": "5lODCkFdEtpPn3YxfmyLfT",
+      "trackName": "La Media Vuelta",
+      "trackId": "5MasrUc08vyc1lHJufaQP4",
+      "preview": "https://p.scdn.co/mp3-preview/0f46f9f9ecd047978f8efe1295ef2de85b9a5c2a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/418d423c812019a476e924d69472aba54d114954",
+      "release_date": "2012-09-10"
+    },
+    {
+      "featuredArtist": "Marco Antonio Muñiz",
+      "featuredArtistId": "4BLAYO57LtkaZ6odOdWmGc",
+      "trackName": "Ella",
+      "trackId": "2BJCrYApbmOknTFssUp89H",
+      "preview": "https://p.scdn.co/mp3-preview/dc085d22aa2396899d5a25c6c4b5ff59b7e1bf7b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/418d423c812019a476e924d69472aba54d114954",
+      "release_date": "2012-09-10"
+    },
+    {
+      "featuredArtist": "Hermanas Huerta",
+      "featuredArtistId": "1hU5wdiWeIWv4fBklDgta1",
+      "trackName": "Adiós a Pedro Infante",
+      "trackId": "76pALJeyAgmlu0XLZDMXrh",
+      "preview": "https://p.scdn.co/mp3-preview/a7d887ffeea16da02c52b7b11c634db9cf0c67a7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/90df9795f6801c3b95c62d1fac06f17448541dba",
+      "release_date": "2012-03-30"
+    }
+  ]
+}

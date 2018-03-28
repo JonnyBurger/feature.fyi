@@ -1,0 +1,23 @@
+{
+  "artistName": "Javier Solís",
+  "features": [
+    {
+      "featuredArtist": "Rocío Dúrcal",
+      "featuredArtistId": "2uyweLa0mvPZH6eRzDddeB",
+      "trackName": "Sombras Nada Más",
+      "trackId": "2WgVu3h5DM6MnjXRw3n91c",
+      "preview": "https://p.scdn.co/mp3-preview/2a3d8aea4e5d8d67677aed807b09f3ed1f9bd66d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a16d89f6f4e2018dfc9d78af95c9c27e8b1879ae",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Los Panchos",
+      "featuredArtistId": "3Ker27Wbb9OcUHGs54JIAz",
+      "trackName": "La Corriente",
+      "trackId": "3DoBRqBCNASS3sIhcteJ9A",
+      "preview": "https://p.scdn.co/mp3-preview/549b0317c805710d4e5084b20eabd9f0a983de25?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a16d89f6f4e2018dfc9d78af95c9c27e8b1879ae",
+      "release_date": "2017-03-24"
+    }
+  ]
+}

@@ -1,0 +1,545 @@
+{
+  "artistName": "WWE",
+  "features": [
+    {
+      "featuredArtist": "Jim Johnston",
+      "featuredArtistId": "6irRU9KRGb0cMtlsBZMg2i",
+      "trackName": "Enforcer (Brock Lesnar)",
+      "trackId": "1XieZKvcXhYfPPJlH1gcK4",
+      "preview": "https://p.scdn.co/mp3-preview/92767ba4d3e6251965131cea4960255a176fbcfe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/25f19617352a1654683adc3732faf9d0750c804b",
+      "release_date": "2017-11-20"
+    },
+    {
+      "featuredArtist": "Shaman's Harvest",
+      "featuredArtistId": "3pigXV2QUatr3szcb3MacR",
+      "trackName": "And Then There Was Darkness (WrestleMania 31) [feat. Shaman’s Harvest]",
+      "trackId": "2x4N4WFdyS3CUl9D60GF33",
+      "preview": "https://p.scdn.co/mp3-preview/74c24559bb32cb8421e2198861afa6af468a6a83?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b7496f0efa41dcd27b9627e9684728e7506426ec",
+      "release_date": "2017-03-21"
+    },
+    {
+      "featuredArtist": "Moccasin Creek",
+      "featuredArtistId": "0NbK6zi0udNSXMzL7Ekq5T",
+      "trackName": "Take You to Your Grave (Undertaker Tribute)",
+      "trackId": "7rpg8qLeATFacC75SOv94i",
+      "preview": "https://p.scdn.co/mp3-preview/3fc19b2b2c670c9e20bb960015af8ecc5d52be67?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/53628d64592855e454e23e05dbebf4153139caed",
+      "release_date": "2016-03-20"
+    },
+    {
+      "featuredArtist": "Jimmy Hart",
+      "featuredArtistId": "5d5bwgq0cJQt4hpqiO0Bhh",
+      "trackName": "What a Rush (Legion of Doom)",
+      "trackId": "32drbTH7nHJqEN1Oph96z0",
+      "preview": "https://p.scdn.co/mp3-preview/8d9ea629610d87a7f1df24d71161a846c29e5e96?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a5d42ddef1a1fa1d2fb077caafcf48f4978855ec",
+      "release_date": "2015-03-17"
+    },
+    {
+      "featuredArtist": "JJ Maguire",
+      "featuredArtistId": "4FTx4jXfePAqUCG1CljnEt",
+      "trackName": "What a Rush (Legion of Doom)",
+      "trackId": "32drbTH7nHJqEN1Oph96z0",
+      "preview": "https://p.scdn.co/mp3-preview/8d9ea629610d87a7f1df24d71161a846c29e5e96?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a5d42ddef1a1fa1d2fb077caafcf48f4978855ec",
+      "release_date": "2015-03-17"
+    },
+    {
+      "featuredArtist": "Rick Derringer",
+      "featuredArtistId": "1FX4aA0cUcWndv39j1YoTm",
+      "trackName": "Demolition",
+      "trackId": "6mtyv5aITb6NYfWglAxCK1",
+      "preview": "https://p.scdn.co/mp3-preview/c470e4ff94d6c2ed5cfcb8f9bf32fe2c122d5c58?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a5d42ddef1a1fa1d2fb077caafcf48f4978855ec",
+      "release_date": "2015-03-17"
+    },
+    {
+      "featuredArtist": "Sensational Sherri",
+      "featuredArtistId": "7i8hcL6eLzMghtrdIyakCs",
+      "trackName": "Sexy Boy (Shawn Michaels)",
+      "trackId": "080RhrqOw7b1WVXJlho6Ix",
+      "preview": "https://p.scdn.co/mp3-preview/8d8cfb9ac07da6d4c8132d34612c556c6a373199?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a5d42ddef1a1fa1d2fb077caafcf48f4978855ec",
+      "release_date": "2015-03-17"
+    },
+    {
+      "featuredArtist": "Kim Sozzi",
+      "featuredArtistId": "6cShe1zppIq5AZM53qQTE6",
+      "trackName": "You Can Look (But You Can't Touch) [The Bella Twins]",
+      "trackId": "1pO8bFFDdSYxq9owUj1oCP",
+      "preview": "https://p.scdn.co/mp3-preview/32d2109a6004a4a694403915741fa691fe186970?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0ba7460da2b76cb12c0a7609e5d96c94b82aeeb6",
+      "release_date": "2015-03-06"
+    },
+    {
+      "featuredArtist": "CFO$",
+      "featuredArtistId": "4aemlCxfmvFjJa8YKvaiJI",
+      "trackName": "#GirlBye (Cameron)",
+      "trackId": "5PJpEpLirFq1lucVdXoNBh",
+      "preview": "https://p.scdn.co/mp3-preview/6451d09a564214eccad3a5f293ef92ae68ea84a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0ba7460da2b76cb12c0a7609e5d96c94b82aeeb6",
+      "release_date": "2015-03-06"
+    },
+    {
+      "featuredArtist": "Naomi",
+      "featuredArtistId": "2DnoGZ8VzNymIuu8wc5ed1",
+      "trackName": "Somebody Call My Momma",
+      "trackId": "5SVI6v1FEHZL1RpnpyhHCE",
+      "preview": "https://p.scdn.co/mp3-preview/f1862479441cb9084f3e611ff34278b809fdf88c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0ba7460da2b76cb12c0a7609e5d96c94b82aeeb6",
+      "release_date": "2015-03-06"
+    },
+    {
+      "featuredArtist": "Howard Helm",
+      "featuredArtistId": "6Sx1Oid1HVfQDJlIcJah3J",
+      "trackName": "Wolfpac (nWo Wolfpac)",
+      "trackId": "238M15wsM7HA8YETTm8QGP",
+      "preview": "https://p.scdn.co/mp3-preview/c3e73631c823a3846f31c0efe97d8fde8b5e7ef7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8a0eb3fe51ad0c8d6b9bc3d2d21c5d610c0c36d4",
+      "release_date": "2014-04-01"
+    },
+    {
+      "featuredArtist": "C-Murder",
+      "featuredArtistId": "4135eJjHCRw5SuVzLfzR0x",
+      "trackName": "Wolfpac (nWo Wolfpac)",
+      "trackId": "238M15wsM7HA8YETTm8QGP",
+      "preview": "https://p.scdn.co/mp3-preview/c3e73631c823a3846f31c0efe97d8fde8b5e7ef7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8a0eb3fe51ad0c8d6b9bc3d2d21c5d610c0c36d4",
+      "release_date": "2014-04-01"
+    },
+    {
+      "featuredArtist": "The Nasty Boys",
+      "featuredArtistId": "1B6PY4VnChDBZrlYisk5BR",
+      "trackName": "Nasty Sensation",
+      "trackId": "7Iuk4dQKeZyOZYy1PebJzW",
+      "preview": "https://p.scdn.co/mp3-preview/49b035587eb0190080682f77baec28bcbed81b99?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8a0eb3fe51ad0c8d6b9bc3d2d21c5d610c0c36d4",
+      "release_date": "2014-04-01"
+    },
+    {
+      "featuredArtist": "Rev Theory",
+      "featuredArtistId": "10n5DVRlZbjbZ5ffpwpn6l",
+      "trackName": "Voices (Randy Orton) [feat. Rev Theory]",
+      "trackId": "5g05acaiOk6ZeE7ID0Amw2",
+      "preview": "https://p.scdn.co/mp3-preview/4cbf0cb5689bacc796019c5feafad9aa6ae41461?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d377f807dd8aa058a93d83bf3ef877ae01efbf44",
+      "release_date": "2014-01-26"
+    },
+    {
+      "featuredArtist": "Dice Raw",
+      "featuredArtistId": "7df4aW2MDoNsEhmJ2NRoro",
+      "trackName": "Kung Fu San (Kung Fu Naki)",
+      "trackId": "0g6KypTus2sn7CntmnQxyw",
+      "preview": "https://p.scdn.co/mp3-preview/2198effccbc7d7fc3e9a09d3472240365764ab76?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d377f807dd8aa058a93d83bf3ef877ae01efbf44",
+      "release_date": "2014-01-26"
+    },
+    {
+      "featuredArtist": "Desiree Jackson",
+      "featuredArtistId": "1dYaR2TQolf7q5rUuVGqGD",
+      "trackName": "Holla (Kelly Kelly)",
+      "trackId": "1cPmxrSHtjjehyxF5Eymzw",
+      "preview": "https://p.scdn.co/mp3-preview/1927d9318d7dc59a55da8c9a1df7e2a72a28fbed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d377f807dd8aa058a93d83bf3ef877ae01efbf44",
+      "release_date": "2014-01-26"
+    },
+    {
+      "featuredArtist": "R Truth",
+      "featuredArtistId": "1cnlVim2CFNHUuWiaSuga5",
+      "trackName": "What's up? (R-Truth)",
+      "trackId": "22pw4ufqnQcc4tHjMToq20",
+      "preview": "https://p.scdn.co/mp3-preview/1bb79b38eaeb7c1746862abfe5df935adf54fbc2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d377f807dd8aa058a93d83bf3ef877ae01efbf44",
+      "release_date": "2014-01-26"
+    },
+    {
+      "featuredArtist": "Panjabi MC",
+      "featuredArtistId": "74D1UgRzMhTSPz698exXmR",
+      "trackName": "Land of Five Rivers (The Great Khali)",
+      "trackId": "1C6nAWE8zCszB0QSlm0wW2",
+      "preview": "https://p.scdn.co/mp3-preview/fa98019262b4c91f452af73c486f6c46e35b611f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d377f807dd8aa058a93d83bf3ef877ae01efbf44",
+      "release_date": "2014-01-26"
+    },
+    {
+      "featuredArtist": "Age Against The Machine",
+      "featuredArtistId": "0OPyWLl8yNY1M41Nl943Lu",
+      "trackName": "Get on Your Knees (Jack Swagger)",
+      "trackId": "6wrP7AWnOhEtL11rJxuynp",
+      "preview": "https://p.scdn.co/mp3-preview/180a9c63270d1de6e19dd16129ebc0bec87b1bee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d377f807dd8aa058a93d83bf3ef877ae01efbf44",
+      "release_date": "2014-01-26"
+    },
+    {
+      "featuredArtist": "Three 6 Mafia",
+      "featuredArtistId": "26s8LSolLfCIY88ysQbIuT",
+      "trackName": "Some Bodies Gonna Get It (Mark Henry)",
+      "trackId": "7MciVSDgL3wX4hNvRiJpNf",
+      "preview": "https://p.scdn.co/mp3-preview/e2e23b654aa75d822d232099af723989a27e666b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/77b15b715af8faea976a1f010641ea38fe076915",
+      "release_date": "2013-04-02"
+    },
+    {
+      "featuredArtist": "Mariachi Real De Mexico",
+      "featuredArtistId": "7F6NcNPvsfWVUtRacJmwcB",
+      "trackName": "Realeza (Alberto Del Rio)",
+      "trackId": "0rtpXgUnxjjTwUuDbxfWRL",
+      "preview": "https://p.scdn.co/mp3-preview/463fe45a020cee5ce990d4af1e8471503ea35dd4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/77b15b715af8faea976a1f010641ea38fe076915",
+      "release_date": "2013-04-02"
+    },
+    {
+      "featuredArtist": "Downstait",
+      "featuredArtistId": "4g6EnIPhmYBTZ7vsmxDkxH",
+      "trackName": "I Came to Play (The Miz)",
+      "trackId": "1xiIfs0fOLLmnPkP3ubjfJ",
+      "preview": "https://p.scdn.co/mp3-preview/c8c8b1e59a023e434007dc0bd7a0d3611c6ab9e3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/77b15b715af8faea976a1f010641ea38fe076915",
+      "release_date": "2013-04-02"
+    },
+    {
+      "featuredArtist": "American Fangs",
+      "featuredArtistId": "40pw8ziJR5yalt1HyrqZUA",
+      "trackName": "Just Don't Care Anymore (Wade Barrett)",
+      "trackId": "6Wy49cm0qfYSOUv8IOh9M3",
+      "preview": "https://p.scdn.co/mp3-preview/7358e4af980cbfcb19995963a836e9126503bfde?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/77b15b715af8faea976a1f010641ea38fe076915",
+      "release_date": "2013-04-02"
+    },
+    {
+      "featuredArtist": "Kari Kimmel",
+      "featuredArtistId": "6w5nIAeqFbZa9qssSwPsyn",
+      "trackName": "Let's Light It up (AJ Lee)",
+      "trackId": "5D3a3lsgr64Z58OmK2Gggs",
+      "preview": "https://p.scdn.co/mp3-preview/6bc0b07e9189be80e09eefd5f038bcfe6b0d7a64?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/77b15b715af8faea976a1f010641ea38fe076915",
+      "release_date": "2013-04-02"
+    },
+    {
+      "featuredArtist": "Brand New Sin",
+      "featuredArtistId": "5PPx7hRSYRYD2A7KPS7QoZ",
+      "trackName": "Crank It up (Big Show)",
+      "trackId": "7tNquQ1z4E1YjZNNGxsIy6",
+      "preview": "https://p.scdn.co/mp3-preview/c145178df395f43df0b37d11868055fea87dd562?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/77b15b715af8faea976a1f010641ea38fe076915",
+      "release_date": "2013-04-02"
+    },
+    {
+      "featuredArtist": "Sean Jenness",
+      "featuredArtistId": "1jJKwjqxBLMq6Ewbw5dfkJ",
+      "trackName": "Written in My Face (Sheamus)",
+      "trackId": "6KTzHclOhqWwyp6wXtlPGa",
+      "preview": "https://p.scdn.co/mp3-preview/bde6b8ebdc2e517657cca351eca9b40ee5b98c89?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/77b15b715af8faea976a1f010641ea38fe076915",
+      "release_date": "2013-04-02"
+    },
+    {
+      "featuredArtist": "Motörhead",
+      "featuredArtistId": "1DFr97A9HnbV3SKTJFu62M",
+      "trackName": "The Game (Triple H)",
+      "trackId": "5iYQrQINirrgPycWWnKBaj",
+      "preview": "https://p.scdn.co/mp3-preview/4f5d0970018807d896d625861040a0483bbc6823?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/77b15b715af8faea976a1f010641ea38fe076915",
+      "release_date": "2013-04-02"
+    },
+    {
+      "featuredArtist": "John Cena",
+      "featuredArtistId": "0CV4DAO1wV3ikZGYIkMtmh",
+      "trackName": "The Time Is Now (John Cena)",
+      "trackId": "4rUuanKJphrXkijshlCoUC",
+      "preview": "https://p.scdn.co/mp3-preview/20efc7ec15500222971300a95d74c48577b999e4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/77b15b715af8faea976a1f010641ea38fe076915",
+      "release_date": "2013-04-02"
+    },
+    {
+      "featuredArtist": "Tha Trademarc",
+      "featuredArtistId": "1bPFOqvoGk96MUHVGc6f1f",
+      "trackName": "The Time Is Now (John Cena)",
+      "trackId": "4rUuanKJphrXkijshlCoUC",
+      "preview": "https://p.scdn.co/mp3-preview/20efc7ec15500222971300a95d74c48577b999e4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/77b15b715af8faea976a1f010641ea38fe076915",
+      "release_date": "2013-04-02"
+    },
+    {
+      "featuredArtist": "The WWE Superstars & Slam Jam",
+      "featuredArtistId": "5ZQVXKCL3MZDlgnpsFT2tF",
+      "trackName": "We're All Together Now (The WWE Superstars & Slam Jam)",
+      "trackId": "3AX0baolY2cTMlVLkNtYWf",
+      "preview": "https://p.scdn.co/mp3-preview/a99b84a7239cdfb06a84bfecb050d22ac7cafef2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e4bc76e3f1d94bd304a10ebb2bb4e928e274432",
+      "release_date": "2012-07-16"
+    },
+    {
+      "featuredArtist": "Beta Wolf",
+      "featuredArtistId": "3l5qDQ3KBsfJP15SocQ9jI",
+      "trackName": "I Am Perfection (Dolph Ziggler) [Bonus Track]",
+      "trackId": "7pcgwIjfpmaHQSH0nuyB1Q",
+      "preview": "https://p.scdn.co/mp3-preview/86cb44b79e9178f14287c27124e03a6305ea83d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cee209324eb4cab62b25657f6a9e31c2dc03167d",
+      "release_date": "2012-07-16"
+    },
+    {
+      "featuredArtist": "H-Blockx",
+      "featuredArtistId": "1V3Nl0Y3EZwqP38KHws6vB",
+      "trackName": "Oh Hell Yea (Stone Cold Steve Austin)",
+      "trackId": "6BSJ5sm1cm4x6cXF2lkQYc",
+      "preview": "https://p.scdn.co/mp3-preview/06c8a557ef2db31f3316f7876b9c7027e794fa2d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6023cc4c223f0f07b3d90095df09666ba1fd85f3",
+      "release_date": "2012-07-16"
+    },
+    {
+      "featuredArtist": "Slick Rick",
+      "featuredArtistId": "1W9qOBYRTfP7HcizWN43G1",
+      "trackName": "Pie (The Rock)",
+      "trackId": "7FPfds7qARMLyH0xub7Wgu",
+      "preview": "https://p.scdn.co/mp3-preview/34704790168b3a4f19e0067a968c28789783d8ae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b002be6c9af38d85ff3dcf2f77e5705b3280d913",
+      "release_date": "2012-07-13"
+    },
+    {
+      "featuredArtist": "Flatfoot 56",
+      "featuredArtistId": "7eQrNqwmiIvFKEMvHRvPLB",
+      "trackName": "Written in My Face (Sheamus) [Bonus Track]",
+      "trackId": "66V2kS0uLHz5Sb9uZ6azaD",
+      "preview": "https://p.scdn.co/mp3-preview/7af350b4370caf1c554861a34cc2d4a6bc2e4c00?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b002be6c9af38d85ff3dcf2f77e5705b3280d913",
+      "release_date": "2012-07-13"
+    },
+    {
+      "featuredArtist": "Bedlam's Gate",
+      "featuredArtistId": "7n4vsaWimkiNYDrcBKF2Y1",
+      "trackName": "Just Close Your Eyes (Christian)",
+      "trackId": "5EWPwF2YE1uPYNxhAgFmFv",
+      "preview": "https://p.scdn.co/mp3-preview/58563348e74959d59ed2b72c0127aab133a8dfcd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9e036e253ac450e5c1aff673bfbfb0ede3abe77",
+      "release_date": "2012-03-25"
+    },
+    {
+      "featuredArtist": "Prince Michael",
+      "featuredArtistId": "2WxSFTHMbOoDDtNIYbaXiO",
+      "trackName": "Fist (DX With Mike Tyson)",
+      "trackId": "3WACLEYgQV0zxABb2PM0Yy",
+      "preview": "https://p.scdn.co/mp3-preview/3fb433c297b48b6022845efc9a17cd1fb6052fd4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9e036e253ac450e5c1aff673bfbfb0ede3abe77",
+      "release_date": "2012-03-25"
+    },
+    {
+      "featuredArtist": "David Dallas",
+      "featuredArtistId": "6ENAap6kOirsqATazyWBEP",
+      "trackName": "So Close Now (The Usos)",
+      "trackId": "2jv4FmupIq3lLHCuhJxRgx",
+      "preview": "https://p.scdn.co/mp3-preview/ff1ad5d5128b5a8f0cdd8faf617333cae168c462?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9e036e253ac450e5c1aff673bfbfb0ede3abe77",
+      "release_date": "2012-03-25"
+    },
+    {
+      "featuredArtist": "Adelitas Way",
+      "featuredArtistId": "1ZjAT2nTrzDIXFfsQ2hWJk",
+      "trackName": "It's A New Day (The Legacy)",
+      "trackId": "2OpxaYcVjJNdKMOeKtZdnJ",
+      "preview": "https://p.scdn.co/mp3-preview/52756d6f7ce2f0d110563fb5cdea1deb79ec23c2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dadce3031b6900fd8cb86d109ec4e849cafcec49",
+      "release_date": "2010-01-28"
+    },
+    {
+      "featuredArtist": "Cage9",
+      "featuredArtistId": "4nku1C0kzbBVhdflAwyTfO",
+      "trackName": "I Am Perfection (Dolph Ziggler)",
+      "trackId": "5YA9TUx4HyQieMIkfjMh1i",
+      "preview": "https://p.scdn.co/mp3-preview/4daa7948acd8cee7a67e3176ad704e9148e21516?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dadce3031b6900fd8cb86d109ec4e849cafcec49",
+      "release_date": "2010-01-28"
+    },
+    {
+      "featuredArtist": "Story Of The Year",
+      "featuredArtistId": "0KDuKk6YdEu3hR56HtXmxt",
+      "trackName": "Just Close Your Eyes (Christian)",
+      "trackId": "76RksvwSv7RUYM16AAtbFu",
+      "preview": "https://p.scdn.co/mp3-preview/5e024a0272b42c4855b7e960fa6ed234d9b792b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dadce3031b6900fd8cb86d109ec4e849cafcec49",
+      "release_date": "2010-01-28"
+    },
+    {
+      "featuredArtist": "Patsy Grime",
+      "featuredArtistId": "18fGlzycFL0ly2HRigoYOS",
+      "trackName": "Insatiable (Tiffany)",
+      "trackId": "3HOHkcoISTTJfKgUtQuxhS",
+      "preview": "https://p.scdn.co/mp3-preview/9f94183ea64791eb424b1a4e94be7fa755484e0c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dadce3031b6900fd8cb86d109ec4e849cafcec49",
+      "release_date": "2010-01-28"
+    },
+    {
+      "featuredArtist": "Evan Jones",
+      "featuredArtistId": "55On5hH8k2xLXUQPX0BJBh",
+      "trackName": "Domination (Ezekiel Jackson)",
+      "trackId": "0JxRScfSfNJo4ExNB00Oej",
+      "preview": "https://p.scdn.co/mp3-preview/3868203ea735247377326364cb711eeff8a5543b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dadce3031b6900fd8cb86d109ec4e849cafcec49",
+      "release_date": "2010-01-28"
+    },
+    {
+      "featuredArtist": "Mutiny Within",
+      "featuredArtistId": "4DwtbMRUsK4JVU0Ts7pVwd",
+      "trackName": "Born To Win (Evan Bourne)",
+      "trackId": "4IZoBT5NXiya70JDPlDsoG",
+      "preview": "https://p.scdn.co/mp3-preview/a8346fb6e19fa3377c24dca4ab8225aab7b0a09a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dadce3031b6900fd8cb86d109ec4e849cafcec49",
+      "release_date": "2010-01-28"
+    },
+    {
+      "featuredArtist": "Vinny & Ray",
+      "featuredArtistId": "6CSocoxlkAiOSzcqf7iwC8",
+      "trackName": "Oh Puerto Rico (Primo)",
+      "trackId": "3CGDVccxrC1cxchVafAgg7",
+      "preview": "https://p.scdn.co/mp3-preview/017c73e932059d9b62295eff66ae501b4ca26af1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dadce3031b6900fd8cb86d109ec4e849cafcec49",
+      "release_date": "2010-01-28"
+    },
+    {
+      "featuredArtist": "Marlyn Jimenez",
+      "featuredArtistId": "5npT7fYuAp70AQhMju5CnA",
+      "trackName": "Oh Puerto Rico (Primo)",
+      "trackId": "3CGDVccxrC1cxchVafAgg7",
+      "preview": "https://p.scdn.co/mp3-preview/017c73e932059d9b62295eff66ae501b4ca26af1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dadce3031b6900fd8cb86d109ec4e849cafcec49",
+      "release_date": "2010-01-28"
+    },
+    {
+      "featuredArtist": "Watt White",
+      "featuredArtistId": "6Os3fHAI2Fma2UzTD91RU8",
+      "trackName": "Radio (Zack Ryder)",
+      "trackId": "1ZmAQez0B5e9DXlCPZaaZX",
+      "preview": "https://p.scdn.co/mp3-preview/00ab70d9589b61775df02258b50a2d03b61f23b0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dadce3031b6900fd8cb86d109ec4e849cafcec49",
+      "release_date": "2010-01-28"
+    },
+    {
+      "featuredArtist": "Jimi Bell",
+      "featuredArtistId": "7hLJ9kAUq0uRPyC3fn6GqQ",
+      "trackName": "New Foundation (The Hart Dynasty)",
+      "trackId": "10PBRfIxw8uim69kUL2ETr",
+      "preview": "https://p.scdn.co/mp3-preview/0848d1b52d9aa30e1b8900c32f34dd07ed077d8c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dadce3031b6900fd8cb86d109ec4e849cafcec49",
+      "release_date": "2010-01-28"
+    },
+    {
+      "featuredArtist": "Maylene And The Sons Of Disaster",
+      "featuredArtistId": "5qSQDLG1CdotFh8eWhm7yT",
+      "trackName": "Crank The Walls Down (The Big Show / Chris Jericho)",
+      "trackId": "51unVd02YTbrc2pxaFdeXB",
+      "preview": "https://p.scdn.co/mp3-preview/45e10abcad7c4937810e8865f514a8f9e127576b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dadce3031b6900fd8cb86d109ec4e849cafcec49",
+      "release_date": "2010-01-28"
+    },
+    {
+      "featuredArtist": "David Church",
+      "featuredArtistId": "46vBQK9cPavcz6uZlDM7nZ",
+      "trackName": "Gonna Punch Someone Tonight (Jimmy Wang Yang)",
+      "trackId": "2jvtdN9R2ghUmd2uWgy2LM",
+      "preview": "https://p.scdn.co/mp3-preview/a5e884e0af6a59bcd122c93135334b26f8e73782?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95f34039bbcb5f1ee5296cfb4d933081b1860176",
+      "release_date": "2007-04-03"
+    },
+    {
+      "featuredArtist": "Saliva",
+      "featuredArtistId": "5S6hjAxgxjsLylsTtMIimO",
+      "trackName": "I Walk Alone (Batista)",
+      "trackId": "3cyX3DY6dvKJjYTvjB3d2Q",
+      "preview": "https://p.scdn.co/mp3-preview/2d933f6474345c8af7e164356f30f450d0fc1309?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c102ffce88f188f2ca17de4fe20b952a6330001",
+      "release_date": "2006-05-23"
+    },
+    {
+      "featuredArtist": "Mercy Drive",
+      "featuredArtistId": "1Kr4H9ICyxG2OvW8dk0jow",
+      "trackName": "Burn In My Light (Randy Orton)",
+      "trackId": "6tKUiAAwCZIVJMeLQDVor3",
+      "preview": "https://p.scdn.co/mp3-preview/d809144a7a61be8bc624664a44a80c1d2ec40590?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c102ffce88f188f2ca17de4fe20b952a6330001",
+      "release_date": "2006-05-23"
+    },
+    {
+      "featuredArtist": "Homebwoi",
+      "featuredArtistId": "7m6jpo2SfoIToSZuEhRmkR",
+      "trackName": "Hard Hittin' (Coach)",
+      "trackId": "0197FGwjSMuKoCEnyRxqMv",
+      "preview": "https://p.scdn.co/mp3-preview/3b2c8ed546bb99d383e68c14cf31f3c4f362066b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c102ffce88f188f2ca17de4fe20b952a6330001",
+      "release_date": "2006-05-23"
+    },
+    {
+      "featuredArtist": "Eleventh Hour",
+      "featuredArtistId": "4fMExVWLuARY6HyqCIk4sF",
+      "trackName": "A Girl Like That (Torrie Wilson)",
+      "trackId": "1bXdiv3otghcRCbQ0J1XR7",
+      "preview": "https://p.scdn.co/mp3-preview/fd68306e5e69a1b6f7980a4b511f5c9fe2efc98f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c102ffce88f188f2ca17de4fe20b952a6330001",
+      "release_date": "2006-05-23"
+    },
+    {
+      "featuredArtist": "Kaballon",
+      "featuredArtistId": "1Or0OWBmDLN4RSVRPo80Ws",
+      "trackName": "Quien Soy Yo / Who Am I (Carlito)",
+      "trackId": "3oFrL8XJD7ERKTqYg9erL3",
+      "preview": "https://p.scdn.co/mp3-preview/2a0ec7035b6e66160785b8c375c64b3dea8dba85?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c102ffce88f188f2ca17de4fe20b952a6330001",
+      "release_date": "2006-05-23"
+    },
+    {
+      "featuredArtist": "Theory of a Deadman",
+      "featuredArtistId": "74eX4C98E4FCrAMl39qRsJ",
+      "trackName": "Deadly Game",
+      "trackId": "4Zy2bNrQPkZtKQLPamILsY",
+      "preview": "https://p.scdn.co/mp3-preview/aae6a97106c4d5f4f309ed95d21bf25ada6a4994?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c102ffce88f188f2ca17de4fe20b952a6330001",
+      "release_date": "2006-05-23"
+    },
+    {
+      "featuredArtist": "Silkk The Shocker",
+      "featuredArtistId": "0iEVT8dLNSSmipPOrDGu2z",
+      "trackName": "I'm Comin' (M.V.P.)",
+      "trackId": "05BCHTp8SWJFmXGNTdvujK",
+      "preview": "https://p.scdn.co/mp3-preview/e904062e02f9c825058796bec9534ad439b0ea3f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c102ffce88f188f2ca17de4fe20b952a6330001",
+      "release_date": "2006-05-23"
+    },
+    {
+      "featuredArtist": "Shadows Fall",
+      "featuredArtistId": "1HaiS1sFo8qkc6tF5Mw1M0",
+      "trackName": "Fury Of The Storm (Rob Van Dam)",
+      "trackId": "06vryebLYvn008BLybks9z",
+      "preview": "https://p.scdn.co/mp3-preview/3fb20790557917227996ad149d7b0d893ab485be?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c102ffce88f188f2ca17de4fe20b952a6330001",
+      "release_date": "2006-05-23"
+    },
+    {
+      "featuredArtist": "zebrahead",
+      "featuredArtistId": "6SiyKSeJo6gcsS2NvuAbsl",
+      "trackName": "With Legs Like That (Maria)",
+      "trackId": "37WKcLIJyGNQKBwaYAKVkx",
+      "preview": "https://p.scdn.co/mp3-preview/e84ef83559813f288f2c5e7e64bd15e3a122ecbb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c102ffce88f188f2ca17de4fe20b952a6330001",
+      "release_date": "2006-05-23"
+    },
+    {
+      "featuredArtist": "Killswitch Engage",
+      "featuredArtistId": "37394IP6uhnjIpsawpMu4l",
+      "trackName": "This Fire Burns (CM Punk)",
+      "trackId": "0pLS9mButO9qmqcNgoFthv",
+      "preview": "https://p.scdn.co/mp3-preview/92c612f2cdb5bb8249aa088580f6bcfa0771216c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c102ffce88f188f2ca17de4fe20b952a6330001",
+      "release_date": "2006-05-23"
+    },
+    {
+      "featuredArtist": "P.O.D.",
+      "featuredArtistId": "6KO6G41BBLTDNYOLefWTMU",
+      "trackName": "Booyaka 619 (Rey Mysterio)",
+      "trackId": "1LGv7oHSOGKzpkY3Z8pzc3",
+      "preview": "https://p.scdn.co/mp3-preview/3e8757ad5bce62a1adb6d3eed8d702c7762cd6d3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c102ffce88f188f2ca17de4fe20b952a6330001",
+      "release_date": "2006-05-23"
+    }
+  ]
+}

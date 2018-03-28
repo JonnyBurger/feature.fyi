@@ -1,0 +1,23 @@
+{
+  "artistName": "Kristian Stanfill",
+  "features": [
+    {
+      "featuredArtist": "Passion",
+      "featuredArtistId": "6piIAIurGAryW5h1rqQC16",
+      "trackName": "Glorious Day - Live",
+      "trackId": "3xh98oiJrY6fQLQpH4hE2P",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/14532924c551af5d278abf7f85cf5bda37dd6e9a",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Melodie Malone",
+      "featuredArtistId": "0ex9uIrMyFOJ64RCl0yuB3",
+      "trackName": "God, You’re So Good - Live",
+      "trackId": "3AHWbUsTaYecnT4aTEU0ut",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/af89a5868da6f65b46515ca2ba18d0cfc92e4593",
+      "release_date": "2018-02-23"
+    }
+  ]
+}

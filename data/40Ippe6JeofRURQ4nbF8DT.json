@@ -1,0 +1,41 @@
+{
+  "artistName": "Taburete",
+  "features": [
+    {
+      "featuredArtist": "Hombres G",
+      "featuredArtistId": "60uh2KYYSCqAgJNxcU4DA0",
+      "trackName": "Amos del Piano Bar",
+      "trackId": "6rwCR5oewsw6TnKL2I4GnR",
+      "preview": "https://p.scdn.co/mp3-preview/efdc03452f21b55e0c8ed85a97379aafd15c9968?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cb13c83893c134b037bc2240fddb5a9fed35b5da",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Camila Mayor",
+      "featuredArtistId": "0q5hllRooyb7Mab7YfB04k",
+      "trackName": "Hijos del Soul",
+      "trackId": "3uhWGraVrg4eekzwLkW18y",
+      "preview": "https://p.scdn.co/mp3-preview/d8985a3716babf866c6f8703460f139a48275c85?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/033a14ea1cf91d2c39df85f9b6e65a4b062b8964",
+      "release_date": "2016-11-18"
+    },
+    {
+      "featuredArtist": "Rosario",
+      "featuredArtistId": "05xSLrRgGwm2nCH2SmnNMW",
+      "trackName": "Y Qué Le Importa A Nadie - En Directo En El Teatro Real / 2017",
+      "trackId": "6M3wSDTwtXcIWwk87Ib7Jf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/acc0ec68d8c49381718c93b4d9a569a94b2928ba",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Café Quijano",
+      "featuredArtistId": "2ECP3nWC88LaFz4oQzTo3Z",
+      "trackName": "Perdonarme (feat. Taburete)",
+      "trackId": "1WEErRnnEyFzKxuZzrJ0K1",
+      "preview": "https://p.scdn.co/mp3-preview/bafd3f8bd0fb1191bcba8804b9ea4340b35755b1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bce6e06e3a4d4b9c6f10fae2d2a429f503f2cd44",
+      "release_date": "2017-06-23"
+    }
+  ]
+}

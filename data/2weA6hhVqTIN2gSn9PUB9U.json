@@ -1,0 +1,32 @@
+{
+  "artistName": "Celia Cruz",
+  "features": [
+    {
+      "featuredArtist": "La Sonora Matancera",
+      "featuredArtistId": "01p7Homi0d4XxZ06f2NYYD",
+      "trackName": "Feliz Encuentro",
+      "trackId": "3UAckMsYkh62YMdTPylSlH",
+      "preview": "https://p.scdn.co/mp3-preview/3e8c0fa311c2bcfc0d555a3297412b5cf090f595?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dcd1b2e206e36856c7b164aec71ad85e0ac7a7e0",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "La India",
+      "featuredArtistId": "3NIZFmehJM8YiGpCdihlck",
+      "trackName": "La Voz De La Experiencia",
+      "trackId": "6vTT1lYL5ZQxw2NWzrGa9Q",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1a1151bf669f70284de464aa0e203e0841abd1e5",
+      "release_date": "2016-05-27"
+    },
+    {
+      "featuredArtist": "Oscar D'León",
+      "featuredArtistId": "1c84wItoiAe1pEbpJMqUmQ",
+      "trackName": "El Son De Celia Y Oscar",
+      "trackId": "3s3s4AsAuFBeZzOIbeFjm9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1a1151bf669f70284de464aa0e203e0841abd1e5",
+      "release_date": "2016-05-27"
+    }
+  ]
+}
