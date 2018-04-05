@@ -1,0 +1,23 @@
+{
+  "artistName": "Hammock",
+  "features": [
+    {
+      "featuredArtist": "Helios",
+      "featuredArtistId": "592TFYwu9Qb0RC1hKDbX2w",
+      "trackName": "Artificial Paradises (feat. Helios)",
+      "trackId": "0OIVvt3ZrUS1owCKf3fpCv",
+      "preview": "https://p.scdn.co/mp3-preview/4f8a4aa10d3df27756affddc23b1097ee7b5d37a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1a2425fce844b98b819abeab1863565c8127e577",
+      "release_date": "2015-11-20"
+    },
+    {
+      "featuredArtist": "Strand of Oaks",
+      "featuredArtistId": "0t4oHObO3FImWvIhMimaSL",
+      "trackName": "Tres Dominé (feat. Strand of Oaks)",
+      "trackId": "0WhzGXHWhOqFmh7kyXocDc",
+      "preview": "https://p.scdn.co/mp3-preview/21a841b7ab00bd17b72d481efcf1868f9de0b4eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/27bee651bec720cabdf8273578323c35df49c8e0",
+      "release_date": "2015-05-19"
+    }
+  ]
+}

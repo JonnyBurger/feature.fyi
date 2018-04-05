@@ -1,0 +1,95 @@
+{
+  "artistName": "La India",
+  "features": [
+    {
+      "featuredArtist": "Marc Anthony",
+      "featuredArtistId": "4wLXwxDeWQ8mtUIRPxGiD6",
+      "trackName": "Vivir Lo Nuestro",
+      "trackId": "66eG39HgotQdBIgoaZm4HN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3c9519af9dfde857e742a40b555ce8937e11158b",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Tito Puente & His Latin Ensemble",
+      "featuredArtistId": "1BtBJl4hekJyLp9dLIydKn",
+      "trackName": "Fever",
+      "trackId": "2tm6jCDdDAO5mvf8jP6RvL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3c9519af9dfde857e742a40b555ce8937e11158b",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Tito Nieves",
+      "featuredArtistId": "4vOycwLXdkMMzpZW04VW5m",
+      "trackName": "No Me Conviene",
+      "trackId": "5pSMhSrf6tklnfFsiLY4j0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6d9856999f9daa0f9b044cda42f8ff7e997b3f03",
+      "release_date": "2017-02-17"
+    },
+    {
+      "featuredArtist": "Celia Cruz",
+      "featuredArtistId": "2weA6hhVqTIN2gSn9PUB9U",
+      "trackName": "La Voz De La Experiencia",
+      "trackId": "1fwO7vCafPkJG31WcY9IGb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6d9856999f9daa0f9b044cda42f8ff7e997b3f03",
+      "release_date": "2017-02-17"
+    },
+    {
+      "featuredArtist": "Juan Gabriel",
+      "featuredArtistId": "2MRBDr0crHWE5JwPceFncq",
+      "trackName": "Intro - Juan Gabriel",
+      "trackId": "40Y9a801R8FhxTfZQGXS6Y",
+      "preview": "https://p.scdn.co/mp3-preview/c46bbd786ccfe1334db67710f298b5aa653cc9ea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/489717a7aca4f10fb9f6425afec58263d69fa1a3",
+      "release_date": "2015-07-10"
+    },
+    {
+      "featuredArtist": "Mola",
+      "featuredArtistId": "6Jm5svSfL6VhFaeRJb6VLx",
+      "trackName": "No Tengo Dinero",
+      "trackId": "4qMAJpu271leonSJguXLev",
+      "preview": "https://p.scdn.co/mp3-preview/7371a8aa88b7744744b321dde2527766dce2c382?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/489717a7aca4f10fb9f6425afec58263d69fa1a3",
+      "release_date": "2015-07-10"
+    },
+    {
+      "featuredArtist": "Cheka",
+      "featuredArtistId": "68KZ4vm3B5yAZutdy2RvIE",
+      "trackName": "Soy Diferente - Album Version Salsaton",
+      "trackId": "7KWwsvQ9G7y8QXYHItAM1i",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6d08a27a99a3c06a5e433421b4394224980e7861",
+      "release_date": "2006"
+    },
+    {
+      "featuredArtist": "Ivy Queen",
+      "featuredArtistId": "6p2442ymrT9lZEuCZJdYcH",
+      "trackName": "Cuando Hieres A Una Mujer",
+      "trackId": "4ZtmLFos8eHLovJblTxdhO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6d08a27a99a3c06a5e433421b4394224980e7861",
+      "release_date": "2006"
+    },
+    {
+      "featuredArtist": "Tito Puente",
+      "featuredArtistId": "6SPpCqM8gOzrtICAxN5NuX",
+      "trackName": "Jazzin'",
+      "trackId": "47gRDkZ7ZIG1fN1fRS77cO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d37e24f04f340f391fcc016c3ce9413a3318d6b4",
+      "release_date": "2005-09-13"
+    },
+    {
+      "featuredArtist": "Oscar D'León",
+      "featuredArtistId": "1c84wItoiAe1pEbpJMqUmQ",
+      "trackName": "Hazme El Amor - En Vivo Desde Nueva York/1997",
+      "trackId": "2gFMxvCU1Td4EWtWgPO5vJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/70e9766a925d4faa2491ef01450cf29411c37e2d",
+      "release_date": "2005-01-01"
+    }
+  ]
+}

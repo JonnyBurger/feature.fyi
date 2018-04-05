@@ -1,0 +1,365 @@
+{
+  "artistName": "Jeremy Jordan",
+  "features": [
+    {
+      "featuredArtist": "Anna Kendrick",
+      "featuredArtistId": "6xfqnpe2HnLVUaYXs2F8YS",
+      "trackName": "The Next Ten Minutes",
+      "trackId": "6TP9uOq1QhcphZHSPfrwzS",
+      "preview": "https://p.scdn.co/mp3-preview/edf95f422a53e7b5b9f78d617efba4a5815fab98?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cbf5fff3d17083d9583737f7f0100aa88c3e12a",
+      "release_date": "2015-02-10"
+    },
+    {
+      "featuredArtist": "Jonathan Reid Gealt",
+      "featuredArtistId": "5XQRmiQZKs0AndvSbYayAh",
+      "trackName": "Here for You (feat. Jeremy Jordan)",
+      "trackId": "3HSX2uNsv9zHXUxPQYIBPV",
+      "preview": "https://p.scdn.co/mp3-preview/6516dbe605c72a023ca80f284212fdf33475c551?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a70b51c3e76b89d369075814614269748aba1351",
+      "release_date": "2017-12-09"
+    },
+    {
+      "featuredArtist": "Darren Criss",
+      "featuredArtistId": "3nQ59hkeciYoR6RreQL4Rv",
+      "trackName": "Put a Little Love in Your Heart",
+      "trackId": "5k1DdUo8o4SxAW7PeBkCw6",
+      "preview": "https://p.scdn.co/mp3-preview/6c2993cffd7b97fdc200b7821901be86d0a3adbd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/38a755231fe09f83daffe08602fdf282d04e7207",
+      "release_date": "2017-03-22"
+    },
+    {
+      "featuredArtist": "Carlos Valdes",
+      "featuredArtistId": "4Ya1zqEk4JbCoyZBgUMNKI",
+      "trackName": "Put a Little Love in Your Heart",
+      "trackId": "5k1DdUo8o4SxAW7PeBkCw6",
+      "preview": "https://p.scdn.co/mp3-preview/6c2993cffd7b97fdc200b7821901be86d0a3adbd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/38a755231fe09f83daffe08602fdf282d04e7207",
+      "release_date": "2017-03-22"
+    },
+    {
+      "featuredArtist": "John Barrowman",
+      "featuredArtistId": "2J3lGdyoJc3p5ceinyjCFQ",
+      "trackName": "Put a Little Love in Your Heart",
+      "trackId": "5k1DdUo8o4SxAW7PeBkCw6",
+      "preview": "https://p.scdn.co/mp3-preview/6c2993cffd7b97fdc200b7821901be86d0a3adbd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/38a755231fe09f83daffe08602fdf282d04e7207",
+      "release_date": "2017-03-22"
+    },
+    {
+      "featuredArtist": "Frank Wildhorn",
+      "featuredArtistId": "4Rd2kTFM1XZwza8cuKyHCG",
+      "trackName": "When I Drive (Live)",
+      "trackId": "1wMJJ3PZCmiPHKf8Pe2gSk",
+      "preview": "https://p.scdn.co/mp3-preview/48c7ca2b3e803d191f5d1d78f4d15cf0744c8cab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb6616d8371b757a202c00a6195c9261fff787b4",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Kevin Massey",
+      "featuredArtistId": "35YOPePh4jtifRnx6F4pcg",
+      "trackName": "When I Drive (Live)",
+      "trackId": "1wMJJ3PZCmiPHKf8Pe2gSk",
+      "preview": "https://p.scdn.co/mp3-preview/48c7ca2b3e803d191f5d1d78f4d15cf0744c8cab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb6616d8371b757a202c00a6195c9261fff787b4",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Louis Hobson",
+      "featuredArtistId": "65nP56OywyNmplr3I07SVW",
+      "trackName": "You Can Do Better Than Him (Live)",
+      "trackId": "5Rcj0fWw3zfQxoICdO70cr",
+      "preview": "https://p.scdn.co/mp3-preview/ad654d122dd5a34fd2441ea31f6d82189255914f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb6616d8371b757a202c00a6195c9261fff787b4",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Laura Osnes",
+      "featuredArtistId": "2TkSDFFCkyiMrHyL1a5BbF",
+      "trackName": "This World Will Remember Us (Live)",
+      "trackId": "6BLRckIOwUsIYqQstspM3E",
+      "preview": "https://p.scdn.co/mp3-preview/ea3526d3d63684ce8b5feb4a275b64bab65499eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb6616d8371b757a202c00a6195c9261fff787b4",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Michael Mott",
+      "featuredArtistId": "4DPQVwUWXPSNlarh36tjx0",
+      "trackName": "Dare to Dream",
+      "trackId": "65vT38Gvx6xDhQ4NyoQjUV",
+      "preview": "https://p.scdn.co/mp3-preview/7f331126e5cac51ae33e5d98d64c4e043c077055?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e5ca5e45cbbffbc3d0e0dc109eba3487d286628a",
+      "release_date": "2014-06-17"
+    },
+    {
+      "featuredArtist": "Dolly Parton",
+      "featuredArtistId": "32vWCbZh0xZ4o9gkz4PsEU",
+      "trackName": "From Here To The Moon and Back",
+      "trackId": "3jIQ5xJScfMkJLxu1kcisR",
+      "preview": "https://p.scdn.co/mp3-preview/f1db7abe7fb4ae726cd6ad598ee1890677c5bda3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aa5d9c21191e7b4c93a01a896dd441cc7261f70b",
+      "release_date": "2014-06-06"
+    },
+    {
+      "featuredArtist": "Kris Kristofferson",
+      "featuredArtistId": "0vYQRW5LIDeYQOccTviQNX",
+      "trackName": "From Here To The Moon and Back",
+      "trackId": "3jIQ5xJScfMkJLxu1kcisR",
+      "preview": "https://p.scdn.co/mp3-preview/f1db7abe7fb4ae726cd6ad598ee1890677c5bda3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aa5d9c21191e7b4c93a01a896dd441cc7261f70b",
+      "release_date": "2014-06-06"
+    },
+    {
+      "featuredArtist": "Brad Alexander & Adam Mathias",
+      "featuredArtistId": "7M8Y2qtNBmG40Gc3VVEnHu",
+      "trackName": "Bonus Track-Rock City (feat. Jeremy Jordan)",
+      "trackId": "1J7u6qZs6Qwe2FQLZBFgjv",
+      "preview": "https://p.scdn.co/mp3-preview/2df0d977a3233963688c0f6c5cf33b5fd6710e3e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/407dc6d4f3deec0ef76fdee81a8bb24407c5f59f",
+      "release_date": "2013-03-19"
+    },
+    {
+      "featuredArtist": "Kelsey Fowler",
+      "featuredArtistId": "4fClpCT6bpozq7rVLMZ73H",
+      "trackName": "Picture Show",
+      "trackId": "0HJgJzVCvefGqYVCdYHYDQ",
+      "preview": "https://p.scdn.co/mp3-preview/a213052c5903b6ea1a1025bc4a20225410b3d3c0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8ecca018c6b746711663398d40fcbf82140d2e68",
+      "release_date": "2012-06-08"
+    },
+    {
+      "featuredArtist": "Talon Ackerman",
+      "featuredArtistId": "5vS51BVYTOtRc7ffluJWly",
+      "trackName": "Picture Show",
+      "trackId": "0HJgJzVCvefGqYVCdYHYDQ",
+      "preview": "https://p.scdn.co/mp3-preview/a213052c5903b6ea1a1025bc4a20225410b3d3c0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8ecca018c6b746711663398d40fcbf82140d2e68",
+      "release_date": "2012-06-08"
+    },
+    {
+      "featuredArtist": "Claybourne Elder",
+      "featuredArtistId": "7gD2DtDcNKCEatD2zcUavi",
+      "trackName": "When I Drive",
+      "trackId": "63ej3PIT783GLwwiuf3HF0",
+      "preview": "https://p.scdn.co/mp3-preview/b9b67063817beed638dc0fd83d20a930c0441b21?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8ecca018c6b746711663398d40fcbf82140d2e68",
+      "release_date": "2012-06-08"
+    },
+    {
+      "featuredArtist": "Andrew Keenan-Bolger",
+      "featuredArtistId": "135ECACgfPZyb5uPdfLNmp",
+      "trackName": "Santa Fe (Prologue)",
+      "trackId": "0inNs7YRnhnDKtXSGyB4RT",
+      "preview": "https://p.scdn.co/mp3-preview/fd624a1d642ea2c5d0e7fff88be8fa9b9a7cb39a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eaded1bf03a256c1a4997344c410bf77efeb4662",
+      "release_date": "2012-05-15"
+    },
+    {
+      "featuredArtist": "Newsies Original Broadway Cast",
+      "featuredArtistId": "6yTc5YHDriVSWYq8vPA4Xi",
+      "trackName": "Carrying The Banner",
+      "trackId": "0odAZMZg7lG5puXviS5Ebh",
+      "preview": "https://p.scdn.co/mp3-preview/dedd70349014905edc9a38dcd45010e910e4ede1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eaded1bf03a256c1a4997344c410bf77efeb4662",
+      "release_date": "2012-05-15"
+    },
+    {
+      "featuredArtist": "Julie Foldesi",
+      "featuredArtistId": "4Mkow12Cm5Sn25Yupr5OO5",
+      "trackName": "I Never Planned On You / Don't Come A-Knocking",
+      "trackId": "42Dsb8F9IUFx9k6scoW27J",
+      "preview": "https://p.scdn.co/mp3-preview/2d26bd0d46739f191ebc5070e96911e4d1376489?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eaded1bf03a256c1a4997344c410bf77efeb4662",
+      "release_date": "2012-05-15"
+    },
+    {
+      "featuredArtist": "Laurie Veldheer",
+      "featuredArtistId": "7damx5zFxzwAtYI8NoZs3D",
+      "trackName": "I Never Planned On You / Don't Come A-Knocking",
+      "trackId": "42Dsb8F9IUFx9k6scoW27J",
+      "preview": "https://p.scdn.co/mp3-preview/2d26bd0d46739f191ebc5070e96911e4d1376489?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eaded1bf03a256c1a4997344c410bf77efeb4662",
+      "release_date": "2012-05-15"
+    },
+    {
+      "featuredArtist": "Ben Fankhauser",
+      "featuredArtistId": "46yt6WJsgzPiAtnCe809UV",
+      "trackName": "Seize The Day",
+      "trackId": "6TAD66xjT5uDiewk9O2dQC",
+      "preview": "https://p.scdn.co/mp3-preview/b1ae6ee54c33fbb156344c9f66001e87a878e9d5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eaded1bf03a256c1a4997344c410bf77efeb4662",
+      "release_date": "2012-05-15"
+    },
+    {
+      "featuredArtist": "Kara Lindsay",
+      "featuredArtistId": "4wwo2P1bzRnLwJwjHrbZnv",
+      "trackName": "Watch What Happens (Reprise)",
+      "trackId": "73wDg7KAIajEsVSA12APvM",
+      "preview": "https://p.scdn.co/mp3-preview/fe435da4c0b02ca8d952203067254eed4860881d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eaded1bf03a256c1a4997344c410bf77efeb4662",
+      "release_date": "2012-05-15"
+    },
+    {
+      "featuredArtist": "Lewis Grosso",
+      "featuredArtistId": "5vvYcbbCA8f7UOpxD2mVBW",
+      "trackName": "Watch What Happens (Reprise)",
+      "trackId": "73wDg7KAIajEsVSA12APvM",
+      "preview": "https://p.scdn.co/mp3-preview/fe435da4c0b02ca8d952203067254eed4860881d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eaded1bf03a256c1a4997344c410bf77efeb4662",
+      "release_date": "2012-05-15"
+    },
+    {
+      "featuredArtist": "Alan Menken",
+      "featuredArtistId": "5sy77gt4bfsLcSQ8GIe4ZZ",
+      "trackName": "Once And For All",
+      "trackId": "0anSiC1KeOLZOkDT8UMxTX",
+      "preview": "https://p.scdn.co/mp3-preview/279c5c7d49fd0259a0fd606451891f725d9b3790?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eaded1bf03a256c1a4997344c410bf77efeb4662",
+      "release_date": "2012-05-15"
+    },
+    {
+      "featuredArtist": "Jack Feldman",
+      "featuredArtistId": "1tIPA8eW9kAgA4CUmDteqh",
+      "trackName": "Once And For All",
+      "trackId": "0anSiC1KeOLZOkDT8UMxTX",
+      "preview": "https://p.scdn.co/mp3-preview/279c5c7d49fd0259a0fd606451891f725d9b3790?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eaded1bf03a256c1a4997344c410bf77efeb4662",
+      "release_date": "2012-05-15"
+    },
+    {
+      "featuredArtist": "Ryan Breslin",
+      "featuredArtistId": "5MssZ6nND7vr5T2Ml8Jhpy",
+      "trackName": "Once And For All",
+      "trackId": "0anSiC1KeOLZOkDT8UMxTX",
+      "preview": "https://p.scdn.co/mp3-preview/279c5c7d49fd0259a0fd606451891f725d9b3790?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eaded1bf03a256c1a4997344c410bf77efeb4662",
+      "release_date": "2012-05-15"
+    },
+    {
+      "featuredArtist": "Original Broadway Cast Recording",
+      "featuredArtistId": "43qpnCSCXefs3GzxOrWzdz",
+      "trackName": "This World Will Remember Me (feat. Jeremy Jordan & Laura Osnes)",
+      "trackId": "2YAoz2IM9sNs0eYBMaAl5O",
+      "preview": "https://p.scdn.co/mp3-preview/143328c91bdcf8a8bbd77324a42f39ea812dc62c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/69d24c36c1d8c22ad2ff8d231921a48dc3a749bf",
+      "release_date": "2012-04-19"
+    },
+    {
+      "featuredArtist": "Keke Palmer",
+      "featuredArtistId": "2YFBOR9KIxC6WqHclkj9Yq",
+      "trackName": "Maybe I'm Amazed",
+      "trackId": "2MG3SDYmYQDvznDnOVYvil",
+      "preview": "https://p.scdn.co/mp3-preview/c802bc9a2062aeb8b191c2e627dc67a3a3fb18c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e0a2c1b535f57cf728734f1a9517f29ec760ece8",
+      "release_date": "2012-01-09"
+    },
+    {
+      "featuredArtist": "Queen Latifah",
+      "featuredArtistId": "5m7wCUhYhBh7A3A3YMxrbt",
+      "trackName": "Higher Medley",
+      "trackId": "6d44Voa1ffIKcCcXgtBxLO",
+      "preview": "https://p.scdn.co/mp3-preview/bf497af9e9a996675cf58321d02cd70154ab6669?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e0a2c1b535f57cf728734f1a9517f29ec760ece8",
+      "release_date": "2012-01-09"
+    },
+    {
+      "featuredArtist": "Andy Karl",
+      "featuredArtistId": "09sZOsk9ujU8m4qRMRs6kl",
+      "trackName": "Higher Medley",
+      "trackId": "6d44Voa1ffIKcCcXgtBxLO",
+      "preview": "https://p.scdn.co/mp3-preview/bf497af9e9a996675cf58321d02cd70154ab6669?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e0a2c1b535f57cf728734f1a9517f29ec760ece8",
+      "release_date": "2012-01-09"
+    },
+    {
+      "featuredArtist": "Angela Grovey",
+      "featuredArtistId": "6eRntP8etcNyIAJyOKVA4o",
+      "trackName": "Higher Medley",
+      "trackId": "6d44Voa1ffIKcCcXgtBxLO",
+      "preview": "https://p.scdn.co/mp3-preview/bf497af9e9a996675cf58321d02cd70154ab6669?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e0a2c1b535f57cf728734f1a9517f29ec760ece8",
+      "release_date": "2012-01-09"
+    },
+    {
+      "featuredArtist": "Dequina Moore",
+      "featuredArtistId": "1WKZeYNzwar047FcK0Y47n",
+      "trackName": "Higher Medley",
+      "trackId": "6d44Voa1ffIKcCcXgtBxLO",
+      "preview": "https://p.scdn.co/mp3-preview/bf497af9e9a996675cf58321d02cd70154ab6669?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e0a2c1b535f57cf728734f1a9517f29ec760ece8",
+      "release_date": "2012-01-09"
+    },
+    {
+      "featuredArtist": "The Broadway Cast Of \"Rock Of Ages\"",
+      "featuredArtistId": "1thgyJVuAZScmgCrMVDDYn",
+      "trackName": "O Holy Night (feat. James Carpinello, Adam Dannheisser, Mitchell Jarvis, Jeremy Jordan, Michele Mais, Lauren Molina, Wesley Taylor & Katherine Tokarz)",
+      "trackId": "6iVYdwfGSbcdvxM37U3u48",
+      "preview": "https://p.scdn.co/mp3-preview/76e25d6e121ed83b0e7fe1b7ad93202a8b9b88cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d1436acb1c671ca7f37ac061039895ef2723223",
+      "release_date": "2009-10-23"
+    },
+    {
+      "featuredArtist": "James Carpinello",
+      "featuredArtistId": "1tiiNX1BTCrrKdp5z6pFPe",
+      "trackName": "O Holy Night (feat. James Carpinello, Adam Dannheisser, Mitchell Jarvis, Jeremy Jordan, Michele Mais, Lauren Molina, Wesley Taylor & Katherine Tokarz)",
+      "trackId": "6iVYdwfGSbcdvxM37U3u48",
+      "preview": "https://p.scdn.co/mp3-preview/76e25d6e121ed83b0e7fe1b7ad93202a8b9b88cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d1436acb1c671ca7f37ac061039895ef2723223",
+      "release_date": "2009-10-23"
+    },
+    {
+      "featuredArtist": "Adam Dannheisser",
+      "featuredArtistId": "0zunRmlTZRpXoTPWdlI0Do",
+      "trackName": "O Holy Night (feat. James Carpinello, Adam Dannheisser, Mitchell Jarvis, Jeremy Jordan, Michele Mais, Lauren Molina, Wesley Taylor & Katherine Tokarz)",
+      "trackId": "6iVYdwfGSbcdvxM37U3u48",
+      "preview": "https://p.scdn.co/mp3-preview/76e25d6e121ed83b0e7fe1b7ad93202a8b9b88cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d1436acb1c671ca7f37ac061039895ef2723223",
+      "release_date": "2009-10-23"
+    },
+    {
+      "featuredArtist": "Mitchell Jarvis",
+      "featuredArtistId": "4kzCXnDSgekH42U9lYtEgI",
+      "trackName": "O Holy Night (feat. James Carpinello, Adam Dannheisser, Mitchell Jarvis, Jeremy Jordan, Michele Mais, Lauren Molina, Wesley Taylor & Katherine Tokarz)",
+      "trackId": "6iVYdwfGSbcdvxM37U3u48",
+      "preview": "https://p.scdn.co/mp3-preview/76e25d6e121ed83b0e7fe1b7ad93202a8b9b88cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d1436acb1c671ca7f37ac061039895ef2723223",
+      "release_date": "2009-10-23"
+    },
+    {
+      "featuredArtist": "Michele Mais",
+      "featuredArtistId": "7Lw50Gt1T1cYJcPcc5tssH",
+      "trackName": "O Holy Night (feat. James Carpinello, Adam Dannheisser, Mitchell Jarvis, Jeremy Jordan, Michele Mais, Lauren Molina, Wesley Taylor & Katherine Tokarz)",
+      "trackId": "6iVYdwfGSbcdvxM37U3u48",
+      "preview": "https://p.scdn.co/mp3-preview/76e25d6e121ed83b0e7fe1b7ad93202a8b9b88cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d1436acb1c671ca7f37ac061039895ef2723223",
+      "release_date": "2009-10-23"
+    },
+    {
+      "featuredArtist": "Lauren Molina",
+      "featuredArtistId": "4SB0YvIL3Ixgnn40kcRVL8",
+      "trackName": "O Holy Night (feat. James Carpinello, Adam Dannheisser, Mitchell Jarvis, Jeremy Jordan, Michele Mais, Lauren Molina, Wesley Taylor & Katherine Tokarz)",
+      "trackId": "6iVYdwfGSbcdvxM37U3u48",
+      "preview": "https://p.scdn.co/mp3-preview/76e25d6e121ed83b0e7fe1b7ad93202a8b9b88cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d1436acb1c671ca7f37ac061039895ef2723223",
+      "release_date": "2009-10-23"
+    },
+    {
+      "featuredArtist": "Wesley Taylor",
+      "featuredArtistId": "0SwOn2qlqsCJbMCLzEYq4i",
+      "trackName": "O Holy Night (feat. James Carpinello, Adam Dannheisser, Mitchell Jarvis, Jeremy Jordan, Michele Mais, Lauren Molina, Wesley Taylor & Katherine Tokarz)",
+      "trackId": "6iVYdwfGSbcdvxM37U3u48",
+      "preview": "https://p.scdn.co/mp3-preview/76e25d6e121ed83b0e7fe1b7ad93202a8b9b88cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d1436acb1c671ca7f37ac061039895ef2723223",
+      "release_date": "2009-10-23"
+    },
+    {
+      "featuredArtist": "Katherine Tokarz",
+      "featuredArtistId": "4B5YkrcSRSMmJCndTFaDuX",
+      "trackName": "O Holy Night (feat. James Carpinello, Adam Dannheisser, Mitchell Jarvis, Jeremy Jordan, Michele Mais, Lauren Molina, Wesley Taylor & Katherine Tokarz)",
+      "trackId": "6iVYdwfGSbcdvxM37U3u48",
+      "preview": "https://p.scdn.co/mp3-preview/76e25d6e121ed83b0e7fe1b7ad93202a8b9b88cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d1436acb1c671ca7f37ac061039895ef2723223",
+      "release_date": "2009-10-23"
+    }
+  ]
+}

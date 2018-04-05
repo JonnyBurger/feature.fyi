@@ -1,0 +1,32 @@
+{
+  "artistName": "Greyson Chance",
+  "features": [
+    {
+      "featuredArtist": "Charice",
+      "featuredArtistId": "0AuZVHIr5WSEBbBLZwWwWc",
+      "trackName": "Waiting Outside The Lines - Remix",
+      "trackId": "1p7qu4Ntc7INp4RUyYIPd0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/36012b40053ce3c6ac5c2f692268b5763b974d32",
+      "release_date": "2011"
+    },
+    {
+      "featuredArtist": "R3HAB",
+      "featuredArtistId": "6cEuCEZu7PAE9ZSzLLc2oQ",
+      "trackName": "Low - R3HAB Remix",
+      "trackId": "4pMfKfS5wlTrMBSXuLf7vX",
+      "preview": "https://p.scdn.co/mp3-preview/602fa44662d01604bfe2ee766b26383c0164402e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c93598dc573513f48aac4f2e8b31c7836fbbf830",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Sick Individuals",
+      "featuredArtistId": "0XqFDQJjqW5PfhfBCb53LR",
+      "trackName": "Walk Away",
+      "trackId": "52tqxR6XK8tgfWCCDhv4wr",
+      "preview": "https://p.scdn.co/mp3-preview/1d2b89580d71db3f1b63effe87f5a83d55dcfa0f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/419d5d8235d85c1626e21d94e9301461e111ff6f",
+      "release_date": "2017-10-27"
+    }
+  ]
+}

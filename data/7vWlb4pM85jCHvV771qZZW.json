@@ -1,0 +1,23 @@
+{
+  "artistName": "Tony! Toni! Toné!",
+  "features": [
+    {
+      "featuredArtist": "DJ Quik",
+      "featuredArtistId": "0b2XeWDPeBiLeskT6RFqMb",
+      "trackName": "Let's Get Down",
+      "trackId": "1DvFERTMTHRpLw2hKiqz3h",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/63e696d88e2587fbf23bad499bc2aff8cdbfd8cb",
+      "release_date": "1997-01-01"
+    },
+    {
+      "featuredArtist": "Vanessa Williams",
+      "featuredArtistId": "75L9s8KVrhCNtBUkZFnDFW",
+      "trackName": "Oakland Stroke",
+      "trackId": "41M9D8izx9fFAf6f5bmvE3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ad3ecb8e1472097bbfe7967ec498a49f0296a25d",
+      "release_date": "1990-01-01"
+    }
+  ]
+}

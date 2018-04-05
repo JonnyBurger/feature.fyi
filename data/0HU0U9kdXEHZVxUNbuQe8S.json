@@ -1,0 +1,32 @@
+{
+  "artistName": "Donny Hathaway",
+  "features": [
+    {
+      "featuredArtist": "Roberta Flack",
+      "featuredArtistId": "0W498bDDNlJIrYMKXdpLHA",
+      "trackName": "I ( Who Have Nothing)",
+      "trackId": "6fpBVfNQ6I1z1aoQ4UcwcQ",
+      "preview": "https://p.scdn.co/mp3-preview/40148573a5dd6808008e2ca4fc6531648c5f44fb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b92b44d0d36625855f5410b97c7e13aa6b2fe17",
+      "release_date": "2013-11-05"
+    },
+    {
+      "featuredArtist": "Jimmy Douglass",
+      "featuredArtistId": "4XfdWThSu3DVmOSL3DzTp0",
+      "trackName": "Sack Full Of Dreams - Live @ The Troubador, Los Angeles, CA",
+      "trackId": "5i786tCK4z1NarDDfsvfiI",
+      "preview": "https://p.scdn.co/mp3-preview/b5b823cf3893e55167ffb2db8dfb623c7c4a2143?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0593a5bc9e1b466623bb33db314069df5105b8e3",
+      "release_date": "2004-06-08"
+    },
+    {
+      "featuredArtist": "Bobby Warner",
+      "featuredArtistId": "2ggcmZSHzq2QPnQ9fXnYLf",
+      "trackName": "Nu-Po - Live @ Carnegie Hall Newport Jazz Festival",
+      "trackId": "7tKZiWqnuOlGu6eQGntxCZ",
+      "preview": "https://p.scdn.co/mp3-preview/0638fe68ea9cdfe146dca0aaac98a1d1d61056a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/60b31331b9bbaa20d5837abe4300782217686e45",
+      "release_date": "1980"
+    }
+  ]
+}

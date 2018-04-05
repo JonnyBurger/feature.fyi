@@ -1,0 +1,59 @@
+{
+  "artistName": "257ers",
+  "features": [
+    {
+      "featuredArtist": "Horntje",
+      "featuredArtistId": "3EDGl7TTxF2WKlKNNFTjb7",
+      "trackName": "Mama",
+      "trackId": "3cR03h0szJR73hoPYhnpjs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/92c7eaa3ea3665850de5a1b4ad30fb6ffe0c5d00",
+      "release_date": "2016-07-01"
+    },
+    {
+      "featuredArtist": "Alligatoah",
+      "featuredArtistId": "0r0R5nIjDY04TfxRM10Bcb",
+      "trackName": "Irgendwo in Vegas",
+      "trackId": "0pjIuO5QWBPI3WgpPpDX59",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/965ae8474f97740cd4eb29a1384de31e42726ce9",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Zwieback & T",
+      "featuredArtistId": "6NOPvBjzqyoNQIjqnaRlvu",
+      "trackName": "Gruppenzwang",
+      "trackId": "5mLz09xt8DvsKII8j6kFzo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/965ae8474f97740cd4eb29a1384de31e42726ce9",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Favorite",
+      "featuredArtistId": "6iHHxsJtBAUzLXbqUr0bbK",
+      "trackName": "Bis dahin bin ich tot",
+      "trackId": "3Sqyf8ABWFbneTJYzUIWvr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2ddaf27e8cf1d9336c83c4ceeca27480dc6f1e9f",
+      "release_date": "2012-09-07"
+    },
+    {
+      "featuredArtist": "Ras Timbo",
+      "featuredArtistId": "7MqPiZiP6hGqIt7QbnAIsL",
+      "trackName": "Raisabus",
+      "trackId": "0qNqbMmJFBWmuiAxBgawGV",
+      "preview": "https://p.scdn.co/mp3-preview/503a5d66441587c4eb8f2229dc444f3da77a081e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31a362cd623a32789cdc6a5d8fa14168ed48be05",
+      "release_date": "2012-09-07"
+    },
+    {
+      "featuredArtist": "Jason",
+      "featuredArtistId": "4UCclQB9uIxF9iiud2Sh9q",
+      "trackName": "Was erzählt ihr",
+      "trackId": "2IhmgtqPY0tz2AmNtmjnuA",
+      "preview": "https://p.scdn.co/mp3-preview/4ed96fa053e2f1b1e603afbc920a151d2c5bf6a0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c25ae703618808d6b4b78eb3c0c938b19fce8e57",
+      "release_date": "2012-09-07"
+    }
+  ]
+}

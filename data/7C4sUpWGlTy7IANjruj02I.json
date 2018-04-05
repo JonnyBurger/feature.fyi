@@ -1,0 +1,59 @@
+{
+  "artistName": "Peter Gabriel",
+  "features": [
+    {
+      "featuredArtist": "Herbie Hancock",
+      "featuredArtistId": "2ZvrvbQNrHKwjT7qfGFFUW",
+      "trackName": "Don't give up",
+      "trackId": "3NztkR7xPqt8s5l76KPPqk",
+      "preview": "https://p.scdn.co/mp3-preview/3a0e8a822b00fee718c9e34882da9029c6326285?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/14a97866fd12a8e4ed750297519257d7585977c9",
+      "release_date": "2010-05-25"
+    },
+    {
+      "featuredArtist": "Everything Is Recorded",
+      "featuredArtistId": "0JYlkNmu76Wu1DgvWNWq7X",
+      "trackName": "Purify - Interlude",
+      "trackId": "5Wtfoj7JLowcjBkL2ntu5p",
+      "preview": "https://p.scdn.co/mp3-preview/7e840e8825f3c3a1d47db7e0fd15917be44445f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/013366935aa42230f2b7dcd3c9765b4b695fdecb",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Infinite",
+      "featuredArtistId": "6PVxT4rzzU07Ex07PwwDaO",
+      "trackName": "Purify - Interlude",
+      "trackId": "5Wtfoj7JLowcjBkL2ntu5p",
+      "preview": "https://p.scdn.co/mp3-preview/7e840e8825f3c3a1d47db7e0fd15917be44445f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/013366935aa42230f2b7dcd3c9765b4b695fdecb",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Infinite",
+      "featuredArtistId": "6Q8GvK519shXIweXlVm5Vr",
+      "trackName": "Purify - Interlude",
+      "trackId": "612Vml0Bg0SvUl1v4DGJe1",
+      "preview": "https://p.scdn.co/mp3-preview/7e840e8825f3c3a1d47db7e0fd15917be44445f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/013366935aa42230f2b7dcd3c9765b4b695fdecb",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Electrokingdom",
+      "featuredArtistId": "4QxY3hKAwcrjw7zcjsNcC4",
+      "trackName": "Big Time - VB Acoustic Mix",
+      "trackId": "7zq3C4CAP47sDRe27kXDDp",
+      "preview": "https://p.scdn.co/mp3-preview/19c31ac3ff5801f12b3ea1e56338cf40fb2a9cb9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b8f5be00ce3642b9102fb7e583b161ef3fc730c",
+      "release_date": "2018-02-13"
+    },
+    {
+      "featuredArtist": "Hardage",
+      "featuredArtistId": "23i5dMV7p0CSMcUBXk09lA",
+      "trackName": "Big Time - VB Acoustic Mix",
+      "trackId": "27s9z3Hmqm1c2hqOc6806f",
+      "preview": "https://p.scdn.co/mp3-preview/19c31ac3ff5801f12b3ea1e56338cf40fb2a9cb9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd1a40dce81d921d4598354bc3fa064c60c99b10",
+      "release_date": "2018-01-29"
+    }
+  ]
+}

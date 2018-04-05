@@ -1,0 +1,680 @@
+{
+  "artistName": "Timati",
+  "features": [
+    {
+      "featuredArtist": "DJ Antoine",
+      "featuredArtistId": "6yTYR09WCvsgdnurDW4WQo",
+      "trackName": "London - DJ Antoine vs. Mad Mark 2k16 Radio Edit",
+      "trackId": "2x12v9Gye7Bm20i5goqFTr",
+      "preview": "https://p.scdn.co/mp3-preview/33bdc25c39663f9b50ddd25a2f0da99cd9a0fafc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d9e1c306f7953c0d61be7c02490b733a970d37d8",
+      "release_date": "2016-07-15"
+    },
+    {
+      "featuredArtist": "Григорий Лепс",
+      "featuredArtistId": "2eLrVxwm6t4QeaORq5w8VW",
+      "trackName": "London - DJ Antoine vs. Mad Mark 2k16 Radio Edit",
+      "trackId": "2x12v9Gye7Bm20i5goqFTr",
+      "preview": "https://p.scdn.co/mp3-preview/33bdc25c39663f9b50ddd25a2f0da99cd9a0fafc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d9e1c306f7953c0d61be7c02490b733a970d37d8",
+      "release_date": "2016-07-15"
+    },
+    {
+      "featuredArtist": "diMaro",
+      "featuredArtistId": "2cCkEcNkCDJEeX6aT7LdUb",
+      "trackName": "London - Dimaro Remix",
+      "trackId": "3LxEqrk5YHbtCJNkrMZWfL",
+      "preview": "https://p.scdn.co/mp3-preview/03884a24744992d64cd805f7920173f7c211b962?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a6f8633260079699eb4b59a0bd9ef60bc622c07a",
+      "release_date": "2016-05-27"
+    },
+    {
+      "featuredArtist": "Stereoact",
+      "featuredArtistId": "6dXL3SnQlCGX9LCUAyin6a",
+      "trackName": "London - Stereoact Remix",
+      "trackId": "3vQhm1h6vioA3JMOOCp4fT",
+      "preview": "https://p.scdn.co/mp3-preview/1732a046a63a6f21c3caa889f5829f358a44a2d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a6f8633260079699eb4b59a0bd9ef60bc622c07a",
+      "release_date": "2016-05-27"
+    },
+    {
+      "featuredArtist": "Павел Мурашов",
+      "featuredArtistId": "6xsPsJfCgJxzTqQXDhIWU7",
+      "trackName": "Домой",
+      "trackId": "6WweyagbJMWhmsFhVFOfyz",
+      "preview": "https://p.scdn.co/mp3-preview/ffd41e04a2791e49ccfa7a4954ac8f79fc1fb694?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/873f974b4c4ca2880aca5694964bafaa56c1dbc4",
+      "release_date": "2016-04-27"
+    },
+    {
+      "featuredArtist": "Егор Крид",
+      "featuredArtistId": "2KoLmBXwsgMkfAvoPBlPmb",
+      "trackName": "Где ты, где я",
+      "trackId": "1SeAfTLNBSeQq83ZTWAYtp",
+      "preview": "https://p.scdn.co/mp3-preview/c4d6510f56d8e818c638ee8dd0ed3c3abc11aa35?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/873f974b4c4ca2880aca5694964bafaa56c1dbc4",
+      "release_date": "2016-04-27"
+    },
+    {
+      "featuredArtist": "Мот",
+      "featuredArtistId": "6OTMjaRQ9kxdwoPRYTmyOM",
+      "trackName": "Новая русская мечта",
+      "trackId": "04yXPqXEoSdHS5vqWmSSgq",
+      "preview": "https://p.scdn.co/mp3-preview/b743ba18ec8b5589cf5118a58173f459fe0620e4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/873f974b4c4ca2880aca5694964bafaa56c1dbc4",
+      "release_date": "2016-04-27"
+    },
+    {
+      "featuredArtist": "Рекорд Оркестр",
+      "featuredArtistId": "77BTkRyyefeKvcnFzhfdp2",
+      "trackName": "Баклажан",
+      "trackId": "1DsqQFo8GNc4tXTFPh2fXs",
+      "preview": "https://p.scdn.co/mp3-preview/fcde0539d3d3ea2037784fc93869cec0b150af54?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/873f974b4c4ca2880aca5694964bafaa56c1dbc4",
+      "release_date": "2016-04-27"
+    },
+    {
+      "featuredArtist": "L'one",
+      "featuredArtistId": "0x9j5hqljRaIIGjDSmsLT0",
+      "trackName": "Я хочу тебя",
+      "trackId": "4V3MuCyHr5CHWUDXzhJHVn",
+      "preview": "https://p.scdn.co/mp3-preview/000c547c884f7cdd8c4c0265f6f97ee75a3a4351?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/873f974b4c4ca2880aca5694964bafaa56c1dbc4",
+      "release_date": "2016-04-27"
+    },
+    {
+      "featuredArtist": "Скруджи",
+      "featuredArtistId": "5ZKdNe6j8vkgseAJ8odrTU",
+      "trackName": "Домофон",
+      "trackId": "2FFudIpTuvVnylGtlbolSq",
+      "preview": "https://p.scdn.co/mp3-preview/7f8c57fb4a04bd60841f3789a53d541f31e8de9b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/873f974b4c4ca2880aca5694964bafaa56c1dbc4",
+      "release_date": "2016-04-27"
+    },
+    {
+      "featuredArtist": "А-Студио",
+      "featuredArtistId": "3Q1UYSHyePG40WyEWOlzrm",
+      "trackName": "Маленький принц",
+      "trackId": "7EWWDcuTOMZ8Hm06CbbRpa",
+      "preview": "https://p.scdn.co/mp3-preview/b40026524aebb73a35de9805c94ae9c020fe34a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/873f974b4c4ca2880aca5694964bafaa56c1dbc4",
+      "release_date": "2016-04-27"
+    },
+    {
+      "featuredArtist": "Антон Беляев",
+      "featuredArtistId": "4kYiac19e5DZzjwIeUA2Zg",
+      "trackName": "Финал",
+      "trackId": "2IYgIoRYsj6eJzBTHcV0lt",
+      "preview": "https://p.scdn.co/mp3-preview/d58856b30e442397cac9bbd0b08d22044f6605c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/873f974b4c4ca2880aca5694964bafaa56c1dbc4",
+      "release_date": "2016-04-27"
+    },
+    {
+      "featuredArtist": "Poo Bear",
+      "featuredArtistId": "4Cu42W14OFOt9lqGcuanhY",
+      "trackName": "Already Know",
+      "trackId": "1UlhPyhfOPjW8X7mb6EB1B",
+      "preview": "https://p.scdn.co/mp3-preview/3fe08ce08dd0ffbe8e83e7900e6e2d6a1df9a0e8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5039096948d87dd53952260982e4a30b4ef3633b",
+      "release_date": "2014-09-24"
+    },
+    {
+      "featuredArtist": "Snoop Dogg",
+      "featuredArtistId": "7hJcb9fa4alzcOq3EaNPoG",
+      "trackName": "Magical",
+      "trackId": "30bGq1ABwDbU1XdLfLfxG9",
+      "preview": "https://p.scdn.co/mp3-preview/ed77b1dee3a0ae998f5a7f2859ec875e3c20a131?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5039096948d87dd53952260982e4a30b4ef3633b",
+      "release_date": "2014-09-24"
+    },
+    {
+      "featuredArtist": "Flo Rida",
+      "featuredArtistId": "0jnsk9HBra6NMjO2oANoPY",
+      "trackName": "I Don't Mind",
+      "trackId": "3h4U1pSSrEh8qYInKEmq42",
+      "preview": "https://p.scdn.co/mp3-preview/7c3e4b1c9e957b6c6aeb8064a0d8fb0ce3ae2fea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5039096948d87dd53952260982e4a30b4ef3633b",
+      "release_date": "2014-09-24"
+    },
+    {
+      "featuredArtist": "Сергей Минаев",
+      "featuredArtistId": "7KgU3AwBAg5kFaiJpVWVKM",
+      "trackName": "Пролог",
+      "trackId": "0VQqaudRPpjq9ywDOOrwtv",
+      "preview": "https://p.scdn.co/mp3-preview/4a27243ee20e2bf8267ed72ecb0ce983edd37be2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5b0ebe55d504050b800507f1f2a08fb6208bef44",
+      "release_date": "2014"
+    },
+    {
+      "featuredArtist": "Гарик Сукачев",
+      "featuredArtistId": "4jA3D3OF2Y9fU9GcWiPYVv",
+      "trackName": "Всё было не зря",
+      "trackId": "3zF55rkaSJ49cyH2QnqC8P",
+      "preview": "https://p.scdn.co/mp3-preview/6e50a406500314eb569b2c62679222f03c220947?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5b0ebe55d504050b800507f1f2a08fb6208bef44",
+      "release_date": "2014"
+    },
+    {
+      "featuredArtist": "Сергей Мазаев",
+      "featuredArtistId": "6W6ePQVLAdhoHqwBVifDW6",
+      "trackName": "GQ",
+      "trackId": "4Y99lbUe4iiueEjvU6dOVs",
+      "preview": "https://p.scdn.co/mp3-preview/97d129be9a7970544f44bd15c55cb89cebdf5e87?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5b0ebe55d504050b800507f1f2a08fb6208bef44",
+      "release_date": "2014"
+    },
+    {
+      "featuredArtist": "Фидель",
+      "featuredArtistId": "6Zj51ynfEixPacmTSD0rbY",
+      "trackName": "Ловушка",
+      "trackId": "3tG7S4od5qgwCQcVtr6Acr",
+      "preview": "https://p.scdn.co/mp3-preview/61c15db627ba45e56f2f44e654f5f19cb6990d4a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5b0ebe55d504050b800507f1f2a08fb6208bef44",
+      "release_date": "2014"
+    },
+    {
+      "featuredArtist": "Natan",
+      "featuredArtistId": "24usPS6scUvbG7goMpZbHJ",
+      "trackName": "Полночь",
+      "trackId": "7dowiSgmP7iLqOaLWe9NVE",
+      "preview": "https://p.scdn.co/mp3-preview/fb226bcc1761fea58a16ce36df9977ff4bee915f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5b0ebe55d504050b800507f1f2a08fb6208bef44",
+      "release_date": "2014"
+    },
+    {
+      "featuredArtist": "Тимур Сказка",
+      "featuredArtistId": "0YEJcUpdp0dH9YxeXlQJmv",
+      "trackName": "Прокатись со мной",
+      "trackId": "4rArkBNYt0obibRZWu4fuX",
+      "preview": "https://p.scdn.co/mp3-preview/ccaf20b5fc439a8fc593adf03f7bc4b853da1830?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5b0ebe55d504050b800507f1f2a08fb6208bef44",
+      "release_date": "2014"
+    },
+    {
+      "featuredArtist": "La La Land",
+      "featuredArtistId": "1DujbqFgBEu3fJ2aGMPJlF",
+      "trackName": "Not All About The Money - DJ Antoine VS Mad Mark 2K12 Mix",
+      "trackId": "3Dx0iAN7jDBAR2Sbbb7MRf",
+      "preview": "https://p.scdn.co/mp3-preview/6e7bc45d14ee9210e73a66f8547a31f5e4540268?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ee8629f061a6dd7383bea2bde3147815756a961",
+      "release_date": "2013-08-21"
+    },
+    {
+      "featuredArtist": "Timbaland",
+      "featuredArtistId": "5Y5TRrQiqgUO4S36tzjIRZ",
+      "trackName": "Not All About The Money - DJ Antoine VS Mad Mark 2K12 Mix",
+      "trackId": "3Dx0iAN7jDBAR2Sbbb7MRf",
+      "preview": "https://p.scdn.co/mp3-preview/6e7bc45d14ee9210e73a66f8547a31f5e4540268?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ee8629f061a6dd7383bea2bde3147815756a961",
+      "release_date": "2013-08-21"
+    },
+    {
+      "featuredArtist": "Grooya",
+      "featuredArtistId": "5vVorT9E4Z7YZz3fBnS9Ic",
+      "trackName": "Not All About The Money - DJ Antoine VS Mad Mark 2K12 Mix",
+      "trackId": "3Dx0iAN7jDBAR2Sbbb7MRf",
+      "preview": "https://p.scdn.co/mp3-preview/6e7bc45d14ee9210e73a66f8547a31f5e4540268?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ee8629f061a6dd7383bea2bde3147815756a961",
+      "release_date": "2013-08-21"
+    },
+    {
+      "featuredArtist": "Craig David",
+      "featuredArtistId": "2JyWXPbkqI5ZJa3gwqVa0c",
+      "trackName": "Sex In The Bathroom - Ph Electro Mix",
+      "trackId": "5zLaYirXFdrVDyYUAQa9hD",
+      "preview": "https://p.scdn.co/mp3-preview/c0e85d007068aed04faf45396d299ab12da528ad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ee8629f061a6dd7383bea2bde3147815756a961",
+      "release_date": "2013-08-21"
+    },
+    {
+      "featuredArtist": "DJ M.E.G. & Timati",
+      "featuredArtistId": "5gIg7ra72zyfI8fXV68dja",
+      "trackName": "Party Animal - Mike Candys Mix",
+      "trackId": "0hYEq8WYKwpHXPnoRxIcvl",
+      "preview": "https://p.scdn.co/mp3-preview/68eb0c93dbc17f4a7437f71cbec736ac81a9144f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ee8629f061a6dd7383bea2bde3147815756a961",
+      "release_date": "2013-08-21"
+    },
+    {
+      "featuredArtist": "Victoria Kimani",
+      "featuredArtistId": "6HbeytIa6j2WCdPQzCrXpf",
+      "trackName": "Love To Love - Rene Rodrigezz Mix",
+      "trackId": "3vShCLqOJL6Ah5QgakdxD4",
+      "preview": "https://p.scdn.co/mp3-preview/8968faa266cbd36a9ef147b7705117ecc324c5eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ee8629f061a6dd7383bea2bde3147815756a961",
+      "release_date": "2013-08-21"
+    },
+    {
+      "featuredArtist": "Eve",
+      "featuredArtistId": "4d3yvTptO48nOYTPBcPFZC",
+      "trackName": "Money In Da Bank - Bodybangers Mix",
+      "trackId": "1C4SBLQIH0iTEEZS5x4yJu",
+      "preview": "https://p.scdn.co/mp3-preview/6c0f573af8336fe355ccecb3bc406c75842d63e8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ee8629f061a6dd7383bea2bde3147815756a961",
+      "release_date": "2013-08-21"
+    },
+    {
+      "featuredArtist": "MiMS",
+      "featuredArtistId": "76RrKpsvOmSKG8CIjROdSG",
+      "trackName": "Get Money - Jerome Mix",
+      "trackId": "1ViGUGQOKPLl4jh4wzglmZ",
+      "preview": "https://p.scdn.co/mp3-preview/cab91398e01b7fef62889c43bc06ed6083b96889?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ee8629f061a6dd7383bea2bde3147815756a961",
+      "release_date": "2013-08-21"
+    },
+    {
+      "featuredArtist": "Mann",
+      "featuredArtistId": "4H27YVxdxJKY8ngPzrolaX",
+      "trackName": "Get Money - Jerome Mix",
+      "trackId": "1ViGUGQOKPLl4jh4wzglmZ",
+      "preview": "https://p.scdn.co/mp3-preview/cab91398e01b7fef62889c43bc06ed6083b96889?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ee8629f061a6dd7383bea2bde3147815756a961",
+      "release_date": "2013-08-21"
+    },
+    {
+      "featuredArtist": "Big Ali",
+      "featuredArtistId": "4LqXqd68BBoEk9RDYeS0ls",
+      "trackName": "Groove On - DJ Antoine VS Mad Mark Mix",
+      "trackId": "1WBIXKO98F4pnJ5XQ8wqI7",
+      "preview": "https://p.scdn.co/mp3-preview/6ef7637a82415ab5d09a9877375ea75a8e1fc798?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ee8629f061a6dd7383bea2bde3147815756a961",
+      "release_date": "2013-08-21"
+    },
+    {
+      "featuredArtist": "Mario Winans",
+      "featuredArtistId": "4BIQA9vRkqXEnA2twmq7mU",
+      "trackName": "Forever - Flamemakers Mix",
+      "trackId": "79lAE8oSFdRa8izPVeCMsa",
+      "preview": "https://p.scdn.co/mp3-preview/3df9cf5fafa7452bdec7f303343a72084c04f4f3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ee8629f061a6dd7383bea2bde3147815756a961",
+      "release_date": "2013-08-21"
+    },
+    {
+      "featuredArtist": "Busta Rhymes & Mariya",
+      "featuredArtistId": "1kSwm3dhwc2gumbZZ4Q0l3",
+      "trackName": "Love You - B-Case VS Nicolas Rapture Mix",
+      "trackId": "1sau23KthJ7XOFF7LJl5sE",
+      "preview": "https://p.scdn.co/mp3-preview/891cfb6694cfa9bfebea623330f6ad66b1482fd5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ee8629f061a6dd7383bea2bde3147815756a961",
+      "release_date": "2013-08-21"
+    },
+    {
+      "featuredArtist": "Kalenna",
+      "featuredArtistId": "2NoFr6doacvN58q9p9EFky",
+      "trackName": "Sexy Bitch - Houseshaker Mix",
+      "trackId": "7psyBQLtju0NPcqjPQFfCu",
+      "preview": "https://p.scdn.co/mp3-preview/005c29d7f8928ba2b254f76b2c5350f3d3348333?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ee8629f061a6dd7383bea2bde3147815756a961",
+      "release_date": "2013-08-21"
+    },
+    {
+      "featuredArtist": "J-Son",
+      "featuredArtistId": "0aImibWL2VPitiLu5WyiOA",
+      "trackName": "Match Me - DJ Antoine vs. Mad Mark Radio Re-Construction",
+      "trackId": "5AjyL00tpk9HuPxOF0B7Ty",
+      "preview": "https://p.scdn.co/mp3-preview/7bd606446ffe49ef9f1e0c689d155a6c6668c276?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c4a327c10af2d2268db210dd1ddbaab00ed44ce0",
+      "release_date": "2013-05-14"
+    },
+    {
+      "featuredArtist": "Matisse & Sadko",
+      "featuredArtistId": "2QMCcKIPHnjQaPPgoEst88",
+      "trackName": "My Life",
+      "trackId": "6gXo3c6Ry7r4tScxMRML1D",
+      "preview": "https://p.scdn.co/mp3-preview/70e93ee69ae6c8c61d6500caa7f937ca382edff1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c4a327c10af2d2268db210dd1ddbaab00ed44ce0",
+      "release_date": "2013-05-14"
+    },
+    {
+      "featuredArtist": "Snoop Dogg & Big Ali",
+      "featuredArtistId": "5VaOikPGFEvVAyN1AFNPUw",
+      "trackName": "Groove On",
+      "trackId": "4GxGHUwBrD9Z3nFHiIjp5V",
+      "preview": "https://p.scdn.co/mp3-preview/edc4b117ba3a7ccb218c2b09c6b53f552c479761?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c4a327c10af2d2268db210dd1ddbaab00ed44ce0",
+      "release_date": "2013-05-14"
+    },
+    {
+      "featuredArtist": "Musik Hayk",
+      "featuredArtistId": "4pq1IfyGUSL1G6PSpmZDwk",
+      "trackName": "Last Call",
+      "trackId": "74dku4zirLhTw3BSyoYTkG",
+      "preview": "https://p.scdn.co/mp3-preview/6151f9870e1d8c991de982a43e6da3e1771b1eb3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c4a327c10af2d2268db210dd1ddbaab00ed44ce0",
+      "release_date": "2013-05-14"
+    },
+    {
+      "featuredArtist": "MIMS & MANN",
+      "featuredArtistId": "0agHhTtX372AjkL53BEokA",
+      "trackName": "Get Money",
+      "trackId": "0VcURlc0FN6MyXFIWOEZie",
+      "preview": "https://p.scdn.co/mp3-preview/dae569346fa7cd1395d3c407245f81cb8565d8e7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c4a327c10af2d2268db210dd1ddbaab00ed44ce0",
+      "release_date": "2013-05-14"
+    },
+    {
+      "featuredArtist": "Eve",
+      "featuredArtistId": "1svumhJbXDIuLVd9PHOWYG",
+      "trackName": "Money in Da Bank",
+      "trackId": "6HENiVnzxCqoJkK7GpEsgX",
+      "preview": "https://p.scdn.co/mp3-preview/751a8587c836f0130e9524f29403a793167c686b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c4a327c10af2d2268db210dd1ddbaab00ed44ce0",
+      "release_date": "2013-05-14"
+    },
+    {
+      "featuredArtist": "Laurent Wolf & Michael Yousher",
+      "featuredArtistId": "38QvOSY4SJOYVgBFL5zIna",
+      "trackName": "Got Damn",
+      "trackId": "20UdLtEftYBwRVbgYCSVJa",
+      "preview": "https://p.scdn.co/mp3-preview/09669f196d6cfd03782154c5c6b05115c880c51d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c4a327c10af2d2268db210dd1ddbaab00ed44ce0",
+      "release_date": "2013-05-14"
+    },
+    {
+      "featuredArtist": "Tonight",
+      "featuredArtistId": "6f1YthbbEpu9qHzOUW2UYI",
+      "trackName": "Tonight - FlameMakers Radio Edit",
+      "trackId": "6ROla1r3iTehC6Bc6r2GtV",
+      "preview": "https://p.scdn.co/mp3-preview/679cf48b266596bbe8000150c2eb2329158463ba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c4a327c10af2d2268db210dd1ddbaab00ed44ce0",
+      "release_date": "2013-05-14"
+    },
+    {
+      "featuredArtist": "DJ M.E.G.",
+      "featuredArtistId": "0oton6LfJgnGD1ymyunCwC",
+      "trackName": "Party Animal",
+      "trackId": "1YpCDnazIUy94DsLTRTjxV",
+      "preview": "https://p.scdn.co/mp3-preview/61fcfdb169d0c9c0b439e6edaec082c2b8c068b0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c4a327c10af2d2268db210dd1ddbaab00ed44ce0",
+      "release_date": "2013-05-14"
+    },
+    {
+      "featuredArtist": "Eve",
+      "featuredArtistId": "5gka2ttRIfHnsTIbY6LY0f",
+      "trackName": "Money in Da Bank - Bodybangers Remix",
+      "trackId": "6rjCe3p4NoVA2fTtqo1RT9",
+      "preview": "https://p.scdn.co/mp3-preview/d1bc9ca88fee1a0b7dbe39adfe68502e58cdea81?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6cffab5318a9b36a433b36ca4e2c6c0399783837",
+      "release_date": "2013-03-26"
+    },
+    {
+      "featuredArtist": "Matisse",
+      "featuredArtistId": "1GD9j2jo3oO7rd3a6kPrqP",
+      "trackName": "My Life",
+      "trackId": "3rMJqJyf02JWeTQjgEVrUw",
+      "preview": "https://p.scdn.co/mp3-preview/cb0988a2ced28e06fe1bbd522cdc23c38a353140?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f4d0399752aa28f26c6b2b83c9a676a2a1006a4",
+      "release_date": "2013-03-08"
+    },
+    {
+      "featuredArtist": "Sadko",
+      "featuredArtistId": "2o38eZ4qE1VkB3iu46wYih",
+      "trackName": "My Life",
+      "trackId": "3rMJqJyf02JWeTQjgEVrUw",
+      "preview": "https://p.scdn.co/mp3-preview/cb0988a2ced28e06fe1bbd522cdc23c38a353140?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f4d0399752aa28f26c6b2b83c9a676a2a1006a4",
+      "release_date": "2013-03-08"
+    },
+    {
+      "featuredArtist": "Diddy",
+      "featuredArtistId": "59wfkuBoNyhDMQGCljbUbA",
+      "trackName": "I'm on You - DJ Antoine vs. Mad Mark Mix",
+      "trackId": "3cH45VLC6uTsoiRnT13sBB",
+      "preview": "https://p.scdn.co/mp3-preview/fcd163b666a7cfdd68c041aa39f970657c297c5b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f4d0399752aa28f26c6b2b83c9a676a2a1006a4",
+      "release_date": "2013-03-08"
+    },
+    {
+      "featuredArtist": "DJ Antoine",
+      "featuredArtistId": "6kznVeFL27JEe3xqcXBZxn",
+      "trackName": "I'm on You - DJ Antoine vs. Mad Mark Mix",
+      "trackId": "3cH45VLC6uTsoiRnT13sBB",
+      "preview": "https://p.scdn.co/mp3-preview/fcd163b666a7cfdd68c041aa39f970657c297c5b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f4d0399752aa28f26c6b2b83c9a676a2a1006a4",
+      "release_date": "2013-03-08"
+    },
+    {
+      "featuredArtist": "Dirty Money",
+      "featuredArtistId": "2L6ltv7c16hTJuAGZEVjrR",
+      "trackName": "I'm on You - DJ Antoine vs. Mad Mark Mix",
+      "trackId": "3cH45VLC6uTsoiRnT13sBB",
+      "preview": "https://p.scdn.co/mp3-preview/fcd163b666a7cfdd68c041aa39f970657c297c5b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f4d0399752aa28f26c6b2b83c9a676a2a1006a4",
+      "release_date": "2013-03-08"
+    },
+    {
+      "featuredArtist": "Busta Rhymes",
+      "featuredArtistId": "1YfEcTuGvBQ8xSD1f53UnK",
+      "trackName": "Love You - B-Case vs. Nicolas Rapture Mix",
+      "trackId": "2T8tlhONH8pZAqkxxvXCbY",
+      "preview": "https://p.scdn.co/mp3-preview/82b4e5fc31b56af7733fcac600dca703e657fc99?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f4d0399752aa28f26c6b2b83c9a676a2a1006a4",
+      "release_date": "2013-03-08"
+    },
+    {
+      "featuredArtist": "Mariya",
+      "featuredArtistId": "3mwgNIwMWW7qV8bN9BplLh",
+      "trackName": "Love You - B-Case vs. Nicolas Rapture Mix",
+      "trackId": "2T8tlhONH8pZAqkxxvXCbY",
+      "preview": "https://p.scdn.co/mp3-preview/82b4e5fc31b56af7733fcac600dca703e657fc99?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f4d0399752aa28f26c6b2b83c9a676a2a1006a4",
+      "release_date": "2013-03-08"
+    },
+    {
+      "featuredArtist": "Laurent Wolf",
+      "featuredArtistId": "0U2M5hyVn2T78XKlRHJFcn",
+      "trackName": "Got Damn",
+      "trackId": "3IVE8xex1iS89al3rJlxZN",
+      "preview": "https://p.scdn.co/mp3-preview/c6ac692b56d6b3a699ae1838a5646d7ec3e53c61?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f4d0399752aa28f26c6b2b83c9a676a2a1006a4",
+      "release_date": "2013-03-08"
+    },
+    {
+      "featuredArtist": "Michael Yousher",
+      "featuredArtistId": "2MqJlJ2iVyRaE6lBhvChxK",
+      "trackName": "Got Damn",
+      "trackId": "3IVE8xex1iS89al3rJlxZN",
+      "preview": "https://p.scdn.co/mp3-preview/c6ac692b56d6b3a699ae1838a5646d7ec3e53c61?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f4d0399752aa28f26c6b2b83c9a676a2a1006a4",
+      "release_date": "2013-03-08"
+    },
+    {
+      "featuredArtist": "Music Hayk",
+      "featuredArtistId": "0Tg5Ssl07AbUzKWTCa40fG",
+      "trackName": "Last Call",
+      "trackId": "551BludpamFCCzOYfdWjK2",
+      "preview": "https://p.scdn.co/mp3-preview/8fa0bdb3f5a100b9ca595d19dfd55180821ce511?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f4d0399752aa28f26c6b2b83c9a676a2a1006a4",
+      "release_date": "2013-03-08"
+    },
+    {
+      "featuredArtist": "Blue Marine",
+      "featuredArtistId": "5MxrPYGzDY1ZJB8AY222Ww",
+      "trackName": "Welcome to Saint Tropez - Russian Version",
+      "trackId": "1WtEDPhypNPtblvNvxbAta",
+      "preview": "https://p.scdn.co/mp3-preview/44db79f4da8c6586ee0bb90f8a55bca2b457f3a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f4d0399752aa28f26c6b2b83c9a676a2a1006a4",
+      "release_date": "2013-03-08"
+    },
+    {
+      "featuredArtist": "Big Ali",
+      "featuredArtistId": "1oxPqkVaoEHmUdawJ4Dtq1",
+      "trackName": "Groove On",
+      "trackId": "4txAEfBYoZ0PsS7okAPpVT",
+      "preview": "https://p.scdn.co/mp3-preview/d2d24056e205ce2816eef5ce89f67c9290918d38?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f5eeb6a8c5531985182999c650d2ff1fa6522fde",
+      "release_date": "2013-02-20"
+    },
+    {
+      "featuredArtist": "DJ Antoine vs. Mad Mark",
+      "featuredArtistId": "79HuVKiPd47qinpWHkObeM",
+      "trackName": "Not All About the Money - Dj Antoine Vs Mad Mark 2K12 Radio Edit",
+      "trackId": "3mNtRmdSwSV6wWTPYgB3Dx",
+      "preview": "https://p.scdn.co/mp3-preview/a56c43ac66e592c15623055b62b109bf83f7cfbc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9335a46477d016440f650d4fa20c8fe47f60b0ad",
+      "release_date": "2012-10-26"
+    },
+    {
+      "featuredArtist": "Jerome",
+      "featuredArtistId": "4xcDVatLFh6qlcm41er3LV",
+      "trackName": "Not All About the Money - Jerome Remix",
+      "trackId": "6xZlwFFEdfWa7NB7g6LTSU",
+      "preview": "https://p.scdn.co/mp3-preview/6bddee83f3a4a7e4c7fad176866e39bd51fb5dac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9335a46477d016440f650d4fa20c8fe47f60b0ad",
+      "release_date": "2012-10-26"
+    },
+    {
+      "featuredArtist": "PH Electro",
+      "featuredArtistId": "6bwJA8gugndMQxiuMsnYDV",
+      "trackName": "Not All About the Money - Ph Electro Remix",
+      "trackId": "3EeQ02wk1Z2XPPM6h0RDKN",
+      "preview": "https://p.scdn.co/mp3-preview/0c4b6c101385a0a14debe9c295b34f2bae7e9ce2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9335a46477d016440f650d4fa20c8fe47f60b0ad",
+      "release_date": "2012-10-26"
+    },
+    {
+      "featuredArtist": "Dukebox",
+      "featuredArtistId": "0L2R9miFNObeJxSrvdqeKS",
+      "trackName": "Not All About the Money - Dukebox Remix",
+      "trackId": "27G0VgsoGoPsubOh2GOwRu",
+      "preview": "https://p.scdn.co/mp3-preview/14cb9b96cf664e3173a1002fdd69e8a4e551174a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9335a46477d016440f650d4fa20c8fe47f60b0ad",
+      "release_date": "2012-10-26"
+    },
+    {
+      "featuredArtist": "SCNDL",
+      "featuredArtistId": "3Y7sK4nACC8R7WwAUUumCL",
+      "trackName": "Not All About the Money - Scndl Remix",
+      "trackId": "4PdQM6LxkZURcxUlEi0kAb",
+      "preview": "https://p.scdn.co/mp3-preview/fa8a832f2a1657a861e99799e6e194c92cb00aec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9335a46477d016440f650d4fa20c8fe47f60b0ad",
+      "release_date": "2012-10-26"
+    },
+    {
+      "featuredArtist": "La La Land feat. Timbaland",
+      "featuredArtistId": "54ceb3DuRKvXNMyZ3X55IP",
+      "trackName": "Not All About The Money",
+      "trackId": "2JUCs15hmPCn6zAbxku2iJ",
+      "preview": "https://p.scdn.co/mp3-preview/31c084c040ed7395ca324cb6bdc3e33c15603c2a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5abdbce21bd418c0efafc4d794fe3a8777cf48be",
+      "release_date": "2012-10-01"
+    },
+    {
+      "featuredArtist": "Mann",
+      "featuredArtistId": "3GiE0x3ikO2HMmmzHtG88K",
+      "trackName": "Get Money",
+      "trackId": "3ufH7QZBQ4pcKx05YzlN1P",
+      "preview": "https://p.scdn.co/mp3-preview/51f879f7de8418893c98219274b6c0365960a21c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca24752b9e8aaca8243787df2c2be81aa6fdf6d1",
+      "release_date": "2012-06-22"
+    },
+    {
+      "featuredArtist": "Tom Novy",
+      "featuredArtistId": "1EVpn7mXyF07LuJqgUk6RX",
+      "trackName": "I'm on You - Tom Novy Club Mix",
+      "trackId": "2wxF0S52SbvACHQKQs7WXx",
+      "preview": "https://p.scdn.co/mp3-preview/c500e2656d82aa4123a3a0cc7ff2d279de96f4d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b36775d7747e8ac91cf504df490054a69988e7d1",
+      "release_date": "2012-04-06"
+    },
+    {
+      "featuredArtist": "Clubzound",
+      "featuredArtistId": "1JqS1aE7WBVILtsRwQTeRu",
+      "trackName": "I'm on You - Clubzound Remix",
+      "trackId": "7fVwu1w3x14zKxPhh7Nyiz",
+      "preview": "https://p.scdn.co/mp3-preview/b01c7cf8f2da38e765127bc70d65deb501d972f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b36775d7747e8ac91cf504df490054a69988e7d1",
+      "release_date": "2012-04-06"
+    },
+    {
+      "featuredArtist": "Claude Njoya",
+      "featuredArtistId": "7HCQzqeSKsu9Kw4UYj20Zi",
+      "trackName": "I'm on You - Richard Bahericz & Claude Njoya Big Room Remix",
+      "trackId": "4yeteW78PhbdvxbOjneBcp",
+      "preview": "https://p.scdn.co/mp3-preview/38749feaa0086fc83449f53f25f15be78adaa444?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b36775d7747e8ac91cf504df490054a69988e7d1",
+      "release_date": "2012-04-06"
+    },
+    {
+      "featuredArtist": "Mad Mark",
+      "featuredArtistId": "5Qb67Tnyy7jg9YWh0WtgHx",
+      "trackName": "Not All About the Money - DJ Antoine vs Mad Mark 2k12 Mix",
+      "trackId": "2iauA2G746hwS56eVJp0YP",
+      "preview": "https://p.scdn.co/mp3-preview/6e7bc45d14ee9210e73a66f8547a31f5e4540268?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/994a2fb9b18d9d68f1c00de0c215de0be16af646",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Flamemakers",
+      "featuredArtistId": "5Wj6fYC6E3dw2zlTedondN",
+      "trackName": "Forever - Flamemakers Mix",
+      "trackId": "5cHDYFgv9WzJMIOGMxgCOH",
+      "preview": "https://p.scdn.co/mp3-preview/de4194403f8db4154e95376bf4a4c64c47310eea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/994a2fb9b18d9d68f1c00de0c215de0be16af646",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Remady",
+      "featuredArtistId": "2JVelKqLS2W6JxZN4GpmPk",
+      "trackName": "Groove On - Remady Mix",
+      "trackId": "5kD4QiKwLzHdwJ3Rbeoh7Q",
+      "preview": "https://p.scdn.co/mp3-preview/3515a7a4e6e668481c11fd64300474f92e2cc987?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/994a2fb9b18d9d68f1c00de0c215de0be16af646",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "B-Case",
+      "featuredArtistId": "1o9x7ez0NvhDb7gBqrYnUj",
+      "trackName": "Love You - B Case vs Nicolas Rapture Mix",
+      "trackId": "3g6cOPHwB4DnoBr7oFttj9",
+      "preview": "https://p.scdn.co/mp3-preview/e384b136c2708754d14ef81eba03461babccf328?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/994a2fb9b18d9d68f1c00de0c215de0be16af646",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Nicolas Rapture",
+      "featuredArtistId": "2sUde7lYQMMkPlgo9INoKn",
+      "trackName": "Love You - B Case vs Nicolas Rapture Mix",
+      "trackId": "3g6cOPHwB4DnoBr7oFttj9",
+      "preview": "https://p.scdn.co/mp3-preview/e384b136c2708754d14ef81eba03461babccf328?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/994a2fb9b18d9d68f1c00de0c215de0be16af646",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Mann",
+      "featuredArtistId": "3sAHunotiQdUXKSsFj5KUg",
+      "trackName": "Get Money - Jerome Radio Edit",
+      "trackId": "5Y2u8s3yTr8Pk6AleJIGxw",
+      "preview": "https://p.scdn.co/mp3-preview/200702ab11125677371f029ef242b7ad1baed2a0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/994a2fb9b18d9d68f1c00de0c215de0be16af646",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Bodybangers",
+      "featuredArtistId": "7koJQAjVzXoUpH6pXrihXA",
+      "trackName": "Money in Da Bank - Bodybangers Mix",
+      "trackId": "72dnAFM47UD0NQafhDpaUN",
+      "preview": "https://p.scdn.co/mp3-preview/d1bc9ca88fee1a0b7dbe39adfe68502e58cdea81?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/994a2fb9b18d9d68f1c00de0c215de0be16af646",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Rene Rodrigezz",
+      "featuredArtistId": "74KsNtV6tvDuIwI9V2JfQO",
+      "trackName": "Love to Love - Rene Rodrigezz Mix",
+      "trackId": "3mSdERRPv5ugEmi0ynNobg",
+      "preview": "https://p.scdn.co/mp3-preview/8dc85b63f32a339b07816a941e79684aa305c151?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/994a2fb9b18d9d68f1c00de0c215de0be16af646",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Mike Candys",
+      "featuredArtistId": "24Sxfn1uAoJmuR9N72drt9",
+      "trackName": "Party Animal - Mike Candys Mix",
+      "trackId": "30Iucauu9jpOEibG8xhgwQ",
+      "preview": "https://p.scdn.co/mp3-preview/55c7ec7a296d846cbba052eea627e138b83c7370?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/994a2fb9b18d9d68f1c00de0c215de0be16af646",
+      "release_date": "2012"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "artistName": "Geike Arnaert",
+  "features": [
+    {
+      "featuredArtist": "Tom Helsen",
+      "featuredArtistId": "5MacWqJvtyFaHh61tid4ID",
+      "trackName": "Home",
+      "trackId": "7udvd8NqFl0WOKDdJ51SPf",
+      "preview": "https://p.scdn.co/mp3-preview/f0d3e21a3cc5bbd6da0d1631d0efac24563e0940?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/411f40dc168461d37c14df9122882e7b154a4a04",
+      "release_date": "2008-12-01"
+    },
+    {
+      "featuredArtist": "BLØF",
+      "featuredArtistId": "0KQX2wRHV2VLjuscfJFNxB",
+      "trackName": "Zoutelande",
+      "trackId": "0le8EcVp4x1JjMhwRKIOVi",
+      "preview": "https://p.scdn.co/mp3-preview/0eacd95d186077885f9f82f66073ab5d57f5bcc7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/554691fcc339c174b6964ea0d7212780753366b5",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Bobbejaan Schoepen",
+      "featuredArtistId": "1W3CrvfWcHSITepgUIFLXW",
+      "trackName": "Le temps des cerises (Bobbejaan, 2008)",
+      "trackId": "3hBYbXEE01LEIBDfdgSapm",
+      "preview": "https://p.scdn.co/mp3-preview/b428ac514eb7d3691c2d5fbd1b20817e724f8642?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c67351da5283ff78437a49af41f7ca60c8526832",
+      "release_date": "2011-01-14"
+    },
+    {
+      "featuredArtist": "Bobbejaan",
+      "featuredArtistId": "0wcpc5hDbVAxU4NHCBBIU9",
+      "trackName": "Le Temps Des Cerises",
+      "trackId": "6ljYDRu96ItVz2CfujocKX",
+      "preview": "https://p.scdn.co/mp3-preview/b1a66d4b369fd6e1b392b361bf60096775438313?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/969bc552d6a636f72187ac6bf769cf0bcc8009e4",
+      "release_date": "2008-05-18"
+    },
+    {
+      "featuredArtist": "Ozark Henry",
+      "featuredArtistId": "3a9AG5fMqAqrXkeiwYtarJ",
+      "trackName": "Strange Lit Star",
+      "trackId": "77NtChvE4QOaGPSD6paa8S",
+      "preview": "https://p.scdn.co/mp3-preview/a68bf4e8d2442b70808abac41392dd436d24388f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8760a445a7100ecd45e9fddfaf0cdc6c26deb372",
+      "release_date": "2002-11-18"
+    }
+  ]
+}

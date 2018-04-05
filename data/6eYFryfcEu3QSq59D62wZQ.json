@@ -1,0 +1,32 @@
+{
+  "artistName": "Brendon Urie",
+  "features": [
+    {
+      "featuredArtist": "Lil Dicky",
+      "featuredArtistId": "1tqhsYv8yBBdwANFNzHtcr",
+      "trackName": "Molly (feat. Brendon Urie of Panic at the Disco)",
+      "trackId": "0NBiC3zLXoBQXBjsbnbwJq",
+      "preview": "https://p.scdn.co/mp3-preview/aafed57c22e629a3895006f39b6834b60773bd3b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/40bcd85ff0c290b41f3e818c3de810182473ec77",
+      "release_date": "2015-07-31"
+    },
+    {
+      "featuredArtist": "Dillon Francis",
+      "featuredArtistId": "5R3Hr2cnCCjt220Jmt2xLf",
+      "trackName": "Love in the Middle of a Firefight",
+      "trackId": "2b8HFKbYzxLykGtBVKL0u6",
+      "preview": "https://p.scdn.co/mp3-preview/2fde1ba6d70fc47fd1ccb3053b947674ab325df3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff3d65d3d2e007e719a3f293da4b97749f7d6c57",
+      "release_date": "2015-06-24"
+    },
+    {
+      "featuredArtist": "Travie McCoy",
+      "featuredArtistId": "7o9Nl7K1Al6NNAHX6jn6iG",
+      "trackName": "Keep On Keeping On (feat. Brendon Urie)",
+      "trackId": "7ezqQc9fdjV2YNbBIQNAUz",
+      "preview": "https://p.scdn.co/mp3-preview/c207cdc632df952a21e0649b52e80f91a2237ff8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/47ad13d9b097b644fa30f166d5476250b87c1e74",
+      "release_date": "2014-03-24"
+    }
+  ]
+}

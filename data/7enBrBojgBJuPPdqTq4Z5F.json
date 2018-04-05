@@ -1,0 +1,32 @@
+{
+  "artistName": "Citizen Cope",
+  "features": [
+    {
+      "featuredArtist": "Carlos Santana",
+      "featuredArtistId": "7yGQgQiiKpg2k00JXf8hJk",
+      "trackName": "Son's Gonna Rise",
+      "trackId": "69BakIEDxdEDYakWkimFAY",
+      "preview": "https://p.scdn.co/mp3-preview/2c3b67f0e0981b7da31229d578311c879756d261?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13d5565e6759d275441bfd91c615dd5e906f9190",
+      "release_date": "2004"
+    },
+    {
+      "featuredArtist": "Robert Randolph",
+      "featuredArtistId": "0u7gssqdwWaO1aMaSuvXtx",
+      "trackName": "Son's Gonna Rise - New Radio Mix",
+      "trackId": "52tjHPPO2jw6YOrL4pZepe",
+      "preview": "https://p.scdn.co/mp3-preview/664fad772c610bdd725f320524ac998e3c2f8613?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7accb16e97209ad3fa67bf561bf0c209c1cc53a5",
+      "release_date": "2003"
+    },
+    {
+      "featuredArtist": "Easy Star All-Stars",
+      "featuredArtistId": "5FWTu1MZdB5fjKif2rZldJ",
+      "trackName": "Karma Police",
+      "trackId": "6ifB0qUKvdMxkUcG3gXGcF",
+      "preview": "https://p.scdn.co/mp3-preview/0d0dedebdf3c9ed5c61f034e5424af38b3fd68da?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0282e6a534021c5ad6dcd9d0afd581e2e7df5198",
+      "release_date": "2016-08-12"
+    }
+  ]
+}

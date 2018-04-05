@@ -1,0 +1,383 @@
+{
+  "artistName": "Alcione",
+  "features": [
+    {
+      "featuredArtist": "Sylvia Nazareth",
+      "featuredArtistId": "2tZD5QqJrSMgKAalwAQLwp",
+      "trackName": "A Sombra do Teu Sorriso - Ao Vivo",
+      "trackId": "7ewrYh1HjFYVMUVhOKIFJk",
+      "preview": "https://p.scdn.co/mp3-preview/8ce42622f113ac695f3e71d4f6976b47c8d994be?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff22c673f72c60ef63280f7bf584e830816f7dbc",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Alexandre Pires",
+      "featuredArtistId": "0Rrl4hJQjRAbGtiEwAqS5N",
+      "trackName": "Paixão de Dartagnan - Ao Vivo",
+      "trackId": "16JZpnGi6GY8XXzlP8zU6X",
+      "preview": "https://p.scdn.co/mp3-preview/fe85787899d2e4bd220ebe049b1858fe1be5d799?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff22c673f72c60ef63280f7bf584e830816f7dbc",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Grupo Revelação",
+      "featuredArtistId": "7yQrcdkLdBAkV7yY9fF2Hw",
+      "trackName": "O Samba Me Chamou",
+      "trackId": "75oBA732AwQSUZc6rovWJ6",
+      "preview": "https://p.scdn.co/mp3-preview/45e0c8bbed329269134e2ab8e1e3d12b38d37d62?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5619f29c118831a8a97d93c1bae6a026b1ca37a8",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Wilson Simoninha",
+      "featuredArtistId": "2xhtX9ufvSwDbiH9VQ8pHr",
+      "trackName": "Chutando o Balde",
+      "trackId": "3A5XRxoEqzrfyNTuEi5ZSK",
+      "preview": "https://p.scdn.co/mp3-preview/ca0b0d105b7f61a60cb9b65578070d26bc249fad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5619f29c118831a8a97d93c1bae6a026b1ca37a8",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Diogo Nogueira",
+      "featuredArtistId": "57xRtfFlssbpntpRQOBodd",
+      "trackName": "Poder da Criação - Ao Vivo",
+      "trackId": "79UIOJl1QSYwmugONcB0pv",
+      "preview": "https://p.scdn.co/mp3-preview/0de310bc612b1399d80728a97806fb8f68efb184?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3f0ae46d300444c2fef32093055371da4fdfc206",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Martinho Da Vila",
+      "featuredArtistId": "6rM2yY0GnVcOHMU5GD3y9E",
+      "trackName": "Ilha de Maré / Roda Ciranda - Ao Vivo",
+      "trackId": "3hgXcpxZvKacgyRprYfV5x",
+      "preview": "https://p.scdn.co/mp3-preview/f28dcd9c5a7a91bae4deea113dac13ea2106830f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3f0ae46d300444c2fef32093055371da4fdfc206",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Lecy Brandao",
+      "featuredArtistId": "60lzetELVb9wLXvMC3olhc",
+      "trackName": "Verde e Rosa - Ao Vivo",
+      "trackId": "3irq6RarDkfjfXTpoau7R7",
+      "preview": "https://p.scdn.co/mp3-preview/003fd2186e3d5f606a8d752ff78970127646e364?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3f0ae46d300444c2fef32093055371da4fdfc206",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Djavan",
+      "featuredArtistId": "5rrmaoBXZ7Jcs4Qb77j0YA",
+      "trackName": "Capim - Ao Vivo",
+      "trackId": "1ARhYC6vPMt22iNLpqYe1Q",
+      "preview": "https://p.scdn.co/mp3-preview/b74dadf79540a0a0e0b3f986cea73ae60545bb60?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3f0ae46d300444c2fef32093055371da4fdfc206",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Jorge Aragão",
+      "featuredArtistId": "2cAooeeHKk2UvzUgIxpS0y",
+      "trackName": "Na Mesma Proporção - Ao Vivo",
+      "trackId": "3lgLtsCz5CSAi0KmQzQvZC",
+      "preview": "https://p.scdn.co/mp3-preview/676d64444b99c188a2373f5b184c82eac1320415?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3f0ae46d300444c2fef32093055371da4fdfc206",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Lenine",
+      "featuredArtistId": "4YLBdrR3DVSMncm785NH6C",
+      "trackName": "Evolução - Ao Vivo",
+      "trackId": "6J1OyYDtLuASNCP531RyNc",
+      "preview": "https://p.scdn.co/mp3-preview/350dcd44e342f80ad30f3f957ade58f33a29f59c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3f0ae46d300444c2fef32093055371da4fdfc206",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Vitor & Leo",
+      "featuredArtistId": "2iKXUv6hTQtUZKyy3rSdaN",
+      "trackName": "Romaria - Ao Vivo",
+      "trackId": "1gS7SNMVm10GmbQroWHnr8",
+      "preview": "https://p.scdn.co/mp3-preview/beb1813a663ef9ec24fed1aa0921b323051a7c5d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3f0ae46d300444c2fef32093055371da4fdfc206",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Maria Bethânia",
+      "featuredArtistId": "3f5VCwd57gZsqMad28jyLV",
+      "trackName": "Sem Mais Adeus - Ao Vivo",
+      "trackId": "7GUoYOfjN5CeF6Ca9HFBC6",
+      "preview": "https://p.scdn.co/mp3-preview/6431aae611eb82d13454fef3c38e29e2c5ea98c7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3f0ae46d300444c2fef32093055371da4fdfc206",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Andreia Caffe",
+      "featuredArtistId": "3JX3eCSeFM9gEDRi7JVEzA",
+      "trackName": "Sorriso de um Banjo - Ao Vivo",
+      "trackId": "2vLDi3AlhnLhUSCSA5AHWt",
+      "preview": "https://p.scdn.co/mp3-preview/c3eae95c91013f87d2fd96926664219cd9f1cf74?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3f0ae46d300444c2fef32093055371da4fdfc206",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Emílio Santiago",
+      "featuredArtistId": "6quVEYAfHqHwpp8JujXBHt",
+      "trackName": "40 Anos - Ao Vivo",
+      "trackId": "4taUBNH9GqkKIN5b0X8ZOY",
+      "preview": "https://p.scdn.co/mp3-preview/05aad14560d197374fc33874b48212b15ee1053f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3f0ae46d300444c2fef32093055371da4fdfc206",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Cezzinha",
+      "featuredArtistId": "1jnneYVPnRPWX9PouQgsTQ",
+      "trackName": "Quem Me Levará Sou Eu / Contrato de Separação - Ao Vivo",
+      "trackId": "3z6l1LD6HsbbyVWEeinqJm",
+      "preview": "https://p.scdn.co/mp3-preview/23ac7f292fa5e7797c476bed6cf6eac269a57ef0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3f0ae46d300444c2fef32093055371da4fdfc206",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Mv Bill",
+      "featuredArtistId": "4oE4ASN8auDhoW9vsXp3VJ",
+      "trackName": "Meu Ébano - Ao Vivo",
+      "trackId": "6YeYBS64fN6J6UMYn28qnC",
+      "preview": "https://p.scdn.co/mp3-preview/c88412918b2825fd51caea665e100c617d91d327?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3f0ae46d300444c2fef32093055371da4fdfc206",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Áurea Martins",
+      "featuredArtistId": "2IhXQoBqrZnxbQgLlnEQuh",
+      "trackName": "Pela Rua - Ao Vivo",
+      "trackId": "1177RXRLhH9tKnIAMkqK5P",
+      "preview": "https://p.scdn.co/mp3-preview/f7031b1c90ced1ee06fecda2fc366b47ccce05c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3f0ae46d300444c2fef32093055371da4fdfc206",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Zeca Pagodinho",
+      "featuredArtistId": "3qZ2n5keOAat1SoF6bHwmb",
+      "trackName": "Êh, Êh - Ao Vivo",
+      "trackId": "3H5wnOaWkfEFtq0RaoqxeG",
+      "preview": "https://p.scdn.co/mp3-preview/8276e83859fc3ab3428964e12953503c3c623213?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3f0ae46d300444c2fef32093055371da4fdfc206",
+      "release_date": "2015-08-28"
+    },
+    {
+      "featuredArtist": "Tarcio",
+      "featuredArtistId": "5PI5hb6WAGpAFpxKmIlgqF",
+      "trackName": "Mudança Dos Ventos / A Voz de uma Pessoa Vitoriosa - Ao Vivo",
+      "trackId": "5iFgOwi0LJB3qu13THWAKF",
+      "preview": "https://p.scdn.co/mp3-preview/bdd2c298e5ac3a73c2d671f077f44704667c4475?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d59fb330df77ba19bb9d3234b0a5519e63651fe1",
+      "release_date": "2014-04-29"
+    },
+    {
+      "featuredArtist": "Cézinha",
+      "featuredArtistId": "6jhwiJeAoXGsjcvNbZFitA",
+      "trackName": "Que Me Levará Sou Eu / Contrato de Separação - Ao Vivo",
+      "trackId": "7lltob9wyospr3NUTGCP82",
+      "preview": "https://p.scdn.co/mp3-preview/541ddb7b8a0274dd48518431ac3166e5c12b19ba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d59fb330df77ba19bb9d3234b0a5519e63651fe1",
+      "release_date": "2014-04-29"
+    },
+    {
+      "featuredArtist": "Victor & Leo",
+      "featuredArtistId": "2HtEBtekn0bXogyogD3PTr",
+      "trackName": "Romaria - Ao Vivo",
+      "trackId": "5zjXZ1r4Kd9eanpvoPQJlS",
+      "preview": "https://p.scdn.co/mp3-preview/23f18a5b3d9a13ced8c257d2fe680a3a67f71452?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d59fb330df77ba19bb9d3234b0a5519e63651fe1",
+      "release_date": "2014-04-29"
+    },
+    {
+      "featuredArtist": "Bateria Da Mangueira",
+      "featuredArtistId": "2V15h5S3VeUCBB6HLf0sz7",
+      "trackName": "Brasil de Oliveira da Silva do Samba - Ao Vivo",
+      "trackId": "25U5dgYCEvJnBDsE3zw6Ai",
+      "preview": "https://p.scdn.co/mp3-preview/82bcdda3186304e1bf9616db6e291ab5ad1353ac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/54b9d6ae9bcbefd7fcf164fec263fe47deaa27dd",
+      "release_date": "2012-04-03"
+    },
+    {
+      "featuredArtist": "Jeferson Junior",
+      "featuredArtistId": "19ex2MdZOyUXo85n2TLd8b",
+      "trackName": "Sábado à noite - Ao vivo",
+      "trackId": "4qsOMbPN840c9DSfRi3qos",
+      "preview": "https://p.scdn.co/mp3-preview/c4381d7dc5a7d17cd15ef3c5c513f8e5bc2db0e7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dd55d6f4ce94d239842f402a85a4b1d87ece8944",
+      "release_date": "2006-04-18"
+    },
+    {
+      "featuredArtist": "Os Gênesis",
+      "featuredArtistId": "3IhQZiDEl0cDFF9XAiLyTM",
+      "trackName": "Angola e Brasil - Ao vivo",
+      "trackId": "3s2yn4jcnQUcKF7LIDBQOh",
+      "preview": "https://p.scdn.co/mp3-preview/573700aee009493231f285b1e186a58b844301b9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dd55d6f4ce94d239842f402a85a4b1d87ece8944",
+      "release_date": "2006-04-18"
+    },
+    {
+      "featuredArtist": "Leci Brandao",
+      "featuredArtistId": "5iiQvuDCnlXoK8iAhydW0u",
+      "trackName": "Quero sim - Ao vivo",
+      "trackId": "6SBuKD1Y67Opeaf9ndLcCu",
+      "preview": "https://p.scdn.co/mp3-preview/5fded894ad1ae76dffd1825403bb306017c93fe0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dd55d6f4ce94d239842f402a85a4b1d87ece8944",
+      "release_date": "2006-04-18"
+    },
+    {
+      "featuredArtist": "Marcelo D2",
+      "featuredArtistId": "1vEN3d3dJbmdHQpXD6AIkL",
+      "trackName": "Menor abandonado - Ao vivo",
+      "trackId": "6ORNVsHET5erYKjpxC76Hc",
+      "preview": "https://p.scdn.co/mp3-preview/a30f79a2d829eac04cd089e2e64b042263c41969?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dd55d6f4ce94d239842f402a85a4b1d87ece8944",
+      "release_date": "2006-04-18"
+    },
+    {
+      "featuredArtist": "Aílton Graça",
+      "featuredArtistId": "4vJDS9kaPT475BxKuYQskM",
+      "trackName": "Meu ébano - Ao vivo",
+      "trackId": "2diLBujTgkjKlZD0DIiAkR",
+      "preview": "https://p.scdn.co/mp3-preview/8e3c43150b3ab13125d9fc62be7a0a2a43e02884?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dd55d6f4ce94d239842f402a85a4b1d87ece8944",
+      "release_date": "2006-04-18"
+    },
+    {
+      "featuredArtist": "Nelson Gonçalves",
+      "featuredArtistId": "2wi99swSP87YaFjVOI3zGJ",
+      "trackName": "Louco (Ela é Seu Mundo)",
+      "trackId": "3VcraeZZg1GqIUlFUHvK2X",
+      "preview": "https://p.scdn.co/mp3-preview/70ac072c1911529fc61a47cc4eba8b5a6f82589a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/094f75cb2124190e3bf01a9d1139a16e3b4fbd23",
+      "release_date": "2005-08-08"
+    },
+    {
+      "featuredArtist": "Grupo Marioca",
+      "featuredArtistId": "0LwtW6X7YUuapSIkdv39ru",
+      "trackName": "Pot-Pourri: Cajueiro velho / Tambor de criola - Ao vivo",
+      "trackId": "5usjzQGl2UvthSU45oIgc4",
+      "preview": "https://p.scdn.co/mp3-preview/6e879cf0549b5e6206634726c682fc4899316b96?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f7d70e80144c16690b57701a1047a0f8350a6777",
+      "release_date": "2003-03-17"
+    },
+    {
+      "featuredArtist": "Jamelão",
+      "featuredArtistId": "4PirWL5JYf8HerMVvmwuD0",
+      "trackName": "Pot-Pourri: Nunca / Vingança - Ao vivo",
+      "trackId": "4eGt3YL2PbxiHJDZuAo5wl",
+      "preview": "https://p.scdn.co/mp3-preview/0aadfe9f2fc4fd79e77aa97ce3787d9768afd667?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f7d70e80144c16690b57701a1047a0f8350a6777",
+      "release_date": "2003-03-17"
+    },
+    {
+      "featuredArtist": "Beth Carvalho",
+      "featuredArtistId": "56TkPi7rpmU8jTpkcK7FY3",
+      "trackName": "Um Ser de Luz",
+      "trackId": "2qkjAeTFvMExKUg1fB7EY4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/13c3a248bde69851eccebdfda8795e08de60e307",
+      "release_date": "2002-07-12"
+    },
+    {
+      "featuredArtist": "Joao Nogueira",
+      "featuredArtistId": "5gcpKqNGPhEtKW5G1ZUZPK",
+      "trackName": "Um Ser de Luz",
+      "trackId": "2qkjAeTFvMExKUg1fB7EY4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/13c3a248bde69851eccebdfda8795e08de60e307",
+      "release_date": "2002-07-12"
+    },
+    {
+      "featuredArtist": "Miúcha",
+      "featuredArtistId": "24ZP6P1JgCo65CEJsk2OQ2",
+      "trackName": "Um Ser de Luz",
+      "trackId": "2qkjAeTFvMExKUg1fB7EY4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/13c3a248bde69851eccebdfda8795e08de60e307",
+      "release_date": "2002-07-12"
+    },
+    {
+      "featuredArtist": "Cristina Buarque",
+      "featuredArtistId": "0VuTQAZXAEAjmYvZLw6Csq",
+      "trackName": "Um Ser de Luz",
+      "trackId": "2qkjAeTFvMExKUg1fB7EY4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/13c3a248bde69851eccebdfda8795e08de60e307",
+      "release_date": "2002-07-12"
+    },
+    {
+      "featuredArtist": "Luiz Carlos Da Vila",
+      "featuredArtistId": "0scj8cSzdAgqxBprxig1vC",
+      "trackName": "Um Ser de Luz",
+      "trackId": "2qkjAeTFvMExKUg1fB7EY4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/13c3a248bde69851eccebdfda8795e08de60e307",
+      "release_date": "2002-07-12"
+    },
+    {
+      "featuredArtist": "Dona Ivone Lara",
+      "featuredArtistId": "6Q1U3z1hge970f3QhrPKcW",
+      "trackName": "Um Ser de Luz",
+      "trackId": "2qkjAeTFvMExKUg1fB7EY4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/13c3a248bde69851eccebdfda8795e08de60e307",
+      "release_date": "2002-07-12"
+    },
+    {
+      "featuredArtist": "Gisa Nogueira",
+      "featuredArtistId": "5jJWOdj0Sn9Spis0JYZYRp",
+      "trackName": "Um Ser de Luz",
+      "trackId": "2qkjAeTFvMExKUg1fB7EY4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/13c3a248bde69851eccebdfda8795e08de60e307",
+      "release_date": "2002-07-12"
+    },
+    {
+      "featuredArtist": "Marisa Gata Mansa",
+      "featuredArtistId": "52aTlThLoC3vEHXqdDfx7v",
+      "trackName": "Um Ser de Luz",
+      "trackId": "2qkjAeTFvMExKUg1fB7EY4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/13c3a248bde69851eccebdfda8795e08de60e307",
+      "release_date": "2002-07-12"
+    },
+    {
+      "featuredArtist": "Pií",
+      "featuredArtistId": "0OD1cep4XOux8ZtU2Ekj7B",
+      "trackName": "Um Ser de Luz",
+      "trackId": "2qkjAeTFvMExKUg1fB7EY4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/13c3a248bde69851eccebdfda8795e08de60e307",
+      "release_date": "2002-07-12"
+    },
+    {
+      "featuredArtist": "Carlinhos do Cavaco",
+      "featuredArtistId": "3g4L7maTj0oIqdDdbDnAJg",
+      "trackName": "Um Ser de Luz",
+      "trackId": "2qkjAeTFvMExKUg1fB7EY4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/13c3a248bde69851eccebdfda8795e08de60e307",
+      "release_date": "2002-07-12"
+    },
+    {
+      "featuredArtist": "Helcio Do Carmo",
+      "featuredArtistId": "12OqmACqX4Cfk2JLETlqgp",
+      "trackName": "Um Ser de Luz",
+      "trackId": "2qkjAeTFvMExKUg1fB7EY4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/13c3a248bde69851eccebdfda8795e08de60e307",
+      "release_date": "2002-07-12"
+    },
+    {
+      "featuredArtist": "Coral das Docas do Rio de Janeiro",
+      "featuredArtistId": "3EIl1n2hl4SGQbbY9igVCS",
+      "trackName": "Um Ser de Luz",
+      "trackId": "2qkjAeTFvMExKUg1fB7EY4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/13c3a248bde69851eccebdfda8795e08de60e307",
+      "release_date": "2002-07-12"
+    }
+  ]
+}

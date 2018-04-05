@@ -1,0 +1,32 @@
+{
+  "artistName": "Empress Of",
+  "features": [
+    {
+      "featuredArtist": "DJDS",
+      "featuredArtistId": "0orEyXhG0KnPEDVgpctNJI",
+      "trackName": "Love",
+      "trackId": "6UTCRrPoZg2e05PCLXbY1v",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ecba837b0e2e76f5e0664e1d17960b0aa3d8800b",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Khalid",
+      "featuredArtistId": "6LuN9FCkKOj5PcnpouEgny",
+      "trackName": "Why Don't You Come On",
+      "trackId": "57MRdGJYqG7yqBeApkc25e",
+      "preview": "https://p.scdn.co/mp3-preview/5a8ac02308135e2b84fa830f5286d09a877d48b0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6043fc633403590d94489248fa80cef043ee2b98",
+      "release_date": "2017-08-31"
+    },
+    {
+      "featuredArtist": "Darkstar",
+      "featuredArtistId": "45ALMSzoLNFkaYxyhS4QZ1",
+      "trackName": "Reformer",
+      "trackId": "5yCDEYt7vgbCgz21FdngRD",
+      "preview": "https://p.scdn.co/mp3-preview/72aedbbc99d3d64c7693829860862d0da94fa560?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6209df3fbbe811fe0bcb4db6c75510d00ba1d52d",
+      "release_date": "2016-03-10"
+    }
+  ]
+}

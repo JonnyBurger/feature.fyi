@@ -1,0 +1,41 @@
+{
+  "artistName": "El Komander",
+  "features": [
+    {
+      "featuredArtist": "Kenia Rios",
+      "featuredArtistId": "7cVq3EUeJq8EQpwKNIdU8a",
+      "trackName": "Como Tu (feat. Kenia Rios)",
+      "trackId": "5muJYBglBp42WgUDcjVS5u",
+      "preview": "https://p.scdn.co/mp3-preview/835395cb8539b00bfa3f5cd0cc30449891745197?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff35577abded07309f99e4f29dd672f5a05093d4",
+      "release_date": "2016-12-16"
+    },
+    {
+      "featuredArtist": "Larry Hernández",
+      "featuredArtistId": "6djNDzSg08mnh2Ayoh6Ovn",
+      "trackName": "Tumbate El Rollo (feat. Larry Hernandez)",
+      "trackId": "5zGrBnDt07tuD7TaC3jD5B",
+      "preview": "https://p.scdn.co/mp3-preview/e951c5b15ff91dcc9f37ed3f4f6fb3941e74e679?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a09892c6e975a503be8ac2c7e0804a89dc61b910",
+      "release_date": "2015-07-02"
+    },
+    {
+      "featuredArtist": "Los Buitres De Culiacán",
+      "featuredArtistId": "5dIjXZZOeEpkXFaDikIBtJ",
+      "trackName": "El Corrido Del Tamarindo (feat. Los Buitres De Culiacan)",
+      "trackId": "5BxIRRQWrOvIhci6OTy4gG",
+      "preview": "https://p.scdn.co/mp3-preview/adfb9290e57197c1c27b09dd81ffd0b68c38ed39?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/de4bb6433b10c86df050be46ec659f1863762829",
+      "release_date": "2013-09-23"
+    },
+    {
+      "featuredArtist": "Valentina",
+      "featuredArtistId": "7in7FAVtOow3wqDcCKO8Vd",
+      "trackName": "Te Estaba Calando (feat. Valentina)",
+      "trackId": "5sTJ7qW5xcpt3Ltz22aant",
+      "preview": "https://p.scdn.co/mp3-preview/74de069b2ffc9bbf60999ec18acd22056a1d57b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/487a0cc3705fa8fa46eedc132f09933cd5714b52",
+      "release_date": "2012-07-10"
+    }
+  ]
+}

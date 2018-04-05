@@ -1,0 +1,41 @@
+{
+  "artistName": "Emmylou Harris",
+  "features": [
+    {
+      "featuredArtist": "Rodney Crowell",
+      "featuredArtistId": "4QIJ2i8I6urte2scKgkVoY",
+      "trackName": "The Traveling Kind",
+      "trackId": "5OHTqUeUeV09qhqszxS541",
+      "preview": "https://p.scdn.co/mp3-preview/4f5ad859b0e9c4017b3c0115784eae6becab4e9b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/70dccf49c9d59ab8658fe5ec0fafe6cff22c1ed2",
+      "release_date": "2015-05-08"
+    },
+    {
+      "featuredArtist": "Mark Knopfler",
+      "featuredArtistId": "0FI0kxP0BWurTz8cB8BBug",
+      "trackName": "Right Now - Live",
+      "trackId": "2q0iblqlXnr52SHNCqwatl",
+      "preview": "https://p.scdn.co/mp3-preview/c20027d7e34a6c73c117770153ade78c02321ee4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9e7982ab94b303d8e9389040dd3bb1664355747d",
+      "release_date": "2006-11-14"
+    },
+    {
+      "featuredArtist": "Dolly Parton",
+      "featuredArtistId": "32vWCbZh0xZ4o9gkz4PsEU",
+      "trackName": "Lover's Return - Remastered",
+      "trackId": "215uukDK1o0eXE6iuhp4TL",
+      "preview": "https://p.scdn.co/mp3-preview/0409755d699f7f6999fa6d41124b35d07f4a4ce0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/46903810f1e35ebbe13bd45008e97ce6ba74aa01",
+      "release_date": "1999-01-26"
+    },
+    {
+      "featuredArtist": "Linda Ronstadt",
+      "featuredArtistId": "1sXbwvCQLGZnaH0Jp2HTVc",
+      "trackName": "Lover's Return - Remastered",
+      "trackId": "215uukDK1o0eXE6iuhp4TL",
+      "preview": "https://p.scdn.co/mp3-preview/0409755d699f7f6999fa6d41124b35d07f4a4ce0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/46903810f1e35ebbe13bd45008e97ce6ba74aa01",
+      "release_date": "1999-01-26"
+    }
+  ]
+}

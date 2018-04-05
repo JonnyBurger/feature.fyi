@@ -1,0 +1,23 @@
+{
+  "artistName": "Blue Swede",
+  "features": [
+    {
+      "featuredArtist": "Björn Skifs",
+      "featuredArtistId": "1Ek3VdZ8EPmcvgRIqnHlrF",
+      "trackName": "Hooked on a Feeling",
+      "trackId": "2Nz6aF1umHh5Et6I5H581L",
+      "preview": "https://p.scdn.co/mp3-preview/f4d2ded715803f9fe52b09bf38725b6a888ba45a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/425499dbab168b3b00c99515f03c8d41022286b9",
+      "release_date": "2014-09-30"
+    },
+    {
+      "featuredArtist": "StoneBridge",
+      "featuredArtistId": "1jpQ5Xepnpx5YAqKQITP4A",
+      "trackName": "Hooked on a Feeling - Oppopoppa Mix",
+      "trackId": "0O6tlLMN7I7G9DE3FgVGZF",
+      "preview": "https://p.scdn.co/mp3-preview/31136417aaa666698c9793fc31ec755593cf38c9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2b19e06b4fadf4e8c657f0ace110514be02235c",
+      "release_date": "1973"
+    }
+  ]
+}

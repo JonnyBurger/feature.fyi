@@ -1,0 +1,23 @@
+{
+  "artistName": "Rodney Atkins",
+  "features": [
+    {
+      "featuredArtist": "The Fisk Jubilee Singers",
+      "featuredArtistId": "0UGSKGxAJfltNONQ4AtETL",
+      "trackName": "Caught Up In The Country",
+      "trackId": "2BgunkkepMPFpArQj1Dx5s",
+      "preview": "https://p.scdn.co/mp3-preview/76f51415b99ed45425cade474853e63bd32e40dd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7aef0e9b7a6e387ccc10cc7c839b12c4892561c1",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Bubba Sparxxx",
+      "featuredArtistId": "3RPYHNSwe3w0mtfJwKIN9P",
+      "trackName": "Right (feat. Rodney Atkins)",
+      "trackId": "0ct9dLf5nwxP60vhnX10yh",
+      "preview": "https://p.scdn.co/mp3-preview/4dda14b4f54a8f905d3a61641df05a31b875db29?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4d26b45b3c99f0cd7881c89571af9a1eeea0c8f4",
+      "release_date": "2013-10-15"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "artistName": "Kube",
+  "features": [
+    {
+      "featuredArtist": "Tuuttimörkö",
+      "featuredArtistId": "1vySLuFyWotkSXBkKnEG0s",
+      "trackName": "Surulline 15",
+      "trackId": "560fAlX4PCYvfNkxWuSe1o",
+      "preview": "https://p.scdn.co/mp3-preview/f44e67c9c8b266693bf238dbc38c5713251fbdc5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4c1ac12187a99d90ed134c7e00d2041ce048ec72",
+      "release_date": "2018-01-01"
+    },
+    {
+      "featuredArtist": "Dada",
+      "featuredArtistId": "1pPk1dA60YUzFmO2tpi8SY",
+      "trackName": "PPP 15",
+      "trackId": "0QNpnPEABNGudEqtNbFxLI",
+      "preview": "https://p.scdn.co/mp3-preview/90cc2f37209ec282ded0c3112d3152677e515b84?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4c1ac12187a99d90ed134c7e00d2041ce048ec72",
+      "release_date": "2018-01-01"
+    },
+    {
+      "featuredArtist": "Pajafella",
+      "featuredArtistId": "05YoU5A41xjMz48wELAWBw",
+      "trackName": "Lähiörikas 16",
+      "trackId": "694MqaGmvdZJvOyiiHsWKS",
+      "preview": "https://p.scdn.co/mp3-preview/55b36f5b4d6840129c0cf2afc591966f41af997b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4c1ac12187a99d90ed134c7e00d2041ce048ec72",
+      "release_date": "2018-01-01"
+    },
+    {
+      "featuredArtist": "Pianomies",
+      "featuredArtistId": "0i8mDdZrlXwQOI0YxxI8ZL",
+      "trackName": "Kuka sua ohjaa",
+      "trackId": "1u3ugDVB89euNfOr53Q7Lt",
+      "preview": "https://p.scdn.co/mp3-preview/393ec4bf20d25ab76f49442e81856b897a16b0d3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4281f931a4454e67796d682ee7400d7b5b7ee7d5",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Adi L Hasla",
+      "featuredArtistId": "2Hnqmn6bAxVSYf70M2aSkk",
+      "trackName": "Duuni",
+      "trackId": "7gyq6Ep8bTIQ7ZuuqaqA57",
+      "preview": "https://p.scdn.co/mp3-preview/32b4e8239a8589700384fcd34b39fd5a493528b7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4281f931a4454e67796d682ee7400d7b5b7ee7d5",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Mäkki",
+      "featuredArtistId": "2510ceejHZpIpxbGpiovch",
+      "trackName": "Duuni",
+      "trackId": "7gyq6Ep8bTIQ7ZuuqaqA57",
+      "preview": "https://p.scdn.co/mp3-preview/32b4e8239a8589700384fcd34b39fd5a493528b7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4281f931a4454e67796d682ee7400d7b5b7ee7d5",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Julma H",
+      "featuredArtistId": "7mKscnDRoAl66sOv4kHcEw",
+      "trackName": "Lähiö lähiö",
+      "trackId": "0AXXUDfjatJvlXF8TtApCW",
+      "preview": "https://p.scdn.co/mp3-preview/113d3a49acdf4f84c2ad3ab71006424331a655d1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4281f931a4454e67796d682ee7400d7b5b7ee7d5",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "VilleGalle",
+      "featuredArtistId": "6VVSjZwPAHNbkKeMhTI2bb",
+      "trackName": "Tönap",
+      "trackId": "6KFUptD5N1TthVUavu7f6d",
+      "preview": "https://p.scdn.co/mp3-preview/d551a53c923ce2a1b83f801099b6fd686febabdc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4281f931a4454e67796d682ee7400d7b5b7ee7d5",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Ruma",
+      "featuredArtistId": "0lcGTyjTjKRDQpgKaT5bGJ",
+      "trackName": "Tönap",
+      "trackId": "6KFUptD5N1TthVUavu7f6d",
+      "preview": "https://p.scdn.co/mp3-preview/d551a53c923ce2a1b83f801099b6fd686febabdc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4281f931a4454e67796d682ee7400d7b5b7ee7d5",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "TIPPA",
+      "featuredArtistId": "0kWknKjD7r2hNh8KntEx59",
+      "trackName": "Tönap",
+      "trackId": "6KFUptD5N1TthVUavu7f6d",
+      "preview": "https://p.scdn.co/mp3-preview/d551a53c923ce2a1b83f801099b6fd686febabdc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4281f931a4454e67796d682ee7400d7b5b7ee7d5",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Mari Johanna",
+      "featuredArtistId": "6DuYuCr5tT6QMfDVjjivcj",
+      "trackName": "Mist sä dikkaat",
+      "trackId": "49oKyXIm2YbVuokqLVguSG",
+      "preview": "https://p.scdn.co/mp3-preview/8acf4860eb35558a1478913800e70e09c66dc3ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2233f7556e77449bf8490455d1af7c6d0145ba53",
+      "release_date": "2014-05-23"
+    },
+    {
+      "featuredArtist": "Julma Henri",
+      "featuredArtistId": "3Ua7hkwc1gdzoUBx0fdt8o",
+      "trackName": "Huolissani",
+      "trackId": "5FgNUD5XOMI9UO4OtMcAou",
+      "preview": "https://p.scdn.co/mp3-preview/6617398bf58c582fa1658b177e0e22f27de0c936?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2233f7556e77449bf8490455d1af7c6d0145ba53",
+      "release_date": "2014-05-23"
+    },
+    {
+      "featuredArtist": "Kesken",
+      "featuredArtistId": "2LxRHmgjaHUWWwZxcqRWJU",
+      "trackName": "Hattiwatti",
+      "trackId": "5OALtdYCFQWJnZnSME54Pl",
+      "preview": "https://p.scdn.co/mp3-preview/550a1a2bfe2c988bfca4551826b8d2aff21f60b4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2233f7556e77449bf8490455d1af7c6d0145ba53",
+      "release_date": "2014-05-23"
+    },
+    {
+      "featuredArtist": "Mies Nimeltä Hevonen",
+      "featuredArtistId": "3OTQtAlOFM580dbMKvBGQu",
+      "trackName": "Marssi",
+      "trackId": "6Ntew2RHxZ6tPoOIwhk8sS",
+      "preview": "https://p.scdn.co/mp3-preview/f86f0a8834b6a0d7904d826787b3e97084fd42c8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f12cc75bd93bec7f0ccc3907dd2027d81e2607ce",
+      "release_date": "2013-05-31"
+    },
+    {
+      "featuredArtist": "Jontti",
+      "featuredArtistId": "4u7OeFe7by9l7I74RS7hS3",
+      "trackName": "Marssi",
+      "trackId": "6Ntew2RHxZ6tPoOIwhk8sS",
+      "preview": "https://p.scdn.co/mp3-preview/f86f0a8834b6a0d7904d826787b3e97084fd42c8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f12cc75bd93bec7f0ccc3907dd2027d81e2607ce",
+      "release_date": "2013-05-31"
+    },
+    {
+      "featuredArtist": "RPK",
+      "featuredArtistId": "57NDIeIoThojTZ8PvPhAMd",
+      "trackName": "Rytmi veres",
+      "trackId": "7mwGZet1YPdjuD6W0bqsvm",
+      "preview": "https://p.scdn.co/mp3-preview/067f390640f5ae24428e93ad76ee6029f7808d13?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f12cc75bd93bec7f0ccc3907dd2027d81e2607ce",
+      "release_date": "2013-05-31"
+    },
+    {
+      "featuredArtist": "Lommo",
+      "featuredArtistId": "1lfLNm305xAPH0woR1M3QU",
+      "trackName": "Noin",
+      "trackId": "2ymB0CpaUE7f0rIS4mwYwN",
+      "preview": "https://p.scdn.co/mp3-preview/0880f1380e7aeec7e4777d4733255e9370371127?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f12cc75bd93bec7f0ccc3907dd2027d81e2607ce",
+      "release_date": "2013-05-31"
+    },
+    {
+      "featuredArtist": "The MindMan",
+      "featuredArtistId": "6AQEM6dSHRQMljX1uCD34b",
+      "trackName": "Noin",
+      "trackId": "2ymB0CpaUE7f0rIS4mwYwN",
+      "preview": "https://p.scdn.co/mp3-preview/0880f1380e7aeec7e4777d4733255e9370371127?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f12cc75bd93bec7f0ccc3907dd2027d81e2607ce",
+      "release_date": "2013-05-31"
+    },
+    {
+      "featuredArtist": "Puppa J",
+      "featuredArtistId": "5LEauyQkQm1pGBb2bd0H3B",
+      "trackName": "Unelmist kiinni",
+      "trackId": "0JDLUicoGjciiTkmQWoQoD",
+      "preview": "https://p.scdn.co/mp3-preview/787d8e028c5b91753e4f9a2068fd772f1f1ba50d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f12cc75bd93bec7f0ccc3907dd2027d81e2607ce",
+      "release_date": "2013-05-31"
+    },
+    {
+      "featuredArtist": "OG Ikonen",
+      "featuredArtistId": "0ivQUxik6bmDI9CuqsmYum",
+      "trackName": "Kenkäboxi - Remix",
+      "trackId": "6OPdB5kecckDFxuLJLAIoA",
+      "preview": "https://p.scdn.co/mp3-preview/88a9c95688ccc570777996de453a97d2bc48fbd5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f12cc75bd93bec7f0ccc3907dd2027d81e2607ce",
+      "release_date": "2013-05-31"
+    },
+    {
+      "featuredArtist": "Särre",
+      "featuredArtistId": "7jxDHM0eMYkiSXHc5tPqSr",
+      "trackName": "Kenkäboxi - Remix",
+      "trackId": "6OPdB5kecckDFxuLJLAIoA",
+      "preview": "https://p.scdn.co/mp3-preview/88a9c95688ccc570777996de453a97d2bc48fbd5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f12cc75bd93bec7f0ccc3907dd2027d81e2607ce",
+      "release_date": "2013-05-31"
+    },
+    {
+      "featuredArtist": "DJ Kridlokk",
+      "featuredArtistId": "40S3a8Beijh7mZ7vTV5TmJ",
+      "trackName": "Kenkäboxi - Remix",
+      "trackId": "6OPdB5kecckDFxuLJLAIoA",
+      "preview": "https://p.scdn.co/mp3-preview/88a9c95688ccc570777996de453a97d2bc48fbd5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f12cc75bd93bec7f0ccc3907dd2027d81e2607ce",
+      "release_date": "2013-05-31"
+    },
+    {
+      "featuredArtist": "Chebaleba",
+      "featuredArtistId": "7FXHLGDZv4fx2vg3LHLoGJ",
+      "trackName": "Kenkäboxi - Remix",
+      "trackId": "6OPdB5kecckDFxuLJLAIoA",
+      "preview": "https://p.scdn.co/mp3-preview/88a9c95688ccc570777996de453a97d2bc48fbd5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f12cc75bd93bec7f0ccc3907dd2027d81e2607ce",
+      "release_date": "2013-05-31"
+    },
+    {
+      "featuredArtist": "Eevil Stöö",
+      "featuredArtistId": "0hD2uZfgcwrRRMcPYQ45pf",
+      "trackName": "Kenkäboxi - Remix",
+      "trackId": "6OPdB5kecckDFxuLJLAIoA",
+      "preview": "https://p.scdn.co/mp3-preview/88a9c95688ccc570777996de453a97d2bc48fbd5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f12cc75bd93bec7f0ccc3907dd2027d81e2607ce",
+      "release_date": "2013-05-31"
+    },
+    {
+      "featuredArtist": "Elastinen",
+      "featuredArtistId": "7DdW8Ert3Z36hb1FkaZWiI",
+      "trackName": "Lähiö lähiö - Remix",
+      "trackId": "1GDWJLchc53VFD0sxUrZLS",
+      "preview": "https://p.scdn.co/mp3-preview/3b611170fe8cd97fcb56114ce08e9c61e70f6301?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cbbb812efbb83054ba862b805d52803897a30773",
+      "release_date": "2016-01-15"
+    }
+  ]
+}

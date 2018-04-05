@@ -1,0 +1,41 @@
+{
+  "artistName": "Status Quo",
+  "features": [
+    {
+      "featuredArtist": "Pip Williams",
+      "featuredArtistId": "42CYHuido62bkUV9xU1ndX",
+      "trackName": "In The Army Now - Military Mix",
+      "trackId": "0s5Y4YYMAE8cYJUqamrFGE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52f2e7eee72b9e5065acfb46a22dfd589fd8b188",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Maddy Prior",
+      "featuredArtistId": "17miutE3LMgwHppEEKwsGx",
+      "trackName": "All Around My Hat (with Maddy Prior)",
+      "trackId": "3ldf4AVG6QxCYyohd7a4p8",
+      "preview": "https://p.scdn.co/mp3-preview/d0fdd89ab7b68704df5d2d06400de12f9c79055b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/15e3192587a33d763a791f63e45549b3100640f0",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "The Beach Boys",
+      "featuredArtistId": "3oDbviiivRWhXwIE8hxkVV",
+      "trackName": "Fun Fun Fun (with the Beach Boys)",
+      "trackId": "7EyhXhWmnfl0ZmCaxnNegk",
+      "preview": "https://p.scdn.co/mp3-preview/8b5b926b35248b57cb5ac68bc9a1bf196c0ca1e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b98cd68eea43c459019fbab9c206fc38f9282a1e",
+      "release_date": "2016-10-14"
+    },
+    {
+      "featuredArtist": "Brian May",
+      "featuredArtistId": "2NcbLU1bW55eahD0UgD7U3",
+      "trackName": "Raining in My Heart (with Brian May)",
+      "trackId": "33CwT488G1nJkxQsqEJER3",
+      "preview": "https://p.scdn.co/mp3-preview/c8b53fa3ac2f74dfa7707e67a9de4690c3726649?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b98cd68eea43c459019fbab9c206fc38f9282a1e",
+      "release_date": "2016-10-14"
+    }
+  ]
+}

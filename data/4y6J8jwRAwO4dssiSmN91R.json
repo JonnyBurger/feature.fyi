@@ -1,0 +1,50 @@
+{
+  "artistName": "Muddy Waters",
+  "features": [
+    {
+      "featuredArtist": "The Rolling Stones",
+      "featuredArtistId": "22bE4uQ6baNwSHPVcDxLCe",
+      "trackName": "Baby Please Don't Go - Live",
+      "trackId": "1SOU2BrRM88ykKxPxUBCeL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cbd3be25f0b6ec0fd5d4f0a2fb40152f60a3a68b",
+      "release_date": "2012-07-09"
+    },
+    {
+      "featuredArtist": "Sunnyland Slim",
+      "featuredArtistId": "5IrMTnoQ7OgoLpFfsisXX2",
+      "trackName": "Deep Down In My Heart",
+      "trackId": "3nLYsD7gnZt4abb2xOYbQO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/12b8ae421393d350305b9e6291c23875f316b95f",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Otis Spann",
+      "featuredArtistId": "0xeI9Z0Uhs8bYGBRpqq88X",
+      "trackName": "I Got My Brand On You",
+      "trackId": "2i4FhLM8ET9Yvn0j2IWSsf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/12b8ae421393d350305b9e6291c23875f316b95f",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Johnny Winter",
+      "featuredArtistId": "2ODUxmFxJSyvGiimNhMHbO",
+      "trackName": "Black Cat Bone / Dust My Broom",
+      "trackId": "2BOmAaz4fIMMFTGwT05NvS",
+      "preview": "https://p.scdn.co/mp3-preview/efb616df9164a87b8652b751eecd92863c2d7bb6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3559a0ff049571d2fb6839494a9b19fec2b84eff",
+      "release_date": "2007-06-05"
+    },
+    {
+      "featuredArtist": "James Cotton",
+      "featuredArtistId": "6mY93oNfUaUwZq67yn3R8k",
+      "trackName": "Black Cat Bone / Dust My Broom",
+      "trackId": "2BOmAaz4fIMMFTGwT05NvS",
+      "preview": "https://p.scdn.co/mp3-preview/efb616df9164a87b8652b751eecd92863c2d7bb6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3559a0ff049571d2fb6839494a9b19fec2b84eff",
+      "release_date": "2007-06-05"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "artistName": "Madi Banja",
+  "features": [
+    {
+      "featuredArtist": "Lorentz",
+      "featuredArtistId": "2QDnY1LY2mnzeeKGZLHoc7",
+      "trackName": "Du och jag",
+      "trackId": "4iG14lV9V5guCTx4Ot1g4L",
+      "preview": "https://p.scdn.co/mp3-preview/62a65b300f3c6527e0c77cba096d69bfd7ba26d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32f8b4385e316b81fe9d9dc43aafb5afdf1010d4",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Petter",
+      "featuredArtistId": "5A0Bu9azuFEnud3q7t0V2r",
+      "trackName": "Toppen av ett berg",
+      "trackId": "2N7claLHWD1ypZARTJNtjI",
+      "preview": "https://p.scdn.co/mp3-preview/cb043fdcd498a46a7357bef32a683c10f020cffb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/23a049aa4e3f491167dffe8ed75c209b2d2e2683",
+      "release_date": "2018-01-12"
+    },
+    {
+      "featuredArtist": "CEO",
+      "featuredArtistId": "511KFfhbyj2pJ3QJdqE26S",
+      "trackName": "120 euro",
+      "trackId": "71JESQsKKgk7QKSF4GnOEC",
+      "preview": "https://p.scdn.co/mp3-preview/02f4754d0d07dd1a379c85285aebe4e1386b32c7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/27ffff2aa8aff11d6dfab47ed0d6c295f7f2e9c2",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Kretsen",
+      "featuredArtistId": "2pCUatDVV7tUKkKb8vOkyw",
+      "trackName": "The Realest",
+      "trackId": "4YJXQj5xnS5ujISTwbrgVZ",
+      "preview": "https://p.scdn.co/mp3-preview/2a57cc862d8abac05292e9b642419662e4d01c0f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e6f3018864afb113db674c67fbb93171b6ab1c55",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Arif",
+      "featuredArtistId": "3l4RyQwQ0kHZ9Q9cQbRNMr",
+      "trackName": "Etterlyst",
+      "trackId": "77EnnWjyvGMG8Y8NEajsfX",
+      "preview": "https://p.scdn.co/mp3-preview/dca649b4d388c985feeab19ab957b6a199701a17?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9bf73a5bade860dba42470a0bfd78ba66c5d02c7",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Gee Dixon",
+      "featuredArtistId": "3oJjZweJo9yqNFnKBTlgm0",
+      "trackName": "Scener",
+      "trackId": "2AlXj3j9mJMyFJNb3ta1b8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6e5dd969e10475fbc125a0dc4eed41461fe28055",
+      "release_date": "2015-11-17"
+    }
+  ]
+}

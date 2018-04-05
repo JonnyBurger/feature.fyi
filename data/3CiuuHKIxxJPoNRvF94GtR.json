@@ -1,0 +1,86 @@
+{
+  "artistName": "Veela",
+  "features": [
+    {
+      "featuredArtist": "Kooma",
+      "featuredArtistId": "2OQpMQGdpN1kb9vf7Sn9Em",
+      "trackName": "Cortisol",
+      "trackId": "53NuG0aVNseyse705KGRhk",
+      "preview": "https://p.scdn.co/mp3-preview/43bc5331e6cdbd6eb9437f9fdc41517b63f0e733?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ed88e9e8f85fd623babf2960f3dff1de43c916b4",
+      "release_date": "2018-03-07"
+    },
+    {
+      "featuredArtist": "AK",
+      "featuredArtistId": "33Cf4O1KAVbtQa00scMi2A",
+      "trackName": "Discomfort",
+      "trackId": "6Z9BkprNwrh011s9LaCdlI",
+      "preview": "https://p.scdn.co/mp3-preview/c6177d7e4103e98362ca0f06131b05c0a3e9300e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a653bf4819ba1f97a4359ce263334b6acc231d6a",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Big Iyz",
+      "featuredArtistId": "7sVZoD94BC7Dg7fkq7aQ9U",
+      "trackName": "Coming for you",
+      "trackId": "14T8UVtqy92bkHslYOuiGi",
+      "preview": "https://p.scdn.co/mp3-preview/aa0acefcbb3fcf818797a6bf53fd4b90132b9255?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dc65a758fd026c3976e3e01f2a3ff1b730a65e02",
+      "release_date": "2017-11-30"
+    },
+    {
+      "featuredArtist": "Rameses B",
+      "featuredArtistId": "06EfEcjc0vdvI6VNL0soIO",
+      "trackName": "We Are One",
+      "trackId": "6rfDL4wq8woPlr8VHkPzC7",
+      "preview": "https://p.scdn.co/mp3-preview/afc445e66d30ee4c44ab8d925a1099de54095c20?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/721eaf08671ed61cb8d18f6911d865095aefe6b6",
+      "release_date": "2016-10-14"
+    },
+    {
+      "featuredArtist": "Discam",
+      "featuredArtistId": "6PQRTpaBalyviYGiU8nnpt",
+      "trackName": "Hold On feat. Veela - Discam Remix",
+      "trackId": "38IrNa5d4kjBaW5N6k5GYv",
+      "preview": "https://p.scdn.co/mp3-preview/fad86d1f5a38b52324ee078924e474245ea21343?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2b9bfcc04172070adf25f6a2c2ced717acb34a06",
+      "release_date": "2016-09-19"
+    },
+    {
+      "featuredArtist": "Traxx Project",
+      "featuredArtistId": "4x8tsD40hREChBToSLZPNc",
+      "trackName": "Hold On feat. Veela - Discam Remix",
+      "trackId": "38IrNa5d4kjBaW5N6k5GYv",
+      "preview": "https://p.scdn.co/mp3-preview/fad86d1f5a38b52324ee078924e474245ea21343?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2b9bfcc04172070adf25f6a2c2ced717acb34a06",
+      "release_date": "2016-09-19"
+    },
+    {
+      "featuredArtist": "Da Angerboyz",
+      "featuredArtistId": "23HMV8kjSiqdVkQicjZsNb",
+      "trackName": "Impulse",
+      "trackId": "6QDfeL66DGwPiIAZx0eDhp",
+      "preview": "https://p.scdn.co/mp3-preview/ca6791092a20ccd0614315bc2df94290c2808a96?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8f32e1605369ec6ac93e0054eb8c3301abae6ebb",
+      "release_date": "2016-07-16"
+    },
+    {
+      "featuredArtist": "SourDen",
+      "featuredArtistId": "0ZuxSZeGMU3XfYVpx8fo5V",
+      "trackName": "The Monster - Dub Mix",
+      "trackId": "5cHf4HNBXVOrkKcWenHdVV",
+      "preview": "https://p.scdn.co/mp3-preview/f7e9880d4a9db7a958791e1afdcbd8f232faeb97?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/da6b5f0a298cda93b3564cfbc1de70d728ab7dbc",
+      "release_date": "2016-06-18"
+    },
+    {
+      "featuredArtist": "Tevlo",
+      "featuredArtistId": "6D4WaKxTAN5SieF38bhPIZ",
+      "trackName": "Beautiful Addiction",
+      "trackId": "6bdMlboUlc2sc6YdzAjuc4",
+      "preview": "https://p.scdn.co/mp3-preview/5fbf325782a8069c87f2a884834efe1bfe140e84?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/85dcd0a0d681fbf7ba171fe2a978a59bc0d122a3",
+      "release_date": "2016-06-10"
+    }
+  ]
+}

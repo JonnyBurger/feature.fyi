@@ -1,0 +1,23 @@
+{
+  "artistName": "Tito Nieves",
+  "features": [
+    {
+      "featuredArtist": "Charity Daw",
+      "featuredArtistId": "1MGXIdC3IznVjMmStlizHi",
+      "trackName": "Have Yourself a Merry Little Christmas",
+      "trackId": "4yMY2dUUm9kaEjBilHbEHa",
+      "preview": "https://p.scdn.co/mp3-preview/d070c66af7a5d4423f6127f5fcbe4e2d83543d14?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d745cbbcc36f9d25325885d1c1a9e044e48882b4",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Marco Antonio Solís",
+      "featuredArtistId": "3tJnB0s6c3oXPq1SCCavnd",
+      "trackName": "Mi Mayor Sacrificio",
+      "trackId": "4M4iFDL2JRystv1E5c4ShF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8292aa556c41233314c871f9f550ef8979856182",
+      "release_date": "2010-01-01"
+    }
+  ]
+}

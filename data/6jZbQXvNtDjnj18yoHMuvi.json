@@ -1,0 +1,41 @@
+{
+  "artistName": "Jeremy Riddle",
+  "features": [
+    {
+      "featuredArtist": "Bethel Music",
+      "featuredArtistId": "26T4yOaOoFJvUvxR87Y9HO",
+      "trackName": "Be Enthroned (Live)",
+      "trackId": "3OzQn19XAveO8ZbKH1YPOA",
+      "preview": "https://p.scdn.co/mp3-preview/04a0df239210a2f7c5381a70f8ec559a8dec0e6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d98c7a80fc93a469e7e8de7e2db07901c3eaf1fc",
+      "release_date": "2016-03-11"
+    },
+    {
+      "featuredArtist": "Phil Wickham",
+      "featuredArtistId": "5d1JhBfyb58upMXCZOdbQu",
+      "trackName": "This Is Amazing Grace (Live)",
+      "trackId": "1Iu0Z1LbqQoRtq2ZKo8aKA",
+      "preview": "https://p.scdn.co/mp3-preview/3e356b295c3f87488ae3c7415ced08d34570de58?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d068f630b1893c6b88aa4654e33504d658bdf2d3",
+      "release_date": "2015-05-12"
+    },
+    {
+      "featuredArtist": "Vineyard Worship",
+      "featuredArtistId": "7cvnCTBvMm6OvTutfCpxjL",
+      "trackName": "Christ Is Risen",
+      "trackId": "6ss6CNe45QiWIZUyjMFQUW",
+      "preview": "https://p.scdn.co/mp3-preview/6e6e25561f87fb45c27ca8ab7c074a22dcad5c8e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/157e600c93e9357edcc0b30358292e58b7f0c868",
+      "release_date": "2012-03-20"
+    },
+    {
+      "featuredArtist": "Steffany Gretzinger",
+      "featuredArtistId": "2akNRvGNB400IDDUMr1PHW",
+      "trackName": "One Thirst",
+      "trackId": "5QSuEVgpqucNEj5D7Oicta",
+      "preview": "https://p.scdn.co/mp3-preview/726ae4bac189a39336cb430749de8fdefa8bd538?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9906fdb1761b339bde05781a7b402efe55df3641",
+      "release_date": "2011-03-22"
+    }
+  ]
+}

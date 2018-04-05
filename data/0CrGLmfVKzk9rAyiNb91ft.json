@@ -1,0 +1,50 @@
+{
+  "artistName": "Diego & Arnaldo",
+  "features": [
+    {
+      "featuredArtist": "Naiara Azevedo",
+      "featuredArtistId": "0jD7VeE1m2SdHbOWeCtB9l",
+      "trackName": "Te Assumo",
+      "trackId": "28MirPFgzf2WPDj4NCDlvU",
+      "preview": "https://p.scdn.co/mp3-preview/cdbb27f42b97d9c04aa2a28c73d3bd4bc23f44a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d5d6e084ddd983986e9659f2255012d661984c8c",
+      "release_date": "2018-01-29"
+    },
+    {
+      "featuredArtist": "Trio Parada Dura",
+      "featuredArtistId": "41fjoh5NjJhlDHYIUb9Hsk",
+      "trackName": "Último Adeus",
+      "trackId": "2fBtDrbjtFE3UeFktgMlBO",
+      "preview": "https://p.scdn.co/mp3-preview/787bd1eac5437e1466d2844183d3e2576c446ffc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d5d6e084ddd983986e9659f2255012d661984c8c",
+      "release_date": "2018-01-29"
+    },
+    {
+      "featuredArtist": "João Neto & Frederico",
+      "featuredArtistId": "2FrLTuXGuFDzQsjKidB03W",
+      "trackName": "Gorjeta do Garçom",
+      "trackId": "1UOlAB1iEMJCeSKccM4BXh",
+      "preview": "https://p.scdn.co/mp3-preview/b6dd4f0e59fc07e55e4cf8bf7cac2dd66c512bd9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d5d6e084ddd983986e9659f2255012d661984c8c",
+      "release_date": "2018-01-29"
+    },
+    {
+      "featuredArtist": "George Henrique & Rodrigo",
+      "featuredArtistId": "3FlCKtwOEYQQYyGVEbxG2Z",
+      "trackName": "Sofri em Dobro - Ao Vivo",
+      "trackId": "7KewQGRvWozMixgFmJFs0V",
+      "preview": "https://p.scdn.co/mp3-preview/f830a1512c122108807c3b82495b57348935c516?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b96210a7b2bd9611a9a2821a231dcda829b6a904",
+      "release_date": "2016-08-01"
+    },
+    {
+      "featuredArtist": "Felipe Ferraz",
+      "featuredArtistId": "3CCNkfSibkHmOHUN4ikMAI",
+      "trackName": "Coração Sem Palavras - Ao Vivo",
+      "trackId": "4SFYYKoLYQ36kvtIzPW4zo",
+      "preview": "https://p.scdn.co/mp3-preview/114b399df49362e158be64329a16f426140e62c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4465d6f07df26bb03a3e3612205ec095b860c402",
+      "release_date": "2018-02-23"
+    }
+  ]
+}

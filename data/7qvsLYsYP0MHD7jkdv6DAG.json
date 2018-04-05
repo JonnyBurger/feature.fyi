@@ -1,0 +1,59 @@
+{
+  "artistName": "Sara Evans",
+  "features": [
+    {
+      "featuredArtist": "Olivia",
+      "featuredArtistId": "0YY6bnp0jhZNKxrjLgSO6i",
+      "trackName": "The Twelve Days of Christmas - feat. Olivia and Audrey",
+      "trackId": "0GYSqKlbhb9vGF3GYtND27",
+      "preview": "https://p.scdn.co/mp3-preview/97568bf80925ad78072abff54db3cc521d34faa1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb473af6bca25e98dcf7e7acf0ab5aac13592e2d",
+      "release_date": "2014-11-17"
+    },
+    {
+      "featuredArtist": "Audrey",
+      "featuredArtistId": "6GPOb4QCKjVYrM5GhB2In6",
+      "trackName": "The Twelve Days of Christmas - feat. Olivia and Audrey",
+      "trackId": "0GYSqKlbhb9vGF3GYtND27",
+      "preview": "https://p.scdn.co/mp3-preview/97568bf80925ad78072abff54db3cc521d34faa1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb473af6bca25e98dcf7e7acf0ab5aac13592e2d",
+      "release_date": "2014-11-17"
+    },
+    {
+      "featuredArtist": "Gavin DeGraw",
+      "featuredArtistId": "5DYAABs8rkY9VhwtENoQCz",
+      "trackName": "Not Over You (feat. Gavin DeGraw)",
+      "trackId": "0IiB5z6d30qELn5yTe2wjM",
+      "preview": "https://p.scdn.co/mp3-preview/3459606bebb4b78150b8298a5823ff7beff79293?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/260e6790d9b9992744be8634ae73aab707acce26",
+      "release_date": "2014-03-10"
+    },
+    {
+      "featuredArtist": "Isaac Slade",
+      "featuredArtistId": "3J1fsYQtlsgoQVg3dn8255",
+      "trackName": "Can't Stop Loving You (Duet with Isaac Slade)",
+      "trackId": "5lWL9CTszxEyvdfE71zyZV",
+      "preview": "https://p.scdn.co/mp3-preview/a3662cb30168aca665475fee5568e17b0127681d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/260e6790d9b9992744be8634ae73aab707acce26",
+      "release_date": "2014-03-10"
+    },
+    {
+      "featuredArtist": "Vince Gill",
+      "featuredArtistId": "3IhWQSrLj8EJjdvjFTpCyo",
+      "trackName": "Better Off (feat. Vince Gill)",
+      "trackId": "6xoSCb45HMjYZ09piFEQYI",
+      "preview": "https://p.scdn.co/mp3-preview/3465c6cdd59a419216baee47b21d93e1774236c7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/260e6790d9b9992744be8634ae73aab707acce26",
+      "release_date": "2014-03-10"
+    },
+    {
+      "featuredArtist": "Todd Chrisley",
+      "featuredArtistId": "5QjTyvjYI2rZnfhRcjVH6r",
+      "trackName": "Infinite Love",
+      "trackId": "5gHyfU1kKbVSUXy8kMpmdv",
+      "preview": "https://p.scdn.co/mp3-preview/cdcd82da96654c20d8b7baea8093c6c2beff678a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b594f3750f00876e02562083168132b147a5cc0a",
+      "release_date": "2016-06-10"
+    }
+  ]
+}

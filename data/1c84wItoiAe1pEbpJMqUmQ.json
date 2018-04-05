@@ -1,0 +1,32 @@
+{
+  "artistName": "Oscar D'León",
+  "features": [
+    {
+      "featuredArtist": "Los Blanco",
+      "featuredArtistId": "5PugOkdCop48kyooj6VMc0",
+      "trackName": "Caminito de Guarenas",
+      "trackId": "1SnWZZPr3pcQegCo5E0SOM",
+      "preview": "https://p.scdn.co/mp3-preview/a4e78e1c83810b59b4d9cd5aa2955f2d88cd5759?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7adaba3cd105cde4da8aacfd4b4cd82b5c89d5f9",
+      "release_date": "2016-06-13"
+    },
+    {
+      "featuredArtist": "Tito Puente",
+      "featuredArtistId": "6SPpCqM8gOzrtICAxN5NuX",
+      "trackName": "Hay Que Trabajar",
+      "trackId": "5khKyooDPyz5rVYjoXLDF4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/97f0f440e2c754fe67e9c1b870106bc06855d8ff",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "Jose Alberto",
+      "featuredArtistId": "0Ij5XvrnnRFo7wCrUrwV5x",
+      "trackName": "Llegó El Sabor",
+      "trackId": "3Ax3TyJwPnPpQUoNrQxhw0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/97f0f440e2c754fe67e9c1b870106bc06855d8ff",
+      "release_date": "2015-10-16"
+    }
+  ]
+}

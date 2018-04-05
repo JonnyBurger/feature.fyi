@@ -1,0 +1,41 @@
+{
+  "artistName": "Só Pra Contrariar",
+  "features": [
+    {
+      "featuredArtist": "Fernando Pires",
+      "featuredArtistId": "25WmKLEG6LyK26HXBqP6oI",
+      "trackName": "Um Amor Puro",
+      "trackId": "1lRPd7WuwjhTCSVGM9BgQ5",
+      "preview": "https://p.scdn.co/mp3-preview/7ff66f0573d56aced7aa76e968b1a9648b22c8f1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2a5c665f0bc34a23442311b48cbf379fa44e8ff1",
+      "release_date": "2012-10-01"
+    },
+    {
+      "featuredArtist": "Caetano Veloso",
+      "featuredArtistId": "7HGNYPmbDrMkylWqeFCOIQ",
+      "trackName": "Final Feliz",
+      "trackId": "0uGRYy82WI6HOHo7hM9Dyy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5c96105e6084d5103b362f5cabbb754dd4dba078",
+      "release_date": "2002-03-15"
+    },
+    {
+      "featuredArtist": "Fábio Jr.",
+      "featuredArtistId": "60iOwdF3A0p4pAwgUXMaWU",
+      "trackName": "Essa Tal Liberdade - Acústico",
+      "trackId": "3ILo0SKv8QVzFvnD74jNEf",
+      "preview": "https://p.scdn.co/mp3-preview/0557140e1936bdfef62f4569162b243ae95e7296?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5c96105e6084d5103b362f5cabbb754dd4dba078",
+      "release_date": "2002-03-15"
+    },
+    {
+      "featuredArtist": "Alcione",
+      "featuredArtistId": "0hPar6ePAELiu9rYMdvMEo",
+      "trackName": "Mangueira De Todas As Gerções",
+      "trackId": "3Omtzk4a7qnzxUqLPYMQCt",
+      "preview": "https://p.scdn.co/mp3-preview/7d3333606b6e5f57b217f85ae26108ecc488bb12?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3683d92e5c4e18d1ecb12160186162a51573a69f",
+      "release_date": "1994-08-30"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "artistName": "Fujitsu",
+  "features": [
+    {
+      "featuredArtist": "joeshort",
+      "featuredArtistId": "5Fv1NLbpCj9pMsEps7KrO8",
+      "trackName": "khutso",
+      "trackId": "25zvyCuLN2ScNCyQ8lVarD",
+      "preview": "https://p.scdn.co/mp3-preview/7b91ca955d21c2a994370d1f0441cb4513e8683b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ee6bd6d5fff243f8a5ce56e554e673ffd87b0201",
+      "release_date": "2017-10-25"
+    },
+    {
+      "featuredArtist": "Philanthrope",
+      "featuredArtistId": "13ACz7DIictCpSYGglNTHs",
+      "trackName": "The End (feat. Fujitsu)",
+      "trackId": "6wpvLX37NJ7ctUkDhoCjOm",
+      "preview": "https://p.scdn.co/mp3-preview/164cdd48aeb2a870d3088e9423432ea0964ba30f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5fe03e2972c932e709afcb03252f14bbe363af7d",
+      "release_date": "2017-08-30"
+    }
+  ]
+}

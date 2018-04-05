@@ -1,0 +1,59 @@
+{
+  "artistName": "Snoh Aalegra",
+  "features": [
+    {
+      "featuredArtist": "Logic",
+      "featuredArtistId": "4xRYI6VqpkE3UwrDrAZL8L",
+      "trackName": "Sometimes",
+      "trackId": "2Yoi40YHBjbI2PycCeimJO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c87d9a08ace969623b67640c8c09c34462d6160",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Vic Mensa",
+      "featuredArtistId": "27w1NoOLMX7tJMYqcetPyG",
+      "trackName": "You Keep Me Waiting",
+      "trackId": "1vTQuh1ffr4fEV6f4xlsui",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c87d9a08ace969623b67640c8c09c34462d6160",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Vince Staples",
+      "featuredArtistId": "68kEuyFKyqrdQQLLsmiatm",
+      "trackName": "Nothing Burns Like The Cold",
+      "trackId": "27tCCThExMJEQh7lMp3Sd4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c87d9a08ace969623b67640c8c09c34462d6160",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Timbuktu",
+      "featuredArtistId": "4bOG1sx3QHFbOUVLNmMpPe",
+      "trackName": "Like I Used To",
+      "trackId": "4Q61N0ge1YSkhTkgxtRpNg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c87d9a08ace969623b67640c8c09c34462d6160",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Timbuktu",
+      "featuredArtistId": "7AZaDsoV9gd8Zjlh4Nw5dK",
+      "trackName": "Like I Used Too",
+      "trackId": "4ZQNtmU0VVxnzJVudBR401",
+      "preview": "https://p.scdn.co/mp3-preview/e13b47ec6446b076df88b49bb9c710dca976217d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/822774d9cf3512ca44f4ba1c9088f2dc3a07b30c",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "James Fauntleroy",
+      "featuredArtistId": "5ooSG9S0glqP5ZrqqaHBvT",
+      "trackName": "Charleville 9200",
+      "trackId": "0ylcnEUA0rDm32UPopLoie",
+      "preview": "https://p.scdn.co/mp3-preview/8a868d4e418655998030ed3546496d550f1b4168?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bd4f20ee51d02d2f9c34c0dbbfabf72bd0460199",
+      "release_date": "2016-04-08"
+    }
+  ]
+}

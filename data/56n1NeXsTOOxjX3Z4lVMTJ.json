@@ -1,0 +1,644 @@
+{
+  "artistName": "SFDK",
+  "features": [
+    {
+      "featuredArtist": "Shabu",
+      "featuredArtistId": "7yI6f6KLTIotYOuspbjPMP",
+      "trackName": "Años Muertos",
+      "trackId": "4J0ZMeYN7OkblxlarosaLT",
+      "preview": "https://p.scdn.co/mp3-preview/94542805b758497d4ee616a570389cb5fe0789e1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b94b3638e5617b1722c450f3e6984c3fdfb736b1",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Andreas Lutz",
+      "featuredArtistId": "6O0C4RGhaPyUrtno687JEY",
+      "trackName": "Los Funkcionarios",
+      "trackId": "3KNcascTSignAvxieu7d2g",
+      "preview": "https://p.scdn.co/mp3-preview/cbf80f3e6e90285deb544b23ad398b0a4123a430?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b94b3638e5617b1722c450f3e6984c3fdfb736b1",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Beret",
+      "featuredArtistId": "0ZHPrnImGh4re3TbSNkoZl",
+      "trackName": "Cara B",
+      "trackId": "2lXPDGSJBfF3tvelCmPfUN",
+      "preview": "https://p.scdn.co/mp3-preview/925bf1ab7e96070ae19affab9ca8c4cbfd5c6ec9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b94b3638e5617b1722c450f3e6984c3fdfb736b1",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Legendario",
+      "featuredArtistId": "6X97A7Vfil4DrnAxEJBPc2",
+      "trackName": "Twitter",
+      "trackId": "4gbAeak05ZMDoCkufbeyzN",
+      "preview": "https://p.scdn.co/mp3-preview/44dfda218a01191d9a245517284ed25c18eeecbe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b94b3638e5617b1722c450f3e6984c3fdfb736b1",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Raimundo Amador",
+      "featuredArtistId": "3skUHmTNpFUxTZaVxgvhF7",
+      "trackName": "Creador",
+      "trackId": "1lbiUIvt50XsTAguhW0XCX",
+      "preview": "https://p.scdn.co/mp3-preview/6c96c51668a35628601842c718d253e7dcbc163d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b94b3638e5617b1722c450f3e6984c3fdfb736b1",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Rubio de Pruna",
+      "featuredArtistId": "7c6qgaluKEwHslyI3fAuS4",
+      "trackName": "La Amalgama",
+      "trackId": "4tWcbCgyyIiBSmtjt0Wu3y",
+      "preview": "https://p.scdn.co/mp3-preview/b52586c3b0ecd19424c90ebb85b21747ef59b7ac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b94b3638e5617b1722c450f3e6984c3fdfb736b1",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Movimiento Original",
+      "featuredArtistId": "50u2mXgysmTttY0BizYWAo",
+      "trackName": "Siguiendo el Curso",
+      "trackId": "5dpqeVqKLPSLI7hqtxIlE8",
+      "preview": "https://p.scdn.co/mp3-preview/1d25edc4a19f9d3406e584fc339ad6ed26b5e26e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b94b3638e5617b1722c450f3e6984c3fdfb736b1",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Kaze",
+      "featuredArtistId": "2X11x8C63wCzAf1WwsIuLg",
+      "trackName": "Agua Pasá",
+      "trackId": "4QXiKcZwVr6MmgBXjsdGdU",
+      "preview": "https://p.scdn.co/mp3-preview/0b33eeb03b45d604565aa27d82ad13ca173971e3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b94b3638e5617b1722c450f3e6984c3fdfb736b1",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Vicky Luna",
+      "featuredArtistId": "5yEyttJJOnUbzGYgfMCdDs",
+      "trackName": "El Ornitólogo",
+      "trackId": "68zHcWu2ItFdysZZ2P56ut",
+      "preview": "https://p.scdn.co/mp3-preview/b2ed92698bd5fd7412b236687f26652ab7794685?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b94b3638e5617b1722c450f3e6984c3fdfb736b1",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Manuel Martínez",
+      "featuredArtistId": "6hHsPFPs8O0jq2HpudqjSR",
+      "trackName": "Resistiendo por Ti",
+      "trackId": "3QnnX7bCtHpYhTGy83I9PH",
+      "preview": "https://p.scdn.co/mp3-preview/460e93aa4177be0b1d9ae3609d2f1e74ab299ab5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b94b3638e5617b1722c450f3e6984c3fdfb736b1",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Little Pepe",
+      "featuredArtistId": "33CBC8BnDtnQKsgK2JeOyO",
+      "trackName": "Bajo el Mismo Sol",
+      "trackId": "2i6iiyjKQ8JClv3NtNs0wm",
+      "preview": "https://p.scdn.co/mp3-preview/f548847c8dca2e5cca49c19d738ac5cb66a5f89c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/98f3880a1afb204d0a0860d947a5965c0955e482",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Green Valley",
+      "featuredArtistId": "1v7iZcyrm4fHfsEBiseomy",
+      "trackName": "Cantando Bajo la Vida",
+      "trackId": "1b1jXAQOYfzf7iCVJbi49b",
+      "preview": "https://p.scdn.co/mp3-preview/5a9cb49219cbfd5f5bdc00e051c34bacd79eb880?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/98f3880a1afb204d0a0860d947a5965c0955e482",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Mala Juntera",
+      "featuredArtistId": "4rkQU6RutVFwsTLrazXXxK",
+      "trackName": "Manos en el Aire",
+      "trackId": "6haNScJR9trHxGYiaPIkMy",
+      "preview": "https://p.scdn.co/mp3-preview/9acccae5b176293440c31516a8bdcd5e511361cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/98f3880a1afb204d0a0860d947a5965c0955e482",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Fyahbwoy",
+      "featuredArtistId": "6uFTGm4t8Z6tXyCm22sLQM",
+      "trackName": "Todo Lo Que Importa",
+      "trackId": "4Z1p2M8ycX5CGzovCXr1QL",
+      "preview": "https://p.scdn.co/mp3-preview/8aa27981b2dbb13a6cdba433ac9d8c8cba11e7ea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/98f3880a1afb204d0a0860d947a5965c0955e482",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Juaninacka",
+      "featuredArtistId": "6a7aRbyLNHHiwqgLh87Mpy",
+      "trackName": "Apología del Llanto",
+      "trackId": "7ALpxQuijhPw9hL9gr4nwN",
+      "preview": "https://p.scdn.co/mp3-preview/3a0ab696e37c33260ce264dfea338f16dbcbc5bc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/98f3880a1afb204d0a0860d947a5965c0955e482",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Alberto gambino",
+      "featuredArtistId": "2KaaIknCVW5SstugreNkha",
+      "trackName": "Ella",
+      "trackId": "2LATIOuQYuRY8AYKw0EKD3",
+      "preview": "https://p.scdn.co/mp3-preview/94f7c74667011ec79690427e01c5a0f4287ba19f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/98f3880a1afb204d0a0860d947a5965c0955e482",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Kriss",
+      "featuredArtistId": "2ICpdq6XH4igauS6tosVgH",
+      "trackName": "El Viaje",
+      "trackId": "6wVUoyAzv13787tDGJl3yz",
+      "preview": "https://p.scdn.co/mp3-preview/4819e754a7415b2684908882cb5e5f26a4973170?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/98f3880a1afb204d0a0860d947a5965c0955e482",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Jefe de la M.",
+      "featuredArtistId": "2SZTXJwVYRndgYbwuVmJtn",
+      "trackName": "Va Como Va",
+      "trackId": "6NsUdPZqgGyF0moP0cN8LK",
+      "preview": "https://p.scdn.co/mp3-preview/67ea74043ee5b21658ed7f82f9d09c7aa9991c7b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/98f3880a1afb204d0a0860d947a5965c0955e482",
+      "release_date": "2014-12-16"
+    },
+    {
+      "featuredArtist": "Zeropositivo",
+      "featuredArtistId": "5mhAqBlaOlTLA5txzZf22K",
+      "trackName": "Creencias Personales",
+      "trackId": "75cH5pVAqBto7c2yyCy4It",
+      "preview": "https://p.scdn.co/mp3-preview/ebccd18efb339e94a8ad97d4ee0386164f243c66?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Duo Kie",
+      "featuredArtistId": "6HdO9DuwHJ5nCZIzBW7HVv",
+      "trackName": "Mision Buscar y Destruir",
+      "trackId": "1iF0aLacXXhZrzddyI0Quq",
+      "preview": "https://p.scdn.co/mp3-preview/b62ce4a0891528a001420936ccb25a8387992eba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "El Chojin",
+      "featuredArtistId": "3m1an5fzquhCtk4UnhmLmc",
+      "trackName": "Mision Buscar y Destruir",
+      "trackId": "1iF0aLacXXhZrzddyI0Quq",
+      "preview": "https://p.scdn.co/mp3-preview/b62ce4a0891528a001420936ccb25a8387992eba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Gordo Master",
+      "featuredArtistId": "5y1Ia0TH2oNXKLkKNOdjZQ",
+      "trackName": "Blondapetit",
+      "trackId": "6VnTJEOE3PlAG8plyOmldd",
+      "preview": "https://p.scdn.co/mp3-preview/08a15713992d218093ecfba08cb2e28b3f3bff29?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Capaz",
+      "featuredArtistId": "4QxHdQXtGwHUMaEPxPljuE",
+      "trackName": "Flow del 15",
+      "trackId": "6vojYHtT6wj2NId2NpMaPV",
+      "preview": "https://p.scdn.co/mp3-preview/e9e75295c3960b1f5a051a90ab5e5f9702fd815f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Baroe",
+      "featuredArtistId": "5PA5TW8Z3rel2dNleGj1L5",
+      "trackName": "Donde Tengo Que Estar",
+      "trackId": "0Jhnsfckstxh5soLB6Xl9D",
+      "preview": "https://p.scdn.co/mp3-preview/5750e10ba65276350a7fd435754330d36e6cf15c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Jefe de la M",
+      "featuredArtistId": "53rucYkv8YQMttlnJewnag",
+      "trackName": "Donde Tengo Que Estar",
+      "trackId": "0Jhnsfckstxh5soLB6Xl9D",
+      "preview": "https://p.scdn.co/mp3-preview/5750e10ba65276350a7fd435754330d36e6cf15c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Xcese",
+      "featuredArtistId": "6q0a8EJVDLXee3CE2FHpIv",
+      "trackName": "Donde Tengo Que Estar",
+      "trackId": "0Jhnsfckstxh5soLB6Xl9D",
+      "preview": "https://p.scdn.co/mp3-preview/5750e10ba65276350a7fd435754330d36e6cf15c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Cortesano",
+      "featuredArtistId": "5v7iQ0KRpJCuGwgmhRz07e",
+      "trackName": "Donde Tengo Que Estar",
+      "trackId": "0Jhnsfckstxh5soLB6Xl9D",
+      "preview": "https://p.scdn.co/mp3-preview/5750e10ba65276350a7fd435754330d36e6cf15c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "El Santo",
+      "featuredArtistId": "0X0o5wsXqn6uunus02kGvF",
+      "trackName": "Esta Va por Mi",
+      "trackId": "0NnauahR7Yoz9dudgjnHp2",
+      "preview": "https://p.scdn.co/mp3-preview/58486282d18622967f1e37877c883848101d20d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Juan Profundo",
+      "featuredArtistId": "0vNHFRKPjJyfm0LT3SSu5P",
+      "trackName": "Esta Va por Mi",
+      "trackId": "0NnauahR7Yoz9dudgjnHp2",
+      "preview": "https://p.scdn.co/mp3-preview/58486282d18622967f1e37877c883848101d20d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Osé",
+      "featuredArtistId": "1ogxAd9tjtTE5H6rtb4Pwj",
+      "trackName": "Esta Va por Mi",
+      "trackId": "0NnauahR7Yoz9dudgjnHp2",
+      "preview": "https://p.scdn.co/mp3-preview/58486282d18622967f1e37877c883848101d20d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Tosko",
+      "featuredArtistId": "6TB7aGH2wncweq212VM7OF",
+      "trackName": "Esta Va por Mi",
+      "trackId": "0NnauahR7Yoz9dudgjnHp2",
+      "preview": "https://p.scdn.co/mp3-preview/58486282d18622967f1e37877c883848101d20d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "El limite",
+      "featuredArtistId": "2q0stXth3YFMNdsGAh7bR6",
+      "trackName": "Fucking Real",
+      "trackId": "3pgSSckZ717GF3Oia0KnjF",
+      "preview": "https://p.scdn.co/mp3-preview/9a2652e2b6900b7a42e35484ba35d6b1990eb931?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "La Excepcion",
+      "featuredArtistId": "1CBTLxWSRy7jDOgszr1Krt",
+      "trackName": "La Calle Esta Candela",
+      "trackId": "4iN6mHl7E7qS4hb4S6YYI4",
+      "preview": "https://p.scdn.co/mp3-preview/0751fd4a80d92e947f1b6a620efd18ef979ecfd2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Crew Cuervos",
+      "featuredArtistId": "24apwc5XPdv4HpVIopwLNL",
+      "trackName": "W.o.m.",
+      "trackId": "2HaMKBADECwx7IODJa4NRP",
+      "preview": "https://p.scdn.co/mp3-preview/2eea09bb86199c4d660c2a18cb59ed8a7fafe77a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "El Hermano L",
+      "featuredArtistId": "2g7ifCJvnrtiZdWdprLmti",
+      "trackName": "Puedes Ver la Luz",
+      "trackId": "1LDtg0Muc6HPizjcBSbvqD",
+      "preview": "https://p.scdn.co/mp3-preview/a673696e4eff0a30eaca8c8aa1efc363ec6283f5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Sharif",
+      "featuredArtistId": "5pIapcAHb6WV4fUjfQchMf",
+      "trackName": "Tinta Distinta",
+      "trackId": "0R2861cxnUhObIXwU8yl20",
+      "preview": "https://p.scdn.co/mp3-preview/45fca31c0fbab35808f13edba7f7b2d79468d345?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Alba",
+      "featuredArtistId": "6yyr9VG6kmYPPbpuECL4uy",
+      "trackName": "Tinta Distinta",
+      "trackId": "0R2861cxnUhObIXwU8yl20",
+      "preview": "https://p.scdn.co/mp3-preview/45fca31c0fbab35808f13edba7f7b2d79468d345?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Spanish Fly",
+      "featuredArtistId": "0YsY4S6w5U8rvbExaxlL03",
+      "trackName": "El Cambio",
+      "trackId": "1CAFxmqARamNHgvCznzV4E",
+      "preview": "https://p.scdn.co/mp3-preview/3486df6a794633b771cbec6aae1a31c91afb6def?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Ego",
+      "featuredArtistId": "3XOuwu0S8PD8moaUxUKOv0",
+      "trackName": "El Cambio",
+      "trackId": "1CAFxmqARamNHgvCznzV4E",
+      "preview": "https://p.scdn.co/mp3-preview/3486df6a794633b771cbec6aae1a31c91afb6def?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Duddy Wallace",
+      "featuredArtistId": "5HPEzo8yVtS0kTV9NtueFw",
+      "trackName": "El Cambio",
+      "trackId": "1CAFxmqARamNHgvCznzV4E",
+      "preview": "https://p.scdn.co/mp3-preview/3486df6a794633b771cbec6aae1a31c91afb6def?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Zatu",
+      "featuredArtistId": "3vBquCxFYZbHGRQSMwJpZh",
+      "trackName": "El Cambio",
+      "trackId": "1CAFxmqARamNHgvCznzV4E",
+      "preview": "https://p.scdn.co/mp3-preview/3486df6a794633b771cbec6aae1a31c91afb6def?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "El Chobbi",
+      "featuredArtistId": "1VQOZMhsnjaQpJiJsEt5cd",
+      "trackName": "Saluda al Capitan",
+      "trackId": "4l30EfwlLPeYGkVD6pJB0V",
+      "preview": "https://p.scdn.co/mp3-preview/dcbab6bf215a8eb1d595a38aba8910eb0b4ab766?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Ijah",
+      "featuredArtistId": "6gnioolaZ39WgcgoeRqVpI",
+      "trackName": "Digan Lo Que Quieran",
+      "trackId": "5bkTPi1LyowlgTHMdEMtbS",
+      "preview": "https://p.scdn.co/mp3-preview/50cdc04ed76fff60d30c5d77934596a27a392230?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Latex Diamond",
+      "featuredArtistId": "0HBwO97K7yNzSW3OY5gWY8",
+      "trackName": "Trabajos Suzios",
+      "trackId": "2hOuAGwgOGFZVsJOUgN7oB",
+      "preview": "https://p.scdn.co/mp3-preview/8c77a3d90df36e8f13728603437125079eba2906?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Mitsuruggy",
+      "featuredArtistId": "2rGoVpcXj0MXypnguT4yDa",
+      "trackName": "Trabajos Suzios",
+      "trackId": "2hOuAGwgOGFZVsJOUgN7oB",
+      "preview": "https://p.scdn.co/mp3-preview/8c77a3d90df36e8f13728603437125079eba2906?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Trad Montana",
+      "featuredArtistId": "3k5Dr5XstFCrbZHk4w8gGU",
+      "trackName": "Trabajos Suzios",
+      "trackId": "2hOuAGwgOGFZVsJOUgN7oB",
+      "preview": "https://p.scdn.co/mp3-preview/8c77a3d90df36e8f13728603437125079eba2906?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Jesuly",
+      "featuredArtistId": "1kJGmYPe6n8TzJwTe9Bjmz",
+      "trackName": "One Mission",
+      "trackId": "6KFQ10BP2fWhY6o7OR8kUO",
+      "preview": "https://p.scdn.co/mp3-preview/cc1166d09825128e3757539fd0583fb23163f279?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Puto Loko",
+      "featuredArtistId": "4vZYkHU7E62WXSdQ2vVxG2",
+      "trackName": "One Mission",
+      "trackId": "6KFQ10BP2fWhY6o7OR8kUO",
+      "preview": "https://p.scdn.co/mp3-preview/cc1166d09825128e3757539fd0583fb23163f279?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Sho-Hai",
+      "featuredArtistId": "1mvAv5jk1OSd3Tyv4aZEjK",
+      "trackName": "Espacio Vital",
+      "trackId": "7bNYW9RwNYfgYMJMhSv77j",
+      "preview": "https://p.scdn.co/mp3-preview/0a4fb69267feedd9643766944ebc0fc748891b6b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Kase.O",
+      "featuredArtistId": "7GmXwGXJSsmWTkCyk5Twux",
+      "trackName": "Espacio Vital",
+      "trackId": "7bNYW9RwNYfgYMJMhSv77j",
+      "preview": "https://p.scdn.co/mp3-preview/0a4fb69267feedd9643766944ebc0fc748891b6b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Rapsusklei",
+      "featuredArtistId": "451DVjaBuGYfvDfvG9MxaG",
+      "trackName": "Esta To Feo",
+      "trackId": "732l7rumUnCPHnTCWR3zL1",
+      "preview": "https://p.scdn.co/mp3-preview/f032aa672285cd2c58f59d5edec18dde2d24fa18?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Darmo",
+      "featuredArtistId": "6fyolLGlqMbvJHihN1xxjk",
+      "trackName": "Curro y Sacrificio",
+      "trackId": "2aKmxFekOT95q5j3k1j2fz",
+      "preview": "https://p.scdn.co/mp3-preview/0b46b12c4d7a3059a3d451666bba914c5f323b36?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Kafu Banton",
+      "featuredArtistId": "5RLb16s3zfrdWdRF0l7xij",
+      "trackName": "Ellos Van a Ver",
+      "trackId": "4zMwwGNbyn2fHLPz4WtIrH",
+      "preview": "https://p.scdn.co/mp3-preview/3b499875dd4aca21a42b06d13103c06e27926bb1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Piezas",
+      "featuredArtistId": "3QbKH2hb5ynYW9JSclqK4M",
+      "trackName": "Esto o Aquello",
+      "trackId": "3vppTOcSDVZsaA4eds5QoB",
+      "preview": "https://p.scdn.co/mp3-preview/69d7a590a53cccb210fc8362d4e546fc9aa1fc84?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Freshmakers",
+      "featuredArtistId": "6j8Dlp0CU3H0EagmCBFF0L",
+      "trackName": "Por Mis Hijos",
+      "trackId": "1JIf6rdOyXYmpUw3gdw60P",
+      "preview": "https://p.scdn.co/mp3-preview/83174be5f897b2c7a777ea4c1ff7f16ed3890456?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Tito",
+      "featuredArtistId": "5xXfRvwpVttCnlyXXGtyYH",
+      "trackName": "Lions",
+      "trackId": "3AcOeA0EOL7J59YVTFFnjS",
+      "preview": "https://p.scdn.co/mp3-preview/84be6f97e2cf5d0e77c52902c855b5b31fa29141?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Kultama",
+      "featuredArtistId": "2OQvY2AVkXEaRFyhGiL10V",
+      "trackName": "Lsd",
+      "trackId": "1JWtUHnaLe4QmkqS3367zs",
+      "preview": "https://p.scdn.co/mp3-preview/f4a9ed58310da9ca4c59646bfadc8bf7de3f2b8a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Dementores",
+      "featuredArtistId": "53ePEO5kkjitcJ0AwSJQpy",
+      "trackName": "Los Chicos del Barrio",
+      "trackId": "4EY4HFM9GVIDWj901x0NJx",
+      "preview": "https://p.scdn.co/mp3-preview/561a38a83b5b1ca97ad76ec13fc31a5ff600a5c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Ed Noise",
+      "featuredArtistId": "0ZHcfMfJ9DtjiFfqU5EKuH",
+      "trackName": "Los Chicos del Barrio",
+      "trackId": "4EY4HFM9GVIDWj901x0NJx",
+      "preview": "https://p.scdn.co/mp3-preview/561a38a83b5b1ca97ad76ec13fc31a5ff600a5c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Pájaro",
+      "featuredArtistId": "74iPAC9duJPejTsHv5vl1H",
+      "trackName": "Los Chicos del Barrio",
+      "trackId": "4EY4HFM9GVIDWj901x0NJx",
+      "preview": "https://p.scdn.co/mp3-preview/561a38a83b5b1ca97ad76ec13fc31a5ff600a5c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Sicario",
+      "featuredArtistId": "0vk9YH4UXFiK1HrzAthCRm",
+      "trackName": "Los Generadores",
+      "trackId": "52O6zyEwDR35cJXoSWsAzr",
+      "preview": "https://p.scdn.co/mp3-preview/51e7c364f46df969e23c6ba3f8cd717abc354e77?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b9db79fa002313600916e2f78f57f18859e16d04",
+      "release_date": "2011-12-01"
+    },
+    {
+      "featuredArtist": "Chukky",
+      "featuredArtistId": "1pbypJzDS0Glu3baISY6AL",
+      "trackName": "No",
+      "trackId": "14i8QF8lx3FHdiDLIo9cXw",
+      "preview": "https://p.scdn.co/mp3-preview/f2d5c43a466426f48f9d50511784818890b4bfeb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/006e0e924ae498ee69e218b9c863fcfb7b7fa72b",
+      "release_date": "2009-11-24"
+    },
+    {
+      "featuredArtist": "Pinnacle Rockers",
+      "featuredArtistId": "5PvfpKvLXmPKDswIjht65Y",
+      "trackName": "Vívelo",
+      "trackId": "7Ju3k3C1lVgaPgkL0yeLUg",
+      "preview": "https://p.scdn.co/mp3-preview/3079676b9c9cd97e72d866f7e310ab003ddd6834?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/006e0e924ae498ee69e218b9c863fcfb7b7fa72b",
+      "release_date": "2009-11-24"
+    },
+    {
+      "featuredArtist": "Halberto El Chef",
+      "featuredArtistId": "1GkvTfZtBGWY90x3riJX8n",
+      "trackName": "Fruta Variada",
+      "trackId": "441lqPTS6DmjxwlHKH2Onj",
+      "preview": "https://p.scdn.co/mp3-preview/38834558971c5cf0547105115d49f9690aeb722d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/006e0e924ae498ee69e218b9c863fcfb7b7fa72b",
+      "release_date": "2009-11-24"
+    },
+    {
+      "featuredArtist": "Yoque",
+      "featuredArtistId": "6SokefiY5WSzZ2rLaiagWq",
+      "trackName": "Fruta Variada",
+      "trackId": "441lqPTS6DmjxwlHKH2Onj",
+      "preview": "https://p.scdn.co/mp3-preview/38834558971c5cf0547105115d49f9690aeb722d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/006e0e924ae498ee69e218b9c863fcfb7b7fa72b",
+      "release_date": "2009-11-24"
+    },
+    {
+      "featuredArtist": "All Day Green",
+      "featuredArtistId": "54iF2CcDSP2P8Os8QTzAW7",
+      "trackName": "Él",
+      "trackId": "5lV1g6zGj9TyOjWXOlCSHI",
+      "preview": "https://p.scdn.co/mp3-preview/593352e04c28d7b9d26af3278bfd0e0450c9f670?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/006e0e924ae498ee69e218b9c863fcfb7b7fa72b",
+      "release_date": "2009-11-24"
+    },
+    {
+      "featuredArtist": "Shotta",
+      "featuredArtistId": "6kSbf0Xe8Bdhitd3d6Jr2z",
+      "trackName": "Ternera Podrida",
+      "trackId": "40MhadpuJk63ejsFFnEvtW",
+      "preview": "https://p.scdn.co/mp3-preview/2cb617240cd5be583303a32d9ba1966d3a6d99da?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/50eb77e0d6e1749c2f86e4b4fd6a9991ce46eb5d",
+      "release_date": "2006-11-25"
+    },
+    {
+      "featuredArtist": "ToteKing",
+      "featuredArtistId": "224rbIjYbXaTI7lnP2ZMNJ",
+      "trackName": "$ + €",
+      "trackId": "2JpNQup1KpoFj6B0fvOjKj",
+      "preview": "https://p.scdn.co/mp3-preview/09c9279aa507088d8ba94d5b1979e9930edf0ac1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2133665e2ad89acb1bfd271748b14189bd0a9b1f",
+      "release_date": "2005-03-18"
+    },
+    {
+      "featuredArtist": "Morodo",
+      "featuredArtistId": "2rADT1sxi2F57oWgjVfJT4",
+      "trackName": "Esta Canción Va Dedicada...",
+      "trackId": "5wEwIQHIpzfEQswCLp3HGM",
+      "preview": "https://p.scdn.co/mp3-preview/dfface9a319b06b85c316b78fa567becaf3badc8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2133665e2ad89acb1bfd271748b14189bd0a9b1f",
+      "release_date": "2005-03-18"
+    },
+    {
+      "featuredArtist": "Loko",
+      "featuredArtistId": "59FK2ttGX62zmusuKxq3wg",
+      "trackName": "Hoy No...",
+      "trackId": "5UI0n1BNNsR9dqVGy9kOhK",
+      "preview": "https://p.scdn.co/mp3-preview/e36ecb01d6556d47a3cffb78cc06c1fe337d3c3d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2133665e2ad89acb1bfd271748b14189bd0a9b1f",
+      "release_date": "2005-03-18"
+    },
+    {
+      "featuredArtist": "Joselito Acedo",
+      "featuredArtistId": "3EGzp63GM7TEt49m7w00Nn",
+      "trackName": "La Amalgama",
+      "trackId": "2mGYptxJVQMWi59h8km3fq",
+      "preview": "https://p.scdn.co/mp3-preview/b52586c3b0ecd19424c90ebb85b21747ef59b7ac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b490a6170e06fe92b7d40956b42c0c5be9e2f420",
+      "release_date": "2018-03-23"
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "artistName": "Disiz La Peste",
+  "features": [
+    {
+      "featuredArtist": "Margot Guera",
+      "featuredArtistId": "4kaRHbwc8dOvk5fTrQu08q",
+      "trackName": "Menteur menteuse",
+      "trackId": "5L2gC3qCqn9gTCTA0WbwNi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5d2ad84b027b8a0711c17f5de02a5b64a377abe",
+      "release_date": "2017-06-09"
+    },
+    {
+      "featuredArtist": "Hamza",
+      "featuredArtistId": "5gs4Sm2WQUkcGeikMcVHbh",
+      "trackName": "Marquises",
+      "trackId": "1NiqPVM4WMgRdM6GVaPI2W",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5d2ad84b027b8a0711c17f5de02a5b64a377abe",
+      "release_date": "2017-06-09"
+    },
+    {
+      "featuredArtist": "The Secret Magician",
+      "featuredArtistId": "7HJ6XtNy55GuZ3xBByvaV4",
+      "trackName": "Ça va aller - Secret RMX",
+      "trackId": "0vhSURHDzLmYOjISU0r3U1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5d2ad84b027b8a0711c17f5de02a5b64a377abe",
+      "release_date": "2017-06-09"
+    },
+    {
+      "featuredArtist": "Dj Pone",
+      "featuredArtistId": "5d9It5vsYmHMcd1mABdXFm",
+      "trackName": "Un jour j'ai fait un tag",
+      "trackId": "5qlGJ9sCmg16XMcoUg37l4",
+      "preview": "https://p.scdn.co/mp3-preview/22227057222ae9763b38d7160abbfe7b50e7cf2f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8246dc90eedeb4b5080219f3af5ba4fe9667cc81",
+      "release_date": "2015-06-01"
+    },
+    {
+      "featuredArtist": "Youssoupha",
+      "featuredArtistId": "5DW7NxqQ2875JtjuV7KMn4",
+      "trackName": "La promesse",
+      "trackId": "5AzyHA2iEErzcB6AiPsz7H",
+      "preview": "https://p.scdn.co/mp3-preview/fa7d79ff7a5aa8040a203441f332dc86f33953b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8246dc90eedeb4b5080219f3af5ba4fe9667cc81",
+      "release_date": "2015-06-01"
+    },
+    {
+      "featuredArtist": "Soprano",
+      "featuredArtistId": "2RJBv9wXbW6m539q9NOfW1",
+      "trackName": "La promesse",
+      "trackId": "5AzyHA2iEErzcB6AiPsz7H",
+      "preview": "https://p.scdn.co/mp3-preview/fa7d79ff7a5aa8040a203441f332dc86f33953b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8246dc90eedeb4b5080219f3af5ba4fe9667cc81",
+      "release_date": "2015-06-01"
+    },
+    {
+      "featuredArtist": "Mad",
+      "featuredArtistId": "1qvkDagsRFXczrpNDY8SBQ",
+      "trackName": "Miskine",
+      "trackId": "3ckGvnq8GQ4lbR6isUpx8c",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/44d0deabc0758279676b4e544d86c5a87e7567d8",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Simon Buret (AaRON)",
+      "featuredArtistId": "6K5F1yUhxbPp2f6CBTSg9k",
+      "trackName": "Complexité Française",
+      "trackId": "2DAa4942RQ3wV1tWuqg8uA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/44d0deabc0758279676b4e544d86c5a87e7567d8",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Areno Jaz",
+      "featuredArtistId": "30CjlbjEQ69y1WVYXdV81f",
+      "trackName": "Gagne pain (feat. 1995, Alpha Wann & Areno Jaz)",
+      "trackId": "3UKbB5z0Mc1vngUnxeBau0",
+      "preview": "https://p.scdn.co/mp3-preview/e74a5fa294a18b2e2e24308a36c56e32621fe994?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1f5ef9ac6c2cffb47b499e8b53dd02b13a2a6c8f",
+      "release_date": "2012-03-26"
+    },
+    {
+      "featuredArtist": "Alpha Wann",
+      "featuredArtistId": "7yeFMUrYTY5cAZx0GKXnti",
+      "trackName": "Gagne pain (feat. 1995, Alpha Wann & Areno Jaz)",
+      "trackId": "3UKbB5z0Mc1vngUnxeBau0",
+      "preview": "https://p.scdn.co/mp3-preview/e74a5fa294a18b2e2e24308a36c56e32621fe994?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1f5ef9ac6c2cffb47b499e8b53dd02b13a2a6c8f",
+      "release_date": "2012-03-26"
+    },
+    {
+      "featuredArtist": "1996",
+      "featuredArtistId": "6uVYUMwSw64mg9rd4hgyNi",
+      "trackName": "Gagne pain (feat. 1995, Alpha Wann & Areno Jaz)",
+      "trackId": "3UKbB5z0Mc1vngUnxeBau0",
+      "preview": "https://p.scdn.co/mp3-preview/e74a5fa294a18b2e2e24308a36c56e32621fe994?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1f5ef9ac6c2cffb47b499e8b53dd02b13a2a6c8f",
+      "release_date": "2012-03-26"
+    },
+    {
+      "featuredArtist": "Autumn Rowe",
+      "featuredArtistId": "3gCzQpKxnHhJgOYpZRcEfH",
+      "trackName": "Best Day",
+      "trackId": "65qvxu2IZTSwVsxYNIwxat",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d540675d0ed6e83cd11254763dca52d8003c248c",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Mac Miller",
+      "featuredArtistId": "4LLpKhyESsyAXpc4laK94U",
+      "trackName": "Toussa Toussa - New Version",
+      "trackId": "7k2wKNvEmpj0SSD7WPv4rh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d540675d0ed6e83cd11254763dca52d8003c248c",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Orelsan",
+      "featuredArtistId": "4FpJcNgOvIpSBeJgRg3OfN",
+      "trackName": "Go Go Gadget",
+      "trackId": "3wnlIssbNaFHIKrjTHHKJ2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d540675d0ed6e83cd11254763dca52d8003c248c",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Ladea",
+      "featuredArtistId": "6DqFvk3gyFPYJn3iwdpQ6y",
+      "trackName": "Elle T'A Eu",
+      "trackId": "5cK5vfJMxO2bjBE5pJOl54",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d540675d0ed6e83cd11254763dca52d8003c248c",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Humphrey",
+      "featuredArtistId": "2RTeAMXtT5IZA4HndoFSNq",
+      "trackName": "Juste Kiffer - Ancienne Version Longue",
+      "trackId": "1YareRUjFRr8CgdA3JkSBU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4c90fbe548fedfce12ec7427bf8b4fe572e0e5a9",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Yannick Noah",
+      "featuredArtistId": "0BCkVcs4QEgfHlvZ7rjSNv",
+      "trackName": "Métisse - Remix",
+      "trackId": "3uGRnzldvQxOmfTZLc4ls9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4c90fbe548fedfce12ec7427bf8b4fe572e0e5a9",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Thione Seck",
+      "featuredArtistId": "5aMdbTrsvS5t6nDSrQDQaV",
+      "trackName": "Gnibi",
+      "trackId": "4SHNdJNgJPfyt0DS3Tdh5Y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c32c526f02063c95f1e729bc8ba64e30cc9efc8",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Ablaye M'Baye",
+      "featuredArtistId": "1jt6yibTNHFudbLuv5twSU",
+      "trackName": "Sant Yalla",
+      "trackId": "56algg0K8eyc9OPrI3oqQm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c32c526f02063c95f1e729bc8ba64e30cc9efc8",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Pape Djibi Ba",
+      "featuredArtistId": "6vzY4zLpYswbVYkWwHbgTu",
+      "trackName": "N'Dioukel",
+      "trackId": "6C4DdlLItPVZFdig67g3lC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c32c526f02063c95f1e729bc8ba64e30cc9efc8",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Mokobé",
+      "featuredArtistId": "6B535quc1yWnDhnBMCvosY",
+      "trackName": "Voix Du Sénégal",
+      "trackId": "6E8qFbvdqlGDTTl4xkNDNf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c32c526f02063c95f1e729bc8ba64e30cc9efc8",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Oumou Sangaré",
+      "featuredArtistId": "65CKKZilbcSKkAPC9a5Mvh",
+      "trackName": "Voix Du Sénégal",
+      "trackId": "6E8qFbvdqlGDTTl4xkNDNf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c32c526f02063c95f1e729bc8ba64e30cc9efc8",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Hawa",
+      "featuredArtistId": "4FvNEnsDKQO0UV45rycYXR",
+      "trackName": "Voix Du Sénégal",
+      "trackId": "6E8qFbvdqlGDTTl4xkNDNf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c32c526f02063c95f1e729bc8ba64e30cc9efc8",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Flag",
+      "featuredArtistId": "3S49TUKHZslRPXVyvzVTLd",
+      "trackName": "Sama Ajana",
+      "trackId": "0aqQuMClbVqYZxV2sIqAVD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c32c526f02063c95f1e729bc8ba64e30cc9efc8",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "16Ar (L'S Kadrille)",
+      "featuredArtistId": "7h6uoqG6yLHafwA3nVHX9u",
+      "trackName": "Sénégalais de France",
+      "trackId": "6DrrJj0zBWCnmHZueMHtS1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c32c526f02063c95f1e729bc8ba64e30cc9efc8",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Mental",
+      "featuredArtistId": "2OS9PlXKfv5it5nOHRDs82",
+      "trackName": "Sénégalais de France",
+      "trackId": "6DrrJj0zBWCnmHZueMHtS1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c32c526f02063c95f1e729bc8ba64e30cc9efc8",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Iron Sy",
+      "featuredArtistId": "42UIDpEBWHrk9z3rybZQxS",
+      "trackName": "Sénégalais de France",
+      "trackId": "6DrrJj0zBWCnmHZueMHtS1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c32c526f02063c95f1e729bc8ba64e30cc9efc8",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Gaye Cissoko",
+      "featuredArtistId": "3KtJJpNemWd2uPPLsP61dg",
+      "trackName": "Sénégalais de France",
+      "trackId": "6DrrJj0zBWCnmHZueMHtS1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c32c526f02063c95f1e729bc8ba64e30cc9efc8",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Flag",
+      "featuredArtistId": "5oUj26l8XtDMFnwSC3GQDy",
+      "trackName": "Sama Ajana",
+      "trackId": "06BbnbHmxGEn3lc93jgvVt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6baef0cb1bc8a681efc42dec7482dae180c2cf2a",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Eloquence",
+      "featuredArtistId": "1LMoCj4HblZAixqOK8Nac8",
+      "trackName": "C'Est Toujours Ca La France",
+      "trackId": "2mn9WZS24AFU69cEu8OmXB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7a4eff094e7679bbfd3a066bd96fb8a8ea618908",
+      "release_date": "2003-06-30"
+    },
+    {
+      "featuredArtist": "Sarah",
+      "featuredArtistId": "6QBp1ujToazw7Rg9LpWnxA",
+      "trackName": "Trop De Chichis",
+      "trackId": "3LE1D0wVMWtdMfdPgUpwy4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7a4eff094e7679bbfd3a066bd96fb8a8ea618908",
+      "release_date": "2003-06-30"
+    },
+    {
+      "featuredArtist": "Bilal",
+      "featuredArtistId": "6mmfF4ERGkMvAQ1VTzvRgX",
+      "trackName": "Le Réveil",
+      "trackId": "7f8YXKTO3TYla3EmzLAxwY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7a4eff094e7679bbfd3a066bd96fb8a8ea618908",
+      "release_date": "2003-06-30"
+    },
+    {
+      "featuredArtist": "Youssouf Gaye Cissokho",
+      "featuredArtistId": "2Glm6I9KwCDuApzwbMAJrh",
+      "trackName": "Insécurité Sociale",
+      "trackId": "6xGiE7ZodBzqz1G4vJ6Y7j",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7a4eff094e7679bbfd3a066bd96fb8a8ea618908",
+      "release_date": "2003-06-30"
+    },
+    {
+      "featuredArtist": "Sarah",
+      "featuredArtistId": "6q2cOhCLX4Z8gnLawlQbGY",
+      "trackName": "Trop De Chichis",
+      "trackId": "0gDDXDQ9a2b9GRgG3wljqD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8fde02c4d5d06bf9aa58f8f7e16a9245794d9e50",
+      "release_date": "2003-01-01"
+    },
+    {
+      "featuredArtist": "Eloquence",
+      "featuredArtistId": "685Gc0hObCotgZ7K8bE05K",
+      "trackName": "C'est toujours ça la France",
+      "trackId": "2BtC9BYUn5dxeWKQcm3Nrc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b05f114b65395f999664cf00f4e943a5b403886e",
+      "release_date": "2003-01-01"
+    },
+    {
+      "featuredArtist": "Tairo",
+      "featuredArtistId": "3yTebTUCCcdO6f6RN7vVlY",
+      "trackName": "J'Irai Cracher Sur Vos Tombes",
+      "trackId": "1ukQ3cToNzKlLIyXOxps5z",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5053b93147f9522cd208df64943f08423a37133e",
+      "release_date": "2000-01-01"
+    },
+    {
+      "featuredArtist": "Bricefa (SDLO)",
+      "featuredArtistId": "6aaald2NqM3206z1w9OxwG",
+      "trackName": "Klash Pas Quand Même",
+      "trackId": "59gXGjITqatDFVNgtzKKzd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5053b93147f9522cd208df64943f08423a37133e",
+      "release_date": "2000-01-01"
+    },
+    {
+      "featuredArtist": "Toy",
+      "featuredArtistId": "30wHn0Rvv9Bn88LLFxcLfh",
+      "trackName": "L'Avocat Des Anges",
+      "trackId": "3eok8dIhuDhEe2xnv3Qtyp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5053b93147f9522cd208df64943f08423a37133e",
+      "release_date": "2000-01-01"
+    },
+    {
+      "featuredArtist": "Akhenaton",
+      "featuredArtistId": "4ddg7PH5OuSossiSBWgueu",
+      "trackName": "Lyrics De Gamin",
+      "trackId": "55gkeKHe5VTJw9D0XNg7mf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5053b93147f9522cd208df64943f08423a37133e",
+      "release_date": "2000-01-01"
+    },
+    {
+      "featuredArtist": "Ruan Rozoff",
+      "featuredArtistId": "4iVFK24isfUnKxq4N9g9Bm",
+      "trackName": "La Philosophie Du Hall",
+      "trackId": "0qs3ke387DOBFQMKWBCsEB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5053b93147f9522cd208df64943f08423a37133e",
+      "release_date": "2000-01-01"
+    },
+    {
+      "featuredArtist": "JoeyStarr",
+      "featuredArtistId": "5q3WViYe7mEvzU9CY6lixh",
+      "trackName": "Les Rumeurs",
+      "trackId": "5uThbIJl7M4U6ckb244vLJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5053b93147f9522cd208df64943f08423a37133e",
+      "release_date": "2000-01-01"
+    },
+    {
+      "featuredArtist": "Bricefa",
+      "featuredArtistId": "2UreksKQR89SfVgu6pAKVf",
+      "trackName": "Le 6Eme Sens",
+      "trackId": "21khti43gIiMnMt9AHx0lf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5053b93147f9522cd208df64943f08423a37133e",
+      "release_date": "2000-01-01"
+    },
+    {
+      "featuredArtist": "Beton Arme",
+      "featuredArtistId": "60D5n1AL2pT0hHs0Kk6sz7",
+      "trackName": "Le 6Eme Sens",
+      "trackId": "21khti43gIiMnMt9AHx0lf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5053b93147f9522cd208df64943f08423a37133e",
+      "release_date": "2000-01-01"
+    },
+    {
+      "featuredArtist": "Cordelite",
+      "featuredArtistId": "1rTVbZPrshkE6FDrIkKO4s",
+      "trackName": "Le 6Eme Sens",
+      "trackId": "21khti43gIiMnMt9AHx0lf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5053b93147f9522cd208df64943f08423a37133e",
+      "release_date": "2000-01-01"
+    },
+    {
+      "featuredArtist": "Dayen",
+      "featuredArtistId": "5kezD65pJYbre72gctQ1Tt",
+      "trackName": "Le 6Eme Sens",
+      "trackId": "21khti43gIiMnMt9AHx0lf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5053b93147f9522cd208df64943f08423a37133e",
+      "release_date": "2000-01-01"
+    },
+    {
+      "featuredArtist": "13",
+      "featuredArtistId": "2zAUw8rJQNq7gHyGoMwANy",
+      "trackName": "Le 6Eme Sens",
+      "trackId": "21khti43gIiMnMt9AHx0lf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5053b93147f9522cd208df64943f08423a37133e",
+      "release_date": "2000-01-01"
+    }
+  ]
+}

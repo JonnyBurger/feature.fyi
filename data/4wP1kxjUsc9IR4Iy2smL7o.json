@@ -1,0 +1,32 @@
+{
+  "artistName": "Trinidad Cardona",
+  "features": [
+    {
+      "featuredArtist": "Malak Watson",
+      "featuredArtistId": "5TF0ijJEiGdGfr1Z6YDWfC",
+      "trackName": "Burning Out (feat. Trinidad Cardona)",
+      "trackId": "4NN3DDeMLgN6fJNmeN1AlD",
+      "preview": "https://p.scdn.co/mp3-preview/7e31e6a109bdb4662cbb1a2fc60b3900f6400e5b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2fa11bfdf4d0efb75d3573c52b53ec7c263e80ab",
+      "release_date": "2018-02-14"
+    },
+    {
+      "featuredArtist": "Alex Aiono",
+      "featuredArtistId": "5KPJMJR9PCfMWSfco8i4W4",
+      "trackName": "Does It Feel Like Falling",
+      "trackId": "2Mkj9SCY4yGm3VebVgNBhc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/80b53440307fc78c76eb131c526ef6440e546f37",
+      "release_date": "2018-01-26"
+    },
+    {
+      "featuredArtist": "KZ",
+      "featuredArtistId": "5J6JXsFQ3z2muSrXFodFMT",
+      "trackName": "Does It Feel Like Falling (feat. Trinidad Cardona) - KZ Remix",
+      "trackId": "2VDn5136MkJfJeYJwTa9vo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4058b75c3e82a637601e59d31ccfd491a8240a02",
+      "release_date": "2017-11-17"
+    }
+  ]
+}

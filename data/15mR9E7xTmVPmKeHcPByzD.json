@@ -1,0 +1,41 @@
+{
+  "artistName": "Isadora",
+  "features": [
+    {
+      "featuredArtist": "Dudu Fileti",
+      "featuredArtistId": "6OR4EXovJuiL9kJb4mUKCg",
+      "trackName": "How Can I Go On - The Voice Brasil",
+      "trackId": "10f5WhCcxMDsKY2W9yyT4I",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5fbf84142117e4d42535b943cfabeb0c2644282d",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Bruno Martini",
+      "featuredArtistId": "5veVxxPm1vzgi6pO2iVA8L",
+      "trackName": "Sun Goes Down - Live",
+      "trackId": "4ZvbWEyC7sQSY0pA51m15R",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/85eaa8411974b01a4d91d7bd7321731e829b0bc9",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Dani Gurgel",
+      "featuredArtistId": "2j5N97IBFhpmtZ7n7qTLZw",
+      "trackName": "Estéril (with Lan & Isadora)",
+      "trackId": "5okukcRhTUTPCyBsiPtyLf",
+      "preview": "https://p.scdn.co/mp3-preview/c20c84f716b430accde02d46ec5367c8aaf69511?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/36f3819787aa0c7886457e30c5b66d7f71922334",
+      "release_date": "2017-08-09"
+    },
+    {
+      "featuredArtist": "Lan",
+      "featuredArtistId": "71OI5FoGmSYGjGwoPA8SXo",
+      "trackName": "Estéril (with Lan & Isadora)",
+      "trackId": "5okukcRhTUTPCyBsiPtyLf",
+      "preview": "https://p.scdn.co/mp3-preview/c20c84f716b430accde02d46ec5367c8aaf69511?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/36f3819787aa0c7886457e30c5b66d7f71922334",
+      "release_date": "2017-08-09"
+    }
+  ]
+}

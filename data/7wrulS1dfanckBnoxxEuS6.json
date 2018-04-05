@@ -1,0 +1,32 @@
+{
+  "artistName": "Scarlet Pleasure",
+  "features": [
+    {
+      "featuredArtist": "Fabian Mazur",
+      "featuredArtistId": "5BBBDm18Y0TCRXZggaOnZG",
+      "trackName": "Casual - Fabian Mazur Remix",
+      "trackId": "3Shepm56ULS8ErIX2tOAuD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7fd41029a414f266c4784bbff2df56f55d1bd0cf",
+      "release_date": "2016-05-06"
+    },
+    {
+      "featuredArtist": "Jaakko Salovaara",
+      "featuredArtistId": "2h05BPlltEH5CrFzvLRb89",
+      "trackName": "The Strip - Bomfunk MC's Remix",
+      "trackId": "6wuxcj5XTId6gosEyswLw8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/23c6fda5ce21d14781e64b09d13dc355811950a7",
+      "release_date": "2014-12-27"
+    },
+    {
+      "featuredArtist": "Nik & Jay",
+      "featuredArtistId": "71k6SmcYKiIPq8M2RxK2Jr",
+      "trackName": "Billeder Af Hende Part II",
+      "trackId": "5eiLF2xJYvG81WqEcZglsq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cbe12fedd104272f2bf68b1755204b7c5f2af670",
+      "release_date": "2014-01-01"
+    }
+  ]
+}

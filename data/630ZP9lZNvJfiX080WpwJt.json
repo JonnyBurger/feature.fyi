@@ -1,0 +1,41 @@
+{
+  "artistName": "jesse rutherford",
+  "features": [
+    {
+      "featuredArtist": "K.Rudd",
+      "featuredArtistId": "0rD2mHnhWZA6xkTQb1FtkQ",
+      "trackName": "Blow",
+      "trackId": "5i81dvpHO3wzokTe2X8B3b",
+      "preview": "https://p.scdn.co/mp3-preview/7f0d7ba53be214f1ea142555acaca4a99026f93b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95333bccd5ac92ce7a1675eab516176268eaab5f",
+      "release_date": "2018-02-27"
+    },
+    {
+      "featuredArtist": "Goody Grace",
+      "featuredArtistId": "1iH2Yx2Ea0kZ0zKI3Nlk30",
+      "trackName": "Memorie$",
+      "trackId": "4VIAKU13YSnozH0aLh5S81",
+      "preview": "https://p.scdn.co/mp3-preview/e867550f441e5d3bd8e3df260a28fe69499c0750?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/200e99722136bca0328db371dcd224973aab34a3",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "A$AP ANT",
+      "featuredArtistId": "45m1IiS45uD1HcPlYkNWKj",
+      "trackName": "Memorie$",
+      "trackId": "4VIAKU13YSnozH0aLh5S81",
+      "preview": "https://p.scdn.co/mp3-preview/e867550f441e5d3bd8e3df260a28fe69499c0750?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/200e99722136bca0328db371dcd224973aab34a3",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "KYLE",
+      "featuredArtistId": "4qBgvVog0wzW75IQ48mU7v",
+      "trackName": "@FoundBae",
+      "trackId": "1GVPewxGvEYcqCbKKUckXC",
+      "preview": "https://p.scdn.co/mp3-preview/153c2f6dcbd5f29de85abd33ae4bc72d4dddb216?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/42d92ea4e472d2b7d133d55e02ce46fba9e0573d",
+      "release_date": "2015-10-02"
+    }
+  ]
+}

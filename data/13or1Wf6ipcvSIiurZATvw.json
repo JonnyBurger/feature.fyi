@@ -1,0 +1,590 @@
+{
+  "artistName": "La Sonora Dinamita",
+  "features": [
+    {
+      "featuredArtist": "Matilde Elizabeth López G.",
+      "featuredArtistId": "43ZE78z2eSfD2a0CFnIF5s",
+      "trackName": "Se Me Perdió la Cadenita / A Mover la Colita / Las Brujas - En Vivo",
+      "trackId": "5t0sgmqTOr4wfvztQzabd0",
+      "preview": "https://p.scdn.co/mp3-preview/99aac667d09e1484c740ae600be199fd3960f42c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/acccdaed9cb8fa52d30b763cb6a8910197a3576e",
+      "release_date": "2018-03-01"
+    },
+    {
+      "featuredArtist": "manuel cervantes",
+      "featuredArtistId": "3PsstIib6qHK608E503XVD",
+      "trackName": "A Mover la Colita",
+      "trackId": "1fcDgZtYmawj7EcyQmRWrs",
+      "preview": "https://p.scdn.co/mp3-preview/c4371b037a7583a29742d0fc824608e5c8407159?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/272e49dbc489ec6eb619e61c81dd0558db46ec63",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Lucho Argain",
+      "featuredArtistId": "69KQI0QMvoPN5OcpNgTC2b",
+      "trackName": "La Vieja Laureana",
+      "trackId": "3KGyBorkrDQQMQvmIzCPi6",
+      "preview": "https://p.scdn.co/mp3-preview/feb9b82a67b01799f9cbd325e14802620f48b8c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d5aa274559e6c8ed59a6369557833ad6f602d83f",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "Eliseo Herrera",
+      "featuredArtistId": "3YpIrDTEyfabU64t89sani",
+      "trackName": "Marucha",
+      "trackId": "6DxfY7i3h9ex1hrTLuo1EG",
+      "preview": "https://p.scdn.co/mp3-preview/783619c38acd7568563e0e87c66aca64021507cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d5aa274559e6c8ed59a6369557833ad6f602d83f",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "Dr. Shenka",
+      "featuredArtistId": "1RmxwlZ0O7vosdy4GL9BHu",
+      "trackName": "Hechicería",
+      "trackId": "0hDAk9lEjS44Azh7JzBaSM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Jorge Muñiz",
+      "featuredArtistId": "0NV9kotO8AcragqHykjdSd",
+      "trackName": "Cumbia Barulera",
+      "trackId": "4NuiHGQEfLwGH2GMV9kb3h",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Los Angeles De Charly",
+      "featuredArtistId": "0fdpJLsenUo15X3dPPWJSR",
+      "trackName": "Maruja",
+      "trackId": "0sA3lTyBY7SYvBzu2T8nfS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "La Morocha",
+      "featuredArtistId": "5nWfqSJHayE4qvjUxoQfMu",
+      "trackName": "El Viejo Del Sombrerón",
+      "trackId": "287DFeg3xmSQbiu2shxHlI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "El Bebeto",
+      "featuredArtistId": "1YhMWppPt9RVODKD1KCs7W",
+      "trackName": "La Parabólica",
+      "trackId": "33HDgrGgbxaihNAkxdrVAI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Mariana Seoane",
+      "featuredArtistId": "5erc8Dr6fyYJSoIXJKlFZV",
+      "trackName": "Escándalo",
+      "trackId": "1MDqUM1XbzZ2wei3mrpPbA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Roberto Tapia",
+      "featuredArtistId": "1TZXFnFYNzRTDrNFoH8YC0",
+      "trackName": "Oye",
+      "trackId": "5INgZrWA9lJFxBiDnoOPGu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Playa Limbo",
+      "featuredArtistId": "6XmHtVhgpE33VHFEp2V1P8",
+      "trackName": "Que Nadie Sepa Mi Sufrir",
+      "trackId": "0Nty2iOBxTUK706HnBhVMR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Chuy Lizarraga",
+      "featuredArtistId": "4FLk07tIHIkAQ4lFmcM6Ji",
+      "trackName": "Mi Cucú",
+      "trackId": "1eh5M4ZeZlqiBGy7zVQuRE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Susana Zabaleta",
+      "featuredArtistId": "7JzK970uwxEKUzYUgMvC3Q",
+      "trackName": "Macumba",
+      "trackId": "7fVdSjTAyM4QixQkk54L8u",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "El Dasa",
+      "featuredArtistId": "1neZPoVY3mCc2mNMVXslA7",
+      "trackName": "La Suavecita",
+      "trackId": "7xWb9IGU0CsnKEtaX3FuDk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Kika Edgar",
+      "featuredArtistId": "2QTmeZpVjHmIoYSRwsoucA",
+      "trackName": "Qué Bello",
+      "trackId": "18buHOK6zcFhpMDOUO5MCw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Big Javy & Los Tenampa",
+      "featuredArtistId": "4aJngB1uH8YVPwBf7cDP49",
+      "trackName": "La Cumbia Nació En Barú",
+      "trackId": "3Pm0E1p0MvNwc7Q4796D1R",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "América Sierra",
+      "featuredArtistId": "6iK7hlQHfupGjQHrxQIMly",
+      "trackName": "Capullo Y Sorullo",
+      "trackId": "1kOSvj2ZyYM3QmQcLefPbE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Calo",
+      "featuredArtistId": "2Qm12OdHFDHSpWhBMpO16L",
+      "trackName": "La Pollera Colorá/Cumbia Que Te Vas De Ronda/El Negro José/Amaneciendo - Medley",
+      "trackId": "73KmxeGXmx6nhcdLi9uPgf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Marilé",
+      "featuredArtistId": "4enWjzhsAsuyzrMXsP393r",
+      "trackName": "A Mover La Colita",
+      "trackId": "3skn4EtiP3DKS0vaLFDo45",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Los Primos MX",
+      "featuredArtistId": "6N4VOBE2wNnRIINe3922Oc",
+      "trackName": "Mil Horas",
+      "trackId": "1bSCcW8sU4S0uaRuQY7soy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Luz Maria",
+      "featuredArtistId": "4rLKybqVCIbuTaYVRbdaex",
+      "trackName": "Si Vos Te Vas",
+      "trackId": "7tIwrqgZHd9Bgxx5132sPX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Pablo Montero",
+      "featuredArtistId": "5LfXEvzfy6pPUcX1SclyA3",
+      "trackName": "Se Me Perdió La Cadenita",
+      "trackId": "5cXtwiOtXMt8T63Lsw04Gx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "3BallMTY",
+      "featuredArtistId": "1MLs9allBZrajb5Dc4146L",
+      "trackName": "El Africano",
+      "trackId": "2Dpx3Oi3pCrXieAippejjx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Danny Guillén",
+      "featuredArtistId": "4wjHvviPVefOnPYm5mMp2T",
+      "trackName": "Si La Vieran",
+      "trackId": "1GoKlrH6iyLzZfaXBJvyap",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Jessi Uribe",
+      "featuredArtistId": "3SN7I8KV2qBwTCZ4aNDcbS",
+      "trackName": "El Tao Tao A.K.A El Nuevo Tao Tao",
+      "trackId": "6ckJekr4ef8Oh1hM71PNkY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b5b8d9136e0c72cd2d5540971ccb3b67b3710d0a",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Ernesto Elizondo",
+      "featuredArtistId": "142IgeeI4mtL1Y9yHhEIiW",
+      "trackName": "A Mover el Cu…",
+      "trackId": "0suCZMRnDij14MOKPNjfYp",
+      "preview": "https://p.scdn.co/mp3-preview/2f83f14bea1c1f0255db6a730c4c1e48a4d6ecde?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b36bd786982a18a1d0b2455531be34764abe22e8",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Margarita",
+      "featuredArtistId": "143GxFMn83xkINR0PDnTkf",
+      "trackName": "Que Nadie Sepa Mi Sufrir",
+      "trackId": "6niwOmR6sYtJGguRUVSMLK",
+      "preview": "https://p.scdn.co/mp3-preview/7d3e901e818bbbda8faf54db8697e0905fe695e9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b36bd786982a18a1d0b2455531be34764abe22e8",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Alvaro Pava",
+      "featuredArtistId": "5mYiZzPWHHMmGZ4Pl311pu",
+      "trackName": "El Ombligo",
+      "trackId": "3A7MpDiXCvLgSWbhTOWXnr",
+      "preview": "https://p.scdn.co/mp3-preview/6e025c1afd179c6317edab989cf1b439c5eff6eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b36bd786982a18a1d0b2455531be34764abe22e8",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Macondo",
+      "featuredArtistId": "71RG4LFQLn8NpMlv8Q5CVC",
+      "trackName": "La Bamba",
+      "trackId": "6PKJ64ifonVw5dIGKcYvGG",
+      "preview": "https://p.scdn.co/mp3-preview/ad9357c7d3a0f25ea25ba662f5aafa88e67f65af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b36bd786982a18a1d0b2455531be34764abe22e8",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Carmi Bered Feria",
+      "featuredArtistId": "5h6h1etPeXgpEuhvyT5UHh",
+      "trackName": "Ve y Dile",
+      "trackId": "3sCxqkv4BybsyWHBM1A17d",
+      "preview": "https://p.scdn.co/mp3-preview/553087d124840020dd0d77f697a4f8296342cdd9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b36bd786982a18a1d0b2455531be34764abe22e8",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Juliette",
+      "featuredArtistId": "3fbrQzAVyMSC7oyNHjRO9A",
+      "trackName": "El Africano",
+      "trackId": "0svUDMzqQJP0VZorib3xar",
+      "preview": "https://p.scdn.co/mp3-preview/01a1f525edc7b4a9f20df140cdf25ae6a4ee0d01?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9569c25584b13fa0d244ae5a24bc570b172419ba",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Willie Calderon",
+      "featuredArtistId": "0a9b8E1lkHtZv4cmvYMXVL",
+      "trackName": "Mete y Saca",
+      "trackId": "6sgba4XcrJuBzbXhqnSaeN",
+      "preview": "https://p.scdn.co/mp3-preview/8b1258a5e5fc06345653e3fb52e1c7145df51746?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9569c25584b13fa0d244ae5a24bc570b172419ba",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Nando Malo",
+      "featuredArtistId": "1rVzNGHNRp6EovtcvDkbr6",
+      "trackName": "Cachete, Pechito y Ombligo",
+      "trackId": "5AdEr5AXIT1F2HLPbvrkaU",
+      "preview": "https://p.scdn.co/mp3-preview/303ab416cbff3a91ab51adbea1198e37366caf8d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9569c25584b13fa0d244ae5a24bc570b172419ba",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Margarita",
+      "featuredArtistId": "0L921lGxWEpNId5sF8rBbl",
+      "trackName": "La Prueba de Amor",
+      "trackId": "5MDQe2RgnFrdtXg0p0fwd1",
+      "preview": "https://p.scdn.co/mp3-preview/051e8233d63a6226fca2c7e0a1e6913a9f953dcb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9569c25584b13fa0d244ae5a24bc570b172419ba",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "La India Meliyara",
+      "featuredArtistId": "7yaTduEHXTD6AW0LKUfU4y",
+      "trackName": "Cumbia del Negro",
+      "trackId": "2NPx5WqNE9tm7l31hfaq0s",
+      "preview": "https://p.scdn.co/mp3-preview/6974bd1384326658b17c421ece5f43b0d6630fc9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9569c25584b13fa0d244ae5a24bc570b172419ba",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Luz Stella",
+      "featuredArtistId": "3BLH7LHXK7xWqzJxpQI1Z2",
+      "trackName": "El Peluchito",
+      "trackId": "4l7WFVF6L78DyCCWKnX1o6",
+      "preview": "https://p.scdn.co/mp3-preview/3bb151d1673cf8cab431f480729bb5907e7f2921?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9569c25584b13fa0d244ae5a24bc570b172419ba",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Oscar Luis Argain",
+      "featuredArtistId": "0haT0KHxhR9B72EJ6FWs17",
+      "trackName": "Son Dos",
+      "trackId": "6H5Mf6zyvrEVIOk5eMKk4p",
+      "preview": "https://p.scdn.co/mp3-preview/5e31e020d40a3053d9eb7e0e87d65a79041487f4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9569c25584b13fa0d244ae5a24bc570b172419ba",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Susana Velásquez",
+      "featuredArtistId": "0ech3m3n2y4IyEVQb50t51",
+      "trackName": "El Bardo",
+      "trackId": "1Lmnkwq1GYedLos6YxEkkv",
+      "preview": "https://p.scdn.co/mp3-preview/336d1175b4a20732b6fcb6af5f42e8e322476469?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2bbde0275f32670a4ac57796b4d105a95e5746ce",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Antonio Chaverra",
+      "featuredArtistId": "5t930a4vfWDJlYIDM6TXFU",
+      "trackName": "La Mochila",
+      "trackId": "6daIrN7Ua22wmGiZKamAh5",
+      "preview": "https://p.scdn.co/mp3-preview/9e52384b814158f49b61d3b687253b5d86ba56db?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2bbde0275f32670a4ac57796b4d105a95e5746ce",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Frank Cortes",
+      "featuredArtistId": "7jolAX2MBXSGZz4jIzFbQ9",
+      "trackName": "Pa la Cumbia",
+      "trackId": "1J93gRNeC8l05poJf86T9E",
+      "preview": "https://p.scdn.co/mp3-preview/16457f306e23e0b60b840a25298a0bd02686ecc5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2bbde0275f32670a4ac57796b4d105a95e5746ce",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Anny",
+      "featuredArtistId": "6eJR3M2AtvankrkQVx4uB3",
+      "trackName": "Como Hago Con Mi Marido",
+      "trackId": "6i8LRmw0l7ha04bfgLGgtN",
+      "preview": "https://p.scdn.co/mp3-preview/7c7dfc3dfcc542915ff6f8489946d1fb6310147d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2bbde0275f32670a4ac57796b4d105a95e5746ce",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Rodolfo Aicardi",
+      "featuredArtistId": "3IUAZiICL3J7GlHYPgT414",
+      "trackName": "La Cumbia de Mi Pueblo",
+      "trackId": "4tSSGMuumTEqwzErZEcnid",
+      "preview": "https://p.scdn.co/mp3-preview/5acffbd0a0c2c7eb4ed7e8f1f774c00ea81d36e4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2bbde0275f32670a4ac57796b4d105a95e5746ce",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Louis Towers",
+      "featuredArtistId": "4AXeE39BJVhTXxKMVdF2Lc",
+      "trackName": "Mosaico Sonora Dinamita: Que Te la Pongo / La Bolita",
+      "trackId": "1dnzz1nkdRONa42FvG9UYr",
+      "preview": "https://p.scdn.co/mp3-preview/1e74201bc8e0d46367c451497aa49e75161eea97?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2bbde0275f32670a4ac57796b4d105a95e5746ce",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Armando Hernandez",
+      "featuredArtistId": "5f5z4wggh1hbr6Dg0BnoCe",
+      "trackName": "La Pochita",
+      "trackId": "02Hp8p3WWeqWGYrEcqXCY8",
+      "preview": "https://p.scdn.co/mp3-preview/ef59177d9824f312c3760aba3846b26c39723e3d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8ed7057a803aaab76ae39a3069f2ebfe6e484f13",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Zoila Nieto",
+      "featuredArtistId": "16xaZ9rBVlOGodtlUs6FdK",
+      "trackName": "El Bigote",
+      "trackId": "3Mn0vcPfyiulXLXP0NSyAn",
+      "preview": "https://p.scdn.co/mp3-preview/150d6ef60b7e39e6146baf1521e8e27f2a27fb41?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/16b99f3551ef85f51a5e894d1acbadc322c10f8f",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Vilma",
+      "featuredArtistId": "23sVt5yrrrFgLQjpY4Ku8A",
+      "trackName": "Ya para Que",
+      "trackId": "5C3zKRRvB9FGdR5VyIbCQY",
+      "preview": "https://p.scdn.co/mp3-preview/4b07d13a55d6bdadd41fef4f5fe7df6a3cc82da4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/16b99f3551ef85f51a5e894d1acbadc322c10f8f",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Carlos Piña",
+      "featuredArtistId": "0DnqkvVngexVuA7RDEEHbO",
+      "trackName": "Vispera de Año Nuevo",
+      "trackId": "6DgBW7IY7dMmSJ15PHklpR",
+      "preview": "https://p.scdn.co/mp3-preview/34759defaa7dc0bcb83d6ae6c581adb18958ca59?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff0704df76c4d8ec19c1c9bee8cdf6348433e83a",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Albanur",
+      "featuredArtistId": "7GLeUZnjQH1g9nuCJZzeUa",
+      "trackName": "Nay Nay",
+      "trackId": "2yRoyvrHO8eQ6w4n8iXgHk",
+      "preview": "https://p.scdn.co/mp3-preview/6483bf21ab444deb3c965f2236fa77ebc4d577ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff0704df76c4d8ec19c1c9bee8cdf6348433e83a",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Leidy",
+      "featuredArtistId": "6dV9Z87zxh4ZhWRORStt1z",
+      "trackName": "Historia de Mi Vida",
+      "trackId": "6qZdOxPivS6CHLM6bYYl3n",
+      "preview": "https://p.scdn.co/mp3-preview/c39b580f68767fd3e694d5eafdb8127cb28a943d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a0c5388c6b5385caebf4005dbef0d4586ba1098f",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Álvaro Pizarro",
+      "featuredArtistId": "4eiC0sYaGHyVLkK7vvoOOc",
+      "trackName": "Amor en California",
+      "trackId": "5CulieLZkgUETWNBMclzPF",
+      "preview": "https://p.scdn.co/mp3-preview/1abadc2918b9c9c3b6b692842dd046ef269c2d2f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a0c5388c6b5385caebf4005dbef0d4586ba1098f",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Carlos Tovar",
+      "featuredArtistId": "35mK8Os6O7n1J0THqM15JT",
+      "trackName": "Simona",
+      "trackId": "23hPqOo7JAa2R9vmTeNpB8",
+      "preview": "https://p.scdn.co/mp3-preview/9b2a950d12353cbca50a24040002329545f54c7f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a0c5388c6b5385caebf4005dbef0d4586ba1098f",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Jhonn Dee",
+      "featuredArtistId": "7JGuNSdrQzkpXxqjQfAjnH",
+      "trackName": "El Arrugadito",
+      "trackId": "6jzmRamhSefhv2SlCrOc77",
+      "preview": "https://p.scdn.co/mp3-preview/2dcb4986dfc7641ed6b12b67616e9c74f90b60a7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/135d523d17887a015df4a11c977fbd13fe50f6a4",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Mónica Guzmán",
+      "featuredArtistId": "4h6iSU6qEL033J1H4mwBF1",
+      "trackName": "No Llores Más",
+      "trackId": "3sRyhxPr9uy5SoZ57IUZcM",
+      "preview": "https://p.scdn.co/mp3-preview/17d6b85bdf9abd4eab06472002afc59705e32554?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/634e462ea43843b40159462c1fececeb3b53ba27",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Jairo Durán",
+      "featuredArtistId": "4Zt9OzyXVS1oZHmJmv5CYd",
+      "trackName": "Las Dos Sonoras",
+      "trackId": "2PlUuT9L2y6oIRdJfsnDiV",
+      "preview": "https://p.scdn.co/mp3-preview/079122cdc75ebd07a6a34b0ad13ad320c56862ea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/634e462ea43843b40159462c1fececeb3b53ba27",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Nathalia",
+      "featuredArtistId": "3iAELIY5HfMwpbAUIRaYvJ",
+      "trackName": "Yo Soy la Cumbia",
+      "trackId": "2SD7d52v31b6ls3HvBCLi7",
+      "preview": "https://p.scdn.co/mp3-preview/ce982d96a4d86f1b207c2167023ef03aa22402d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/634e462ea43843b40159462c1fececeb3b53ba27",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Lina",
+      "featuredArtistId": "7aGUH3bFQPq271KGThLzs2",
+      "trackName": "No Te Metas Con Mis Pompis",
+      "trackId": "5BkxmuIO4EXSqVsUUkWXjV",
+      "preview": "https://p.scdn.co/mp3-preview/7ebc9a09adca1781b0a1e4ffeb0e7f6a5841ee62?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/634e462ea43843b40159462c1fececeb3b53ba27",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Wil Pertuz",
+      "featuredArtistId": "5Jow5rnueUb3LCIa0J45tN",
+      "trackName": "Traición a la Mexicana",
+      "trackId": "0waXRo4Nr0Vr4UkPeMQ6Ju",
+      "preview": "https://p.scdn.co/mp3-preview/c8b046ced8da337423a7044dd25483cf73722831?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b45773fbee44bb5d139305171091d68b77604d1",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Orlando Quesada",
+      "featuredArtistId": "2dKbyQTXmRhCxev6ETmG5N",
+      "trackName": "El Padre Armando (El Confesor)",
+      "trackId": "7AIdf5ZaLfA2ZNyBC9sLzR",
+      "preview": "https://p.scdn.co/mp3-preview/810c8b95c4f0924092e998d4f485e346e951a2c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b45773fbee44bb5d139305171091d68b77604d1",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Amina Osorio",
+      "featuredArtistId": "1rxDsz3lQhTJcf81ExYN9J",
+      "trackName": "Tu Bombón",
+      "trackId": "3zEcSQIGnlC0ZPM04kUdNO",
+      "preview": "https://p.scdn.co/mp3-preview/a764d88193b106e413f2c1da90feccbecf69e061?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b45773fbee44bb5d139305171091d68b77604d1",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Bibiana Ramírez",
+      "featuredArtistId": "1qZeVovjvqVSKiI2fNmjyo",
+      "trackName": "Mucha Plata",
+      "trackId": "00Sxh3ZCx26SbhLgaPm6Dq",
+      "preview": "https://p.scdn.co/mp3-preview/3bc420235611b5cf611585b91926e97d2a77a43c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b45773fbee44bb5d139305171091d68b77604d1",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Bibiana",
+      "featuredArtistId": "2jjiB5izcrXwtwCCHT5Sw3",
+      "trackName": "El Mochilón",
+      "trackId": "1XF4e6fOsd4rKTIKgSY1Xt",
+      "preview": "https://p.scdn.co/mp3-preview/169c38ad4256e066f09b0b574e49a40118bb5187?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b45773fbee44bb5d139305171091d68b77604d1",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Yeiner Valencia",
+      "featuredArtistId": "7Aj2gXidZtaNd99OurxAm8",
+      "trackName": "De Rodillas Te Pido",
+      "trackId": "0f42lwtKfdjBXRl5RSC6YA",
+      "preview": "https://p.scdn.co/mp3-preview/6cb34f5541959e4a5481722df99951c633f4a049?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b3bf9b668cf2b1f6bf812414857fc3397053bf04",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Jhon Mario Velez",
+      "featuredArtistId": "6LTzhXo9YtDTLZ8LAWLalD",
+      "trackName": "Soy Soltero",
+      "trackId": "7dTfl2offHXD5l3Tu0iZtM",
+      "preview": "https://p.scdn.co/mp3-preview/410906e4dca062d4a45d301aa31d89f294e02f3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b3bf9b668cf2b1f6bf812414857fc3397053bf04",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Alcides Diaz",
+      "featuredArtistId": "0MrNuELuqoK6AQpuKTnPhk",
+      "trackName": "El Santo Cachón",
+      "trackId": "3V2lLkKddrtfCideVfInll",
+      "preview": "https://p.scdn.co/mp3-preview/a127ff7192071bd91e4464afb36f574a54159d62?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8b14e3e3d7afe9436ca242b1da09581b45ee902c",
+      "release_date": "2015-07-01"
+    }
+  ]
+}

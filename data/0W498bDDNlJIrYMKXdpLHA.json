@@ -1,0 +1,23 @@
+{
+  "artistName": "Roberta Flack",
+  "features": [
+    {
+      "featuredArtist": "Sherrod Barnes",
+      "featuredArtistId": "0AZ0iiObHt0zINN5nIr8kX",
+      "trackName": "The Long & Winding Road",
+      "trackId": "3pX1nkVJtJwrNUIFF0anjV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e497ced9f9cf54048e80279c44bedca8d2c48aac",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Donny Hathaway",
+      "featuredArtistId": "0HU0U9kdXEHZVxUNbuQe8S",
+      "trackName": "God Don't Like Ugly (feat. Donny Hathaway)",
+      "trackId": "2K4rC8UnKVEdIvFnJF2ss1",
+      "preview": "https://p.scdn.co/mp3-preview/0103a1b5e99b88c6b56c86c08e69864ccdb04fa7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/87698868ffcd90fd0d1a751ec75702ba622ec9b8",
+      "release_date": "1980"
+    }
+  ]
+}

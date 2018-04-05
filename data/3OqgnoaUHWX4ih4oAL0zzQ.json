@@ -1,0 +1,32 @@
+{
+  "artistName": "Hare Squead",
+  "features": [
+    {
+      "featuredArtist": "Franky Rizardo",
+      "featuredArtistId": "2UgphhGSlC9QWgaZWUOCkl",
+      "trackName": "If I Ask - Franky Rizardo Remix",
+      "trackId": "1mfR6mY6SDgUIQWiFwDxyr",
+      "preview": "https://p.scdn.co/mp3-preview/bf457633b5fccbbb97c538ec4fe47b7b5d32d380?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e9329ddeef9eeae863839fcb03f356835e697e40",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Bon Voyage",
+      "featuredArtistId": "7iux0cKZcmpEo8SKohJrD6",
+      "trackName": "If I Ask - Bon Voyage Remix",
+      "trackId": "634a6B3wz98ybFieZ1jRUu",
+      "preview": "https://p.scdn.co/mp3-preview/0e734d5b081f5c3b338ecc7fc34ae0c1f846a912?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e9329ddeef9eeae863839fcb03f356835e697e40",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "GoldLink",
+      "featuredArtistId": "5XenQ7XfcvQdfIbpLEFaKQ",
+      "trackName": "Herside Story",
+      "trackId": "564oa00vY05d1uYnTEAAmE",
+      "preview": "https://p.scdn.co/mp3-preview/dedafbcffbbc4f435f87f1515b7932960cd7278f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b51d5f12a764bcd7e2bd40926d2459cbb53edbae",
+      "release_date": "2017-03-24"
+    }
+  ]
+}

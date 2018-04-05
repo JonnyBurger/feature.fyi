@@ -1,0 +1,50 @@
+{
+  "artistName": "Mc Kitinho",
+  "features": [
+    {
+      "featuredArtist": "Mc 7 Belo",
+      "featuredArtistId": "48HM9dIFLIwnmNlXW5KBy7",
+      "trackName": "Nova Geração da Putaria",
+      "trackId": "7sIsjG6BJPbEd4UYJ78AEg",
+      "preview": "https://p.scdn.co/mp3-preview/93613e851abe47ee8bc193b905789a002cc6b94b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e34759ae292e265ffbb4dc4f67e43169626af9b",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Mcpl",
+      "featuredArtistId": "54FTibI49Ro5YD8ObZYV0w",
+      "trackName": "Envolvimento Dos Maloka",
+      "trackId": "6yWlkedLqEjla3v5DBDnKW",
+      "preview": "https://p.scdn.co/mp3-preview/dccf9923f316e432e429fd177ccc01e932690e7f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e34759ae292e265ffbb4dc4f67e43169626af9b",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Mc Lustosa",
+      "featuredArtistId": "70OydYJSpmADTY9PYPZCBm",
+      "trackName": "Beat do Megatron",
+      "trackId": "4pSQwZHPXbjYUkPYyJNrtE",
+      "preview": "https://p.scdn.co/mp3-preview/21e44be7d7662f7499dacf43e5cc783ce83605d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e34759ae292e265ffbb4dc4f67e43169626af9b",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Mc Gw",
+      "featuredArtistId": "0f1IECbrVV952unZkzrsg2",
+      "trackName": "Beat Sacana",
+      "trackId": "5rgG3BSLIUM0IBxtiPYDkh",
+      "preview": "https://p.scdn.co/mp3-preview/635df5eb989bbdca145d38e9813bf71f9855b6e0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f0296a6610cd61492ba37c00b529b88a18bf10d1",
+      "release_date": "2018-01-23"
+    },
+    {
+      "featuredArtist": "Mc Topre",
+      "featuredArtistId": "6bmZfABIjvLMAMYwujdjFy",
+      "trackName": "Bundão",
+      "trackId": "6qFlqSuWspNSI2Drhz7m5f",
+      "preview": "https://p.scdn.co/mp3-preview/23cfaf3cd35c3076aef7e0410842046d3192cc1d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/36e000dd5fc9ba64a7540feb84782119a5675ccf",
+      "release_date": "2017-10-10"
+    }
+  ]
+}

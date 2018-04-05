@@ -1,0 +1,32 @@
+{
+  "artistName": "Banda Machos",
+  "features": [
+    {
+      "featuredArtist": "Pedro Magdaleno",
+      "featuredArtistId": "5dhr9F9C2GXOeMqhMV9EfC",
+      "trackName": "Historia sin fin",
+      "trackId": "2BbaDAHLdUClFLjUmRfPYN",
+      "preview": "https://p.scdn.co/mp3-preview/97bc20b0f479704d2b4419ce18259307cd67bd75?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1048815274da99328f21befe3bb87357d88c4a78",
+      "release_date": "2014-09-16"
+    },
+    {
+      "featuredArtist": "Gustavo Alfonso Miranda",
+      "featuredArtistId": "3P3jAsGuaIpBogRyhZhUyD",
+      "trackName": "Casimira",
+      "trackId": "7IfclPbmwlykO4N7V5Zl4b",
+      "preview": "https://p.scdn.co/mp3-preview/591e816ed54623845ddb5998b3fd432e2643a9a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1048815274da99328f21befe3bb87357d88c4a78",
+      "release_date": "2014-09-16"
+    },
+    {
+      "featuredArtist": "DJ Hessler",
+      "featuredArtistId": "5J6120HicOMSnr5mbqtRt7",
+      "trackName": "La Novia Coja - DJ Hessler Remix",
+      "trackId": "4uPZPvcDR0hJVlPSnBrlzK",
+      "preview": "https://p.scdn.co/mp3-preview/0d78c4858071096b068190e9ca6c928917b27c67?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/42dfcc2c94c4d25f855eaa948858851881eafd29",
+      "release_date": "2012-03-05"
+    }
+  ]
+}

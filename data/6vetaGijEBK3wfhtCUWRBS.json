@@ -1,0 +1,59 @@
+{
+  "artistName": "Lilly Goodman",
+  "features": [
+    {
+      "featuredArtist": "Alex Campos",
+      "featuredArtistId": "6slyJwua5e5GuhuP82sTHR",
+      "trackName": "Me Amas",
+      "trackId": "2IlOOitReA8CGpF15z4NT3",
+      "preview": "https://p.scdn.co/mp3-preview/8b2cf6abd07ad0425ddcf5816ca9b6355f671f28?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ed3a9c13eb560951ebad9b96dcff1646a0aee8e3",
+      "release_date": "2013-04-09"
+    },
+    {
+      "featuredArtist": "Juan Carlos",
+      "featuredArtistId": "0VXtHA98LPuHlW90TMLZmD",
+      "trackName": "No Importa",
+      "trackId": "4N9QF7sxJ4IyvOQY9YqnfH",
+      "preview": "https://p.scdn.co/mp3-preview/6b747ca03d6ba474c7814bec22a188daff801dd6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b4220208883016d229357ff008d30db64881bf7f",
+      "release_date": "2010-10-21"
+    },
+    {
+      "featuredArtist": "Rodríguez De Tercer Cielo",
+      "featuredArtistId": "1rfkWjiU5g2hYNqhPw1Fo5",
+      "trackName": "No Importa",
+      "trackId": "4N9QF7sxJ4IyvOQY9YqnfH",
+      "preview": "https://p.scdn.co/mp3-preview/6b747ca03d6ba474c7814bec22a188daff801dd6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b4220208883016d229357ff008d30db64881bf7f",
+      "release_date": "2010-10-21"
+    },
+    {
+      "featuredArtist": "ChiChi Peralta",
+      "featuredArtistId": "5GNSVtCq2hiXDx7jUA5Iou",
+      "trackName": "Yo Sin Ti",
+      "trackId": "6FslbZw5SivHOy2Uitivfi",
+      "preview": "https://p.scdn.co/mp3-preview/20ce0ad761aa2bd6cbf06f2a4d009cfdd4cb89f8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b62243cc5ef4612fd00d9706f313c513668bf3f9",
+      "release_date": "2008-12-15"
+    },
+    {
+      "featuredArtist": "Gateway Worship",
+      "featuredArtistId": "2b6REyd5UBBp4ZPDhZ2TNB",
+      "trackName": "Tu Nunca Cambias (feat. Lilly Goodman)",
+      "trackId": "4IMqQTWp5e0OUNqeaP7QHG",
+      "preview": "https://p.scdn.co/mp3-preview/a866f72c04010d3abb6a8bc597c7d95a0a78a05b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d9660f8276e839c84c6a52f45da3b6b6a9e71b8c",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "Jesús Adrián Romero",
+      "featuredArtistId": "29SeiO68HQHBs7pDdWOvvX",
+      "trackName": "Ven Te Necesito",
+      "trackId": "7yYaW4455vKVLunNWIjzOD",
+      "preview": "https://p.scdn.co/mp3-preview/4cc8e9dce695224e8c45d106e0f3207e32349ae3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f1714e49655bf676792a70f8bdba5cfc33409d25",
+      "release_date": "2017-07-28"
+    }
+  ]
+}

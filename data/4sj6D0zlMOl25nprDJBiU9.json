@@ -1,0 +1,59 @@
+{
+  "artistName": "Andy Williams",
+  "features": [
+    {
+      "featuredArtist": "Archie Bleyer",
+      "featuredArtistId": "11AxeBbzuGuOuzbYvN806O",
+      "trackName": "Canadian Sunset - 1956 Version",
+      "trackId": "6txVZ6nHFLtRaJ2XP3dQUz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/00cb91e4b3f581053e6f45502c3426ad0c751ed4",
+      "release_date": "2013-05-10"
+    },
+    {
+      "featuredArtist": "The St. Charles Borromeo Choir",
+      "featuredArtistId": "0NVTeGmwd2WQm5r6DGHV2Y",
+      "trackName": "Battle Hymn of the Republic",
+      "trackId": "1ckcPnfKv7StOuASFoZ5NX",
+      "preview": "https://p.scdn.co/mp3-preview/21e4429d8e516624ec517661829a3e0fe3c20fd2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/00cb91e4b3f581053e6f45502c3426ad0c751ed4",
+      "release_date": "2013-05-10"
+    },
+    {
+      "featuredArtist": "The Williams Brothers",
+      "featuredArtistId": "6deBxd8qgegXF4iFZOuW2R",
+      "trackName": "Dream",
+      "trackId": "0TdSGka87FHwn4c6jNgYwN",
+      "preview": "https://p.scdn.co/mp3-preview/a280b905b672adf212e460d347e6a12762e8b38e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d3ab3c28718e584cd56a95821db465b31ab78361",
+      "release_date": "2004"
+    },
+    {
+      "featuredArtist": "The Osmond Brothers",
+      "featuredArtistId": "4ztq5SZ3bNT7r93lgqdR4z",
+      "trackName": "The Age Of Aquarius / Let The Sun Shine In - Medley",
+      "trackId": "1CNCg0aUmkV3yh7oZyTg0c",
+      "preview": "https://p.scdn.co/mp3-preview/ad7d7d0cd15fbe78840b73930bc363d449e3fdb4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d3ab3c28718e584cd56a95821db465b31ab78361",
+      "release_date": "2004"
+    },
+    {
+      "featuredArtist": "Maurice Jarre",
+      "featuredArtistId": "6iyQYs37mRXLW04Z9NOnNT",
+      "trackName": "Marmalade, Molasses And Honey",
+      "trackId": "5TvnfSYMKamW5TFgbxmPRh",
+      "preview": "https://p.scdn.co/mp3-preview/62b9a8b267d0bbe4cab4fa9cf6d9f148d8560da6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6d4f85e7d7bcc937ebc8a29336931ec6887b4e25",
+      "release_date": "2003-03-28"
+    },
+    {
+      "featuredArtist": "Denise Van Outen",
+      "featuredArtistId": "0T17VKgopV3csTElVlDpXF",
+      "trackName": "Can't Take My Eyes Off You - Single Version",
+      "trackId": "1UEOuyhjE9IxdtcQHXnAOB",
+      "preview": "https://p.scdn.co/mp3-preview/ec7ec57fc14b47a0ab53b3d63dab30b518b8ed11?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/21c2c71f7a243e178f09e3d1af8da327404ed8f9",
+      "release_date": "2002"
+    }
+  ]
+}

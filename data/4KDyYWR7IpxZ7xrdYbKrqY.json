@@ -1,0 +1,23 @@
+{
+  "artistName": "Bonnie Raitt",
+  "features": [
+    {
+      "featuredArtist": "Bruce Hornsby",
+      "featuredArtistId": "2iM28IgKg89v1o7BTQAVPo",
+      "trackName": "I Can't Make You Love Me - Live",
+      "trackId": "4qu1X20ps6X9vYm2vgoRdG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a3805e93fb43e6ba2826fc739b1bb0f65eab045a",
+      "release_date": "1995-11-07"
+    },
+    {
+      "featuredArtist": "Mavis Staples",
+      "featuredArtistId": "0cTSCsVx04SSht9V6cpKN0",
+      "trackName": "Turn Me Around - Live",
+      "trackId": "33qGyhh08EhXGqtaX75KFP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2b7c62f98d8c75513de0ba134e1cc35dc4370a28",
+      "release_date": "2017-05-12"
+    }
+  ]
+}

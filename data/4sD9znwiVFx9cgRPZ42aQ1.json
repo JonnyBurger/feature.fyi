@@ -1,0 +1,23 @@
+{
+  "artistName": "Sinéad O'Connor",
+  "features": [
+    {
+      "featuredArtist": "Seun Kuti",
+      "featuredArtistId": "1GQur7dDvAWhKT9u9YwBJZ",
+      "trackName": "James Brown",
+      "trackId": "6OWL35XpsLl47hK6f7j5kL",
+      "preview": "https://p.scdn.co/mp3-preview/16fe16b1b2f3549914025635673c6c0373c6323b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bc75ed421abca337c3557064dc2fe1ba539f6690",
+      "release_date": "2015-06-02"
+    },
+    {
+      "featuredArtist": "Asian Dub Foundation",
+      "featuredArtistId": "2EeUsNnv2BcVIGhBZ5SV8z",
+      "trackName": "1000 Mirrors",
+      "trackId": "6o6g2bUSSLCxQXUFl96AQz",
+      "preview": "https://p.scdn.co/mp3-preview/6b8a244da1a7ee68009c9cad0f990d09c3d025ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d752048687f1cc6edb3b860b781430ae6d41e66e",
+      "release_date": "2013-11-22"
+    }
+  ]
+}

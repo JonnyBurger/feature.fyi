@@ -1,0 +1,284 @@
+{
+  "artistName": "Virtual Riot",
+  "features": [
+    {
+      "featuredArtist": "Lisa Rowe",
+      "featuredArtistId": "4WCciDwAfaLXtcH4yjfaDq",
+      "trackName": "Alive",
+      "trackId": "0SALuANbNVmQzRGV5gNg3G",
+      "preview": "https://p.scdn.co/mp3-preview/a7f182c54254ecdfb9120b2f796090274de782e4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8638bd5e98385a0293a81e363a7abe1dc6095f49",
+      "release_date": "2013-05-27"
+    },
+    {
+      "featuredArtist": "Varia",
+      "featuredArtistId": "5d3WCiJNbl9gUB3AF0Cb8r",
+      "trackName": "Edge",
+      "trackId": "5XCLRmmYZBCNkV8a0uBD6K",
+      "preview": "https://p.scdn.co/mp3-preview/be95ad1a9831a7624c44d8e0aecc74002a9b36a0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8638bd5e98385a0293a81e363a7abe1dc6095f49",
+      "release_date": "2013-05-27"
+    },
+    {
+      "featuredArtist": "Virus Syndicate",
+      "featuredArtistId": "0NV5eY4Jzg4ldg2ikGnV4n",
+      "trackName": "Show Up",
+      "trackId": "6G1i0Uv6Nkhb9CnksXCfAx",
+      "preview": "https://p.scdn.co/mp3-preview/a55d889477bcf7e7e658d25e26abb047e2bfbd39?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/724e388919eca511ce081a5dbf829384b1b50633",
+      "release_date": "2018-01-31"
+    },
+    {
+      "featuredArtist": "Yosie",
+      "featuredArtistId": "5kr93ExsnHtu5RxoWxYpPm",
+      "trackName": "Everyday - VIP",
+      "trackId": "3y6lufkGXb8EfY7lJSmxiC",
+      "preview": "https://p.scdn.co/mp3-preview/ee102dffbdc83442f5524149c175837b2a1baf25?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0e659d6c14f0dcce57d852852b431c9336d75097",
+      "release_date": "2018-01-14"
+    },
+    {
+      "featuredArtist": "Barely Alive",
+      "featuredArtistId": "5c3akKV3CUqAVOnGZqf4S3",
+      "trackName": "Basement Dwellers",
+      "trackId": "586808josoG1wZM84nMv39",
+      "preview": "https://p.scdn.co/mp3-preview/6c3aa7ce040714e630605f279580666bcde726bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d746efcbf75d47570310170e7b81005ee2d242c",
+      "release_date": "2017-09-04"
+    },
+    {
+      "featuredArtist": "Yosie",
+      "featuredArtistId": "34LmQsxJGPWN475hcSnM3x",
+      "trackName": "Everyday",
+      "trackId": "3zPaMD0hfE7wvmIQXcR8MO",
+      "preview": "https://p.scdn.co/mp3-preview/e092167bb0e412f60569c87085157ac336d38acd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ed9f3c3620528f4261c96e6d676ca081eaf9d0ed",
+      "release_date": "2017-08-10"
+    },
+    {
+      "featuredArtist": "tribes.",
+      "featuredArtistId": "73TQx9yn3Tq1fpJLVqvEq8",
+      "trackName": "Kingdoms & Castles",
+      "trackId": "6Qo987xYeQJgaQu12TkmGK",
+      "preview": "https://p.scdn.co/mp3-preview/597a47905933db49f97b4b31b1d1a3125ff1084c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ed9f3c3620528f4261c96e6d676ca081eaf9d0ed",
+      "release_date": "2017-08-10"
+    },
+    {
+      "featuredArtist": "Pearl Andersson",
+      "featuredArtistId": "4EoSEUWlmLpYGHGNBoThiM",
+      "trackName": "Lost It",
+      "trackId": "2UzzLexdZFJeFK16PqgmV9",
+      "preview": "https://p.scdn.co/mp3-preview/04d8b53ed45dee9059237bebdd8e639c0cdd6967?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ed9f3c3620528f4261c96e6d676ca081eaf9d0ed",
+      "release_date": "2017-08-10"
+    },
+    {
+      "featuredArtist": "PRXZM",
+      "featuredArtistId": "5c8IDvXK6by6F1DoSUVsoD",
+      "trackName": "In My Head - Aika Remix",
+      "trackId": "1RzPCk6qavB9wxg5YZVF8n",
+      "preview": "https://p.scdn.co/mp3-preview/d1f9b78a68c56b9971359ba4fba65e02a0ad654a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a403edce4771756e79639b2e309ad21d1aab10f",
+      "release_date": "2017-04-27"
+    },
+    {
+      "featuredArtist": "AIKA",
+      "featuredArtistId": "1NfT4THLhxNASM4xVImfNg",
+      "trackName": "In My Head - Aika Remix",
+      "trackId": "1RzPCk6qavB9wxg5YZVF8n",
+      "preview": "https://p.scdn.co/mp3-preview/d1f9b78a68c56b9971359ba4fba65e02a0ad654a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a403edce4771756e79639b2e309ad21d1aab10f",
+      "release_date": "2017-04-27"
+    },
+    {
+      "featuredArtist": "Who Came After",
+      "featuredArtistId": "4bk2dF0MqjEy7QGvM92kKL",
+      "trackName": "In My Head - Who Came After Remix",
+      "trackId": "6ZlRvUrtiR0sB6kJXozMby",
+      "preview": "https://p.scdn.co/mp3-preview/77c7733e469468808c2357037a515890b799b3f3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a403edce4771756e79639b2e309ad21d1aab10f",
+      "release_date": "2017-04-27"
+    },
+    {
+      "featuredArtist": "Katdrop",
+      "featuredArtistId": "6Lumiuk67kiAjDa9Al13Fy",
+      "trackName": "In My Head - Katdrop Remix",
+      "trackId": "0ZLt9szik3pB1xl3YktUqB",
+      "preview": "https://p.scdn.co/mp3-preview/cb1d616e4b63f4d9327f3bda7b9597a24c6163eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a403edce4771756e79639b2e309ad21d1aab10f",
+      "release_date": "2017-04-27"
+    },
+    {
+      "featuredArtist": "PRXZM",
+      "featuredArtistId": "2uYisEeWBn5hp3e8ObdeUV",
+      "trackName": "In My Head",
+      "trackId": "3omHpz9fmngYFdHDRLGeRZ",
+      "preview": "https://p.scdn.co/mp3-preview/4c2f2b7b00a092d3e6df2785e694bdf02dd28786?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/15e2b1de4d93069af5ff23f97d7023eee613dccc",
+      "release_date": "2016-10-29"
+    },
+    {
+      "featuredArtist": "FuntCase",
+      "featuredArtistId": "6v1BAWFVNPbPJlnFHWR78D",
+      "trackName": "Borg - Downlink Remix",
+      "trackId": "2oihnMe9zaw77zyXro3YxU",
+      "preview": "https://p.scdn.co/mp3-preview/290789d12193cb53ef5baea637ceb489bb30b132?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8611ef4b3d16a4f52f3ff274ff7caf0a8e341b4",
+      "release_date": "2016-08-29"
+    },
+    {
+      "featuredArtist": "Downlink",
+      "featuredArtistId": "6ynSq3csnauyqZeQgfuWWt",
+      "trackName": "Borg - Downlink Remix",
+      "trackId": "2oihnMe9zaw77zyXro3YxU",
+      "preview": "https://p.scdn.co/mp3-preview/290789d12193cb53ef5baea637ceb489bb30b132?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8611ef4b3d16a4f52f3ff274ff7caf0a8e341b4",
+      "release_date": "2016-08-29"
+    },
+    {
+      "featuredArtist": "Dubloadz",
+      "featuredArtistId": "4akLvvJyLbJxlbpSXHTLvT",
+      "trackName": "Juices - Pegboard Nerds Remix",
+      "trackId": "0rVwjLAKQtGCgu09VhiJ8I",
+      "preview": "https://p.scdn.co/mp3-preview/85c109bdf84b2452d2e24ba5d34b5b1652343675?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8611ef4b3d16a4f52f3ff274ff7caf0a8e341b4",
+      "release_date": "2016-08-29"
+    },
+    {
+      "featuredArtist": "Pegboard Nerds",
+      "featuredArtistId": "0lLY20XpZ9yDobkbHI7u1y",
+      "trackName": "Juices - Pegboard Nerds Remix",
+      "trackId": "0rVwjLAKQtGCgu09VhiJ8I",
+      "preview": "https://p.scdn.co/mp3-preview/85c109bdf84b2452d2e24ba5d34b5b1652343675?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8611ef4b3d16a4f52f3ff274ff7caf0a8e341b4",
+      "release_date": "2016-08-29"
+    },
+    {
+      "featuredArtist": "12th Planet",
+      "featuredArtistId": "3V1h3kAdiVDBiwlY2i6dJz",
+      "trackName": "Leave It Behind - Oolacile Remix",
+      "trackId": "0QVGRkwMH5MCT6vOEBPJMM",
+      "preview": "https://p.scdn.co/mp3-preview/490218efef32c4d4fba15991096fc9d4756f8ca5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8611ef4b3d16a4f52f3ff274ff7caf0a8e341b4",
+      "release_date": "2016-08-29"
+    },
+    {
+      "featuredArtist": "Ash Riser",
+      "featuredArtistId": "1Cgtal24kmBtCcRjM6GTno",
+      "trackName": "Leave It Behind - Oolacile Remix",
+      "trackId": "0QVGRkwMH5MCT6vOEBPJMM",
+      "preview": "https://p.scdn.co/mp3-preview/490218efef32c4d4fba15991096fc9d4756f8ca5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8611ef4b3d16a4f52f3ff274ff7caf0a8e341b4",
+      "release_date": "2016-08-29"
+    },
+    {
+      "featuredArtist": "Oolacile",
+      "featuredArtistId": "3z8SEnYy9gIRNrSVNJieXx",
+      "trackName": "Leave It Behind - Oolacile Remix",
+      "trackId": "0QVGRkwMH5MCT6vOEBPJMM",
+      "preview": "https://p.scdn.co/mp3-preview/490218efef32c4d4fba15991096fc9d4756f8ca5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8611ef4b3d16a4f52f3ff274ff7caf0a8e341b4",
+      "release_date": "2016-08-29"
+    },
+    {
+      "featuredArtist": "ShockOne",
+      "featuredArtistId": "1yShtQaHjChbToQboKRzgH",
+      "trackName": "Showdown - Ekko & Sidetrack Remix",
+      "trackId": "0nqXM0ZVIrJSVEyISPHfbN",
+      "preview": "https://p.scdn.co/mp3-preview/3263c7dc58dec5456bfc341b82e6f1dc16a7ee0d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8611ef4b3d16a4f52f3ff274ff7caf0a8e341b4",
+      "release_date": "2016-08-29"
+    },
+    {
+      "featuredArtist": "Ekko & Sidetrack",
+      "featuredArtistId": "7IVvHpo698q6w0VadlUxCL",
+      "trackName": "Showdown - Ekko & Sidetrack Remix",
+      "trackId": "0nqXM0ZVIrJSVEyISPHfbN",
+      "preview": "https://p.scdn.co/mp3-preview/3263c7dc58dec5456bfc341b82e6f1dc16a7ee0d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8611ef4b3d16a4f52f3ff274ff7caf0a8e341b4",
+      "release_date": "2016-08-29"
+    },
+    {
+      "featuredArtist": "Madi",
+      "featuredArtistId": "5KtyvSnzn6NcqukCOsjfe0",
+      "trackName": "Flutter (Feat. Madi)",
+      "trackId": "7FiQUNyXClHIoKoy2ct96M",
+      "preview": "https://p.scdn.co/mp3-preview/8de688efe83733c060f3b9c239ab092c9b93e8cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d56bdaca63dafa06ece7348a51e76827cb38f4f",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Messinian",
+      "featuredArtistId": "79Np0PnytUJmeG5VRhop9u",
+      "trackName": "Rise of the Robots",
+      "trackId": "6lxpwK5o4nxEe9nDJFlfdb",
+      "preview": "https://p.scdn.co/mp3-preview/4122283eb564ffa4a4d99a3b49e343ece772fae9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e953a4fa6c54320055bb98532e92b69f1fdfec6",
+      "release_date": "2015-09-21"
+    },
+    {
+      "featuredArtist": "Armanni Reign",
+      "featuredArtistId": "7eLk4SsrtZtCANV4X713uI",
+      "trackName": "Running from the Cops",
+      "trackId": "4yvBIjBYWafm9NJdO7lvk8",
+      "preview": "https://p.scdn.co/mp3-preview/3f0467d28b895a29dc098fda1d5c623a9291a836?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e953a4fa6c54320055bb98532e92b69f1fdfec6",
+      "release_date": "2015-09-21"
+    },
+    {
+      "featuredArtist": "Danyka Nadeau",
+      "featuredArtistId": "2dVIbEt8BdjznykrUuSCDc",
+      "trackName": "Time Stops",
+      "trackId": "2Sml31JbcSJ2JNXDl7SOEb",
+      "preview": "https://p.scdn.co/mp3-preview/d2b36497b95d99bcd3e2a4698df70216ba8f9601?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e953a4fa6c54320055bb98532e92b69f1fdfec6",
+      "release_date": "2015-09-21"
+    },
+    {
+      "featuredArtist": "Dodge & Fuski",
+      "featuredArtistId": "6SJnjpekgnONgNtxKeMP8m",
+      "trackName": "Alien",
+      "trackId": "0nDgqeSFjVBwldhYH8MTGU",
+      "preview": "https://p.scdn.co/mp3-preview/6987b7d16fafbba95185c641e934d412431fd3cb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f1d049fe5c131f2f87398d3ba5fac5c0bcf48f19",
+      "release_date": "2015-09-07"
+    },
+    {
+      "featuredArtist": "Autodrive",
+      "featuredArtistId": "3Hyef23qLTCYi3waPfCSS1",
+      "trackName": "Nightmare",
+      "trackId": "4f3dZAGNNjHsz7BfarAYKs",
+      "preview": "https://p.scdn.co/mp3-preview/9682912777e99ffcfcd4ccfb831d914aff15c0da?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996ab8695365c37b7227a2a6338da44db04371e5",
+      "release_date": "2015-02-16"
+    },
+    {
+      "featuredArtist": "SPLITBREED",
+      "featuredArtistId": "3Fe5n1HNeOPaDPwcPIx6Qc",
+      "trackName": "Nightmare",
+      "trackId": "4f3dZAGNNjHsz7BfarAYKs",
+      "preview": "https://p.scdn.co/mp3-preview/9682912777e99ffcfcd4ccfb831d914aff15c0da?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996ab8695365c37b7227a2a6338da44db04371e5",
+      "release_date": "2015-02-16"
+    },
+    {
+      "featuredArtist": "PhaseOne",
+      "featuredArtistId": "0mO3Yf5XIPHfAbHh8yWLFk",
+      "trackName": "We're Not Alone - PhaseOne Remix",
+      "trackId": "5okKaOSiekIWC7f2RggmJ8",
+      "preview": "https://p.scdn.co/mp3-preview/89f9c9f48264c7c1b1902e44573d39b935f50738?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/878e3a1de9ff9baae763ff3719aa07a30725f443",
+      "release_date": "2014-11-17"
+    },
+    {
+      "featuredArtist": "Jonas Minor",
+      "featuredArtistId": "4KN9CcPR8ZbEjHIreIDND0",
+      "trackName": "Symphony",
+      "trackId": "39IqmNFbJVTZPQPaMaqypp",
+      "preview": "https://p.scdn.co/mp3-preview/85cd87ea50a145066922fc861f68741c32769037?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/00025e763ce5623ca4f0bbf38cbce71cb1ea32da",
+      "release_date": "2014-08-11"
+    }
+  ]
+}

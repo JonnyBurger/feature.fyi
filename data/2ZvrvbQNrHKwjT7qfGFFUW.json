@@ -1,0 +1,338 @@
+{
+  "artistName": "Herbie Hancock",
+  "features": [
+    {
+      "featuredArtist": "Stevie Wonder",
+      "featuredArtistId": "7guDJrEfX3qb6FEbdPA5qi",
+      "trackName": "St. Louis Blues",
+      "trackId": "68HlaTmBB2Wp7TpPUrneMA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/daab4dc41ebd5745d6af146d621493c4db8662ee",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Wayne Shorter",
+      "featuredArtistId": "0ZqhrTXYPA9DZR527ZnFdO",
+      "trackName": "Nefertiti",
+      "trackId": "5lX93EuoL7tTrw2SK3I3cX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/daab4dc41ebd5745d6af146d621493c4db8662ee",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Michael Brecker",
+      "featuredArtistId": "5IkynsVZoak9UR2Xt8qsMj",
+      "trackName": "Naima",
+      "trackId": "5aacv8NqFFw5RYh2Rcqb6G",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/daab4dc41ebd5745d6af146d621493c4db8662ee",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Roy Hargrove",
+      "featuredArtistId": "49zXTngyUTielHTbbH5YKs",
+      "trackName": "Naima",
+      "trackId": "5aacv8NqFFw5RYh2Rcqb6G",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/daab4dc41ebd5745d6af146d621493c4db8662ee",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Tina Turner",
+      "featuredArtistId": "1zuJe6b1roixEKMOtyrEak",
+      "trackName": "Edith and the Kingpin",
+      "trackId": "1ZjwDxRKriG0dwueIFBE3u",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/daab4dc41ebd5745d6af146d621493c4db8662ee",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Corinne Bailey Rae",
+      "featuredArtistId": "29WzbAQtDnBJF09es0uddn",
+      "trackName": "River",
+      "trackId": "6tiBpg5mJLOO8OknxXHxCs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/daab4dc41ebd5745d6af146d621493c4db8662ee",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Leonard Cohen",
+      "featuredArtistId": "5l8VQNuIg0turYE1VtM9zV",
+      "trackName": "The Jungle Line",
+      "trackId": "0yAtqPFGHZAJarr4ITm1Ay",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/daab4dc41ebd5745d6af146d621493c4db8662ee",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Norah Jones",
+      "featuredArtistId": "2Kx7MNY7cI1ENniW7vT30N",
+      "trackName": "Court and Spark",
+      "trackId": "1r4Fl1e1BMzRDKbAFEhhv4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/daab4dc41ebd5745d6af146d621493c4db8662ee",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Luciana Souza",
+      "featuredArtistId": "0cv8X9QNT0s3OHfVVeNWkM",
+      "trackName": "Amelia",
+      "trackId": "3EtfXifdbblCF0PgQTvHiG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/daab4dc41ebd5745d6af146d621493c4db8662ee",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Ed Thigpen",
+      "featuredArtistId": "7ofmO3RJ2eeaRhApcStDkI",
+      "trackName": "Cielito Lindo",
+      "trackId": "4prnxISAcs84j1LeGltizM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/daab4dc41ebd5745d6af146d621493c4db8662ee",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Clark Terry",
+      "featuredArtistId": "62xdwGEOLoGQxKUqoJusyU",
+      "trackName": "Cielito Lindo",
+      "trackId": "4prnxISAcs84j1LeGltizM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/daab4dc41ebd5745d6af146d621493c4db8662ee",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Kenny Burrell",
+      "featuredArtistId": "1sdyFmN4bVOcuFDpTVsxBB",
+      "trackName": "Cielito Lindo",
+      "trackId": "4prnxISAcs84j1LeGltizM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/daab4dc41ebd5745d6af146d621493c4db8662ee",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Ron Carter",
+      "featuredArtistId": "4wnzivx3OQ3vjrySAdTdJP",
+      "trackName": "Cielito Lindo",
+      "trackId": "4prnxISAcs84j1LeGltizM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/daab4dc41ebd5745d6af146d621493c4db8662ee",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Seal",
+      "featuredArtistId": "5GtMEZEeFFsuHY8ad4kOxv",
+      "trackName": "Imagine (feat. P!Nk, Seal, India.Arie, Jeff Beck, Konono N°1, & Oumou Sangare)",
+      "trackId": "40XZLpqbp6Uhy2OLk6OOTs",
+      "preview": "https://p.scdn.co/mp3-preview/95a62f69a1e504a4e42a96b5dc57dee0daa24bbf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "Jeff Beck",
+      "featuredArtistId": "0AD4odMWVQ2wUSlgxOB5Rl",
+      "trackName": "Imagine (feat. P!Nk, Seal, India.Arie, Jeff Beck, Konono N°1, & Oumou Sangare)",
+      "trackId": "40XZLpqbp6Uhy2OLk6OOTs",
+      "preview": "https://p.scdn.co/mp3-preview/95a62f69a1e504a4e42a96b5dc57dee0daa24bbf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "Oumou Sangaré",
+      "featuredArtistId": "65CKKZilbcSKkAPC9a5Mvh",
+      "trackName": "Imagine (feat. P!Nk, Seal, India.Arie, Jeff Beck, Konono N°1, & Oumou Sangare)",
+      "trackId": "40XZLpqbp6Uhy2OLk6OOTs",
+      "preview": "https://p.scdn.co/mp3-preview/95a62f69a1e504a4e42a96b5dc57dee0daa24bbf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "PNK",
+      "featuredArtistId": "6jMZfqnPp6jlx5CZjfrCxB",
+      "trackName": "Imagine (feat. P!Nk, Seal, India.Arie, Jeff Beck, Konono N°1, & Oumou Sangare)",
+      "trackId": "40XZLpqbp6Uhy2OLk6OOTs",
+      "preview": "https://p.scdn.co/mp3-preview/95a62f69a1e504a4e42a96b5dc57dee0daa24bbf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "Konono N°1",
+      "featuredArtistId": "6Sr77iisVrcSg7bQfqqRHk",
+      "trackName": "Imagine (feat. P!Nk, Seal, India.Arie, Jeff Beck, Konono N°1, & Oumou Sangare)",
+      "trackId": "40XZLpqbp6Uhy2OLk6OOTs",
+      "preview": "https://p.scdn.co/mp3-preview/95a62f69a1e504a4e42a96b5dc57dee0daa24bbf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "India.Arie",
+      "featuredArtistId": "7Gf3LSwa5hh8Cjo60WhVjC",
+      "trackName": "Imagine (feat. P!Nk, Seal, India.Arie, Jeff Beck, Konono N°1, & Oumou Sangare)",
+      "trackId": "40XZLpqbp6Uhy2OLk6OOTs",
+      "preview": "https://p.scdn.co/mp3-preview/95a62f69a1e504a4e42a96b5dc57dee0daa24bbf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "John Legend",
+      "featuredArtistId": "5y2Xq6xcjJb2jVM54GHK3t",
+      "trackName": "Don't Give Up (feat. P!Nk & John Legend)",
+      "trackId": "0gAPLVWh6zOfsmtcyxACch",
+      "preview": "https://p.scdn.co/mp3-preview/dbee7f99f2e3bac5c0df26cb16e8b6e53be3c816?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "Céu",
+      "featuredArtistId": "2eFVsaX3yHLPeWpiqvmeFn",
+      "trackName": "Tempo De Amor (feat. Cèu)",
+      "trackId": "4e30Tzxq6R2oruXDF381gj",
+      "preview": "https://p.scdn.co/mp3-preview/6180e862b66fb2030f2d49e454a87e03aeeacd0e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "Derek Trucks",
+      "featuredArtistId": "1xJPYI7GXasA3ariMSftPq",
+      "trackName": "Space Captain (feat. Susan Tedeschi & Derek Trucks)",
+      "trackId": "3yPTzFrL1U0cfYTr5IMvuX",
+      "preview": "https://p.scdn.co/mp3-preview/967f6c524313721f8e480525e85bc761951e1e4b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "Susan Tedeschi",
+      "featuredArtistId": "5Ws3s6lSP4Un8kQf8CrAta",
+      "trackName": "Space Captain (feat. Susan Tedeschi & Derek Trucks)",
+      "trackId": "3yPTzFrL1U0cfYTr5IMvuX",
+      "preview": "https://p.scdn.co/mp3-preview/967f6c524313721f8e480525e85bc761951e1e4b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "Lisa Hannigan",
+      "featuredArtistId": "0z7Yuv7DuDQ5SaVn4VSlLt",
+      "trackName": "The Times, They Are A' Changin' (feat. The Chieftains, Toumani Diabete, & Lisa Hannigan)",
+      "trackId": "0XkC80KjYuRb8Zdg8TdQnw",
+      "preview": "https://p.scdn.co/mp3-preview/694e0b4a22d844e2a952fe93ee7ade622d84464d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "Toumani Diabaté",
+      "featuredArtistId": "2nCACYdIndYchzX4bxLcTW",
+      "trackName": "The Times, They Are A' Changin' (feat. The Chieftains, Toumani Diabete, & Lisa Hannigan)",
+      "trackId": "0XkC80KjYuRb8Zdg8TdQnw",
+      "preview": "https://p.scdn.co/mp3-preview/694e0b4a22d844e2a952fe93ee7ade622d84464d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "The Chieftains",
+      "featuredArtistId": "6AnrSlk5Gp1YMXgaI3mWCL",
+      "trackName": "The Times, They Are A' Changin' (feat. The Chieftains, Toumani Diabete, & Lisa Hannigan)",
+      "trackId": "0XkC80KjYuRb8Zdg8TdQnw",
+      "preview": "https://p.scdn.co/mp3-preview/694e0b4a22d844e2a952fe93ee7ade622d84464d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "Juanes",
+      "featuredArtistId": "0UWZUmn7sybxMCqrw9tGa7",
+      "trackName": "La Tierra (feat. Juanes)",
+      "trackId": "0hHHoZhQxtGfaAW0SxlrQ3",
+      "preview": "https://p.scdn.co/mp3-preview/975613d7f18ba6cb517e53c639d327fc312ba4e1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "Tinariwen",
+      "featuredArtistId": "2sf2owtFSCvz2MLfxmNdkb",
+      "trackName": "Tamatant Tilay / Exodus (feat. Tinariwen, K'naan, & Los Lobos)",
+      "trackId": "1a58yrZs5KWjHPgthUj5eI",
+      "preview": "https://p.scdn.co/mp3-preview/dffd293f2b8e0ba3d8502d76ae04b32bc2387daa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "K'NAAN",
+      "featuredArtistId": "7pGyQZx9thVa8GxMBeXscB",
+      "trackName": "Tamatant Tilay / Exodus (feat. Tinariwen, K'naan, & Los Lobos)",
+      "trackId": "1a58yrZs5KWjHPgthUj5eI",
+      "preview": "https://p.scdn.co/mp3-preview/dffd293f2b8e0ba3d8502d76ae04b32bc2387daa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "Los Lobos",
+      "featuredArtistId": "6OWapcJm9xd55ci9CYbAuT",
+      "trackName": "Tamatant Tilay / Exodus (feat. Tinariwen, K'naan, & Los Lobos)",
+      "trackId": "1a58yrZs5KWjHPgthUj5eI",
+      "preview": "https://p.scdn.co/mp3-preview/dffd293f2b8e0ba3d8502d76ae04b32bc2387daa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "Dave Matthews",
+      "featuredArtistId": "13vQloYd6mP7V1mVwKJwS2",
+      "trackName": "Tomorrow Never Knows (feat. Dave Matthews)",
+      "trackId": "1ibcrQZTpe4pGBuRtawkqQ",
+      "preview": "https://p.scdn.co/mp3-preview/a0af7f3ca45a6762fc8a48a1a457d58e8a692bcb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "James Morrison",
+      "featuredArtistId": "0QWCnpfvnorRJej06j0J7v",
+      "trackName": "A Change Is Gonna Come (feat. James Morrison)",
+      "trackId": "4YlxVVj7ZGAOBYiSGBq1nt",
+      "preview": "https://p.scdn.co/mp3-preview/d087c36ff788278ffa47a3cc6bb886d465896530?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "Unknown",
+      "featuredArtistId": "1F72pgs2ddg2UY3WDNXJ0Q",
+      "trackName": "The Song Goes On (feat. K.S. Chithra, Chaka Khan, Anoushka Shankar, & Wayne Shorter)",
+      "trackId": "2MY8w4lTHygtiU7hsFOqSK",
+      "preview": "https://p.scdn.co/mp3-preview/7e50a9393189c5cfc6d2938554551d5a9203c91a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "Chaka Khan",
+      "featuredArtistId": "6mQfAAqZGBzIfrmlZCeaYT",
+      "trackName": "The Song Goes On (feat. K.S. Chithra, Chaka Khan, Anoushka Shankar, & Wayne Shorter)",
+      "trackId": "2MY8w4lTHygtiU7hsFOqSK",
+      "preview": "https://p.scdn.co/mp3-preview/7e50a9393189c5cfc6d2938554551d5a9203c91a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "Anoushka Shankar",
+      "featuredArtistId": "6MTByljF8u5omBltY2VKPU",
+      "trackName": "The Song Goes On (feat. K.S. Chithra, Chaka Khan, Anoushka Shankar, & Wayne Shorter)",
+      "trackId": "2MY8w4lTHygtiU7hsFOqSK",
+      "preview": "https://p.scdn.co/mp3-preview/7e50a9393189c5cfc6d2938554551d5a9203c91a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2010-06-21"
+    },
+    {
+      "featuredArtist": "Unknown",
+      "featuredArtistId": "2MpxaqGTQeft5RU4wvwm57",
+      "trackName": "The Song Goes On (feat. K.S. Chithra, Chaka Khan, Anoushka Shankar, & Wayne Shorter)",
+      "trackId": "2aUtF0eSYINIdo4zClP39V",
+      "preview": "https://p.scdn.co/mp3-preview/7e50a9393189c5cfc6d2938554551d5a9203c91a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996fbe8461c18203a08817eb94c960da73bb1207",
+      "release_date": "2009"
+    },
+    {
+      "featuredArtist": "Joni Mitchell",
+      "featuredArtistId": "5hW4L92KnC6dX9t7tYM4Ve",
+      "trackName": "River - 2008/Live At Yahoo!",
+      "trackId": "3pJ0EDqjtSGJFrP7V9g5PH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21fe369e9ec04744b506e45eee3153da12fde0d0",
+      "release_date": "2008-01-01"
+    }
+  ]
+}

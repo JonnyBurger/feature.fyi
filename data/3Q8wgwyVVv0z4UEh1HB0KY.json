@@ -1,0 +1,32 @@
+{
+  "artistName": "Jason Isbell",
+  "features": [
+    {
+      "featuredArtist": "Amanda Shires",
+      "featuredArtistId": "5yN0nwLpUCaZ2gr67bndCN",
+      "trackName": "I Follow Rivers",
+      "trackId": "29xD114tlx4rYh17Rthmw9",
+      "preview": "https://p.scdn.co/mp3-preview/4e7dcfc308a748f8e6d14a88b2eb8802a36e49a7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d3d982b1ce1de4a1ac889ecb542a0470dc69b3a",
+      "release_date": "2015-02-10"
+    },
+    {
+      "featuredArtist": "Elizabeth Cook",
+      "featuredArtistId": "0dyEUZv8ftA0dzL5vb2Y9s",
+      "trackName": "Tecumseh Valley",
+      "trackId": "7eby7k1AaLr3YT8z9wE996",
+      "preview": "https://p.scdn.co/mp3-preview/e8503fae7c48c709b5e071e733ee4480d100ebc2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca9aadbb0c989d721c6048372ade6e75c6787b0f",
+      "release_date": "2013-07-09"
+    },
+    {
+      "featuredArtist": "Tommy Emmanuel",
+      "featuredArtistId": "6HjfVflhYjbu6PSIsFOjwM",
+      "trackName": "Deep River Blues",
+      "trackId": "5mcFV8ZS0r7gpxYlyN0oIi",
+      "preview": "https://p.scdn.co/mp3-preview/ec009ab1bab22ec3c15016a80a32544ab5abbeee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c7dd972e50da78e20adf82364da84ebeab76f637",
+      "release_date": "2018-01-19"
+    }
+  ]
+}

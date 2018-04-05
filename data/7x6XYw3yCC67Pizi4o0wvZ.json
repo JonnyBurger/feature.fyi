@@ -1,0 +1,59 @@
+{
+  "artistName": "Sergio Dalma",
+  "features": [
+    {
+      "featuredArtist": "Pablo Alborán",
+      "featuredArtistId": "5M9Bb4adKAgrOFOhc05Y50",
+      "trackName": "Solo para ti (feat. Pablo Alborán) - Las Ventas 20 de septiembre 2014",
+      "trackId": "3fec3Y2hiw3uvZ4UfKih3Z",
+      "preview": "https://p.scdn.co/mp3-preview/feb9b276373b44384bdc41f0dd8813197c73b5ed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/80e2d24d7a4c1be627ed893ae62385d652731f31",
+      "release_date": "2014-11-18"
+    },
+    {
+      "featuredArtist": "Vanesa Martín",
+      "featuredArtistId": "5kSJMVPcTITrSZxTrHllVN",
+      "trackName": "Mi historia entre tus dedos (feat. Vanesa Martín) - Las Ventas 20 de septiembre 2014",
+      "trackId": "7c91bKZpafIjcwwxMWtqDl",
+      "preview": "https://p.scdn.co/mp3-preview/869c6ecc3fe273fdf88ca4a356bd905c119209f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/80e2d24d7a4c1be627ed893ae62385d652731f31",
+      "release_date": "2014-11-18"
+    },
+    {
+      "featuredArtist": "Nek",
+      "featuredArtistId": "5mXMQJHLLfym1KyNcDrhoZ",
+      "trackName": "Esa chica es mía (feat. Nek) - Las Ventas 20 de septiembre 2014",
+      "trackId": "3eZIKHP0XU1ximJpyczNBw",
+      "preview": "https://p.scdn.co/mp3-preview/d8c3a646412b361f9a88f05668ce1f6c7e948c8d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/80e2d24d7a4c1be627ed893ae62385d652731f31",
+      "release_date": "2014-11-18"
+    },
+    {
+      "featuredArtist": "Monica Green",
+      "featuredArtistId": "0P7w6Rcj1BBB4krxxFYeL5",
+      "trackName": "No Et Deixis - Catalán",
+      "trackId": "2u0VHmdBlJp4A4V1rtZDXN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/15022c54d40780e7b5132ca9cb564395fc3d677c",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Escolania de Montserrat",
+      "featuredArtistId": "6GvOO1WsMVE09SbeYwn4ZV",
+      "trackName": "Em Dones Força - Catalán",
+      "trackId": "1CblnDqLmJeTnSv6kCXebF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/15022c54d40780e7b5132ca9cb564395fc3d677c",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Zucchero",
+      "featuredArtistId": "2KftmGt9sk1yLjsAoloC3M",
+      "trackName": "Asì Celeste",
+      "trackId": "2FIf8T0Gj1cqsJ9HOFZwrp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/83342e049c0c0c6c68d2934953e0ef952febf0c9",
+      "release_date": "2011-01-01"
+    }
+  ]
+}

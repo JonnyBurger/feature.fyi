@@ -1,0 +1,23 @@
+{
+  "artistName": "Nicolas Jaar",
+  "features": [
+    {
+      "featuredArtist": "Lorraine",
+      "featuredArtistId": "0MxA4L4mckvuQlNp0TkuiW",
+      "trackName": "No One Is Looking at U",
+      "trackId": "28LB8LFCPtAJY4ysfqI2JE",
+      "preview": "https://p.scdn.co/mp3-preview/def3260a44f6ce18b97ac7e79d915682aaf36992?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5787751b25c3ac9166aa0cb42409b23b9732a4a5",
+      "release_date": "2015-10-07"
+    },
+    {
+      "featuredArtist": "Ryan Crosson",
+      "featuredArtistId": "5ZJEkLV6krzRy59l6dlYJx",
+      "trackName": "Russian Dolls - Ryan Crosson Remix",
+      "trackId": "3SZ5P7BKRmopMahV2C0uIJ",
+      "preview": "https://p.scdn.co/mp3-preview/47fa5ca961b9ff9c9ee9df694011eeaa8d89ffc4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/36c7b5ae62a07eb4e3cdeebfae4f904b3d803f8e",
+      "release_date": "2010-05-03"
+    }
+  ]
+}

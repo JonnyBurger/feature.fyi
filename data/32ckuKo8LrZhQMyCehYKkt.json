@@ -1,0 +1,50 @@
+{
+  "artistName": "Tom Lord-Alge",
+  "features": [
+    {
+      "featuredArtist": "Sarah McLachlan",
+      "featuredArtistId": "4NgNsOXSwIzXlUIJcpnNUp",
+      "trackName": "Angel - Radio Mix",
+      "trackId": "7FJbsxsSa2SWj6y3PrH9l5",
+      "preview": "https://p.scdn.co/mp3-preview/b134365e8341683ee601294d0f3678624b02c345?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca8a6e906c86fb25ee8dcb50c03b809736cdb5d3",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Big Mountain",
+      "featuredArtistId": "0Jeckitay8SbvKwqAzWuYH",
+      "trackName": "Baby, I Love Your Way",
+      "trackId": "4uLOZX4ZuMf0gwUqrLggRi",
+      "preview": "https://p.scdn.co/mp3-preview/2088ffea2a54124e1e4e5e195303251f401c796f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8e63b9aa0ae58c55f6dd49e40693991085ca980e",
+      "release_date": "2016-10-14"
+    },
+    {
+      "featuredArtist": "Rick Astley",
+      "featuredArtistId": "0gxyHStUsqpMadRV0Di1Qt",
+      "trackName": "The Ones You Love - Edit",
+      "trackId": "17G70CTHsev4UuC1QbtNLU",
+      "preview": "https://p.scdn.co/mp3-preview/0f240ce7605dc5a25485102dc2a3fefc1108391c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/510e15926486ce749936c2e0abd5b6a072f5da00",
+      "release_date": "2014-10-03"
+    },
+    {
+      "featuredArtist": "Family of the Year",
+      "featuredArtistId": "7zsin6IgVsR1rqSRCNYDwq",
+      "trackName": "St. Croix - Single Mix",
+      "trackId": "5IXkMgXihfIOzdZq9J02wd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a32dd6d3ae18126641ac75d24de45872c26b662d",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Level 42",
+      "featuredArtistId": "0L9xkvBPcEp1nrhDrodxc5",
+      "trackName": "Two Hearts Collide - Remix",
+      "trackId": "5TIIOGUWYIdBI0rZP6E681",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae80d7767a2fc60eff3106672db10a7aab0058aa",
+      "release_date": "2014-01-01"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "artistName": "JONES",
+  "features": [
+    {
+      "featuredArtist": "Blakey",
+      "featuredArtistId": "3cqjRMFHyTEbY3Gq1P7sAl",
+      "trackName": "Prism of Love (Piano Acoustic)",
+      "trackId": "6gPTlMJWFcjmY6FGjRWwYK",
+      "preview": "https://p.scdn.co/mp3-preview/b996b1749eb77936d6c364ab1cf5fc2f4c3b83ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5722f6e3b1041af17ec1d66efce9a10e5e1bd1e4",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "TIEKS",
+      "featuredArtistId": "5ubTLvtpORseymsgTVxk45",
+      "trackName": "Something Bout Our Love - TIEKS Extended Mix",
+      "trackId": "5SArQFWfN1nvZXnNVO1c3Z",
+      "preview": "https://p.scdn.co/mp3-preview/872b63f6626da2a6dc3e65543a7e7055ccda6373?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b6a2d1c1589629b196d0b7211bd9e02ee9b121e9",
+      "release_date": "2017-12-11"
+    },
+    {
+      "featuredArtist": "CAZZETTE",
+      "featuredArtistId": "1IELhvOMg5VQlU7syRm6CS",
+      "trackName": "Handful Of Gold",
+      "trackId": "0KnzZd9FaVOKtOkzSvOivN",
+      "preview": "https://p.scdn.co/mp3-preview/cfcb44c194a34c0c0e9a99f41d774e676dbba89f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cc4099dd186b0e6e13984a0d073209637cdcb0cc",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Joe Hertz",
+      "featuredArtistId": "76QHVIjgqlkWB9LNGliman",
+      "trackName": "Simple",
+      "trackId": "05LiQlMRX2PlThoHWPjGae",
+      "preview": "https://p.scdn.co/mp3-preview/1643ac25943523a6927fe4c3d0162216716f26e3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6a703fab04f59f9126660e5b39c5df6d1396db9b",
+      "release_date": "2017-03-23"
+    }
+  ]
+}

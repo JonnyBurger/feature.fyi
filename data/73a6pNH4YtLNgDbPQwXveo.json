@@ -1,0 +1,95 @@
+{
+  "artistName": "Kim Wilde",
+  "features": [
+    {
+      "featuredArtist": "Frida Sundemo",
+      "featuredArtistId": "5vuIOnOp6NI06rjLgTpYiY",
+      "trackName": "Rosetta",
+      "trackId": "7lGiWhD7Fzrpxzigw4LyEq",
+      "preview": "https://p.scdn.co/mp3-preview/64104ee1ee31789d1c69a247feaf57540dc5e542?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/34eed9d9a4b009d9ef87ba41783a46eed42739c9",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Rick Astley",
+      "featuredArtistId": "0gxyHStUsqpMadRV0Di1Qt",
+      "trackName": "Winter Wonderland",
+      "trackId": "0WoEYU3jScBc62eJr5YYa5",
+      "preview": "https://p.scdn.co/mp3-preview/9226f8ff8c8c87958aa91c5754a2047e40297a1e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d749dbe512b2f1e3711496d285134688b57fabb",
+      "release_date": "2013-11-22"
+    },
+    {
+      "featuredArtist": "Marty Wilde",
+      "featuredArtistId": "49Jb7NSMLFMM3n8M7BNRxN",
+      "trackName": "White Winter Hymnal",
+      "trackId": "4RP6OCxvo5MTiEelSFPuC2",
+      "preview": "https://p.scdn.co/mp3-preview/8f5ba7319d5c80dfb5d2e0fee091331058aef835?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d749dbe512b2f1e3711496d285134688b57fabb",
+      "release_date": "2013-11-22"
+    },
+    {
+      "featuredArtist": "Hal Fowler",
+      "featuredArtistId": "4Xy3NJcfDCSaBNtwzmmQet",
+      "trackName": "Burn Gold (Silent Night)",
+      "trackId": "6QHw2amJkwQ18QviRSiak9",
+      "preview": "https://p.scdn.co/mp3-preview/65a1377ea96e6ed70a98d7b857ab51dad9c28461?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d749dbe512b2f1e3711496d285134688b57fabb",
+      "release_date": "2013-11-22"
+    },
+    {
+      "featuredArtist": "Nik Kershaw",
+      "featuredArtistId": "7kCL98rPFsNKjAHDmWrMac",
+      "trackName": "Rockin' Around the Christmas Tree",
+      "trackId": "4SZgZYPQRfXtcPVq78rinc",
+      "preview": "https://p.scdn.co/mp3-preview/ef0428caabd9bad5a134a374e3946afd5d13899a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d749dbe512b2f1e3711496d285134688b57fabb",
+      "release_date": "2013-11-22"
+    },
+    {
+      "featuredArtist": "Electric Penguins",
+      "featuredArtistId": "0SEgm2Z9FRW1EX8LJVsWFm",
+      "trackName": "Hope - Electric Penguins Remix",
+      "trackId": "0S4UDBak3kxM3mCb8cid2f",
+      "preview": "https://p.scdn.co/mp3-preview/21df8bd98e2a62c84f9d94a3ccaa073f03272205?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/719178fa0affe0b7c543a7cca9a7ee877c57fee6",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Glenn Gregory",
+      "featuredArtistId": "0bzGPa4FNUKVo6CE78yFXW",
+      "trackName": "Greatest Journey",
+      "trackId": "0hu65ympx3FVpIdMFUyRwK",
+      "preview": "https://p.scdn.co/mp3-preview/9a945f01783fe0bddba4844e98a80e681ba4d981?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d41680e7ac17def765b4f1d68098a709955a6f3",
+      "release_date": "2010-08-27"
+    },
+    {
+      "featuredArtist": "Nile Rodgers",
+      "featuredArtistId": "3yDIp0kaq9EFKe07X1X2rz",
+      "trackName": "Dancing In The Dark - Nile Rodgers 12'' Version",
+      "trackId": "75xjBwR6OCCy5Apna1qjWT",
+      "preview": "https://p.scdn.co/mp3-preview/d8c191aff85ced933f2865c3549957d4279ad999?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/312ae03177c44940ec7e39e21604e74775e5d80f",
+      "release_date": "2006-03-13"
+    },
+    {
+      "featuredArtist": "Nena",
+      "featuredArtistId": "6Tz0QRoe083BcOo2YbG9lV",
+      "trackName": "You Keep Me Hangin' On",
+      "trackId": "37TmAdHOXJwrhbq84v4nN5",
+      "preview": "https://p.scdn.co/mp3-preview/54e4f8830dd50e11958ba103ed4b315e39098ed4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bda01a6054b510c5510305e68249faa2610eb3b6",
+      "release_date": "2006-01-31"
+    },
+    {
+      "featuredArtist": "Charlotte Hatherley",
+      "featuredArtistId": "6W7edDAqY2zfgSNYXaK7cX",
+      "trackName": "Kids in America",
+      "trackId": "1zXtXw15MqOH2TigRtV9LH",
+      "preview": "https://p.scdn.co/mp3-preview/33a9f4ac97becb7744d034d6cf9c02821388d15f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bda01a6054b510c5510305e68249faa2610eb3b6",
+      "release_date": "2006-01-31"
+    }
+  ]
+}

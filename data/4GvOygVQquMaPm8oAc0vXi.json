@@ -1,0 +1,32 @@
+{
+  "artistName": "The Streets",
+  "features": [
+    {
+      "featuredArtist": "Professor Green",
+      "featuredArtistId": "0oJM3iJjMdzgsd4z5VHQvw",
+      "trackName": "When You Wasn't Famous - Professor Green Version",
+      "trackId": "1Wzx3Snr31fjeYGcZldPOk",
+      "preview": "https://p.scdn.co/mp3-preview/127328e4d8b1419a9d528327ab0927cdf5129c53?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fc82998e6ae527b97d1681160fda715ec7abb1e0",
+      "release_date": "2006-04-10"
+    },
+    {
+      "featuredArtist": "Mr Figit for Social Circles",
+      "featuredArtistId": "79Ew9HDx8VFAH1KHQ7lJwT",
+      "trackName": "Don't Mug Yourself - Mr Figit Remix",
+      "trackId": "1SNucBEQm3gaTQZUY2b7Ls",
+      "preview": "https://p.scdn.co/mp3-preview/9e1c08d206b47ba24ccd5a1b9d949f3e48d30d9e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/60ef54b80fd1ba0f5f3f32a846bc261ffc2c6d32",
+      "release_date": "2002-03-18"
+    },
+    {
+      "featuredArtist": "Jaykae",
+      "featuredArtistId": "1sLYZv95ZXwVfyGHan5w45",
+      "trackName": "Boys Will Be Boys",
+      "trackId": "2BC2LCEb6kunCI8LHJ7PG0",
+      "preview": "https://p.scdn.co/mp3-preview/c605fab5e3353d77103ed4031e5144c12dbacaa6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f8f680f8cfb6fb1522a542f0489d5e0df0143c62",
+      "release_date": "2018-03-07"
+    }
+  ]
+}

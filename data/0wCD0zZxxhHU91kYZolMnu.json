@@ -1,0 +1,23 @@
+{
+  "artistName": "Moeman",
+  "features": [
+    {
+      "featuredArtist": "Josylvio",
+      "featuredArtistId": "1wFoE1RwBMWoWkXcFrCgsx",
+      "trackName": "Op Je Hoede",
+      "trackId": "3sEwzhkrXeMqLVeIyTFHU7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b14ec893f4ac449b28cdc3c30540f2af5b1ae0bc",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Hef",
+      "featuredArtistId": "7ge3QfYPMTjDbMoVLuuIuJ",
+      "trackName": "Op Je Hoede",
+      "trackId": "3sEwzhkrXeMqLVeIyTFHU7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b14ec893f4ac449b28cdc3c30540f2af5b1ae0bc",
+      "release_date": "2018-02-23"
+    }
+  ]
+}

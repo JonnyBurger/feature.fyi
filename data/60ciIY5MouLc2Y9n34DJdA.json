@@ -1,0 +1,32 @@
+{
+  "artistName": "Ledisi",
+  "features": [
+    {
+      "featuredArtist": "BJ The Chicago Kid",
+      "featuredArtistId": "07d5etnpjriczFBB8pxmRe",
+      "trackName": "Us 4ever",
+      "trackId": "5KGgguehGU7VBZwGgzkPEm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6cf87c6f627070d9a1ac503e22f43d53d9311617",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "John Legend",
+      "featuredArtistId": "5y2Xq6xcjJb2jVM54GHK3t",
+      "trackName": "Give You More",
+      "trackId": "7xQ9yukfKZQHwqODOkLAdo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6cf87c6f627070d9a1ac503e22f43d53d9311617",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Jaheim",
+      "featuredArtistId": "4sbB4Yy6Qig51pKCIKSLw3",
+      "trackName": "Stay Together",
+      "trackId": "4Uc2Q7nw11hBn9a14yP1Un",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21b9854fbbe046994901922c28a7ed1b084ea3ed",
+      "release_date": "2011-01-01"
+    }
+  ]
+}

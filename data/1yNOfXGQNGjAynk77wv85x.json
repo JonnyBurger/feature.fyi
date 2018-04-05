@@ -1,0 +1,41 @@
+{
+  "artistName": "John Lee Hooker",
+  "features": [
+    {
+      "featuredArtist": "Carlos Santana",
+      "featuredArtistId": "7yGQgQiiKpg2k00JXf8hJk",
+      "trackName": "The Healer",
+      "trackId": "1QcI5NnITs6b8aDZzgsgbT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9c2fcc4151909207234a9924cd02aa500b65b801",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Bonnie Raitt",
+      "featuredArtistId": "4KDyYWR7IpxZ7xrdYbKrqY",
+      "trackName": "I'm In The Mood",
+      "trackId": "3fmRXpeTN44T5xhtrkPuFS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9c2fcc4151909207234a9924cd02aa500b65b801",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Canned Heat",
+      "featuredArtistId": "27a0GiCba9K9lnkKidroFU",
+      "trackName": "Burning Hell",
+      "trackId": "174aU2Ah7kmPR8I5IMooHG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a6eec4a82800a77c2f92d0be6b3fbbbdf94aa5d0",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Van Morrison",
+      "featuredArtistId": "44NX2ffIYHr6D4n7RaZF7A",
+      "trackName": "Never Get Out Of These Blues Alive",
+      "trackId": "3ar95Xzeb82k01HJZC4Yzj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a6eec4a82800a77c2f92d0be6b3fbbbdf94aa5d0",
+      "release_date": "2007-01-01"
+    }
+  ]
+}

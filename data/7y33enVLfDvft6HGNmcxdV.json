@@ -1,0 +1,23 @@
+{
+  "artistName": "Pedro Infante",
+  "features": [
+    {
+      "featuredArtist": "Banda Estrellas De Sinaloa De German Lizarraga",
+      "featuredArtistId": "2wWIGYR6YnkqEU2pkdnjnX",
+      "trackName": "Amorcito Corazón (feat. La Banda Estrellas de Sinaloa de Germán Lizarraga)",
+      "trackId": "3vBTJHM8HgV9ulGjxQ0Qjn",
+      "preview": "https://p.scdn.co/mp3-preview/89da7a43cb2f5f0a933401426eaf08c232a2aeae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e4129b2b56da760ed869158c73412ffa96a1891",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Banda Machos",
+      "featuredArtistId": "7MyUjj79oHy7I8RocrtzZ2",
+      "trackName": "Un mundo raro (feat. Banda Machos)",
+      "trackId": "5vW0F69c8AV0jrL385r3Ng",
+      "preview": "https://p.scdn.co/mp3-preview/49f1800f75c5afb774aaf7e86ea00bf66e5e4a0f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e4129b2b56da760ed869158c73412ffa96a1891",
+      "release_date": "2016-04-15"
+    }
+  ]
+}

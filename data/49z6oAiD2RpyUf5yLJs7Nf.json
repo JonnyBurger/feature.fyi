@@ -1,0 +1,59 @@
+{
+  "artistName": "Baaba Maal",
+  "features": [
+    {
+      "featuredArtist": "Mumford & Sons",
+      "featuredArtistId": "3gd8FJtBJtkRxdfbTu19U2",
+      "trackName": "There Will Be Time",
+      "trackId": "7Ddh0jbUW6q0O1Mt7IYEPX",
+      "preview": "https://p.scdn.co/mp3-preview/8ae3041493722a926043a0ba66fe09fbeea5c756?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/418415cd3b3ec785ad36b61a646398655b053d0d",
+      "release_date": "2017-07-14"
+    },
+    {
+      "featuredArtist": "Auntie Flo",
+      "featuredArtistId": "6XYOjW5wxf5V9hwAR58o4d",
+      "trackName": "Gilli Men (Auntie Flo Remix)",
+      "trackId": "1TurKmYgJJJVPELQ4GRt3o",
+      "preview": "https://p.scdn.co/mp3-preview/027bda0809eaddf6309be132b9370bbf098e057b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/418415cd3b3ec785ad36b61a646398655b053d0d",
+      "release_date": "2017-07-14"
+    },
+    {
+      "featuredArtist": "Henrik Schwarz",
+      "featuredArtistId": "1ooAqaFu4Ac3BO2HpL4V2R",
+      "trackName": "Fulani Rock - Henrik Schwarz Remix",
+      "trackId": "5Bjn2QnA1lliKz49O8gD0Q",
+      "preview": "https://p.scdn.co/mp3-preview/0416c686bde9e095e5576f5e309359fbab8439b4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d4493b26602cf0aaf0b303007c70986f6278e97c",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "DJ Spoko",
+      "featuredArtistId": "0YWWiXJnHZJrwI7v8libM2",
+      "trackName": "Fulani Rock - DJ Spoko Remix",
+      "trackId": "4HZHdxO5FFqLA2zGC1sBXn",
+      "preview": "https://p.scdn.co/mp3-preview/349880b356fda411d28f96b6183746a227010e20?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d4493b26602cf0aaf0b303007c70986f6278e97c",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "Daandé Lénol",
+      "featuredArtistId": "1hpbFVasOpNXvprvLOoC2V",
+      "trackName": "Delli Delli",
+      "trackId": "7vKnJCyQNeiJcvE5EYOMpH",
+      "preview": "https://p.scdn.co/mp3-preview/b07c9a277a29468b994720e57359687ff4d0b5f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/58d31a5159643a4bc9458d456bf0c08fa8a187ad",
+      "release_date": "2013-09-03"
+    },
+    {
+      "featuredArtist": "Brazilian Girls",
+      "featuredArtistId": "6HdYUuBeK3g2MA2wGVCDcn",
+      "trackName": "Television",
+      "trackId": "5SAeaevJdmGz8KiKYfZFJM",
+      "preview": "https://p.scdn.co/mp3-preview/4ebc1d503c38638878579f8c02eed8dafe0058b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29ac9c184091825e0aabb53b0ad13a8c123062f1",
+      "release_date": "2009-08-25"
+    }
+  ]
+}

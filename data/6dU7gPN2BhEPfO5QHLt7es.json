@@ -1,0 +1,23 @@
+{
+  "artistName": "Lorne Balfe",
+  "features": [
+    {
+      "featuredArtist": "Rupert Gregson-Williams",
+      "featuredArtistId": "2vuXYcTqreOLLnlKtMV5UG",
+      "trackName": "Bounden Duty",
+      "trackId": "3oEtKYKPY4WXVhCyT16aAM",
+      "preview": "https://p.scdn.co/mp3-preview/06682df21c5e491457a09dbd5f0f7ad28fae8446?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0133fd1cf822caa02080abf4a9d9347f1e27bcd5",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Hans Zimmer",
+      "featuredArtistId": "0YC192cP3KPCRWx8zr8MfZ",
+      "trackName": "Saints & Strangers",
+      "trackId": "6TirNklsMyUxc7tucOVJSc",
+      "preview": "https://p.scdn.co/mp3-preview/81de8dd72cf078da7f2e6709fb9f708b9e6addab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f39ea2e98e45d2b4ca97d903793c69b282d54ce",
+      "release_date": "2015-11-20"
+    }
+  ]
+}

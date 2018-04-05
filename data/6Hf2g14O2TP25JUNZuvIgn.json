@@ -1,0 +1,59 @@
+{
+  "artistName": "Alicia Villarreal",
+  "features": [
+    {
+      "featuredArtist": "María José",
+      "featuredArtistId": "1dJyh390MvfYPuNbhnbSDs",
+      "trackName": "Sentimientos",
+      "trackId": "5CsyU8PAMjmfw06ptVOGmf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea3d0bca12c3d3ea37331782694364c4dce9ce6d",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Ha*Ash",
+      "featuredArtistId": "5xd2Tg7Zo8755eCy8Gxkp8",
+      "trackName": "Te Aprovechas",
+      "trackId": "1J14GudZ3oj4mQTHZWTwaP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea3d0bca12c3d3ea37331782694364c4dce9ce6d",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "El Dasa",
+      "featuredArtistId": "1neZPoVY3mCc2mNMVXslA7",
+      "trackName": "Inmenso Amor",
+      "trackId": "0Y3NKXq8Iie1vv7oRSbOOq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea3d0bca12c3d3ea37331782694364c4dce9ce6d",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Río Roma",
+      "featuredArtistId": "2O3v9rCTzLhPFaGaAVgZLt",
+      "trackName": "Ya No Hay Amor",
+      "trackId": "4NlRZgO7KF0S3bVS9PrA1J",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea3d0bca12c3d3ea37331782694364c4dce9ce6d",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "David Bisbal",
+      "featuredArtistId": "5gOJTI4TusSENizxhcG7jB",
+      "trackName": "Tu Ausencia",
+      "trackId": "7KLP1oZqfsPE5ZQCoYIpph",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7b4dc1495ed9ea8c401549d80cbdcc55a11e6a74",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Pedro Fernández",
+      "featuredArtistId": "24dYJ8P3YuFihvMcElFUWh",
+      "trackName": "Acompañame",
+      "trackId": "0k7NhFDg1xaTEvHpZaIapl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7b4dc1495ed9ea8c401549d80cbdcc55a11e6a74",
+      "release_date": "2012-01-01"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "artistName": "Ebenezer",
+  "features": [
+    {
+      "featuredArtist": "Col3trane",
+      "featuredArtistId": "4hTL3jOgvZwOqegEZTOrCc",
+      "trackName": "Stats",
+      "trackId": "6xsg61nMbqctDRBs2l1J0K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52c35ce956ce0eb57294e3114ff9972c5f31996a",
+      "release_date": "2018-02-13"
+    },
+    {
+      "featuredArtist": "ADP",
+      "featuredArtistId": "0QAjuB54V29PdceQCHXq2i",
+      "trackName": "Catch Feelings",
+      "trackId": "7iIqBxeYrPON7JO5bQ8NM3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/52c35ce956ce0eb57294e3114ff9972c5f31996a",
+      "release_date": "2018-02-13"
+    },
+    {
+      "featuredArtist": "Duke Dumont",
+      "featuredArtistId": "61lyPtntblHJvA7FMMhi7E",
+      "trackName": "Inhale",
+      "trackId": "05bUAkDRK3xzvVkZlGU6ee",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3579aebef831bb2ef577bce2fd5ef8a64476f3aa",
+      "release_date": "2018-03-15"
+    },
+    {
+      "featuredArtist": "PnB Rock",
+      "featuredArtistId": "21WS9wngs9AqFckK7yYJPM",
+      "trackName": "Cliché (feat. PnB Rock)",
+      "trackId": "6zmkUi5IuI3DNNIvNJeAOs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f4f618ba8e25b8630bb938c4659c366002fa256a",
+      "release_date": "2017-11-10"
+    }
+  ]
+}

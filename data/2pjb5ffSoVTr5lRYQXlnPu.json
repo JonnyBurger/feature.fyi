@@ -1,0 +1,41 @@
+{
+  "artistName": "Alessandra Amoroso",
+  "features": [
+    {
+      "featuredArtist": "Mario Domm",
+      "featuredArtistId": "7tLRDdqaS3HlX9cLbpY3Hl",
+      "trackName": "Me siento sola",
+      "trackId": "18i2Jc48dAF5zQPWHsdJpb",
+      "preview": "https://p.scdn.co/mp3-preview/5b7c46b53d4aa28cc762b899dae8274a637cc06e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba08a989dca96f3f8ff79c92fbc81895e611531f",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "Diego Torres",
+      "featuredArtistId": "0LALueHEQunQ2d61fXGeZh",
+      "trackName": "Sin una Nube",
+      "trackId": "6kSBCmWGATZP5M2aa0wixa",
+      "preview": "https://p.scdn.co/mp3-preview/245ce3e785a5eb4b003ea0d7f703d9bb6a954076?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba08a989dca96f3f8ff79c92fbc81895e611531f",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "La Pina",
+      "featuredArtistId": "4rYRulP5rzQM1rzPXkW4Um",
+      "trackName": "Stupida - Remix by Emiliano Pepe",
+      "trackId": "4uhvEYBu9TuQ8YssltFrOe",
+      "preview": "https://p.scdn.co/mp3-preview/4c8a75f22559928fcc795394256ea844565baa3d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fca80ccd1f5be4b73253e80ab82cd983668580a3",
+      "release_date": "2009-05-21"
+    },
+    {
+      "featuredArtist": "Emiliano Pepe feat. La Pina",
+      "featuredArtistId": "3vwOvyrnxAxGvChKfN2KaO",
+      "trackName": "Stupida - Remix by Emiliano Pepe",
+      "trackId": "4uhvEYBu9TuQ8YssltFrOe",
+      "preview": "https://p.scdn.co/mp3-preview/4c8a75f22559928fcc795394256ea844565baa3d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fca80ccd1f5be4b73253e80ab82cd983668580a3",
+      "release_date": "2009-05-21"
+    }
+  ]
+}

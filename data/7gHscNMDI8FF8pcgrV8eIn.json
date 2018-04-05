@@ -1,0 +1,23 @@
+{
+  "artistName": "Matt Maeson",
+  "features": [
+    {
+      "featuredArtist": "Sweater Beats",
+      "featuredArtistId": "62Jfwxon19ZOT9eSL6bvtY",
+      "trackName": "Grave Digger - Sweater Beats Remix",
+      "trackId": "48yW6xl3eKrj7eCi0zfmun",
+      "preview": "https://p.scdn.co/mp3-preview/a58cf49e58250c8e6a32554dbbb612ca723bcdb1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/df10599fab584daf936c418671c4c479c16ee9b4",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Miike Snow",
+      "featuredArtistId": "4l1cKWYW591xnwEGxpUg3J",
+      "trackName": "Cringe - Miike Snow Remix",
+      "trackId": "0BfCGqOPWajSEtHCx21NfY",
+      "preview": "https://p.scdn.co/mp3-preview/97b6cc07ea4f96af77a7fb61cee61e31f8183aff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a51338e2b5af69ebc87a648dcbdc6f5c92c57fb",
+      "release_date": "2017-05-25"
+    }
+  ]
+}

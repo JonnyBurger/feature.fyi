@@ -1,0 +1,23 @@
+{
+  "artistName": "Mumford & Sons",
+  "features": [
+    {
+      "featuredArtist": "Jerry Douglas",
+      "featuredArtistId": "4YgACLaoEjPl4kVZ5WmBN9",
+      "trackName": "The Boxer",
+      "trackId": "5y9knUPPfqqv8YjUHv40Xt",
+      "preview": "https://p.scdn.co/mp3-preview/9f5a0b4cf9e8b459b212223086086d74fe277134?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/04649cefe495a6942ef84a4724aec44b01eb2fd7",
+      "release_date": "2012-12-03"
+    },
+    {
+      "featuredArtist": "Paul Simon",
+      "featuredArtistId": "2CvCyf1gEVhI0mX6aFXmVI",
+      "trackName": "The Boxer",
+      "trackId": "5y9knUPPfqqv8YjUHv40Xt",
+      "preview": "https://p.scdn.co/mp3-preview/9f5a0b4cf9e8b459b212223086086d74fe277134?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/04649cefe495a6942ef84a4724aec44b01eb2fd7",
+      "release_date": "2012-12-03"
+    }
+  ]
+}

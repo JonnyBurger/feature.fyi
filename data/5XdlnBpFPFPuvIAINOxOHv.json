@@ -1,0 +1,68 @@
+{
+  "artistName": "Prince Charlez",
+  "features": [
+    {
+      "featuredArtist": "Kiana Ledé",
+      "featuredArtistId": "7jZMxhsB8djyIbYmoiJSTs",
+      "trackName": "Big Spender",
+      "trackId": "3HwsoUklerIYdJzWYE0wfu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dc77793680e3a16e97d7edfda6a704726ee78f09",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Giorgio Moroder",
+      "featuredArtistId": "6jU2Tt13MmXYk0ZBv1KmfO",
+      "trackName": "Champagne, Secrets, & Chanel - Electric Bodega Remix",
+      "trackId": "4rjrVHMlv7X1TCkyYJsuiL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6f549a2c3e9993e3b9e289af3cd1d1bcab2cb3c6",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Phantoms",
+      "featuredArtistId": "1bJJlRHoc1UVeqzxcrPLIw",
+      "trackName": "Champagne, Secrets, & Chanel - Electric Bodega Remix",
+      "trackId": "4rjrVHMlv7X1TCkyYJsuiL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6f549a2c3e9993e3b9e289af3cd1d1bcab2cb3c6",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Electric Bodega",
+      "featuredArtistId": "0kCpE6IMUHnO63QWhxBXM3",
+      "trackName": "Champagne, Secrets, & Chanel - Electric Bodega Remix",
+      "trackId": "4rjrVHMlv7X1TCkyYJsuiL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6f549a2c3e9993e3b9e289af3cd1d1bcab2cb3c6",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "LondonBridge",
+      "featuredArtistId": "7pxo7T9W7Mg9LmOoaaiqFC",
+      "trackName": "Champagne, Secrets, & Chanel - LondonBridge Remix",
+      "trackId": "2ONCmdNoTzFnY0YIs6Rv9w",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6f549a2c3e9993e3b9e289af3cd1d1bcab2cb3c6",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Bobby Love",
+      "featuredArtistId": "15T7qZv0kn5j8U8juOxFm3",
+      "trackName": "Champagne, Secrets, & Chanel - Bobby Love Remix",
+      "trackId": "5ZHZ2LFCwZGPR3DTSuVQdp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6f549a2c3e9993e3b9e289af3cd1d1bcab2cb3c6",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Mary J. Blige",
+      "featuredArtistId": "1XkoF8ryArs86LZvFOkbyr",
+      "trackName": "Smile",
+      "trackId": "0gtG1sCGmMcKbIj5zvLsEQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d0806f3b259cf066e3f61dfa58183e460c7ea41e",
+      "release_date": "2017-04-28"
+    }
+  ]
+}

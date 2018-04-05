@@ -1,0 +1,41 @@
+{
+  "artistName": "Brando",
+  "features": [
+    {
+      "featuredArtist": "Loud Luxury",
+      "featuredArtistId": "6t1gpxYbY8OlLA7D2RiikQ",
+      "trackName": "Body - Mike Hawkins Remix",
+      "trackId": "1QiT7ohpBwBK3uAIHncFcn",
+      "preview": "https://p.scdn.co/mp3-preview/3a230f9276b42a7ef78273ec52ab31cb088b4a72?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/529bd7eed564e43d3d7d42c3fdbcd6483026501b",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Mike Hawkins",
+      "featuredArtistId": "0eW2N88UpBG0giW7LJOaY2",
+      "trackName": "Body - Mike Hawkins Remix",
+      "trackId": "1QiT7ohpBwBK3uAIHncFcn",
+      "preview": "https://p.scdn.co/mp3-preview/3a230f9276b42a7ef78273ec52ab31cb088b4a72?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/529bd7eed564e43d3d7d42c3fdbcd6483026501b",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Dirtcaps",
+      "featuredArtistId": "2PC3QVYzOPekKLIppjFUoi",
+      "trackName": "Body - Dirtcaps Remix",
+      "trackId": "7K6FtlfyFi5VCiCw6NA8Ij",
+      "preview": "https://p.scdn.co/mp3-preview/66a71e9c009a17ee04020d751b35514d64171b1e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c2dceefcdbb1e1a3d10415347891b65047013de0",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "VOS",
+      "featuredArtistId": "0EUSjCXKV1Cw1ochX2CKNY",
+      "trackName": "Welcome: Intro",
+      "trackId": "22KxAPGNdLn2KMbkt864fi",
+      "preview": "https://p.scdn.co/mp3-preview/eae31982323f40f6783f9c52689f035dc77ad794?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/47fe3e28836991da48aa201c24675ce1444dcf08",
+      "release_date": "2017-10-03"
+    }
+  ]
+}

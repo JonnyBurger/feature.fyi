@@ -1,0 +1,50 @@
+{
+  "artistName": "Gaby Moreno",
+  "features": [
+    {
+      "featuredArtist": "Jonny P",
+      "featuredArtistId": "3UtTKOuKlWMQPSCyIvCDl6",
+      "trackName": "Love Is Gone",
+      "trackId": "6J97CgItX7TA6mw1r9ptmb",
+      "preview": "https://p.scdn.co/mp3-preview/0bd3638e51f3f261ecb0119829473001b87c3a34?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/24a67a2eb35c0fc549c231e05522cd538e29efb1",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "Cast - Elena of Avalor",
+      "featuredArtistId": "2mxj8j8IW2pWq0QOi4WN7Y",
+      "trackName": "Elena of Avalor (Main Title) / My Time Mashup - From \"Elena of Avalor\"",
+      "trackId": "4FNoMwQTkWyVd28EimU00i",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3a2c24e8e1edb326de47c8c4d784bc84761c74c8",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Chris Thile",
+      "featuredArtistId": "1dyGPAYZZHHW6WIqwKN5QF",
+      "trackName": "Thank You, New York (feat. Gaby Moreno)",
+      "trackId": "7FJmLsTLtoKcRW28zrzVk3",
+      "preview": "https://p.scdn.co/mp3-preview/91d255bfe501a1d50526d61503931f0d393a5d69?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ca0d9588c78edb2a3038c4d5ddc129b378a7ff9",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Mike Garson",
+      "featuredArtistId": "1BKXfC7Sr2gN3PlWcPBzX8",
+      "trackName": "He Ain't Heavy, He's My Brother",
+      "trackId": "1KvmDP86bstQij1cqC95gx",
+      "preview": "https://p.scdn.co/mp3-preview/f66aaa6ccaa6be4b9d8109296e4c5e5f36370a88?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/06ce21fbb28fd2a8d479874e7896e25c4a14f5bf",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Ozomatli",
+      "featuredArtistId": "1An0HCtDktvCBDdFEu7HC0",
+      "trackName": "Solamente una Vez",
+      "trackId": "6SUX8bUvKWeiJJoWad3bVH",
+      "preview": "https://p.scdn.co/mp3-preview/a98d6cb78a77c1405c8ff954359d99b1b19dda93?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2ef27139466a65cbc08734a6b210717a1c51131c",
+      "release_date": "2017-05-05"
+    }
+  ]
+}

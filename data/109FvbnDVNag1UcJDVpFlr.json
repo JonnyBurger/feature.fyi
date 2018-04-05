@@ -1,0 +1,32 @@
+{
+  "artistName": "Brian Tyler",
+  "features": [
+    {
+      "featuredArtist": "Robert Lydecker",
+      "featuredArtistId": "1BxHOWQjjyVa9gLFZn3AfT",
+      "trackName": "xXx: The Return Of Xander Cage",
+      "trackId": "1SNa4SOq51KhTafcvl3wpX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9054a768b00611310d8b63c66c6c70774b634bf4",
+      "release_date": "2017-01-27"
+    },
+    {
+      "featuredArtist": "Keith Power",
+      "featuredArtistId": "1CY3FNIK3p5bqE0NYiFMi8",
+      "trackName": "Criminal (Madsonik Remix)",
+      "trackId": "1Ic22OpiVk97tnoGUtXYHH",
+      "preview": "https://p.scdn.co/mp3-preview/f145902af26b7bf628dc8448b1f71dc470fa20aa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f4eedb33313a851ba93ec9beb5cb27feb0200b07",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Madsonik",
+      "featuredArtistId": "23rBupd4zSysh9lAzsSFb0",
+      "trackName": "Criminal (Madsonik Remix)",
+      "trackId": "1Ic22OpiVk97tnoGUtXYHH",
+      "preview": "https://p.scdn.co/mp3-preview/f145902af26b7bf628dc8448b1f71dc470fa20aa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f4eedb33313a851ba93ec9beb5cb27feb0200b07",
+      "release_date": "2016-04-15"
+    }
+  ]
+}

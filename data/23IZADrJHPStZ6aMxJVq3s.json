@@ -1,0 +1,41 @@
+{
+  "artistName": "Jarryd James",
+  "features": [
+    {
+      "featuredArtist": "Broods",
+      "featuredArtistId": "5r5Va4lVQ1zjEfbJSrmCsS",
+      "trackName": "1000x",
+      "trackId": "0ZJAaMYZzmnHGA6msryIWf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0d88e90867399ff18b39d4169405151cd8d056c3",
+      "release_date": "2016-07-29"
+    },
+    {
+      "featuredArtist": "Raury",
+      "featuredArtistId": "2PU4qFehXQF7WnlFsJpBiJ",
+      "trackName": "Do You Remember",
+      "trackId": "1F2VIrr9oh7MwkI3NyLtHJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0d88e90867399ff18b39d4169405151cd8d056c3",
+      "release_date": "2016-07-29"
+    },
+    {
+      "featuredArtist": "Julia Stone",
+      "featuredArtistId": "4gZRt9wlRx1IsxT9glJdrc",
+      "trackName": "Regardless",
+      "trackId": "12Mi21AT3JnaK7hb9hLR7s",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/05368700ae970308060f2ab18e351944f1265a90",
+      "release_date": "2016-01-15"
+    },
+    {
+      "featuredArtist": "Grey",
+      "featuredArtistId": "4lDBihdpMlOalxy1jkUbPl",
+      "trackName": "Do You Remember - Grey Remix",
+      "trackId": "6yUMLNFJKoaX06tPnZ507m",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8f3ebd45d964cb37ebddd931b6976a791fe48017",
+      "release_date": "2017-03-03"
+    }
+  ]
+}

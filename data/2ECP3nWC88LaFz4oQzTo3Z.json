@@ -1,0 +1,41 @@
+{
+  "artistName": "Café Quijano",
+  "features": [
+    {
+      "featuredArtist": "Lila Downs",
+      "featuredArtistId": "3mXI2gpwWnNO9qbQG3n3EP",
+      "trackName": "Mexicana - feat. Lila Downs",
+      "trackId": "3h1kRirE8uQO7XKVwq39NP",
+      "preview": "https://p.scdn.co/mp3-preview/0c65cbb30b16ef7a2e805fbb3bf96f0eb59a388f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8e62382e9ee7441c0f4172ac47aec0f0fa0a424e",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Joaquín Sabina",
+      "featuredArtistId": "4aeIWo5CMF1uRmqgJdwkZW",
+      "trackName": "No tienes corazón (con Joaquín Sabina)",
+      "trackId": "6wLuMJ0xZhmPHVjmvvvQ1L",
+      "preview": "https://p.scdn.co/mp3-preview/7f4eb302e2405c40d0b1d93dc906699c7dbd4430?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db2fa7bc446f3770591cf12cafe2b7effeaff352",
+      "release_date": "2003-11-04"
+    },
+    {
+      "featuredArtist": "Olga Tanon",
+      "featuredArtistId": "4pv1Jo4PbYI8LMADJoTWjE",
+      "trackName": "Otra vez (que pena de mí) [con Olga Tañon]",
+      "trackId": "6E1kKgCJljnrxDYTs50ZiX",
+      "preview": "https://p.scdn.co/mp3-preview/e32081905319ddf9c5a594bdd9808a9bd264dea1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9c75af8193037af71c7bdf03366d2e85b3e82cce",
+      "release_date": "2001-05-25"
+    },
+    {
+      "featuredArtist": "Taburete",
+      "featuredArtistId": "40Ippe6JeofRURQ4nbF8DT",
+      "trackName": "Perdonarme (feat. Taburete)",
+      "trackId": "5UtF2wWiAwUbwRHQ4HCuft",
+      "preview": "https://p.scdn.co/mp3-preview/bafd3f8bd0fb1191bcba8804b9ea4340b35755b1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/12225272baea84bb132bf0eb14d1bd6468794c86",
+      "release_date": "2017-06-09"
+    }
+  ]
+}

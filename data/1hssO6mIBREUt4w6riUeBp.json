@@ -1,0 +1,23 @@
+{
+  "artistName": "Mascolo",
+  "features": [
+    {
+      "featuredArtist": "Whethan",
+      "featuredArtistId": "0vqJkZ0RpLZixt3lTmD8vP",
+      "trackName": "Good Nights (feat. Mascolo)",
+      "trackId": "36fRbuu9QkKVDR1j7jTI2U",
+      "preview": "https://p.scdn.co/mp3-preview/cb571f4c0831834badf10a00fd7cb963c42e6b92?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32c089b8588922c092c95de8ec7b55a2a66afa1b",
+      "release_date": "2017-06-27"
+    },
+    {
+      "featuredArtist": "StéLouse",
+      "featuredArtistId": "6kyUfziWP8ydAsKzyXsC83",
+      "trackName": "Shivers N Gold",
+      "trackId": "11CQ6phBesVT8PhsAgyVUn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e317ab0ec5b48cac170b72feefe2dc5cbc8a8e58",
+      "release_date": "2017-05-12"
+    }
+  ]
+}

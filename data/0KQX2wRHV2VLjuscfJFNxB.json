@@ -1,0 +1,59 @@
+{
+  "artistName": "BLØF",
+  "features": [
+    {
+      "featuredArtist": "Typhoon",
+      "featuredArtistId": "6kBlEsdNeNW2qnmW56xDhx",
+      "trackName": "Wereld Van Verschil",
+      "trackId": "2LHkfJQJ3GXzUHYMJbPhtO",
+      "preview": "https://p.scdn.co/mp3-preview/d2a37978af0bde8da91ffe3f5404bdaa59e8182a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d32b90daa4773fe9e26cc1765daea5f4509537ce",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "Geike Arnaert",
+      "featuredArtistId": "2ovvfw7LL1RAhlqyGLlvGC",
+      "trackName": "Zoutelande",
+      "trackId": "1dCaSvUR92UgJZwmNxnqZV",
+      "preview": "https://p.scdn.co/mp3-preview/0eacd95d186077885f9f82f66073ab5d57f5bcc7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d32b90daa4773fe9e26cc1765daea5f4509537ce",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "Counting Crows",
+      "featuredArtistId": "0vEsuISMWAKNctLlUAhSZC",
+      "trackName": "There Is a Light That Never Goes Out / Er Is Een Licht Dat Nooit Uit Zal Gaan (Live op Concert at SEA 2015) [feat. Counting Crows]",
+      "trackId": "7zAYenGNNQadHIm5JlIEu3",
+      "preview": "https://p.scdn.co/mp3-preview/7297d2eb4031c8b3483c5a1ca382971fa9f76d35?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/10d440e129a12c9e38977d29160827682b290608",
+      "release_date": "2015-11-23"
+    },
+    {
+      "featuredArtist": "Kenny B",
+      "featuredArtistId": "2NX52zvQRp4AxVzhp2cMiP",
+      "trackName": "Parijs (Live op Concert at SEA 2015) [feat. Kenny B]",
+      "trackId": "2jTI086OPbNLLbFaZAkC51",
+      "preview": "https://p.scdn.co/mp3-preview/783f31a7c7a76ed8d69ab81a759f908273a97004?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/10d440e129a12c9e38977d29160827682b290608",
+      "release_date": "2015-11-23"
+    },
+    {
+      "featuredArtist": "Krystl",
+      "featuredArtistId": "7eacKV5WqetV2IZTDrwKhi",
+      "trackName": "We Doen Wat We Kunnen - feat. Krystl",
+      "trackId": "5OpGWfylJyxk2OECKeLOoX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/215b4cd511e8083a9bc403501fe5394907bf96d0",
+      "release_date": "2011"
+    },
+    {
+      "featuredArtist": "Sabrina Starke",
+      "featuredArtistId": "1wTUsxee6HtnB6Z6QiUCub",
+      "trackName": "Meer Kan Het Niet Zijn - feat. Sabrina Starke",
+      "trackId": "5agACR7VMWT3H9u4jmIWUP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/215b4cd511e8083a9bc403501fe5394907bf96d0",
+      "release_date": "2011"
+    }
+  ]
+}

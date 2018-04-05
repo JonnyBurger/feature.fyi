@@ -1,0 +1,50 @@
+{
+  "artistName": "Apocalyptica",
+  "features": [
+    {
+      "featuredArtist": "Gavin Rossdale",
+      "featuredArtistId": "6lBam1B1t8wpnH7pJHWnj6",
+      "trackName": "End of Me",
+      "trackId": "259bQJ5D0zRjyafdqT4JRI",
+      "preview": "https://p.scdn.co/mp3-preview/b551784c64c795471463ca742099770cf9f3b494?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/906739982b4c7aba7098014a07cff0250e73a9a5",
+      "release_date": "2010-09-22"
+    },
+    {
+      "featuredArtist": "Brent Smith",
+      "featuredArtistId": "72WcGKyczmErhVnMOUi0aR",
+      "trackName": "Not Strong Enough",
+      "trackId": "3gHeMlxOUdheZ6KX3zIMA2",
+      "preview": "https://p.scdn.co/mp3-preview/27920272183f3c517ec829e887c6425b4f844815?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/906739982b4c7aba7098014a07cff0250e73a9a5",
+      "release_date": "2010-09-22"
+    },
+    {
+      "featuredArtist": "Dave Lombardo",
+      "featuredArtistId": "1OW9EXz8lzkvtX2tfnUI9r",
+      "trackName": "2010",
+      "trackId": "4FZBRA6PO18ZkgaohNHsSQ",
+      "preview": "https://p.scdn.co/mp3-preview/143eeaa5ba3bd3cd318eac8a8fd2ad8db07c3f63?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/906739982b4c7aba7098014a07cff0250e73a9a5",
+      "release_date": "2010-09-22"
+    },
+    {
+      "featuredArtist": "Lacey",
+      "featuredArtistId": "0k1S3jFBW4Fys7nY1GoH9s",
+      "trackName": "Broken Pieces",
+      "trackId": "1AHrhGOc0dmlqr6sTwrdlR",
+      "preview": "https://p.scdn.co/mp3-preview/503d5bd18d10ba607153d0366cd721df75fb8967?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/906739982b4c7aba7098014a07cff0250e73a9a5",
+      "release_date": "2010-09-22"
+    },
+    {
+      "featuredArtist": "Joseph Duplantier",
+      "featuredArtistId": "6r1NRLlpqJvOyOYDpTBKb7",
+      "trackName": "Bring Them to Light",
+      "trackId": "63vaFJz1V9nNhu0ydgmAiM",
+      "preview": "https://p.scdn.co/mp3-preview/961aa16e142a3a195eae8f968be24a17df190656?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/906739982b4c7aba7098014a07cff0250e73a9a5",
+      "release_date": "2010-09-22"
+    }
+  ]
+}

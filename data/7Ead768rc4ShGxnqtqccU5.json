@@ -1,0 +1,437 @@
+{
+  "artistName": "Sarah Brightman",
+  "features": [
+    {
+      "featuredArtist": "Joe Hisaishi",
+      "featuredArtistId": "7nzSoJISlVJsn7O0yTeMOB",
+      "trackName": "Stand Alone (Vocalise) - Vocalise",
+      "trackId": "5ToQPQ7szKuloyOzBu05hx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f9a24ab39e1cd72fccacc42c127aa17e6aaff42c",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Mario Frangoulis",
+      "featuredArtistId": "7vqRhkyO8VkiMu39kEHizD",
+      "trackName": "Carpe Diem",
+      "trackId": "34vs2youg8I9iOEakupVr2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f9a24ab39e1cd72fccacc42c127aa17e6aaff42c",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Andrea Bocelli",
+      "featuredArtistId": "3EA9hVIzKfFiQI0Kikz2wo",
+      "trackName": "Canto Della Terra",
+      "trackId": "5yz9r1Odr18AQeW191b8Nw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f9a24ab39e1cd72fccacc42c127aa17e6aaff42c",
+      "release_date": "2016-07-06"
+    },
+    {
+      "featuredArtist": "Paul Stanley",
+      "featuredArtistId": "5W0GCoUUwU3SF6qpJanlug",
+      "trackName": "I Will Be With You (Where The Lost Ones Go)",
+      "trackId": "6uiFBU982N6NxMa5oSUWjD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/91badcfe686eb0e8b9c139ecabcc7f75f7a369ac",
+      "release_date": "2014-03-19"
+    },
+    {
+      "featuredArtist": "Chris Thompson",
+      "featuredArtistId": "1NMrkFHZakHLMMD30DCmb3",
+      "trackName": "The Phantom Of The Opera - Live In Stephansdom, Vienna, Austria / 2008",
+      "trackId": "7pqfO8GcUNya3Jn515cEf5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/91badcfe686eb0e8b9c139ecabcc7f75f7a369ac",
+      "release_date": "2014-03-19"
+    },
+    {
+      "featuredArtist": "Frank Peterson",
+      "featuredArtistId": "4uOoGyFAz1G6w3vbmyidwk",
+      "trackName": "Gothica",
+      "trackId": "3NTEH3f6OdH6dHKaRNw6M1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Carsten Heusmann",
+      "featuredArtistId": "73I8sCVAFhrZ6vDeWsl0PO",
+      "trackName": "Gothica",
+      "trackId": "3NTEH3f6OdH6dHKaRNw6M1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Thomas Schwarz",
+      "featuredArtistId": "0TQLLQuHJroyqA7CrcPZBK",
+      "trackName": "Fleurs Du Mal",
+      "trackId": "06B2gQ5DHWcECKLtHX1Vtb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Matthias Meissner",
+      "featuredArtistId": "1HPHuFhHDNhcII5NjGyCRJ",
+      "trackName": "Fleurs Du Mal",
+      "trackId": "06B2gQ5DHWcECKLtHX1Vtb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Klaus Hirschburger",
+      "featuredArtistId": "2Hhx49bctzVeOYtJK1htFE",
+      "trackName": "Fleurs Du Mal",
+      "trackId": "06B2gQ5DHWcECKLtHX1Vtb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "M. Himmelsbach",
+      "featuredArtistId": "3AxF9FhRTOpD1Kpj5ydBLw",
+      "trackName": "Fleurs Du Mal",
+      "trackId": "06B2gQ5DHWcECKLtHX1Vtb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Thomas Stolle",
+      "featuredArtistId": "6D5Sbp6bxWI3qrNAGDOXZJ",
+      "trackName": "Symphony",
+      "trackId": "3BR2EMGfSGJhr0H1nbDinO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Stefanie Kloss",
+      "featuredArtistId": "2PcF3wbUVOOAR09ML4q6Pk",
+      "trackName": "Symphony",
+      "trackId": "3BR2EMGfSGJhr0H1nbDinO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Johannes Stolle",
+      "featuredArtistId": "6PArBeoxLI40GUk54HN5Yg",
+      "trackName": "Symphony",
+      "trackId": "3BR2EMGfSGJhr0H1nbDinO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Andreas Nowak",
+      "featuredArtistId": "2umeR4Kadyyc9lnDaXENBb",
+      "trackName": "Symphony",
+      "trackId": "3BR2EMGfSGJhr0H1nbDinO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Lucio Quarantotto",
+      "featuredArtistId": "1lMNYBJkRVsauCctH6Scvn",
+      "trackName": "Canto Della Terra",
+      "trackId": "4Fbij2TgwXoaw8fhVmZBUu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Francesco Sartori",
+      "featuredArtistId": "0VtVDsLKIsyiBa1DeAdKbU",
+      "trackName": "Canto Della Terra",
+      "trackId": "4Fbij2TgwXoaw8fhVmZBUu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Lisa Gerrard",
+      "featuredArtistId": "3C4MmUJYQN9svNdedAR2BK",
+      "trackName": "Sanvean",
+      "trackId": "1yeXWNRpKqGnNeP6imBdE8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Andrew Claxton",
+      "featuredArtistId": "5WA7sLJR1rloMXaUCCgWoO",
+      "trackName": "Sanvean",
+      "trackId": "1yeXWNRpKqGnNeP6imBdE8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Magnus Rostadmo",
+      "featuredArtistId": "1v6C3f5IyJrsyBuwTmqBd6",
+      "trackName": "I Will Be With You (Where The Lost Ones Go)",
+      "trackId": "3jRo4PiFEGhSPijyW6kFGN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Espen Lind",
+      "featuredArtistId": "1N5566ZYn9C7qtdIlEeHM8",
+      "trackName": "I Will Be With You (Where The Lost Ones Go)",
+      "trackId": "3jRo4PiFEGhSPijyW6kFGN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Amund Bjørklund",
+      "featuredArtistId": "2yx23j8I7pBd5t46WkSjhw",
+      "trackName": "I Will Be With You (Where The Lost Ones Go)",
+      "trackId": "3jRo4PiFEGhSPijyW6kFGN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Michael Soltau",
+      "featuredArtistId": "7ve5F0ThcESDvuqwMJtK7B",
+      "trackName": "Schwere Träume",
+      "trackId": "0THiZy0yDGghLhBEQlYHXh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Diane Warren",
+      "featuredArtistId": "3A2jfQOLgo5rV4GYFHbEA2",
+      "trackName": "Sarai Qui",
+      "trackId": "1EeOje26oVVKepCB0hSMMv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Phil Cordell",
+      "featuredArtistId": "2zpEwiWTHCGrgFlkiepARL",
+      "trackName": "Storia d'Amore",
+      "trackId": "6XLCkJAo9kI7wR61Uxga2H",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Pietro Mascagni",
+      "featuredArtistId": "3Z5fRknMBBNfCw6pkgR9S8",
+      "trackName": "Attesa",
+      "trackId": "3VfWcqamJhmPGOTZSGlyra",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Jorge Avendano Luhrs",
+      "featuredArtistId": "0OgNOl47E9icdlLpW9wcP0",
+      "trackName": "Pasión",
+      "trackId": "1Rh5lDV0hx7QgeZrUqYSQr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Stefan Pintev",
+      "featuredArtistId": "6Fa2rwFMoIC3UC3R9fSh5g",
+      "trackName": "Pasión",
+      "trackId": "1Rh5lDV0hx7QgeZrUqYSQr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "G-Strings",
+      "featuredArtistId": "7on5NNYtvFnKq3qbXS7K3L",
+      "trackName": "Pasión",
+      "trackId": "1Rh5lDV0hx7QgeZrUqYSQr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Gustav Holst",
+      "featuredArtistId": "5B7uXBeLc2TkR5Jk23qKIZ",
+      "trackName": "Running",
+      "trackId": "1CkKLnLhXSgiWMBzFLSMQF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Annie Skates",
+      "featuredArtistId": "6sc7uxEZ0A2dChXibUxfjb",
+      "trackName": "Running",
+      "trackId": "1CkKLnLhXSgiWMBzFLSMQF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Paul Bateman",
+      "featuredArtistId": "5V7l2e1oLF7oSzpvdaDenk",
+      "trackName": "Running",
+      "trackId": "1CkKLnLhXSgiWMBzFLSMQF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "Sir Adrian Boult",
+      "featuredArtistId": "3YjLvhwK5zw7N5S5oX0DVl",
+      "trackName": "Running",
+      "trackId": "1CkKLnLhXSgiWMBzFLSMQF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "George Frideric Handel",
+      "featuredArtistId": "1QL7yTHrdahRMpvNtn6rI2",
+      "trackName": "Sarahbande",
+      "trackId": "5BX1KiLfQ3LljIwteSJQSb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1108e54ce6eed59862a321b93c86741d0ab2eee0",
+      "release_date": "2008-04-14"
+    },
+    {
+      "featuredArtist": "David Sylvian",
+      "featuredArtistId": "2oyWkw7sq99yqj12hVUHtw",
+      "trackName": "Forbidden Colours",
+      "trackId": "0aeIytqqpFBem9tBem64eV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/37fd304ddc3a534add8e530488ee546f39f0219d",
+      "release_date": "2008-02-27"
+    },
+    {
+      "featuredArtist": "Ryuichi Sakamoto",
+      "featuredArtistId": "1tcgfoMTT1szjUeaikxRjA",
+      "trackName": "Forbidden Colours",
+      "trackId": "0aeIytqqpFBem9tBem64eV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/37fd304ddc3a534add8e530488ee546f39f0219d",
+      "release_date": "2008-02-27"
+    },
+    {
+      "featuredArtist": "Andrew Lloyd Webber",
+      "featuredArtistId": "4aP1lp10BRYZO658B2NwkG",
+      "trackName": "Probably On Thursday",
+      "trackId": "1sd8uMVS7Njip5DCaluHs2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae4b1336a824a4a368464106aaefca12c56533a9",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Cliff Richard",
+      "featuredArtistId": "2nvKpWcP8etYTq4JrRiUiy",
+      "trackName": "Only You",
+      "trackId": "4tyhd2iFydPLqFor2ylijh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae4b1336a824a4a368464106aaefca12c56533a9",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Michael Ball",
+      "featuredArtistId": "2MISUlPFrBMRlIcazbEOUI",
+      "trackName": "Seeing Is Believing",
+      "trackId": "44D2aSu6dVptbTq8lSJsOi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae4b1336a824a4a368464106aaefca12c56533a9",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Steve Barton",
+      "featuredArtistId": "1gEOIEK9jgpYvvG57BP0US",
+      "trackName": "Think Of Me",
+      "trackId": "0TIxP4zz4ZiG7pnZamEFVF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae4b1336a824a4a368464106aaefca12c56533a9",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "John Barrowman",
+      "featuredArtistId": "2J3lGdyoJc3p5ceinyjCFQ",
+      "trackName": "Too Much Love To Care",
+      "trackId": "4GnRmvK7fhgHJr1Q6ZBxEJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae4b1336a824a4a368464106aaefca12c56533a9",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Mike Batt",
+      "featuredArtistId": "1Y7Kk0qciwmTnseAmuJLI5",
+      "trackName": "The Phantom Of The Opera - From \"The Phantom Of The Opera\"",
+      "trackId": "3QaISoP7Uw0KiiG4KrX8xg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae4b1336a824a4a368464106aaefca12c56533a9",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Charles Hart",
+      "featuredArtistId": "6IFUhDPbZkH4ytZZDiu0x4",
+      "trackName": "The Phantom Of The Opera - From \"The Phantom Of The Opera\"",
+      "trackId": "3QaISoP7Uw0KiiG4KrX8xg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae4b1336a824a4a368464106aaefca12c56533a9",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Richard Stilgoe",
+      "featuredArtistId": "17peneSLV6CavfRbQEACCu",
+      "trackName": "The Phantom Of The Opera - From \"The Phantom Of The Opera\"",
+      "trackId": "3QaISoP7Uw0KiiG4KrX8xg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae4b1336a824a4a368464106aaefca12c56533a9",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Steve Harley",
+      "featuredArtistId": "3dS8rLINyM7EYuMXryXJym",
+      "trackName": "The Phantom Of The Opera - From \"The Phantom Of The Opera\"",
+      "trackId": "3QaISoP7Uw0KiiG4KrX8xg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae4b1336a824a4a368464106aaefca12c56533a9",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Tim Rice",
+      "featuredArtistId": "3KDpcZPHxvsaVk5PReoGqh",
+      "trackName": "Everything's Alright",
+      "trackId": "5SUodlHcvD6angmaKwOr4q",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae4b1336a824a4a368464106aaefca12c56533a9",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Gary Martin",
+      "featuredArtistId": "51yEr5ld6RSJaNzNazxCfF",
+      "trackName": "Everything's Alright",
+      "trackId": "5SUodlHcvD6angmaKwOr4q",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae4b1336a824a4a368464106aaefca12c56533a9",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Bogdan Kominowski",
+      "featuredArtistId": "6aajXttPfVOgld2CwuohZ8",
+      "trackName": "Everything's Alright",
+      "trackId": "5SUodlHcvD6angmaKwOr4q",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae4b1336a824a4a368464106aaefca12c56533a9",
+      "release_date": "2005-01-01"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "artistName": "Foy Vance",
+  "features": [
+    {
+      "featuredArtist": "Jon Plunkett",
+      "featuredArtistId": "0z27ykSoZjI7oRq4a6Jxp6",
+      "trackName": "The Wild Swans On The Lake (feat. Jon Plunkett) - Live",
+      "trackId": "7qb7PAS6pQAcCkQkFKlHee",
+      "preview": "https://p.scdn.co/mp3-preview/db5e2b4eb6df30987884a6b40b412dcf7530fa83?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8bd5ace034279640f8cc22560cfc6c69c5a2466d",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Bonnie Raitt",
+      "featuredArtistId": "4KDyYWR7IpxZ7xrdYbKrqY",
+      "trackName": "You And I",
+      "trackId": "4FmDlIzVjlkCqDRnndWoPB",
+      "preview": "https://p.scdn.co/mp3-preview/b50702b16aeeb6ffff750f145e549bf650ce8221?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5fa56c97e9398d3c506b002e5c6bb4b9e5aa9db8",
+      "release_date": "2013-08-26"
+    },
+    {
+      "featuredArtist": "Ed Sheeran",
+      "featuredArtistId": "6eUKZXaKkcviH0Ku9w2n3V",
+      "trackName": "Guiding Light",
+      "trackId": "3CJakOJKCXKbTgqf2anMd1",
+      "preview": "https://p.scdn.co/mp3-preview/50641bef25cd9ca0a12db44836680ab497c2f130?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5fa56c97e9398d3c506b002e5c6bb4b9e5aa9db8",
+      "release_date": "2013-08-26"
+    },
+    {
+      "featuredArtist": "Jam in the Van",
+      "featuredArtistId": "1CUVxHzaFXiqedLmCt1pKa",
+      "trackName": "Burden - Live In Long Beach, CA 2016",
+      "trackId": "6XR9vqjcXazaTzziH3kBrI",
+      "preview": "https://p.scdn.co/mp3-preview/94525b89a4ce31d204013b6039d9a9e2946ef789?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba24dd6fe22a1a0e1fac81d4b15caed469302ff8",
+      "release_date": "2017-02-25"
+    }
+  ]
+}

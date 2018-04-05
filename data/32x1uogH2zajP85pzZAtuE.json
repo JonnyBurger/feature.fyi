@@ -1,0 +1,50 @@
+{
+  "artistName": "Axel",
+  "features": [
+    {
+      "featuredArtist": "Becky G",
+      "featuredArtistId": "4obzFoKoKRHIphyHzJ35G3",
+      "trackName": "Que Nos Animemos",
+      "trackId": "7xCu3Oloyezfy9Wx9rUXRk",
+      "preview": "https://p.scdn.co/mp3-preview/6a14714d50592b8eeb87f794c2613939cc1f7c79?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/00a12c4a5ba042475dfb9f0de0ff9479ff1617dc",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "Dani Martín",
+      "featuredArtistId": "3AIPhNgeF9S1Kyg9Yy3UQW",
+      "trackName": "Siempre Estare",
+      "trackId": "0JkGnd0AZ7RcI6GOPycGoz",
+      "preview": "https://p.scdn.co/mp3-preview/a0d981cf8a8a9824e59cd8ca18dca5fc2f342b8c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8864c5751cb88e35729ac8a88dee8e63a6dc69c1",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Abel Pintos",
+      "featuredArtistId": "6HTUcOExehqydqa7C3usAa",
+      "trackName": "Somos Uno",
+      "trackId": "1dCkV4rLKQeRcdCrtdk8mM",
+      "preview": "https://p.scdn.co/mp3-preview/87edd84bccb14d98a3c38164f2eec28da1beee9d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8864c5751cb88e35729ac8a88dee8e63a6dc69c1",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Rodolfo Mederos",
+      "featuredArtistId": "6eas1NblWrY95XvCm0V3zC",
+      "trackName": "Eso - Versión Acústica",
+      "trackId": "5ITsiVWVaEpeTov8TkqLs8",
+      "preview": "https://p.scdn.co/mp3-preview/dfcc2c5d21e90d8d8cb8ba6e61081ec864ab36aa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8864c5751cb88e35729ac8a88dee8e63a6dc69c1",
+      "release_date": "2015-07-01"
+    },
+    {
+      "featuredArtist": "Bustamante",
+      "featuredArtistId": "1VfKauu6JYTUrApbJXU0zo",
+      "trackName": "Dos Hombres Y Un Destino - Duo Con Axel - Versión Estudio 2009",
+      "trackId": "219p9lv9DMvbstiMz5jZa7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2cc88aef60053005f0a736153b4163871c188a68",
+      "release_date": "2009-01-01"
+    }
+  ]
+}

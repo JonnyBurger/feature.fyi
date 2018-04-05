@@ -1,0 +1,41 @@
+{
+  "artistName": "Savas",
+  "features": [
+    {
+      "featuredArtist": "Sido",
+      "featuredArtistId": "4Yttlv9ndGjCDCVLqM7ACq",
+      "trackName": "Haste nich gesehen",
+      "trackId": "7qUVI7t6pQqqgECENQakMD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2991b8fb31e974b9c6dbe7f773e31754116c7bf4",
+      "release_date": "2017-09-29"
+    },
+    {
+      "featuredArtist": "Lakman",
+      "featuredArtistId": "7AzihkjJH5ZRRHdrdkg1Nu",
+      "trackName": "Neue Welt",
+      "trackId": "3PZALIvOHbLE8vseq0UNnL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2991b8fb31e974b9c6dbe7f773e31754116c7bf4",
+      "release_date": "2017-09-29"
+    },
+    {
+      "featuredArtist": "Nico Santos",
+      "featuredArtistId": "3A9B6c1CrSPauiOblw7pWz",
+      "trackName": "Haie",
+      "trackId": "6AGtEN7h5ZZcfc1XQkNkWl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2991b8fb31e974b9c6dbe7f773e31754116c7bf4",
+      "release_date": "2017-09-29"
+    },
+    {
+      "featuredArtist": "Marteria",
+      "featuredArtistId": "3nDNDLcZuSto4k9u4AbcLB",
+      "trackName": "Normale Leute",
+      "trackId": "30lrdO0iubobuGiktWAwwN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2991b8fb31e974b9c6dbe7f773e31754116c7bf4",
+      "release_date": "2017-09-29"
+    }
+  ]
+}

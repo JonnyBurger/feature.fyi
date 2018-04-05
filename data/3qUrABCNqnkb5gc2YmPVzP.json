@@ -1,0 +1,50 @@
+{
+  "artistName": "Ivan Ferreiro",
+  "features": [
+    {
+      "featuredArtist": "Maneiro",
+      "featuredArtistId": "4z1OkXADwK6m6VorBXeXYO",
+      "trackName": "Lágrimas Felices",
+      "trackId": "3VpvLN3DkiXKgiyUnaLa5K",
+      "preview": "https://p.scdn.co/mp3-preview/84180cc1f5244060e7fe14224f94437dc697e346?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/18a6b2e5c7365336df0a07e608b67d29c177d902",
+      "release_date": "2018-01-12"
+    },
+    {
+      "featuredArtist": "Dinero",
+      "featuredArtistId": "0BbxpmGk9tsClrLIyBjTPF",
+      "trackName": "Una noche más (con Iván Ferreiro)",
+      "trackId": "2UcBnGvtOvVSSkIaARX273",
+      "preview": "https://p.scdn.co/mp3-preview/ad0e5f694d8e1d283fd294cb52c72c5728091eb2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bbf767f0415e7bf9b57d19bcd5e3e25761c2460c",
+      "release_date": "2018-01-12"
+    },
+    {
+      "featuredArtist": "Love of Lesbian",
+      "featuredArtistId": "6VCoG3MG7ZKRxDjaYOvtrF",
+      "trackName": "Planeador",
+      "trackId": "6pzSF6TzDCVpqsFF28POEr",
+      "preview": "https://p.scdn.co/mp3-preview/3f6d01b18ef436ebcc561008bc90392289666aa3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e5b9119a3253c14e32e573cd94804b49b5cc3c7",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Molina Molina",
+      "featuredArtistId": "3Jxz3hRq1Ekh4GfoFntVA0",
+      "trackName": "He vuelto a casa",
+      "trackId": "5Aw6WiPxQBmiezFbpOllw5",
+      "preview": "https://p.scdn.co/mp3-preview/a1e7597528aae8447a3e3d2f1f91b99d6d377645?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ee42a652d60192d9ea6090b26f270d47c3011638",
+      "release_date": "2017-06-09"
+    },
+    {
+      "featuredArtist": "Julián Saldarriaga",
+      "featuredArtistId": "5tUErBBAtFpfCQdax64e01",
+      "trackName": "Gris acero sobre Buenos Aires",
+      "trackId": "5Dg7LK3T212HKAfWKmxh3t",
+      "preview": "https://p.scdn.co/mp3-preview/78b951e6e8dcca2ccd4efd7cb8633a966a4d79ad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01b7d8626ae29d179005f50a0bd242e61c801bdd",
+      "release_date": "2017-03-24"
+    }
+  ]
+}

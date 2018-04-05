@@ -1,0 +1,23 @@
+{
+  "artistName": "Bonzai",
+  "features": [
+    {
+      "featuredArtist": "Big Freedia",
+      "featuredArtistId": "2gyv1akuIB9fQvXoGSPaJr",
+      "trackName": "I Feel Alright - Big Freedia Remix",
+      "trackId": "6WMOols0TXj6AIjNEfEFwD",
+      "preview": "https://p.scdn.co/mp3-preview/9122e83e4d688e74f56f39b9c99a6937d0a6be85?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7471ac0022cac7aa4e1f68d13c055cc62feef5d6",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Mura Masa",
+      "featuredArtistId": "5Q81rlcTFh3k6DQJXPdsot",
+      "trackName": "I Feel Alright - Mura Masa Remix",
+      "trackId": "5x2Ys1b3kKH6xYTNntT67u",
+      "preview": "https://p.scdn.co/mp3-preview/fe4d6faa736b1e175a48451d2eaaadf23972ad99?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ad930eca9dc781d7fd82d7c9518f0734b14651a",
+      "release_date": "2017-08-11"
+    }
+  ]
+}

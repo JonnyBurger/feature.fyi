@@ -1,0 +1,50 @@
+{
+  "artistName": "Bruce Hornsby",
+  "features": [
+    {
+      "featuredArtist": "The Noisemakers",
+      "featuredArtistId": "4KnQnHkGqJBTlU7BJocKql",
+      "trackName": "Over The Rise",
+      "trackId": "3Ru2wmTcVxazEzBLo8gv6a",
+      "preview": "https://p.scdn.co/mp3-preview/9520c9cce0277207be1723009aaecfd3016dbd0a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3e332ff74ef65d762fafbcc8d9db0a2ddd0380a",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Christian McBride",
+      "featuredArtistId": "5ACxPOI9gR3l0cyy2dvkHv",
+      "trackName": "Questions and Answers",
+      "trackId": "5Pf8gF3TrUV5rbncthJhCg",
+      "preview": "https://p.scdn.co/mp3-preview/b8d8e2c90c0748c44cf99b37a86b3e5a7196a6d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8b761ce32b41db7221f80002c214f0295c20b56b",
+      "release_date": "2007-08-06"
+    },
+    {
+      "featuredArtist": "Jack DeJohnette",
+      "featuredArtistId": "7rDjbKTLlpNYJRWMm7QVxU",
+      "trackName": "Questions and Answers",
+      "trackId": "5Pf8gF3TrUV5rbncthJhCg",
+      "preview": "https://p.scdn.co/mp3-preview/b8d8e2c90c0748c44cf99b37a86b3e5a7196a6d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8b761ce32b41db7221f80002c214f0295c20b56b",
+      "release_date": "2007-08-06"
+    },
+    {
+      "featuredArtist": "Ricky Skaggs",
+      "featuredArtistId": "0uNC9XuH437fKCCMuzvSks",
+      "trackName": "The Dreaded Spoon",
+      "trackId": "4dz8ZsBRowcbA3RrCheIhY",
+      "preview": "https://p.scdn.co/mp3-preview/af9b24b7635ed7662e73ec0459bfa9588d7e681c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c98a62fe913ba3720f091e214e7e29b4d3e1d751",
+      "release_date": "2007-03-20"
+    },
+    {
+      "featuredArtist": "The Range",
+      "featuredArtistId": "4374DY0rBAi0pCV6F9i00Y",
+      "trackName": "A Night On the Town",
+      "trackId": "3gdHE3Aq0QUAXyNRxtr4uP",
+      "preview": "https://p.scdn.co/mp3-preview/6a05f9d8f4bd93ef06ac3ee3d5a3a5bcf75732e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cdead103972d4760d2041f3674388c7ce92902a1",
+      "release_date": "1990-06-17"
+    }
+  ]
+}

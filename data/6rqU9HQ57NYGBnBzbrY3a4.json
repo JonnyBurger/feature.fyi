@@ -1,0 +1,32 @@
+{
+  "artistName": "Paul Young",
+  "features": [
+    {
+      "featuredArtist": "Bob Clearmountain",
+      "featuredArtistId": "7iWYCIyfxwVyVae6u7qJaO",
+      "trackName": "Tularosa - 7\" Edit",
+      "trackId": "0eK6n9BEVeaXzZ6pSzpBiD",
+      "preview": "https://p.scdn.co/mp3-preview/1633451e5507af9c1a4c79b460ea850afb3acf74?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f69c79d21d6cf8934ebde73c07f2cba9c2df1129",
+      "release_date": "1997-05-19"
+    },
+    {
+      "featuredArtist": "Zucchero",
+      "featuredArtistId": "2KftmGt9sk1yLjsAoloC3M",
+      "trackName": "Senza una donna",
+      "trackId": "07Ik4vW0Bf50sGmD1aUSs6",
+      "preview": "https://p.scdn.co/mp3-preview/775858b3b0ee3563a1a2362d9761ed2fc6c4da91?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/05e7b4361325e5ddb6d3ccdaabcf44f14cfaef86",
+      "release_date": "2015-08-21"
+    },
+    {
+      "featuredArtist": "Masayuki Suzuki",
+      "featuredArtistId": "7HRu4Npbza5TBWn74TkAOF",
+      "trackName": "Come On In",
+      "trackId": "6lwujG3EkwcCPo6qlMx2vw",
+      "preview": "https://p.scdn.co/mp3-preview/d4d05d92427622c82c5d6d3217187e2b58275fe5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/05e7b4361325e5ddb6d3ccdaabcf44f14cfaef86",
+      "release_date": "2015-08-21"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "artistName": "Rancid",
+  "features": [
+    {
+      "featuredArtist": "Freddy Madball",
+      "featuredArtistId": "5RPuS3dpED4wFOPygmgd2R",
+      "trackName": "London Calling",
+      "trackId": "3MiQwd5xi0g0R2RleyerVX",
+      "preview": "https://p.scdn.co/mp3-preview/994a45243d0b7a6a030328583a4848882d234268?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0e1ec4f7ae7eeee5e1e66da22c68628fee235c71",
+      "release_date": "2009-12-01"
+    },
+    {
+      "featuredArtist": "Dr. Israel",
+      "featuredArtistId": "0isKHAkxWOxFgxplUBZY04",
+      "trackName": "Coppers - Brooklyn Version",
+      "trackId": "27PPhvPvhXo7cvC4fGTiy6",
+      "preview": "https://p.scdn.co/mp3-preview/1576aad3b8301e331108138be50351eef04d10b7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0a505f559f7fd8fa622e78e1733baaed26905a40",
+      "release_date": "2005-08-16"
+    }
+  ]
+}

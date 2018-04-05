@@ -1,0 +1,23 @@
+{
+  "artistName": "Beth Hart",
+  "features": [
+    {
+      "featuredArtist": "Joe Bonamassa",
+      "featuredArtistId": "2SNzxY1OsSCHBLVi77mpPQ",
+      "trackName": "Give It Everything You Got",
+      "trackId": "0GggMAm0oQANYQKa2p93ux",
+      "preview": "https://p.scdn.co/mp3-preview/2f3996b8d42be7e603818f3ee63531d5edf1cb13?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0329bf883f1c1d352f12c3b897c8577c6e561805",
+      "release_date": "2018-01-26"
+    },
+    {
+      "featuredArtist": "Jeff Beck",
+      "featuredArtistId": "0AD4odMWVQ2wUSlgxOB5Rl",
+      "trackName": "Tell Her You Belong To Me (feat. Jeff Beck) - Bonus Track",
+      "trackId": "6PNFXvtQYKrVRcVdanjnpk",
+      "preview": "https://p.scdn.co/mp3-preview/34a870a1b0356b9b1a396e320d2ae1bbf0568caf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/939e0d07e67c2bc65f81b47e9d57601b89e9ea89",
+      "release_date": "2016-10-14"
+    }
+  ]
+}

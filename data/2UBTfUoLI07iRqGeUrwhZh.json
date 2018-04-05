@@ -1,0 +1,50 @@
+{
+  "artistName": "Steve Earle",
+  "features": [
+    {
+      "featuredArtist": "Bill Monroe",
+      "featuredArtistId": "5CWbfANRpZbnxdstzcNg5H",
+      "trackName": "The Walls Of Time - Live",
+      "trackId": "5OsHGVY5KcQpSxibGwUBkZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/869bd188f8447b51105f552babcf475d7843e38c",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Emmylou Harris",
+      "featuredArtistId": "5s6TJEuHTr9GR894wc6VfP",
+      "trackName": "The Rivers Of Babylon - Live",
+      "trackId": "4hp5hnDBnTlx9UpPXS9fcO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/869bd188f8447b51105f552babcf475d7843e38c",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "The Dukes",
+      "featuredArtistId": "6ybQ0Udhor64IEv6D8cAex",
+      "trackName": "Regular Guy",
+      "trackId": "5SnjgpmFTln5OQwIxGvdDw",
+      "preview": "https://p.scdn.co/mp3-preview/123f1cad691c544ac4c8b98fe369f600af2b690e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1410db0c3b2265ed0e4936121f9c4c17f37aee34",
+      "release_date": "2013-06-19"
+    },
+    {
+      "featuredArtist": "Neil MacColl",
+      "featuredArtistId": "4YVNXbBYgTBcrSLuR8GmOr",
+      "trackName": "Johnny Come Lately",
+      "trackId": "6EavDlyXmr8exuqAqlmsNl",
+      "preview": "https://p.scdn.co/mp3-preview/e64cc4dc05f8bc0179e0eb94b811052701799ee2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1410db0c3b2265ed0e4936121f9c4c17f37aee34",
+      "release_date": "2013-06-19"
+    },
+    {
+      "featuredArtist": "The Pogues",
+      "featuredArtistId": "2wzMOQwNT6ZvVB4amvhFAH",
+      "trackName": "Johnny Come Lately",
+      "trackId": "6EavDlyXmr8exuqAqlmsNl",
+      "preview": "https://p.scdn.co/mp3-preview/e64cc4dc05f8bc0179e0eb94b811052701799ee2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1410db0c3b2265ed0e4936121f9c4c17f37aee34",
+      "release_date": "2013-06-19"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "artistName": "Joe Diffie",
+  "features": [
+    {
+      "featuredArtist": "Sammy Kershaw",
+      "featuredArtistId": "3tkZthBATD0S45hm1DmB2O",
+      "trackName": "All in the Same Boat",
+      "trackId": "4gA0r3SWF2MD4C9jtEp9Ag",
+      "preview": "https://p.scdn.co/mp3-preview/937c9636613eafbbc0f3a3b717ac991e5b1433c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e88aabb206d7371eee2599104a9fdb9c7243e909",
+      "release_date": "2013-05-28"
+    },
+    {
+      "featuredArtist": "Aaron Tippin",
+      "featuredArtistId": "4XwKU420OWVk38vz1KvH3M",
+      "trackName": "All in the Same Boat",
+      "trackId": "4gA0r3SWF2MD4C9jtEp9Ag",
+      "preview": "https://p.scdn.co/mp3-preview/937c9636613eafbbc0f3a3b717ac991e5b1433c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e88aabb206d7371eee2599104a9fdb9c7243e909",
+      "release_date": "2013-05-28"
+    },
+    {
+      "featuredArtist": "The Grascals",
+      "featuredArtistId": "7si9bAnJcqPoR30spNu9tm",
+      "trackName": "Rainin' On Her Rubber Dolly",
+      "trackId": "6WXi3qAMy7tZogGzqzKzr4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/470f6819ebe6cc49f18184be787a2d17cfeaa163",
+      "release_date": "2010-10-25"
+    },
+    {
+      "featuredArtist": "Peter Dula & The Rowers",
+      "featuredArtistId": "3FhmsWkPZ3jiAyBMargH11",
+      "trackName": "Long Gone Loner",
+      "trackId": "2uhkdksBcZDJzE3CPUCSJA",
+      "preview": "https://p.scdn.co/mp3-preview/c88d823504597b7ef0d41519165778234faf6075?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/444a93f30c8bd89395a10dd43a2e864452ff176e",
+      "release_date": "2009-07-04"
+    },
+    {
+      "featuredArtist": "Mary Chapin Carpenter",
+      "featuredArtistId": "0qAmeOULjwn04k6jMMeDyr",
+      "trackName": "Not Too Much To Ask",
+      "trackId": "60CwiVEOUfDQfAdHcvzAN7",
+      "preview": "https://p.scdn.co/mp3-preview/c9274fc5ceba32881c4303d39e6181d90764688d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8f9cf621e73f0b44bb04ba5f46ef2bf15a564b77",
+      "release_date": "1990"
+    },
+    {
+      "featuredArtist": "D-Thrash of the Jawga Boyz",
+      "featuredArtistId": "0L22EApZx29rje2sPdKltf",
+      "trackName": "Girl Ridin' Shotgun - feat. D-Thrash of Jawga Boyz",
+      "trackId": "6s8TySNptX1nFZgby5hTar",
+      "preview": "https://p.scdn.co/mp3-preview/1a578faad8461b5f0bec2eb10701d507591128d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fdff0c6a52a89ef00f931a775da4615f28101ce4",
+      "release_date": "2013-06-04"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "artistName": "Jenn Johnson",
+  "features": [
+    {
+      "featuredArtist": "Brian Johnson",
+      "featuredArtistId": "7qTSoObqlJkIybERfumbQ9",
+      "trackName": "Mention of Your Name",
+      "trackId": "54dz3QUdnaGvmGE1s1xVi5",
+      "preview": "https://p.scdn.co/mp3-preview/fa9474f6ae9b568d08b96d66cde5145b2d20bae7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/923c2f3e2665c7a68bcdd66c0d2af694cfcd14f4",
+      "release_date": "2017-01-27"
+    },
+    {
+      "featuredArtist": "Bethel Music",
+      "featuredArtistId": "26T4yOaOoFJvUvxR87Y9HO",
+      "trackName": "For the One (Live)",
+      "trackId": "6eS4SrEfNAQjFi7ETrw1eW",
+      "preview": "https://p.scdn.co/mp3-preview/ece0b231dd46f4d89cdfe42495598637613d94cf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/39954674cff26ffb8ee04a71aa8c8435733c9b28",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Chris Cashmere",
+      "featuredArtistId": "2ptCIbKEQ66MRM3CSEFn5a",
+      "trackName": "Ghost (feat. Jenn Johnson)",
+      "trackId": "5BMGFGbIkQh3rEgGBoUudm",
+      "preview": "https://p.scdn.co/mp3-preview/bb7472436eebf6ded8fbd8afa5110b989ec2a17e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bb6ea8c538d880eadfab5e92bbdb39beea9bc46b",
+      "release_date": "2016-08-19"
+    },
+    {
+      "featuredArtist": "Sean Feucht",
+      "featuredArtistId": "3DJuBJtjHdjAXlpIZCltTR",
+      "trackName": "Awaken Love (Remixed) [feat. Jenn Johnson]",
+      "trackId": "0oxlp2zUuqLoygXgk9kCNq",
+      "preview": "https://p.scdn.co/mp3-preview/aa038d953126c40571f17fa4e3c9b74bd8319982?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b52512c3872de894f724cddec44fc6266e02750",
+      "release_date": "2016-05-17"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "artistName": "Dani Russo",
+  "features": [
+    {
+      "featuredArtist": "Mc Brankim",
+      "featuredArtistId": "3yCpriLKvXrAk6ewMiJjHT",
+      "trackName": "Culpa da Cachaça",
+      "trackId": "2uyZWAmzoj3rPmYDo4E8gC",
+      "preview": "https://p.scdn.co/mp3-preview/b022c5710973f4a312df7599d565c06ad3f2765c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/17d1f411b69519226985650dd9de1c45a8f69222",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Mc Pocahontas",
+      "featuredArtistId": "56yC2Kq7eS346CgJpld4Bc",
+      "trackName": "Oh Quem Voltou",
+      "trackId": "5d4wIiSKzRqhJwip4co3Wa",
+      "preview": "https://p.scdn.co/mp3-preview/052308a0a8bd9a0978caa0a8bc86e3622c1ac88c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d9df077885932b7eed732205a48c5296b79c50ef",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Naiara Azevedo",
+      "featuredArtistId": "0jD7VeE1m2SdHbOWeCtB9l",
+      "trackName": "Oh Quem Voltou",
+      "trackId": "5d4wIiSKzRqhJwip4co3Wa",
+      "preview": "https://p.scdn.co/mp3-preview/052308a0a8bd9a0978caa0a8bc86e3622c1ac88c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d9df077885932b7eed732205a48c5296b79c50ef",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Mitico DJ",
+      "featuredArtistId": "61XnjVwFLWusIb5USLymCm",
+      "trackName": "Ressacado",
+      "trackId": "3KoEQvOfT76V2zqUWHdzXs",
+      "preview": "https://p.scdn.co/mp3-preview/9f23598c19007ef5c21ca88fc25453fd114a6059?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/67602d52d61ac21ffaf87dc98cfc57a6aae3b300",
+      "release_date": "2017-07-07"
+    },
+    {
+      "featuredArtist": "Louco de Refri",
+      "featuredArtistId": "0w7Ps5v2jjZvAtwDFMdOFu",
+      "trackName": "Ressacado",
+      "trackId": "3KoEQvOfT76V2zqUWHdzXs",
+      "preview": "https://p.scdn.co/mp3-preview/9f23598c19007ef5c21ca88fc25453fd114a6059?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/67602d52d61ac21ffaf87dc98cfc57a6aae3b300",
+      "release_date": "2017-07-07"
+    }
+  ]
+}

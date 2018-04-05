@@ -1,0 +1,59 @@
+{
+  "artistName": "Ghost Loft",
+  "features": [
+    {
+      "featuredArtist": "R3HAB",
+      "featuredArtistId": "6cEuCEZu7PAE9ZSzLLc2oQ",
+      "trackName": "Icarus - Ghost Loft Remix",
+      "trackId": "4tNaC9xdo65pgl1QAaygA4",
+      "preview": "https://p.scdn.co/mp3-preview/6bd92d6a6c925a201149effb884db591553172a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8787ebc130165bacdbc5d4bbaba209c38b0bb911",
+      "release_date": "2016-12-02"
+    },
+    {
+      "featuredArtist": "Tube & Berger",
+      "featuredArtistId": "32wcuqRxZuBY5HbH1bWa8h",
+      "trackName": "Set Free",
+      "trackId": "4e6GZYJ3HSYSnaCY5HIhLH",
+      "preview": "https://p.scdn.co/mp3-preview/0b70a030045766fa2abd211f09bc540e6e52cfaf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0baa478ae14e9eb45ae8b86d992656c045681d96",
+      "release_date": "2016-11-04"
+    },
+    {
+      "featuredArtist": "Tube",
+      "featuredArtistId": "1moPM6jVWt5i0Vt4mDH5IA",
+      "trackName": "Set Free (feat. Ghost Loft)",
+      "trackId": "7MCXVd5bOEGfoxMtNyOTNo",
+      "preview": "https://p.scdn.co/mp3-preview/c61abcacfa75635dc102b19b5ab742c17383b489?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0325c98074094bf478f31f4a471bd12d0ca44648",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "BERGER",
+      "featuredArtistId": "6xnPEtIc0XqFbzmQ8l0bk0",
+      "trackName": "Set Free (feat. Ghost Loft)",
+      "trackId": "7MCXVd5bOEGfoxMtNyOTNo",
+      "preview": "https://p.scdn.co/mp3-preview/c61abcacfa75635dc102b19b5ab742c17383b489?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0325c98074094bf478f31f4a471bd12d0ca44648",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Janine",
+      "featuredArtistId": "4k3yrCOPB5wp2ne8R9MQoM",
+      "trackName": "Hold Me (feat. Tunji Ige) - Ghost Loft Remix",
+      "trackId": "7LN4RtxyCJSQOQdGR05iAj",
+      "preview": "https://p.scdn.co/mp3-preview/031bd2ada8a0891e7dbcece899264f12cc56e938?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3ba781d8a13c1b930e6583996e19462599fde2a7",
+      "release_date": "2015-03-27"
+    },
+    {
+      "featuredArtist": "Tunji Ige",
+      "featuredArtistId": "5fW1JQP4DfDyNqvYQ5m4Ju",
+      "trackName": "Hold Me (feat. Tunji Ige) - Ghost Loft Remix",
+      "trackId": "7LN4RtxyCJSQOQdGR05iAj",
+      "preview": "https://p.scdn.co/mp3-preview/031bd2ada8a0891e7dbcece899264f12cc56e938?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3ba781d8a13c1b930e6583996e19462599fde2a7",
+      "release_date": "2015-03-27"
+    }
+  ]
+}

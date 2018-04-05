@@ -1,0 +1,32 @@
+{
+  "artistName": "Los Panchos",
+  "features": [
+    {
+      "featuredArtist": "Johnny Albino",
+      "featuredArtistId": "7gVq4ocJIQexuLWDDydXVG",
+      "trackName": "Medley: Rayito de luna / Sin ti / Sin un amor y Poquita fe - En Vivo",
+      "trackId": "1m6t9hhqycAnaK1IQwudGe",
+      "preview": "https://p.scdn.co/mp3-preview/d4c078e8c5d6b736bc529e464b07da82a818bbd4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29ceb1cb71a9e1d40871099bc91080a6eef6d6de",
+      "release_date": "2017-08-31"
+    },
+    {
+      "featuredArtist": "Gigliola Cinquetti",
+      "featuredArtistId": "6QxfNzuPwvVnH5n1U24Cmh",
+      "trackName": "María Elena",
+      "trackId": "67mmb5N3LOHon1LD9blvfp",
+      "preview": "https://p.scdn.co/mp3-preview/8a03e1cd243fa6d04495ac8e96311f1d12c49ccc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e53e45c0819e892e4be50ef9758c1694ee72108f",
+      "release_date": "2017-01-01"
+    },
+    {
+      "featuredArtist": "Eydie Gormé",
+      "featuredArtistId": "6HnHBbeScFiQKXt3sUQA3Z",
+      "trackName": "Sabor a Mí",
+      "trackId": "4iPBbu18LTpiumzK9Elm55",
+      "preview": "https://p.scdn.co/mp3-preview/9d38b34edf4e200e203c40acab456ebc5366dba7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4c813b06c72b6b623d35796f9478b61e4aafd9e5",
+      "release_date": "2015-09-20"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "artistName": "Clint Black",
+  "features": [
+    {
+      "featuredArtist": "Wynonna",
+      "featuredArtistId": "4yiXkMbxDIZ3jgEG89NSC1",
+      "trackName": "A Bad Goodbye",
+      "trackId": "57LjDVI3vRp4pHFBLt4wOg",
+      "preview": "https://p.scdn.co/mp3-preview/cc654e806bd881127d425e159f0359f2b63237a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a5ca729b9e82b2875be950cdad1d668c4aa9ef2",
+      "release_date": "2003-07-01"
+    },
+    {
+      "featuredArtist": "Bruce Hornsby",
+      "featuredArtistId": "2iM28IgKg89v1o7BTQAVPo",
+      "trackName": "Dixie Lullaby",
+      "trackId": "568pOuEbeBoQWx8bTwFGlW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3a5ca729b9e82b2875be950cdad1d668c4aa9ef2",
+      "release_date": "2003-07-01"
+    },
+    {
+      "featuredArtist": "Steve Wariner",
+      "featuredArtistId": "45S8rtgQSxj1a0tzCNhSeD",
+      "trackName": "Been There",
+      "trackId": "3JEdlHWW9Y4X4hzs9yXwgc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3a5ca729b9e82b2875be950cdad1d668c4aa9ef2",
+      "release_date": "2003-07-01"
+    },
+    {
+      "featuredArtist": "Lisa Hartman Black",
+      "featuredArtistId": "6vSo8MOzgy8fBHPyFuq0Iv",
+      "trackName": "When I Said I Do",
+      "trackId": "6NBaOUmCVpNAaqBDFiJkCn",
+      "preview": "https://p.scdn.co/mp3-preview/6c5cc75f3b1a25fafe0b0698d413ef40ba6b7493?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c5e9865abaf11e92ca4693a2894490e84b509672",
+      "release_date": "2001-11-19"
+    },
+    {
+      "featuredArtist": "Martina McBride",
+      "featuredArtistId": "3P33qFNGBVXl86yQYWspFj",
+      "trackName": "Still Holding On",
+      "trackId": "48oA7dGIv1NB8m2vqjtLFk",
+      "preview": "https://p.scdn.co/mp3-preview/a682e52243d8a08954c303730703422d9023b2f3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c5e9865abaf11e92ca4693a2894490e84b509672",
+      "release_date": "2001-11-19"
+    },
+    {
+      "featuredArtist": "Kenny Loggins",
+      "featuredArtistId": "3Y3xIwWyq5wnNHPp5gPjOW",
+      "trackName": "Harmony",
+      "trackId": "4IPMRgkJnA3KU178VfQDpv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c0f1209f30f3996252836199c45037a41ea14771",
+      "release_date": "1999-10-18"
+    },
+    {
+      "featuredArtist": "Alison Krauss",
+      "featuredArtistId": "5J6L7N6B4nI1M5cwa29mQG",
+      "trackName": "Our Kind Of Love",
+      "trackId": "6U7V4l1ZJy0yOVjuaoR3tJ",
+      "preview": "https://p.scdn.co/mp3-preview/dc3d855a0a2d4e9032e6d98bd9d68bb7ad1e4abd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/48d4a73b78ada3c6659075bb9041bbf048fb522e",
+      "release_date": "1997-04-09"
+    },
+    {
+      "featuredArtist": "Union Station",
+      "featuredArtistId": "1XyuXTkT5JfOMZ3Vy25Act",
+      "trackName": "Our Kind Of Love",
+      "trackId": "6U7V4l1ZJy0yOVjuaoR3tJ",
+      "preview": "https://p.scdn.co/mp3-preview/dc3d855a0a2d4e9032e6d98bd9d68bb7ad1e4abd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/48d4a73b78ada3c6659075bb9041bbf048fb522e",
+      "release_date": "1997-04-09"
+    }
+  ]
+}

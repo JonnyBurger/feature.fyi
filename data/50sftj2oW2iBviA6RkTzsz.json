@@ -1,0 +1,50 @@
+{
+  "artistName": "Silva",
+  "features": [
+    {
+      "featuredArtist": "Marisa Monte",
+      "featuredArtistId": "0rSTXALHu0EKAawPLBdODH",
+      "trackName": "Noturna (Nada de Novo na Noite)",
+      "trackId": "48yhqqRgV62cA90qyeq1cM",
+      "preview": "https://p.scdn.co/mp3-preview/bd428976798ef594963a71f3205fc9adc0dcc628?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5cda9c062fa57b1cd6ba6fc0dc70364453ccbd40",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Don L",
+      "featuredArtistId": "6U98XWjrUPnPtPBjEprDmu",
+      "trackName": "Universo - Ao Vivo",
+      "trackId": "7lk16Jt623jcM5FgUSMz9l",
+      "preview": "https://p.scdn.co/mp3-preview/59feb383ecd09075b2e81d05f4f6f95aa0c7b209?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a188adfa0681d39640a83ab80cfda85ee3719eeb",
+      "release_date": "2015-09-11"
+    },
+    {
+      "featuredArtist": "Lulu Santos",
+      "featuredArtistId": "0A1oy7PC7fdzURgaLaWkL1",
+      "trackName": "Noite - Ao Vivo",
+      "trackId": "0pEN17wEkeueKcwhxllcVn",
+      "preview": "https://p.scdn.co/mp3-preview/11852851d2ea6975e4c50bf7aa2bd73e63d0ccf3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a188adfa0681d39640a83ab80cfda85ee3719eeb",
+      "release_date": "2015-09-11"
+    },
+    {
+      "featuredArtist": "Fernanda Takai",
+      "featuredArtistId": "62Yab84ZgQW4k4nOUPqIxE",
+      "trackName": "Okinawa - Ao Vivo",
+      "trackId": "6TpGHz3bhbUSexlI427dxy",
+      "preview": "https://p.scdn.co/mp3-preview/de1c6d5b7304b0c04ca27ace1e3d1c26ddd4d229?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a188adfa0681d39640a83ab80cfda85ee3719eeb",
+      "release_date": "2015-09-11"
+    },
+    {
+      "featuredArtist": "RunTown",
+      "featuredArtistId": "6mMtnxEQkYoY5FfJIQ9Rhb",
+      "trackName": "Bend Down Pause - Silva Remix",
+      "trackId": "0AUeoPmobV08MJkFMZn1bb",
+      "preview": "https://p.scdn.co/mp3-preview/bfa841f3d7fa067d9423555b9955e70309ceabe4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dc659804cf63b89be7d6ba7aff3ff1708e3b6350",
+      "release_date": "2016-03-13"
+    }
+  ]
+}

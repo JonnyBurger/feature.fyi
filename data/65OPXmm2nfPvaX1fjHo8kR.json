@@ -1,0 +1,41 @@
+{
+  "artistName": "Uno Svenningsson",
+  "features": [
+    {
+      "featuredArtist": "Freda'",
+      "featuredArtistId": "5noCHaZ4YGlS6K11VB6FYH",
+      "trackName": "Ett slag för dig",
+      "trackId": "1vD50sNMD83XxIGSjAx8H7",
+      "preview": "https://p.scdn.co/mp3-preview/5826b3adc8c1039b8e6dd3d7239689a612b79ca9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac2d2fa88886c22495427df1094b88568e85e605",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Irma Schultz-Keller",
+      "featuredArtistId": "0HrsGmEpDafnFtECrKPyqd",
+      "trackName": "Viskar en bön",
+      "trackId": "5qIIgtOkUBhMScRtWGhvHC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5f235029b474d9032eb926927cbdd7560776aaf1",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Patrik Isaksson",
+      "featuredArtistId": "79XSzUC0yAPPoxiuss55qC",
+      "trackName": "Håll mitt hjärta hårt",
+      "trackId": "2WJ1wJj3e0rTdUjN3JNjRu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c0e9e33a4bdcc8092e7e33e6cb1b542aeec1040f",
+      "release_date": "2016-02-15"
+    },
+    {
+      "featuredArtist": "Tommy Nilsson",
+      "featuredArtistId": "0PnNyzP7CgoDXZHr6cWOyq",
+      "trackName": "Håll mitt hjärta hårt",
+      "trackId": "2WJ1wJj3e0rTdUjN3JNjRu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c0e9e33a4bdcc8092e7e33e6cb1b542aeec1040f",
+      "release_date": "2016-02-15"
+    }
+  ]
+}

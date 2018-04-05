@@ -1,0 +1,23 @@
+{
+  "artistName": "Mayer Hawthorne",
+  "features": [
+    {
+      "featuredArtist": "Kendrick Lamar",
+      "featuredArtistId": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "trackName": "Crime",
+      "trackId": "34xSlAT7cOUZj5B6bdXgXQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/70905b640f6e3809130642a11160e41c73e1633f",
+      "release_date": "2013-07-16"
+    },
+    {
+      "featuredArtist": "Snoop Dogg",
+      "featuredArtistId": "7hJcb9fa4alzcOq3EaNPoG",
+      "trackName": "Can't Stop",
+      "trackId": "2EBChjghGTH0bzeFhpBHHs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea282a1779161dd557843f36ef3b4129bdd71deb",
+      "release_date": "2011-01-01"
+    }
+  ]
+}

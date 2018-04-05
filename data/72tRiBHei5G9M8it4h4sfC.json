@@ -1,0 +1,419 @@
+{
+  "artistName": "Oddisee",
+  "features": [
+    {
+      "featuredArtist": "Good Compny",
+      "featuredArtistId": "0IIPYpobaexGlUiPPZf6nE",
+      "trackName": "Digging Deep - Live",
+      "trackId": "7468fnabqJTO8Tcu8pGz5M",
+      "preview": "https://p.scdn.co/mp3-preview/9c328243cee9feb2a527923a1d851581811ca09c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b3b494bb9f6e02d38fb62d07d4efe53aa5f124ab",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Toine",
+      "featuredArtistId": "1OLKa1kWf1khrbcAaXAD0B",
+      "trackName": "NNGE",
+      "trackId": "2MZgseFDCmodSwid7U28rQ",
+      "preview": "https://p.scdn.co/mp3-preview/0413f41db48459fba468a37240bca70042ec0b7a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1e7e3cb976ce71494b900735d2e5dddb7f7a5ad2",
+      "release_date": "2017-02-24"
+    },
+    {
+      "featuredArtist": "Olivier St.Louis",
+      "featuredArtistId": "0HHMWJfJPFFuZqnv2rSsyI",
+      "trackName": "Rights & Wrongs",
+      "trackId": "2n5A1FNTftsrrpu1KifXT3",
+      "preview": "https://p.scdn.co/mp3-preview/ad2e83b95fcd9136a7071aaf4e6abca2e07835a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1e7e3cb976ce71494b900735d2e5dddb7f7a5ad2",
+      "release_date": "2017-02-24"
+    },
+    {
+      "featuredArtist": "Maimouna Youseff",
+      "featuredArtistId": "7pvT7txCJ9qLJnoDaC8sPp",
+      "trackName": "Contradiction's Maze (feat. Maimouna Youseff)",
+      "trackId": "2ifZGBMvT6OcSgnHLecqNn",
+      "preview": "https://p.scdn.co/mp3-preview/fd3183c22c4e9e9ab6020b037786bd5bf9b1c013?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eede5d82ede9031a91959d9ba465cea1f64c438c",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Nick Hakim",
+      "featuredArtistId": "1Goe2NezNnym45kco2xTk6",
+      "trackName": "Book Covers (feat. Nick Hakim)",
+      "trackId": "4icTZVry9JBallTCXZzaue",
+      "preview": "https://p.scdn.co/mp3-preview/886c32634b44525cc20c539828b4f3c1ffb05e10?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eede5d82ede9031a91959d9ba465cea1f64c438c",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Gary Clark Jr.",
+      "featuredArtistId": "01aC2ikO4Xgb2LUpf9JfKp",
+      "trackName": "What They'll Say (feat. Gary Clark Jr, Maimouna Youseff)",
+      "trackId": "6AIHFeY0HpUAmFbv1XBj8Y",
+      "preview": "https://p.scdn.co/mp3-preview/e7baf94bfe073236d7bfa6732ad94808092a5f82?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eede5d82ede9031a91959d9ba465cea1f64c438c",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Tranqill",
+      "featuredArtistId": "1n5o9A4PDA4GAElx6mMxIJ",
+      "trackName": "Worse Before Better (feat. Tranqill)",
+      "trackId": "4zGIPOOiKRyE9IhZn8FAOZ",
+      "preview": "https://p.scdn.co/mp3-preview/a2706a8da97776a6a2339e9ff8a4c4b8a7222b82?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eede5d82ede9031a91959d9ba465cea1f64c438c",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Ralph Real",
+      "featuredArtistId": "2AjcEjXZmwFEiUxbJqquFk",
+      "trackName": "The Goings On (feat. Ralph Real)",
+      "trackId": "0n4gJuz8ioiFYsnfPJLZWY",
+      "preview": "https://p.scdn.co/mp3-preview/3358a349bbb108f0e8b3ea04d8d6b9c42cd6e52a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dc4807b368a053b43cf2ff000230261609b31871",
+      "release_date": "2013-12-17"
+    },
+    {
+      "featuredArtist": "Oliver St. Louis",
+      "featuredArtistId": "5JlkNToz8dWf6KmrHCumAe",
+      "trackName": "Unfollow You (feat. Olivier St. Louis)",
+      "trackId": "4ZGxlz6fv9hRcuHBpB946c",
+      "preview": "https://p.scdn.co/mp3-preview/bfa28837c0dd6643481b834a966f5d2aa4b9fb09?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dc4807b368a053b43cf2ff000230261609b31871",
+      "release_date": "2013-12-17"
+    },
+    {
+      "featuredArtist": "Paolo Escobar",
+      "featuredArtistId": "3JyBMGDnqRWZfLiViUXr0D",
+      "trackName": "Back of My Mind (feat. Paolo Escobar)",
+      "trackId": "5Q3TB2QIlIX8G22lrG9i2E",
+      "preview": "https://p.scdn.co/mp3-preview/0e2fcbdf16e4d3b0a90f6a3d66fd9546a0483bb4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dc4807b368a053b43cf2ff000230261609b31871",
+      "release_date": "2013-12-17"
+    },
+    {
+      "featuredArtist": "Trek Life",
+      "featuredArtistId": "6KQ13mUMkhFeNZyDhKHwyR",
+      "trackName": "Outro Flow (feat. Trek Life & Toine)",
+      "trackId": "0sUBvKevpkPzobyzFanvKo",
+      "preview": "https://p.scdn.co/mp3-preview/e4825579bdded95c31525191bb4b2d7464a766d9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dc4807b368a053b43cf2ff000230261609b31871",
+      "release_date": "2013-12-17"
+    },
+    {
+      "featuredArtist": "Diamond District",
+      "featuredArtistId": "4gjxHdVVNstBVHmOhFngFY",
+      "trackName": "Bonus Flow (feat. Diamond District)",
+      "trackId": "3jEAAbeeN0FtJNbhs9Okbq",
+      "preview": "https://p.scdn.co/mp3-preview/d9628131093a9c89fa03839bf2a73c0559da3463?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dc4807b368a053b43cf2ff000230261609b31871",
+      "release_date": "2013-12-17"
+    },
+    {
+      "featuredArtist": "LMNO",
+      "featuredArtistId": "1szIXCAdgyJgEdmj5GpMdB",
+      "trackName": "Let the Music",
+      "trackId": "5eMNPZ0V7dcaqeg9zoOFwx",
+      "preview": "https://p.scdn.co/mp3-preview/3f76a2b7bbc45abdbca60d6c8e88c45a8901e71d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3095546cbf4dfad86cfdc76ff54c7c0dce41299",
+      "release_date": "2009-05-05"
+    },
+    {
+      "featuredArtist": "Hassaan Mackey",
+      "featuredArtistId": "5Q1HnVbxwLEyZdgV6OR1SJ",
+      "trackName": "The Jungle",
+      "trackId": "00ZzIVufYmAgxw0vIcLfvB",
+      "preview": "https://p.scdn.co/mp3-preview/e3535f9ea070484312becfd9f0dce39b08c7586e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3095546cbf4dfad86cfdc76ff54c7c0dce41299",
+      "release_date": "2009-05-05"
+    },
+    {
+      "featuredArtist": "Bilal Salaam",
+      "featuredArtistId": "1NO93CD1MfWbv1hMKUfEOo",
+      "trackName": "The Jungle",
+      "trackId": "00ZzIVufYmAgxw0vIcLfvB",
+      "preview": "https://p.scdn.co/mp3-preview/e3535f9ea070484312becfd9f0dce39b08c7586e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3095546cbf4dfad86cfdc76ff54c7c0dce41299",
+      "release_date": "2009-05-05"
+    },
+    {
+      "featuredArtist": "Declaime",
+      "featuredArtistId": "0IWhrIU65vvKiggTlWKDZw",
+      "trackName": "Get Up",
+      "trackId": "6ueYyVdHShI5BLcQVegCxX",
+      "preview": "https://p.scdn.co/mp3-preview/8c3b42c198241fcd492d370605644571bf898037?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3095546cbf4dfad86cfdc76ff54c7c0dce41299",
+      "release_date": "2009-05-05"
+    },
+    {
+      "featuredArtist": "Prince Po",
+      "featuredArtistId": "1rpgRF0ch5otJ2Cu7NwwX4",
+      "trackName": "Get Up",
+      "trackId": "6ueYyVdHShI5BLcQVegCxX",
+      "preview": "https://p.scdn.co/mp3-preview/8c3b42c198241fcd492d370605644571bf898037?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3095546cbf4dfad86cfdc76ff54c7c0dce41299",
+      "release_date": "2009-05-05"
+    },
+    {
+      "featuredArtist": "yU",
+      "featuredArtistId": "7qDALSEiVZvynETxUjyiCu",
+      "trackName": "Get Up",
+      "trackId": "6ueYyVdHShI5BLcQVegCxX",
+      "preview": "https://p.scdn.co/mp3-preview/8c3b42c198241fcd492d370605644571bf898037?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3095546cbf4dfad86cfdc76ff54c7c0dce41299",
+      "release_date": "2009-05-05"
+    },
+    {
+      "featuredArtist": "DJ Clear",
+      "featuredArtistId": "5aQlhTeY2ElkVbG38xiozv",
+      "trackName": "Get Up",
+      "trackId": "6ueYyVdHShI5BLcQVegCxX",
+      "preview": "https://p.scdn.co/mp3-preview/8c3b42c198241fcd492d370605644571bf898037?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3095546cbf4dfad86cfdc76ff54c7c0dce41299",
+      "release_date": "2009-05-05"
+    },
+    {
+      "featuredArtist": "Kenn Starr",
+      "featuredArtistId": "6ePodDqNBUy5SkP7U5OpxL",
+      "trackName": "Q & A",
+      "trackId": "0eXscS6dH32Tb7DKDjGVwk",
+      "preview": "https://p.scdn.co/mp3-preview/0973c57bbbcd39ba8c374668660c559eb7d6fb71?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3095546cbf4dfad86cfdc76ff54c7c0dce41299",
+      "release_date": "2009-05-05"
+    },
+    {
+      "featuredArtist": "Silent Knight",
+      "featuredArtistId": "4FGLCyZvpN2kX46wpVbpIn",
+      "trackName": "Rhymes Get Written",
+      "trackId": "3nWNYvkIGt2vMkOTrfeDBf",
+      "preview": "https://p.scdn.co/mp3-preview/baa367cbdd0093fa890e1dc2f9754de4a123a9a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3095546cbf4dfad86cfdc76ff54c7c0dce41299",
+      "release_date": "2009-05-05"
+    },
+    {
+      "featuredArtist": "Uptown XO",
+      "featuredArtistId": "6ToYJQ5swaMheU8tgw5rYq",
+      "trackName": "Rhymes Get Written",
+      "trackId": "3nWNYvkIGt2vMkOTrfeDBf",
+      "preview": "https://p.scdn.co/mp3-preview/baa367cbdd0093fa890e1dc2f9754de4a123a9a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3095546cbf4dfad86cfdc76ff54c7c0dce41299",
+      "release_date": "2009-05-05"
+    },
+    {
+      "featuredArtist": "J-Live",
+      "featuredArtistId": "5bb5uytW59wDF0gpv8iQbE",
+      "trackName": "What's Crazy",
+      "trackId": "25XSfrDOVVgT319mEtGQYH",
+      "preview": "https://p.scdn.co/mp3-preview/1e3a925b1819b9cc2794790406fd9522537da9fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3095546cbf4dfad86cfdc76ff54c7c0dce41299",
+      "release_date": "2009-05-05"
+    },
+    {
+      "featuredArtist": "Stik Figa",
+      "featuredArtistId": "2EOYzFWSEZyYkMfWq7K6nj",
+      "trackName": "What's Crazy",
+      "trackId": "25XSfrDOVVgT319mEtGQYH",
+      "preview": "https://p.scdn.co/mp3-preview/1e3a925b1819b9cc2794790406fd9522537da9fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3095546cbf4dfad86cfdc76ff54c7c0dce41299",
+      "release_date": "2009-05-05"
+    },
+    {
+      "featuredArtist": "Georgia Anne Muldrow",
+      "featuredArtistId": "2RdnkH5txHb9c4vGwq0I31",
+      "trackName": "Endure",
+      "trackId": "4IzpKFQrBNXlhxJDOOH7DI",
+      "preview": "https://p.scdn.co/mp3-preview/3d9c554f892d18a44790225c888b2b18b1525283?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3095546cbf4dfad86cfdc76ff54c7c0dce41299",
+      "release_date": "2009-05-05"
+    },
+    {
+      "featuredArtist": "MED",
+      "featuredArtistId": "36zSkwftotDHslP3KUQpew",
+      "trackName": "Endure",
+      "trackId": "4IzpKFQrBNXlhxJDOOH7DI",
+      "preview": "https://p.scdn.co/mp3-preview/3d9c554f892d18a44790225c888b2b18b1525283?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3095546cbf4dfad86cfdc76ff54c7c0dce41299",
+      "release_date": "2009-05-05"
+    },
+    {
+      "featuredArtist": "Rapper Big Pooh",
+      "featuredArtistId": "1pt1kuxHmYnFaAQS6t3q6k",
+      "trackName": "Endure",
+      "trackId": "4IzpKFQrBNXlhxJDOOH7DI",
+      "preview": "https://p.scdn.co/mp3-preview/3d9c554f892d18a44790225c888b2b18b1525283?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3095546cbf4dfad86cfdc76ff54c7c0dce41299",
+      "release_date": "2009-05-05"
+    },
+    {
+      "featuredArtist": "Invincible",
+      "featuredArtistId": "6g0jIZjw9GHR6J5wO1FD0u",
+      "trackName": "Don't Sleep",
+      "trackId": "0xd68tEOJVgzwsurgCXpOM",
+      "preview": "https://p.scdn.co/mp3-preview/1adaee2cc8b05bb62f59fb9664182a2c48c4553d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3095546cbf4dfad86cfdc76ff54c7c0dce41299",
+      "release_date": "2009-05-05"
+    },
+    {
+      "featuredArtist": "Finale",
+      "featuredArtistId": "40pxwZScwdIUi0dtVmL1sW",
+      "trackName": "Don't Sleep",
+      "trackId": "0xd68tEOJVgzwsurgCXpOM",
+      "preview": "https://p.scdn.co/mp3-preview/1adaee2cc8b05bb62f59fb9664182a2c48c4553d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3095546cbf4dfad86cfdc76ff54c7c0dce41299",
+      "release_date": "2009-05-05"
+    },
+    {
+      "featuredArtist": "Black Milk",
+      "featuredArtistId": "77zgRkcehIGCAtROXkXkb3",
+      "trackName": "Drugs Outside",
+      "trackId": "2qcnY1WlY9x1Yl5zpqNrFu",
+      "preview": "https://p.scdn.co/mp3-preview/d0c252b69d0bbb04f8ef6d153ffddcde3be2dd58?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3095546cbf4dfad86cfdc76ff54c7c0dce41299",
+      "release_date": "2009-05-05"
+    },
+    {
+      "featuredArtist": "Motion Man",
+      "featuredArtistId": "6AysajaVPM9PDGZ3IPkWAR",
+      "trackName": "Holding It Back (feat. Motion Man) - BONUS",
+      "trackId": "1EIK0b30MJb7UaFF43pjz1",
+      "preview": "https://p.scdn.co/mp3-preview/be909bf84965db0887b3dd8c3a03eeeb9725a822?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2189e48fddaa4e1864121e62b4b8bfa74a33250c",
+      "release_date": "2009-05-05"
+    },
+    {
+      "featuredArtist": "Substantial",
+      "featuredArtistId": "5FmThJ74ycmeBdQnu4Cfcw",
+      "trackName": "Do Our Thing - 101 v2",
+      "trackId": "0nwBvDSrA8bU3iJrYNUzpo",
+      "preview": "https://p.scdn.co/mp3-preview/be65161f1e66d030ab8a1518601461b42566ed57?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3ac88b62f26b2b4a30fa5d7c94fa831e4233151",
+      "release_date": "2008-12-09"
+    },
+    {
+      "featuredArtist": "Iomos Marad",
+      "featuredArtistId": "0TTDU7n434qQd7MSVckV1a",
+      "trackName": "Do Our Thing - 101 v2",
+      "trackId": "0nwBvDSrA8bU3iJrYNUzpo",
+      "preview": "https://p.scdn.co/mp3-preview/be65161f1e66d030ab8a1518601461b42566ed57?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3ac88b62f26b2b4a30fa5d7c94fa831e4233151",
+      "release_date": "2008-12-09"
+    },
+    {
+      "featuredArtist": "Phonte",
+      "featuredArtistId": "5SyCTZ8X8YQCI0J1VRp4iC",
+      "trackName": "The Perch - 101 v2",
+      "trackId": "4JhYM5LvNi0eyf6ah826Dk",
+      "preview": "https://p.scdn.co/mp3-preview/a98141c0405f67e0585ea31dcbfb2e8c53f57c11?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3ac88b62f26b2b4a30fa5d7c94fa831e4233151",
+      "release_date": "2008-12-09"
+    },
+    {
+      "featuredArtist": "Flying Lotus",
+      "featuredArtistId": "29XOeO6KIWxGthejQqn793",
+      "trackName": "The Perch - 101 v2",
+      "trackId": "4JhYM5LvNi0eyf6ah826Dk",
+      "preview": "https://p.scdn.co/mp3-preview/a98141c0405f67e0585ea31dcbfb2e8c53f57c11?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3ac88b62f26b2b4a30fa5d7c94fa831e4233151",
+      "release_date": "2008-12-09"
+    },
+    {
+      "featuredArtist": "Tor",
+      "featuredArtistId": "4dktzc5hWsQPqmovObGZIG",
+      "trackName": "The Perch - 101 v2",
+      "trackId": "4JhYM5LvNi0eyf6ah826Dk",
+      "preview": "https://p.scdn.co/mp3-preview/a98141c0405f67e0585ea31dcbfb2e8c53f57c11?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3ac88b62f26b2b4a30fa5d7c94fa831e4233151",
+      "release_date": "2008-12-09"
+    },
+    {
+      "featuredArtist": "Little Brother",
+      "featuredArtistId": "0s9MrSopEoAn8JqwBipgdO",
+      "trackName": "Delusional - 101 v2",
+      "trackId": "29znchD0g6l9WF86W81QtE",
+      "preview": "https://p.scdn.co/mp3-preview/857f8f9d27247f116b139af2776c30825136ca75?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3ac88b62f26b2b4a30fa5d7c94fa831e4233151",
+      "release_date": "2008-12-09"
+    },
+    {
+      "featuredArtist": "Roddy Rod",
+      "featuredArtistId": "7fdV2zk5fuTNgIsWdIqLr7",
+      "trackName": "Money on the Clock - 101 v2",
+      "trackId": "737a38MJy6opKd7lOjHHli",
+      "preview": "https://p.scdn.co/mp3-preview/05c1ce188d3a9da356a4358a7701cbd0b3eaf59d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3ac88b62f26b2b4a30fa5d7c94fa831e4233151",
+      "release_date": "2008-12-09"
+    },
+    {
+      "featuredArtist": "M.E.D.",
+      "featuredArtistId": "4RshhsCO0fTQlWu0gfxUuk",
+      "trackName": "Endure - 2 Fish Remix",
+      "trackId": "2A93LuPipRhxT5crlsgmSZ",
+      "preview": "https://p.scdn.co/mp3-preview/671dc00f8683fd2e36bbfb04841fb9dbdc47029d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3ac88b62f26b2b4a30fa5d7c94fa831e4233151",
+      "release_date": "2008-12-09"
+    },
+    {
+      "featuredArtist": "Lo-G",
+      "featuredArtistId": "2hkttHOIQv9WXIBow6txDw",
+      "trackName": "95 North - 101 v2",
+      "trackId": "4PgOZfnSbldcqCxY40JY10",
+      "preview": "https://p.scdn.co/mp3-preview/0cb25683780d49cef11d3390e9bec1f617fc43c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3ac88b62f26b2b4a30fa5d7c94fa831e4233151",
+      "release_date": "2008-12-09"
+    },
+    {
+      "featuredArtist": "Akir",
+      "featuredArtistId": "4OPwFSuypxZLw3ZL0Ei2UZ",
+      "trackName": "95 North - 101 v2",
+      "trackId": "4PgOZfnSbldcqCxY40JY10",
+      "preview": "https://p.scdn.co/mp3-preview/0cb25683780d49cef11d3390e9bec1f617fc43c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3ac88b62f26b2b4a30fa5d7c94fa831e4233151",
+      "release_date": "2008-12-09"
+    },
+    {
+      "featuredArtist": "Enigma",
+      "featuredArtistId": "7GdwTU2JMEyY6qZIcyzSjh",
+      "trackName": "95 North - 101 v2",
+      "trackId": "4PgOZfnSbldcqCxY40JY10",
+      "preview": "https://p.scdn.co/mp3-preview/0cb25683780d49cef11d3390e9bec1f617fc43c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3ac88b62f26b2b4a30fa5d7c94fa831e4233151",
+      "release_date": "2008-12-09"
+    },
+    {
+      "featuredArtist": "XO",
+      "featuredArtistId": "3SXht5vlpMi8JVm4KjePMf",
+      "trackName": "Ride'n - 101 v2",
+      "trackId": "186xtnWFnpD9A3vKG60xbX",
+      "preview": "https://p.scdn.co/mp3-preview/b0c9d7b59fc1421a8b894a48a0b69abbf08a6018?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3ac88b62f26b2b4a30fa5d7c94fa831e4233151",
+      "release_date": "2008-12-09"
+    },
+    {
+      "featuredArtist": "Aziz",
+      "featuredArtistId": "2l3FGS6vqxqju4yTFLMStT",
+      "trackName": "Soul Clap - Remix",
+      "trackId": "1RPsqWkI9zrWt42Pf1gouh",
+      "preview": "https://p.scdn.co/mp3-preview/dbfe64d3985f42b3cede9afc5838b4fb82451070?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3ac88b62f26b2b4a30fa5d7c94fa831e4233151",
+      "release_date": "2008-12-09"
+    },
+    {
+      "featuredArtist": "Jean Grae",
+      "featuredArtistId": "2ipBhKpOYqs6BbysLNGye6",
+      "trackName": "Soul Clap - Remix",
+      "trackId": "1RPsqWkI9zrWt42Pf1gouh",
+      "preview": "https://p.scdn.co/mp3-preview/dbfe64d3985f42b3cede9afc5838b4fb82451070?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3ac88b62f26b2b4a30fa5d7c94fa831e4233151",
+      "release_date": "2008-12-09"
+    },
+    {
+      "featuredArtist": "Josh Collins",
+      "featuredArtistId": "5G1T1PxVOMmy5eig0kI6Ge",
+      "trackName": "Soul Clap - Remix",
+      "trackId": "1RPsqWkI9zrWt42Pf1gouh",
+      "preview": "https://p.scdn.co/mp3-preview/dbfe64d3985f42b3cede9afc5838b4fb82451070?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3ac88b62f26b2b4a30fa5d7c94fa831e4233151",
+      "release_date": "2008-12-09"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "artistName": "Sandy",
+  "features": [
+    {
+      "featuredArtist": "Tiago Iorc",
+      "featuredArtistId": "4iWkwAVzssjb8XgxdoOL6M",
+      "trackName": "Me Espera - Ao Vivo No Teatro Municipal De Niterói",
+      "trackId": "00wOjm84hlhML6hR9JT6kQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/71e717901381590867944bd730e6405d35cf5e40",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Gilberto Gil",
+      "featuredArtistId": "7oEkUINVIj1Nr3Wnj8tzqr",
+      "trackName": "Olhos Meus - Ao Vivo No Teatro Municipal De Niterói",
+      "trackId": "5JSgVQA9OpvQhJSdyNiIDO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/71e717901381590867944bd730e6405d35cf5e40",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Seu Jorge",
+      "featuredArtistId": "0i1s9WcIu0PrUvHzALgofo",
+      "trackName": "Tão Comum - Live",
+      "trackId": "0SjaN9Iru8LO1Itx9T6PlM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6b3637e626efe95a2c6b235bbaa72f90ac3d26f8",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Lenine",
+      "featuredArtistId": "4YLBdrR3DVSMncm785NH6C",
+      "trackName": "Sem Jeito - Live",
+      "trackId": "09sqeSXzhNaHAWG8O9lAT7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6b3637e626efe95a2c6b235bbaa72f90ac3d26f8",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Nerina Pallot",
+      "featuredArtistId": "4aFx7q4WkiTWPLJNW5mkKK",
+      "trackName": "Dias Iguais - Live",
+      "trackId": "1ca9zJvyAQ8YE5hjpNneXj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6b3637e626efe95a2c6b235bbaa72f90ac3d26f8",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Rodrigo Lombardi",
+      "featuredArtistId": "64J2E3fhndZF7LdLxKq6Za",
+      "trackName": "Calor Pra Dar",
+      "trackId": "0QA9DR7emI025Glfty6BDR",
+      "preview": "https://p.scdn.co/mp3-preview/0518929c82931700bc90a820c76585f6f9728ff1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/337ef748a606a738c2813574e74341ab7fb0b905",
+      "release_date": "2016-05-18"
+    },
+    {
+      "featuredArtist": "Orquestra Filarmônica de Paraisópolis",
+      "featuredArtistId": "0QouoH9TfsyV22AzQV51J4",
+      "trackName": "Ciranda da Bailarina",
+      "trackId": "4koKFdinHN70gM0NJHIb3j",
+      "preview": "https://p.scdn.co/mp3-preview/f03809a2a83dceead0597ea6d4658cb4fcae44be?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b5d67677ef28830ab8159b2e6a009d388a730ff0",
+      "release_date": "2015-05-25"
+    },
+    {
+      "featuredArtist": "Angra",
+      "featuredArtistId": "7IAXZaLTb6nkJr8RmVPn5y",
+      "trackName": "Black Widow's Web",
+      "trackId": "1cMfANeXWbkL2OOcHZ4Plu",
+      "preview": "https://p.scdn.co/mp3-preview/d838e16b82083f8068f4c95bdbfcd00d34c03f42?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86ed2f192556148080c4d5a5468b2e5246e1bddc",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Alissa White-Gluz",
+      "featuredArtistId": "0t9i2yNpYr4QGde2gz8YVg",
+      "trackName": "Black Widow's Web",
+      "trackId": "1cMfANeXWbkL2OOcHZ4Plu",
+      "preview": "https://p.scdn.co/mp3-preview/d838e16b82083f8068f4c95bdbfcd00d34c03f42?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86ed2f192556148080c4d5a5468b2e5246e1bddc",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Luan Santana",
+      "featuredArtistId": "3qvcCP2J0fWi0m0uQDUf6r",
+      "trackName": "Mesmo Sem Estar",
+      "trackId": "7FkIsGqM5SzQYNTeFgvO1V",
+      "preview": "https://p.scdn.co/mp3-preview/141204482a2aa5657a6f6fec627b0aadeed16c56?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/346bfea3076420d5db1e5fce56b8df97173921f4",
+      "release_date": "2018-01-27"
+    }
+  ]
+}

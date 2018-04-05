@@ -1,0 +1,68 @@
+{
+  "artistName": "Limp Bizkit",
+  "features": [
+    {
+      "featuredArtist": "Raekwon",
+      "featuredArtistId": "2yQf6b8hxahZaT5dHlWaB1",
+      "trackName": "Combat Jazz",
+      "trackId": "4BLVr0wwXgTcog53Y2kjRG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4112645db5bb448fe42feec927263e6244ba601a",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Paul Wall",
+      "featuredArtistId": "0k7Xl1pqI3tu8sSEjo5oEg",
+      "trackName": "Middle Finger",
+      "trackId": "3IG3hkExz0tfYPNOsO2zrb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ed59b1f9c88a6fc51b1cc533b70498d5d3a4a62e",
+      "release_date": "2011"
+    },
+    {
+      "featuredArtist": "Xzibit",
+      "featuredArtistId": "4tujQJicOnuZRLiBFdp3Ou",
+      "trackName": "Getcha Groove On - Dirt Road Mix",
+      "trackId": "4uOnV3XOTNGFuZRZN0dIHo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c09a5da7ba762ad4ec4f059897e9129b41ee63b3",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "DJ Premier",
+      "featuredArtistId": "6GEykX11lQqp92UVOQQCC7",
+      "trackName": "Getcha Groove On - Dirt Road Mix",
+      "trackId": "4uOnV3XOTNGFuZRZN0dIHo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c09a5da7ba762ad4ec4f059897e9129b41ee63b3",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Redman",
+      "featuredArtistId": "7xTKLpo7UCzXSnlH7fOIoM",
+      "trackName": "Rollin' (Urban Assault Vehicle)",
+      "trackId": "5TukWs5a07R6mmpZZYL8e6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c09a5da7ba762ad4ec4f059897e9129b41ee63b3",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Method Man",
+      "featuredArtistId": "4VmEWwd8y9MCLwexFMdpwt",
+      "trackName": "Rollin' (Urban Assault Vehicle)",
+      "trackId": "5TukWs5a07R6mmpZZYL8e6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c09a5da7ba762ad4ec4f059897e9129b41ee63b3",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "DMX",
+      "featuredArtistId": "1HwM5zlC5qNWhJtM00yXzG",
+      "trackName": "Rollin' (Urban Assault Vehicle)",
+      "trackId": "5TukWs5a07R6mmpZZYL8e6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c09a5da7ba762ad4ec4f059897e9129b41ee63b3",
+      "release_date": "2008-01-01"
+    }
+  ]
+}

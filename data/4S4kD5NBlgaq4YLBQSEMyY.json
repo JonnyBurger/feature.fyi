@@ -1,0 +1,59 @@
+{
+  "artistName": "Mali Music",
+  "features": [
+    {
+      "featuredArtist": "Jazmine Sullivan",
+      "featuredArtistId": "7gSjFKpVmDgC2MMsnN8CYq",
+      "trackName": "Loved By You",
+      "trackId": "4S3FRqrM3VyuajD7jFZcLm",
+      "preview": "https://p.scdn.co/mp3-preview/36e4ed64ccd7033accae72682f82c689e1e826a7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fce0fd09d58597135cce1b8996892ec02f55c399",
+      "release_date": "2017-06-02"
+    },
+    {
+      "featuredArtist": "Jhene Aiko",
+      "featuredArtistId": "5ZS223C6JyBfXasXxrRqOk",
+      "trackName": "Contradiction",
+      "trackId": "6oGBUCZLXdhq7lpybzZ1i5",
+      "preview": "https://p.scdn.co/mp3-preview/8e9714c86a613815837a78992ae375bd674d2b0d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fce0fd09d58597135cce1b8996892ec02f55c399",
+      "release_date": "2017-06-02"
+    },
+    {
+      "featuredArtist": "A$AP Ferg",
+      "featuredArtistId": "5dHt1vcEm9qb8fCyLcB3HL",
+      "trackName": "Beautiful - DHNY Remix",
+      "trackId": "2KXuxtJZldmTT6w359GVRh",
+      "preview": "https://p.scdn.co/mp3-preview/fffc64b1e95625c57d973b7103a46c6ebc49e6b5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/61c1c7767f2a2bb62f6b1bf5e7f76feb41176df1",
+      "release_date": "2014-06-23"
+    },
+    {
+      "featuredArtist": "Dirty Harry",
+      "featuredArtistId": "38c7L2yvqimZQTfWHOwD5g",
+      "trackName": "Beautiful - DHNY Remix",
+      "trackId": "2KXuxtJZldmTT6w359GVRh",
+      "preview": "https://p.scdn.co/mp3-preview/fffc64b1e95625c57d973b7103a46c6ebc49e6b5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/61c1c7767f2a2bb62f6b1bf5e7f76feb41176df1",
+      "release_date": "2014-06-23"
+    },
+    {
+      "featuredArtist": "Snoop Dogg",
+      "featuredArtistId": "7hJcb9fa4alzcOq3EaNPoG",
+      "trackName": "New Wave (feat. Mali Music)",
+      "trackId": "6INODoR55JNdWaOYGH97uV",
+      "preview": "https://p.scdn.co/mp3-preview/4b9262e4814b4be8b0f086ace142311c29dc199f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c26378cf299d7ad22c8514220fdac794fb4f8047",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Kim Burrell",
+      "featuredArtistId": "0fW7wYpfi0yzlc8JPP12jA",
+      "trackName": "Talk to God (feat. Mali Music & Kim Burrell)",
+      "trackId": "4XYfkBW3s0KyT77Gdfgbkd",
+      "preview": "https://p.scdn.co/mp3-preview/8921765700786bfdeff93d7dbcdb51f9661d8eb5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c26378cf299d7ad22c8514220fdac794fb4f8047",
+      "release_date": "2018-03-16"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "artistName": "Gardiner Sisters",
+  "features": [
+    {
+      "featuredArtist": "AJ Rafael",
+      "featuredArtistId": "4zrB9WV6Z0iKKnGb1Pj0P2",
+      "trackName": "You Raise Me Up",
+      "trackId": "3uwm0ZGfpua2qEKQDr4jo2",
+      "preview": "https://p.scdn.co/mp3-preview/45fe6b19b5d4787bf2417c06542e596afa4363be?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b13d1a0d129234bbf0222bc1df5c22d622a86164",
+      "release_date": "2017-10-12"
+    },
+    {
+      "featuredArtist": "Peter Hollens",
+      "featuredArtistId": "7EIbKyiLnEJ1Y074UIUyZJ",
+      "trackName": "September Song",
+      "trackId": "6ikyt9HuoqXKbTzeHTR7EH",
+      "preview": "https://p.scdn.co/mp3-preview/9169472042afa90ba0c40f1cad0fae016ffe2c16?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec571479cfe317afd83b7c81d66790ecf945775f",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Tanner Townsend",
+      "featuredArtistId": "1vgJ0JDHRTjDKpUpm3dQaE",
+      "trackName": "All I Want",
+      "trackId": "0Oecad9ezfSXD3P6RaYot1",
+      "preview": "https://p.scdn.co/mp3-preview/079def07395b49c908a56cf5cdf50859354786cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/42fc02b40eea065591ea5c42a53d2fdae8696cb1",
+      "release_date": "2017-03-08"
+    }
+  ]
+}

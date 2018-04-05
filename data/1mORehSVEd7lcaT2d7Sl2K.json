@@ -1,0 +1,32 @@
+{
+  "artistName": "Suran",
+  "features": [
+    {
+      "featuredArtist": "Marques Houston",
+      "featuredArtistId": "1goOx6gnQdUllLfSMsL4Rt",
+      "trackName": "The Last Song",
+      "trackId": "0C7BYG1VHNhpjake6ypPDV",
+      "preview": "https://p.scdn.co/mp3-preview/e61126cdcc15663a0123a48dc4df2932eeda5813?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e50903c3c75229ae857b850b0804c1dbfb0e617a",
+      "release_date": "2018-03-21"
+    },
+    {
+      "featuredArtist": "Crush",
+      "featuredArtistId": "6aLdhHUqgdKE86xbtNmY8g",
+      "trackName": "Love Story",
+      "trackId": "5rUZeNNC4R65U6UeElMoss",
+      "preview": "https://p.scdn.co/mp3-preview/2c151b8b7cace73bb9ae960b067785a1197f4b78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6c08a4f78b23f891be26b55051f52cde74433eff",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Hwasa",
+      "featuredArtistId": "2x328mPRm6fc1nkqEvyrFF",
+      "trackName": "땡땡땡",
+      "trackId": "1wsD2GxB1s2uHLm2qjIkG3",
+      "preview": "https://p.scdn.co/mp3-preview/c0c46be1e7570da8c0824cddb233969b5e1b9405?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/72f5cef2d15df0ed8959efc2ec5b622e1e0c86a8",
+      "release_date": "2016-06-10"
+    }
+  ]
+}

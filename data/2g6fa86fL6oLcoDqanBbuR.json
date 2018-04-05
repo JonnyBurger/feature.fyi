@@ -1,0 +1,41 @@
+{
+  "artistName": "Delta Goodrem",
+  "features": [
+    {
+      "featuredArtist": "Gizzle",
+      "featuredArtistId": "0xukYGKRRwBWS1N9sfCQoq",
+      "trackName": "Enough",
+      "trackId": "42ziF34uW56yqVpDQKLVp9",
+      "preview": "https://p.scdn.co/mp3-preview/2b45c76e78ca5ca3437614a4be313f483cfc07ac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d97eb91132383704f67428dcfd4d2f9b211727a",
+      "release_date": "2016-07-01"
+    },
+    {
+      "featuredArtist": "Brian McFadden",
+      "featuredArtistId": "5ny07v4RRsvdv1uQVplMry",
+      "trackName": "Almost Here (Duet with Brian McFadden)",
+      "trackId": "5l1DRutSEVtp52WxzGg90J",
+      "preview": "https://p.scdn.co/mp3-preview/dc91b2bec289956fdbe2ae9d0845ffa5a2c041d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c5395502e09ecb42090cd29222cfd432705ad4a2",
+      "release_date": "2004-11-05"
+    },
+    {
+      "featuredArtist": "Olsen",
+      "featuredArtistId": "2qo6aF4asSe2950d5JoER1",
+      "trackName": "Think About You - Olsen Remix",
+      "trackId": "04ya47hBf8acVlIsPTSzEc",
+      "preview": "https://p.scdn.co/mp3-preview/beea8367fb264a10cf99515ddcbbad9162c80a3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0ddf87469d1c9b4134f50184720be3642a176fc5",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Gizzle",
+      "featuredArtistId": "1bV4v1Wc9eXohJz7GrOO4H",
+      "trackName": "Enough",
+      "trackId": "5HEJGLxTXbkAy05zqNCSRh",
+      "preview": "https://p.scdn.co/mp3-preview/07ad4997a750a942767649cb6e5d3f6ff80d20a0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d97eb91132383704f67428dcfd4d2f9b211727a",
+      "release_date": "2016-06-24"
+    }
+  ]
+}

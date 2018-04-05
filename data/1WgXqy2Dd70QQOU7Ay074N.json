@@ -1,0 +1,41 @@
+{
+  "artistName": "AURORA",
+  "features": [
+    {
+      "featuredArtist": "Pablo Nouvelle",
+      "featuredArtistId": "2OIJq28O1lXrZ2x3NGSk8P",
+      "trackName": "Running With The Wolves - Pablo Nouvelle Remix",
+      "trackId": "1sdntExbJUWIqO4CyC0BBL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0dfb251f3bab924355a633a24843951a56573cef",
+      "release_date": "2016-08-26"
+    },
+    {
+      "featuredArtist": "PWNDTIAC",
+      "featuredArtistId": "4uEXjt8OUmrogGqeAfDNPZ",
+      "trackName": "I Went Too Far - Pwndtiac Remix",
+      "trackId": "6VLmF4SDMuoJMxiw2DYpuA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0dfb251f3bab924355a633a24843951a56573cef",
+      "release_date": "2016-08-26"
+    },
+    {
+      "featuredArtist": "Mikael Knudsen Kanstad",
+      "featuredArtistId": "59uotkhxqGCa7EpPXfRYpf",
+      "trackName": "Under Stars - Loon Remix",
+      "trackId": "3fRJwWQp9g2skjBFsNqHNV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0dfb251f3bab924355a633a24843951a56573cef",
+      "release_date": "2016-08-26"
+    },
+    {
+      "featuredArtist": "MK",
+      "featuredArtistId": "1yqxFtPHKcGcv6SXZNdyT9",
+      "trackName": "I Went Too Far - MK Remix",
+      "trackId": "71GieY2cMEh4s7Unv00gnw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d6078334da614e3b952b647a5f787c9237fa61d6",
+      "release_date": "2016-07-15"
+    }
+  ]
+}

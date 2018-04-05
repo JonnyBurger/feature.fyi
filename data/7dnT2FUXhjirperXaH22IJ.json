@@ -1,0 +1,77 @@
+{
+  "artistName": "Rita Lee",
+  "features": [
+    {
+      "featuredArtist": "Roberto De Carvalho",
+      "featuredArtistId": "4w4ll81d0dR8gz989jjko1",
+      "trackName": "Orra Meu",
+      "trackId": "6WKxX0jswMBKepsHF1n1c5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/566fc34bdbdf032864d30cef4d227989d278d4fb",
+      "release_date": "2015-08-07"
+    },
+    {
+      "featuredArtist": "Zélia Duncan",
+      "featuredArtistId": "2zDJszdrISx9K4L5hvWT33",
+      "trackName": "Pagu - Live",
+      "trackId": "7bAXI8bMrEdUimjvhk8Zq6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/03dcff6fc4f5328f468a2024e4846619972cbe21",
+      "release_date": "2004"
+    },
+    {
+      "featuredArtist": "Pato Fu",
+      "featuredArtistId": "4NSbUIfUAkaedUIm8eJ631",
+      "trackName": "O Amor Em Pedaços",
+      "trackId": "3BvKS5KZjJAoxTTYKrXMDN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8b20e9e08db1e43aa2ea972b48f7bcfb86640d1e",
+      "release_date": "2000-01-01"
+    },
+    {
+      "featuredArtist": "Cássia Eller",
+      "featuredArtistId": "10naVTwNjE50daQVrN0bXh",
+      "trackName": "Luz Del Fuego - Ao Vivo",
+      "trackId": "6okyga6aRfOOn1Nzv9AjVb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b1955fea06f2cde6c8c9f2e1438b8aa23919fac5",
+      "release_date": "1998-01-01"
+    },
+    {
+      "featuredArtist": "Titãs",
+      "featuredArtistId": "2euX7vCVnJy3TVEGfc0RCl",
+      "trackName": "Papai Me Empresta O Carro - Live",
+      "trackId": "00l4K3dWko0sR6FWZlVLCa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b1955fea06f2cde6c8c9f2e1438b8aa23919fac5",
+      "release_date": "1998-01-01"
+    },
+    {
+      "featuredArtist": "Paula Toller",
+      "featuredArtistId": "5BQveHScm6btG6jfbxwyfs",
+      "trackName": "Desculpe O Aue - Live",
+      "trackId": "3FxC88lTJWKNQ0aHxciIkq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b1955fea06f2cde6c8c9f2e1438b8aa23919fac5",
+      "release_date": "1998-01-01"
+    },
+    {
+      "featuredArtist": "Milton Nascimento",
+      "featuredArtistId": "3Bnq7jiU506HcPjRgQ43TM",
+      "trackName": "Mania De Voce - Live",
+      "trackId": "2LFcCZZTc6SOo70bkYBjOZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b1955fea06f2cde6c8c9f2e1438b8aa23919fac5",
+      "release_date": "1998-01-01"
+    },
+    {
+      "featuredArtist": "Raimundos",
+      "featuredArtistId": "3CfJckVRuukdJSvK3r89yJ",
+      "trackName": "Ando Jururu",
+      "trackId": "6PjoDWLrxZG4vQZrwAn262",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2cae9784741e544241bad170de7c4a70375650c4",
+      "release_date": "1997-01-01"
+    }
+  ]
+}

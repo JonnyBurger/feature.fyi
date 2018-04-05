@@ -1,0 +1,32 @@
+{
+  "artistName": "Family of the Year",
+  "features": [
+    {
+      "featuredArtist": "Z Berg",
+      "featuredArtistId": "1kqmfPNXoed2ueFvyMfNP7",
+      "trackName": "Carry Me - Acoustic",
+      "trackId": "6eZltD6sYiEbrGkH11qtYK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/48b280a987d6642f024293cc2e01797a26045ea2",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Erica Driscoll",
+      "featuredArtistId": "11Kg2hdniqzy7fgWcQgHWD",
+      "trackName": "Carry Me - Acoustic",
+      "trackId": "6eZltD6sYiEbrGkH11qtYK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/48b280a987d6642f024293cc2e01797a26045ea2",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Tom Lord-Alge",
+      "featuredArtistId": "32ckuKo8LrZhQMyCehYKkt",
+      "trackName": "St. Croix - Single Mix",
+      "trackId": "5IXkMgXihfIOzdZq9J02wd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a32dd6d3ae18126641ac75d24de45872c26b662d",
+      "release_date": "2014-01-01"
+    }
+  ]
+}

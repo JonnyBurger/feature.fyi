@@ -1,0 +1,50 @@
+{
+  "artistName": "Capleton",
+  "features": [
+    {
+      "featuredArtist": "Eljai",
+      "featuredArtistId": "76kNidHEbTe3yIpisDpV9k",
+      "trackName": "Blessed",
+      "trackId": "72HMYDPUTM7VUTsSrX6TV8",
+      "preview": "https://p.scdn.co/mp3-preview/208beaebca18403267087915cecfc1a6963c98f9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9e2c1dc18292309c04f95694b14c3840d04b712f",
+      "release_date": "2016-04-08"
+    },
+    {
+      "featuredArtist": "Mykal Rose",
+      "featuredArtistId": "5wdQ2IkL8WASlcyt0x2s8Q",
+      "trackName": "Solidarity",
+      "trackId": "3KJauZ8DgC4V4cDpqDYZDs",
+      "preview": "https://p.scdn.co/mp3-preview/3829720c987406b4c9dae9d5fda8cd10eebb0173?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9e2c1dc18292309c04f95694b14c3840d04b712f",
+      "release_date": "2016-04-08"
+    },
+    {
+      "featuredArtist": "Sizzla",
+      "featuredArtistId": "72T7x96EAqN2UWvAgobYfv",
+      "trackName": "Better Be Still",
+      "trackId": "1FbNNOK4g2sCH8JQkZe6bY",
+      "preview": "https://p.scdn.co/mp3-preview/bad507de40a6acc6481aed3f149854ee08cd9894?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/429c5fd4de1722726b6c87a3faa966f2808bdb96",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "Yami Bolo",
+      "featuredArtistId": "6K4qT7qjaR6q5SqwQ1oA3o",
+      "trackName": "Dub of Destruction",
+      "trackId": "64LQ238woFzYKiYjEWfw5z",
+      "preview": "https://p.scdn.co/mp3-preview/cccad886bf7a1232db1daacf9e85002d3b60ba1a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/429c5fd4de1722726b6c87a3faa966f2808bdb96",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "Military Man",
+      "featuredArtistId": "2LXBlkUoSRp2aEC8z5vj4n",
+      "trackName": "No Time",
+      "trackId": "5zKOyj6RNjIygmq5NvtkvK",
+      "preview": "https://p.scdn.co/mp3-preview/944209d846dae609ba0f8135b33b40d4be8d0261?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d78bb4d60dd10e690ea556affa19675d8a1c70e4",
+      "release_date": "2009-01-29"
+    }
+  ]
+}

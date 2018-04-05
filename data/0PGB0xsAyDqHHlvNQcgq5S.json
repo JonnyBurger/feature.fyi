@@ -1,0 +1,41 @@
+{
+  "artistName": "POWERS",
+  "features": [
+    {
+      "featuredArtist": "The Knocks",
+      "featuredArtistId": "2x7EATekOPhFGRx3syMGEC",
+      "trackName": "Sunshine - The Knocks Remix",
+      "trackId": "784dNPn6OUb02HbCWf8WYN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/656e10e6d6ea13523db4e1bbae65fa08543b9fd9",
+      "release_date": "2016-08-31"
+    },
+    {
+      "featuredArtist": "Lincoln Jesser",
+      "featuredArtistId": "3GxiyVFhM1CWoYBMfZ9hYG",
+      "trackName": "Legendary - Lincoln Jesser Remix",
+      "trackId": "5jCyStsUl2vFDtgVvQ9T0G",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a22d9788e0f1881cc2e781a772e00ded35d882f1",
+      "release_date": "2016-03-18"
+    },
+    {
+      "featuredArtist": "Coucheron",
+      "featuredArtistId": "6ly2Z6h9dOerORbK1l2N8D",
+      "trackName": "Loved By You - Coucheron Remix",
+      "trackId": "0rbI75d38T5k2Km1vuri9A",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a22d9788e0f1881cc2e781a772e00ded35d882f1",
+      "release_date": "2016-03-18"
+    },
+    {
+      "featuredArtist": "Lenno",
+      "featuredArtistId": "4IRw3ME1D0lYOyFyXAjDv7",
+      "trackName": "Legendary - Lenno Remix",
+      "trackId": "0lIBwUJVWWz2LqdYjsed3P",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a22d9788e0f1881cc2e781a772e00ded35d882f1",
+      "release_date": "2016-03-18"
+    }
+  ]
+}

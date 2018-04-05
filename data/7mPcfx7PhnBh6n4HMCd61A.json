@@ -1,0 +1,41 @@
+{
+  "artistName": "John Michael Montgomery",
+  "features": [
+    {
+      "featuredArtist": "Sixwire",
+      "featuredArtistId": "55mKtNOFaHPwDjd5K5U6QF",
+      "trackName": "It Goes Like This (feat. Sixwire)",
+      "trackId": "3e5UHnWR85FbDpqjQhkZmH",
+      "preview": "https://p.scdn.co/mp3-preview/99531c06569820133178e33ed232fb9a24af2552?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/537cdbe47756d569d59f167734e33a2890c4c42b",
+      "release_date": "2002-10-08"
+    },
+    {
+      "featuredArtist": "Alison Krauss",
+      "featuredArtistId": "5J6L7N6B4nI1M5cwa29mQG",
+      "trackName": "The Little Girl (feat. Alison Krauss & Dan Tyminski)",
+      "trackId": "572R9OVMyWKBeg1hOMgSsW",
+      "preview": "https://p.scdn.co/mp3-preview/129c684ba558f592d2c95d0c36926e14c370dc4e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d9f9db11ac56fd44ec1bbce79582d423196d8dd",
+      "release_date": "2000-09-26"
+    },
+    {
+      "featuredArtist": "Dan Tyminski",
+      "featuredArtistId": "1eNxt1JI2Bgjl8bPDQ5sG8",
+      "trackName": "The Little Girl (feat. Alison Krauss & Dan Tyminski)",
+      "trackId": "572R9OVMyWKBeg1hOMgSsW",
+      "preview": "https://p.scdn.co/mp3-preview/129c684ba558f592d2c95d0c36926e14c370dc4e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d9f9db11ac56fd44ec1bbce79582d423196d8dd",
+      "release_date": "2000-09-26"
+    },
+    {
+      "featuredArtist": "CSABA PETOCZ",
+      "featuredArtistId": "48b9chuPuBw3sz485HYpAc",
+      "trackName": "What I Do The Best",
+      "trackId": "43doBfqZ7YAyhSCWHrgS5l",
+      "preview": "https://p.scdn.co/mp3-preview/b41309af8c60219113af1e1cc732ca322a6eac07?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/34db8d96a0eff46ef937692756567dcd2700444c",
+      "release_date": "1996-09-06"
+    }
+  ]
+}

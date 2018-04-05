@@ -1,0 +1,41 @@
+{
+  "artistName": "Astronomyy",
+  "features": [
+    {
+      "featuredArtist": "Denai Moore",
+      "featuredArtistId": "4bS7w1U8P3Zuaa5jmj3mvN",
+      "trackName": "All I Need",
+      "trackId": "6p7R32zatPc0fd96kwj85i",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9cc64b8f26f56c598ec546874996520311f446ed",
+      "release_date": "2015-05-05"
+    },
+    {
+      "featuredArtist": "Billie Eilish",
+      "featuredArtistId": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "trackName": "Ocean Eyes - Astronomyy Remix",
+      "trackId": "0ZELjlKKH0ETlstZcfPRNp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9eb2136367f958e88d5224db30fed01ea11517e5",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "alayna",
+      "featuredArtistId": "7JwNWaTv4y9WNJCihQFHpv",
+      "trackName": "Falling Autumn",
+      "trackId": "3ykujidUtB16GxCQgPU1sz",
+      "preview": "https://p.scdn.co/mp3-preview/f96198df21a90998656f36eae94a1cc7304b967b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b448a54c3ae5e1c9a964713902e9a547d86df520",
+      "release_date": "2017-02-28"
+    },
+    {
+      "featuredArtist": "MNEK",
+      "featuredArtistId": "7uMh23xWiuR7zsNkuNcm2G",
+      "trackName": "The Rhythm - Astronomyy Remix",
+      "trackId": "3IfsArqePOOReGFVNmAJkr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5847a130f0d66dbffdf1110bd9c156d6063b33a1",
+      "release_date": "2015-03-13"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "artistName": "Pedro Paulo & Alex",
+  "features": [
+    {
+      "featuredArtist": "Thaeme & Thiago",
+      "featuredArtistId": "7ABjmCErFBTzoGMVoQc2Sh",
+      "trackName": "Dançando E Comemorando - Ao Vivo",
+      "trackId": "6owhkOFPJDIbnUtXZLSzGn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f5d7d1de2d8f4b9aeb667b3d711e6fcb11ac6596",
+      "release_date": "2018-03-30"
+    },
+    {
+      "featuredArtist": "Tati Zaqui",
+      "featuredArtistId": "0e68cnJyUTJu1nEuxxMSLm",
+      "trackName": "Tem Que Respeitar (Cheguei) - Ao Vivo",
+      "trackId": "1jPTBsJuRFAl7nU1QKbhOb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f5d7d1de2d8f4b9aeb667b3d711e6fcb11ac6596",
+      "release_date": "2018-03-30"
+    },
+    {
+      "featuredArtist": "Zé Ricardo & Thiago",
+      "featuredArtistId": "4ZUahcHoVxr4lsrfdmhjhV",
+      "trackName": "Balança Mas Não Para - Ao Vivo",
+      "trackId": "57yFK1jO0laDUtenxVkf2d",
+      "preview": "https://p.scdn.co/mp3-preview/b52c8162c0b374a701b270bad9719cce21398979?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b6a6496b6301053c9412c164a959a30a7b09bb21",
+      "release_date": "2014-04-04"
+    },
+    {
+      "featuredArtist": "Lucas Lucco",
+      "featuredArtistId": "06cd30Cv9US973Ika84gDw",
+      "trackName": "Vish, Aff, Putz, Nossa",
+      "trackId": "4RiawNnc4pew07pvV69ksg",
+      "preview": "https://p.scdn.co/mp3-preview/47e7f0a99a7a7e0576f304f73e1f286ef191db1d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7c06b1c07387c733df9d3478b2eaad6259d5312d",
+      "release_date": "2017-01-23"
+    },
+    {
+      "featuredArtist": "Gordinho Safadão",
+      "featuredArtistId": "2gBV11yb7F1mh2GO8NNrd0",
+      "trackName": "Narguile",
+      "trackId": "2jdZ2X28wHqvqs1pVO3tGD",
+      "preview": "https://p.scdn.co/mp3-preview/6454f53c41c085a8c8eba7748456b1241fa8261b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/93a98f5710e7ba127668f46130d87e191acf1aec",
+      "release_date": "2017-12-28"
+    },
+    {
+      "featuredArtist": "Zé Felipe",
+      "featuredArtistId": "7cmuxPnXRJxwuYDHfbD8Eu",
+      "trackName": "Deixa Que Ela Decide",
+      "trackId": "0HmbxrqosXFjQLVEk1tZ7h",
+      "preview": "https://p.scdn.co/mp3-preview/97fda9208c1145877522e1107db86fcfc9bef047?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6d148f50da193781a94af4e879f1e18b3a29e0fc",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Wérika Amicci",
+      "featuredArtistId": "0XFebSyy8NF4agbgVrzKsk",
+      "trackName": "Bem Escondidinho",
+      "trackId": "6shfPVUTNKpZbPi9F4L1oY",
+      "preview": "https://p.scdn.co/mp3-preview/891adc90c2336d6a0870273b67e3cb55507071c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/27846dd470ba2710dbadbd95ce910f0aead0d868",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Antony & Gabriel",
+      "featuredArtistId": "1uhE4e8omc2wKqIK88bqH4",
+      "trackName": "Pinga e Pegação - Ao Vivo",
+      "trackId": "4fxuDI7jKV82As39a6iNNh",
+      "preview": "https://p.scdn.co/mp3-preview/c70933b2c64bec36c1c70b23d48cfa414de2859e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f5735b79d79a84e16c76862c410beb96fd43da0",
+      "release_date": "2017-05-05"
+    }
+  ]
+}

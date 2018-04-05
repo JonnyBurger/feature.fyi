@@ -1,0 +1,41 @@
+{
+  "artistName": "Jasmine Thompson",
+  "features": [
+    {
+      "featuredArtist": "Felix Jaehn",
+      "featuredArtistId": "4bL2B6hmLlMWnUEZnorEtG",
+      "trackName": "Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson)",
+      "trackId": "3c8iiZGfEammKJuWTErE5x",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/060e6c9f236c9cabecc2e2480217df55a75f563f",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Hügel",
+      "featuredArtistId": "7sv6WZ6YNudqT7bXeOqNog",
+      "trackName": "Where We Belong - Extended Mix",
+      "trackId": "6LdmEqdvkr0VNyXaSNTdct",
+      "preview": "https://p.scdn.co/mp3-preview/cdd50259237a2ce24f0fce0c31a2e508c4dcfa75?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/20342f078918f654257bffe3e28b3f1ef06cddc6",
+      "release_date": "2017-01-20"
+    },
+    {
+      "featuredArtist": "HUGEL",
+      "featuredArtistId": "5PlfkPxwCpRRWQJBxCa0By",
+      "trackName": "Where We Belong - Calvo Remix",
+      "trackId": "3ERZd98AdGgJGDUPqIZBRS",
+      "preview": "https://p.scdn.co/mp3-preview/f352bcb5b8a4a987ebaed91bb8c88d06a06e024a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f532e7cf629517b6019fc5c8d63f8f3fbdab54ba",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Calvo",
+      "featuredArtistId": "1RG6N2hMs8mejMEIvrcFl3",
+      "trackName": "Where We Belong - Calvo Remix",
+      "trackId": "3ERZd98AdGgJGDUPqIZBRS",
+      "preview": "https://p.scdn.co/mp3-preview/f352bcb5b8a4a987ebaed91bb8c88d06a06e024a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f532e7cf629517b6019fc5c8d63f8f3fbdab54ba",
+      "release_date": "2016-10-21"
+    }
+  ]
+}

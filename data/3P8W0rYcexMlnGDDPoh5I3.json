@@ -1,0 +1,509 @@
+{
+  "artistName": "Jennifer Laura Thompson",
+  "features": [
+    {
+      "featuredArtist": "Rachel Bay Jones",
+      "featuredArtistId": "782wocBbKLROLTSPViayHH",
+      "trackName": "In The Bedroom Down The Hall - Demo",
+      "trackId": "0Xxp5uwvCpdTQmzqzN4V17",
+      "preview": "https://p.scdn.co/mp3-preview/65b6e9bc5c95b8dc6e746949dacd25579a362b52?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/906da1a3de48ae578645ba92c3a5c73fdb121d94",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Laura Dreyfuss",
+      "featuredArtistId": "5hqM93qFRmwRv3QGrLO0jK",
+      "trackName": "Requiem",
+      "trackId": "4BoTrCdVPZHU4iBC0kcid7",
+      "preview": "https://p.scdn.co/mp3-preview/7c2cd1a91a3d6b9a01fe341743c11bb3e4311691?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/09b6b9c97794250f1972e81fbbf70d5b06f4347a",
+      "release_date": "2017-01-27"
+    },
+    {
+      "featuredArtist": "Michael Park",
+      "featuredArtistId": "2fPpoCU3oYJkQERSp1nXY2",
+      "trackName": "Requiem",
+      "trackId": "4BoTrCdVPZHU4iBC0kcid7",
+      "preview": "https://p.scdn.co/mp3-preview/7c2cd1a91a3d6b9a01fe341743c11bb3e4311691?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/09b6b9c97794250f1972e81fbbf70d5b06f4347a",
+      "release_date": "2017-01-27"
+    },
+    {
+      "featuredArtist": "Mike Faist",
+      "featuredArtistId": "3OPl8pWnz8rdYTiaNQ0eMv",
+      "trackName": "Disappear",
+      "trackId": "4VM6WUdnRnBv6cHAjyzxcK",
+      "preview": "https://p.scdn.co/mp3-preview/242b7542089a684c7e296e12666b77999d580b1d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/09b6b9c97794250f1972e81fbbf70d5b06f4347a",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Ben Platt",
+      "featuredArtistId": "6qGkLCMQkNGOJ079iEcC5k",
+      "trackName": "Disappear",
+      "trackId": "4VM6WUdnRnBv6cHAjyzxcK",
+      "preview": "https://p.scdn.co/mp3-preview/242b7542089a684c7e296e12666b77999d580b1d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/09b6b9c97794250f1972e81fbbf70d5b06f4347a",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Kristolyn Lloyd",
+      "featuredArtistId": "31Rv7Yk0rBrYdQ0ELNZDaR",
+      "trackName": "Disappear",
+      "trackId": "4VM6WUdnRnBv6cHAjyzxcK",
+      "preview": "https://p.scdn.co/mp3-preview/242b7542089a684c7e296e12666b77999d580b1d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/09b6b9c97794250f1972e81fbbf70d5b06f4347a",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Will Roland",
+      "featuredArtistId": "2FYB9zfwe2ayj4zfNeh466",
+      "trackName": "Disappear",
+      "trackId": "4VM6WUdnRnBv6cHAjyzxcK",
+      "preview": "https://p.scdn.co/mp3-preview/242b7542089a684c7e296e12666b77999d580b1d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/09b6b9c97794250f1972e81fbbf70d5b06f4347a",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Original Broadway Cast of Dear Evan Hansen",
+      "featuredArtistId": "5bi4lyuj5ZrayYKlibl9ij",
+      "trackName": "Disappear",
+      "trackId": "4VM6WUdnRnBv6cHAjyzxcK",
+      "preview": "https://p.scdn.co/mp3-preview/242b7542089a684c7e296e12666b77999d580b1d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/09b6b9c97794250f1972e81fbbf70d5b06f4347a",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Patti Murin",
+      "featuredArtistId": "2truTVhyxUBTevrNjAA1tz",
+      "trackName": "Finale Act I",
+      "trackId": "2VTyuJyLtA4rUV3Q9WdPJt",
+      "preview": "https://p.scdn.co/mp3-preview/560cc4389cf2cab527058894a195fe999721473d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/809c82ab570ad437800d9966ec3d3f259ba5a743",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "Douglas Sills",
+      "featuredArtistId": "1Vzu1p8mocdAnLrpHD9e5E",
+      "trackName": "Finale Act I",
+      "trackId": "2VTyuJyLtA4rUV3Q9WdPJt",
+      "preview": "https://p.scdn.co/mp3-preview/560cc4389cf2cab527058894a195fe999721473d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/809c82ab570ad437800d9966ec3d3f259ba5a743",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "Lady Be Good 2015 Encores! Cast",
+      "featuredArtistId": "2ssvP0QiRL1FqjEU48w4cU",
+      "trackName": "Finale Act I",
+      "trackId": "2VTyuJyLtA4rUV3Q9WdPJt",
+      "preview": "https://p.scdn.co/mp3-preview/560cc4389cf2cab527058894a195fe999721473d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/809c82ab570ad437800d9966ec3d3f259ba5a743",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "Bubble Girls & Boys",
+      "featuredArtistId": "3TuWpjrbTpUysleNvrkK7K",
+      "trackName": "Delishious",
+      "trackId": "0K4iIoh0Dp984ct1uiXN9B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6d2287f6d1623bc8390a57b096b3d3eeac98d719",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "The Chorus Girls",
+      "featuredArtistId": "1iVhNnTm6Bx3gn8Vspiarr",
+      "trackName": "I've Got A Crush On You",
+      "trackId": "0ZoiKpkkghX0GcPj3xPj8a",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6d2287f6d1623bc8390a57b096b3d3eeac98d719",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Vice Squad",
+      "featuredArtistId": "2bnpJ3162H9AjVDukIheOn",
+      "trackName": "I've Got A Crush On You",
+      "trackId": "0ZoiKpkkghX0GcPj3xPj8a",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6d2287f6d1623bc8390a57b096b3d3eeac98d719",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Billy Hartung",
+      "featuredArtistId": "57GnjTuOwRwGoyuaoYcwR0",
+      "trackName": "The Girl Gets Around",
+      "trackId": "3GjHfGp9O2W1fmoSUJIm01",
+      "preview": "https://p.scdn.co/mp3-preview/99f9c38f2ae12bc3bc67641cb6c96d71b7dbbea6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d7b9a76e1ad2a241d5f38e6be5a7262b3a925730",
+      "release_date": "2011-10-04"
+    },
+    {
+      "featuredArtist": "Bryant Carroll",
+      "featuredArtistId": "38jWabytj9kGhy2xnCx6kf",
+      "trackName": "The Girl Gets Around",
+      "trackId": "3GjHfGp9O2W1fmoSUJIm01",
+      "preview": "https://p.scdn.co/mp3-preview/99f9c38f2ae12bc3bc67641cb6c96d71b7dbbea6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d7b9a76e1ad2a241d5f38e6be5a7262b3a925730",
+      "release_date": "2011-10-04"
+    },
+    {
+      "featuredArtist": "Jim Ambler",
+      "featuredArtistId": "5FWchvWX6RVcAT01q18edU",
+      "trackName": "The Girl Gets Around",
+      "trackId": "3GjHfGp9O2W1fmoSUJIm01",
+      "preview": "https://p.scdn.co/mp3-preview/99f9c38f2ae12bc3bc67641cb6c96d71b7dbbea6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d7b9a76e1ad2a241d5f38e6be5a7262b3a925730",
+      "release_date": "2011-10-04"
+    },
+    {
+      "featuredArtist": "Stacy Francis",
+      "featuredArtistId": "05jDHlOegZMUX6mS0oLG91",
+      "trackName": "Holding Out For A Hero!",
+      "trackId": "2qClOURUoUvU8DTRptTC3T",
+      "preview": "https://p.scdn.co/mp3-preview/309b008c07a8fc422b96b6ea758e849864004840?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d7b9a76e1ad2a241d5f38e6be5a7262b3a925730",
+      "release_date": "2011-10-04"
+    },
+    {
+      "featuredArtist": "Rosalind Brown",
+      "featuredArtistId": "0Kynk1YSA72GLxtUTKCLud",
+      "trackName": "Holding Out For A Hero!",
+      "trackId": "2qClOURUoUvU8DTRptTC3T",
+      "preview": "https://p.scdn.co/mp3-preview/309b008c07a8fc422b96b6ea758e849864004840?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d7b9a76e1ad2a241d5f38e6be5a7262b3a925730",
+      "release_date": "2011-10-04"
+    },
+    {
+      "featuredArtist": "Kathy Deitch",
+      "featuredArtistId": "0AaYspRKRCf5hHaiwKr5gJ",
+      "trackName": "Holding Out For A Hero!",
+      "trackId": "2qClOURUoUvU8DTRptTC3T",
+      "preview": "https://p.scdn.co/mp3-preview/309b008c07a8fc422b96b6ea758e849864004840?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d7b9a76e1ad2a241d5f38e6be5a7262b3a925730",
+      "release_date": "2011-10-04"
+    },
+    {
+      "featuredArtist": "Donna Lee Marshall",
+      "featuredArtistId": "2q6g8iDMZUVLLfcVGCDyFm",
+      "trackName": "Let's Hear It For The Boy",
+      "trackId": "4SazH9PwRRdOGzAwh3BZFt",
+      "preview": "https://p.scdn.co/mp3-preview/886ca4b1475452004d0781a8939b09389c22467e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d7b9a76e1ad2a241d5f38e6be5a7262b3a925730",
+      "release_date": "2011-10-04"
+    },
+    {
+      "featuredArtist": "Robin Baxter",
+      "featuredArtistId": "48peONoq9PEEJN6bvPjuda",
+      "trackName": "Let's Hear It For The Boy",
+      "trackId": "4SazH9PwRRdOGzAwh3BZFt",
+      "preview": "https://p.scdn.co/mp3-preview/886ca4b1475452004d0781a8939b09389c22467e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d7b9a76e1ad2a241d5f38e6be5a7262b3a925730",
+      "release_date": "2011-10-04"
+    },
+    {
+      "featuredArtist": "Jeremy Kushnier",
+      "featuredArtistId": "2lIEXxk8hjg3RtNAk3W250",
+      "trackName": "Almost Paradise",
+      "trackId": "5xRLBLTc21ajMZYR2T7Jea",
+      "preview": "https://p.scdn.co/mp3-preview/ea397382c3788b4d2a5f56333c88dd76b0d3ef58?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d7b9a76e1ad2a241d5f38e6be5a7262b3a925730",
+      "release_date": "2011-10-04"
+    },
+    {
+      "featuredArtist": "Jake Wilson",
+      "featuredArtistId": "53L2c4o3b48urGaoHYXgge",
+      "trackName": "If These Walls Could Talk (The Sardi's Song)",
+      "trackId": "4Pk2b6bPmlyRIjqs7mg7lh",
+      "preview": "https://p.scdn.co/mp3-preview/d1d96db75fc6af57d71db6af8babe32c85592972?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d1fc0a1d8cdd4c8060d3bceec38686aa984b4090",
+      "release_date": "2010-04-13"
+    },
+    {
+      "featuredArtist": "The Broadway Cast Of \"Wicked\"",
+      "featuredArtistId": "1RORqje5IPABjGDbTens1W",
+      "trackName": "Christmas Wrapping (feat. Jennifer Laura Thompson, Carole Shelley & Michelle Federer)",
+      "trackId": "2iil2cvUFlliEKJoPbThcE",
+      "preview": "https://p.scdn.co/mp3-preview/06e473fa06f0ed839e2747bd30128b11df106954?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3fc803b674a32fd0673fa8969a4ca88b8a1e734",
+      "release_date": "2004-10-22"
+    },
+    {
+      "featuredArtist": "Carole Shelley",
+      "featuredArtistId": "31qXl2kZWi81O4SU8Efvys",
+      "trackName": "Christmas Wrapping (feat. Jennifer Laura Thompson, Carole Shelley & Michelle Federer)",
+      "trackId": "2iil2cvUFlliEKJoPbThcE",
+      "preview": "https://p.scdn.co/mp3-preview/06e473fa06f0ed839e2747bd30128b11df106954?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3fc803b674a32fd0673fa8969a4ca88b8a1e734",
+      "release_date": "2004-10-22"
+    },
+    {
+      "featuredArtist": "Michelle Federer",
+      "featuredArtistId": "724Af947xg6pNu4xiwhYsV",
+      "trackName": "Christmas Wrapping (feat. Jennifer Laura Thompson, Carole Shelley & Michelle Federer)",
+      "trackId": "2iil2cvUFlliEKJoPbThcE",
+      "preview": "https://p.scdn.co/mp3-preview/06e473fa06f0ed839e2747bd30128b11df106954?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3fc803b674a32fd0673fa8969a4ca88b8a1e734",
+      "release_date": "2004-10-22"
+    },
+    {
+      "featuredArtist": "Andrea Burns",
+      "featuredArtistId": "23OBpHr3yXnMMCu13Fg1Oa",
+      "trackName": "Overture",
+      "trackId": "3pidtIRzuOAnmvwh3tmD0j",
+      "preview": "https://p.scdn.co/mp3-preview/3384d13b6de83b32f993239429642465d7570740?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/338b072f78c9c64d29442a8e4ed21d201a62eeb3",
+      "release_date": "2004-05-25"
+    },
+    {
+      "featuredArtist": "Mario Cantone",
+      "featuredArtistId": "02JFE9XezO2Am7uiVHHume",
+      "trackName": "Overture",
+      "trackId": "3pidtIRzuOAnmvwh3tmD0j",
+      "preview": "https://p.scdn.co/mp3-preview/3384d13b6de83b32f993239429642465d7570740?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/338b072f78c9c64d29442a8e4ed21d201a62eeb3",
+      "release_date": "2004-05-25"
+    },
+    {
+      "featuredArtist": "Carolee Carmello",
+      "featuredArtistId": "05AYNNHK2QrbfVD1iawhp2",
+      "trackName": "Overture",
+      "trackId": "3pidtIRzuOAnmvwh3tmD0j",
+      "preview": "https://p.scdn.co/mp3-preview/3384d13b6de83b32f993239429642465d7570740?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/338b072f78c9c64d29442a8e4ed21d201a62eeb3",
+      "release_date": "2004-05-25"
+    },
+    {
+      "featuredArtist": "Gavin Creel",
+      "featuredArtistId": "1jYpJw3SwzAvRKqmGQalrm",
+      "trackName": "Overture",
+      "trackId": "3pidtIRzuOAnmvwh3tmD0j",
+      "preview": "https://p.scdn.co/mp3-preview/3384d13b6de83b32f993239429642465d7570740?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/338b072f78c9c64d29442a8e4ed21d201a62eeb3",
+      "release_date": "2004-05-25"
+    },
+    {
+      "featuredArtist": "Mark Linn-Baker",
+      "featuredArtistId": "7s9ytmXN1E7biQOPQ2rruk",
+      "trackName": "Overture",
+      "trackId": "3pidtIRzuOAnmvwh3tmD0j",
+      "preview": "https://p.scdn.co/mp3-preview/3384d13b6de83b32f993239429642465d7570740?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/338b072f78c9c64d29442a8e4ed21d201a62eeb3",
+      "release_date": "2004-05-25"
+    },
+    {
+      "featuredArtist": "Deborah Tranelli",
+      "featuredArtistId": "3MwSEhtLmH8s78yuA3ojml",
+      "trackName": "Overture",
+      "trackId": "3pidtIRzuOAnmvwh3tmD0j",
+      "preview": "https://p.scdn.co/mp3-preview/3384d13b6de83b32f993239429642465d7570740?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/338b072f78c9c64d29442a8e4ed21d201a62eeb3",
+      "release_date": "2004-05-25"
+    },
+    {
+      "featuredArtist": "Anne Kaufman",
+      "featuredArtistId": "1dOV5fxqnqxAQwAy3obpg0",
+      "trackName": "Overture",
+      "trackId": "3pidtIRzuOAnmvwh3tmD0j",
+      "preview": "https://p.scdn.co/mp3-preview/3384d13b6de83b32f993239429642465d7570740?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/338b072f78c9c64d29442a8e4ed21d201a62eeb3",
+      "release_date": "2004-05-25"
+    },
+    {
+      "featuredArtist": "Ann Hampton Callaway",
+      "featuredArtistId": "5wHvUotfxzSccrzX9x9g6e",
+      "trackName": "Overture",
+      "trackId": "3pidtIRzuOAnmvwh3tmD0j",
+      "preview": "https://p.scdn.co/mp3-preview/3384d13b6de83b32f993239429642465d7570740?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/338b072f78c9c64d29442a8e4ed21d201a62eeb3",
+      "release_date": "2004-05-25"
+    },
+    {
+      "featuredArtist": "Jack Donahue",
+      "featuredArtistId": "5bKVAPIZH8bBJn2yu5rqf9",
+      "trackName": "Overture",
+      "trackId": "3pidtIRzuOAnmvwh3tmD0j",
+      "preview": "https://p.scdn.co/mp3-preview/3384d13b6de83b32f993239429642465d7570740?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/338b072f78c9c64d29442a8e4ed21d201a62eeb3",
+      "release_date": "2004-05-25"
+    },
+    {
+      "featuredArtist": "Natalie Douglas",
+      "featuredArtistId": "0UsfxS954nzdScjSw5j5J9",
+      "trackName": "Overture",
+      "trackId": "3pidtIRzuOAnmvwh3tmD0j",
+      "preview": "https://p.scdn.co/mp3-preview/3384d13b6de83b32f993239429642465d7570740?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/338b072f78c9c64d29442a8e4ed21d201a62eeb3",
+      "release_date": "2004-05-25"
+    },
+    {
+      "featuredArtist": "Jessica Molaskey",
+      "featuredArtistId": "5QNZRrmYSHM0rjRjcm5B4V",
+      "trackName": "Overture",
+      "trackId": "3pidtIRzuOAnmvwh3tmD0j",
+      "preview": "https://p.scdn.co/mp3-preview/3384d13b6de83b32f993239429642465d7570740?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/338b072f78c9c64d29442a8e4ed21d201a62eeb3",
+      "release_date": "2004-05-25"
+    },
+    {
+      "featuredArtist": "John Pizzarelli",
+      "featuredArtistId": "5Yc3oYPNlABAj17eZiNJqf",
+      "trackName": "Overture",
+      "trackId": "3pidtIRzuOAnmvwh3tmD0j",
+      "preview": "https://p.scdn.co/mp3-preview/3384d13b6de83b32f993239429642465d7570740?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/338b072f78c9c64d29442a8e4ed21d201a62eeb3",
+      "release_date": "2004-05-25"
+    },
+    {
+      "featuredArtist": "Kay Swift",
+      "featuredArtistId": "2eJOKmhqfF7P4PTMXQCUsh",
+      "trackName": "Overture",
+      "trackId": "3pidtIRzuOAnmvwh3tmD0j",
+      "preview": "https://p.scdn.co/mp3-preview/3384d13b6de83b32f993239429642465d7570740?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/338b072f78c9c64d29442a8e4ed21d201a62eeb3",
+      "release_date": "2004-05-25"
+    },
+    {
+      "featuredArtist": "Paul James",
+      "featuredArtistId": "7Bz9kkrjPEjS9bbrKecX4J",
+      "trackName": "Overture",
+      "trackId": "3pidtIRzuOAnmvwh3tmD0j",
+      "preview": "https://p.scdn.co/mp3-preview/3384d13b6de83b32f993239429642465d7570740?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/338b072f78c9c64d29442a8e4ed21d201a62eeb3",
+      "release_date": "2004-05-25"
+    },
+    {
+      "featuredArtist": "Fine And Dandy Male Ensemble",
+      "featuredArtistId": "5ncvHtTJIawtdUpegaArWm",
+      "trackName": "Sing High",
+      "trackId": "7dvl7d0M90z3Nv6iqZHcdV",
+      "preview": "https://p.scdn.co/mp3-preview/bb74b8722599a995e34c7a55182aa915bce88f2e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/338b072f78c9c64d29442a8e4ed21d201a62eeb3",
+      "release_date": "2004-05-25"
+    },
+    {
+      "featuredArtist": "Fine And Dandy Ensemble",
+      "featuredArtistId": "0ww1wR8v0Io0O2wOHOTVdS",
+      "trackName": "Fordyce",
+      "trackId": "3BxLTtYimLpItNtq7LWjWI",
+      "preview": "https://p.scdn.co/mp3-preview/439c880a205f0981798e8f0fa040858565e3dd82?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/338b072f78c9c64d29442a8e4ed21d201a62eeb3",
+      "release_date": "2004-05-25"
+    },
+    {
+      "featuredArtist": "John Cullum",
+      "featuredArtistId": "1odplm0E6R5DQDgfdPqfL5",
+      "trackName": "Mr. Cladwell",
+      "trackId": "2jguMcLIOf5QbTAtpTCdAr",
+      "preview": "https://p.scdn.co/mp3-preview/553e00247f1fc17ab6069804be5a38ba2e55bfa0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe5cfbd0fd13b16e26640075197f7e7f713e2f94",
+      "release_date": "1990-01-01"
+    },
+    {
+      "featuredArtist": "David Beach",
+      "featuredArtistId": "7m8Og8PE4NXyvgq0DxzeBH",
+      "trackName": "Mr. Cladwell",
+      "trackId": "2jguMcLIOf5QbTAtpTCdAr",
+      "preview": "https://p.scdn.co/mp3-preview/553e00247f1fc17ab6069804be5a38ba2e55bfa0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe5cfbd0fd13b16e26640075197f7e7f713e2f94",
+      "release_date": "1990-01-01"
+    },
+    {
+      "featuredArtist": "Rick Crom",
+      "featuredArtistId": "0zHHDaS9I0KpSOazf9dwOG",
+      "trackName": "Mr. Cladwell",
+      "trackId": "2jguMcLIOf5QbTAtpTCdAr",
+      "preview": "https://p.scdn.co/mp3-preview/553e00247f1fc17ab6069804be5a38ba2e55bfa0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe5cfbd0fd13b16e26640075197f7e7f713e2f94",
+      "release_date": "1990-01-01"
+    },
+    {
+      "featuredArtist": "Rachel Coloff",
+      "featuredArtistId": "4FC374Ps5r1UFxDWn0M5yI",
+      "trackName": "Mr. Cladwell",
+      "trackId": "2jguMcLIOf5QbTAtpTCdAr",
+      "preview": "https://p.scdn.co/mp3-preview/553e00247f1fc17ab6069804be5a38ba2e55bfa0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe5cfbd0fd13b16e26640075197f7e7f713e2f94",
+      "release_date": "1990-01-01"
+    },
+    {
+      "featuredArtist": "Victor W. Hawks",
+      "featuredArtistId": "293GuVObI7zzrgZUDogL5D",
+      "trackName": "Mr. Cladwell",
+      "trackId": "2jguMcLIOf5QbTAtpTCdAr",
+      "preview": "https://p.scdn.co/mp3-preview/553e00247f1fc17ab6069804be5a38ba2e55bfa0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe5cfbd0fd13b16e26640075197f7e7f713e2f94",
+      "release_date": "1990-01-01"
+    },
+    {
+      "featuredArtist": "Megan Lawrence",
+      "featuredArtistId": "7hNPP1C4xZP0eYlUAhvyjp",
+      "trackName": "Mr. Cladwell",
+      "trackId": "2jguMcLIOf5QbTAtpTCdAr",
+      "preview": "https://p.scdn.co/mp3-preview/553e00247f1fc17ab6069804be5a38ba2e55bfa0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe5cfbd0fd13b16e26640075197f7e7f713e2f94",
+      "release_date": "1990-01-01"
+    },
+    {
+      "featuredArtist": "Lawrence Street",
+      "featuredArtistId": "2EQwysDW4VsyWBK7kWb7Sc",
+      "trackName": "Mr. Cladwell",
+      "trackId": "2jguMcLIOf5QbTAtpTCdAr",
+      "preview": "https://p.scdn.co/mp3-preview/553e00247f1fc17ab6069804be5a38ba2e55bfa0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe5cfbd0fd13b16e26640075197f7e7f713e2f94",
+      "release_date": "1990-01-01"
+    },
+    {
+      "featuredArtist": "Kay Walbye",
+      "featuredArtistId": "7FqD3vKOfcHLO2HFH3Om2k",
+      "trackName": "Mr. Cladwell",
+      "trackId": "2jguMcLIOf5QbTAtpTCdAr",
+      "preview": "https://p.scdn.co/mp3-preview/553e00247f1fc17ab6069804be5a38ba2e55bfa0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe5cfbd0fd13b16e26640075197f7e7f713e2f94",
+      "release_date": "1990-01-01"
+    },
+    {
+      "featuredArtist": "Hunter Foster",
+      "featuredArtistId": "43BnUJBWDZs1vEHVIStQRR",
+      "trackName": "Follow Your Heart",
+      "trackId": "0Gd1a411teOkqabjT1YAWm",
+      "preview": "https://p.scdn.co/mp3-preview/4517d9bb3916957dcee66f3c6641a4f9f0f36714?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe5cfbd0fd13b16e26640075197f7e7f713e2f94",
+      "release_date": "1990-01-01"
+    },
+    {
+      "featuredArtist": "John Deyle",
+      "featuredArtistId": "7MZAlJee0Uhb8vqs2ALBIW",
+      "trackName": "Don't Be the Bunny",
+      "trackId": "1CgYaOsyCtOMcrAyXIyUQp",
+      "preview": "https://p.scdn.co/mp3-preview/738ae16dc0e5bd93e802bce9faf4f7663cf59860?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe5cfbd0fd13b16e26640075197f7e7f713e2f94",
+      "release_date": "1990-01-01"
+    },
+    {
+      "featuredArtist": "Daniel Marcus",
+      "featuredArtistId": "3P3JCeWhMwkdXAcrmVu5GP",
+      "trackName": "Don't Be the Bunny",
+      "trackId": "1CgYaOsyCtOMcrAyXIyUQp",
+      "preview": "https://p.scdn.co/mp3-preview/738ae16dc0e5bd93e802bce9faf4f7663cf59860?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe5cfbd0fd13b16e26640075197f7e7f713e2f94",
+      "release_date": "1990-01-01"
+    },
+    {
+      "featuredArtist": "Jeff McCarthy",
+      "featuredArtistId": "07vzklKZZX3NpUsFyRObAI",
+      "trackName": "Don't Be the Bunny",
+      "trackId": "1CgYaOsyCtOMcrAyXIyUQp",
+      "preview": "https://p.scdn.co/mp3-preview/738ae16dc0e5bd93e802bce9faf4f7663cf59860?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe5cfbd0fd13b16e26640075197f7e7f713e2f94",
+      "release_date": "1990-01-01"
+    },
+    {
+      "featuredArtist": "Nancy Opel",
+      "featuredArtistId": "5pBZqH0Y3SbppON4W4jpzF",
+      "trackName": "Don't Be the Bunny",
+      "trackId": "1CgYaOsyCtOMcrAyXIyUQp",
+      "preview": "https://p.scdn.co/mp3-preview/738ae16dc0e5bd93e802bce9faf4f7663cf59860?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe5cfbd0fd13b16e26640075197f7e7f713e2f94",
+      "release_date": "1990-01-01"
+    }
+  ]
+}

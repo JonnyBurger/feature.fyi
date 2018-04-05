@@ -1,0 +1,23 @@
+{
+  "artistName": "Judy Santos",
+  "features": [
+    {
+      "featuredArtist": "Toby Love",
+      "featuredArtistId": "72R3RMGmSmzG57R7OUaDaN",
+      "trackName": "No Hay Colores (feat. Judy Santos)",
+      "trackId": "6u2qRsPJ7FWtXFKrhWO0Lh",
+      "preview": "https://p.scdn.co/mp3-preview/9d43dff9cbec7fe84ae818df89a586e202d885e5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac465c3ae517882e0ef991404469c283ee044b06",
+      "release_date": "2016-06-24"
+    },
+    {
+      "featuredArtist": "Aventura",
+      "featuredArtistId": "1qto4hHid1P71emI6Fd8xi",
+      "trackName": "Obsesión",
+      "trackId": "56rksivsR0bDac41fdTZK3",
+      "preview": "https://p.scdn.co/mp3-preview/df438dd31d32b8855a6ed245c74b0f55cebcb8b3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2b57c9103946c7983ff62cb8878cdf58602b0135",
+      "release_date": "2016-02-05"
+    }
+  ]
+}

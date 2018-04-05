@@ -1,0 +1,23 @@
+{
+  "artistName": "Henry Jackman",
+  "features": [
+    {
+      "featuredArtist": "Matthew Margeson",
+      "featuredArtistId": "0XoDro3xyUJ9BEf5FlSECi",
+      "trackName": "Eggsy Is Back",
+      "trackId": "3ZuSGwya3hQ2Ybiy4Jj5DE",
+      "preview": "https://p.scdn.co/mp3-preview/bb224577cae8b7c84e5a0b751e19f897bdedd51b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e75ffcfe9278fe90c8638ca6351d6d3cf4399b0b",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Dominic Lewis",
+      "featuredArtistId": "3L0d5AOt1pZZ2HxjJ15p2U",
+      "trackName": "Edelweiss - Vocal",
+      "trackId": "4oPIUaMzdTENm4MJioiEAe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b128da3cb124a9fd87e4a6741dc23c5f2c72f70e",
+      "release_date": "2017-02-10"
+    }
+  ]
+}

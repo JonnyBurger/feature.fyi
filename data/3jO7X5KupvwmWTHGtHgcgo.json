@@ -1,0 +1,86 @@
+{
+  "artistName": "Charly García",
+  "features": [
+    {
+      "featuredArtist": "Nito Mestre",
+      "featuredArtistId": "46JHFFEjLKbXhMQsU5vSGm",
+      "trackName": "Instituciones - En Vivo",
+      "trackId": "6SBXwPtLSp6DZHGFDC3XSO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4c02ef4cf020ba8e2413dd1a48a2cf17276f064c",
+      "release_date": "2012-11-01"
+    },
+    {
+      "featuredArtist": "Graciela Borges",
+      "featuredArtistId": "6yut1ss4dsR2TGJNyPubM1",
+      "trackName": "20 Trajes de Lágrimas II - En Vivo",
+      "trackId": "7GNA2t5GQ3IJ1459qNXe8G",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4c02ef4cf020ba8e2413dd1a48a2cf17276f064c",
+      "release_date": "2012-11-01"
+    },
+    {
+      "featuredArtist": "Juanse",
+      "featuredArtistId": "5AQlQBU9LCmQwReukeom2I",
+      "trackName": "La Sal No Sala - En Vivo",
+      "trackId": "0fGdFQpbiOEVicfILQrtIV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4c02ef4cf020ba8e2413dd1a48a2cf17276f064c",
+      "release_date": "2012-11-01"
+    },
+    {
+      "featuredArtist": "Pedro Aznar",
+      "featuredArtistId": "2FFrhWZS9vJsh2UvxYPRr6",
+      "trackName": "Perro Andaluz - En Vivo",
+      "trackId": "2GZzjxl2ZwqlEiFnhMBwhz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4c02ef4cf020ba8e2413dd1a48a2cf17276f064c",
+      "release_date": "2012-11-01"
+    },
+    {
+      "featuredArtist": "Juan Alberto Badía",
+      "featuredArtistId": "3B9AojYS04GBRU03fJmsWB",
+      "trackName": "La Chica Que Se Robó al Mundo - En Vivo",
+      "trackId": "1xcu78gHH3w9cib3055fh8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d0cba23b1398e2621474a269dc1302b60a299b74",
+      "release_date": "2012-11-01"
+    },
+    {
+      "featuredArtist": "Fito Páez",
+      "featuredArtistId": "1bZNv4q3OxYq7mmnLha7Tu",
+      "trackName": "No Se Va Llamar Mi Amor - En Vivo",
+      "trackId": "0mRGtLzr7T3h2Wf8dLTm6M",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d0cba23b1398e2621474a269dc1302b60a299b74",
+      "release_date": "2012-11-01"
+    },
+    {
+      "featuredArtist": "Luis Alberto Spinetta",
+      "featuredArtistId": "1MuQ2m2tg7naeRGAOxYZer",
+      "trackName": "Rezo Por Vos",
+      "trackId": "5PEcbKCmhlbSDUl34Oo4Mi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cbbf34fea5f9c89cbcc6522ee28a53e93d5be740",
+      "release_date": "1999-01-01"
+    },
+    {
+      "featuredArtist": "Diego Dubarry",
+      "featuredArtistId": "7vPzb8JASOQDCbb9gJAwUV",
+      "trackName": "Correte Beethoven - Roll Over Beethoven",
+      "trackId": "58D0ABMaZKYR7cOrxOQuTm",
+      "preview": "https://p.scdn.co/mp3-preview/78c64dc5ccc4eccfcfb04b7c2bcafb515c89512b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03f7d318aa82fcab773247beebca77a7defaaa70",
+      "release_date": "1998-06-12"
+    },
+    {
+      "featuredArtist": "Marcos Sanz",
+      "featuredArtistId": "5qXLdXguHfVwTlH1qseUhe",
+      "trackName": "Correte Beethoven - Roll Over Beethoven",
+      "trackId": "58D0ABMaZKYR7cOrxOQuTm",
+      "preview": "https://p.scdn.co/mp3-preview/78c64dc5ccc4eccfcfb04b7c2bcafb515c89512b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/03f7d318aa82fcab773247beebca77a7defaaa70",
+      "release_date": "1998-06-12"
+    }
+  ]
+}

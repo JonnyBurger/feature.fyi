@@ -1,0 +1,131 @@
+{
+  "artistName": "Oscar Peterson",
+  "features": [
+    {
+      "featuredArtist": "Fred Astaire",
+      "featuredArtistId": "4BtDAwCZhR6nPrJtbVgQNX",
+      "trackName": "(Ad Lib) Fast Dances",
+      "trackId": "6DPKwRGI502cL0lZoxdOpf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8ef5e0eccfabaec15bf60077ee13a99b4534301d",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Lionel Hampton",
+      "featuredArtistId": "2PjgZkwAEk7UTin4jP6HLP",
+      "trackName": "Love For Sale",
+      "trackId": "7r0923d34Wsf5279jzwzIs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5846789cb7599e9469417f1da677680d1f0cf359",
+      "release_date": "2014-08-18"
+    },
+    {
+      "featuredArtist": "Buddy Rich",
+      "featuredArtistId": "1pVtwG5Up1OZOEpSHJ4AAs",
+      "trackName": "Love For Sale",
+      "trackId": "7r0923d34Wsf5279jzwzIs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5846789cb7599e9469417f1da677680d1f0cf359",
+      "release_date": "2014-08-18"
+    },
+    {
+      "featuredArtist": "Ray Brown",
+      "featuredArtistId": "0SvD7DL5CQTbcrMtns1US8",
+      "trackName": "Love For Sale",
+      "trackId": "7r0923d34Wsf5279jzwzIs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5846789cb7599e9469417f1da677680d1f0cf359",
+      "release_date": "2014-08-18"
+    },
+    {
+      "featuredArtist": "Herb Ellis",
+      "featuredArtistId": "3cE7UG46bdFd8gHHgzyQEz",
+      "trackName": "Stormy Weather",
+      "trackId": "4o9npmYHrOF1rUxxTVH8h4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5846789cb7599e9469417f1da677680d1f0cf359",
+      "release_date": "2014-08-18"
+    },
+    {
+      "featuredArtist": "Bucky Pizzarelli",
+      "featuredArtistId": "0Adi1C37oMa2axoBWcMtxq",
+      "trackName": "Sally's Tomato",
+      "trackId": "5Qp8usu6WfssFsLOgVMvdP",
+      "preview": "https://p.scdn.co/mp3-preview/209051456bd07a20aee75cb5c854152711c02c27?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/70ab40ac35dd9e2c48edcb95365faf430bec9101",
+      "release_date": "2014-01-31"
+    },
+    {
+      "featuredArtist": "Sam Jones",
+      "featuredArtistId": "1kAv08slEx0DSJkSOrKlsY",
+      "trackName": "Sally's Tomato",
+      "trackId": "5Qp8usu6WfssFsLOgVMvdP",
+      "preview": "https://p.scdn.co/mp3-preview/209051456bd07a20aee75cb5c854152711c02c27?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/70ab40ac35dd9e2c48edcb95365faf430bec9101",
+      "release_date": "2014-01-31"
+    },
+    {
+      "featuredArtist": "Bobby Durham",
+      "featuredArtistId": "1xOCzN0vNLPS8DQPVKCFPh",
+      "trackName": "Sally's Tomato",
+      "trackId": "5Qp8usu6WfssFsLOgVMvdP",
+      "preview": "https://p.scdn.co/mp3-preview/209051456bd07a20aee75cb5c854152711c02c27?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/70ab40ac35dd9e2c48edcb95365faf430bec9101",
+      "release_date": "2014-01-31"
+    },
+    {
+      "featuredArtist": "Clark Terry",
+      "featuredArtistId": "62xdwGEOLoGQxKUqoJusyU",
+      "trackName": "Trust In Me",
+      "trackId": "15V8eAfhZ9UZIX6GXBzlH5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0b44c05c0401bf48c7a3e64a526bd3147fe3a85e",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Joe Pass",
+      "featuredArtistId": "4DuZTASH5eSyd0K73W6fuZ",
+      "trackName": "Summertime",
+      "trackId": "5BO30GZ8AB1cLOoMDcNDEl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0b44c05c0401bf48c7a3e64a526bd3147fe3a85e",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Stéphane Grappelli",
+      "featuredArtistId": "6AfbDYupHV5e6nse9W6tKG",
+      "trackName": "Nuages - Live At The Tivoli Gardens, Copenhagen / 1979",
+      "trackId": "1QJQVQY3TByGPnric8159p",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c012bf476af76b77366db8a45958809bfe89a8ec",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Mickey Roker",
+      "featuredArtistId": "6zMUrKoPJzeSPf9ueaOS0j",
+      "trackName": "Nuages - Live At The Tivoli Gardens, Copenhagen / 1979",
+      "trackId": "1QJQVQY3TByGPnric8159p",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c012bf476af76b77366db8a45958809bfe89a8ec",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Niels-Henning Ørsted Pedersen",
+      "featuredArtistId": "673nUEedXxOIdNlPvxXLiM",
+      "trackName": "Nuages - Live At The Tivoli Gardens, Copenhagen / 1979",
+      "trackId": "1QJQVQY3TByGPnric8159p",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c012bf476af76b77366db8a45958809bfe89a8ec",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Zenph Studios",
+      "featuredArtistId": "58e4VcXFkSKpGslvzISBfh",
+      "trackName": "Body And Soul",
+      "trackId": "1eQQpa17pMhsQBkowaiurZ",
+      "preview": "https://p.scdn.co/mp3-preview/507beeafa93c9ff2f33f69fd247b4f9fdfd8a0b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/14b02d19b663b73ba073059667622f928369519a",
+      "release_date": "2011-10-04"
+    }
+  ]
+}

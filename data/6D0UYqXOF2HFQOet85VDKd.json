@@ -1,0 +1,59 @@
+{
+  "artistName": "Teddy Sky",
+  "features": [
+    {
+      "featuredArtist": "VAX",
+      "featuredArtistId": "6cQVcprcYDxGM79YmyCkcQ",
+      "trackName": "Fireproof - Jello Remix",
+      "trackId": "2HEokWmzzphwQMGffiOk3r",
+      "preview": "https://p.scdn.co/mp3-preview/4f18a02d9335a5d217ededbd85c670f4b23c2ee0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/845c6c15aed2595b289f882a0610e077f9f0b485",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Jello",
+      "featuredArtistId": "7MTtIGOjqC1Oan0eMP03Rv",
+      "trackName": "Fireproof - Jello Remix",
+      "trackId": "2HEokWmzzphwQMGffiOk3r",
+      "preview": "https://p.scdn.co/mp3-preview/4f18a02d9335a5d217ededbd85c670f4b23c2ee0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/845c6c15aed2595b289f882a0610e077f9f0b485",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "DIMA",
+      "featuredArtistId": "55mpRKnylTTZ3N1cNNM7zh",
+      "trackName": "Fireproof - DIMA Remix",
+      "trackId": "53h0cF96llr92BFeNMD03Z",
+      "preview": "https://p.scdn.co/mp3-preview/9bfc60ccfd12cc743e52784e15d96cf08bfa4b2c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7a610b150b58420f9e537e868988e913c29d9705",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Dizzee Rascal",
+      "featuredArtistId": "0gusqTJKxtU1UTmNRMHZcv",
+      "trackName": "Love This Town - Ray Foxx Remix",
+      "trackId": "1YLAJPRtOSNO6z2a5vXkH7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/707c3a8113f96f1615adf950fc6fbb2dbfd74170",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Ray Foxx",
+      "featuredArtistId": "3rBUMhb9YTlfKpOEBZ0AQK",
+      "trackName": "Love This Town - Ray Foxx Remix",
+      "trackId": "1YLAJPRtOSNO6z2a5vXkH7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/707c3a8113f96f1615adf950fc6fbb2dbfd74170",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Zinc",
+      "featuredArtistId": "6rNNzYwIibSLwFxDfXDBeS",
+      "trackName": "Love This Town - Zinc Remix",
+      "trackId": "6jTAzA7J5cE0K6zQM84SV0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/707c3a8113f96f1615adf950fc6fbb2dbfd74170",
+      "release_date": "2013-01-01"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "artistName": "Peggy Lee",
+  "features": [
+    {
+      "featuredArtist": "Dean Martin",
+      "featuredArtistId": "49e4v89VmlDcFCMyDv9wQ9",
+      "trackName": "You Was",
+      "trackId": "4J4gcHwR9YdfVzLkv0fGAg",
+      "preview": "https://p.scdn.co/mp3-preview/c7522a7de0ae9512e0e11301f6239707d364a318?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/90969b36305f9f9cf8c3d01b95d1532a9904203a",
+      "release_date": "2016-09-23"
+    },
+    {
+      "featuredArtist": "Bing Crosby",
+      "featuredArtistId": "6ZjFtWeHP9XN7FeKSUe80S",
+      "trackName": "Little Jack Frost Get Lost",
+      "trackId": "3jsA5OLvBvNBkMTh6moICU",
+      "preview": "https://p.scdn.co/mp3-preview/968b5063b77ce3080748ea07eb54de192426abba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/90969b36305f9f9cf8c3d01b95d1532a9904203a",
+      "release_date": "2016-09-23"
+    },
+    {
+      "featuredArtist": "Duncan Lamont",
+      "featuredArtistId": "6iUQpaTq1rzkfcdNo8d62s",
+      "trackName": "Here, Now - Remastered 2015",
+      "trackId": "5YN0NlBwP3rkzipMdqzwOj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/91c7733dd51f5bbf5c0553e39c7d1f9b5bd08153",
+      "release_date": "2015-12-04"
+    },
+    {
+      "featuredArtist": "Keith Ingham Octet",
+      "featuredArtistId": "0mCVaecULx8wWlvNqhnUYA",
+      "trackName": "The Farmer Takes a Wife: Look Who's Been Dreaming",
+      "trackId": "5ABu55fCoBTYeI7Ni8zj9X",
+      "preview": "https://p.scdn.co/mp3-preview/a974ac71131d0b51658adc8f5aa48584bac78c87?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/04956c6c9be56df08d8bbcd39bb6c266fd46a1d2",
+      "release_date": "2014-08-01"
+    },
+    {
+      "featuredArtist": "John Chiodini",
+      "featuredArtistId": "5ogiJjZ8hHhrOtJ1HYRybb",
+      "trackName": "The Sky’s the Limit: My Shining Hour",
+      "trackId": "5VP0NKGxeIjj3RsEmxwVrU",
+      "preview": "https://p.scdn.co/mp3-preview/f007ed665f20374bf9a5ba18c7852b5d350ae6c8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/04956c6c9be56df08d8bbcd39bb6c266fd46a1d2",
+      "release_date": "2014-08-01"
+    }
+  ]
+}

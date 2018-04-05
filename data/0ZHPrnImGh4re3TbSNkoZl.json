@@ -1,0 +1,41 @@
+{
+  "artistName": "Beret",
+  "features": [
+    {
+      "featuredArtist": "SFDK",
+      "featuredArtistId": "56n1NeXsTOOxjX3Z4lVMTJ",
+      "trackName": "Cara B",
+      "trackId": "2lXPDGSJBfF3tvelCmPfUN",
+      "preview": "https://p.scdn.co/mp3-preview/925bf1ab7e96070ae19affab9ca8c4cbfd5c6ec9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b94b3638e5617b1722c450f3e6984c3fdfb736b1",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Xenon",
+      "featuredArtistId": "40hHMxI5E4rIoyysjqXfXI",
+      "trackName": "Son solo instantes",
+      "trackId": "7nS5t3uYNvHQBUTimtbfe8",
+      "preview": "https://p.scdn.co/mp3-preview/4c76e2b098837dc5940fb8e42bf0df79fb98b097?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f3ece9ea05328eb7d4b9154137e8d91b9df6c28",
+      "release_date": "2017-06-19"
+    },
+    {
+      "featuredArtist": "El Momo",
+      "featuredArtistId": "7HhsUsekYDNFOeqiq54VbW",
+      "trackName": "Cómo Quieres",
+      "trackId": "2s2peNYq0l6eISwapJeuzT",
+      "preview": "https://p.scdn.co/mp3-preview/bd3acd6f741b785a681ca4926c32df3c59ddff68?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/030bf68dc9e1e6843d79a1ab3efe1ace04f6d2b2",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Merstyle",
+      "featuredArtistId": "20uqLoJ5nK3OEe45nHfuWo",
+      "trackName": "Alma desnuda (con Beret)",
+      "trackId": "65WR9ufDExcFO5XXCzDqPQ",
+      "preview": "https://p.scdn.co/mp3-preview/2525b0491c0b3906825153b1962e3b8f47851457?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d92e0cffd77deaad53955a91c7f3de750e10809",
+      "release_date": "2016-04-01"
+    }
+  ]
+}

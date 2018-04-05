@@ -1,0 +1,32 @@
+{
+  "artistName": "Dada Life",
+  "features": [
+    {
+      "featuredArtist": "Mike Williams",
+      "featuredArtistId": "3IpvVrP3VLhruTmnququq7",
+      "trackName": "We Want Your Soul - Mike Williams Remix",
+      "trackId": "6AMG4KCVluMKSzg4x87QuV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4af63ad1b0d5aa00f0359e6a5c4eb601bfa34478",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Rob & Jack",
+      "featuredArtistId": "63u2Nb3gH0q3PinIuvPBs0",
+      "trackName": "We Want Your Soul - Rob & Jack Remix",
+      "trackId": "5BQd4CcnxqSvkrCiO3Hnr9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4af63ad1b0d5aa00f0359e6a5c4eb601bfa34478",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "HI-LO",
+      "featuredArtistId": "0ETJQforv5OXgDgidQv9qd",
+      "trackName": "Love Vibrations - Extended Mix",
+      "trackId": "5L10jYtB2LJOW9AXervzFI",
+      "preview": "https://p.scdn.co/mp3-preview/64c8a15fe7e04cdd5a61b92e5e710c0eb0d9d64a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/853e818398749657a552061900e4ba7441646058",
+      "release_date": "2018-01-26"
+    }
+  ]
+}

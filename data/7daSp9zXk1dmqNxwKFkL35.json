@@ -1,0 +1,50 @@
+{
+  "artistName": "Kupla",
+  "features": [
+    {
+      "featuredArtist": "Philanthrope",
+      "featuredArtistId": "13ACz7DIictCpSYGglNTHs",
+      "trackName": "Evening Tide",
+      "trackId": "1XVC1HEn28V2WnrcEyMZKe",
+      "preview": "https://p.scdn.co/mp3-preview/cd2d689d394e45c0fc4ee739d0472e6c50db3312?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dd970e51e93d9aaebd8572c2c7325e3b871a7e3",
+      "release_date": "2017-10-30"
+    },
+    {
+      "featuredArtist": "Oatmello",
+      "featuredArtistId": "0YAkOkbeAPiS35qyouiM4O",
+      "trackName": "Moment After",
+      "trackId": "0lMWgPKUXbf9ObfCCTwJLa",
+      "preview": "https://p.scdn.co/mp3-preview/f5494451702a1e471a372b836da6cd0ed51cf5e3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9c6e0024165fd115a8a166f595329cf7bc7c1add",
+      "release_date": "2018-03-15"
+    },
+    {
+      "featuredArtist": "tusken.",
+      "featuredArtistId": "43P02sF00xAIa3d9mp1n24",
+      "trackName": "Marbles",
+      "trackId": "5Gc0CM7a83XeqbrW5O5a6S",
+      "preview": "https://p.scdn.co/mp3-preview/27d5af8104267066bb154a98ee00baf1a19e0f87?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bb63159efe7aba5085ed4fbb4031c5c158034c0",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Rageh",
+      "featuredArtistId": "5CgkldzwNOtNzsPk2JuHDD",
+      "trackName": "Sunbeam",
+      "trackId": "0oUEfUbDXI2rwvypwq6UKI",
+      "preview": "https://p.scdn.co/mp3-preview/ee2f15c102c49d916b0f5b1b1c7a3bffeba53e77?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/da16413cb659952ecebeb590e2a6d34b3816da40",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Howie Lee",
+      "featuredArtistId": "5y2TmxjZITDjLsfUxjlkcD",
+      "trackName": "5058m",
+      "trackId": "6S7TL09oGc13W0y2g0fMOJ",
+      "preview": "https://p.scdn.co/mp3-preview/e1f113e276b49ffb66e9cc8ecad742746fba2fcd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/73f317b3802b5fe7c641b03fd32b891a5953860f",
+      "release_date": "2014-07-28"
+    }
+  ]
+}

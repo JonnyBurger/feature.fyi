@@ -1,0 +1,716 @@
+{
+  "artistName": "The Partysquad",
+  "features": [
+    {
+      "featuredArtist": "Ali B",
+      "featuredArtistId": "5quv5QEyL2XAloebaau69m",
+      "trackName": "Rampeneren",
+      "trackId": "2ZviyJlWknKj2QAblU0vg5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Yes-R",
+      "featuredArtistId": "26W6sq5yZeIhzfO6d8g9NJ",
+      "trackName": "Rampeneren",
+      "trackId": "2ZviyJlWknKj2QAblU0vg5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "M Chafi",
+      "featuredArtistId": "7M42qN68DETerpgDRBPdDk",
+      "trackName": "Stuk - Radio Edit",
+      "trackId": "5rtl4bE2I0av7vMeiChzMM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Diorno Braaf",
+      "featuredArtistId": "54ABk27mKWE3erT3Rx4ebW",
+      "trackName": "Stuk - Radio Edit",
+      "trackId": "5rtl4bE2I0av7vMeiChzMM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Sef",
+      "featuredArtistId": "5VGhS6nHpXPbXGhku9RRB0",
+      "trackName": "Stuk - Radio Edit",
+      "trackId": "5rtl4bE2I0av7vMeiChzMM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Reverse",
+      "featuredArtistId": "4B4ON3QQ4AoObbF1jGOzJK",
+      "trackName": "Stuk - Radio Edit",
+      "trackId": "5rtl4bE2I0av7vMeiChzMM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Afrojack",
+      "featuredArtistId": "4D75GcNG95ebPtNvoNVXhz",
+      "trackName": "Drop Down (Do My Dance)",
+      "trackId": "4GslTHhuF8oUQtAaMbKTcT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Gers Pardoel",
+      "featuredArtistId": "5AvkVClT6JuPL4LFy7liYN",
+      "trackName": "Ik Ga Hard",
+      "trackId": "7x5PorNURsc3GLgCPPNgZs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Adonis",
+      "featuredArtistId": "5ce2qxZgDutrfzBTF1w7ZX",
+      "trackName": "Ik Ga Hard",
+      "trackId": "7x5PorNURsc3GLgCPPNgZs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Jayh",
+      "featuredArtistId": "1eLxAzPSnsl03ajNNihddF",
+      "trackName": "Ik Ga Hard",
+      "trackId": "7x5PorNURsc3GLgCPPNgZs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Dio",
+      "featuredArtistId": "2Np3tBLhkFCcJPun4KhrDQ",
+      "trackName": "Licht van de laser",
+      "trackId": "6r74GsX7BuTSly2BdU9AGX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Sjaak",
+      "featuredArtistId": "2YjydjpJfm9VAtiV0XRmkm",
+      "trackName": "Licht van de laser",
+      "trackId": "6r74GsX7BuTSly2BdU9AGX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Major Lazer",
+      "featuredArtistId": "738wLrAtLtCtFOLvQBXOXp",
+      "trackName": "Mash Up The Dance",
+      "trackId": "2G3rzYBx3jGZUDEyJkdrjH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Ward 21",
+      "featuredArtistId": "0iRwqSYn7fG3WkEBYQpcqJ",
+      "trackName": "Mash Up The Dance",
+      "trackId": "2G3rzYBx3jGZUDEyJkdrjH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Boaz van de Beatz",
+      "featuredArtistId": "7Gl7G1JK7feTWHy1YJExfw",
+      "trackName": "Oh My",
+      "trackId": "590KOcXIhFGUYC7a4h9e3X",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Dirtcaps",
+      "featuredArtistId": "2PC3QVYzOPekKLIppjFUoi",
+      "trackName": "How Many DJ's",
+      "trackId": "6we2BYHB6LcC45lyJtm17n",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "AmsterdamSoundSystem",
+      "featuredArtistId": "2VY0tBQrNd2J2ZLZsjToB9",
+      "trackName": "A Good Thing",
+      "trackId": "7uPEwwj6qSKwVwdcVYLnNf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Maikal X",
+      "featuredArtistId": "4tTonvkbofY3aKwUKiUwGA",
+      "trackName": "A Good Thing",
+      "trackId": "7uPEwwj6qSKwVwdcVYLnNf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Mr. Vegas",
+      "featuredArtistId": "1pmixngtBJleMrGUG5o8DE",
+      "trackName": "The Highest Grade",
+      "trackId": "2sib94zzSNC2uNzmtyIhqL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "The Death Set",
+      "featuredArtistId": "1e7ePqINXwh9BthP2XQOox",
+      "trackName": "P.O.V. 2.0",
+      "trackId": "3GiLBZdO0yO8oWnv75BjuH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Diplo",
+      "featuredArtistId": "5fMUXHkw8R8eOP2RNVYEZX",
+      "trackName": "P.O.V. 2.0",
+      "trackId": "3GiLBZdO0yO8oWnv75BjuH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9bf1f8f7b4968b718a9bdf90e7c938ca954295ae",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Fellow",
+      "featuredArtistId": "7HpOY5zrYpo0PNR1OHqs0r",
+      "trackName": "Wine To This",
+      "trackId": "6mBFSvuFFzVqzthf18Qay2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8973af94ec4e57af7a2e194043839e9ace9d34f5",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "La Rouge",
+      "featuredArtistId": "0gHpIfv815XYSaH0m3X08y",
+      "trackName": "Fassen (Nak Panya Anthem)",
+      "trackId": "3YkKOwLEPWy39crjLmAZul",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8973af94ec4e57af7a2e194043839e9ace9d34f5",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "DJ Punish",
+      "featuredArtistId": "53lstIa71jqrbxEFzBLuZD",
+      "trackName": "Turnt Up",
+      "trackId": "4z5G4KDrLQmZpFKMEHdXvK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8973af94ec4e57af7a2e194043839e9ace9d34f5",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Ce'Cile",
+      "featuredArtistId": "1RnGhd2JfN5nbVOvYmhDyO",
+      "trackName": "Turnt Up",
+      "trackId": "4z5G4KDrLQmZpFKMEHdXvK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8973af94ec4e57af7a2e194043839e9ace9d34f5",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Quintino",
+      "featuredArtistId": "1V3VTM7VspiQjcmRhC010n",
+      "trackName": "Fire (Rehab RMX) - Remix",
+      "trackId": "0kq9G8CezlBl6feEjN0AqI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b723996bce724c62302880d14d5625c5de76948f",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "DJ Alvaro",
+      "featuredArtistId": "3SwnJSTGyUXnQoHdoVWERP",
+      "trackName": "Lucky Star",
+      "trackId": "6GDmFUNo1P4F6kzZb6xcZM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b723996bce724c62302880d14d5625c5de76948f",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "When Harry met Sally",
+      "featuredArtistId": "5F2ed15uKR1NIUtExSLWtc",
+      "trackName": "For Your Love - Remix",
+      "trackId": "5oP0lbcO9AmDbPwyagWQ4I",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b723996bce724c62302880d14d5625c5de76948f",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "TESSisMORE",
+      "featuredArtistId": "7xVbJduvHX2yAMkkFf1jcD",
+      "trackName": "For Your Love - Remix",
+      "trackId": "5oP0lbcO9AmDbPwyagWQ4I",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b723996bce724c62302880d14d5625c5de76948f",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Big Boy Caprice",
+      "featuredArtistId": "2ZOtXxZxR1JUkTedoTFKkW",
+      "trackName": "For Your Love - Remix",
+      "trackId": "5oP0lbcO9AmDbPwyagWQ4I",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b723996bce724c62302880d14d5625c5de76948f",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Retro Kidz",
+      "featuredArtistId": "5NSLdl7dmikg6kzlsQSnPj",
+      "trackName": "Scram - Remix",
+      "trackId": "37ZqoVvJ4Ge6STv1hDdz5l",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b723996bce724c62302880d14d5625c5de76948f",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Sandro Silva",
+      "featuredArtistId": "53UXMZxwzQyV4j7tZaVF58",
+      "trackName": "The Munchies - Remix",
+      "trackId": "6H7MSXdrLILsGZys7UOdlA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b723996bce724c62302880d14d5625c5de76948f",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Roxy Cottontail",
+      "featuredArtistId": "1lDesPDePe3E4cXQah8Bxq",
+      "trackName": "My Bad - Remix",
+      "trackId": "7m2HbY5vyPRgRWkiQXqHQU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b723996bce724c62302880d14d5625c5de76948f",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Gio",
+      "featuredArtistId": "6EYEbuEhF2WMVU47iUJNBS",
+      "trackName": "Dat Is Die Shit",
+      "trackId": "6G7XDVW118DtRXbpj3DKQM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7baefc0aafb1ada6cf5d6da192dc3f3b68aa8e3b",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Darry, Nino, Negativ",
+      "featuredArtistId": "0Gt3lLbZHCtXnwFb9W3ukF",
+      "trackName": "Dat Is Die Shit",
+      "trackId": "6G7XDVW118DtRXbpj3DKQM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7baefc0aafb1ada6cf5d6da192dc3f3b68aa8e3b",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Dyna",
+      "featuredArtistId": "0icP5fTpaY52Ll9QHNRrFT",
+      "trackName": "ABC",
+      "trackId": "0Znv6JZK4a2iVEEdxMe21f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f14dd90932db57fb73a3b7fdacf424efd69955fa",
+      "release_date": "2018-03-21"
+    },
+    {
+      "featuredArtist": "Dylan Dos Santos",
+      "featuredArtistId": "2VKlXKHIyGgF3TU5aoZ24m",
+      "trackName": "ABC",
+      "trackId": "0Znv6JZK4a2iVEEdxMe21f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f14dd90932db57fb73a3b7fdacf424efd69955fa",
+      "release_date": "2018-03-21"
+    },
+    {
+      "featuredArtist": "Esko",
+      "featuredArtistId": "0rQ69yrbz7CeUmXUn1beIj",
+      "trackName": "Klusjesman",
+      "trackId": "6q7NZtLvI5cuVm6LDt4Jd4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2f289c005e31c5a8374a2e3578af734be6b3fd62",
+      "release_date": "2018-03-21"
+    },
+    {
+      "featuredArtist": "Flow de Wolf",
+      "featuredArtistId": "2uM40Budgpqii5vjKUnldc",
+      "trackName": "Klusjesman",
+      "trackId": "6q7NZtLvI5cuVm6LDt4Jd4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2f289c005e31c5a8374a2e3578af734be6b3fd62",
+      "release_date": "2018-03-21"
+    },
+    {
+      "featuredArtist": "Woenzelaar",
+      "featuredArtistId": "5q3cyUYQTJUOSZ6Sciduxv",
+      "trackName": "Klusjesman",
+      "trackId": "6q7NZtLvI5cuVm6LDt4Jd4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2f289c005e31c5a8374a2e3578af734be6b3fd62",
+      "release_date": "2018-03-21"
+    },
+    {
+      "featuredArtist": "Willie Wartaal",
+      "featuredArtistId": "4usBxmpmHRVy92QbcWk0M7",
+      "trackName": "Klusjesman",
+      "trackId": "6q7NZtLvI5cuVm6LDt4Jd4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2f289c005e31c5a8374a2e3578af734be6b3fd62",
+      "release_date": "2018-03-21"
+    },
+    {
+      "featuredArtist": "Equalz",
+      "featuredArtistId": "57RYqNhEvaNiafuP1X73GS",
+      "trackName": "LIT",
+      "trackId": "2QWPb6jDxCIDBBllquNCWx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc7d566e95d92d7fe6137ff25d209a3a56615029",
+      "release_date": "2018-01-25"
+    },
+    {
+      "featuredArtist": "Full Crate",
+      "featuredArtistId": "0JeTRYMH7FoBiMcLXg1n8g",
+      "trackName": "HOT",
+      "trackId": "0Axrlb5Luk83GsF6Qpzztn",
+      "preview": "https://p.scdn.co/mp3-preview/e68541125cd8f43d92f491de40d04166de3844a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/52c4e284851eb9ca7d1ccae56665e8a4f2cfd50e",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Nick & Navi",
+      "featuredArtistId": "7x6iPPYRfmbacrdRChvYp3",
+      "trackName": "HOT",
+      "trackId": "0Axrlb5Luk83GsF6Qpzztn",
+      "preview": "https://p.scdn.co/mp3-preview/e68541125cd8f43d92f491de40d04166de3844a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/52c4e284851eb9ca7d1ccae56665e8a4f2cfd50e",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Yung Internet",
+      "featuredArtistId": "2XxoalhYJxXjU56POu1q7V",
+      "trackName": "Tongen",
+      "trackId": "0i7VjtkcE8NVsQsBbS7vzF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/27c1074ddf68b820145ede05041d3d079a545a78",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Bizzey",
+      "featuredArtistId": "5GIcOzVFTNnzArytjmTkW8",
+      "trackName": "C'est la vie",
+      "trackId": "3Ri4BMe03irzuJQQdXAh7U",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b8a32f6ad4fadde6e7d415bfb3ebbc2e62bd899d",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Broertje",
+      "featuredArtistId": "0906u9DO6IhSeFljQ7AXHZ",
+      "trackName": "C'est la vie",
+      "trackId": "3Ri4BMe03irzuJQQdXAh7U",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b8a32f6ad4fadde6e7d415bfb3ebbc2e62bd899d",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Josylvio",
+      "featuredArtistId": "1wFoE1RwBMWoWkXcFrCgsx",
+      "trackName": "C'est la vie",
+      "trackId": "3Ri4BMe03irzuJQQdXAh7U",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b8a32f6ad4fadde6e7d415bfb3ebbc2e62bd899d",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Hansie",
+      "featuredArtistId": "3Xvu1Rur46ZO8HiE9hBuxl",
+      "trackName": "C'est la vie",
+      "trackId": "3Ri4BMe03irzuJQQdXAh7U",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b8a32f6ad4fadde6e7d415bfb3ebbc2e62bd899d",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "DJ Moortje",
+      "featuredArtistId": "5h9eZmjvBmuptaX8uW6FmI",
+      "trackName": "Plakken - Alvaro Remix",
+      "trackId": "0QgsqMDNojoH2tEsD4EL85",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc2c463f3c51f8cb7a3742789e0643d07bcd5b6c",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Kempi",
+      "featuredArtistId": "0FWWBkIJD4tvlDzB4O8XT7",
+      "trackName": "Plakken - Alvaro Remix",
+      "trackId": "0QgsqMDNojoH2tEsD4EL85",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc2c463f3c51f8cb7a3742789e0643d07bcd5b6c",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Adje",
+      "featuredArtistId": "5erZiBCKPxe9FaTiXHO00m",
+      "trackName": "Plakken - Alvaro Remix",
+      "trackId": "0QgsqMDNojoH2tEsD4EL85",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc2c463f3c51f8cb7a3742789e0643d07bcd5b6c",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "MC Pester",
+      "featuredArtistId": "4zcmNZjI5wlMxDXMLbJF83",
+      "trackName": "Plakken - Alvaro Remix",
+      "trackId": "0QgsqMDNojoH2tEsD4EL85",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc2c463f3c51f8cb7a3742789e0643d07bcd5b6c",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Alvaro",
+      "featuredArtistId": "20mCdWSz6PqFQof9gFFJ1r",
+      "trackName": "Plakken - Alvaro Remix",
+      "trackId": "0QgsqMDNojoH2tEsD4EL85",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc2c463f3c51f8cb7a3742789e0643d07bcd5b6c",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Capital Candy",
+      "featuredArtistId": "2svfe1pMwteF5HCoBP4Q9a",
+      "trackName": "Plakken - Capital Candy Remix",
+      "trackId": "497xz3gkmqOlZAImRQRpRo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc2c463f3c51f8cb7a3742789e0643d07bcd5b6c",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Deadly Zoo",
+      "featuredArtistId": "31ajSn6utdOcg3jDm6XOal",
+      "trackName": "Plakken - Deadly Zoo Remix",
+      "trackId": "44dlOFlNhzPMrebA3YqUUk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc2c463f3c51f8cb7a3742789e0643d07bcd5b6c",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Issiah Roberts",
+      "featuredArtistId": "1lUTuVBHdnoN8cgCPzWAjc",
+      "trackName": "Plakken - Issiah Roberts Remix",
+      "trackId": "7soEBj1kdkXOvAKDUMrjJD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc2c463f3c51f8cb7a3742789e0643d07bcd5b6c",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Noise Cartel",
+      "featuredArtistId": "5yDz8X7IIvH7PheEXbo3VN",
+      "trackName": "Plakken - Noise Cartel Remix",
+      "trackId": "6gOOebVW98xChwOYllN0of",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc2c463f3c51f8cb7a3742789e0643d07bcd5b6c",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Freddy Moreira",
+      "featuredArtistId": "2CU1lH3DaaajH9Cm2S2tPk",
+      "trackName": "Plakken - Freddy Moreira & Ray Mautar Remix",
+      "trackId": "5L9pmUQuUvZHaNM6Xeyax6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc2c463f3c51f8cb7a3742789e0643d07bcd5b6c",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Ray Mautar",
+      "featuredArtistId": "5vHHQwaUlCiw4eVWcFVv0b",
+      "trackName": "Plakken - Freddy Moreira & Ray Mautar Remix",
+      "trackId": "5L9pmUQuUvZHaNM6Xeyax6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc2c463f3c51f8cb7a3742789e0643d07bcd5b6c",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Naffz",
+      "featuredArtistId": "6bRT33dQceM0epF2kyjnN3",
+      "trackName": "Plakken - Naffz Remix",
+      "trackId": "4YfcqmirJuocgLd4N2iXZL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc2c463f3c51f8cb7a3742789e0643d07bcd5b6c",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "IMMO",
+      "featuredArtistId": "4u4FCKbVpmElVrIlqpBSjm",
+      "trackName": "Plakken - Remix",
+      "trackId": "6fWwYY2UqZboiHfTD9QtKi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc2c463f3c51f8cb7a3742789e0643d07bcd5b6c",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "ORI",
+      "featuredArtistId": "1RjBm2Uu1hbXps8XUT6LiE",
+      "trackName": "Plakken - Remix",
+      "trackId": "6fWwYY2UqZboiHfTD9QtKi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc2c463f3c51f8cb7a3742789e0643d07bcd5b6c",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Dongo",
+      "featuredArtistId": "4H7wgwp6mSTcg5Op2R8XW2",
+      "trackName": "Plakken - Remix",
+      "trackId": "6fWwYY2UqZboiHfTD9QtKi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc2c463f3c51f8cb7a3742789e0643d07bcd5b6c",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Ataniro",
+      "featuredArtistId": "3WJXgsZDW0e8i20pIOuHdZ",
+      "trackName": "Plakken - Remix",
+      "trackId": "6fWwYY2UqZboiHfTD9QtKi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc2c463f3c51f8cb7a3742789e0643d07bcd5b6c",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Zyon",
+      "featuredArtistId": "2mxowTptws1A7xhWlhhBOa",
+      "trackName": "Plakken - Remix",
+      "trackId": "6fWwYY2UqZboiHfTD9QtKi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bc2c463f3c51f8cb7a3742789e0643d07bcd5b6c",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Ronnie Flex",
+      "featuredArtistId": "5eir5zFJpES4j7gsymbVyl",
+      "trackName": "Fassen - Remix",
+      "trackId": "1gUUSHbvFs9Bl33ubu27bM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/644050a126d23db2ee70d702f41526a6d48e38e7",
+      "release_date": "2016-07-08"
+    },
+    {
+      "featuredArtist": "SBMG",
+      "featuredArtistId": "3HL2hJ9MmM9eazDokIndkr",
+      "trackName": "Fassen - Remix",
+      "trackId": "1gUUSHbvFs9Bl33ubu27bM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/644050a126d23db2ee70d702f41526a6d48e38e7",
+      "release_date": "2016-07-08"
+    },
+    {
+      "featuredArtist": "Ruben Fernhout",
+      "featuredArtistId": "6VfMGKkNURVDbXyUujVF4i",
+      "trackName": "Fassen - Remix",
+      "trackId": "1gUUSHbvFs9Bl33ubu27bM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/644050a126d23db2ee70d702f41526a6d48e38e7",
+      "release_date": "2016-07-08"
+    },
+    {
+      "featuredArtist": "Richard Westra",
+      "featuredArtistId": "2MtPj4BBi6pu370dbkIiRQ",
+      "trackName": "Fassen - Remix",
+      "trackId": "1gUUSHbvFs9Bl33ubu27bM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/644050a126d23db2ee70d702f41526a6d48e38e7",
+      "release_date": "2016-07-08"
+    },
+    {
+      "featuredArtist": "Jerry Leembruggen",
+      "featuredArtistId": "4yScPjeNHbUj1Ih9t12rjU",
+      "trackName": "Fassen - Remix",
+      "trackId": "1gUUSHbvFs9Bl33ubu27bM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/644050a126d23db2ee70d702f41526a6d48e38e7",
+      "release_date": "2016-07-08"
+    },
+    {
+      "featuredArtist": "Rob Pix",
+      "featuredArtistId": "7svlyeFXgoGKD3RVK3qsEG",
+      "trackName": "Born To Rave",
+      "trackId": "6qxvJFvvLlq4aIK3SOOOnF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/628692b6b1cf547657833ecd51627060c5ab9328",
+      "release_date": "2015-07-24"
+    },
+    {
+      "featuredArtist": "Tommie Sunshine",
+      "featuredArtistId": "42tlZWSz1V6Rsqds29GcRo",
+      "trackName": "Alright - KANDY Remix",
+      "trackId": "3JHxPmjGz0ZMmQOJOrryuW",
+      "preview": "https://p.scdn.co/mp3-preview/db0dfeee646199238b2f8bb025dbb863dc940547?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5fdf8dd644f38db9012bfff8d33c41d6a53fb2f5",
+      "release_date": "2015-07-17"
+    },
+    {
+      "featuredArtist": "Kandy",
+      "featuredArtistId": "4mPFPLedaotlYFB3GLn6r7",
+      "trackName": "Alright - KANDY Remix",
+      "trackId": "3JHxPmjGz0ZMmQOJOrryuW",
+      "preview": "https://p.scdn.co/mp3-preview/db0dfeee646199238b2f8bb025dbb863dc940547?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5fdf8dd644f38db9012bfff8d33c41d6a53fb2f5",
+      "release_date": "2015-07-17"
+    },
+    {
+      "featuredArtist": "Zatox",
+      "featuredArtistId": "27Z5l2Kfy1IaYZMg5INWqO",
+      "trackName": "Alright - Zatox Remix",
+      "trackId": "0erWgwpRmV6YP4yBzdqIMI",
+      "preview": "https://p.scdn.co/mp3-preview/57fc74fea31d230b57e8b44bb0ff4046795633e3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5fdf8dd644f38db9012bfff8d33c41d6a53fb2f5",
+      "release_date": "2015-07-17"
+    },
+    {
+      "featuredArtist": "Tropkillaz",
+      "featuredArtistId": "5bzWtCkjIAMgN93gLt56SO",
+      "trackName": "Alright - Tropkillaz Remix",
+      "trackId": "6KUhcIQpTCO22vWBF4XMBM",
+      "preview": "https://p.scdn.co/mp3-preview/341ce2b379a9ec99cd1e59d60724e716e8328221?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5fdf8dd644f38db9012bfff8d33c41d6a53fb2f5",
+      "release_date": "2015-07-17"
+    },
+    {
+      "featuredArtist": "Jesse Slayter",
+      "featuredArtistId": "7l318toznsk9SiwZ4GhmrT",
+      "trackName": "Alright - Jesse Slayter Remix",
+      "trackId": "4j4OnDsmAnTC71Nx2HaRns",
+      "preview": "https://p.scdn.co/mp3-preview/d697e4360968d5b92cac1ee6f3a098dc825abcff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5fdf8dd644f38db9012bfff8d33c41d6a53fb2f5",
+      "release_date": "2015-07-17"
+    },
+    {
+      "featuredArtist": "Ido B",
+      "featuredArtistId": "1qVBwQg8B052WzC1033TTb",
+      "trackName": "Alright - Ido B & Zooki Remix",
+      "trackId": "3DVynvIlSqpdOHmfCkV0L0",
+      "preview": "https://p.scdn.co/mp3-preview/220b14fdb0519d6652c18c57e71a76f57bda9516?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5fdf8dd644f38db9012bfff8d33c41d6a53fb2f5",
+      "release_date": "2015-07-17"
+    },
+    {
+      "featuredArtist": "Zooki",
+      "featuredArtistId": "1JXrxhttlVI9Y4IkjPcnE1",
+      "trackName": "Alright - Ido B & Zooki Remix",
+      "trackId": "3DVynvIlSqpdOHmfCkV0L0",
+      "preview": "https://p.scdn.co/mp3-preview/220b14fdb0519d6652c18c57e71a76f57bda9516?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5fdf8dd644f38db9012bfff8d33c41d6a53fb2f5",
+      "release_date": "2015-07-17"
+    }
+  ]
+}

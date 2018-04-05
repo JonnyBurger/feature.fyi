@@ -1,0 +1,77 @@
+{
+  "artistName": "Pasabordo",
+  "features": [
+    {
+      "featuredArtist": "Lucas Arnau",
+      "featuredArtistId": "5vLOlJcOKe9DfBC5LeLpSs",
+      "trackName": "Me Gusta",
+      "trackId": "5jLt8xiezQTPUvyEidJfJH",
+      "preview": "https://p.scdn.co/mp3-preview/b650abd3ee090274b68b70d7125006564c4bae94?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba5211ae300a885a5caf70db98485c169e1a56d3",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Wilfran Castillo",
+      "featuredArtistId": "1KDd0gF0WMZeFeHV2JRj1L",
+      "trackName": "Como Duele el Frío",
+      "trackId": "7n3If990heUSwNyqupXcA4",
+      "preview": "https://p.scdn.co/mp3-preview/1d63f1ffe98e6989b01fba6d67221fd18e370eee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba5211ae300a885a5caf70db98485c169e1a56d3",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Valentino",
+      "featuredArtistId": "4GAS1OgXh8D5pEA6s6eBNW",
+      "trackName": "Noche Loca - Remix",
+      "trackId": "2VkIvxHq0EJwGsYiknq5NV",
+      "preview": "https://p.scdn.co/mp3-preview/b6203e82ca789f4b524c91df3dec5d57993b1fe7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/177dc5435e63b5239a51f718a8d9979f114c0e7d",
+      "release_date": "2017-12-29"
+    },
+    {
+      "featuredArtist": "Dj Towa",
+      "featuredArtistId": "2S2bhVlax53VYIfmW0uNWM",
+      "trackName": "Belleza",
+      "trackId": "0EBiw5XdbJJ8ng7i1a5yF9",
+      "preview": "https://p.scdn.co/mp3-preview/7e12a4a9d46e71519174c72f7ac0d35164f9b981?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0c4058163f3aca645d7f07d86617b41e8d19f71a",
+      "release_date": "2017-08-03"
+    },
+    {
+      "featuredArtist": "Valentino",
+      "featuredArtistId": "0MDKU8vwM6jBaWOlBmHFvm",
+      "trackName": "Noche Loca - Remix",
+      "trackId": "7CV5uiYxyRUhI74QzwSZqE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c1388572ac093805db2bb336c75e60debf9ae202",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Dalmata",
+      "featuredArtistId": "3jGlU8UMMo44I2xeLQ6FD3",
+      "trackName": "La Cura (feat Dalmata)",
+      "trackId": "2Qh91R1p03u1RsUUhLmk6H",
+      "preview": "https://p.scdn.co/mp3-preview/566f75444c6a40d9c4d26cccbc62b5bea58e9122?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3e0be5a32c352713fb1ea60841f173b1c940131",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Darío Gómez",
+      "featuredArtistId": "3JCyEziWwDZksR1WY8EckM",
+      "trackName": "Te Pido Perdón - Popular",
+      "trackId": "620b29AWDr6i5p88rRgApK",
+      "preview": "https://p.scdn.co/mp3-preview/b84773c1edde645320bdb12861e9c9c2531a7083?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c714096f034f4c4bb02c5db7b051a6f25dd6ac2b",
+      "release_date": "2015"
+    },
+    {
+      "featuredArtist": "Denny Wey",
+      "featuredArtistId": "7z2Di9OynZkEsTCWGPHpdk",
+      "trackName": "Devuélveme la Vida",
+      "trackId": "6HhmtQVyD2GyoNe6l6jdOp",
+      "preview": "https://p.scdn.co/mp3-preview/40629be376bc813e061b0a47d2a9fdcfd5a397a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9faf5c1063c38473cc24b291dd514736f0f86a39",
+      "release_date": "2014"
+    }
+  ]
+}

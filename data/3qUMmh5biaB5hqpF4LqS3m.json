@@ -1,0 +1,32 @@
+{
+  "artistName": "Julie London",
+  "features": [
+    {
+      "featuredArtist": "Ray Leatherwood",
+      "featuredArtistId": "3L3J68zeB9nRK5B1glrLeX",
+      "trackName": "I'm in the Mood for Love",
+      "trackId": "6crfO56bDm0RjpctUuGs5X",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3a3d29081d41e0a4715cf76e3895823dcda61d07",
+      "release_date": "2011-12-23"
+    },
+    {
+      "featuredArtist": "Barney Kessel",
+      "featuredArtistId": "6pVkGhtBvjj1P52yn0tNLG",
+      "trackName": "I'm in the Mood for Love",
+      "trackId": "6crfO56bDm0RjpctUuGs5X",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3a3d29081d41e0a4715cf76e3895823dcda61d07",
+      "release_date": "2011-12-23"
+    },
+    {
+      "featuredArtist": "Bobby Troup",
+      "featuredArtistId": "4XN18j3qfTGghKvcCew5QV",
+      "trackName": "Get Set For The Blues - 2002 - Remastered",
+      "trackId": "2xLlNhetKxA6mAOuYLS07y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/467aa81104255a34c9711142f91356521bfd28e5",
+      "release_date": "2002-08-01"
+    }
+  ]
+}

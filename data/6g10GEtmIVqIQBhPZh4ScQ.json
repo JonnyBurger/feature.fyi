@@ -1,0 +1,32 @@
+{
+  "artistName": "Zach Williams",
+  "features": [
+    {
+      "featuredArtist": "Tenth Avenue North",
+      "featuredArtistId": "7v35CkHBaT1SStgQHl95a0",
+      "trackName": "The First Christmas (feat. Zach Williams)",
+      "trackId": "0OglcJUgvwvrOrJhXK8WBj",
+      "preview": "https://p.scdn.co/mp3-preview/1c675b26efc3fe3795d35515e016162af463f111?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e53f0f3a06be2913669a98ce57cbfb6ca86e8105",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Alexzander",
+      "featuredArtistId": "4wcxRXgdqTAzpSJ3Rwili8",
+      "trackName": "Throwed",
+      "trackId": "5eEQxHshSEnbb9PUCVaMw0",
+      "preview": "https://p.scdn.co/mp3-preview/15bdef24ba8ca5105705b07b4b268cf8e27b15c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7223ae7bfa596ca4840bd0aec33ffcc12da75d8d",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "King Bando",
+      "featuredArtistId": "3k247jpa7lmTIA9986kDGv",
+      "trackName": "Throwed",
+      "trackId": "5eEQxHshSEnbb9PUCVaMw0",
+      "preview": "https://p.scdn.co/mp3-preview/15bdef24ba8ca5105705b07b4b268cf8e27b15c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7223ae7bfa596ca4840bd0aec33ffcc12da75d8d",
+      "release_date": "2017-06-30"
+    }
+  ]
+}

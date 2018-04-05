@@ -1,0 +1,23 @@
+{
+  "artistName": "Iron & Wine",
+  "features": [
+    {
+      "featuredArtist": "Ben Bridwell",
+      "featuredArtistId": "6Vfn70eqp3AgtiZZtQcv4W",
+      "trackName": "This Must Be The Place",
+      "trackId": "7dP4k5nDDwI1qMDoz5m0f6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f998f741a3e8e7e75218e681c668a0e23decd900",
+      "release_date": "2015-07-17"
+    },
+    {
+      "featuredArtist": "Calexico",
+      "featuredArtistId": "1OmdWpAh1pucAuZPzJaxIJ",
+      "trackName": "He Lays In The Reins",
+      "trackId": "5UDaHtqb0C6UIHDoWUJTWw",
+      "preview": "https://p.scdn.co/mp3-preview/1b52859fe17926c116b61deafef01e0f1a321aee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3e9c4a2ffc413433a56d872fa404170f74840597",
+      "release_date": "2005-09-12"
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "artistName": "Kardinal Offishall",
+  "features": [
+    {
+      "featuredArtist": "Merna Bishouty",
+      "featuredArtistId": "4nM0oXYR42VItzaCNQTejN",
+      "trackName": "Hope",
+      "trackId": "1F0oBvSK2hYQ3Mx2yz6Lsr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dfcd892ff5ad2f5cdb32e463067192f727e43ed6",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Assassin",
+      "featuredArtistId": "37vyxhmxoCSyL9rizeMwVj",
+      "trackName": "OG",
+      "trackId": "3AUeUxIklUaqmWbe4q9AsV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dfcd892ff5ad2f5cdb32e463067192f727e43ed6",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "May Marquart",
+      "featuredArtistId": "7bWGz1oTzT2XnQffBlQybe",
+      "trackName": "To Kill A Shadow",
+      "trackId": "4Z5n4yY9AX5R6xfveueDwM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dfcd892ff5ad2f5cdb32e463067192f727e43ed6",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Delroy Reid",
+      "featuredArtistId": "3BrUCOg05aHKjSU4qaCOEq",
+      "trackName": "Real Live Gangsta (They Say)",
+      "trackId": "1Y2JLibikg5TWjCSUlVhDG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dfcd892ff5ad2f5cdb32e463067192f727e43ed6",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "KES the Band",
+      "featuredArtistId": "1dghdU4VhWh2b4BMf3scHH",
+      "trackName": "Always Carnival Time",
+      "trackId": "1V4L5XZkRYSLCOgjgh4Sor",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dfcd892ff5ad2f5cdb32e463067192f727e43ed6",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Quinn-Marie Wilson",
+      "featuredArtistId": "1c0hF33drtQo4PQqno9o0B",
+      "trackName": "Always Carnival Time",
+      "trackId": "1V4L5XZkRYSLCOgjgh4Sor",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dfcd892ff5ad2f5cdb32e463067192f727e43ed6",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Haley Smalls",
+      "featuredArtistId": "5uTsMjH1CdE81ncmOnE4WY",
+      "trackName": "Insert Here",
+      "trackId": "7pzPvDQvkd1Vp6mbVmFgNB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dfcd892ff5ad2f5cdb32e463067192f727e43ed6",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Stephen Marley",
+      "featuredArtistId": "0CIwCGmQMqHqiblnZlFia1",
+      "trackName": "One Dream Away",
+      "trackId": "2Y8nXRS49lHMagRqtXP1Kx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dfcd892ff5ad2f5cdb32e463067192f727e43ed6",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Glenn Lewis",
+      "featuredArtistId": "28821fRwpAWk44HfJ96PGV",
+      "trackName": "The Naked Truth",
+      "trackId": "5X6dxCbWf3ZWUMlxpwbSUY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dfcd892ff5ad2f5cdb32e463067192f727e43ed6",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "JRDN",
+      "featuredArtistId": "2YVjMQPHJLrs0zA0ILNoEs",
+      "trackName": "Sunshine",
+      "trackId": "3aRvlb7krttjM3Dcva2c4a",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dfcd892ff5ad2f5cdb32e463067192f727e43ed6",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Chaisson",
+      "featuredArtistId": "4LOUcLSJq41xZmAgwAxYNT",
+      "trackName": "That Chick Right There",
+      "trackId": "3S9R3szIm9gszfrPDtw3gk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dfcd892ff5ad2f5cdb32e463067192f727e43ed6",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Allan Rayman",
+      "featuredArtistId": "6Yv6OBXD6ZQakEljaGaDAk",
+      "trackName": "I'm Just A Man",
+      "trackId": "6woeRBKZhwrtFGJT1Sd1sm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dfcd892ff5ad2f5cdb32e463067192f727e43ed6",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Merna",
+      "featuredArtistId": "0aytGYP0dzM1d37B7C31qK",
+      "trackName": "Hope",
+      "trackId": "6yeh2gx2J0fkfagmTPggM6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/03b25a315d7589539a0e58d2c5324a4f05f42831",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "May",
+      "featuredArtistId": "6fhRWfxTu3oKdKDl7ltBV4",
+      "trackName": "To Kill A Shadow",
+      "trackId": "5XSWY3IYBGhoBJvBWaWSzE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/03b25a315d7589539a0e58d2c5324a4f05f42831",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Junior Reid",
+      "featuredArtistId": "0qPUDOVD0aYR2lmCilnscs",
+      "trackName": "Real Live Gangsta (They Say)",
+      "trackId": "55mfHZDgctatIqw7kWLc05",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/03b25a315d7589539a0e58d2c5324a4f05f42831",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Quinn-Marie",
+      "featuredArtistId": "66nkmDV1DkhcJ7ECzQkP5m",
+      "trackName": "Always Carnival Time",
+      "trackId": "67vPf7A9aCFKOoK5QhrRj2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/03b25a315d7589539a0e58d2c5324a4f05f42831",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Assassin",
+      "featuredArtistId": "0HtlFS9f5xLsdRyKLzIADe",
+      "trackName": "OG",
+      "trackId": "3ZgucPBaw0RsY1Q2LK0K9s",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/03b25a315d7589539a0e58d2c5324a4f05f42831",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "May",
+      "featuredArtistId": "7C3Yzc2D36ptD3auLDrm9Z",
+      "trackName": "To Kill A Shadow",
+      "trackId": "3HuEsQIwfeNilGSCf6MXS3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/03b25a315d7589539a0e58d2c5324a4f05f42831",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Lindo P",
+      "featuredArtistId": "6WPu56Xwk6kCGOoF3jQa3o",
+      "trackName": "Burnt",
+      "trackId": "7GlagNQspoPN0aiZ5yRXnj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f7bb0855d4aa4a28c154c4dbfaa6c91cc451fd53",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "The Clipse",
+      "featuredArtistId": "1CaP9UeUvBtkvYvZzzcspL",
+      "trackName": "Set It Off",
+      "trackId": "7fc8w7soBXsGBIpjI1LRjg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f7bb0855d4aa4a28c154c4dbfaa6c91cc451fd53",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "Akon",
+      "featuredArtistId": "0z4gvV4rjIZ9wHck67ucSV",
+      "trackName": "Dangerous",
+      "trackId": "4NOZ35Dhucr6UlVyLOtktd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f7bb0855d4aa4a28c154c4dbfaa6c91cc451fd53",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "J*DaVeY",
+      "featuredArtistId": "7cL5uodbOiyotC8tOabLbo",
+      "trackName": "Digital Motown",
+      "trackId": "4fmTGDn6Q2U5kQdJB9reTe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f7bb0855d4aa4a28c154c4dbfaa6c91cc451fd53",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "The-Dream",
+      "featuredArtistId": "1W3FSF1BLpY3hlVIgvenLz",
+      "trackName": "Gimme Some",
+      "trackId": "6rLucWleGvdGZglD538sV7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f7bb0855d4aa4a28c154c4dbfaa6c91cc451fd53",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "Rihanna",
+      "featuredArtistId": "5pKCCKE2ajJHZ9KAiaK11H",
+      "trackName": "Numba 1 (Tide Is High)",
+      "trackId": "18iSiFtrQ78wWLFJi4pCF7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f7bb0855d4aa4a28c154c4dbfaa6c91cc451fd53",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "T-Pain",
+      "featuredArtistId": "3aQeKQSyrW4qWr35idm0cy",
+      "trackName": "Go Home With You",
+      "trackId": "0dKOoZVC6TulRCl6zEaN0u",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f7bb0855d4aa4a28c154c4dbfaa6c91cc451fd53",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "Estelle",
+      "featuredArtistId": "5T0MSzX9RC5NA6gAI6irSn",
+      "trackName": "Due Me A Favour",
+      "trackId": "1mh2ztKYeYgqk0IDcKXti2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f7bb0855d4aa4a28c154c4dbfaa6c91cc451fd53",
+      "release_date": "2008-09-09"
+    },
+    {
+      "featuredArtist": "Sean Paul",
+      "featuredArtistId": "3Isy6kedDrgPYoTS1dazA9",
+      "trackName": "Dangerous - Remix version",
+      "trackId": "5s2xUdbvx9Lc7chY0PU2B5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b900f298c1bc83f77c1c097cebb4b4b1245319c0",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Nicole Moses",
+      "featuredArtistId": "3Ng2aplaBG3SlvEX3zP5rL",
+      "trackName": "Fire & Glory - Feat. Nicole Moses",
+      "trackId": "0CjnChvyRgi4TPNXSDnrwj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8aebf63a4ec5435676ae43384342590a739c162b",
+      "release_date": "2005-11-22"
+    },
+    {
+      "featuredArtist": "Vybz Kartel",
+      "featuredArtistId": "2NUz5P42WqkxilbI8ocN76",
+      "trackName": "E.G.G. (Everybody Gone Gangsta)",
+      "trackId": "0UHIeWmlOCBf4fEvsAPuzA",
+      "preview": "https://p.scdn.co/mp3-preview/cf821a52aa2e0771e0e0ac10b6ce7f6514ff0c54?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ebde624c83ef5a9bf373c7ae263e8280a665d62",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Ray Robinson",
+      "featuredArtistId": "4w0YXf91PUV9T1zlTK6yPr",
+      "trackName": "Everyday (Rudebwoy)",
+      "trackId": "7pMm5H5rVLY4ICh9olDOKE",
+      "preview": "https://p.scdn.co/mp3-preview/ed95b30b9ee1dc4076337a276242a049266008b4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ebde624c83ef5a9bf373c7ae263e8280a665d62",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Spragga Benz",
+      "featuredArtistId": "2RUW6D53228zMHAXjaQI8f",
+      "trackName": "The Best Man",
+      "trackId": "4ED9U0AMQB9McjhCUSOpTq",
+      "preview": "https://p.scdn.co/mp3-preview/b23dee393df8669d62b0c40cd500ae4ee2ddc115?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ebde624c83ef5a9bf373c7ae263e8280a665d62",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Riley",
+      "featuredArtistId": "4qe70Oziv5er7yrQoD4K6Q",
+      "trackName": "The Best Man",
+      "trackId": "4ED9U0AMQB9McjhCUSOpTq",
+      "preview": "https://p.scdn.co/mp3-preview/b23dee393df8669d62b0c40cd500ae4ee2ddc115?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ebde624c83ef5a9bf373c7ae263e8280a665d62",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Ro Dolla",
+      "featuredArtistId": "1uTD02pE1eH4H4sZqy3kcG",
+      "trackName": "Freshie",
+      "trackId": "4dbhKIy1qzMcjL3NHjBQY5",
+      "preview": "https://p.scdn.co/mp3-preview/91dc9f4a62e506b987c2646f1d2ba7ada4bea672?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ebde624c83ef5a9bf373c7ae263e8280a665d62",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Renee Neufville",
+      "featuredArtistId": "5xLptj9davXlzUbtaK7FPL",
+      "trackName": "Mr. Officer",
+      "trackId": "5lr7tz9Of7RngZRpeqJf42",
+      "preview": "https://p.scdn.co/mp3-preview/cefb46656928dd7aa09788aa83b071e53aca0553?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ebde624c83ef5a9bf373c7ae263e8280a665d62",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Busta Rhymes",
+      "featuredArtistId": "1YfEcTuGvBQ8xSD1f53UnK",
+      "trackName": "Watchalike",
+      "trackId": "4HeKhY6GXfr98UaqPVtSxL",
+      "preview": "https://p.scdn.co/mp3-preview/f61538ba2b9408c1755952254594a289636e3ea7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ebde624c83ef5a9bf373c7ae263e8280a665d62",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Nikki Mo",
+      "featuredArtistId": "3TjhIp1Zqy98ilMQjV9UPq",
+      "trackName": "Fire And Glory",
+      "trackId": "2i1hvk0kAK3emrLzX8Rp7U",
+      "preview": "https://p.scdn.co/mp3-preview/41eaf685a98277e09a7f874c7ce2f5e1c5a9892f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ebde624c83ef5a9bf373c7ae263e8280a665d62",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Field Mob",
+      "featuredArtistId": "0Uo6kyjrbQoZBlcXsMb8Vm",
+      "trackName": "BaKardi Slang",
+      "trackId": "0khDTXR2qTFkJdU1CqvPmJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8b411ab73805f2c6f1ccfc14d2a236a03d1a0470",
+      "release_date": "2001-04-10"
+    },
+    {
+      "featuredArtist": "Jully Black",
+      "featuredArtistId": "781516XewTgtGAnpg6dlmd",
+      "trackName": "Ol' Time Killin'",
+      "trackId": "43X3PKoTrWnlwDflqY9fVt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8b411ab73805f2c6f1ccfc14d2a236a03d1a0470",
+      "release_date": "2001-04-10"
+    },
+    {
+      "featuredArtist": "IRS",
+      "featuredArtistId": "6JvriP1azOkMgaD2x8l1DF",
+      "trackName": "Ol' Time Killin'",
+      "trackId": "43X3PKoTrWnlwDflqY9fVt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8b411ab73805f2c6f1ccfc14d2a236a03d1a0470",
+      "release_date": "2001-04-10"
+    },
+    {
+      "featuredArtist": "Solitair",
+      "featuredArtistId": "7bCQj0gFuYAroOiMArR4Dm",
+      "trackName": "Quest For Fire",
+      "trackId": "79t1OsMNym4HHml4Ph7o8s",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8b411ab73805f2c6f1ccfc14d2a236a03d1a0470",
+      "release_date": "2001-04-10"
+    },
+    {
+      "featuredArtist": "Saukrates",
+      "featuredArtistId": "4xvUHg4mIFbXo2caP0PO73",
+      "trackName": "Gotta Get It",
+      "trackId": "743nocpiu9uBiHmjEkCcQ9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8b411ab73805f2c6f1ccfc14d2a236a03d1a0470",
+      "release_date": "2001-04-10"
+    },
+    {
+      "featuredArtist": "Celebrity Marauders",
+      "featuredArtistId": "4sRoD2K5bGNJxqDhUBYZ1G",
+      "trackName": "Winner (feat. Celebrity Marauders, Joey Montana & Pree)",
+      "trackId": "2zySKMHSxKp7eRPj4kPpQE",
+      "preview": "https://p.scdn.co/mp3-preview/81f72812bbe30b0b2064996a2ec307b08b496304?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/26713a00740053d69f7a7558057955e46ffcaccc",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Joey Montana",
+      "featuredArtistId": "3ATyg4fGC9F8trfb0GRWmX",
+      "trackName": "Winner (feat. Celebrity Marauders, Joey Montana & Pree)",
+      "trackId": "2zySKMHSxKp7eRPj4kPpQE",
+      "preview": "https://p.scdn.co/mp3-preview/81f72812bbe30b0b2064996a2ec307b08b496304?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/26713a00740053d69f7a7558057955e46ffcaccc",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Pree",
+      "featuredArtistId": "3W8LIPSZQQF7ZZbFcrhnjO",
+      "trackName": "Winner (feat. Celebrity Marauders, Joey Montana & Pree)",
+      "trackId": "2zySKMHSxKp7eRPj4kPpQE",
+      "preview": "https://p.scdn.co/mp3-preview/81f72812bbe30b0b2064996a2ec307b08b496304?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/26713a00740053d69f7a7558057955e46ffcaccc",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Celebrity Marauders",
+      "featuredArtistId": "5kV50KyWCJ1Hrs6dGTFtEo",
+      "trackName": "Winner (feat. Celebrity Marauders, Joey Montana & Pree)",
+      "trackId": "0Orwkf0vWoEnr03FbQDsnQ",
+      "preview": "https://p.scdn.co/mp3-preview/81f72812bbe30b0b2064996a2ec307b08b496304?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6d812d4336d3c79aa61ef9d8462c6f29ce4a22ff",
+      "release_date": "2017-11-10"
+    }
+  ]
+}

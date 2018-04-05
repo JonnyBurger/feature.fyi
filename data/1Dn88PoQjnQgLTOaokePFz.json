@@ -1,0 +1,77 @@
+{
+  "artistName": "Bright Sparks",
+  "features": [
+    {
+      "featuredArtist": "Osrin",
+      "featuredArtistId": "70c48bioArCGTsN9pH04NT",
+      "trackName": "Missing",
+      "trackId": "4Wl6bieuuOyERv9FRHvcjj",
+      "preview": "https://p.scdn.co/mp3-preview/9a141c89686c574729e35c87a06fa5f576f7c9c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c605e05434c07a5f477d5a5291f6ed03e70f3340",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Beau Collins",
+      "featuredArtistId": "6pUu9y4pMmIsEre45xQaxj",
+      "trackName": "Missing",
+      "trackId": "4Wl6bieuuOyERv9FRHvcjj",
+      "preview": "https://p.scdn.co/mp3-preview/9a141c89686c574729e35c87a06fa5f576f7c9c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c605e05434c07a5f477d5a5291f6ed03e70f3340",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "TV Noise",
+      "featuredArtistId": "32Aw9aJJoXXC1Vn3zqzJbQ",
+      "trackName": "Bring Me Down (feat. Bright Sparks)",
+      "trackId": "0btJ9ji40u7H0VN7DIFD3V",
+      "preview": "https://p.scdn.co/mp3-preview/35affe982d68d266d99655bfb9f560a87e73b6f7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bb094096be8fe92c3863021944993cc2ed32202e",
+      "release_date": "2017-12-01"
+    },
+    {
+      "featuredArtist": "Junior J",
+      "featuredArtistId": "4pSGHK662YAtHNu84LyBER",
+      "trackName": "Do What You Do",
+      "trackId": "6ryBQBEToOvXk0CQGzaQcc",
+      "preview": "https://p.scdn.co/mp3-preview/bb555087751e254435e58627be1d3d9265579058?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d623271f70460954f101ef6d942bd5d0cbb5fec",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "Möwe",
+      "featuredArtistId": "4S8NmgM7oJ188sKp1waZpy",
+      "trackName": "Your Skin (feat. Bright Sparks) - De Hofnar Remix",
+      "trackId": "7ei2B83VeruKbx0MrF3CEt",
+      "preview": "https://p.scdn.co/mp3-preview/d40c8a3ad490c3d4a5b85d6d7fdbf9dc939fdb5c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/39637b86ddfeb7e8268dbfa815efd61b462d8a1a",
+      "release_date": "2017-04-21"
+    },
+    {
+      "featuredArtist": "De Hofnar",
+      "featuredArtistId": "1LFGVkNRmXz8jIkyPjaGNL",
+      "trackName": "Your Skin (feat. Bright Sparks) - De Hofnar Remix",
+      "trackId": "7ei2B83VeruKbx0MrF3CEt",
+      "preview": "https://p.scdn.co/mp3-preview/d40c8a3ad490c3d4a5b85d6d7fdbf9dc939fdb5c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/39637b86ddfeb7e8268dbfa815efd61b462d8a1a",
+      "release_date": "2017-04-21"
+    },
+    {
+      "featuredArtist": "Tiësto",
+      "featuredArtistId": "2o5jDhtHVPhrJdv3cEQ99Z",
+      "trackName": "On My Way",
+      "trackId": "3udXCGFZz2Bf1eF3CZUrxF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0b681354addd17e8b4e39cf4769f93aad58cb888",
+      "release_date": "2017-12-13"
+    },
+    {
+      "featuredArtist": "Palastic",
+      "featuredArtistId": "6OFZSmtxDquMkX2XZJSN6y",
+      "trackName": "Lying In The Sun",
+      "trackId": "13nt5WxfgV7k5XGrK78Dgw",
+      "preview": "https://p.scdn.co/mp3-preview/959a04e353d356136a3b29ee090940313e61d2f1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c260b7302f9d92b904fd27966e26a3fe61b6fb80",
+      "release_date": "2017-10-13"
+    }
+  ]
+}

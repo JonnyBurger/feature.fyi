@@ -1,0 +1,59 @@
+{
+  "artistName": "Katastrofe",
+  "features": [
+    {
+      "featuredArtist": "Beachbraaten",
+      "featuredArtistId": "7iTslOnVeIN6ePQ60vAoUU",
+      "trackName": "Vors hos Børre",
+      "trackId": "7EtZwpNWhGB3vIhxW19x3W",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9021c7cc267b80f855b6d64d8ea5e4dafe39dbfe",
+      "release_date": "2016-03-14"
+    },
+    {
+      "featuredArtist": "Innertier",
+      "featuredArtistId": "4u5rOZ3ecm8hFzCskgOEw3",
+      "trackName": "Si ja!",
+      "trackId": "20NnTpKo8ubFNDUoUYJ5p8",
+      "preview": "https://p.scdn.co/mp3-preview/2298bf8f9822d07337b1f9107b6e0406aee0426d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cafc32becf425057fccdd32476eca4d9ca66fcea",
+      "release_date": "2016-01-08"
+    },
+    {
+      "featuredArtist": "Alexander Rybak",
+      "featuredArtistId": "3LLNDXrxL4uxXtnUJS5XWM",
+      "trackName": "Typisk Norsk",
+      "trackId": "3ocWYSEuNMF9D1f3wObqL4",
+      "preview": "https://p.scdn.co/mp3-preview/f55b6d7c2329889ec1b0ed22980630286355a515?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/df5650bb64546097ddb1ca270f3820c25c26b4df",
+      "release_date": "2015-11-27"
+    },
+    {
+      "featuredArtist": "Marcus & Martinus",
+      "featuredArtistId": "3N4FiTxpPQRsrihmTMN349",
+      "trackName": "Elektrisk",
+      "trackId": "1jU7I17rDKUbnIAJJkNVAy",
+      "preview": "https://p.scdn.co/mp3-preview/8cc9ad77a8b5e7b4a44a21c713db57b77a4f8e5a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/065bd3ca7f459b1276a38f41744bbce3c67f8a63",
+      "release_date": "2015-07-24"
+    },
+    {
+      "featuredArtist": "Staysman",
+      "featuredArtistId": "5J10DHSs5nFktP4DNYncwj",
+      "trackName": "Bleik og sur",
+      "trackId": "4aXKPioASQny2Qfuw28a88",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f4b7fbc57532f47b27d5c57f4f73d1a360e72550",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "M.M.B",
+      "featuredArtistId": "2cbWwj4XSTEyKRLeSYIT7b",
+      "trackName": "Bleik og sur",
+      "trackId": "4aXKPioASQny2Qfuw28a88",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f4b7fbc57532f47b27d5c57f4f73d1a360e72550",
+      "release_date": "2014-01-01"
+    }
+  ]
+}

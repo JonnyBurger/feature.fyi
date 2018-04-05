@@ -1,0 +1,41 @@
+{
+  "artistName": "Sade",
+  "features": [
+    {
+      "featuredArtist": "The Abyssinians",
+      "featuredArtistId": "1vB5909auE9YUaTjQ7ZkTj",
+      "trackName": "Slave Song - Live",
+      "trackId": "6Hn660eFcV0xAKqiBq99Wt",
+      "preview": "https://p.scdn.co/mp3-preview/2b111e81a9783e4605cc4ea68a3a46b72d22dd85?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb75a49953182c96074ef3c0d48afc506bd9346d",
+      "release_date": "2002"
+    },
+    {
+      "featuredArtist": "No I.D.",
+      "featuredArtistId": "4TNLCgKNImRbj2bb7g52wH",
+      "trackName": "Flower of the Universe (No I.D. Remix) [From Disney's \"A Wrinkle in Time\"]",
+      "trackId": "4v2PFclEaY0LrTT3tf1oco",
+      "preview": "https://p.scdn.co/mp3-preview/b1d2b5ae46ee57d1e5f5d3ed4f73aaf26caa75f1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b353b0fd52984e115c1b00b956699368d0869c5c",
+      "release_date": "2018-03-07"
+    },
+    {
+      "featuredArtist": "JAY Z",
+      "featuredArtistId": "3nFkdlSjzX9mRTtwJOzDYB",
+      "trackName": "The Moon and the Sky - Remix",
+      "trackId": "2dd4SQ91JlPP8yBuXswdiq",
+      "preview": "https://p.scdn.co/mp3-preview/7bd201a3fc5d1dde4c9d88e855f71a7e9588f993?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e94fda299e1479fddc20ecc99835ee62aa71061c",
+      "release_date": "2011-04-13"
+    },
+    {
+      "featuredArtist": "Vincent T.",
+      "featuredArtistId": "2KNYJP0GBOxd9aGeip2X6L",
+      "trackName": "Sunset Pirate (Hold On)",
+      "trackId": "3obLot84ijjdmSre3LnS7h",
+      "preview": "https://p.scdn.co/mp3-preview/ffabcbeadd9a622def932eb96f38fe363fc13fa3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad41288f31097aac8aacc629d245f3f443243353",
+      "release_date": "1992"
+    }
+  ]
+}

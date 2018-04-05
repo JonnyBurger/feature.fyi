@@ -1,0 +1,50 @@
+{
+  "artistName": "Jewel",
+  "features": [
+    {
+      "featuredArtist": "Rodney Crowell",
+      "featuredArtistId": "4QIJ2i8I6urte2scKgkVoY",
+      "trackName": "It Doesn't Hurt Right Now",
+      "trackId": "3UpwswiY4EQahihYhNYsvA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b361d5285497350e7addae73c29b7cb0c984596c",
+      "release_date": "2015-09-11"
+    },
+    {
+      "featuredArtist": "Dolly Parton",
+      "featuredArtistId": "32vWCbZh0xZ4o9gkz4PsEU",
+      "trackName": "My Father's Daughter",
+      "trackId": "0S7BtFCjwUJMTXghcV2J44",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b361d5285497350e7addae73c29b7cb0c984596c",
+      "release_date": "2015-09-11"
+    },
+    {
+      "featuredArtist": "Vince Gill",
+      "featuredArtistId": "3IhWQSrLj8EJjdvjFTpCyo",
+      "trackName": "White Christmas",
+      "trackId": "4j1lUtIg35TKcvuMLw3hOd",
+      "preview": "https://p.scdn.co/mp3-preview/2a0f86c58810f2dbd4a5346130fec8cef3b5f904?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d4e78a18289393bf7d8f53251120685d76f56d0e",
+      "release_date": "2013-11-11"
+    },
+    {
+      "featuredArtist": "Sing n Play",
+      "featuredArtistId": "3at1vTRcH8tM7ZmnGXyiZs",
+      "trackName": "Sammy the Spider",
+      "trackId": "4rCtg2CiIybOmMm3BUIC6h",
+      "preview": "https://p.scdn.co/mp3-preview/20f6527006bb548893d81162a58d62c620733af5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/634c874a614c43c37e3b3860cb14cb83e86ecf3b",
+      "release_date": "2011-08-16"
+    },
+    {
+      "featuredArtist": "Todd Terry",
+      "featuredArtistId": "3dE92yGWcrboP1kC5SWyqu",
+      "trackName": "Intuition - Todd Terry In-House Mix",
+      "trackId": "2X04GFqawfGec1o0ziYZi0",
+      "preview": "https://p.scdn.co/mp3-preview/7044a3404cc524f68ad488bbaf5c3ab80b627536?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/52ec9fa399d3db0b10dc3609a0269f3fb4a474b1",
+      "release_date": "2003-06-03"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "artistName": "The Pogues",
+  "features": [
+    {
+      "featuredArtist": "Joe Strummer",
+      "featuredArtistId": "2A09V0kHlETOFfT8Hz8oba",
+      "trackName": "If I Should Fall From Grace With God (with Joe Strummer) - Live",
+      "trackId": "2sMpGfVKEx8zHtVtidRtK1",
+      "preview": "https://p.scdn.co/mp3-preview/3912a8335489382d76c04bcdb957c6c2aac45119?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/52249c0fb2ffb70e5b68acc24f74a42bd5b61842",
+      "release_date": "2014-04-19"
+    },
+    {
+      "featuredArtist": "Kirsty MacColl",
+      "featuredArtistId": "6UlNIFEuWlBqb4TvlVCekq",
+      "trackName": "Fairytale of New York (feat. Kirsty MacColl)",
+      "trackId": "1twRxSW99cfLGF0RbF6utd",
+      "preview": "https://p.scdn.co/mp3-preview/00d9ec8f8290248f2544e8831395b2e1c2856455?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6227b0697b205d1e0b208f445abe661a509f9d72",
+      "release_date": "2013-03-11"
+    },
+    {
+      "featuredArtist": "Ella Finer",
+      "featuredArtistId": "0uui57vpKwqPPfLh3tdnNl",
+      "trackName": "Fairytale Of New York - Live At The Olympia, Paris / 2012",
+      "trackId": "1YjlgEo0VSCWzqDws7iW8z",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6d135080d7e5b046842c6d0a3dd8477434e7c304",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "The Dubliners",
+      "featuredArtistId": "72RvmgEg2omdlMV9aExO6a",
+      "trackName": "Whiskey in the Jar",
+      "trackId": "1rJCuds0vDMAjF5RdZU7bq",
+      "preview": "https://p.scdn.co/mp3-preview/73b6275f1920ab82c8a2660a89d34dab58290946?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d5dd534c8ff52eaf298485325e447eb63f69350e",
+      "release_date": "1990-10-01"
+    },
+    {
+      "featuredArtist": "Katie Melua",
+      "featuredArtistId": "5uCXJWo3WoXgqv3T1RlAbh",
+      "trackName": "Fairytale of New York (feat. Katie Melua) - Live December 2005",
+      "trackId": "1GTKNybLPjx0JEKD6rZzYk",
+      "preview": "https://p.scdn.co/mp3-preview/daa5c02e7b50f7b4ec88d9dcc7c50b58e36aa225?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/30defdcccf4c4f52af9d4cbd4cca0ed768743e72",
+      "release_date": "2017-11-24"
+    }
+  ]
+}

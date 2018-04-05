@@ -1,0 +1,50 @@
+{
+  "artistName": "Jacques Brel",
+  "features": [
+    {
+      "featuredArtist": "Jean Claude Calon",
+      "featuredArtistId": "6tkHUTFkkbogAuEBHOpwMu",
+      "trackName": "L'homme de la Mancha",
+      "trackId": "19xbUEAd1yMlfNCa0Ep53E",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4d8d89d68538775bed1b7ddc453fa8ae564ff7e2",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "J. Provins",
+      "featuredArtistId": "4ISMvl4v6KPTfzvEDu7Nyl",
+      "trackName": "Le casque d'or de Mambrino",
+      "trackId": "6JJdWpTnG6Ono8JSPOnUry",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4d8d89d68538775bed1b7ddc453fa8ae564ff7e2",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Joan Diener",
+      "featuredArtistId": "7fyfjwcDFqUVKDgDxOAjOO",
+      "trackName": "Aldonza",
+      "trackId": "25nioLJuD5uHpCiCThaZci",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4d8d89d68538775bed1b7ddc453fa8ae564ff7e2",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Jean Mauvais",
+      "featuredArtistId": "4nPMnTSzW3gsDMkXt31uWz",
+      "trackName": "Le chevalier aux miroirs",
+      "trackId": "3BguXxDijIh3oQwfEqvJrf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4d8d89d68538775bed1b7ddc453fa8ae564ff7e2",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Louis Navarre",
+      "featuredArtistId": "2RzAqLbCKL06NVvSP5O6zG",
+      "trackName": "La mort",
+      "trackId": "1Lzt7qBeJP1MYxGS9nIwfk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4d8d89d68538775bed1b7ddc453fa8ae564ff7e2",
+      "release_date": "2010-01-01"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "artistName": "Moon Taxi",
+  "features": [
+    {
+      "featuredArtist": "Sofi Tukker",
+      "featuredArtistId": "586uxXMyD5ObPuzjtrzO1Q",
+      "trackName": "Two High - Sofi Tukker Remix",
+      "trackId": "3AicbcQnfJHMqCOLgHCWK0",
+      "preview": "https://p.scdn.co/mp3-preview/d93f337f2cbf18ea264b6611c4f34d43c4a6c0c3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/140b111bd92d446ee14b785be37d5c4e17994b35",
+      "release_date": "2018-03-30"
+    },
+    {
+      "featuredArtist": "Ashworth",
+      "featuredArtistId": "3pcGjcfEW3YD2Hfk6tDR5S",
+      "trackName": "Two High - Ashworth Remix",
+      "trackId": "1fFc0b6AaIabgtIX3Demc2",
+      "preview": "https://p.scdn.co/mp3-preview/c0a83a1c54a61d60c55f6c72891b799f16bd70c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/abb4453b6a428641459f189c34380a4d67d361da",
+      "release_date": "2017-11-03"
+    }
+  ]
+}

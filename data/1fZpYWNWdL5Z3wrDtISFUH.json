@@ -1,0 +1,32 @@
+{
+  "artistName": "Shakey Graves",
+  "features": [
+    {
+      "featuredArtist": "Esmé Patterson",
+      "featuredArtistId": "1PoFNQQDFXvOYm6Dx8coAa",
+      "trackName": "Dearly Departed",
+      "trackId": "4iGfNGI6vwL7N1pyoA4iTA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b57492797f3ec469d34d68e75410cef682290e97",
+      "release_date": "2015-02-27"
+    },
+    {
+      "featuredArtist": "Shovels & Rope",
+      "featuredArtistId": "1M3BVQ36cqPQix8lQNCh4K",
+      "trackName": "Unknown Legend",
+      "trackId": "59hAzuHt7rIs7Uh9CD2UUy",
+      "preview": "https://p.scdn.co/mp3-preview/afc45efd338cb40326a8acee491b6043ceffd1e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/55e3ad660a3465c117d26c6da7d1e9397bc60ead",
+      "release_date": "2016-10-07"
+    },
+    {
+      "featuredArtist": "Monica Martin",
+      "featuredArtistId": "2Oq3sgFa2HSvRY0vL6bDxN",
+      "trackName": "O Death",
+      "trackId": "49EK30WCMpXBcsEIka9TSi",
+      "preview": "https://p.scdn.co/mp3-preview/7b743d1ee05580fc5da98b315a3846e3bd18b15a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fcdee5332728d6a60aff933ca6b502844545d94f",
+      "release_date": "2016-03-25"
+    }
+  ]
+}

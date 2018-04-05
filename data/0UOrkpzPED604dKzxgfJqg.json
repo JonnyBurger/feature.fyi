@@ -1,0 +1,50 @@
+{
+  "artistName": "Rodrigo Amarante",
+  "features": [
+    {
+      "featuredArtist": "Marisa Monte",
+      "featuredArtistId": "0rSTXALHu0EKAawPLBdODH",
+      "trackName": "Nu Com A Minha Música",
+      "trackId": "4Ly6JWmClDCK5CKEf7zPbu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1e172c6f234dceec3af78742eb9612165d44a53f",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Devendra Banhart",
+      "featuredArtistId": "1YZEoYFXx4AxVv13OiOPvZ",
+      "trackName": "Nu Com A Minha Música",
+      "trackId": "4Ly6JWmClDCK5CKEf7zPbu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1e172c6f234dceec3af78742eb9612165d44a53f",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Adam Green",
+      "featuredArtistId": "3RyJG8xp58XSmsiuIySzUj",
+      "trackName": "Birthday Mambo (feat. Rodrigo Amarante)",
+      "trackId": "6WTYxha4L97877W3FkBzvo",
+      "preview": "https://p.scdn.co/mp3-preview/0308b0405435aa6b738721aa8b12692edcb375eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3e4f974aa90b158c795026756aedae4e68f3d52",
+      "release_date": "2016-04-29"
+    },
+    {
+      "featuredArtist": "Natalia Lafourcade",
+      "featuredArtistId": "1hcdI2N1023RvSwLzTtdsp",
+      "trackName": "Azul",
+      "trackId": "58iNllszkXpDOcYRgcfLfH",
+      "preview": "https://p.scdn.co/mp3-preview/fe71890fe9e99b0453371f185365ff4842b65a81?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e3a6c76772de891657557e994631e91b60bf6c5a",
+      "release_date": "2012-09-18"
+    },
+    {
+      "featuredArtist": "Tom Zé",
+      "featuredArtistId": "1gIa65d5ICT2xVWiUJ3u27",
+      "trackName": "N Y C Subway Poetry Department",
+      "trackId": "6v2KpsUJZLBCjd3FkjXfrJ",
+      "preview": "https://p.scdn.co/mp3-preview/250fcef5ffbd3daf09bfa19c1cdfa9fd0c8469a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ae5b99cae0eb5bafaf52d96f528a83af6e75e8c0",
+      "release_date": "2012-08-30"
+    }
+  ]
+}

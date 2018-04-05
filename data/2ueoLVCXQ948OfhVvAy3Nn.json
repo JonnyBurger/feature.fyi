@@ -1,0 +1,32 @@
+{
+  "artistName": "Perfume Genius",
+  "features": [
+    {
+      "featuredArtist": "Weyes Blood",
+      "featuredArtistId": "3Uqu1mEdkUJxPe7s31n1M9",
+      "trackName": "Sides",
+      "trackId": "2RCIGieLAcsic5iUOinSRf",
+      "preview": "https://p.scdn.co/mp3-preview/c558a71ae87ce85a1149351b1dded64ca2ba83d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/52221e62e73c60b8b0a6b2052d10f4ea7948c4db",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Christine and the Queens",
+      "featuredArtistId": "04vj3iPUiVh5melWr0w3xT",
+      "trackName": "Jonathan (feat. Perfume Genius)",
+      "trackId": "1zmIEX2td5btkSoiXv5hFI",
+      "preview": "https://p.scdn.co/mp3-preview/6b7d1da8b3b395d0e156cdca73751dce1fbf7442?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b6049b1c425691497668608336747ee7eae1bc2f",
+      "release_date": "2016-08-19"
+    },
+    {
+      "featuredArtist": "Sharon Van Etten",
+      "featuredArtistId": "2wJ4vsxWd7df7dRU4KcoDe",
+      "trackName": "To Lay Me Down",
+      "trackId": "5IVia3V49Dg02QAriErsvZ",
+      "preview": "https://p.scdn.co/mp3-preview/bf75bfda656b3c3a4d83773fc31bd09bcdeba9ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dfb91ce3214b2d48b5100c33091373478be7928f",
+      "release_date": "2016-05-20"
+    }
+  ]
+}

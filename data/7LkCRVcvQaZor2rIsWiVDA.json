@@ -1,0 +1,23 @@
+{
+  "artistName": "Rudy Mancuso",
+  "features": [
+    {
+      "featuredArtist": "Maia Mitchell",
+      "featuredArtistId": "7yL7IexZsQ4uZy7YbX4wVN",
+      "trackName": "Magic",
+      "trackId": "2DvgLLX2ByteZyFz8ByGX4",
+      "preview": "https://p.scdn.co/mp3-preview/1c642425e18c7fda0cb92bd4b3a1e629313a47a1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/676192c1649b37cd5622be29dd6da5cfd5d33a52",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Poo Bear",
+      "featuredArtistId": "3JXpwnHbLvXxY99EuXqFPX",
+      "trackName": "Black & White",
+      "trackId": "0WqfoaxUvOhkOcUYv0rtLx",
+      "preview": "https://p.scdn.co/mp3-preview/a292c7aab19035db79bdb2809be30b98765625d1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e67e98bbe2e34b096d71dc467f50289436ad18e",
+      "release_date": "2017-10-06"
+    }
+  ]
+}

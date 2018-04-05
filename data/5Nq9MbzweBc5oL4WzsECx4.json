@@ -1,0 +1,32 @@
+{
+  "artistName": "Calogero",
+  "features": [
+    {
+      "featuredArtist": "Clara Luciani",
+      "featuredArtistId": "2oVrruuEI0Dr2I4NvLtQS0",
+      "trackName": "On se sait par cœur",
+      "trackId": "1pLt09bz1KTF3SGDqHOI0X",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4d02307a1c0f1dd28e92eb143ec542e5caaf5a70",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Cats On Trees",
+      "featuredArtistId": "3Dcckn2A8PXmu8zLpMuO3B",
+      "trackName": "Jimmy",
+      "trackId": "6BRzfGAL4JLp6CiFdNLZKy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9ba3f5bd309b88f5427d2b920770985ce79c043e",
+      "release_date": "2015-08-07"
+    },
+    {
+      "featuredArtist": "Passi",
+      "featuredArtistId": "41o2A93SPxIUxsy5HQjvul",
+      "trackName": "Face A La Mer - Version Symphonique",
+      "trackId": "0XLzhQRDK44KEJaaSREVFa",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fb47d16125358d09f7610db8bf16c13a16e975c6",
+      "release_date": "2011-01-01"
+    }
+  ]
+}

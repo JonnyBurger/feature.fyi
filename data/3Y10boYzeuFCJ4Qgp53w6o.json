@@ -1,0 +1,50 @@
+{
+  "artistName": "Scissor Sisters",
+  "features": [
+    {
+      "featuredArtist": "DJ Nita",
+      "featuredArtistId": "4fxKqxY1K4MIlVN7wilKXs",
+      "trackName": "Let's Have A Kiki - DJ Nita Remix",
+      "trackId": "4bqEBpESwkAVxgcssyYmO9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cfc9fc800513d7138a191ae4ca2628016691e475",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Seamus Haji",
+      "featuredArtistId": "2f6jGbE8VU74rb5AQtOdFz",
+      "trackName": "F*** Yeah - Seamus Haji Remix",
+      "trackId": "7mZYQV3GHNELAWYpqXpGHI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cfc9fc800513d7138a191ae4ca2628016691e475",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Tommie Sunshine",
+      "featuredArtistId": "42tlZWSz1V6Rsqds29GcRo",
+      "trackName": "Only The Horses - Horsepower Remix - Japanese Exclusive",
+      "trackId": "0CBmP1llDR6wsLSfike2ya",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cfc9fc800513d7138a191ae4ca2628016691e475",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Peter Rauhofer",
+      "featuredArtistId": "6FMOGdP16KnjoA2yDa6N0v",
+      "trackName": "Fire With Fire - Rauhofer Reconstruction Mix",
+      "trackId": "5zLEVMpYEY9aHgnXrxnwMI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8451a3e1ffb110847558cb4bce2056bfc722e46c",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Paperfaces",
+      "featuredArtistId": "77eRWL8ETBFeyc3klAZci1",
+      "trackName": "I Don't Feel Like Dancin' - (Paper Faces Remix)",
+      "trackId": "2Ot5UvgW9VnDRot7UKQ71q",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/46e692355909d4ccef009772b661630554257cc1",
+      "release_date": "2006-01-01"
+    }
+  ]
+}

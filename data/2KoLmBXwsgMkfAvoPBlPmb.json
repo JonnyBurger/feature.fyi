@@ -1,0 +1,50 @@
+{
+  "artistName": "Егор Крид",
+  "features": [
+    {
+      "featuredArtist": "Мот",
+      "featuredArtistId": "6OTMjaRQ9kxdwoPRYTmyOM",
+      "trackName": "Засыпай",
+      "trackId": "2yV3rTbsmU69UYfymV5YFp",
+      "preview": "https://p.scdn.co/mp3-preview/88ace8c9c248df869183b0f3df400f95c47e0ce4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f0430bd6b60f40273e2d8765547de505f1e20047",
+      "release_date": "2017-05-23"
+    },
+    {
+      "featuredArtist": "MOLLY",
+      "featuredArtistId": "6G0CZLe1HFoxcHp0FY4pNV",
+      "trackName": "Если ты меня не любишь",
+      "trackId": "3ZI7G8XKVAZXrL4UChD4W3",
+      "preview": "https://p.scdn.co/mp3-preview/87c8ed6afcd031d3edd5d3d9ebc9f2dc6c806ffd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f0430bd6b60f40273e2d8765547de505f1e20047",
+      "release_date": "2017-05-23"
+    },
+    {
+      "featuredArtist": "Arina Kuzmina",
+      "featuredArtistId": "0hPrxTCqcpPY1wB5V7WX7b",
+      "trackName": "Я останусь",
+      "trackId": "5NuYrrFvyWWI1uvbGbglhM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c4bc6fbeba92db2bcc4d632e95876951849b489",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Smash",
+      "featuredArtistId": "1fLIzbK5e8MGrLKj1dEMsg",
+      "trackName": "Команда 2018",
+      "trackId": "4WuFGqn9RLvxhEkBhI1ciI",
+      "preview": "https://p.scdn.co/mp3-preview/10d698f166b27fddcfad43044f4b5e0a6ab38e4f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a396783155e6c929fdb6ae8d4e14cd13e4beb83d",
+      "release_date": "2017-07-02"
+    },
+    {
+      "featuredArtist": "Полина Гагарина",
+      "featuredArtistId": "3Pdait6yo2LXvw2CwnagZr",
+      "trackName": "Команда 2018",
+      "trackId": "4WuFGqn9RLvxhEkBhI1ciI",
+      "preview": "https://p.scdn.co/mp3-preview/10d698f166b27fddcfad43044f4b5e0a6ab38e4f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a396783155e6c929fdb6ae8d4e14cd13e4beb83d",
+      "release_date": "2017-07-02"
+    }
+  ]
+}

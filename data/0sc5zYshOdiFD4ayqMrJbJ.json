@@ -1,0 +1,32 @@
+{
+  "artistName": "Jazz Cartier",
+  "features": [
+    {
+      "featuredArtist": "River Tiber",
+      "featuredArtistId": "1FHDMgGdmIP4IsoFkAwbS0",
+      "trackName": "• Tell Me",
+      "trackId": "266P255t7BjWCpcayohQIB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7eb20b79920d420525d6bd202ffb8489f75bfc1b",
+      "release_date": "2016-02-03"
+    },
+    {
+      "featuredArtist": "Ro Ransom",
+      "featuredArtistId": "5tLx2xpkiHdzvX9CIymCfR",
+      "trackName": "Make A Mess",
+      "trackId": "28hXYg5Rrx5UFvFw6YorAV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8b84481335088efd5d97ef972b8a9f610f0ac02d",
+      "release_date": "2017-08-23"
+    },
+    {
+      "featuredArtist": "Ye Ali",
+      "featuredArtistId": "0Maq4Nk8ZM6keGZjTCXGIH",
+      "trackName": "Ring",
+      "trackId": "7uJYtxlcjVvXnHtbTUamys",
+      "preview": "https://p.scdn.co/mp3-preview/90a318e3cc99de6dcc3e0c242d22867339a01408?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d4f415ab873c25c819efd57c64350ebd3bbb30fb",
+      "release_date": "2016-04-04"
+    }
+  ]
+}

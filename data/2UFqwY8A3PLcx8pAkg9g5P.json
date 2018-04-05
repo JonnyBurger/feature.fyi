@@ -1,0 +1,32 @@
+{
+  "artistName": "Diego Verdaguer",
+  "features": [
+    {
+      "featuredArtist": "Gabriel Vivar Sierra",
+      "featuredArtistId": "1rfDmJBMD8JWKxi1gbfnYc",
+      "trackName": "Es Que Tú",
+      "trackId": "7EC43wPvXssZuoaOnAo7HW",
+      "preview": "https://p.scdn.co/mp3-preview/0d51d06bf04fa1c744f57dbefb22d3f90bcb32a1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cb2a76742236bc3b70daf0f5692cec6a9ad53482",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Amanda Miguel",
+      "featuredArtistId": "3v8mFhjLFa50QK8zDvAMYN",
+      "trackName": "El Pecado",
+      "trackId": "1oX6PsLzxWmbPYm4LJ0yMU",
+      "preview": "https://p.scdn.co/mp3-preview/6ab6ac42278c68d5dbd2842174cd1eb35b56b583?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f708f89bb8444b854f4038af79b6223a950159c0",
+      "release_date": "2015-03-18"
+    },
+    {
+      "featuredArtist": "Ana Victoria",
+      "featuredArtistId": "1Xc3X1FuRXrzFZ1C5BuCy5",
+      "trackName": "La Sombra De Este Amor",
+      "trackId": "5njhPCtstvyy6L3C7bnKCQ",
+      "preview": "https://p.scdn.co/mp3-preview/de9981c6d93f526a3743c12069b10b32f2d1c369?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b65aebf6969cb26ffded7dffe6926ec59b462923",
+      "release_date": "2011-06-09"
+    }
+  ]
+}

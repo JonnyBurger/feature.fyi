@@ -1,0 +1,23 @@
+{
+  "artistName": "El Bebeto",
+  "features": [
+    {
+      "featuredArtist": "El Komander",
+      "featuredArtistId": "2wC90WSKQd0BvdxJZ0mObr",
+      "trackName": "Mi Amigo",
+      "trackId": "2afEOaJXGiJ8TjxkTl7wba",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2c9a5a562d955bb8842e03f2502daed895b3608d",
+      "release_date": "2016-08-19"
+    },
+    {
+      "featuredArtist": "Angel Romero",
+      "featuredArtistId": "6qqiGoXhL3gjX1QH6MgmdT",
+      "trackName": "Gente De Acción",
+      "trackId": "7xh5xxnyw0Vzw6HWY5Gcuc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a8fc5e5143f43e9dc0722445458e781dfa6c6c36",
+      "release_date": "2014-01-01"
+    }
+  ]
+}

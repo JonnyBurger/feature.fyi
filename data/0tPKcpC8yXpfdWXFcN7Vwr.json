@@ -1,0 +1,374 @@
+{
+  "artistName": "Nines",
+  "features": [
+    {
+      "featuredArtist": "Jay Midge",
+      "featuredArtistId": "5ajWW0e3M7Jn33w9WxL47T",
+      "trackName": "Trapper of the Year",
+      "trackId": "2aFBK4QnqDEit2RxdTWpY1",
+      "preview": "https://p.scdn.co/mp3-preview/db9357dcb56d02a84907ff2eedd88001c358b2c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad1aa5dc5733e24db3278c0a7c199dd41f9c3ef1",
+      "release_date": "2017-02-10"
+    },
+    {
+      "featuredArtist": "Hudson East",
+      "featuredArtistId": "0DwPrw4Zd15m2cdnpbwGKq",
+      "trackName": "Love 2 the Game",
+      "trackId": "2m9MaN0JOdAlXdWVi8Wtcc",
+      "preview": "https://p.scdn.co/mp3-preview/e849313f19a00b0f7a6d846f08b5e16f964bfa1c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad1aa5dc5733e24db3278c0a7c199dd41f9c3ef1",
+      "release_date": "2017-02-10"
+    },
+    {
+      "featuredArtist": "Berner",
+      "featuredArtistId": "2lrtGWxNXWjd0JzDLKXubI",
+      "trackName": "These Keys",
+      "trackId": "1bJ49ysws6BbQuglnE8Y01",
+      "preview": "https://p.scdn.co/mp3-preview/acce99e28d1b8c7fbe2de595b72a67b7b56af9d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad1aa5dc5733e24db3278c0a7c199dd41f9c3ef1",
+      "release_date": "2017-02-10"
+    },
+    {
+      "featuredArtist": "Tiggs Da Author",
+      "featuredArtistId": "0S2dfczvN0sOxEw559snHT",
+      "trackName": "Hoes",
+      "trackId": "4o1OpefFhDXppRdZXXvFJM",
+      "preview": "https://p.scdn.co/mp3-preview/22247795004e875c7b3105454972ea488b3fc585?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad1aa5dc5733e24db3278c0a7c199dd41f9c3ef1",
+      "release_date": "2017-02-10"
+    },
+    {
+      "featuredArtist": "J Hus",
+      "featuredArtistId": "2a0uxJgbvvIRI4GX8pYfcr",
+      "trackName": "High Roller",
+      "trackId": "5HSMY2507ameWGqEFhwVS3",
+      "preview": "https://p.scdn.co/mp3-preview/26fd766bf6e0c407cf23f4d934654c919828556d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad1aa5dc5733e24db3278c0a7c199dd41f9c3ef1",
+      "release_date": "2017-02-10"
+    },
+    {
+      "featuredArtist": "Akala",
+      "featuredArtistId": "58LTO4K7E3WUtztMK2BCkB",
+      "trackName": "I Wonder",
+      "trackId": "6pqwDzVocf27DbebP2w7eK",
+      "preview": "https://p.scdn.co/mp3-preview/95a5e69244591ba4a57bf047aa9609e2ff80b410?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad1aa5dc5733e24db3278c0a7c199dd41f9c3ef1",
+      "release_date": "2017-02-10"
+    },
+    {
+      "featuredArtist": "Speshill",
+      "featuredArtistId": "5OV6fb0Ugw8NASuc0jHN4W",
+      "trackName": "Intro",
+      "trackId": "3Rt2W98Gam0kmkLIU1odnK",
+      "preview": "https://p.scdn.co/mp3-preview/35f326669efdbb326c164446f372be96a59cccad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7da6464df8c2c4651e60000ad31a4b098da14a7b",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "Skrapz",
+      "featuredArtistId": "67R8l2OLqGwA9V4BKllYQY",
+      "trackName": "Grind for Real",
+      "trackId": "1qWjb4s2qlOjhZGMLVeSKQ",
+      "preview": "https://p.scdn.co/mp3-preview/fefa99d30b2c4933d2075f8cc50f0e664885ff76?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7da6464df8c2c4651e60000ad31a4b098da14a7b",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "Likkle T",
+      "featuredArtistId": "205uUEmOunDUqqtmWWYXd5",
+      "trackName": "Grind for Real",
+      "trackId": "1qWjb4s2qlOjhZGMLVeSKQ",
+      "preview": "https://p.scdn.co/mp3-preview/fefa99d30b2c4933d2075f8cc50f0e664885ff76?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7da6464df8c2c4651e60000ad31a4b098da14a7b",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "Kezza",
+      "featuredArtistId": "6SF5AZHMYqdydpAn9aB90H",
+      "trackName": "Grind for Real",
+      "trackId": "1qWjb4s2qlOjhZGMLVeSKQ",
+      "preview": "https://p.scdn.co/mp3-preview/fefa99d30b2c4933d2075f8cc50f0e664885ff76?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7da6464df8c2c4651e60000ad31a4b098da14a7b",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "Fatz",
+      "featuredArtistId": "4uK3dRV8eaBhEBZjNdUecM",
+      "trackName": "Ice City",
+      "trackId": "28uvqnoyK84D6MM5mWXorG",
+      "preview": "https://p.scdn.co/mp3-preview/6a15903359eeabb0ad579f020dc87216340c64f9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7da6464df8c2c4651e60000ad31a4b098da14a7b",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "Chris Andoh",
+      "featuredArtistId": "6w4trJ2M52WX5nzI1YAGLP",
+      "trackName": "No Other",
+      "trackId": "1rmrL0td2jg9a1wKs49d8g",
+      "preview": "https://p.scdn.co/mp3-preview/4dcc813ebe7db5d1315c99e50a53d31713951082?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7da6464df8c2c4651e60000ad31a4b098da14a7b",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "Haile",
+      "featuredArtistId": "0tuUIxmkyJOzUoJO1kdAi4",
+      "trackName": "Can't Blame Me",
+      "trackId": "4KJaSezrxiZmQfoBQUry7g",
+      "preview": "https://p.scdn.co/mp3-preview/0e02d0fda6f4a65aeb688594001f8b479343a8cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7da6464df8c2c4651e60000ad31a4b098da14a7b",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "Tops",
+      "featuredArtistId": "0Y8OzLECQkOqYm1KftTGvo",
+      "trackName": "All Star",
+      "trackId": "1jM5AL1YUHLQszuy6yNSQX",
+      "preview": "https://p.scdn.co/mp3-preview/bbe620ea5eb045874b1756362fc5153f7d32d241?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7da6464df8c2c4651e60000ad31a4b098da14a7b",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "Dundi",
+      "featuredArtistId": "2ngj1ddOOfGdJC4OwfYH6R",
+      "trackName": "All Star",
+      "trackId": "1jM5AL1YUHLQszuy6yNSQX",
+      "preview": "https://p.scdn.co/mp3-preview/bbe620ea5eb045874b1756362fc5153f7d32d241?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7da6464df8c2c4651e60000ad31a4b098da14a7b",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "TE dness",
+      "featuredArtistId": "5xQAPQS0cJoiGR2lGDdth9",
+      "trackName": "All Star",
+      "trackId": "1jM5AL1YUHLQszuy6yNSQX",
+      "preview": "https://p.scdn.co/mp3-preview/bbe620ea5eb045874b1756362fc5153f7d32d241?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7da6464df8c2c4651e60000ad31a4b098da14a7b",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "J-Man",
+      "featuredArtistId": "5UqcWNMJjEIsgnqmPTvyQK",
+      "trackName": "All Star",
+      "trackId": "1jM5AL1YUHLQszuy6yNSQX",
+      "preview": "https://p.scdn.co/mp3-preview/bbe620ea5eb045874b1756362fc5153f7d32d241?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7da6464df8c2c4651e60000ad31a4b098da14a7b",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "P-Dubbz",
+      "featuredArtistId": "7cJ2OHNo87GaXxys1Cj7MF",
+      "trackName": "Paper",
+      "trackId": "6m4aFN7UbSHL4ZcHXVAM1h",
+      "preview": "https://p.scdn.co/mp3-preview/e4947299b4ece33a24e813b78de8f6de82c796f1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7da6464df8c2c4651e60000ad31a4b098da14a7b",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "Streetz",
+      "featuredArtistId": "6Jy1gEI8kdt2aXQvwnqxtM",
+      "trackName": "Watch & See",
+      "trackId": "011jI2k9BSkwJ0JhUrBkN7",
+      "preview": "https://p.scdn.co/mp3-preview/57f306a42f3a426ef6fd0167daf7f1e75650c227?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7da6464df8c2c4651e60000ad31a4b098da14a7b",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "Nafe Smalls",
+      "featuredArtistId": "1vaQ2Y8GH4qbC2AikLhwgV",
+      "trackName": "Nafe Small - Bonus Track",
+      "trackId": "1xhVenfmk8ifHbVu76MYBK",
+      "preview": "https://p.scdn.co/mp3-preview/3bb1058c5f2bb93ed57cbd078473ca6bc48ece43?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7da6464df8c2c4651e60000ad31a4b098da14a7b",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "M.L.F.",
+      "featuredArtistId": "34eLFcpSqXXyEHlJntzUH4",
+      "trackName": "Would've Had a Kid with You",
+      "trackId": "1GiMCqsul1zmnuF5yOJMuN",
+      "preview": "https://p.scdn.co/mp3-preview/64c81d841f7ce9672f7550f8c06a529a106a1655?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b3b33ce12b1668e625c117aed2d8852e1ec35631",
+      "release_date": "2014-06-14"
+    },
+    {
+      "featuredArtist": "Miss Kai Ryder",
+      "featuredArtistId": "1NI4LFt4WBddJFzAJETfkz",
+      "trackName": "Free",
+      "trackId": "3TQJuG8QUC1sNnUFyT7FTo",
+      "preview": "https://p.scdn.co/mp3-preview/bbdf628ce1a507ecdffc04d42fa756c5d81b68a4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b3b33ce12b1668e625c117aed2d8852e1ec35631",
+      "release_date": "2014-06-14"
+    },
+    {
+      "featuredArtist": "Lyrican",
+      "featuredArtistId": "6e6LVJx26uwr8YAQtuYxjq",
+      "trackName": "Money on My Mind",
+      "trackId": "4aKtvdv8Ekn0OccsnYMiVj",
+      "preview": "https://p.scdn.co/mp3-preview/5b202dc5d76f97f0289b5a84920e39dc8d8e4810?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b3b33ce12b1668e625c117aed2d8852e1ec35631",
+      "release_date": "2014-06-14"
+    },
+    {
+      "featuredArtist": "Youngs",
+      "featuredArtistId": "1EeTPIiQRmPCkjuFu3hCwr",
+      "trackName": "Lick Shots",
+      "trackId": "4YZNJOA9d8wiO5ELNY5WxC",
+      "preview": "https://p.scdn.co/mp3-preview/e10b11e82c8ead5a26d77cc501a075b56df64c30?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b3b33ce12b1668e625c117aed2d8852e1ec35631",
+      "release_date": "2014-06-14"
+    },
+    {
+      "featuredArtist": "Teflon",
+      "featuredArtistId": "4pP6uXZpjPMs2eRuPLTYc3",
+      "trackName": "Lick Shots",
+      "trackId": "4YZNJOA9d8wiO5ELNY5WxC",
+      "preview": "https://p.scdn.co/mp3-preview/e10b11e82c8ead5a26d77cc501a075b56df64c30?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b3b33ce12b1668e625c117aed2d8852e1ec35631",
+      "release_date": "2014-06-14"
+    },
+    {
+      "featuredArtist": "Big Keyz",
+      "featuredArtistId": "70TWZRdEEC3fHhxRYIuxb1",
+      "trackName": "Big Keyz Intro",
+      "trackId": "412oHkt724YiyRIhuMKcFO",
+      "preview": "https://p.scdn.co/mp3-preview/4ac583655f32e73bc92b9733afcc4b898c8dafe3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f09400741c67cfbfb7d65c7d4807d7630f58e05d",
+      "release_date": "2013-07-04"
+    },
+    {
+      "featuredArtist": "Maestro",
+      "featuredArtistId": "6FFcD5eq6f0dqKxwmExmFA",
+      "trackName": "Trappin Ain't Cool",
+      "trackId": "1E7JiRJWwXDKLBj2CjjrTd",
+      "preview": "https://p.scdn.co/mp3-preview/c87b65dcfc722ff6a71ff318438ec7c0a9c7ae5a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f09400741c67cfbfb7d65c7d4807d7630f58e05d",
+      "release_date": "2013-07-04"
+    },
+    {
+      "featuredArtist": "Fundz",
+      "featuredArtistId": "1sbdvBsWSyPAFkq6LU83T8",
+      "trackName": "The Hardest",
+      "trackId": "3hXMsviI8NPcqzeMKbzPgq",
+      "preview": "https://p.scdn.co/mp3-preview/eb8ea20fe1baa8622eb816c9986689f5e900cd01?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f09400741c67cfbfb7d65c7d4807d7630f58e05d",
+      "release_date": "2013-07-04"
+    },
+    {
+      "featuredArtist": "Joe Black",
+      "featuredArtistId": "3YHZCwNcrMGlR8btys9FID",
+      "trackName": "Church Rd. To Izzy",
+      "trackId": "2XyaUcexxEHn2lP6C3qLrv",
+      "preview": "https://p.scdn.co/mp3-preview/11c438febf2b8f9f95b28741bb4f602c997cb189?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4bbe9a90e244bd97fe5285633a3495100e592d11",
+      "release_date": "2012-10-14"
+    },
+    {
+      "featuredArtist": "Flyboy Tuff",
+      "featuredArtistId": "5wKRMjOFNmHl5CBjsoKTup",
+      "trackName": "Bizzy Getting Lizzy",
+      "trackId": "0JLvA6FvT2dmiPxwqvW3zZ",
+      "preview": "https://p.scdn.co/mp3-preview/b0b6cec14be9918432687c92171e3437d83c66fa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4bbe9a90e244bd97fe5285633a3495100e592d11",
+      "release_date": "2012-10-14"
+    },
+    {
+      "featuredArtist": "Spiro",
+      "featuredArtistId": "7zL1k4HY9MZTYngcGDuOnK",
+      "trackName": "Bizzy Getting Lizzy",
+      "trackId": "0JLvA6FvT2dmiPxwqvW3zZ",
+      "preview": "https://p.scdn.co/mp3-preview/b0b6cec14be9918432687c92171e3437d83c66fa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4bbe9a90e244bd97fe5285633a3495100e592d11",
+      "release_date": "2012-10-14"
+    },
+    {
+      "featuredArtist": "B.anca",
+      "featuredArtistId": "3wdNBdUeQfrZRLJqYa5Kn3",
+      "trackName": "RIP Stylie",
+      "trackId": "6PDPQc5aLUaLajyFzKbNfH",
+      "preview": "https://p.scdn.co/mp3-preview/db02bb8c2d908f6c4b722656454ad99d35cb28c8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4bbe9a90e244bd97fe5285633a3495100e592d11",
+      "release_date": "2012-10-14"
+    },
+    {
+      "featuredArtist": "Pak-Man",
+      "featuredArtistId": "1qnW4caArrhUby9bFCSpXf",
+      "trackName": "Nightmares",
+      "trackId": "5vMKPd8JL0S5u9vcnaJsOD",
+      "preview": "https://p.scdn.co/mp3-preview/0abe1a27c75758dff2424c5c5f251914de5d30fb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4bbe9a90e244bd97fe5285633a3495100e592d11",
+      "release_date": "2012-10-14"
+    },
+    {
+      "featuredArtist": "Krystal",
+      "featuredArtistId": "0y6I0Y8NUO3qUe2NRqT5rH",
+      "trackName": "Love the Trap",
+      "trackId": "4yfaGV6ZXuJDb6HiBAbUz7",
+      "preview": "https://p.scdn.co/mp3-preview/74bc9328eea4dae933af655197286ed637c767d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4bbe9a90e244bd97fe5285633a3495100e592d11",
+      "release_date": "2012-10-14"
+    },
+    {
+      "featuredArtist": "Fun",
+      "featuredArtistId": "6pjoP0hLEHOSsSxBp0hWcq",
+      "trackName": "Nines",
+      "trackId": "6aH4lIWqzL60jYk5EM1BI3",
+      "preview": "https://p.scdn.co/mp3-preview/2181d528b322cab4c12d16f73e60b73c1f5b5cf5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4bbe9a90e244bd97fe5285633a3495100e592d11",
+      "release_date": "2012-10-14"
+    },
+    {
+      "featuredArtist": "Mig",
+      "featuredArtistId": "00ekfPE5ZS3NwF8H8o8GBk",
+      "trackName": "I Now Your Hating",
+      "trackId": "4FuVzuryslS8KhcOX4nEOF",
+      "preview": "https://p.scdn.co/mp3-preview/9818cb68413efe7781ea3751915231f820d0ccde?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4bbe9a90e244bd97fe5285633a3495100e592d11",
+      "release_date": "2012-10-14"
+    },
+    {
+      "featuredArtist": "Crime Scene Boyz",
+      "featuredArtistId": "5XkY7L7NTuJEkZIBrq4mLg",
+      "trackName": "Zino Always Said",
+      "trackId": "5QqPfwMndeQGnAO6qFQ7OX",
+      "preview": "https://p.scdn.co/mp3-preview/acb68ac1d66cabc98810646faed875696ae5fece?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4bbe9a90e244bd97fe5285633a3495100e592d11",
+      "release_date": "2012-10-14"
+    },
+    {
+      "featuredArtist": "MIST",
+      "featuredArtistId": "63X1WKthLQidtqxxO2sgeq",
+      "trackName": "On It (feat. Nines)",
+      "trackId": "63IsxoG84vTm9eUfZLfmpW",
+      "preview": "https://p.scdn.co/mp3-preview/9e55b1ff3101e650eb992159fc2a6c62fe54dd5b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a472a4b0c197013d582f079a42e0fe0896337cec",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Moelogo",
+      "featuredArtistId": "6mctsJBrfcWvWH7S8h716D",
+      "trackName": "In da Streets",
+      "trackId": "3H1Uv0kKjS2YyRuNa2O3D0",
+      "preview": "https://p.scdn.co/mp3-preview/c0e9d8ff8d428ad01bb43ff7b6ed0facf8edc26e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8a63232a1b5f82a599067fa8ac3dd232b5c98d32",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Let The Ocean Scream",
+      "featuredArtistId": "5RK3yC7zf3pbjkDQ3VvyAZ",
+      "trackName": "Burning Inside Us (feat. Nines)",
+      "trackId": "6mgX65f9g7JcW7sN3lEXkE",
+      "preview": "https://p.scdn.co/mp3-preview/1091e03fa3148b30c8fc44d02dc9f1344bd480c2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3412562c471848b0be71d1812e47b2c23337beb3",
+      "release_date": "2016-09-19"
+    },
+    {
+      "featuredArtist": "Tulisa",
+      "featuredArtistId": "2T2FygBhNFzuzjLefPpsdv",
+      "trackName": "British Swag",
+      "trackId": "2lH4NwDuHY5HHu71bg5BMR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2849854ece01e8aee361ea52fec0862f0887bb15",
+      "release_date": "2012-01-01"
+    }
+  ]
+}

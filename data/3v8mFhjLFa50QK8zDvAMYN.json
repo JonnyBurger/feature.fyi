@@ -1,0 +1,32 @@
+{
+  "artistName": "Amanda Miguel",
+  "features": [
+    {
+      "featuredArtist": "Big Metra",
+      "featuredArtistId": "5J5DLfdC5YmPjVk8ljdOqU",
+      "trackName": "Él Me Mintió (feat. Big Metra)",
+      "trackId": "69N6ut6a9KOw0IftxYLOWU",
+      "preview": "https://p.scdn.co/mp3-preview/1d4564dd2057951cdda1661bf19a4e4268e98bfd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7358e21a908068222ce143dd22bfe46607b3bd8e",
+      "release_date": "2015-04-16"
+    },
+    {
+      "featuredArtist": "Diego Verdaguer",
+      "featuredArtistId": "2UFqwY8A3PLcx8pAkg9g5P",
+      "trackName": "El Pecado",
+      "trackId": "1oX6PsLzxWmbPYm4LJ0yMU",
+      "preview": "https://p.scdn.co/mp3-preview/6ab6ac42278c68d5dbd2842174cd1eb35b56b583?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f708f89bb8444b854f4038af79b6223a950159c0",
+      "release_date": "2015-03-18"
+    },
+    {
+      "featuredArtist": "Ana Victoria",
+      "featuredArtistId": "1Xc3X1FuRXrzFZ1C5BuCy5",
+      "trackName": "La Sombra De Este Amor",
+      "trackId": "5njhPCtstvyy6L3C7bnKCQ",
+      "preview": "https://p.scdn.co/mp3-preview/de9981c6d93f526a3743c12069b10b32f2d1c369?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b65aebf6969cb26ffded7dffe6926ec59b462923",
+      "release_date": "2011-06-09"
+    }
+  ]
+}

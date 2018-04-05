@@ -1,0 +1,32 @@
+{
+  "artistName": "Mahalia",
+  "features": [
+    {
+      "featuredArtist": "Little Simz",
+      "featuredArtistId": "6eXZu6O7nAUA5z6vLV8NKI",
+      "trackName": "Proud of Me (feat. Little Simz)",
+      "trackId": "1s6peZNxETxrrfMrveNZW8",
+      "preview": "https://p.scdn.co/mp3-preview/c903b6adf0d676c5cbc896cc55e7b1b134f0a38f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/214334408ade1792447c6ea942f239059e9f9eb1",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Buddy",
+      "featuredArtistId": "6PDLwWvgYNMfBRLqC1h5cJ",
+      "trackName": "Hold On",
+      "trackId": "73DA64XbPpafrOo9kY9jmF",
+      "preview": "https://p.scdn.co/mp3-preview/b4660a9cb0f49300c0504d4b5e8b5ed45f6d978c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/42fa04b47988ed32bbf51872bf5f74832a7a411e",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Jarreau Vandal",
+      "featuredArtistId": "6f96znq79wvlknKHHHhtTW",
+      "trackName": "Sober - Jarreau Vandal Remix",
+      "trackId": "49ObNH7FeBkTehJVPGF1P1",
+      "preview": "https://p.scdn.co/mp3-preview/9e8f7d5617f32788b9295a45bba6bfb2b55b4952?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/acc8bb952c574159c84a695ae3e2db4334bfdcdc",
+      "release_date": "2017-08-11"
+    }
+  ]
+}

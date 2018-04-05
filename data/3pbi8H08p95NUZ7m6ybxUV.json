@@ -1,0 +1,77 @@
+{
+  "artistName": "Static Major",
+  "features": [
+    {
+      "featuredArtist": "Lil Wayne",
+      "featuredArtistId": "55Aa2cqylxrFIXC767Z865",
+      "trackName": "Lollipop",
+      "trackId": "2UuB5RrL0H8L54HN538etj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/451c13abbb3cab6b01c1bcebb31c823867bbb76a",
+      "release_date": "2017-06-02"
+    },
+    {
+      "featuredArtist": "Cavie",
+      "featuredArtistId": "0jQaLYjzjPdwwBTvsnaISh",
+      "trackName": "The Function",
+      "trackId": "3oMutV9PnLq3hP3Za6inN9",
+      "preview": "https://p.scdn.co/mp3-preview/84ceed3f3815dd99b9f6afe86bb3a97b0e536be4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/664fb79c849ef909e89c57aad3f78baaea0738b7",
+      "release_date": "2015-04-21"
+    },
+    {
+      "featuredArtist": "Smokey",
+      "featuredArtistId": "7sXLRHrPFtUyS8rfluzj8b",
+      "trackName": "The Function",
+      "trackId": "3oMutV9PnLq3hP3Za6inN9",
+      "preview": "https://p.scdn.co/mp3-preview/84ceed3f3815dd99b9f6afe86bb3a97b0e536be4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/664fb79c849ef909e89c57aad3f78baaea0738b7",
+      "release_date": "2015-04-21"
+    },
+    {
+      "featuredArtist": "T-Hud",
+      "featuredArtistId": "6g8rKhMp7xYwqWjTNladwx",
+      "trackName": "Good Weather Music (Feat. Pimp C, Bun B & Static Major)",
+      "trackId": "5PXFH4q1gZ16uRqRez6R4a",
+      "preview": "https://p.scdn.co/mp3-preview/3dc27f27b5305c44b45b1d685be24f2fff24f9af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c5af67c9cf40b7ba9ef248ed7d9fbdea488c87a6",
+      "release_date": "2010-04-06"
+    },
+    {
+      "featuredArtist": "Bun B",
+      "featuredArtistId": "45a6gCQWq61lIUDmr1tKuO",
+      "trackName": "Good Weather Music (Feat. Pimp C, Bun B & Static Major)",
+      "trackId": "5PXFH4q1gZ16uRqRez6R4a",
+      "preview": "https://p.scdn.co/mp3-preview/3dc27f27b5305c44b45b1d685be24f2fff24f9af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c5af67c9cf40b7ba9ef248ed7d9fbdea488c87a6",
+      "release_date": "2010-04-06"
+    },
+    {
+      "featuredArtist": "Pimp C",
+      "featuredArtistId": "7v9bFXCdSMA2o3gS4nvp0F",
+      "trackName": "Good Weather Music (Feat. Pimp C, Bun B & Static Major)",
+      "trackId": "5PXFH4q1gZ16uRqRez6R4a",
+      "preview": "https://p.scdn.co/mp3-preview/3dc27f27b5305c44b45b1d685be24f2fff24f9af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c5af67c9cf40b7ba9ef248ed7d9fbdea488c87a6",
+      "release_date": "2010-04-06"
+    },
+    {
+      "featuredArtist": "Twista",
+      "featuredArtistId": "6vbY3hOaCAhC7VjucswgdS",
+      "trackName": "Gotta Get Me One",
+      "trackId": "2BFmZo8TWqvdsLm7Z05pgC",
+      "preview": "https://p.scdn.co/mp3-preview/60d2eee76a449de9067611aecfffc6845bd7e747?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4498d45024069a373056ed6efb2b4125ef510f66",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Kanye West",
+      "featuredArtistId": "5K4W6rqBFWDnAN6FQUkS6x",
+      "trackName": "Lollipop - Remix",
+      "trackId": "55gYrCRX2j5rdMqgeZKbck",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/eb118ec51c94994af91bf815b653a5c32b9e2cfe",
+      "release_date": "2008-01-01"
+    }
+  ]
+}

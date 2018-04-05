@@ -1,0 +1,32 @@
+{
+  "artistName": "The Underachievers",
+  "features": [
+    {
+      "featuredArtist": "Mello",
+      "featuredArtistId": "5gSeyUsi6Ghd2XQJhhJdnq",
+      "trackName": "Saint Paul",
+      "trackId": "5GfjGUvQcUAqU3KHvCfAjJ",
+      "preview": "https://p.scdn.co/mp3-preview/e5235056d7b1e3429c7bbc5d15cc76b43e700919?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c2e015cf607fe92e1f406cf4d7848e9adc232b36",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "Portugal. The Man",
+      "featuredArtistId": "4kI8Ie27vjvonwaB2ePh8T",
+      "trackName": "Amorphous",
+      "trackId": "0VosP284haGlhso1FIHatK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/495b19b18bd443d76cc036a67edeaca50126c145",
+      "release_date": "2014-08-12"
+    },
+    {
+      "featuredArtist": "Freeway",
+      "featuredArtistId": "1sTNITOzZLjiSmlkDzMzwD",
+      "trackName": "3hree Kings (feat. Freeway)",
+      "trackId": "114Kijw1YcLEZqUjIqprUv",
+      "preview": "https://p.scdn.co/mp3-preview/656a52e88d9c33dfe8c44749e34079cf11463627?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fef7145c5bed6cd751feb6c4847a95f3c67b6af0",
+      "release_date": "2014-12-09"
+    }
+  ]
+}

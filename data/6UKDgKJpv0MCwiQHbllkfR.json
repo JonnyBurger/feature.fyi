@@ -1,0 +1,59 @@
+{
+  "artistName": "Star Cast",
+  "features": [
+    {
+      "featuredArtist": "Luke James",
+      "featuredArtistId": "4E7AV8mtElSjHZP3xA9kyU",
+      "trackName": "Filthy Sheets",
+      "trackId": "1BlKXpf4VhEJY9JfE9VFa4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/67d8be4f14c466296c605b14dbd7eff38c197dcb",
+      "release_date": "2018-03-30"
+    },
+    {
+      "featuredArtist": "Jude Demorest",
+      "featuredArtistId": "2YCzuHuE3bAycNDV6sJDo8",
+      "trackName": "My Love",
+      "trackId": "4H5w1afFMpFTVNAwadhLLJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/225b8d575e02094e551824b38a9cd997b4659603",
+      "release_date": "2018-03-30"
+    },
+    {
+      "featuredArtist": "Queen Latifah",
+      "featuredArtistId": "5m7wCUhYhBh7A3A3YMxrbt",
+      "trackName": "Ohhh Lord",
+      "trackId": "1UHOEQ7dmS6ScdKC273hkm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/429278698dd84415032ef5de0e3bc7000077a11b",
+      "release_date": "2018-03-30"
+    },
+    {
+      "featuredArtist": "Patti LaBelle",
+      "featuredArtistId": "0ty0xha1dbprYIUAQufkFn",
+      "trackName": "Ohhh Lord",
+      "trackId": "1UHOEQ7dmS6ScdKC273hkm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/429278698dd84415032ef5de0e3bc7000077a11b",
+      "release_date": "2018-03-30"
+    },
+    {
+      "featuredArtist": "Brandy",
+      "featuredArtistId": "05oH07COxkXKIMt6mIPRee",
+      "trackName": "Ohhh Lord",
+      "trackId": "1UHOEQ7dmS6ScdKC273hkm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/429278698dd84415032ef5de0e3bc7000077a11b",
+      "release_date": "2018-03-30"
+    },
+    {
+      "featuredArtist": "Keke Palmer",
+      "featuredArtistId": "2YFBOR9KIxC6WqHclkj9Yq",
+      "trackName": "Bossy",
+      "trackId": "00i7bcqUDLEs5sXrRIY9cg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dca081f5077429735b3d404b17617ceb927b0a8a",
+      "release_date": "2018-01-12"
+    }
+  ]
+}

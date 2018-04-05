@@ -1,0 +1,824 @@
+{
+  "artistName": "English Baroque Soloists",
+  "features": [
+    {
+      "featuredArtist": "Johann Sebastian Bach",
+      "featuredArtistId": "5aIqB5nVVvmFsvSdExz408",
+      "trackName": "Missa in F Major, BWV 233: I. Kyrie eleison",
+      "trackId": "3kr0Vfr428K2t038AtEi1N",
+      "preview": "https://p.scdn.co/mp3-preview/85b1455da08d443b665c09f6281385e54b474060?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86eb087704c7dac495cb346e13aa4cc06a762779",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "The Monteverdi Choir",
+      "featuredArtistId": "0Cqfz92flAzrp94pgN1jEW",
+      "trackName": "Missa in F Major, BWV 233: I. Kyrie eleison",
+      "trackId": "3kr0Vfr428K2t038AtEi1N",
+      "preview": "https://p.scdn.co/mp3-preview/85b1455da08d443b665c09f6281385e54b474060?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86eb087704c7dac495cb346e13aa4cc06a762779",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "John Eliot Gardiner",
+      "featuredArtistId": "1qIRoGEKXINqrCx5N1engi",
+      "trackName": "Missa in F Major, BWV 233: I. Kyrie eleison",
+      "trackId": "3kr0Vfr428K2t038AtEi1N",
+      "preview": "https://p.scdn.co/mp3-preview/85b1455da08d443b665c09f6281385e54b474060?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86eb087704c7dac495cb346e13aa4cc06a762779",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Gianluca Buratto",
+      "featuredArtistId": "2tZ9UZ7KSPlcPg2Q2FDQul",
+      "trackName": "Missa in F Major, BWV 233: III. Domine Deus",
+      "trackId": "7FE6qMf42Fe33xBXIb25MP",
+      "preview": "https://p.scdn.co/mp3-preview/84bc82a86d14687966098f8d227f753438996e43?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86eb087704c7dac495cb346e13aa4cc06a762779",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Hannah Morrison",
+      "featuredArtistId": "3anEi2otD1MetZyNd8iIdu",
+      "trackName": "Missa in F Major, BWV 233: IV. Qui tollis peccata mundi",
+      "trackId": "7d1uLnH5uaXnRTDcHXSLJs",
+      "preview": "https://p.scdn.co/mp3-preview/355377c94e1175af7543af84b2d1361f9090f08f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86eb087704c7dac495cb346e13aa4cc06a762779",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Reginald L. Mobley",
+      "featuredArtistId": "0MVSvhDropZI08zgWSdbR5",
+      "trackName": "Missa in F Major, BWV 233: V. Quoniam to solus sanctus",
+      "trackId": "4IRV22Y1W2WfwBTEJ4uCfQ",
+      "preview": "https://p.scdn.co/mp3-preview/dab3a7d30d5aa1ec5c9e2cc8bc9d8fe1ee7bedaa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86eb087704c7dac495cb346e13aa4cc06a762779",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Angela Hicks",
+      "featuredArtistId": "5eKYZUekSy617URlzFTVs2",
+      "trackName": "Süßer Trost, mein Jesus kömmt, BWV 151: I. Süßer Trost, mein Jesus kömmt",
+      "trackId": "1U7z7UN8K2Iv79LpWvYaA5",
+      "preview": "https://p.scdn.co/mp3-preview/44e75f5014a1cab0053031d230d9676ff0423e8b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86eb087704c7dac495cb346e13aa4cc06a762779",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Jake Muffett",
+      "featuredArtistId": "3gRUDocFVPLg8401DM72CD",
+      "trackName": "Süßer Trost, mein Jesus kömmt, BWV 151: II. Erfreue dich, mein Herz",
+      "trackId": "27gXWQSaK3J16wi6LLz1v7",
+      "preview": "https://p.scdn.co/mp3-preview/756156541d729784640e2e49df7fb56895f2e789?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86eb087704c7dac495cb346e13aa4cc06a762779",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Hugo Hymas",
+      "featuredArtistId": "792d7Z7ivEv6flXD62DuLH",
+      "trackName": "Süßer Trost, mein Jesus kömmt, BWV 151: IV. Du teurer Gottessohn",
+      "trackId": "4AJIt7wcTQBDuluBYIGTsa",
+      "preview": "https://p.scdn.co/mp3-preview/d561f465d67669ff89b6f22dd9ca49b2b14cad1a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86eb087704c7dac495cb346e13aa4cc06a762779",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Eleanor Minney",
+      "featuredArtistId": "4RGf3X4kkpCl9WIPHRiCDi",
+      "trackName": "Magnificat in E-Flat Major, BWV 243a: Et exultavit",
+      "trackId": "7auxtKZ0ZiQnGyJP0sIC5i",
+      "preview": "https://p.scdn.co/mp3-preview/e524f546362886856f30c6db12cc84e849f9e0a7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86eb087704c7dac495cb346e13aa4cc06a762779",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Charlotte Ashley",
+      "featuredArtistId": "68qSojrcOCaSFBVZZVwr9F",
+      "trackName": "Magnificat in E-Flat Major, BWV 243a: Virga Jesse floruit",
+      "trackId": "70aSalaARbuuU94JKGueth",
+      "preview": "https://p.scdn.co/mp3-preview/de815db63ed274fc60e5768a9b23f5af8d31a41f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86eb087704c7dac495cb346e13aa4cc06a762779",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Trinity Boys Choir",
+      "featuredArtistId": "23EzhBs30RXxidoFWTytAR",
+      "trackName": "St. Matthew Passion, BWV 244, Pt. 1: Part I: Kommt, ihr Töchter, helft mir klagen (Chorus)",
+      "trackId": "6cGC7PGVDENo8QUgI87Dmy",
+      "preview": "https://p.scdn.co/mp3-preview/1eed9f3f61742f853c35013ff02f86cee6febcdd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf306501f45a39e32cf78a04b9409285a9c58752",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "James Gilchrist",
+      "featuredArtistId": "53h0zu3PaL8vYCgCepxdBA",
+      "trackName": "St. Matthew Passion, BWV 244, Pt. 1: Part I: Recitative: Da Jesus diese Rede vollendet hatte (Evangelist, Jesus)",
+      "trackId": "3ZK8WvuZJwZrMeIC1ILnY6",
+      "preview": "https://p.scdn.co/mp3-preview/ae2f4bcdaddd2c63455e516880fd021f067b5fe5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf306501f45a39e32cf78a04b9409285a9c58752",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Stephan Loges",
+      "featuredArtistId": "1LQoWFvNUwvDnDXgSQEEk1",
+      "trackName": "St. Matthew Passion, BWV 244, Pt. 1: Part I: Recitative: Da Jesus diese Rede vollendet hatte (Evangelist, Jesus)",
+      "trackId": "3ZK8WvuZJwZrMeIC1ILnY6",
+      "preview": "https://p.scdn.co/mp3-preview/ae2f4bcdaddd2c63455e516880fd021f067b5fe5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf306501f45a39e32cf78a04b9409285a9c58752",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Jonathan Sells",
+      "featuredArtistId": "2TV6M8YqIlHFDmviHzvVqV",
+      "trackName": "St. Matthew Passion, BWV 244, Pt. 1: Part I: Recitative: Da ging hin der Zwölfen einer (Evangelist, Judas)",
+      "trackId": "76AcN1lIxaEyrla4iYCam0",
+      "preview": "https://p.scdn.co/mp3-preview/b941268510baf13cbe6784815a350d8b909f5650?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf306501f45a39e32cf78a04b9409285a9c58752",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Zoë Brookshaw",
+      "featuredArtistId": "10zli6ziT9TEKqQ4mDFaRV",
+      "trackName": "St. Matthew Passion, BWV 244, Pt. 1: Part I: Blute nur, du liebes Herz (Soprano)",
+      "trackId": "08lgJgHnJGHzROjnK29OHs",
+      "preview": "https://p.scdn.co/mp3-preview/3b278d3cfc495d1355d447ebd2f7f60f5e2cd380?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf306501f45a39e32cf78a04b9409285a9c58752",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Alex Ashworth",
+      "featuredArtistId": "6FuSM9o0G55az8DSRxZEg4",
+      "trackName": "St. Matthew Passion, BWV 244, Pt. 1: Part I: Recitative: Petrus aber antwortete (Petrus, Evangelist, Jesus)",
+      "trackId": "0RKstoV2Ey3TidiIwYnoX3",
+      "preview": "https://p.scdn.co/mp3-preview/3bdfd8cab4d6b3996b18f6ef1ce24ae585fe096a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf306501f45a39e32cf78a04b9409285a9c58752",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Ashley Riches",
+      "featuredArtistId": "4ShWCO5SkwksVvgxF1xfxP",
+      "trackName": "St. Matthew Passion, BWV 244, Pt. 1: Part I: Recitative: Der Heiland fällt vor seinem Vater nieder (Bass)",
+      "trackId": "5AMQcZmfPxIOMokiEyQTG1",
+      "preview": "https://p.scdn.co/mp3-preview/4be9bf2b980ee29a6c9d424129ea411bb0891d8d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf306501f45a39e32cf78a04b9409285a9c58752",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Andrew Tortise",
+      "featuredArtistId": "4flDHzXOXvMhmPbJrsrbyc",
+      "trackName": "St. Matthew Passion, BWV 244, Pt. 2: Part II: Recitative: Und wiewohl viel falsche Zeugen herzutraten (Evangelist, Testis, Pontifex)",
+      "trackId": "6tTPIq8wzDQ3IDR5lRNIYR",
+      "preview": "https://p.scdn.co/mp3-preview/d7314f9877bffb9db8574e7dc2a6527c5937559b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf306501f45a39e32cf78a04b9409285a9c58752",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Rupert Reid",
+      "featuredArtistId": "3UMbf4fSH0b1rlVmXqNhF6",
+      "trackName": "St. Matthew Passion, BWV 244, Pt. 2: Part II: Recitative: Und wiewohl viel falsche Zeugen herzutraten (Evangelist, Testis, Pontifex)",
+      "trackId": "6tTPIq8wzDQ3IDR5lRNIYR",
+      "preview": "https://p.scdn.co/mp3-preview/d7314f9877bffb9db8574e7dc2a6527c5937559b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf306501f45a39e32cf78a04b9409285a9c58752",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Alison Hill",
+      "featuredArtistId": "6quJcoz9954ehm9CfHPaRA",
+      "trackName": "St. Matthew Passion, BWV 244, Pt. 2: Part II: Recitative and Chorus: Petrus aber saß draußen im Palast (Evangelist, Petrus, Ancilla, Chorus)",
+      "trackId": "3oPZHUJ5qEYzJTo7exn42K",
+      "preview": "https://p.scdn.co/mp3-preview/3e5a4ae7ddffe1f9d4519d75711c8816f930d696?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf306501f45a39e32cf78a04b9409285a9c58752",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Angharad Rowlands",
+      "featuredArtistId": "42JluLS5vxnYIuK2iDFc02",
+      "trackName": "St. Matthew Passion, BWV 244, Pt. 2: Part II: Recitative and Chorus: Petrus aber saß draußen im Palast (Evangelist, Petrus, Ancilla, Chorus)",
+      "trackId": "3oPZHUJ5qEYzJTo7exn42K",
+      "preview": "https://p.scdn.co/mp3-preview/3e5a4ae7ddffe1f9d4519d75711c8816f930d696?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf306501f45a39e32cf78a04b9409285a9c58752",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Lawrence Wallington",
+      "featuredArtistId": "2QMth6FYFywACa9afIx9Ca",
+      "trackName": "St. Matthew Passion, BWV 244, Pt. 2: Part II: Recitative and Chorus: Des Morgens aber hielten alle Hohepriester (Evangelist, Judas, Chorus, Pontifices)",
+      "trackId": "64zmR2Tn0nw2HJ9mxmqwwR",
+      "preview": "https://p.scdn.co/mp3-preview/e9d44fd7e0df6f6b31870c32072bf4bda224f368?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf306501f45a39e32cf78a04b9409285a9c58752",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Jessica Cale",
+      "featuredArtistId": "66rBYnWXeyBfvJ7DStxB5p",
+      "trackName": "St. Matthew Passion, BWV 244, Pt. 2: Part II: Recitative and Chorus: Auf das Fest aber hatte der Landpfleger (Evangelist, Pilatus, Uxor Pilati, Chorus)",
+      "trackId": "5DvQKYEFzZM5ujNgday3pK",
+      "preview": "https://p.scdn.co/mp3-preview/5c4b7436450c690b4cceb88e39364946618b44e4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf306501f45a39e32cf78a04b9409285a9c58752",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Kate Symonds-Joy",
+      "featuredArtistId": "0CcJ4onpXPwlMIJI9VuhUz",
+      "trackName": "Mass in B Minor, BWV 232: Christe eleison (Soprano, Alto)",
+      "trackId": "2nwYhMttG5RqXdqcYJ6qbR",
+      "preview": "https://p.scdn.co/mp3-preview/210a4fd782c03b899913aa40b84cf8555ee2d162?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd59f119c7972666f18ec49733b9a3f51f678752",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Peter Davoren",
+      "featuredArtistId": "25smnTbM4RV4VEj64GNrYx",
+      "trackName": "Mass in B Minor, BWV 232: Domine Deus (Soprano, Tenor)",
+      "trackId": "4p4t0QBy7MVqKfIh2K448c",
+      "preview": "https://p.scdn.co/mp3-preview/f6f85960864aebbf3634178ae5d5552c3a24b3d3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd59f119c7972666f18ec49733b9a3f51f678752",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Esther Brazil",
+      "featuredArtistId": "4cxr7KMDSSV4mvl2FAnUvl",
+      "trackName": "Mass in B Minor, BWV 232: Qui sedes ad dextram Patris (Alto)",
+      "trackId": "6VmkzBhReXcdI9nz1FUsDU",
+      "preview": "https://p.scdn.co/mp3-preview/9b6c9aa9ed3ac4bf6451e2dae09aa42d0129d17a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd59f119c7972666f18ec49733b9a3f51f678752",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "David Shipley",
+      "featuredArtistId": "3QiBdcWXzVAdCZuq6oOHe3",
+      "trackName": "Mass in B Minor, BWV 232: Quoniam tu solus Sanctus (Bass)",
+      "trackId": "4zDHNBoI1hMakuxGPdXpbm",
+      "preview": "https://p.scdn.co/mp3-preview/a22daab532faf87fc1d9c6d131297a4400566c66?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd59f119c7972666f18ec49733b9a3f51f678752",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Meg Bragle",
+      "featuredArtistId": "22UfKjEApHm0uXxob7HejQ",
+      "trackName": "Mass in B Minor, BWV 232: Et in unum Dominum (Soprano, Alto)",
+      "trackId": "2ZxeBPXy6mOZaQ2rJIsXg8",
+      "preview": "https://p.scdn.co/mp3-preview/3f4774ba04ca9bce645381914a84d1c922a9c0e4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd59f119c7972666f18ec49733b9a3f51f678752",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Nick Pritchard",
+      "featuredArtistId": "7qBzRGIiJDIkBtFNsHc7It",
+      "trackName": "Mass in B Minor, BWV 232: Benedictus (Tenor)",
+      "trackId": "0R16rkmW67zO3gMd8aSJXB",
+      "preview": "https://p.scdn.co/mp3-preview/7d7aa92f5a0b97645317a19b395baf984481009d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd59f119c7972666f18ec49733b9a3f51f678752",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Antonio Vivaldi",
+      "featuredArtistId": "2QOIawHpSlOwXDvSqQ9YJR",
+      "trackName": "Gloria, RV 589: Et in terra pax hominibus",
+      "trackId": "0eCnjPvlYe4uLX8VWbVmce",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/377e884aa5068b1b95f6666bc41fb992615243f6",
+      "release_date": "2012-10-26"
+    },
+    {
+      "featuredArtist": "Elinor Carter",
+      "featuredArtistId": "5OJjx64MzdTaAhmZ58OSEr",
+      "trackName": "Gloria, RV 589: Domine Deus, Agnus Dei",
+      "trackId": "2M53w0RMUNdyj7MDD1E0n8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/377e884aa5068b1b95f6666bc41fb992615243f6",
+      "release_date": "2012-10-26"
+    },
+    {
+      "featuredArtist": "Margaret Cameron",
+      "featuredArtistId": "2y9ESx1lILSLWoUFJF85Lt",
+      "trackName": "Gloria, RV 589: Qui sedes ad dexteram Patris",
+      "trackId": "7fVSDoysEPAcc4ZUIvX8Vp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/377e884aa5068b1b95f6666bc41fb992615243f6",
+      "release_date": "2012-10-26"
+    },
+    {
+      "featuredArtist": "Nancy Argenta",
+      "featuredArtistId": "6AWyB0AhI3gzsAbe9cksLF",
+      "trackName": "Gottes Zeit ist die allerbeste Zeit, BWV 106 \"Actus Tragicus\": No.2 a-d \"Gottes Zeit ist die allerbeste Zeit\" ... \"Es ist der alte Bund\"",
+      "trackId": "2VOlczy1ca1ybwjdTf0vxI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cbc8e9ec97ec3b66063a975469990d14804960e6",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Anthony Rolfe Johnson",
+      "featuredArtistId": "0kPQqnwTpb4xoBSxoGXnkO",
+      "trackName": "Gottes Zeit ist die allerbeste Zeit, BWV 106 \"Actus Tragicus\": No.2 a-d \"Gottes Zeit ist die allerbeste Zeit\" ... \"Es ist der alte Bund\"",
+      "trackId": "2VOlczy1ca1ybwjdTf0vxI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cbc8e9ec97ec3b66063a975469990d14804960e6",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Stephen Varcoe",
+      "featuredArtistId": "0TU5B5Zchs3He9YQYXhC1S",
+      "trackName": "Gottes Zeit ist die allerbeste Zeit, BWV 106 \"Actus Tragicus\": No.2 a-d \"Gottes Zeit ist die allerbeste Zeit\" ... \"Es ist der alte Bund\"",
+      "trackId": "2VOlczy1ca1ybwjdTf0vxI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cbc8e9ec97ec3b66063a975469990d14804960e6",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Michael Chance",
+      "featuredArtistId": "3vzk8TZItuZszZdyQjrG3g",
+      "trackName": "Cantata, BWV 106 \"Gottes Zeit ist die allerbeste Zeit\": 3a./b. \"In deine Hände befehl ich meinen Geist\" - \"Heute wirst du mit mir\"",
+      "trackId": "47wTcFzn7PE5tml3fk9oJl",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cbc8e9ec97ec3b66063a975469990d14804960e6",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Anthony Robson",
+      "featuredArtistId": "1COgwDHM1uK7tZJ6jp2pDD",
+      "trackName": "\"Wachet auf, ruft uns die Stimme\" Cantata, BWV 140: 1. Chor: \"Wachet auf, ruft uns die Stimme\"",
+      "trackId": "6j39db3v1vBYqZKSKE1VTr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cbc8e9ec97ec3b66063a975469990d14804960e6",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Richard Earle",
+      "featuredArtistId": "2WXbstEZm7IdowEYR7Y9P5",
+      "trackName": "\"Wachet auf, ruft uns die Stimme\" Cantata, BWV 140: 1. Chor: \"Wachet auf, ruft uns die Stimme\"",
+      "trackId": "6j39db3v1vBYqZKSKE1VTr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cbc8e9ec97ec3b66063a975469990d14804960e6",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Ruth Holton",
+      "featuredArtistId": "6pqASX91Qh5vjWHFuLAllv",
+      "trackName": "\"Wachet auf, ruft uns die Stimme\" Cantata, BWV 140: Arie (Duett): \"Wann kommst du, mein Heil?\"",
+      "trackId": "6ofu1Zf17ut6kRRH6Hwvx8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cbc8e9ec97ec3b66063a975469990d14804960e6",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Alison Bury",
+      "featuredArtistId": "38NLW0tzumEuy20AwBhmNc",
+      "trackName": "\"Wachet auf, ruft uns die Stimme\" Cantata, BWV 140: Arie (Duett): \"Wann kommst du, mein Heil?\"",
+      "trackId": "6ofu1Zf17ut6kRRH6Hwvx8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cbc8e9ec97ec3b66063a975469990d14804960e6",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Crispian Steele-Perkins",
+      "featuredArtistId": "3M8Dy1ekfMo0gXomISv0vi",
+      "trackName": "Herz und Mund und Tat und Leben, Cantata BWV 147: 1. Coro: \"Herz und Mund und Tat und Leben\"",
+      "trackId": "0eOsP8TFr180hMVKy3l3n0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cbc8e9ec97ec3b66063a975469990d14804960e6",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "George Frideric Handel",
+      "featuredArtistId": "1QL7yTHrdahRMpvNtn6rI2",
+      "trackName": "Music for the Royal Fireworks: Suite HWV 351: 1. Ouverture",
+      "trackId": "2oIs16YWBAra6bXoBN0hVi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c76bbcac3febeb09928470b58fc3863fbfa9f444",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Olaf Bär",
+      "featuredArtistId": "5JBjcnHu4vz2ENaF34qOTq",
+      "trackName": "\"Nun komm, der Heiden Heiland\" Cantata, BWV 61: 4. \"Siehe, ich stehe vor der Tür\"",
+      "trackId": "2oqRE7BTtFNtty7pG2N8br",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/325c197a211feb9e28c018536a5e4c3d6ade6db8",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Timothy Mason",
+      "featuredArtistId": "0a3lfSQO2I8RdLDBPOq8i6",
+      "trackName": "\"Nun komm, der Heiden Heiland\" Cantata, BWV 61: 5. \"Öffne dich, mein ganzes Herze\"",
+      "trackId": "5xZoPLF23sLDtbHTXTiJNI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/325c197a211feb9e28c018536a5e4c3d6ade6db8",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Sara Mingardo",
+      "featuredArtistId": "0bLEsDkfMxoNOv0CNjeFVw",
+      "trackName": "Cantata \"Sehet, welch eine Liebe\", BWV 64: Recitativo: Geh' Welt! behalte nur das Deine (Alto)",
+      "trackId": "1ZMQHEip0lF8wlGTfhv92r",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/325c197a211feb9e28c018536a5e4c3d6ade6db8",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Ann Monoyios",
+      "featuredArtistId": "3i5Q0TNaFDA3kS06ZNYFUX",
+      "trackName": "Cantata \"Sehet, welch eine Liebe\", BWV 64: Aria: Was die Welt in sich hält (Soprano)",
+      "trackId": "7J3yKQZ4aS7Nj8Q8P2Ir0U",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/325c197a211feb9e28c018536a5e4c3d6ade6db8",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Rufus Müller",
+      "featuredArtistId": "4TOV6X8a47HCo37VkVOz3y",
+      "trackName": "Cantata \"Christum wir sollen loben schon\", BWV 121: Aria: O du von Gott erhöhte Kreatur (Tenor)",
+      "trackId": "11UmHqoKp58xCM37ge5ckG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/325c197a211feb9e28c018536a5e4c3d6ade6db8",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Robert Lloyd",
+      "featuredArtistId": "50QMTmQ1XZm05UovMrGL4o",
+      "trackName": "Handel : Semele : Act 1 \"Lucky omens bless our rites\" [Chorus] \"Daughter obey\" [Cadmus, Athamas]",
+      "trackId": "2cgvxdEUSOtd6uBiNKl09k",
+      "preview": "https://p.scdn.co/mp3-preview/8f66e37211d1c0f4e228cbfad1ca0a6db098c09c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7562c7440fe65975bc1d783507aa2c3a73e606be",
+      "release_date": "2009-08-11"
+    },
+    {
+      "featuredArtist": "Timothy Penrose",
+      "featuredArtistId": "7mQTc47spa4EvM79YogQ3J",
+      "trackName": "Handel : Semele : Act 1 \"Lucky omens bless our rites\" [Chorus] \"Daughter obey\" [Cadmus, Athamas]",
+      "trackId": "2cgvxdEUSOtd6uBiNKl09k",
+      "preview": "https://p.scdn.co/mp3-preview/8f66e37211d1c0f4e228cbfad1ca0a6db098c09c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7562c7440fe65975bc1d783507aa2c3a73e606be",
+      "release_date": "2009-08-11"
+    },
+    {
+      "featuredArtist": "Catherine Denley",
+      "featuredArtistId": "3yD09j029kXRkAp64m4kLG",
+      "trackName": "Handel : Semele : Act 1 \"Ah me! What refuge now is left me?\" \"O Jove! in pity teach me which to choose\" [Semele] \"Alas, she yields\" [Ino, Athamas]",
+      "trackId": "21Kp0iZpu3iSxZLopjlnjZ",
+      "preview": "https://p.scdn.co/mp3-preview/112978d7dea9377f50fe21d113646ee657899919?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7562c7440fe65975bc1d783507aa2c3a73e606be",
+      "release_date": "2009-08-11"
+    },
+    {
+      "featuredArtist": "Norma Burrowes",
+      "featuredArtistId": "1SvpHA4t9VnXjIRCoi958Q",
+      "trackName": "Handel : Semele : Act 1 \"Ah me! What refuge now is left me?\" \"O Jove! in pity teach me which to choose\" [Semele] \"Alas, she yields\" [Ino, Athamas]",
+      "trackId": "21Kp0iZpu3iSxZLopjlnjZ",
+      "preview": "https://p.scdn.co/mp3-preview/112978d7dea9377f50fe21d113646ee657899919?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7562c7440fe65975bc1d783507aa2c3a73e606be",
+      "release_date": "2009-08-11"
+    },
+    {
+      "featuredArtist": "Della Jones",
+      "featuredArtistId": "6AGV38GTVJ2SckQrhN0mav",
+      "trackName": "Handel : Semele HWV58 : Act 2 Symphony \"Iris, impatient of thy stay\" [Juno, Iris]",
+      "trackId": "5jsuJvpVT8hHdcuiQ1Cdlr",
+      "preview": "https://p.scdn.co/mp3-preview/594283a2916774f08762265965a58c86a33ead8a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7562c7440fe65975bc1d783507aa2c3a73e606be",
+      "release_date": "2009-08-11"
+    },
+    {
+      "featuredArtist": "Patrizia Kwella",
+      "featuredArtistId": "1khExriIWWYcfxyAuCEx0P",
+      "trackName": "Handel : Semele HWV58 : Act 2 Symphony \"Iris, impatient of thy stay\" [Juno, Iris]",
+      "trackId": "5jsuJvpVT8hHdcuiQ1Cdlr",
+      "preview": "https://p.scdn.co/mp3-preview/594283a2916774f08762265965a58c86a33ead8a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7562c7440fe65975bc1d783507aa2c3a73e606be",
+      "release_date": "2009-08-11"
+    },
+    {
+      "featuredArtist": "Elisabeth Priday",
+      "featuredArtistId": "5SaxT5tnhd8LFJfo14veeY",
+      "trackName": "Handel : Semele HWV58: Act 2 \"Come, Zephyrs, come\" [Cupid] \"O sleep, why dost thou leave me?\" [Semele]",
+      "trackId": "58Cse6iGMKETdlOhfFiQ4P",
+      "preview": "https://p.scdn.co/mp3-preview/faba0a2feb8b5cd9a80c22ac82a0470a3f9e4120?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7562c7440fe65975bc1d783507aa2c3a73e606be",
+      "release_date": "2009-08-11"
+    },
+    {
+      "featuredArtist": "David Thomas",
+      "featuredArtistId": "38DJW6Gl5GnPZcFixkYGoF",
+      "trackName": "Handel : Semele HWV58 : Act 3 \"Leave me, loathsome light!\" [Somnus] \"Dull God, canst thou attend the water's fall\" [Iris, Juno]",
+      "trackId": "43dcez141GVC9y2HY2QWG4",
+      "preview": "https://p.scdn.co/mp3-preview/4a431c05b3c421ee226b2003cb002d854ea8bd58?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7562c7440fe65975bc1d783507aa2c3a73e606be",
+      "release_date": "2009-08-11"
+    },
+    {
+      "featuredArtist": "Maldwyn Davies",
+      "featuredArtistId": "7I87egMAXgiqwseNf6B4XZ",
+      "trackName": "Handel : Semele HWV58 : Act 3 \"See from above the bellying clouds descend\" [Cadmus] Sinfonia \"Apollo comes to relieve your care\" [Apollo]",
+      "trackId": "6d2R0T2WXTgPV5DcE4KwHb",
+      "preview": "https://p.scdn.co/mp3-preview/16f952611f93627063b43779b8c107521a1577f4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7562c7440fe65975bc1d783507aa2c3a73e606be",
+      "release_date": "2009-08-11"
+    },
+    {
+      "featuredArtist": "Wilke te Brummelstroete",
+      "featuredArtistId": "4Qq0VnpwYYDjjbLVFBRlsQ",
+      "trackName": "Cantata, BWV 144: Murre nicht, lieber Christ",
+      "trackId": "1NeX6VDy81PmqsvDLdLpmp",
+      "preview": "https://p.scdn.co/mp3-preview/884941b5070e2040deb4257f5652f801fa97aaa3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6b57e4f6e297b2a6e46843816fa3dafd6a5a6c5d",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "James Oxley",
+      "featuredArtistId": "6lLskQAZJkLjzDvHb88CUk",
+      "trackName": "Cantata, BWV 144: Wo die Genügsamkeit regiert",
+      "trackId": "61nyKteBwEU7Bu12ypSL0y",
+      "preview": "https://p.scdn.co/mp3-preview/081650eb2625d7fcd193d8028ebd84ff64ba5c9e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6b57e4f6e297b2a6e46843816fa3dafd6a5a6c5d",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Miah Persson",
+      "featuredArtistId": "3hcyVVem6bxNJH1gx2Ww5F",
+      "trackName": "Cantata, BWV 144: Genügsamkeit ist ein Schatz in diesem Leben",
+      "trackId": "1cMqh89Lc0Mo9FIWSkme26",
+      "preview": "https://p.scdn.co/mp3-preview/083c775de9e3c90b1ae4548f4b623bcaf8564130?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6b57e4f6e297b2a6e46843816fa3dafd6a5a6c5d",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Jonathan Brown",
+      "featuredArtistId": "4RnEiU3kiO74fNyFWKYRCI",
+      "trackName": "Cantata, BWV 92: Es kann mir fehlen nimmermehr",
+      "trackId": "4LKDxG30QXyaetTjgdtOks",
+      "preview": "https://p.scdn.co/mp3-preview/33f8f176e9c139673316ad034f5e99993495d203?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6b57e4f6e297b2a6e46843816fa3dafd6a5a6c5d",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Gillian Keith",
+      "featuredArtistId": "5Q79DaQrf8UBCoNsy0wjxg",
+      "trackName": "Cantata, BWV 18: Mein Seelenschatz ist Gottes Wort",
+      "trackId": "6W15ExtBzXYflpoNprldKx",
+      "preview": "https://p.scdn.co/mp3-preview/9bd7b891b91700a6a851958e9289cf196b60ec12?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6b57e4f6e297b2a6e46843816fa3dafd6a5a6c5d",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Robin Tyson",
+      "featuredArtistId": "75VghrAW8libIDpL4AFM27",
+      "trackName": "Cantata, BWV 181: O unglückselger Stand verkehrter Seelen",
+      "trackId": "5ci1OL9pO18dzOv65Bz7s9",
+      "preview": "https://p.scdn.co/mp3-preview/b8ec452ae5c4011f16e63950bf19d6079e1601ce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6b57e4f6e297b2a6e46843816fa3dafd6a5a6c5d",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Angharad Gruffydd Jones",
+      "featuredArtistId": "0OOOEosbaouCwfCXqUmVfP",
+      "trackName": "Cantata, BWV 181: Von diesen wird die Kraft erstickt",
+      "trackId": "3rIQ3K6Pay8uN1CJkOUsPO",
+      "preview": "https://p.scdn.co/mp3-preview/62b6c183c32c3d55ad31acdfba0aa2c1a30a9a30?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6b57e4f6e297b2a6e46843816fa3dafd6a5a6c5d",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Wolfgang Amadeus Mozart",
+      "featuredArtistId": "4NJhFmfw43RLBLjQvxDuRS",
+      "trackName": "Mass in C minor, K.427 \"Grosse Messe\" (rev. and reconstr. Alois Schmitt & Eliot Gardiner: 1. Kyrie",
+      "trackId": "34rnsf78amQdZkCLU5v6wT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ebb2effdf500aa1eea38907c2fbcc3ea679521ed",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Sylvia McNair",
+      "featuredArtistId": "63aSj4hbN7Q4nw74Y0xNF6",
+      "trackName": "Mass in C minor, K.427 \"Grosse Messe\" (rev. and reconstr. Alois Schmitt & Eliot Gardiner: 1. Kyrie",
+      "trackId": "34rnsf78amQdZkCLU5v6wT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ebb2effdf500aa1eea38907c2fbcc3ea679521ed",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Diana Montague",
+      "featuredArtistId": "3RQI3hr5BUJmd5q8PgWYF7",
+      "trackName": "Mass in C minor, K.427 \"Grosse Messe\" (rev. and reconstr. Alois Schmitt & Eliot Gardiner: 1. Kyrie",
+      "trackId": "34rnsf78amQdZkCLU5v6wT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ebb2effdf500aa1eea38907c2fbcc3ea679521ed",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Cornelius Hauptmann",
+      "featuredArtistId": "6jFWqXjQi6va1bfCEYWBg1",
+      "trackName": "Mass in C minor, K.427 \"Grosse Messe\" (rev. and reconstr. Alois Schmitt & Eliot Gardiner: 1. Kyrie",
+      "trackId": "34rnsf78amQdZkCLU5v6wT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ebb2effdf500aa1eea38907c2fbcc3ea679521ed",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Lisa Beznosiuk",
+      "featuredArtistId": "0s6yWPY6zaMPk1nrpvqjCv",
+      "trackName": "Mass in C Minor, K.427 \"Grosse Messe\" - Rev. and reconstr. by Alois Schmitt & Eliot Gardiner: 3b. Credo: Et incarnatus est",
+      "trackId": "6OOkWOqfjMyUXGXlGsvScP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ebb2effdf500aa1eea38907c2fbcc3ea679521ed",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Alastair Mitchell",
+      "featuredArtistId": "4NJzN8jce2MYkwnO0iWVNi",
+      "trackName": "Mass in C Minor, K.427 \"Grosse Messe\" - Rev. and reconstr. by Alois Schmitt & Eliot Gardiner: 3b. Credo: Et incarnatus est",
+      "trackId": "6OOkWOqfjMyUXGXlGsvScP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ebb2effdf500aa1eea38907c2fbcc3ea679521ed",
+      "release_date": "2009-01-01"
+    },
+    {
+      "featuredArtist": "Henry Purcell",
+      "featuredArtistId": "3tMLo1k3iUo82coMLWXzxq",
+      "trackName": "Purcell: King Arthur, Z. 628: Overture",
+      "trackId": "7zhOY2l7Xqf0btrPl9eazq",
+      "preview": "https://p.scdn.co/mp3-preview/c0bb860f703e2d1342d6b6c60f5a67914d0a056d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45de8ef7779f8e6f9f5142114b7aa1e451c7f3d5",
+      "release_date": "2007-12-18"
+    },
+    {
+      "featuredArtist": "Ashley Stafford",
+      "featuredArtistId": "0Zqjt95M70B9vGRiuQQXAk",
+      "trackName": "Purcell: King Arthur, Z. 628, Act 1: \"Woden, first to thee ... To Woden, our defender\" (Countertenor, Tenor, Baritone, Chorus)",
+      "trackId": "5a8cs5WRXLO8lk4bBgRh71",
+      "preview": "https://p.scdn.co/mp3-preview/8f872ca4448eb915166bb136b29b0540f927839b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45de8ef7779f8e6f9f5142114b7aa1e451c7f3d5",
+      "release_date": "2007-12-18"
+    },
+    {
+      "featuredArtist": "Paul Elliott",
+      "featuredArtistId": "3pb9GpiE5J6ptQfIpiEQE7",
+      "trackName": "Purcell: King Arthur, Z. 628, Act 1: \"Woden, first to thee ... To Woden, our defender\" (Countertenor, Tenor, Baritone, Chorus)",
+      "trackId": "5a8cs5WRXLO8lk4bBgRh71",
+      "preview": "https://p.scdn.co/mp3-preview/8f872ca4448eb915166bb136b29b0540f927839b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45de8ef7779f8e6f9f5142114b7aa1e451c7f3d5",
+      "release_date": "2007-12-18"
+    },
+    {
+      "featuredArtist": "Gillian Fisher",
+      "featuredArtistId": "08m406BlCCk2nTvtjSqXuz",
+      "trackName": "Purcell: King Arthur, Z. 628, Act 1: \"The lot is cast, and Tanfan pleas'd\" (Soprano)",
+      "trackId": "4YtWL9C6ZqaJZ2vseFuL99",
+      "preview": "https://p.scdn.co/mp3-preview/7fb9a0504eb171f5b000dcdd05e83121a94ef855?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45de8ef7779f8e6f9f5142114b7aa1e451c7f3d5",
+      "release_date": "2007-12-18"
+    },
+    {
+      "featuredArtist": "Jennifer Smith",
+      "featuredArtistId": "1goup6fJwQWuGu0mQvwHtR",
+      "trackName": "Purcell: King Arthur, Z. 628, Act 2: \"Come, follow me\" (Philidel, Sopranos, Spirits, Chorus)",
+      "trackId": "1TrSEXlDlhVZbB4C4YocbI",
+      "preview": "https://p.scdn.co/mp3-preview/8e38269a57855fd46b4ab8d36124314adc228e62?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45de8ef7779f8e6f9f5142114b7aa1e451c7f3d5",
+      "release_date": "2007-12-18"
+    },
+    {
+      "featuredArtist": "Gill Ross",
+      "featuredArtistId": "3UDsJPSRfuwMeLdX6zrqzU",
+      "trackName": "Purcell: King Arthur, Z. 628, Act 5: \"Fairest isle\" (Venus)",
+      "trackId": "3jqBREi53alQEt26h9rAfT",
+      "preview": "https://p.scdn.co/mp3-preview/58297bdce0eeb62d6f40f2a0d2578a7d915ae42c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45de8ef7779f8e6f9f5142114b7aa1e451c7f3d5",
+      "release_date": "2007-12-18"
+    },
+    {
+      "featuredArtist": "Eiddwen Harrhy",
+      "featuredArtistId": "6d6KSu7i02uoZY1lv5P1oY",
+      "trackName": "The Fairy Queen / Act 1: Song In Two Parts: \"Come, come, come, let us leave\"",
+      "trackId": "2VwdqqP4FQ3pFb1Qs4B5JG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/12b964659e9400e2efbb5697c92ae98517e20559",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Judith Nelson",
+      "featuredArtistId": "2yQfSbh2BQBBtwLUj4QZ9p",
+      "trackName": "The Fairy Queen / Act 1: Scene Of The Drunken Poet: \"Fill up the Bowl\"",
+      "trackId": "4IqT927kA9tb6a1GZkwuJK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/12b964659e9400e2efbb5697c92ae98517e20559",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Wynford Evans",
+      "featuredArtistId": "28Ke9E1VTwp9DBPjvANfKO",
+      "trackName": "The Fairy Queen / Act 2: Prelude...Come, All Ye Songsters Of The Sky",
+      "trackId": "1lzaadoKVpUqNVQkMyxMXO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/12b964659e9400e2efbb5697c92ae98517e20559",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Martyn Hill",
+      "featuredArtistId": "04j7sgxiAlbBtzeoBchvaP",
+      "trackName": "The Fairy Queen / Act 2: Trio: \"May the God of Wit inspire\"",
+      "trackId": "5Af1qCSdf5Ypnyou0p7sdR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/12b964659e9400e2efbb5697c92ae98517e20559",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Franz Joseph Haydn",
+      "featuredArtistId": "656RXuyw7CE0dtjdPgjJV6",
+      "trackName": "Die Schöpfung Hob. XXI:2 / Erster Teil: 1a. Einleitung. Die Vorstellung des Chaos (Largo)",
+      "trackId": "0Hq6muQnYg8erjd8xmuOAC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/540ffb3d0a9e99703a61fc1b51be886a53dedbea",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Gerald Finley",
+      "featuredArtistId": "5T0TCveUmDlfkGhPIXFhrQ",
+      "trackName": "Die Schöpfung Hob. XXI:2 / Erster Teil: 2.Rezitativ mit Chor: \"Im Anfange schuf Gott Himmel und Erde\" / \"Und der Geist Gottes schwebte auf der Fläche der Wasser\" (Raphael, Uriel)",
+      "trackId": "0BSM4ufpy6XDGQsOhhNoY9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/540ffb3d0a9e99703a61fc1b51be886a53dedbea",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Michael Schade",
+      "featuredArtistId": "0zlZCydBni2a9pDgdNMoYy",
+      "trackName": "Die Schöpfung Hob. XXI:2 / Erster Teil: 2.Rezitativ mit Chor: \"Im Anfange schuf Gott Himmel und Erde\" / \"Und der Geist Gottes schwebte auf der Fläche der Wasser\" (Raphael, Uriel)",
+      "trackId": "0BSM4ufpy6XDGQsOhhNoY9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/540ffb3d0a9e99703a61fc1b51be886a53dedbea",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Donna Brown",
+      "featuredArtistId": "3Q7xLGDd0pcFzvelSLu5sY",
+      "trackName": "Die Schöpfung Hob. XXI:2 / Dritter Teil: 28.Duett mit Chor: \"Von deiner Güt', o Herr und Gott\"/ Gesegnet sei des Herren Macht (Eva, Adam)",
+      "trackId": "4sgWB5jHtENsBHrVYM5Dbn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/540ffb3d0a9e99703a61fc1b51be886a53dedbea",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Rod Gilfry",
+      "featuredArtistId": "2TaPhgbWMrug5xZlMMOh6g",
+      "trackName": "Die Schöpfung Hob. XXI:2 / Dritter Teil: 28.Duett mit Chor: \"Von deiner Güt', o Herr und Gott\"/ Gesegnet sei des Herren Macht (Eva, Adam)",
+      "trackId": "4sgWB5jHtENsBHrVYM5Dbn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/540ffb3d0a9e99703a61fc1b51be886a53dedbea",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Caroline Stormer",
+      "featuredArtistId": "15IO0Ub3avSfhp0jyip643",
+      "trackName": "Die Schöpfung Hob. XXI:2 / Dritter Teil: 32.Chor: \"Singt dem Herren alle Stimmen\"",
+      "trackId": "2EJ29euS7zCdtWghcxxVqf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/540ffb3d0a9e99703a61fc1b51be886a53dedbea",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Stanford Olsen",
+      "featuredArtistId": "3yZVo9gKjCbcSXmY2VmpTQ",
+      "trackName": "Die Entführung aus dem Serail, K.384 / Act 1: \"Hier soll ich dich denn sehen\" - \"Aber wie soll ich in den Palast kommen?\"",
+      "trackId": "7ssbZdLsRgfWjqcQWDXy3q",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/023386cc70d3407b3756ef017dce68861b6142e4",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Uwe Peper",
+      "featuredArtistId": "3NiTjAk6C2XnYzPYrQW10D",
+      "trackName": "Die Entführung aus dem Serail, K.384 / Act 1: Nun, wie steht's, Osmin?",
+      "trackId": "0tSE3Ex2KrjnhVucon8KAS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/023386cc70d3407b3756ef017dce68861b6142e4",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Hans-Peter Minetti",
+      "featuredArtistId": "1FAtSCURNPHIMtdGDjvDXZ",
+      "trackName": "Die Entführung aus dem Serail, K.384 / Act 1: \"Immer noch traurig, geliebte Konstanze?\"",
+      "trackId": "0dwhV5iM5DIh4ql9IDPRbE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/023386cc70d3407b3756ef017dce68861b6142e4",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Luba Orgonasova",
+      "featuredArtistId": "5fF0IYnGppi99zXfyYUoXq",
+      "trackName": "Die Entführung aus dem Serail, K.384 / Act 1: \"Immer noch traurig, geliebte Konstanze?\"",
+      "trackId": "0dwhV5iM5DIh4ql9IDPRbE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/023386cc70d3407b3756ef017dce68861b6142e4",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Cyndia Sieden",
+      "featuredArtistId": "0Ni9chAIBRSs8mrafs2xzi",
+      "trackName": "Die Entführung aus dem Serail, K.384 / Act 2: \"Gift und Dolch!\"-\"O, des Zankens, Befehlens und Murrens\" - \" Durch Zärtlichkeit und Schmeicheln\"",
+      "trackId": "2reAditAdONZlrh0g4HNkG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/023386cc70d3407b3756ef017dce68861b6142e4",
+      "release_date": "2005-01-01"
+    }
+  ]
+}

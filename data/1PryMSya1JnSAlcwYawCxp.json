@@ -1,0 +1,32 @@
+{
+  "artistName": "Menahan Street Band",
+  "features": [
+    {
+      "featuredArtist": "Charles Bradley",
+      "featuredArtistId": "462T0buQ5ScBUQCRpodDRf",
+      "trackName": "Cumberland Blues",
+      "trackId": "4egotiztmz50YehBsiN7I9",
+      "preview": "https://p.scdn.co/mp3-preview/f60fe1082fae9484d49ab5e995ebb3a422c3c2d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dfb91ce3214b2d48b5100c33091373478be7928f",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Theophilus London",
+      "featuredArtistId": "4EMtGVFvfCSrEmWaGV0roE",
+      "trackName": "Rio - feat. Menahan Street Band",
+      "trackId": "1VT0KllWur1chY8xRvVzpb",
+      "preview": "https://p.scdn.co/mp3-preview/a7980451cb8fef056996cb09502396e822785fd0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/19fae49b6bdeeb212ff3f6e9dd262535989a2e43",
+      "release_date": "2013-04-12"
+    },
+    {
+      "featuredArtist": "Cults",
+      "featuredArtistId": "3Oim8XBPbznAa8Jj8QzNc8",
+      "trackName": "Go Outside - Menahan Street Band Remix",
+      "trackId": "3M3UGPWzuCkQJIcQweoAvE",
+      "preview": "https://p.scdn.co/mp3-preview/2e9388da61ee34d4dab0bb002bc2c71532b1686b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/936abe98a5b2e2542c0af6537aaed306594b8d61",
+      "release_date": "2011-12-06"
+    }
+  ]
+}

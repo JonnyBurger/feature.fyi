@@ -1,0 +1,23 @@
+{
+  "artistName": "Allan Rayman",
+  "features": [
+    {
+      "featuredArtist": "Adria Kain",
+      "featuredArtistId": "2egizXtrbzmhjs0SgViG8y",
+      "trackName": "December",
+      "trackId": "5t9nVBQo4NZJbVe8uTtFg2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3e0aeb602f15a21684855bde7603635323afbaed",
+      "release_date": "2017-02-24"
+    },
+    {
+      "featuredArtist": "Jessie Reyez",
+      "featuredArtistId": "3KedxarmBCyFBevnqQHy3P",
+      "trackName": "Repeat",
+      "trackId": "7tLWymW3ieb60ZI0aFa4lv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3e0aeb602f15a21684855bde7603635323afbaed",
+      "release_date": "2017-02-24"
+    }
+  ]
+}

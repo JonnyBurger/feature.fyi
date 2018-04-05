@@ -1,0 +1,329 @@
+{
+  "artistName": "Wynton Marsalis",
+  "features": [
+    {
+      "featuredArtist": "Wynton Marsalis Septet",
+      "featuredArtistId": "3cOaUqzZ7TYloRPGcuQnMY",
+      "trackName": "The Last Time",
+      "trackId": "6do48AdJr05xTLxGwvw9f6",
+      "preview": "https://p.scdn.co/mp3-preview/c235b23fd11d862691e0d88bc262d72b3ce3476c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41f228005c993d618ba064787247e102670b7a2",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "The Blind Boys Of Alabama",
+      "featuredArtistId": "5TVL4FXEntBYZb3ujyt6fH",
+      "trackName": "The Last Time",
+      "trackId": "6do48AdJr05xTLxGwvw9f6",
+      "preview": "https://p.scdn.co/mp3-preview/c235b23fd11d862691e0d88bc262d72b3ce3476c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41f228005c993d618ba064787247e102670b7a2",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Bob Dylan",
+      "featuredArtistId": "74ASZWbe4lXaubB36ztrGX",
+      "trackName": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+      "trackId": "6Um7LS65x4QBps2KNSyqYv",
+      "preview": "https://p.scdn.co/mp3-preview/6dc68c4165f1137bd2f6d50a1fd046c1d368ce8c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41f228005c993d618ba064787247e102670b7a2",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Ray Charles",
+      "featuredArtistId": "1eYhYunlNJlDoQhtYBvPsi",
+      "trackName": "I'm Gonna Move to the Outskirts of Town",
+      "trackId": "19qhYrBNov4aob2rOs5uwS",
+      "preview": "https://p.scdn.co/mp3-preview/eea5b23d4e2e53e5ea4fb5c8d9d39049a261109c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41f228005c993d618ba064787247e102670b7a2",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Eric Clapton",
+      "featuredArtistId": "6PAt558ZEZl0DmdXlnjMgD",
+      "trackName": "I'm Not Rough",
+      "trackId": "14dNI5nSIbmHhCJ9LxUtKo",
+      "preview": "https://p.scdn.co/mp3-preview/2c6b3d2c7ad4bf1956894d3e5864227daa88ba25?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41f228005c993d618ba064787247e102670b7a2",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Audra McDonald",
+      "featuredArtistId": "7F6surn3OpdyOzupSawyli",
+      "trackName": "Creole Love Call",
+      "trackId": "48oFp2W4YSReNZaimp26Cw",
+      "preview": "https://p.scdn.co/mp3-preview/da8b9cfc54cb460462c34295fb89c2f89890e284?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41f228005c993d618ba064787247e102670b7a2",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Willie Nelson",
+      "featuredArtistId": "5W5bDNCqJ1jbCgTxDD0Cb3",
+      "trackName": "Milk Cow Blues",
+      "trackId": "3MqsiVKh2Sjckdybe0tzSP",
+      "preview": "https://p.scdn.co/mp3-preview/6fb5e2939eb2075e085dfa186bc420a07dfc4d89?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41f228005c993d618ba064787247e102670b7a2",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "John Mayer",
+      "featuredArtistId": "7EXJJpgDl7y4szvrpUYj0s",
+      "trackName": "I'm Gonna Find Another You",
+      "trackId": "4OJQVDE3XnyPSBPcPe0kAu",
+      "preview": "https://p.scdn.co/mp3-preview/c5891579df8f1788e307178026cbe7471a6a9325?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41f228005c993d618ba064787247e102670b7a2",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Lyle Lovett",
+      "featuredArtistId": "0zlJDQgqnr9AocrH9gs1Es",
+      "trackName": "My Baby Don't Tolerate",
+      "trackId": "2j8RieC4v4bD0zrR2Ifp1u",
+      "preview": "https://p.scdn.co/mp3-preview/842c60da1d26bc1fc00542ed6fefa8b4b5a778d4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41f228005c993d618ba064787247e102670b7a2",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Natalie Merchant",
+      "featuredArtistId": "73JEBdDEFeVaOLg3y0HhBD",
+      "trackName": "The Worst Thing",
+      "trackId": "2yZGtboQHku8qjPUhBgYFo",
+      "preview": "https://p.scdn.co/mp3-preview/2190d2c58849387b80b03afa28fe0cfdd13f11f4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41f228005c993d618ba064787247e102670b7a2",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "John Legend",
+      "featuredArtistId": "5y2Xq6xcjJb2jVM54GHK3t",
+      "trackName": "Please Baby Don't",
+      "trackId": "4AcV9vm8AiIvL7qSrXIiLd",
+      "preview": "https://p.scdn.co/mp3-preview/5abfa7cd188a1aed2ee6c0383bfd2333644711a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41f228005c993d618ba064787247e102670b7a2",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "James Taylor",
+      "featuredArtistId": "0vn7UBvSQECKJm2817Yf1P",
+      "trackName": "Mean Old Man",
+      "trackId": "6i0V3V5JwSNTIkNgRY96Ud",
+      "preview": "https://p.scdn.co/mp3-preview/bdec9a7f69586f5f89f5487bab9e7f6c9db6501c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41f228005c993d618ba064787247e102670b7a2",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Lenny Kravitz",
+      "featuredArtistId": "5gznATMVO85ZcLTkE9ULU7",
+      "trackName": "Are You Gonna Go My Way",
+      "trackId": "7n5hCsmJC5uRZE5Rgj343H",
+      "preview": "https://p.scdn.co/mp3-preview/94af13991e0db9d05ba9eaa4d97fc0b1f8bc4dfb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41f228005c993d618ba064787247e102670b7a2",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Jimmy Buffett",
+      "featuredArtistId": "28AyklUmMECPwdfo8NEsV0",
+      "trackName": "Fool's Paradise",
+      "trackId": "01AydaZIZH0rqqLksaATFh",
+      "preview": "https://p.scdn.co/mp3-preview/b12fdf18d2f0719a6be6d9be81a44d4d1797b0c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41f228005c993d618ba064787247e102670b7a2",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Carrie Smith",
+      "featuredArtistId": "65gGZ8AfbxuEGx62bd8WVP",
+      "trackName": "Empty Bed Blues",
+      "trackId": "4TxcS0go5dvTXxQDZjsLOM",
+      "preview": "https://p.scdn.co/mp3-preview/727237c92d636067894fe8bb8711d01718a8c506?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41f228005c993d618ba064787247e102670b7a2",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Susan Tedeschi",
+      "featuredArtistId": "5Ws3s6lSP4Un8kQf8CrAta",
+      "trackName": "I Wish I Knew How It Would Feel to Be Free",
+      "trackId": "4snEAJtKtrRXzHUXZgU6xJ",
+      "preview": "https://p.scdn.co/mp3-preview/6b9417e68d2b525e04b8ffcc26ac5fa522b9f52d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41f228005c993d618ba064787247e102670b7a2",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Derek Trucks",
+      "featuredArtistId": "1xJPYI7GXasA3ariMSftPq",
+      "trackName": "I Wish I Knew How It Would Feel to Be Free",
+      "trackId": "4snEAJtKtrRXzHUXZgU6xJ",
+      "preview": "https://p.scdn.co/mp3-preview/6b9417e68d2b525e04b8ffcc26ac5fa522b9f52d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41f228005c993d618ba064787247e102670b7a2",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Jazz At Lincoln Center Orchestra",
+      "featuredArtistId": "6MnWA8xVW1sEzV9s7wXpQb",
+      "trackName": "Jingles",
+      "trackId": "3Rox7V36vLcIt7B94EzrU8",
+      "preview": "https://p.scdn.co/mp3-preview/4b17ed0ebe5cda8c3866ac62056257eba220337d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0298ef114971d650bb8e9ed6f376f5cd303a18b7",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Dick Hyman",
+      "featuredArtistId": "5RRGjsMRTbm0kqvZcFplZT",
+      "trackName": "Jingles",
+      "trackId": "3Rox7V36vLcIt7B94EzrU8",
+      "preview": "https://p.scdn.co/mp3-preview/4b17ed0ebe5cda8c3866ac62056257eba220337d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0298ef114971d650bb8e9ed6f376f5cd303a18b7",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Isaiah J. Thompson",
+      "featuredArtistId": "0P56i1KRTfv8CWGuPBjJD9",
+      "trackName": "Lulu's Back in Town",
+      "trackId": "63he6purgm8sKEvfzFxk79",
+      "preview": "https://p.scdn.co/mp3-preview/39c2c91caecf66aeaf1e2faaa39725bcdfe78829?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0298ef114971d650bb8e9ed6f376f5cd303a18b7",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Helen Sung",
+      "featuredArtistId": "0OStvzVRU3mUgqWrzWXYfe",
+      "trackName": "Four by Five",
+      "trackId": "0A1tz88C434jSq3RYyYMTn",
+      "preview": "https://p.scdn.co/mp3-preview/dcc6198139ed01e77f9f7a1ef7ad9dc9eaf48db7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0298ef114971d650bb8e9ed6f376f5cd303a18b7",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Joey Alexander",
+      "featuredArtistId": "0FcNSKwWZJb98ry9M2qEII",
+      "trackName": "Very Early",
+      "trackId": "2RLI7rE6iXEAvkXiIOOkmc",
+      "preview": "https://p.scdn.co/mp3-preview/eebde89c8dd64309497ad54b88c7ae7a5fd8731a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0298ef114971d650bb8e9ed6f376f5cd303a18b7",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Myra Melford",
+      "featuredArtistId": "2Q7GH1rWjWXjjzjmxxTIo8",
+      "trackName": "The Strawberry",
+      "trackId": "2ih1hqmnF8EjUR4CBlvj12",
+      "preview": "https://p.scdn.co/mp3-preview/a4e94246e18c3f41b3f31d4db714fef52fce2afb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0298ef114971d650bb8e9ed6f376f5cd303a18b7",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Dan Nimmer",
+      "featuredArtistId": "2euEVilTuyi4fHn7HdVMmW",
+      "trackName": "Temperance",
+      "trackId": "5MGMk5gQpP5XWeZAFb3uFr",
+      "preview": "https://p.scdn.co/mp3-preview/efbbac908fe1440784b7c885c0335812f1f26722?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0298ef114971d650bb8e9ed6f376f5cd303a18b7",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Damien Sneed and Chorale Le Chateau",
+      "featuredArtistId": "0FlgBgT8liLlfS2sm4TnhU",
+      "trackName": "Devotional (feat. Damien Sneed and Chorale Le Chateau)",
+      "trackId": "5B1JXyyR5IMwxzt2jBDYs5",
+      "preview": "https://p.scdn.co/mp3-preview/018dd605f8bcb845f02fc0634ee439e4bfdb8148?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/27956e11384b36b63d3362ec5f021526c51a87f0",
+      "release_date": "2016-03-18"
+    },
+    {
+      "featuredArtist": "Cécile McLorin Salvant",
+      "featuredArtistId": "6PkSULcbxFKkxdgrmPGAvn",
+      "trackName": "Have Yourself a Merry Little Christmas (feat. Cécile Mclorin Salvant)",
+      "trackId": "0jrUDiK5IUn0QdfQqmub84",
+      "preview": "https://p.scdn.co/mp3-preview/8bfb689f129e80850e850ee936c9e6532a24f30b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/69047890a46520060f63c0fa30c6b9f88d91bfaf",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Rene Marie",
+      "featuredArtistId": "5gfa9OyRukLepIm6MME4bb",
+      "trackName": "Zat You, Santa Claus? (feat. René Marie)",
+      "trackId": "38fsNl9hHcsPdrrpfysUVH",
+      "preview": "https://p.scdn.co/mp3-preview/fb5e26b7d40901bab55c162f1e93ffbea7a284f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/69047890a46520060f63c0fa30c6b9f88d91bfaf",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Gregory Porter",
+      "featuredArtistId": "06nevPmNVfWUXyZkccahL8",
+      "trackName": "A Cradle in Bethlehem (feat. Gregory Porter)",
+      "trackId": "3R3MvpRt0bdApoMwjOBzKE",
+      "preview": "https://p.scdn.co/mp3-preview/accacd0d344c47d660a8129e557f4a7bdaffae34?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/69047890a46520060f63c0fa30c6b9f88d91bfaf",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Bobby Carcassés",
+      "featuredArtistId": "4BAKEaWo1QMgIC32SAmJJT",
+      "trackName": "Como Fue (feat. Bobby Carcassés)",
+      "trackId": "23DTCcj8R5BHYgsprq5ngD",
+      "preview": "https://p.scdn.co/mp3-preview/b3d6a63cf0eefe21b217ec04fe801dec0e2e245f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a2fca4d79287c77a47cd620dd8ee76be9facc3a4",
+      "release_date": "2015-08-21"
+    },
+    {
+      "featuredArtist": "Chris Crenshaw",
+      "featuredArtistId": "2HTCEqaaHgSnYN3YtLuvkf",
+      "trackName": "I Left My Baby (feat. Chris Crenshaw)",
+      "trackId": "4DHA3Df9HdfvcFYSI2SM4L",
+      "preview": "https://p.scdn.co/mp3-preview/a254675a0aef5c9374d5ac809b47222fb9f3a0c2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a2fca4d79287c77a47cd620dd8ee76be9facc3a4",
+      "release_date": "2015-08-21"
+    },
+    {
+      "featuredArtist": "Black Cultured Pearl",
+      "featuredArtistId": "0lycz1OYsne0PLcJ5V3Rq3",
+      "trackName": "Takin' a Chance on Love",
+      "trackId": "4CyaxFJIof4WMbRhVuNZ4C",
+      "preview": "https://p.scdn.co/mp3-preview/7b8a442a2f064a5d0929fabb906a16484df21b6e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65c7d38052351f8a97dd3259d1a4ab67930a5628",
+      "release_date": "2008-08-01"
+    },
+    {
+      "featuredArtist": "Oliver Gannon",
+      "featuredArtistId": "4pfpLBNpr2TnuF9l7LLIoN",
+      "trackName": "Takin' a Chance on Love",
+      "trackId": "4CyaxFJIof4WMbRhVuNZ4C",
+      "preview": "https://p.scdn.co/mp3-preview/7b8a442a2f064a5d0929fabb906a16484df21b6e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65c7d38052351f8a97dd3259d1a4ab67930a5628",
+      "release_date": "2008-08-01"
+    },
+    {
+      "featuredArtist": "Lorne Kellet",
+      "featuredArtistId": "17RuWCODQQ2T311mDgj5dh",
+      "trackName": "Takin' a Chance on Love",
+      "trackId": "4CyaxFJIof4WMbRhVuNZ4C",
+      "preview": "https://p.scdn.co/mp3-preview/7b8a442a2f064a5d0929fabb906a16484df21b6e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65c7d38052351f8a97dd3259d1a4ab67930a5628",
+      "release_date": "2008-08-01"
+    },
+    {
+      "featuredArtist": "Torben Oxbol",
+      "featuredArtistId": "3fqe59M6k1Acf0KfaeY3RS",
+      "trackName": "Poor Some More",
+      "trackId": "3q1ZdQrmr7X6YMhlneYVJb",
+      "preview": "https://p.scdn.co/mp3-preview/f5b1851333b746d9b403b5069a70481502fc56e0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/65c7d38052351f8a97dd3259d1a4ab67930a5628",
+      "release_date": "2008-08-01"
+    },
+    {
+      "featuredArtist": "Odadaa!",
+      "featuredArtistId": "1hP2X7Bb8kEyXgblmaWN5U",
+      "trackName": "Ring Shout - \"Peace of Mind\"",
+      "trackId": "2j4m4hUa2SqhhD6k6WVgLP",
+      "preview": "https://p.scdn.co/mp3-preview/4cf071e05dcad457c4d96daacbd3a2ffe4327544?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf03aff5445c94b5bbb2141d3481ea9241ea121f",
+      "release_date": "2007-11-21"
+    },
+    {
+      "featuredArtist": "Yacub Addy",
+      "featuredArtistId": "0doJjqNtHLal75GUFm2TUi",
+      "trackName": "Ring Shout - \"Peace of Mind\"",
+      "trackId": "2j4m4hUa2SqhhD6k6WVgLP",
+      "preview": "https://p.scdn.co/mp3-preview/4cf071e05dcad457c4d96daacbd3a2ffe4327544?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf03aff5445c94b5bbb2141d3481ea9241ea121f",
+      "release_date": "2007-11-21"
+    }
+  ]
+}
