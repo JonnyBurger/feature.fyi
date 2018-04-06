@@ -1,0 +1,41 @@
+{
+  "artistName": "Jetta",
+  "features": [
+    {
+      "featuredArtist": "Matstubs",
+      "featuredArtistId": "0chxndMxE0AhAeYED1Ay9d",
+      "trackName": "Take It Easy - Matstubs Remix",
+      "trackId": "738n5AnOqO9De6AWMKjm4w",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0a1ca4abc1d959d4c004ab15540a390472d5b84f",
+      "release_date": "2016-04-29"
+    },
+    {
+      "featuredArtist": "Sigma",
+      "featuredArtistId": "01pKrlgPJhm5dB4lneYAqS",
+      "trackName": "Slow Down - Calyx & TeeBee Remix",
+      "trackId": "4ANFpe1zyKuOsgrKyzfglM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6be7a59b69ada4fc46992c4a27a929c60c28644e",
+      "release_date": "2017-04-28"
+    },
+    {
+      "featuredArtist": "Calyx & TeeBee",
+      "featuredArtistId": "5AXHArSOd9lplw0Y5Qt5Eg",
+      "trackName": "Slow Down - Calyx & TeeBee Remix",
+      "trackId": "4ANFpe1zyKuOsgrKyzfglM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6be7a59b69ada4fc46992c4a27a929c60c28644e",
+      "release_date": "2017-04-28"
+    },
+    {
+      "featuredArtist": "Jakwob",
+      "featuredArtistId": "4S5yXnFzWvHu16wfuDjjfM",
+      "trackName": "Electrify",
+      "trackId": "5ViZYw5rggVAwE74YbQQ3P",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ed280a3cec4e13b836fba8ff1a80bc29d0860f21",
+      "release_date": "2012-01-01"
+    }
+  ]
+}

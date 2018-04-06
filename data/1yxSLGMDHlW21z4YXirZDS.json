@@ -1,0 +1,50 @@
+{
+  "artistName": "The Black Eyed Peas",
+  "features": [
+    {
+      "featuredArtist": "David Guetta",
+      "featuredArtistId": "1Cs0zKBU1kc0i8ypK3B9ai",
+      "trackName": "Everything Wonderful - Bonus",
+      "trackId": "2Qn0zElkrlwle7MzU8uJ9A",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9f0e7cc23391fe12eb8b4099831644be5a9389dd",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Justin Timberlake",
+      "featuredArtistId": "31TPClRtHm23RisEBtV3X7",
+      "trackName": "My Style - DJ Premiere Remix (Explicit Version)",
+      "trackId": "6HOpPBOcwWI41NP2m8KvPr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9a978a71079095b76b3a1bcd5973e83f02156a58",
+      "release_date": "2006-04-04"
+    },
+    {
+      "featuredArtist": "James Brown",
+      "featuredArtistId": "7GaxyUddsPok8BuhxN6OUW",
+      "trackName": "They Don't Want Music - Pete Rock Remix",
+      "trackId": "7ohWm1NcVmqczLvRkunCMi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9a978a71079095b76b3a1bcd5973e83f02156a58",
+      "release_date": "2006-04-04"
+    },
+    {
+      "featuredArtist": "Dante Santiago",
+      "featuredArtistId": "5NONZdQyvKmJzBev1e3JW6",
+      "trackName": "Dum Diddly",
+      "trackId": "6LsWBMPBsD05RYW0HzASDN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3827b6fa7f72b77c2b10f571b1d59742664230b7",
+      "release_date": "2005-01-01"
+    },
+    {
+      "featuredArtist": "Papa Roach",
+      "featuredArtistId": "4RddZ3iHvSpGV4dvATac9X",
+      "trackName": "Anxiety",
+      "trackId": "3aWLmI4BEn9Wph3fTyHZ7j",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ce9211e66c36956bc1a586437a8c69e4e2d0303a",
+      "release_date": "2003-01-01"
+    }
+  ]
+}

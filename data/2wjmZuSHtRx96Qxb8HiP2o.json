@@ -1,0 +1,41 @@
+{
+  "artistName": "Guasones",
+  "features": [
+    {
+      "featuredArtist": "Carlos Tarque",
+      "featuredArtistId": "3RIiNnFu9LhnhUqIXtJatR",
+      "trackName": "Tan Distintos",
+      "trackId": "5lVxdKsJkQClhBLK7lfurE",
+      "preview": "https://p.scdn.co/mp3-preview/0c84212a1d107650404986a2f6adec790fa7394c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/85f401b1baf88c28f3c8e6d17608fd5b575a4dfe",
+      "release_date": "2014-06-26"
+    },
+    {
+      "featuredArtist": "Jimmy Rip",
+      "featuredArtistId": "4fYTWlP4R8R5HcqMUgq7Ze",
+      "trackName": "Dr. Tazo",
+      "trackId": "4NuEbIJ81C9PreBhxfeOrO",
+      "preview": "https://p.scdn.co/mp3-preview/d224ec422eb4c7ef6a438a01c1ebbc9e6c11e6ce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/85f401b1baf88c28f3c8e6d17608fd5b575a4dfe",
+      "release_date": "2014-06-26"
+    },
+    {
+      "featuredArtist": "Coti",
+      "featuredArtistId": "1OUDQLymoysITxprkd0Qvj",
+      "trackName": "Otra Vez - En Vivo En El Gran Rex / 2015",
+      "trackId": "67PS9sr4IGOeavkqkYGAoE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/58ffeb9eda4d9cb97247e92852da6ce5e669a980",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Manuel Quieto",
+      "featuredArtistId": "4OVSeAK6gt29d9V8uwFzHn",
+      "trackName": "Otra Vez - En Vivo En El Gran Rex / 2015",
+      "trackId": "67PS9sr4IGOeavkqkYGAoE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/58ffeb9eda4d9cb97247e92852da6ce5e669a980",
+      "release_date": "2016-06-10"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "artistName": "Level 42",
+  "features": [
+    {
+      "featuredArtist": "John Luongo",
+      "featuredArtistId": "4846EweTNJP1oTLOXBn4i8",
+      "trackName": "The Chinese Way",
+      "trackId": "47o1HyNQUQovzZ9b9RbjEg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1bc025f1ce6e1b9b3ebd02440fe2cb73cdba2cce",
+      "release_date": "2017-03-31"
+    },
+    {
+      "featuredArtist": "Jerry Boys",
+      "featuredArtistId": "5yE47igIBiet02Qyw0FdLV",
+      "trackName": "Can't Walk You Home - Edit",
+      "trackId": "4NMdia3maXJGAbz0Q8VDzW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1bc025f1ce6e1b9b3ebd02440fe2cb73cdba2cce",
+      "release_date": "2017-03-31"
+    },
+    {
+      "featuredArtist": "Mark King",
+      "featuredArtistId": "28ATW0KjxSXEjzrCGPslVB",
+      "trackName": "Can't Walk You Home - Edit",
+      "trackId": "4NMdia3maXJGAbz0Q8VDzW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1bc025f1ce6e1b9b3ebd02440fe2cb73cdba2cce",
+      "release_date": "2017-03-31"
+    },
+    {
+      "featuredArtist": "Shep Pettibone",
+      "featuredArtistId": "6GOmlO6wisWSbBzBbCCaWv",
+      "trackName": "Something About You - Shep Pettibone Remix",
+      "trackId": "2w7lU1seULnmnPp8EDc5ZA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/78278bf8de5e8b95a0eef4a82937f3eef2834d20",
+      "release_date": "2016-07-08"
+    },
+    {
+      "featuredArtist": "David O'Ogrin",
+      "featuredArtistId": "03uoo63pe0RYylFt2uo6Vu",
+      "trackName": "Running In The Family - Dave O' Remix",
+      "trackId": "3neuEuyTqdt3tsDLQSZxA2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/78278bf8de5e8b95a0eef4a82937f3eef2834d20",
+      "release_date": "2016-07-08"
+    },
+    {
+      "featuredArtist": "Julian Mendelsohn",
+      "featuredArtistId": "6TkVOQniE6oly7xEufILwq",
+      "trackName": "Three Words",
+      "trackId": "2unng37Wgqa5JQxFHsSljb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae80d7767a2fc60eff3106672db10a7aab0058aa",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Tom Lord-Alge",
+      "featuredArtistId": "32ckuKo8LrZhQMyCehYKkt",
+      "trackName": "Two Hearts Collide - Remix",
+      "trackId": "5TIIOGUWYIdBI0rZP6E681",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae80d7767a2fc60eff3106672db10a7aab0058aa",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Paul Wright III",
+      "featuredArtistId": "4RcBarpPlVvlYyT6wYQH2Q",
+      "trackName": "Forever Now",
+      "trackId": "1udakoCUy06TeqsQdaN11X",
+      "preview": "https://p.scdn.co/mp3-preview/d8ae39e570609deebd17f3ba98454a8b3a3f83bc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/55fbd4185c44e8b8c22465bac93f64a936c4e7bd",
+      "release_date": "1991-08-29"
+    }
+  ]
+}

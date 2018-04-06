@@ -1,0 +1,23 @@
+{
+  "artistName": "Taron Egerton",
+  "features": [
+    {
+      "featuredArtist": "Orchestral Manoeuvres In The Dark",
+      "featuredArtistId": "7wJ9NwdRWtN92NunmXuwBk",
+      "trackName": "Thrill Me",
+      "trackId": "3IP0SOiY6xiVVGZJDLyBQD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/345b874a8f57d2c9f9dc3c87ef88702294451737",
+      "release_date": "2016-03-18"
+    },
+    {
+      "featuredArtist": "Hugh Jackman",
+      "featuredArtistId": "5F1aoppMtU3OMiltO8ymJ2",
+      "trackName": "Thrill Me",
+      "trackId": "3IP0SOiY6xiVVGZJDLyBQD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/345b874a8f57d2c9f9dc3c87ef88702294451737",
+      "release_date": "2016-03-18"
+    }
+  ]
+}

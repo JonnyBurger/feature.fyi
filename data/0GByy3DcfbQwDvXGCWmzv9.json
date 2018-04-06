@@ -1,0 +1,32 @@
+{
+  "artistName": "Pretenders",
+  "features": [
+    {
+      "featuredArtist": "Bob Clearmountain",
+      "featuredArtistId": "7iWYCIyfxwVyVae6u7qJaO",
+      "trackName": "Forever Young",
+      "trackId": "2eqGQOC5Y0pXFvMEFHe7g0",
+      "preview": "https://p.scdn.co/mp3-preview/a93cb5f044dd09504937bc1cd3f3dc698970e74c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f4f16ea4c6a8176728a3ba1bddc57979da3b5f04",
+      "release_date": "2000-09-18"
+    },
+    {
+      "featuredArtist": "Mixed By Stephen Hague And Richard Norris",
+      "featuredArtistId": "26moOKHMqrRhseRZpPOnyH",
+      "trackName": "Popstar",
+      "trackId": "3lFkFhFZXHC0kjYc5duHAx",
+      "preview": "https://p.scdn.co/mp3-preview/a3507ff488710c4828f5ebdfc60975c92e431c36?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f4f16ea4c6a8176728a3ba1bddc57979da3b5f04",
+      "release_date": "2000-09-18"
+    },
+    {
+      "featuredArtist": "Tony Phillips",
+      "featuredArtistId": "21m3agrLcbsvb73S81a4cD",
+      "trackName": "I'm A Mother",
+      "trackId": "0ghNvw3gXCOcuD8umcUn2l",
+      "preview": "https://p.scdn.co/mp3-preview/cc900cdde2e5e3bd6c5c579cba5d87744f3ce74a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e2b5046402ee558911a7a91086e11ac1c83d7f1",
+      "release_date": "1994-06-01"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "artistName": "Brain",
+  "features": [
+    {
+      "featuredArtist": "Lil Dicky",
+      "featuredArtistId": "1tqhsYv8yBBdwANFNzHtcr",
+      "trackName": "On Smash (feat. Lil Dicky)",
+      "trackId": "0daY4BDM1MTMXdh42LwhDv",
+      "preview": "https://p.scdn.co/mp3-preview/cc3741b018cc3e0f4663bf9a436ad11d5930eb05?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f534de3024972d4d53228785942afa98894cee8",
+      "release_date": "2017-09-14"
+    },
+    {
+      "featuredArtist": "The Game",
+      "featuredArtistId": "0NbfKEOTQCcwd6o7wSDOHI",
+      "trackName": "How Can U Sleep (feat. Lil Dicky & The Game)",
+      "trackId": "1cURnGaH9mR7YM8SsJHZeS",
+      "preview": "https://p.scdn.co/mp3-preview/2baea2d4458219b7ef9beba1cf93d7e9b5bea95e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f534de3024972d4d53228785942afa98894cee8",
+      "release_date": "2017-09-14"
+    }
+  ]
+}

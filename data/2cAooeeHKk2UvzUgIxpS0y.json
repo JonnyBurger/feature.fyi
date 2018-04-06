@@ -1,0 +1,50 @@
+{
+  "artistName": "Jorge Aragão",
+  "features": [
+    {
+      "featuredArtist": "Sandra Menezes",
+      "featuredArtistId": "1NNnojgweam7eOqtjY2KaZ",
+      "trackName": "Sim",
+      "trackId": "2oDFy5xfqrdr8Y5g1M6uk6",
+      "preview": "https://p.scdn.co/mp3-preview/f90ccf9455f93791ee53923e9bee0088d623f789?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/640ce5c0f9ce5cec0a575ea533896d0c775b292b",
+      "release_date": "2001-08-07"
+    },
+    {
+      "featuredArtist": "Roberto Menescal",
+      "featuredArtistId": "2r1d0isPFggU8QaBzvAWmG",
+      "trackName": "Japa",
+      "trackId": "1k3sTw9mlHcnNdeU87MFBi",
+      "preview": "https://p.scdn.co/mp3-preview/155634b04596914fc99b09b1a7573c3950452c37?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6939694490f74b94c17a59de7bbb1f58dc7e7115",
+      "release_date": "1997-06-06"
+    },
+    {
+      "featuredArtist": "Bom Gosto",
+      "featuredArtistId": "4SaxUo7mfdHBowU0llwxFd",
+      "trackName": "Princípio, Meio e Fim",
+      "trackId": "1OMjcUqHXB2OSiHD6D9AGk",
+      "preview": "https://p.scdn.co/mp3-preview/971b4d3a18c1e781bdc107e35e7b3377d8b8c48f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/974c6e1d8ff1301cda66b5ceab428b663ad63aff",
+      "release_date": "2018-03-30"
+    },
+    {
+      "featuredArtist": "Roge",
+      "featuredArtistId": "2qLU3VUpp3uV2Oyf786FC3",
+      "trackName": "Diáspora negra (Participação especial Jorge Aragão)",
+      "trackId": "5Bws2YORilk3L3nFcNZPxz",
+      "preview": "https://p.scdn.co/mp3-preview/dfa779b457e99ff4a5c2f5770e06ec5cc6ef4d62?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/746a1bdbef92ba5f07a4c31a8b0fe30b4f4d2de6",
+      "release_date": "2018-03-15"
+    },
+    {
+      "featuredArtist": "Xande De Pilares",
+      "featuredArtistId": "4IQKOXNGjuRRe0WgOm5YfB",
+      "trackName": "A Lã E O Cobertor",
+      "trackId": "5VH17EKE23lh1GrziGLwoT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ccaf6738cda487578bcab0415627b388b9ea4957",
+      "release_date": "2017-07-07"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "artistName": "Roberto Cacciapaglia",
+  "features": [
+    {
+      "featuredArtist": "Royal Philharmonic Orchestra",
+      "featuredArtistId": "0MvSBMGRQJY3mRwIbJsqF1",
+      "trackName": "Tema celeste",
+      "trackId": "4ajdOJime1Mm2Wfc2QvpTF",
+      "preview": "https://p.scdn.co/mp3-preview/3a95e168d7ac5aa7b33ec83acb33897dab855ad6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be31b3f62c529aa454464b050eec77bc0ee9fbb6",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Michele Fedrigotti",
+      "featuredArtistId": "6T6voh1NTMXcpa2aNlXMko",
+      "trackName": "Tema celeste",
+      "trackId": "4ajdOJime1Mm2Wfc2QvpTF",
+      "preview": "https://p.scdn.co/mp3-preview/3a95e168d7ac5aa7b33ec83acb33897dab855ad6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be31b3f62c529aa454464b050eec77bc0ee9fbb6",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Ensemble Garbarino",
+      "featuredArtistId": "29x5N2hPgrV7P2xcBFkWiO",
+      "trackName": "Six Notes",
+      "trackId": "5swpT48WyYc2THL7SVc2WG",
+      "preview": "https://p.scdn.co/mp3-preview/52c0284230dc70dade6d9ca9046cff35563ff7f7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1a6722eebadcfc68db852eb09e7b7c8c9216537a",
+      "release_date": "2015-05-26"
+    },
+    {
+      "featuredArtist": "Gianpiero Dionigi",
+      "featuredArtistId": "4PubSyzzBLAoicEf7djT6X",
+      "trackName": "Campi Di Luce",
+      "trackId": "7BebJ7TQX3S5B6bWRZussC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6992f59d1b96bb7cca953909648cbdd047dde4f3",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Marco Zangirolami",
+      "featuredArtistId": "0on5PhivQ85YDvCKFpH6uS",
+      "trackName": "Temple Of Sound",
+      "trackId": "6IQmZtKhYUZgzuuTtYiNmJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6992f59d1b96bb7cca953909648cbdd047dde4f3",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Letizia Calandra Brumat",
+      "featuredArtistId": "5udMM2TN1B9o6ShQLybU4w",
+      "trackName": "Lucid Dream",
+      "trackId": "2uB4lTTmjbAIKYY2dcPwWQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6992f59d1b96bb7cca953909648cbdd047dde4f3",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Chris Snelling",
+      "featuredArtistId": "25ZHGX152rBqWlYA9C2iVp",
+      "trackName": "Atlantico",
+      "trackId": "4Nmg9YDgp59dK5BY4HgMHz",
+      "preview": "https://p.scdn.co/mp3-preview/283864175614e04d6add42cc490769038a8b10cb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c26895ccfb85be26d8bd08ae970cb80ccda42c65",
+      "release_date": "2015-11-08"
+    },
+    {
+      "featuredArtist": "David Bowie",
+      "featuredArtistId": "0oSGxfWSnnOXhD2fKuz2Gy",
+      "trackName": "Starman",
+      "trackId": "28FBXPS2VWWvp6eMU6JL3o",
+      "preview": "https://p.scdn.co/mp3-preview/2822fdbdebde4ef41de88c2f3a3fbdc4d1649c12?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/34aba3b4fb7f2323890d3acff646dcaba81debd0",
+      "release_date": "2016-11-25"
+    }
+  ]
+}

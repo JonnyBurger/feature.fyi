@@ -1,0 +1,23 @@
+{
+  "artistName": "Papa Roach",
+  "features": [
+    {
+      "featuredArtist": "Skylar Grey",
+      "featuredArtistId": "4utLUGcTvOJFr6aqIJtYWV",
+      "trackName": "Periscope",
+      "trackId": "5B1fJdMEACk2BgYG7NIsdx",
+      "preview": "https://p.scdn.co/mp3-preview/2bb40789f1ffd84e02263c3cef6bc73fcf48faa7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/264a159950e7cca4f7b2fde1e38d991681218676",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "Machine Gun Kelly",
+      "featuredArtistId": "6TIYQ3jFPwQSRmorSezPxX",
+      "trackName": "Sunrise Trailer Park",
+      "trackId": "2GY96ifZYTtwbFTO3FCj2e",
+      "preview": "https://p.scdn.co/mp3-preview/e0e174de09bfb6805d05e844ff0455651d05d157?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/264a159950e7cca4f7b2fde1e38d991681218676",
+      "release_date": "2017-05-19"
+    }
+  ]
+}

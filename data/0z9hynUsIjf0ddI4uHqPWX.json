@@ -1,0 +1,32 @@
+{
+  "artistName": "Dustin Tebbutt",
+  "features": [
+    {
+      "featuredArtist": "Thelma Plum",
+      "featuredArtistId": "0C6qzW0Am8OVyHSoT57fnC",
+      "trackName": "Silk",
+      "trackId": "2cVKUxyZZxcPOAThTGjmmk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/adc76341729d3be8525f65ca9316176ebc08dc2b",
+      "release_date": "2015-09-18"
+    },
+    {
+      "featuredArtist": "The Kite String Tangle",
+      "featuredArtistId": "3D6cosC5ZOLCpRxt6T3XS7",
+      "trackName": "Illuminate",
+      "trackId": "2cvBvFskLBRrRDPmEEMoKJ",
+      "preview": "https://p.scdn.co/mp3-preview/8369d9d0034e3fa159585ec1af12692e08037119?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/521b4fbde2ddd7e43a447ec4aa081102e86232a1",
+      "release_date": "2015-04-22"
+    },
+    {
+      "featuredArtist": "Oliver Tank",
+      "featuredArtistId": "0YnqxF8FNAMagpmi2T1UjJ",
+      "trackName": "The Breach - Oliver Tank Remix",
+      "trackId": "3TweJehpjBrC6Pcc5Mhp3R",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/98e7e67d5b1460b0a00a27eccc6a3912d9fb8cf2",
+      "release_date": "2014-01-01"
+    }
+  ]
+}

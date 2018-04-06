@@ -1,0 +1,14 @@
+{
+  "artistName": "Foo Fighters",
+  "features": [
+    {
+      "featuredArtist": "deadmau5",
+      "featuredArtistId": "2CIMQHirSU0MQqyYHq0eOx",
+      "trackName": "Rope - deadmau5 mix",
+      "trackId": "1pbYEdmXxMMQgliPdTK7fX",
+      "preview": "https://p.scdn.co/mp3-preview/92534b802628eb619d0668b2040dcdc881e72f08?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d99e8d30e9e16a9bb00107bb1a0719239e9ff67d",
+      "release_date": "2011-04-12"
+    }
+  ]
+}

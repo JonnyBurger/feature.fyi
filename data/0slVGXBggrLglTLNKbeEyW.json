@@ -1,0 +1,23 @@
+{
+  "artistName": "Rubel",
+  "features": [
+    {
+      "featuredArtist": "Emicida",
+      "featuredArtistId": "2d9LRvQJnAXRijqIJDDs2K",
+      "trackName": "Mantra",
+      "trackId": "1vuAdDQlGRntmbQ7RpkObZ",
+      "preview": "https://p.scdn.co/mp3-preview/2b7185be60c9616266c5f62bda4f029cbde5340b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d2259efcc4c54d2aa1bc188c3a7db31c31444935",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Rincon Sapiência",
+      "featuredArtistId": "6syQjkQSMIrzw5cFnNRheo",
+      "trackName": "Chiste",
+      "trackId": "0UMd5oIZTS03Okb3JHN4Xm",
+      "preview": "https://p.scdn.co/mp3-preview/8fcaba4d9986560fdcc81381794052b31b847b31?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d2259efcc4c54d2aa1bc188c3a7db31c31444935",
+      "release_date": "2018-03-02"
+    }
+  ]
+}

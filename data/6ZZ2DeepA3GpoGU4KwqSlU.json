@@ -1,0 +1,50 @@
+{
+  "artistName": "Luciano Pereyra",
+  "features": [
+    {
+      "featuredArtist": "Paty Cantú",
+      "featuredArtistId": "7K9rdoOJSiKXoVXPlSkGKT",
+      "trackName": "Enséñame A Vivir Sin Ti - En Vivo",
+      "trackId": "2ZGAqsiNECkClH748xzE9E",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2050d43387ae3adaad040998707efc48a7b579db",
+      "release_date": "2016-09-30"
+    },
+    {
+      "featuredArtist": "Descemer Bueno",
+      "featuredArtistId": "5luyt0SUvGkDMY4ILP6Qhl",
+      "trackName": "No Te Puedo Olvidar",
+      "trackId": "2YaDyiLD6qJN6i157teJpB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea73bd3a97c3c0123b45cef5d83a5972ddd00d71",
+      "release_date": "2015-08-07"
+    },
+    {
+      "featuredArtist": "David Bisbal",
+      "featuredArtistId": "5gOJTI4TusSENizxhcG7jB",
+      "trackName": "Cara O Cruz",
+      "trackId": "03VGxqv0IscWCfUB3E1PqF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea73bd3a97c3c0123b45cef5d83a5972ddd00d71",
+      "release_date": "2015-08-07"
+    },
+    {
+      "featuredArtist": "Soledad",
+      "featuredArtistId": "0K59Fm1y7s3j498ueS4qzY",
+      "trackName": "Por Volverte A Ver",
+      "trackId": "29lYSOmkkfsR4s97LqQBrc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/84a8f9a27dda6054efc6733503e7635f7b81e928",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Myriam",
+      "featuredArtistId": "4qa5jOQPzCpqmoAyJd3j9y",
+      "trackName": "Inevitable",
+      "trackId": "6U5GIHtOT702o5TJswrjTH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9af8746f561ac44ab4a3397272afa3df685c8dc8",
+      "release_date": "2004-01-01"
+    }
+  ]
+}

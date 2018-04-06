@@ -1,0 +1,41 @@
+{
+  "artistName": "Bette Midler",
+  "features": [
+    {
+      "featuredArtist": "Darlene Love",
+      "featuredArtistId": "391oLRVmoTkumiN79HkTWu",
+      "trackName": "He's Sure The Boy I Love (duet with Darlene Love)",
+      "trackId": "6UDmJq0DszU7rmEXgoNr9w",
+      "preview": "https://p.scdn.co/mp3-preview/e17109b80f0198801d6a0ca9f29ac76d842fe851?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1dd2243d5a12ec628953645b531cda8a4e85c00e",
+      "release_date": "2014-11-04"
+    },
+    {
+      "featuredArtist": "Johnny Mathis",
+      "featuredArtistId": "21LGsW7bziR4Ledx7WZ1Wf",
+      "trackName": "Winter Wonderland / Let It Snow! Let It Snow! Let It Snow!",
+      "trackId": "4JOFR4zpOeNM9fBntiB0w8",
+      "preview": "https://p.scdn.co/mp3-preview/d2b54a40251d97f945dc1cb9190be017ffb59572?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eb9b20da7c3824929b65ac21342e798a1cca9a1e",
+      "release_date": "2006"
+    },
+    {
+      "featuredArtist": "Barry Manilow",
+      "featuredArtistId": "3alW3LYQS8K29z8C8NSLIX",
+      "trackName": "I Love Being Here With You",
+      "trackId": "0w61d3hCTvsm49M3poyv6X",
+      "preview": "https://p.scdn.co/mp3-preview/69fe1db485ca81a47ce972c9619bdff03c287a10?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8a04c14c35dcfad788a4b0aef7baa9d6c252e922",
+      "release_date": "2005-10-25"
+    },
+    {
+      "featuredArtist": "Linda Ronstadt",
+      "featuredArtistId": "1sXbwvCQLGZnaH0Jp2HTVc",
+      "trackName": "Sisters",
+      "trackId": "3hHtj2KVq66noEoJpTwupG",
+      "preview": "https://p.scdn.co/mp3-preview/9c52af1a703352e557a7191876948277911ca772?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d3f218b57bdab5a2ab50e461cd476a1b9a057577",
+      "release_date": "2003-09-30"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "artistName": "Johann Strauss Orchestra",
+  "features": [
+    {
+      "featuredArtist": "André Rieu",
+      "featuredArtistId": "3hJv5p2HwekJysNB2NDnEC",
+      "trackName": "What A Wonderful World",
+      "trackId": "6kRL91KMQOueA5qvNWiP3s",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d50d7af20a752a67aa7eaed3aa538c3366fa4ae8",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Stéphanie Detry",
+      "featuredArtistId": "6FYx1YRZZW8H18ibhdfNqz",
+      "trackName": "Ballade pour Adeline",
+      "trackId": "1Kp0o557qLsvmtnRTLAcp0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d50d7af20a752a67aa7eaed3aa538c3366fa4ae8",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Manoe Konings",
+      "featuredArtistId": "6A4PiYEk4Ek6qAbVILBZA5",
+      "trackName": "Highland Cathedral - Live",
+      "trackId": "1C8RXSQLo1FKdPMClaBeqq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d50d7af20a752a67aa7eaed3aa538c3366fa4ae8",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Mirusia Louwerse",
+      "featuredArtistId": "0K7a3iuIgcTXHUF8vMHaAn",
+      "trackName": "Mio angelo",
+      "trackId": "1p5JtpVQZCzQo7Wdlk2QbV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d2d14d67a3f8aefda50b79a83e221f920f82b576",
+      "release_date": "2015-11-13"
+    },
+    {
+      "featuredArtist": "The Platin Tenors",
+      "featuredArtistId": "2oc757vhznmzlHvLQp8RiH",
+      "trackName": "Mio angelo",
+      "trackId": "1p5JtpVQZCzQo7Wdlk2QbV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d2d14d67a3f8aefda50b79a83e221f920f82b576",
+      "release_date": "2015-11-13"
+    }
+  ]
+}

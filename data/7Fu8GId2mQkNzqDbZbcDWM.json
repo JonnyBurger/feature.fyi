@@ -1,0 +1,482 @@
+{
+  "artistName": "Ton Koopman",
+  "features": [
+    {
+      "featuredArtist": "Anonymous",
+      "featuredArtistId": "4kCZ5nyurc9eIqLJfUcW0Y",
+      "trackName": "Wij komen tezamen",
+      "trackId": "2IbCywB9s7Ckkaxpu8Qsa9",
+      "preview": "https://p.scdn.co/mp3-preview/0e153dca094b8988d5425d97f18e4605757a8be7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a21668d4891f8087100a597bd525996547f02150",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Amsterdam Baroque Orchestra",
+      "featuredArtistId": "2CMg8J0WjftvFR5zFbufVA",
+      "trackName": "Wij komen tezamen",
+      "trackId": "2IbCywB9s7Ckkaxpu8Qsa9",
+      "preview": "https://p.scdn.co/mp3-preview/0e153dca094b8988d5425d97f18e4605757a8be7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a21668d4891f8087100a597bd525996547f02150",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Nieuw Vocaal Amsterdam",
+      "featuredArtistId": "4YBk5wYy4ajHcT1o4wDEXn",
+      "trackName": "Wij komen tezamen",
+      "trackId": "2IbCywB9s7Ckkaxpu8Qsa9",
+      "preview": "https://p.scdn.co/mp3-preview/0e153dca094b8988d5425d97f18e4605757a8be7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a21668d4891f8087100a597bd525996547f02150",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Ana Balestra",
+      "featuredArtistId": "0kgYFgnA2LQXw4MNyyy1d8",
+      "trackName": "Valasus",
+      "trackId": "1P9KZ2xpayVDy3YqoqlC7e",
+      "preview": "https://p.scdn.co/mp3-preview/6ef77ce11aa2449103f33b01f63328aeb01c58f2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a21668d4891f8087100a597bd525996547f02150",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Pia Pleijsier",
+      "featuredArtistId": "5H2yPpDenZRSz5qLqjxVqo",
+      "trackName": "Valasus",
+      "trackId": "1P9KZ2xpayVDy3YqoqlC7e",
+      "preview": "https://p.scdn.co/mp3-preview/6ef77ce11aa2449103f33b01f63328aeb01c58f2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a21668d4891f8087100a597bd525996547f02150",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Giulian van Nierop",
+      "featuredArtistId": "3nM4pPzRRLRxzNYwTN8QFW",
+      "trackName": "Maria die zoude naar Bethlehem gaan",
+      "trackId": "7f28PeiPVqTGr0if1KIAtc",
+      "preview": "https://p.scdn.co/mp3-preview/caf9250c0465e58665882fe6d40c4998406d890c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a21668d4891f8087100a597bd525996547f02150",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Siri Brenner",
+      "featuredArtistId": "57Ie3u33jQ1G0DUzaGqWQh",
+      "trackName": "Sint Jozef ging al treuren",
+      "trackId": "1Bn5SPqilSKOJAXPiszyB4",
+      "preview": "https://p.scdn.co/mp3-preview/6dbe9a25aff794813b843ec21d762fda8ec7523b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a21668d4891f8087100a597bd525996547f02150",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Dalia Kulek",
+      "featuredArtistId": "1LZkvpp13Ri1FbsaF6Mk0c",
+      "trackName": "Hoe leit dit kindeke",
+      "trackId": "4GXDchFv5sNwQwzA6yH5ez",
+      "preview": "https://p.scdn.co/mp3-preview/264f9a72f1899f738388f4faa5383c5a28046259?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a21668d4891f8087100a597bd525996547f02150",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Pieter de Villiers",
+      "featuredArtistId": "4ZCRlnSjMsBU4FwEfpAS1L",
+      "trackName": "Er is een kindeke geboren op aard",
+      "trackId": "63oWa7Hf7xhOeVW1j1A7JO",
+      "preview": "https://p.scdn.co/mp3-preview/0dded4cb879d2107b006f36467b0f2765ffdb081?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a21668d4891f8087100a597bd525996547f02150",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Ripley Looye",
+      "featuredArtistId": "20w7BksrgXdF5uxu7OJFR1",
+      "trackName": "Klein, klein Jezuke",
+      "trackId": "2mH21Fs1VoTYJAJde5kI3k",
+      "preview": "https://p.scdn.co/mp3-preview/0ec5ad5dc0b94a3ae188fcc1c4cb01789a9eec58?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a21668d4891f8087100a597bd525996547f02150",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Dieuwertje Blok",
+      "featuredArtistId": "3EyBxlvmiERlXeGmthux5k",
+      "trackName": "Kerstverhaal verteld door Dieuwertje Blok",
+      "trackId": "7lekZLvIPAkM2O9z2dWovT",
+      "preview": "https://p.scdn.co/mp3-preview/e021c2eadfabaacf306af287e2033fd233bdc8cf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a21668d4891f8087100a597bd525996547f02150",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Georg Philipp Telemann",
+      "featuredArtistId": "2fg5h5pzleqI4RjFopWroj",
+      "trackName": "Telemann: Tafelmusik III, No. 1 Ouverture-Suite in B-Flat Major, TWV55:B1: I. Ouverture (Lentement - Presto - Lentement)",
+      "trackId": "3eBVCld1bn9J5YNXK15YHk",
+      "preview": "https://p.scdn.co/mp3-preview/31f347fc1d4762e342914893cbac59dcbd93dd11?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/302e36074068bf13c9bd891d37c296e153b46885",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "Leopold Mozart",
+      "featuredArtistId": "5s4B01oaRxqTvONFg7Ymv1",
+      "trackName": "Divertimento in D Major \"Die Bauernhochzeit\": I. Marcia villanesca",
+      "trackId": "4FZLW5qtbYehFFONexIL2D",
+      "preview": "https://p.scdn.co/mp3-preview/c33c9a35fff2d246e9bd42b57e68785eb9f12892?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6a97b14913ea47ef75ca6f3c9efb970329d3d818",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Wolfgang Amadeus Mozart",
+      "featuredArtistId": "4NJhFmfw43RLBLjQvxDuRS",
+      "trackName": "Galimathias musicum in D Major, K. 32: No. 17, Fuga",
+      "trackId": "4G1gqzmTFffti3QcrzOw2h",
+      "preview": "https://p.scdn.co/mp3-preview/1aea94e81ee9ea7757e35e7d7275a6362ccf1fd7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6a97b14913ea47ef75ca6f3c9efb970329d3d818",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Domenico Scarlatti",
+      "featuredArtistId": "0mFblCBw0GcoY7zY1P8tzE",
+      "trackName": "Keyboard Sonata in C Major, Kk. 420",
+      "trackId": "0pYapPszrWHgXZQu65G11Y",
+      "preview": "https://p.scdn.co/mp3-preview/12ff631132be6b9d7f7030245dcdf628e602b017?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac29f039a3868cfb2a3e538289b3cf5483174d64",
+      "release_date": "2017-04-07"
+    },
+    {
+      "featuredArtist": "Johann Sebastian Bach",
+      "featuredArtistId": "5aIqB5nVVvmFsvSdExz408",
+      "trackName": "Toccata And Fugue In D Minor, BWV 565: Toccata",
+      "trackId": "6A5M8FYYUAKnKW3d7YyNDu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/84905163bff040191215c94486102cd671a634d3",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Tini Mathot",
+      "featuredArtistId": "0ycqjVd8IFP7BNZMYMG4Pl",
+      "trackName": "Concerto For 2 Harpsichords, Strings, And Continuo In C Minor, BWV 1060: 1. Allegro",
+      "trackId": "3AAu7MmjZzlEAYbnweQDue",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/84905163bff040191215c94486102cd671a634d3",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Friederike Ernst",
+      "featuredArtistId": "6HOmHrS4LmHWD0YaWTfRBs",
+      "trackName": "Concerto For 3 Harpsichords, Strings, And Continuo No.1 In D Minor, BWV 1063: 1. (Allegro)",
+      "trackId": "61eyYnZtWdPfoei2pd7RRj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/84905163bff040191215c94486102cd671a634d3",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "George Frideric Handel",
+      "featuredArtistId": "1QL7yTHrdahRMpvNtn6rI2",
+      "trackName": "Tu fedel, tu costante, HWV 171a: Recitativo Tu fedel? tu costante?",
+      "trackId": "0uDl7bP2GgKU2ngIqXrZq4",
+      "preview": "https://p.scdn.co/mp3-preview/4be88f098aebaab0bb807a83276facdc97052eaf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2b09a6a7ab73db90a7935f9664c611049ba3f994",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "Yetzabel Arias Fernandez",
+      "featuredArtistId": "04gJD1G04D85bCR5pWVt9P",
+      "trackName": "Tu fedel, tu costante, HWV 171a: Recitativo Tu fedel? tu costante?",
+      "trackId": "0uDl7bP2GgKU2ngIqXrZq4",
+      "preview": "https://p.scdn.co/mp3-preview/4be88f098aebaab0bb807a83276facdc97052eaf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2b09a6a7ab73db90a7935f9664c611049ba3f994",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "Klaus Mertens",
+      "featuredArtistId": "6uhxLhuh3jcNhKhM6pUo2V",
+      "trackName": "Tu fedel, tu costante, HWV 171a: Recitativo Tu fedel? tu costante?",
+      "trackId": "0uDl7bP2GgKU2ngIqXrZq4",
+      "preview": "https://p.scdn.co/mp3-preview/4be88f098aebaab0bb807a83276facdc97052eaf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2b09a6a7ab73db90a7935f9664c611049ba3f994",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "Giovanni Picchi",
+      "featuredArtistId": "5G3t8CWpQ92GoasO16ZRf1",
+      "trackName": "Toccata",
+      "trackId": "4WUauuWolfFi7djbcC0Hdw",
+      "preview": "https://p.scdn.co/mp3-preview/1132ac02d7700ec2c778d2dadf4ab1c48b35e2c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b828244a7f1a5fd613d04fc93108f993faa3824f",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "Orlando Gibbons",
+      "featuredArtistId": "2NkIVq5pAfIojxXjuaRVes",
+      "trackName": "Pavana",
+      "trackId": "4tRXeWWVg1gUCtKT2Q8t0U",
+      "preview": "https://p.scdn.co/mp3-preview/e3a2902ca5d07c78ee317b48bad776c5b6dec5ff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b828244a7f1a5fd613d04fc93108f993faa3824f",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "Thomas Morley",
+      "featuredArtistId": "6nLcghsTUtvQzu7aiu8HbO",
+      "trackName": "Fancie",
+      "trackId": "2TFZyEkBXJCaAIc1ryWlBH",
+      "preview": "https://p.scdn.co/mp3-preview/6a772ee2197582ba3a7bbf4ac95b9ce1cc43346e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b828244a7f1a5fd613d04fc93108f993faa3824f",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "John Bull",
+      "featuredArtistId": "67LCIy0xGsdwyRXaSBrHIH",
+      "trackName": "Ut re mi fa so la",
+      "trackId": "68bB9PdSQKtKInTDq5m7gO",
+      "preview": "https://p.scdn.co/mp3-preview/d880377468a65cf491fc36e219dc390b190059aa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b828244a7f1a5fd613d04fc93108f993faa3824f",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "Giles Farnaby",
+      "featuredArtistId": "73kv2oF3lGQpMAOfjRXCV9",
+      "trackName": "Up Tail's All",
+      "trackId": "63il2nI3YLh2WOheaTBNg7",
+      "preview": "https://p.scdn.co/mp3-preview/38373388ecce22d1173435cbef3d053d2e6b6970?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b828244a7f1a5fd613d04fc93108f993faa3824f",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "William Byrd",
+      "featuredArtistId": "2j7yGPnVrdIHjHwtyLPJ2z",
+      "trackName": "Pavan & Galliard No. 1 in D Minor: Pavana",
+      "trackId": "0jki1vnB1OBk3uvtkF8d6S",
+      "preview": "https://p.scdn.co/mp3-preview/9adc5e2b19fb6050984c8e073b22b569738a6203?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b828244a7f1a5fd613d04fc93108f993faa3824f",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "Peter Philips",
+      "featuredArtistId": "5ymbKaOh7J8KLnjfEADDhK",
+      "trackName": "Amarilli di Julio Romano (After G. Caccini)",
+      "trackId": "61an2cVx7TdlEb6MBhC51C",
+      "preview": "https://p.scdn.co/mp3-preview/fbc31268831376e87744a7688fe8e494f88e2e76?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b828244a7f1a5fd613d04fc93108f993faa3824f",
+      "release_date": "2016-09-09"
+    },
+    {
+      "featuredArtist": "Dietrich Buxtehude",
+      "featuredArtistId": "2YfFYZnshSzgfLsKZMM4VL",
+      "trackName": "Toccata F-Dur BuxWV 157",
+      "trackId": "4aOQK9cW3FHKTFkguBrAzo",
+      "preview": "https://p.scdn.co/mp3-preview/895d86faea96b54fda87517bcff6e6c8509204e9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7465cc07570fa01519a3b685a04633d4bbc086c",
+      "release_date": "2016-01-15"
+    },
+    {
+      "featuredArtist": "Johann Pachelbel",
+      "featuredArtistId": "62TD7509VQIxUe4WpwO0s3",
+      "trackName": "Ciacona d-Moll",
+      "trackId": "1MSOchfzwcVOLaW86h6FW0",
+      "preview": "https://p.scdn.co/mp3-preview/9d4b02c1e164e8a9160707a0ca29dcb964eec284?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7465cc07570fa01519a3b685a04633d4bbc086c",
+      "release_date": "2016-01-15"
+    },
+    {
+      "featuredArtist": "Jan Pieterszoon Sweelinck",
+      "featuredArtistId": "1py3vNdZzIlMyUlW4TNfwG",
+      "trackName": "Fantasia d-Moll",
+      "trackId": "34utKAT4uJ6HQG1DKWszwd",
+      "preview": "https://p.scdn.co/mp3-preview/9f6240016f8696644a3272787eb56a5bdebf941d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7465cc07570fa01519a3b685a04633d4bbc086c",
+      "release_date": "2016-01-15"
+    },
+    {
+      "featuredArtist": "Johann Gottfried Walther",
+      "featuredArtistId": "6dqwrbalC8iKxxTsRCom7A",
+      "trackName": "Concerto F-Dur nach Tomaso Albinoni",
+      "trackId": "4gsI1EVgu0AKei5alT3rxP",
+      "preview": "https://p.scdn.co/mp3-preview/dab8f90b11982406ef7dfa1c1798ff5c7aef566f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7465cc07570fa01519a3b685a04633d4bbc086c",
+      "release_date": "2016-01-15"
+    },
+    {
+      "featuredArtist": "Gottfried August Homilius",
+      "featuredArtistId": "2jThKTZICl4g9LLzuvEV7r",
+      "trackName": "Mein Gott, das Herze bring ich dir",
+      "trackId": "1uDhr8lVzmtgrIbDK5oJaH",
+      "preview": "https://p.scdn.co/mp3-preview/1bb6a3a4a459647401feb8b9df64eb7dbe5192a1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7465cc07570fa01519a3b685a04633d4bbc086c",
+      "release_date": "2016-01-15"
+    },
+    {
+      "featuredArtist": "Constantin Emanuel",
+      "featuredArtistId": "4gwJVQFBmnrxHn0N3OpCf4",
+      "trackName": "Vater unser im Himmelreich (from Clavier Übung III), BWV 683",
+      "trackId": "2mNDPs0UKKPENS3nE2Nu1Y",
+      "preview": "https://p.scdn.co/mp3-preview/9b3687c0545092389fa9f52d72945728f6819083?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/79eb619bf3b82c89ab82c2b205d0c0e8004db778",
+      "release_date": "2015-01-06"
+    },
+    {
+      "featuredArtist": "Pietro Locatelli",
+      "featuredArtistId": "2zcA2rLi9jv1i97HmFWFv4",
+      "trackName": "Menuet with Variations (After Flute Sonata Op. 2 No. 10, From the ‘Klavierboek van Quirijn en Jacoba Elizabeth van Bambeek van Strijen)",
+      "trackId": "2tBu9KcM6wl0O4JmQDX6fU",
+      "preview": "https://p.scdn.co/mp3-preview/0758a9f6f038cb11211529160801b8392b5e48a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/79eb619bf3b82c89ab82c2b205d0c0e8004db778",
+      "release_date": "2015-01-06"
+    },
+    {
+      "featuredArtist": "Gottfried Heinrich Stölzel",
+      "featuredArtistId": "1Wx4iiPR6d1bFxxAujNLTL",
+      "trackName": "Bist du bei mir, BWV 508",
+      "trackId": "2OBNoOZXPaGN4S8QDnTiHh",
+      "preview": "https://p.scdn.co/mp3-preview/7752b5e142db0e79fc19d35fb9253a211d9696c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/79eb619bf3b82c89ab82c2b205d0c0e8004db778",
+      "release_date": "2015-01-06"
+    },
+    {
+      "featuredArtist": "Amsterdam Baroque Orchestra & Choir",
+      "featuredArtistId": "7lnBwiS5iL2qKOohNsrsQX",
+      "trackName": "Walts Gott, mein Werk ich lasse, BuxWV 103",
+      "trackId": "4RR54229NLysweuo5cKHEO",
+      "preview": "https://p.scdn.co/mp3-preview/37fa31f719fefdbaf7a5830baa0a3e6958a84ba5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce75d159ca7bab791a3734bb55386183ed729832",
+      "release_date": "2014-10-10"
+    },
+    {
+      "featuredArtist": "Maarten Engeltjes",
+      "featuredArtistId": "1OqEhSLpT0E2oRfRuE91aX",
+      "trackName": "Wie schmeckt es so lieblich und wohl, BuxWV 108",
+      "trackId": "5tRzwWMCSNrXjaAlEx0hh2",
+      "preview": "https://p.scdn.co/mp3-preview/afe9b9ae1ee4a1faa998d6bcbb9e950fa027591e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce75d159ca7bab791a3734bb55386183ed729832",
+      "release_date": "2014-10-10"
+    },
+    {
+      "featuredArtist": "Verena Gropper",
+      "featuredArtistId": "5bkLBmsPW2mzZrhULKuI55",
+      "trackName": "Wie schmeckt es so lieblich und wohl, BuxWV 108",
+      "trackId": "5tRzwWMCSNrXjaAlEx0hh2",
+      "preview": "https://p.scdn.co/mp3-preview/afe9b9ae1ee4a1faa998d6bcbb9e950fa027591e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce75d159ca7bab791a3734bb55386183ed729832",
+      "release_date": "2014-10-10"
+    },
+    {
+      "featuredArtist": "Gerlinde Samann",
+      "featuredArtistId": "6t695cytpMzSZMiHGL9kd3",
+      "trackName": "Auf, Saiten, auf! Laßt euren Schall erklingen! BuxWV 115",
+      "trackId": "6TtmapbmoPXL0xiUqfIQQR",
+      "preview": "https://p.scdn.co/mp3-preview/e7f6f49c2e5b93653f6680979ff22a13151646ae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce75d159ca7bab791a3734bb55386183ed729832",
+      "release_date": "2014-10-10"
+    },
+    {
+      "featuredArtist": "Dorothee Wohlgemuth",
+      "featuredArtistId": "59Y4isAsWKVtNtCJr2mq8b",
+      "trackName": "O lux beata, trinitas et principalis unitas, BuxWV 89",
+      "trackId": "4ud5Bq16hu3AkNED93ktP7",
+      "preview": "https://p.scdn.co/mp3-preview/264fd5240a79141766ca28c459aff3d4a810532c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce75d159ca7bab791a3734bb55386183ed729832",
+      "release_date": "2014-10-10"
+    },
+    {
+      "featuredArtist": "Amaryllis Dieltiens",
+      "featuredArtistId": "6TAjwylj9KSYHENHSVKGQK",
+      "trackName": "Dixit Dominus Domino meo, BuxWV 17",
+      "trackId": "1j4Py6aAS3ZKy3HSBz4kLF",
+      "preview": "https://p.scdn.co/mp3-preview/81cab11a19cb354f20d63afafe9cd8f6a16d1416?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce75d159ca7bab791a3734bb55386183ed729832",
+      "release_date": "2014-10-10"
+    },
+    {
+      "featuredArtist": "Miriam Feuersinger",
+      "featuredArtistId": "6O4UCLOoOpZU6n6lgxFlnV",
+      "trackName": "Kommst du, Licht der Heiden, BuxWV 66",
+      "trackId": "64j1WYQcX4CdloTJfkcmgB",
+      "preview": "https://p.scdn.co/mp3-preview/fb633f0faaca8438af421f54ea2baa2dc7c0ad8f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce75d159ca7bab791a3734bb55386183ed729832",
+      "release_date": "2014-10-10"
+    },
+    {
+      "featuredArtist": "Bettina Pahn",
+      "featuredArtistId": "1UbfE6Ns1YAQA2jdQ3E8b3",
+      "trackName": "Wo ist doch mein Freund geblieben? BuxWV 111",
+      "trackId": "5BsxW9Fe948pbYx8gqPmQS",
+      "preview": "https://p.scdn.co/mp3-preview/28222eaea886050d8bb226ca78f071a55054debf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce75d159ca7bab791a3734bb55386183ed729832",
+      "release_date": "2014-10-10"
+    },
+    {
+      "featuredArtist": "Carl Philipp Emanuel Bach",
+      "featuredArtistId": "3meioy7GWDwpwmjv2LPyAb",
+      "trackName": "Sonata in A Minor, Wq. 70: I. Allegro assai",
+      "trackId": "0P5h8eh5Ijx2Yqh7z3ONxn",
+      "preview": "https://p.scdn.co/mp3-preview/920d3c6bcc75c466040f990d4c2cfcf98e170c7b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a6ae1724528c4a4a6977ba3aa4a15b68b99a036e",
+      "release_date": "2014-05-09"
+    },
+    {
+      "featuredArtist": "Tilman Lichdi",
+      "featuredArtistId": "6uru7aIF5jh5YYr7Nu7Ieb",
+      "trackName": "Herr, ich lasse dich nicht, BuxWV 36",
+      "trackId": "36zUYReJsBUwtaBJ8dur7E",
+      "preview": "https://p.scdn.co/mp3-preview/d747747742d2a129e6b6e48b187b1f3509b7855d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/195e6c236a627d14e7584940a178712933d36953",
+      "release_date": "2013-11-30"
+    },
+    {
+      "featuredArtist": "Catherine Manson",
+      "featuredArtistId": "2LqEeZx3sd4MopjaedUUt4",
+      "trackName": "Sonata 1 in b minor BWV 1014: I. Adagio",
+      "trackId": "1lbBJjghwz0OwaR4BBstPF",
+      "preview": "https://p.scdn.co/mp3-preview/83fe3278be071458b748839a7241aee1c9e136f5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a59b5b82d4aa4c5171b3c7f2ec43932da00c25a4",
+      "release_date": "2012-07-13"
+    },
+    {
+      "featuredArtist": "Paolo Pandolfo",
+      "featuredArtistId": "2sEVBoFk6vI3WlOAy3YyqJ",
+      "trackName": "Trio sonatas opus 2: Sonata in B flat op.2 nr.1 BuxWV 259",
+      "trackId": "1rK204xHaSQv7NLd78ipeV",
+      "preview": "https://p.scdn.co/mp3-preview/135c2854c22b9e95f6dd53ac2ce3b2ee6a0f462f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fdcf7098a75dd833e7da60a9ffd0951646c7b004",
+      "release_date": "2012-02-27"
+    },
+    {
+      "featuredArtist": "Mike Fentross",
+      "featuredArtistId": "5qX8j53VqHUuxBZE5KB2qH",
+      "trackName": "Trio sonatas opus 2: Sonata in B flat op.2 nr.1 BuxWV 259",
+      "trackId": "1rK204xHaSQv7NLd78ipeV",
+      "preview": "https://p.scdn.co/mp3-preview/135c2854c22b9e95f6dd53ac2ce3b2ee6a0f462f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fdcf7098a75dd833e7da60a9ffd0951646c7b004",
+      "release_date": "2012-02-27"
+    },
+    {
+      "featuredArtist": "Marin Marais",
+      "featuredArtistId": "3iPWeMA0avSRKrPKcLaTDE",
+      "trackName": "Pièces à deux violes du Premier Livre, suite en ré mineur: I. Prélude à deux violes (1686)",
+      "trackId": "5pzAimO9jKWNX2JjrdoP5X",
+      "preview": "https://p.scdn.co/mp3-preview/ff58b35ca8a57cdab3a7857e13646f5dce025d34?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/359bf23489c536ba39517e6a696e6cd9668ecbe1",
+      "release_date": "2011-09-27"
+    },
+    {
+      "featuredArtist": "Jordi Savall",
+      "featuredArtistId": "3faEZMpTmZFXpELU1EwWNL",
+      "trackName": "Pièces à deux violes du Premier Livre, suite en ré mineur: I. Prélude à deux violes (1686)",
+      "trackId": "5pzAimO9jKWNX2JjrdoP5X",
+      "preview": "https://p.scdn.co/mp3-preview/ff58b35ca8a57cdab3a7857e13646f5dce025d34?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/359bf23489c536ba39517e6a696e6cd9668ecbe1",
+      "release_date": "2011-09-27"
+    },
+    {
+      "featuredArtist": "Christophe Coin",
+      "featuredArtistId": "20IDzRi0wyLOh0Bj40v4Sj",
+      "trackName": "Pièces à deux violes du Premier Livre, suite en ré mineur: I. Prélude à deux violes (1686)",
+      "trackId": "5pzAimO9jKWNX2JjrdoP5X",
+      "preview": "https://p.scdn.co/mp3-preview/ff58b35ca8a57cdab3a7857e13646f5dce025d34?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/359bf23489c536ba39517e6a696e6cd9668ecbe1",
+      "release_date": "2011-09-27"
+    },
+    {
+      "featuredArtist": "Hopkinson Smith",
+      "featuredArtistId": "7zcQ4msi1fjUPlCYypzkNy",
+      "trackName": "Pièces à deux violes du Premier Livre, suite en ré mineur: I. Prélude à deux violes (1686)",
+      "trackId": "5pzAimO9jKWNX2JjrdoP5X",
+      "preview": "https://p.scdn.co/mp3-preview/ff58b35ca8a57cdab3a7857e13646f5dce025d34?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/359bf23489c536ba39517e6a696e6cd9668ecbe1",
+      "release_date": "2011-09-27"
+    }
+  ]
+}

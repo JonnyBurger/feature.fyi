@@ -1,0 +1,32 @@
+{
+  "artistName": "Louis Prima",
+  "features": [
+    {
+      "featuredArtist": "Sam Butera & The Witnesses",
+      "featuredArtistId": "70njzKgLbLbWkCPhKEu2oV",
+      "trackName": "Them There Eyes/Honeysuckle Rose (Medley) - Live",
+      "trackId": "6fQC7h4dtJgNK3Z7pqUJ9L",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c6780607086c715ba21a7bdd7ee50b6440d93699",
+      "release_date": "2012-12-14"
+    },
+    {
+      "featuredArtist": "Keely Smith",
+      "featuredArtistId": "0vQqxnQk1G32RtjSAFq3z1",
+      "trackName": "Banana Split For My Baby",
+      "trackId": "3h6bp0jWGXKCEPUhVXFvYF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0c9d281ecc1ee15209248c71654c6cea36a5a06b",
+      "release_date": "2011-06-10"
+    },
+    {
+      "featuredArtist": "Phil Harris",
+      "featuredArtistId": "2ISMfPtVzHc9jDDVPUEHDa",
+      "trackName": "I Wan'Na Be Like You (The Monkey Song)",
+      "trackId": "6BRHtVCYalncAfaZqVLpvJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b4db2a1cc927ee9c35dc74c3da4c59770d79b7cd",
+      "release_date": "2007-07-17"
+    }
+  ]
+}

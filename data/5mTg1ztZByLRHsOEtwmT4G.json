@@ -1,0 +1,59 @@
+{
+  "artistName": "Levante",
+  "features": [
+    {
+      "featuredArtist": "Max Gazzé",
+      "featuredArtistId": "1h5O32I1o0VOnpLmKXLfRa",
+      "trackName": "Pezzo di me (feat. Max Gazzè)",
+      "trackId": "2AjFDVoHPW3vqDGir7MybZ",
+      "preview": "https://p.scdn.co/mp3-preview/da5c4019745ed7f8c9a9b04e33ba280b81dd6419?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d8288b73a18506549c008b5c485fd31ef2ac8769",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "J-AX",
+      "featuredArtistId": "2iK8weavvfS2xJCmzNzNE5",
+      "trackName": "Assenzio",
+      "trackId": "4VkE3AdAXBoYnCzJ3Rzr9q",
+      "preview": "https://p.scdn.co/mp3-preview/8b5aa58adcad416c004e49ce92e21418277e8a01?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/42887741dbe67acf888ce3482bc6ea08cb59fa0f",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Fedez",
+      "featuredArtistId": "3pgCLfNbw5ozIfoNsvDU7i",
+      "trackName": "Assenzio",
+      "trackId": "4VkE3AdAXBoYnCzJ3Rzr9q",
+      "preview": "https://p.scdn.co/mp3-preview/8b5aa58adcad416c004e49ce92e21418277e8a01?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/42887741dbe67acf888ce3482bc6ea08cb59fa0f",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Stash",
+      "featuredArtistId": "0NRRrW3u1DBFwu7RQ7GKX2",
+      "trackName": "Assenzio",
+      "trackId": "4VkE3AdAXBoYnCzJ3Rzr9q",
+      "preview": "https://p.scdn.co/mp3-preview/8b5aa58adcad416c004e49ce92e21418277e8a01?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/42887741dbe67acf888ce3482bc6ea08cb59fa0f",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Casino Royale",
+      "featuredArtistId": "1OavCVgu5jGDNw4YVNkfgK",
+      "trackName": "Ora Solo Io Ora",
+      "trackId": "3rBSt5ZxaAgi4wuSq0FoFH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/41eea3b400ff9b56f91109267920a5c147be28be",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Tiziano Ferro",
+      "featuredArtistId": "11TplWqOPQBTmg2eiSLt1m",
+      "trackName": "Valore Assoluto",
+      "trackId": "7wdK15HdIAvHwThidLPr83",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9586da21e1ff690403dd461d6d3730ed5485c69b",
+      "release_date": "2017-11-10"
+    }
+  ]
+}

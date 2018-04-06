@@ -1,0 +1,707 @@
+{
+  "artistName": "Sarkodie",
+  "features": [
+    {
+      "featuredArtist": "Suli Breaks",
+      "featuredArtistId": "5XnwG6JFrOMlVGOZfy54ck",
+      "trackName": "Silence",
+      "trackId": "5a3B6g9Y5LRVyeEG0c0ESe",
+      "preview": "https://p.scdn.co/mp3-preview/075856698e9727b83d14da79e7d11fa309103d12?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/daab435cf7e7e37a8fa7df3385227f5ebf378a29",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Jesse Jagz",
+      "featuredArtistId": "30N9JY1VoDikz8Czs2TKtT",
+      "trackName": "Overdose",
+      "trackId": "32bqELZaZ4z8c4O6D9WMmE",
+      "preview": "https://p.scdn.co/mp3-preview/97f8797030e0136d8df4c1bb8d41bf2e9748d501?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/daab435cf7e7e37a8fa7df3385227f5ebf378a29",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Bobii Lewis",
+      "featuredArtistId": "3CxRQ957QpUzNkb9zCiL4F",
+      "trackName": "Come To Me",
+      "trackId": "78WYqUuEeom9v7VfaUw7vd",
+      "preview": "https://p.scdn.co/mp3-preview/f3c523e46b91989ad13d503d734ae411404dc458?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/daab435cf7e7e37a8fa7df3385227f5ebf378a29",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Jayso",
+      "featuredArtistId": "3dDhOZW93iVeE3DPS62FCI",
+      "trackName": "We No Dey Fear",
+      "trackId": "6YG3EtnMqxGCdxHW42rAjS",
+      "preview": "https://p.scdn.co/mp3-preview/b4a062c91e65616d49f81450d493d7077552f649?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/daab435cf7e7e37a8fa7df3385227f5ebf378a29",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Worlasi",
+      "featuredArtistId": "55LVJSLOfFssxvLWKb6gt9",
+      "trackName": "Certified",
+      "trackId": "0x124llvUGyTDSBLu4znd9",
+      "preview": "https://p.scdn.co/mp3-preview/da655755178d1776c3aadd5ce1904238737b059b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/daab435cf7e7e37a8fa7df3385227f5ebf378a29",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Moelogo",
+      "featuredArtistId": "6mctsJBrfcWvWH7S8h716D",
+      "trackName": "Love Yourself",
+      "trackId": "4kdK6PSM5u7jQAwmOQFO2u",
+      "preview": "https://p.scdn.co/mp3-preview/39c2f53c2d9273c1379d528d2fecf6beb88aa4c1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/daab435cf7e7e37a8fa7df3385227f5ebf378a29",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Big Narstie",
+      "featuredArtistId": "4ITNzglfuGtfHgDu29GIMW",
+      "trackName": "Light It Up",
+      "trackId": "4ixag2eg5Y4ZdCr422Amtc",
+      "preview": "https://p.scdn.co/mp3-preview/98492a52f77d3b35438fb35c92b4a04d3d590127?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/daab435cf7e7e37a8fa7df3385227f5ebf378a29",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Korede Bello",
+      "featuredArtistId": "2TwUVWFJs4LD0lOBbJXnNa",
+      "trackName": "Far Away",
+      "trackId": "724PdlrgSmBpqUvuGtzksA",
+      "preview": "https://p.scdn.co/mp3-preview/d1335350f1d2d5b93bfa5259fe7d7cc8def6c697?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/daab435cf7e7e37a8fa7df3385227f5ebf378a29",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Flavour",
+      "featuredArtistId": "2bju4lJuuxNBybWa7AyZvT",
+      "trackName": "Your Waist",
+      "trackId": "3LGxtVHQEP4V71CMO6bWG6",
+      "preview": "https://p.scdn.co/mp3-preview/363bdbd5674db3371039ad5c7eb66b0f4477f7bf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/daab435cf7e7e37a8fa7df3385227f5ebf378a29",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Joey B",
+      "featuredArtistId": "7ACLUXo71FsLZaKMOPDnEJ",
+      "trackName": "Baby Mama",
+      "trackId": "4tltXdSOgD0yfyjEMqmD5G",
+      "preview": "https://p.scdn.co/mp3-preview/acc6d6e4929e51ac11bc26b4069c2b3431a7d168?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/daab435cf7e7e37a8fa7df3385227f5ebf378a29",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Praiz",
+      "featuredArtistId": "41MWgwfjzWDupE1i0OUghd",
+      "trackName": "All I Want Is You",
+      "trackId": "2oI3GpKwgyuKAJuQcrrb7W",
+      "preview": "https://p.scdn.co/mp3-preview/e81440fd224533f9524a9bff2bc7612ad713b5ee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/daab435cf7e7e37a8fa7df3385227f5ebf378a29",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Victoria Kimani",
+      "featuredArtistId": "6HbeytIa6j2WCdPQzCrXpf",
+      "trackName": "All Night",
+      "trackId": "73P0xp88UQRII4Tp8AiNxE",
+      "preview": "https://p.scdn.co/mp3-preview/4d5d905b325e2a68e8d952f6c505e0370abfd724?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/daab435cf7e7e37a8fa7df3385227f5ebf378a29",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Yung L",
+      "featuredArtistId": "5jW1p6bav4DYihIHewKBCq",
+      "trackName": "Glory",
+      "trackId": "6UXt4vMNKIFTr2nPbhnEv1",
+      "preview": "https://p.scdn.co/mp3-preview/a8ab03617d7254e741a06ed22ea2fa3ee8b274a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/daab435cf7e7e37a8fa7df3385227f5ebf378a29",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Runtown",
+      "featuredArtistId": "4hg9bMurq8TvayGHYk9Mid",
+      "trackName": "Pain Killer - Bonus Track",
+      "trackId": "5M7i9QYKytBaNq95QJWg6l",
+      "preview": "https://p.scdn.co/mp3-preview/b9e7393e354497e9996102ea971617f9ec5982e8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/daab435cf7e7e37a8fa7df3385227f5ebf378a29",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "RunTown",
+      "featuredArtistId": "6mMtnxEQkYoY5FfJIQ9Rhb",
+      "trackName": "Pain Killer",
+      "trackId": "5N6gzgCYzeBMlMoW9YY7Co",
+      "preview": "https://p.scdn.co/mp3-preview/432d1c9b0b173a8f8478c7a88b84123e634b4b28?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ed052fa01606cbda18dea403a3c1bb62912c71b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "WizKid",
+      "featuredArtistId": "3tVQdUvClmAT7URs9V3rsp",
+      "trackName": "U Go Kill Me",
+      "trackId": "2Cw2icYQKAHHTHkAFv4Q6w",
+      "preview": "https://p.scdn.co/mp3-preview/89673b3e8fe27576cb91792a4658ef45aa88a1c7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ed052fa01606cbda18dea403a3c1bb62912c71b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Ice Prince",
+      "featuredArtistId": "1sSt1DqqqFLkPwfrqafVyn",
+      "trackName": "U Go Kill Me",
+      "trackId": "2Cw2icYQKAHHTHkAFv4Q6w",
+      "preview": "https://p.scdn.co/mp3-preview/89673b3e8fe27576cb91792a4658ef45aa88a1c7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ed052fa01606cbda18dea403a3c1bb62912c71b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "E.L",
+      "featuredArtistId": "3mUnqlNBdoohi6s287lxel",
+      "trackName": "U Go Kill Me",
+      "trackId": "2Cw2icYQKAHHTHkAFv4Q6w",
+      "preview": "https://p.scdn.co/mp3-preview/89673b3e8fe27576cb91792a4658ef45aa88a1c7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ed052fa01606cbda18dea403a3c1bb62912c71b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Navio",
+      "featuredArtistId": "0itCt7khLTvv5WqlMJwYNQ",
+      "trackName": "U Go Kill Me",
+      "trackId": "2Cw2icYQKAHHTHkAFv4Q6w",
+      "preview": "https://p.scdn.co/mp3-preview/89673b3e8fe27576cb91792a4658ef45aa88a1c7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ed052fa01606cbda18dea403a3c1bb62912c71b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Akwaboah",
+      "featuredArtistId": "6v01kW0IoqZBoLYu8ZS46Y",
+      "trackName": "End Up Falling",
+      "trackId": "0l2gE0oAdFUHZ5gPVhGasj",
+      "preview": "https://p.scdn.co/mp3-preview/8c41cd14d801c4a309d30f65b255a226ac796c9c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e496f59cd7c10d7ea1564b17a55e877b096fd74",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Appietus",
+      "featuredArtistId": "3aupsfQC9Iy7j3uSEnTqoN",
+      "trackName": "Azonto Fiesta",
+      "trackId": "3ECjsY4z0EAJhvLxoHxvu7",
+      "preview": "https://p.scdn.co/mp3-preview/a76c04c4d5fef5eae935fe0bc42cca29ff7c8c29?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e496f59cd7c10d7ea1564b17a55e877b096fd74",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Kesse",
+      "featuredArtistId": "4ZhIFuuxUkdBSeiVVWxVzi",
+      "trackName": "Azonto Fiesta",
+      "trackId": "3ECjsY4z0EAJhvLxoHxvu7",
+      "preview": "https://p.scdn.co/mp3-preview/a76c04c4d5fef5eae935fe0bc42cca29ff7c8c29?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e496f59cd7c10d7ea1564b17a55e877b096fd74",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Bisa Kdei",
+      "featuredArtistId": "4AN8jBgYwV1ieMsX1Ntxwc",
+      "trackName": "Chingam",
+      "trackId": "6hDSRSpmr4BwxsEqUnElTT",
+      "preview": "https://p.scdn.co/mp3-preview/dfc92e01a085383f84526ae2b3229ab089f86628?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e496f59cd7c10d7ea1564b17a55e877b096fd74",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Castro",
+      "featuredArtistId": "5hACxwOyI5SiMCONu6KS4L",
+      "trackName": "Adonai",
+      "trackId": "4EMOdqB2ALVMtd7vUWMjGZ",
+      "preview": "https://p.scdn.co/mp3-preview/90e9f8fbd3f71a97fbfae9967401c4d2160bf98f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e496f59cd7c10d7ea1564b17a55e877b096fd74",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Chidynma",
+      "featuredArtistId": "1yBLSZTGjfD1UqkBKXY4TD",
+      "trackName": "Winner",
+      "trackId": "6LPH7tgdaN4QPbJoLIdksr",
+      "preview": "https://p.scdn.co/mp3-preview/51a81bd2bde3fde46bbd5c471ecf9c98beab19af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e496f59cd7c10d7ea1564b17a55e877b096fd74",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Edem",
+      "featuredArtistId": "5gb4BlH3ixp1oGLlzfeppl",
+      "trackName": "MMMP",
+      "trackId": "7F2hDWRmXZk4k3FuVpYw9C",
+      "preview": "https://p.scdn.co/mp3-preview/e5dd9a45d025bfc53bbe6a3337afcbf9e0b69b4b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e496f59cd7c10d7ea1564b17a55e877b096fd74",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Efya",
+      "featuredArtistId": "1dlInrJwE0KSP9hZ0ALsI6",
+      "trackName": "Sarkcess Story",
+      "trackId": "6YDuMXx7Dj3bpiD8RoGPsf",
+      "preview": "https://p.scdn.co/mp3-preview/3aaf6e2f0471282939d06dce25d46a35a7c2ff1d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e496f59cd7c10d7ea1564b17a55e877b096fd74",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "DaVido",
+      "featuredArtistId": "0Y3agQaa6g2r0YmHPOO9rh",
+      "trackName": "Gunshot",
+      "trackId": "7ltzVZH9n46zSqO3CFGeis",
+      "preview": "https://p.scdn.co/mp3-preview/a8c1f9468b54a5c89d41bc3386967fca642c3173?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e496f59cd7c10d7ea1564b17a55e877b096fd74",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Chase",
+      "featuredArtistId": "4nIJHYp7KTVCfJEWgGKjTj",
+      "trackName": "Giants Steps",
+      "trackId": "2qrGtarec0yWlbvK01fou9",
+      "preview": "https://p.scdn.co/mp3-preview/027c6919cce073f9d2fbffba6bd4ec691f661eca?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e496f59cd7c10d7ea1564b17a55e877b096fd74",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Burna Boy",
+      "featuredArtistId": "3wcj11K77LjEY1PkEazffa",
+      "trackName": "Special Someone",
+      "trackId": "6iIj9H4etlEnferYjvwyos",
+      "preview": "https://p.scdn.co/mp3-preview/9fb81f3ba7a3e2359fdb50aa9728688343e18921?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e496f59cd7c10d7ea1564b17a55e877b096fd74",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "AKA",
+      "featuredArtistId": "3GGRTQ8nqMQ2KIgK34yVlp",
+      "trackName": "Special Someone",
+      "trackId": "6iIj9H4etlEnferYjvwyos",
+      "preview": "https://p.scdn.co/mp3-preview/9fb81f3ba7a3e2359fdb50aa9728688343e18921?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e496f59cd7c10d7ea1564b17a55e877b096fd74",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Banky W.",
+      "featuredArtistId": "1c61yiH4iYE7cHtjAYSUu3",
+      "trackName": "Pon Di Ting",
+      "trackId": "0DvmlyLkcncPUwWuyXiOeM",
+      "preview": "https://p.scdn.co/mp3-preview/6901043a70b803015da582fefbfc51fcf19bc69a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e496f59cd7c10d7ea1564b17a55e877b096fd74",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "2Face",
+      "featuredArtistId": "1jluLAiBpHzUX4DlOxOfU3",
+      "trackName": "Idibia War",
+      "trackId": "6DNS5aovvjEhva2HZm10fu",
+      "preview": "https://p.scdn.co/mp3-preview/139efd0fbaa42727617916d4b4897c811de42c4f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e496f59cd7c10d7ea1564b17a55e877b096fd74",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Ace Hood",
+      "featuredArtistId": "31HjiqargV4NAw4GZqUale",
+      "trackName": "New Guy",
+      "trackId": "71u9KCj77e2idv6Kb5o2Lz",
+      "preview": "https://p.scdn.co/mp3-preview/0493da303f5925a21067b3a9423216db828e987b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e496f59cd7c10d7ea1564b17a55e877b096fd74",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Elijah",
+      "featuredArtistId": "55T6paGb5e26umlUAwnm6h",
+      "trackName": "Response To Samini",
+      "trackId": "5MKofjvqfnbClqMMOsVohu",
+      "preview": "https://p.scdn.co/mp3-preview/9640ca058c2375106785c55bdb96d6ba13396a25?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c74a93227eab89fead38fb042658cecf721fa0b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Fuse ODG",
+      "featuredArtistId": "374sWpAJsbZckf98df2jJJ",
+      "trackName": "Down On One",
+      "trackId": "2lEPDF2mEpogEFwbzxNZEj",
+      "preview": "https://p.scdn.co/mp3-preview/38c30d35f2636620ad051ee53588a1e242a6623b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c74a93227eab89fead38fb042658cecf721fa0b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Kwabena Kwabenaodo",
+      "featuredArtistId": "4GxXEimk0TybcwYmL8JBbQ",
+      "trackName": "Menkoaa",
+      "trackId": "37yn8PhamNpAKk5Iow7b7S",
+      "preview": "https://p.scdn.co/mp3-preview/306fa9d236da8dfdce482978af9c39bc850d604e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c74a93227eab89fead38fb042658cecf721fa0b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Mani",
+      "featuredArtistId": "6CE0Hq4sEyA9V52VPXSRhu",
+      "trackName": "Dawoso",
+      "trackId": "7dNoZVoKrDOI5rrGluKZBI",
+      "preview": "https://p.scdn.co/mp3-preview/8b5732fbb21d4c0e566da653756b264d7f3b3b80?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c74a93227eab89fead38fb042658cecf721fa0b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Mugeez",
+      "featuredArtistId": "2xU6IU13MYie8RcM54Ovt0",
+      "trackName": "Give It To Me",
+      "trackId": "45LamreWi88iesGCat1mar",
+      "preview": "https://p.scdn.co/mp3-preview/fabada037de4b4a66a3d94b5396e4fbc225b24b0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c74a93227eab89fead38fb042658cecf721fa0b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Lil Shaker",
+      "featuredArtistId": "6Afu0eayQ1Tj2JXr5E7mVn",
+      "trackName": "Lies",
+      "trackId": "5oWqGrbP4RwmG9VJYdXwsd",
+      "preview": "https://p.scdn.co/mp3-preview/8d912aeb226f8a5567b3a92a6d5218b3b2c8dde6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c74a93227eab89fead38fb042658cecf721fa0b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "KK Fosu",
+      "featuredArtistId": "3LJawO6XULI4SZT5dVHEYO",
+      "trackName": "Warrior Song",
+      "trackId": "4lZUEVtuuLXbzJsMEUNvpr",
+      "preview": "https://p.scdn.co/mp3-preview/7867cd2a7bb27ff8da6266f98065ca5a954a260e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c74a93227eab89fead38fb042658cecf721fa0b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Lighter",
+      "featuredArtistId": "11N6tAalgHsLtqfyl5OHTh",
+      "trackName": "Luxury",
+      "trackId": "3A2OZxKRFNTFCINYui1tQH",
+      "preview": "https://p.scdn.co/mp3-preview/1b68bd9ae870d2793c46f408d88a7e51b49b113e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c74a93227eab89fead38fb042658cecf721fa0b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "J.Town",
+      "featuredArtistId": "1al4XgkErDNOZC84jiZKgJ",
+      "trackName": "Good Relationship",
+      "trackId": "0IDEpfS6P74W4yBRLjcBbo",
+      "preview": "https://p.scdn.co/mp3-preview/42729088facd2cd2af33e8c89cb57e0a5f24ec9a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c74a93227eab89fead38fb042658cecf721fa0b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Ikechukwu",
+      "featuredArtistId": "7xhdfJjebilccfAhprilhE",
+      "trackName": "When I Grow Up",
+      "trackId": "6UlUXUN9O5vDKNDs7SIi8C",
+      "preview": "https://p.scdn.co/mp3-preview/3504f498dbbb2876b058e91062675355d93429f0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3c74a93227eab89fead38fb042658cecf721fa0b",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Obrafour",
+      "featuredArtistId": "55YBIMBzI2Xx5gJ6Sqo1GG",
+      "trackName": "Saa Okodie No",
+      "trackId": "7i2U0A0jTYsQQHA6bABNz6",
+      "preview": "https://p.scdn.co/mp3-preview/5b0ead6864272fc6fa81d5b6b13975ea26f80811?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb1f7a41fe61222111b00080058cbd16cf69b664",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Pappy Kojo",
+      "featuredArtistId": "05wqlCGQReohsxStVBR052",
+      "trackName": "Raw Guys",
+      "trackId": "6Hyc0iDs6aoS75GejWhY0D",
+      "preview": "https://p.scdn.co/mp3-preview/c2a760420eab7d896122e4e989c589e3d6be0134?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb1f7a41fe61222111b00080058cbd16cf69b664",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Pat Thomas",
+      "featuredArtistId": "5TokO3SV9TPaGArsR5nyYa",
+      "trackName": "Bra",
+      "trackId": "5QMcoS85avb0DAyy8zlfLU",
+      "preview": "https://p.scdn.co/mp3-preview/d1aa4812bcb929884025ac8c5f35684dc3dc5761?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb1f7a41fe61222111b00080058cbd16cf69b664",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Silvastone",
+      "featuredArtistId": "0cLl02ZhARtTtjt1RQKLNt",
+      "trackName": "Preach",
+      "trackId": "3PC2gALE7OULTbjZFISX9Q",
+      "preview": "https://p.scdn.co/mp3-preview/d5e75a30543917e15e9f44feb4a95e3016e24fd7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb1f7a41fe61222111b00080058cbd16cf69b664",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Tinny",
+      "featuredArtistId": "0NYLVN4PyUYvQkADsUEpx7",
+      "trackName": "Ohemaa",
+      "trackId": "7cnWyk7U6ydFNxF6Qu1vHv",
+      "preview": "https://p.scdn.co/mp3-preview/a9e9ba06c8cd1f095912923f5ba90a9c7d2c73d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb1f7a41fe61222111b00080058cbd16cf69b664",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Viviane Chidid",
+      "featuredArtistId": "237q6mAGCztUeAVYoQhn2Q",
+      "trackName": "Hallelujah",
+      "trackId": "2a3zw5Gw5sXUU3llcuYbBi",
+      "preview": "https://p.scdn.co/mp3-preview/fdd32388e2fcb3177a25b71df1618f70908da185?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb1f7a41fe61222111b00080058cbd16cf69b664",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Vector Rap",
+      "featuredArtistId": "393uzkdioFkxPxNwdclmTT",
+      "trackName": "Attack",
+      "trackId": "7DbOJjMV3TWicSj4OGcTrI",
+      "preview": "https://p.scdn.co/mp3-preview/c7753ed7bcc7d344ad492c9d9fc7070ec3a2e8fe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb1f7a41fe61222111b00080058cbd16cf69b664",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Tiwa Savage",
+      "featuredArtistId": "1hNaHKp2Za5YdOAG0WnRbc",
+      "trackName": "Ordinary Love",
+      "trackId": "5VjxM3y3Sr947V8eHP9gFE",
+      "preview": "https://p.scdn.co/mp3-preview/335dd5c48c1749ab223d0bca4ae1c4bd644dcb61?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb1f7a41fe61222111b00080058cbd16cf69b664",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "S. K. Blinks",
+      "featuredArtistId": "498d348AgzvEP9Q7t4rTHm",
+      "trackName": "Adonai",
+      "trackId": "2tEZ9Mk6Af1A0aCUscsanG",
+      "preview": "https://p.scdn.co/mp3-preview/09343c7af5ef10d4858f99a6b5cb42467f3e3a49?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb1f7a41fe61222111b00080058cbd16cf69b664",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Shatta Wale",
+      "featuredArtistId": "42q0rYXtR561ypg1Fcw1PI",
+      "trackName": "M3gye Wo Girl",
+      "trackId": "3tB904xJ8c06z3QR26QJNi",
+      "preview": "https://p.scdn.co/mp3-preview/2f13b270c82528dab2a05e786a441371d9c6211d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb1f7a41fe61222111b00080058cbd16cf69b664",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Samini",
+      "featuredArtistId": "10Cql6DpInZY5O6TBw2m4l",
+      "trackName": "Love Rocks",
+      "trackId": "0kDoRlq0ZCkJ5j74JQZmZ4",
+      "preview": "https://p.scdn.co/mp3-preview/117c653adca9ae86f0be4fe0416c2f6b8b81d6ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb1f7a41fe61222111b00080058cbd16cf69b664",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Raquel",
+      "featuredArtistId": "4tNisoCnGaG5zDiimBtqPZ",
+      "trackName": "Hold On",
+      "trackId": "66eFVJ0uwmFhs2XYP0Chjm",
+      "preview": "https://p.scdn.co/mp3-preview/e4799b769d8e61b2d6504f5b913d4a8019f1fc15?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fb1f7a41fe61222111b00080058cbd16cf69b664",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Vivian Chidid",
+      "featuredArtistId": "30P2UE6PqNqwCu6X2qz1Xa",
+      "trackName": "Halleluyah (feat. Vivian Chidid)",
+      "trackId": "1RXb8DtRuZnOkPiHNlyKSb",
+      "preview": "https://p.scdn.co/mp3-preview/ff68bc259e4e9a70456e0ecbda9c7fb6685f7d1c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/43236a4e3566f32bde289a13cb65a5246cc8a81a",
+      "release_date": "2014-01-02"
+    },
+    {
+      "featuredArtist": "Vector",
+      "featuredArtistId": "2dIFhJ8RkRS2rXeDefY3t1",
+      "trackName": "Rap Attack (feat. Vector)",
+      "trackId": "0YQMIrdMDk9TyzqcyR934V",
+      "preview": "https://p.scdn.co/mp3-preview/12a6c85cd0b488c5969dfebc8091c054e95f1890?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/43236a4e3566f32bde289a13cb65a5246cc8a81a",
+      "release_date": "2014-01-02"
+    },
+    {
+      "featuredArtist": "Burna Boy N Aka",
+      "featuredArtistId": "4bYmtZBkPlKEP2sUV5ZQMM",
+      "trackName": "Special Sumone (feat. Burna Boy n Aka)",
+      "trackId": "7iwOlLnaysT2Z92dx3PTio",
+      "preview": "https://p.scdn.co/mp3-preview/dd91731830f3af07fc22891ab471343fa51dd759?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/43236a4e3566f32bde289a13cb65a5246cc8a81a",
+      "release_date": "2014-01-02"
+    },
+    {
+      "featuredArtist": "Timaya",
+      "featuredArtistId": "7gEgjd9W1P1iAD9FbubrqC",
+      "trackName": "One Chance (feat. Timaya)",
+      "trackId": "7E51qlKkIS4DJEoieDDM2A",
+      "preview": "https://p.scdn.co/mp3-preview/b4949d06bcf53682b06c2658592dd7f23f349c24?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/43236a4e3566f32bde289a13cb65a5246cc8a81a",
+      "release_date": "2014-01-02"
+    },
+    {
+      "featuredArtist": "Stonebwoy",
+      "featuredArtistId": "2ayt5jDUuTCpoTG7sHSvuq",
+      "trackName": "Currency (feat. Stonebwoy)",
+      "trackId": "644Or62dQFpgkyDVLWpuTb",
+      "preview": "https://p.scdn.co/mp3-preview/d8974a56b0457a71ab41b5646c163f4ac07622bf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/43236a4e3566f32bde289a13cb65a5246cc8a81a",
+      "release_date": "2014-01-02"
+    },
+    {
+      "featuredArtist": "Sian",
+      "featuredArtistId": "5NLqGdChqEairHQ1ku2ELz",
+      "trackName": "Marry Me (feat. Sian)",
+      "trackId": "0STUtT8WhTvw6vd9fzetr6",
+      "preview": "https://p.scdn.co/mp3-preview/4754f65d5d6770c41f6a10a7bc4ca1683784df65?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/43236a4e3566f32bde289a13cb65a5246cc8a81a",
+      "release_date": "2014-01-02"
+    },
+    {
+      "featuredArtist": "Kofi B",
+      "featuredArtistId": "0aaLDXAqIRn6IjdUTDZC3O",
+      "trackName": "Odo Yede (feat. Kofi B)",
+      "trackId": "5STaBx4BpcitjORB7inZxD",
+      "preview": "https://p.scdn.co/mp3-preview/0c6eb263293abedb0c4f4f3415e2cbd66c9b49c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/43236a4e3566f32bde289a13cb65a5246cc8a81a",
+      "release_date": "2014-01-02"
+    },
+    {
+      "featuredArtist": "Tuface",
+      "featuredArtistId": "103VoRYJOoSKigBMkS5fNR",
+      "trackName": "War (feat. Tuface)",
+      "trackId": "3QS9XZO4bUIBkypazgtAVw",
+      "preview": "https://p.scdn.co/mp3-preview/117388681530c6a3b51dcd991c8f5e5cc79a58e0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/43236a4e3566f32bde289a13cb65a5246cc8a81a",
+      "release_date": "2014-01-02"
+    },
+    {
+      "featuredArtist": "Castro",
+      "featuredArtistId": "030V4chwvYtlwnEfrA3oh3",
+      "trackName": "Onyame eyhira(produced By Kaywa) (feat. Castro)",
+      "trackId": "4Q33HiVThLk7DDDAfyu8S2",
+      "preview": "https://p.scdn.co/mp3-preview/565d24c037d92672756b19affc7a16f0177b71ba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c9ffc12092732712312b65698663032cb5f2bf40",
+      "release_date": "2012-02-16"
+    },
+    {
+      "featuredArtist": "Kwabena Kwabena",
+      "featuredArtistId": "6zKu61RG80pBKOMUbBKNMr",
+      "trackName": "Odo Menkoaa (feat. Kwabena Kwabena)",
+      "trackId": "6lT6LGOoXJbwLJOHSWC5wz",
+      "preview": "https://p.scdn.co/mp3-preview/32da1c49baadbbbced32bf3545b7e8a17e2467c3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c9ffc12092732712312b65698663032cb5f2bf40",
+      "release_date": "2012-02-16"
+    },
+    {
+      "featuredArtist": "Sherifa",
+      "featuredArtistId": "6A2acaCpBPKDhzbaJXcPEx",
+      "trackName": "Sherifa_sherifa (feat. Sherifa)",
+      "trackId": "02WeKLH1ccBQO4yFf4ZGFw",
+      "preview": "https://p.scdn.co/mp3-preview/6955a720d1aa3c36a3b23309cbad2b2967c63e79?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c9ffc12092732712312b65698663032cb5f2bf40",
+      "release_date": "2012-02-16"
+    },
+    {
+      "featuredArtist": "EL",
+      "featuredArtistId": "4pU8XJNeU0LJhfZQOQcYoh",
+      "trackName": "U Go Kill Me (feat. El)",
+      "trackId": "2iTzNWT7x2NXpMngGZQzPd",
+      "preview": "https://p.scdn.co/mp3-preview/1d7bb3960ea1679fa3c386937bb471bfdfd8b018?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c9ffc12092732712312b65698663032cb5f2bf40",
+      "release_date": "2012-02-16"
+    },
+    {
+      "featuredArtist": "Jayso And Lighter",
+      "featuredArtistId": "2EsZpqrmqeRFgLzO3E9wDg",
+      "trackName": "Luxury (Prod By Jayso) (feat. Jayso And Lighter)",
+      "trackId": "1cLPIO1xg3KPqccY3ZKIoc",
+      "preview": "https://p.scdn.co/mp3-preview/24b84b2db15224b141138fad3f1e49ebdfc2afaa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c9ffc12092732712312b65698663032cb5f2bf40",
+      "release_date": "2012-02-16"
+    },
+    {
+      "featuredArtist": "Kwaw Kese",
+      "featuredArtistId": "5orboL2SUTJGDKfMVgCCBt",
+      "trackName": "Mani Dawoso (feat. Kwawkese)",
+      "trackId": "0TbdyXFyJ9i06zideqZXxK",
+      "preview": "https://p.scdn.co/mp3-preview/5c0912bf82456ad89ebbf947463c5d9350377b19?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c9ffc12092732712312b65698663032cb5f2bf40",
+      "release_date": "2012-02-16"
+    },
+    {
+      "featuredArtist": "Rell And Jayso",
+      "featuredArtistId": "33ripEiiJqYuAiEyVqhYDa",
+      "trackName": "Friends (feat. Rell And Jayso)",
+      "trackId": "15P9HFCawg1cX8hJAS8THd",
+      "preview": "https://p.scdn.co/mp3-preview/00326f18a374dd4e4db070520fc1a1da445abfdf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c9ffc12092732712312b65698663032cb5f2bf40",
+      "release_date": "2012-02-16"
+    },
+    {
+      "featuredArtist": "Cuppy",
+      "featuredArtistId": "51xftXWVZYdREI1a7J9kGw",
+      "trackName": "Vybe",
+      "trackId": "0z5D77moSgBkYr529VORmi",
+      "preview": "https://p.scdn.co/mp3-preview/3f57dba07e22decd5651e5ad6637b731e1208d11?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a254ad9857fda876ad7867434c7f4355b8dd54c7",
+      "release_date": "2018-03-30"
+    },
+    {
+      "featuredArtist": "Benji",
+      "featuredArtistId": "4zW6ppWwq8F0mbOEZKNoYU",
+      "trackName": "Wake Up Call Road Safety",
+      "trackId": "0YCvVOa1thHdBcjAZ6St9C",
+      "preview": "https://p.scdn.co/mp3-preview/9ba37e738a54386b2bc790d7505a0f46d046887e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4bf93542ca5da55c819a5fd4c3e595ccb1860d82",
+      "release_date": "2018-03-26"
+    },
+    {
+      "featuredArtist": "B4bonah",
+      "featuredArtistId": "533nTGirqEiUKwUcVxYWv8",
+      "trackName": "Sofo Moko",
+      "trackId": "7yyNOZ2VLp0ryj4lpg9los",
+      "preview": "https://p.scdn.co/mp3-preview/606f5cfe029ea44652e790b2959a348c59fe3fb1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e15a8d5e357f469868c1b11f2b8e7b31be0bac5",
+      "release_date": "2018-02-14"
+    },
+    {
+      "featuredArtist": "Kelvynboy",
+      "featuredArtistId": "1ILezeIGUwWL0L3UT6vnEF",
+      "trackName": "Didi (feat. Kelvynboy & Strongman)",
+      "trackId": "0jVd212WpucXRGRR6m5Quc",
+      "preview": "https://p.scdn.co/mp3-preview/0774c80dc74fc235c3e1e916d0ffd00906fcf19d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2649e8d7ada0bea946529ec7204f815dce40630b",
+      "release_date": "2018-02-13"
+    },
+    {
+      "featuredArtist": "Strongman",
+      "featuredArtistId": "4ISHXrztVcONj4mQCnwCs9",
+      "trackName": "Didi (feat. Kelvynboy & Strongman)",
+      "trackId": "0jVd212WpucXRGRR6m5Quc",
+      "preview": "https://p.scdn.co/mp3-preview/0774c80dc74fc235c3e1e916d0ffd00906fcf19d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2649e8d7ada0bea946529ec7204f815dce40630b",
+      "release_date": "2018-02-13"
+    },
+    {
+      "featuredArtist": "Naeto C",
+      "featuredArtistId": "5wJBdwIAg6nZoCaWbFhc1r",
+      "trackName": "Kill'N me Softly",
+      "trackId": "1N0wl7Tnt71suc5maETBxM",
+      "preview": "https://p.scdn.co/mp3-preview/904a76ca5b44d8d303e459e22df7ebdb21fc3c2b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a42134ff8274de8b0aa693137447c4d5dddf071a",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Tspize",
+      "featuredArtistId": "2JqGBoZQKiZ7j1IIFP5euT",
+      "trackName": "Pain Killer (Dancehall Remix)",
+      "trackId": "6Q5xfwGpnCVMraYuczE81L",
+      "preview": "https://p.scdn.co/mp3-preview/2e4186ce1c3d35969bccfc1adda1f4cb06d3b9ee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f04d9023d25d095ce0a443b0dc34db6743749d6",
+      "release_date": "2017-03-31"
+    }
+  ]
+}

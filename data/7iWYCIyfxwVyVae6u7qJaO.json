@@ -1,0 +1,50 @@
+{
+  "artistName": "Bob Clearmountain",
+  "features": [
+    {
+      "featuredArtist": "The Rolling Stones",
+      "featuredArtistId": "22bE4uQ6baNwSHPVcDxLCe",
+      "trackName": "Start Me Up - Live",
+      "trackId": "0Ceca20fqfNJMthxWr21X4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a384eeecae0c9bb65bbb702f8072cd7e12506323",
+      "release_date": "2017-09-29"
+    },
+    {
+      "featuredArtist": "Marc Almond",
+      "featuredArtistId": "7nBZYpVAH6bD0QlD7Mpil7",
+      "trackName": "The Idol - Pt. 1",
+      "trackId": "5R3mpZsYQhifoqXgwDie74",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/acf2ff58da8cc3867e8359552e0a2c278f5fc459",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Pretenders",
+      "featuredArtistId": "0GByy3DcfbQwDvXGCWmzv9",
+      "trackName": "I'll Stand By You",
+      "trackId": "6BepiClkr3EpGFNylwLDK1",
+      "preview": "https://p.scdn.co/mp3-preview/fff3cb37f1d7c493293e8827b9cde8ce58df95da?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f7c16d95444a552921b678563ce43770f8a49f9a",
+      "release_date": "2017-01-19"
+    },
+    {
+      "featuredArtist": "Bryan Ferry",
+      "featuredArtistId": "5RNFFojXkPRmlJZIwXeKQC",
+      "trackName": "Slave To Love",
+      "trackId": "5HsG6mog2glg2B7cFNc1Qo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bff4de9b2812b75124efb98361ea7db0cbd569e6",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Bob Geldof",
+      "featuredArtistId": "6bvtY9dkfSa5yKuogd2aLU",
+      "trackName": "This Is The World Calling",
+      "trackId": "5Azm1NUyMxV1VCqqgFpp0k",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a4de7a3e7f6e79913082d536f437bb208810e4dd",
+      "release_date": "2014-01-01"
+    }
+  ]
+}

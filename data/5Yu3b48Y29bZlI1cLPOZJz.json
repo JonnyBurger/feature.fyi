@@ -1,0 +1,41 @@
+{
+  "artistName": "Danny Gokey",
+  "features": [
+    {
+      "featuredArtist": "Jordin Sparks",
+      "featuredArtistId": "2AQjGvtT0pFYfxR3neFcvz",
+      "trackName": "Chasing",
+      "trackId": "5zNnpnQAWEDIVvEe6lHMBX",
+      "preview": "https://p.scdn.co/mp3-preview/3a88fb7f325fcfd1accf0ed8c71019f9037f1c18?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f434f84960e58c1d77ee1d56de7efe892fe857cf",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Kierra Sheard",
+      "featuredArtistId": "4x3CdMQ3YjnPn4Evhyni5y",
+      "trackName": "Better Than I Found It",
+      "trackId": "2tE90aQdsoJwmSCmJv4ZHv",
+      "preview": "https://p.scdn.co/mp3-preview/50387d114ed6a9803891cabbf6c8c7e521ad0e96?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f434f84960e58c1d77ee1d56de7efe892fe857cf",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Bryan Todd",
+      "featuredArtistId": "7yJeHSz1S2NKnNwONqETZ5",
+      "trackName": "Stronger Than We Think (Bryan Todd Remix)",
+      "trackId": "4T9Nf10Apo6crkg39D87Hi",
+      "preview": "https://p.scdn.co/mp3-preview/d0f6ee517c882e3857c821792c2095aeeb004c1e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/17119698c1e61ccda3b7e62182f77cc1c1d63e65",
+      "release_date": "2017-01-13"
+    },
+    {
+      "featuredArtist": "Social Club Misfits",
+      "featuredArtistId": "0wnsM0ziqToBwQeEbH0akL",
+      "trackName": "Tuyo",
+      "trackId": "1wdx2wktHSsZFItDRAEILL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/6b670d6d7a8d868406d6ae8197c40a013aa9a8d2",
+      "release_date": "2018-02-09"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "artistName": "Neneh Cherry",
+  "features": [
+    {
+      "featuredArtist": "Robyn",
+      "featuredArtistId": "6UE7nl9mha6s8z0wFQFIZ2",
+      "trackName": "Out of the Black (feat. Robyn)",
+      "trackId": "77JYeDGpMCXm7z1tFxTOqq",
+      "preview": "https://p.scdn.co/mp3-preview/8f60f3e5324ebf3a463be3e80c2345e9791f65a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aceae676d745c93552c354ba0e6c8f8775d86aac",
+      "release_date": "2014-12-02"
+    },
+    {
+      "featuredArtist": "Robyn",
+      "featuredArtistId": "21XR2fBLIiDTxc98Kcz6Ba",
+      "trackName": "Out of the Black (feat. Robyn)",
+      "trackId": "3D0DT9sSiUOeTw9W8weair",
+      "preview": "https://p.scdn.co/mp3-preview/8f60f3e5324ebf3a463be3e80c2345e9791f65a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aceae676d745c93552c354ba0e6c8f8775d86aac",
+      "release_date": "2014-02-25"
+    },
+    {
+      "featuredArtist": "Youssou N'Dour",
+      "featuredArtistId": "77zlytAFjPFjUKda8TNIDY",
+      "trackName": "7 Seconds - Album Version;Clean Version",
+      "trackId": "6ujamBcBsjC0cpyeMr9xja",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/38edacb4b222cdf9315837078ee40b4b260a9fc4",
+      "release_date": "1996"
+    }
+  ]
+}

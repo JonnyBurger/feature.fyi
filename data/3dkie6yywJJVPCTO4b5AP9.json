@@ -1,0 +1,23 @@
+{
+  "artistName": "Liam Ferrari",
+  "features": [
+    {
+      "featuredArtist": "Tyron Hapi",
+      "featuredArtistId": "5aSBbBUbArJfyNKDg4KS1I",
+      "trackName": "I Like The Way",
+      "trackId": "5c8gnM9rNbdgLkeeQAZAKb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5075f42ca28348b091a21243c8da92f8b903eff2",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Kyle Gee",
+      "featuredArtistId": "7q1TfQgnS9gAEdH5e295dB",
+      "trackName": "Love U",
+      "trackId": "563DZttj3jlNoPZxong59E",
+      "preview": "https://p.scdn.co/mp3-preview/6c0fad094ac2103c09a653e8829049f7b764b181?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9823f2a10994fc81a198e93825b1044e1d2cd7bd",
+      "release_date": "2017-12-18"
+    }
+  ]
+}

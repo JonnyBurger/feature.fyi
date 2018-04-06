@@ -1,0 +1,41 @@
+{
+  "artistName": "Trisha Yearwood",
+  "features": [
+    {
+      "featuredArtist": "Vince Gill",
+      "featuredArtistId": "3IhWQSrLj8EJjdvjFTpCyo",
+      "trackName": "An Angel Gets Its Wings",
+      "trackId": "6vLXo6KgtFatKXtjKX1JlE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/edde0465d89cebe825b9238028c4a39221bae657",
+      "release_date": "2016-01-01"
+    },
+    {
+      "featuredArtist": "Garth Brooks",
+      "featuredArtistId": "4BclNkZtAUq1YrYNzye3N7",
+      "trackName": "Love Will Always Win",
+      "trackId": "3nqm4Cjz1K22Roh2Ijtb5A",
+      "preview": "https://p.scdn.co/mp3-preview/a697f45c97d4c9c4e11f67331fca618c9664cffe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8f3b51fe0dc11923d147c4358115596d697e851a",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Rosanne Cash",
+      "featuredArtistId": "6lx6XS8umFqYRVbBErx9fE",
+      "trackName": "Seven Year Ache",
+      "trackId": "1jRjg5xmIJBYREiz1yJbrX",
+      "preview": "https://p.scdn.co/mp3-preview/2cb4333a81c9c4c9329a76c2329b97799fdcc1c3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8f3b51fe0dc11923d147c4358115596d697e851a",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Don Henley",
+      "featuredArtistId": "5dbuFbrHa1SJlQhQX9OUJ2",
+      "trackName": "Inside Out",
+      "trackId": "2LQ0UWkE4uUfqCW4nCQUE7",
+      "preview": "https://p.scdn.co/mp3-preview/341964edb61f8ed10dd2746612cfc96b799a81ad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8f3b51fe0dc11923d147c4358115596d697e851a",
+      "release_date": "2007"
+    }
+  ]
+}

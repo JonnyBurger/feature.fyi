@@ -1,0 +1,32 @@
+{
+  "artistName": "Michael McDonald",
+  "features": [
+    {
+      "featuredArtist": "Stevie Wonder",
+      "featuredArtistId": "7guDJrEfX3qb6FEbdPA5qi",
+      "trackName": "I Was Made To Love Her",
+      "trackId": "5SVLTX910G2gAgRfdnKtXb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e8ba1a4b6d8a0dbc53d1542f4b6250f10d8723e8",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Toni Braxton",
+      "featuredArtistId": "3X458ddYA2YcVWuVIGGOYe",
+      "trackName": "Stop, Look, Listen (To Your Heart)",
+      "trackId": "0TubSSfUrS8yqJcstamF0k",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e8ba1a4b6d8a0dbc53d1542f4b6250f10d8723e8",
+      "release_date": "2004-01-01"
+    },
+    {
+      "featuredArtist": "Fourplay",
+      "featuredArtistId": "3PcMolaGsh2nryvBR2sQOS",
+      "trackName": "Too High",
+      "trackId": "1LjMumWOoKdYFSf6wrG9xu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/816e67ba3b01f9f18f3fd014723a18a19d9d222c",
+      "release_date": "2003-01-01"
+    }
+  ]
+}

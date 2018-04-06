@@ -1,0 +1,77 @@
+{
+  "artistName": "Jordan Feliz",
+  "features": [
+    {
+      "featuredArtist": "Neon Feather",
+      "featuredArtistId": "2gKOyAK7jvza3CP58EcLKD",
+      "trackName": "The River - Neon Feather Remix",
+      "trackId": "5d7xmExB3NQ25hQ1EMQy0f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e929ddbdc9a3421b4fe2b53162e8e614d0beb519",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Joshua Luke Smith",
+      "featuredArtistId": "29wlT5isBRIOp8YZYVAZ0A",
+      "trackName": "Beloved - NEVA Remix",
+      "trackId": "2YE2ha49ab9Sh1pjqpsZGd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e929ddbdc9a3421b4fe2b53162e8e614d0beb519",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "NEVA",
+      "featuredArtistId": "6y6lexAUiJUd0FuWgctPXW",
+      "trackName": "Beloved - NEVA Remix",
+      "trackId": "2YE2ha49ab9Sh1pjqpsZGd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e929ddbdc9a3421b4fe2b53162e8e614d0beb519",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Isaiah Tejada",
+      "featuredArtistId": "0Sj9A8P4qn7nka3AW9j9CX",
+      "trackName": "Never Too Far Gone - Isaiah Tejada Remix",
+      "trackId": "6McRbIHFaTc6ZvJSipx9Bp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e929ddbdc9a3421b4fe2b53162e8e614d0beb519",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "goodnewsbadnews",
+      "featuredArtistId": "6bIw1rdPAO8yfCqxyRYWdy",
+      "trackName": "Satisfied - goodnewsbadnews Remix",
+      "trackId": "19AmIHnjC2ZL7iWSZz0Hiy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e929ddbdc9a3421b4fe2b53162e8e614d0beb519",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "DENM",
+      "featuredArtistId": "6hrOM3yfx3SEtARzDWMikb",
+      "trackName": "Witness - DENM House Mix",
+      "trackId": "5zCWvZQHfVTsfZxB1yDIPC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f960fd77fee95c6668efa730d9d3c00909a3b0ce",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Jetsun",
+      "featuredArtistId": "7Bw1Pv8Ljr3accjoJjtOvq",
+      "trackName": "Witness - Jetsun Remix",
+      "trackId": "540s8QF6TGShuq1v2if842",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f960fd77fee95c6668efa730d9d3c00909a3b0ce",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Kipper Gray",
+      "featuredArtistId": "3ONpnlqUcVTNm21ebPSp2Z",
+      "trackName": "Witness - Kipper Gray Remix",
+      "trackId": "2HTrLmq3Mz09GRT8GrwYJC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f960fd77fee95c6668efa730d9d3c00909a3b0ce",
+      "release_date": "2018-01-19"
+    }
+  ]
+}

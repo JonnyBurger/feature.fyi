@@ -1,0 +1,86 @@
+{
+  "artistName": "Carlos Santana",
+  "features": [
+    {
+      "featuredArtist": "John McLaughlin",
+      "featuredArtistId": "4v0R1feRiuCDch7aAheVhY",
+      "trackName": "Echoes Of Angels - Live",
+      "trackId": "5w7IB1Wr9wCr1BFQz3s579",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/10775b54b1b895902468a6a348e6ab27eee0c9dd",
+      "release_date": "2015-09-11"
+    },
+    {
+      "featuredArtist": "Claude Nobs",
+      "featuredArtistId": "1ywVXSXZwH0FYaktxBO67Y",
+      "trackName": "Shake It Up And Go - Live",
+      "trackId": "2LwbFwfFhoCts9bRqeNHzV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/10775b54b1b895902468a6a348e6ab27eee0c9dd",
+      "release_date": "2015-09-11"
+    },
+    {
+      "featuredArtist": "Bruce Springsteen",
+      "featuredArtistId": "3eqjTLE0HfPfh78zjh6TqT",
+      "trackName": "Angel Of Air/Angel Of Water",
+      "trackId": "1tDRMzchKsIoW9V7by0bZ7",
+      "preview": "https://p.scdn.co/mp3-preview/4ea20d6996d160700caa15637305e8241fe771fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a1b24fc2d45a43582fdbadf0f8d4b272ef38dc79",
+      "release_date": "2001-07-16"
+    },
+    {
+      "featuredArtist": "Bill Laswell",
+      "featuredArtistId": "5RISqKCcrhGITX2TQAPGPL",
+      "trackName": "Angel Of Air/Angel Of Water",
+      "trackId": "1tDRMzchKsIoW9V7by0bZ7",
+      "preview": "https://p.scdn.co/mp3-preview/4ea20d6996d160700caa15637305e8241fe771fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a1b24fc2d45a43582fdbadf0f8d4b272ef38dc79",
+      "release_date": "2001-07-16"
+    },
+    {
+      "featuredArtist": "Buddy Miles",
+      "featuredArtistId": "2E9nO9Zav9FjjlFVVtMWdw",
+      "trackName": "Marbles - Live",
+      "trackId": "7gQB19KKaCzpZ5XC2tk3nu",
+      "preview": "https://p.scdn.co/mp3-preview/f5d8933142d8fb1e8072956b77c0979236af246b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/23d18670134eab5b734d03929391f294d94c69ce",
+      "release_date": "1972"
+    },
+    {
+      "featuredArtist": "Seun Kuti",
+      "featuredArtistId": "1GQur7dDvAWhKT9u9YwBJZ",
+      "trackName": "Black Times",
+      "trackId": "7BwzQaZSiXWQkIah5KqGfN",
+      "preview": "https://p.scdn.co/mp3-preview/977c5d0a97bc6fd47657c5defe20cd91e9c2e4d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/80d131d2629f1d80427e42abf9cb3585915500ea",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Egypt 80",
+      "featuredArtistId": "3tiod2aXxdgMl6E7W4visJ",
+      "trackName": "Black Times",
+      "trackId": "7BwzQaZSiXWQkIah5KqGfN",
+      "preview": "https://p.scdn.co/mp3-preview/977c5d0a97bc6fd47657c5defe20cd91e9c2e4d0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/80d131d2629f1d80427e42abf9cb3585915500ea",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Eros Ramazzotti",
+      "featuredArtistId": "61J0BktHv7PuP3tjTPYXSX",
+      "trackName": "Fuoco nel fuoco",
+      "trackId": "1ihpLTW2TT3PwjBOWXQ3GU",
+      "preview": "https://p.scdn.co/mp3-preview/25bc44976a94d723240aed0aa905ff4e1638516d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/40727a79326b5c5550f85c6d477fd673e4a423e5",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Cindy Blackman Santana",
+      "featuredArtistId": "2yq10FY1Xw2BnHYngF6jbo",
+      "trackName": "Fun Party Splash",
+      "trackId": "1qRxFkX2vlDHiCDkzCzqSY",
+      "preview": "https://p.scdn.co/mp3-preview/976352471043dcf399efc5ff171c1c9508abbc6e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/10b1178bcd8a5ed74c8ffdf191248f66fb439e2a",
+      "release_date": "2017-08-25"
+    }
+  ]
+}

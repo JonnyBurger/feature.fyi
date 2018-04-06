@@ -1,0 +1,815 @@
+{
+  "artistName": "René Jacobs",
+  "features": [
+    {
+      "featuredArtist": "Wolfgang Amadeus Mozart",
+      "featuredArtistId": "4NJhFmfw43RLBLjQvxDuRS",
+      "trackName": "Requiem in D Minor, K. 626 (Süssmayr - Dutron 2016 completion): I. Introitus - Requiem æternam",
+      "trackId": "54cHPuXqHXA1Dik5xXouml",
+      "preview": "https://p.scdn.co/mp3-preview/f4a6467e41189f87424b91798e45ce9f54af583e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f43aaf6e739aa4d8aac3b618591f4f18ac1c2694",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "RIAS Kammerchor",
+      "featuredArtistId": "2UVXU77knJMYOM6Avvw6Yx",
+      "trackName": "Requiem in D Minor, K. 626 (Süssmayr - Dutron 2016 completion): I. Introitus - Requiem æternam",
+      "trackId": "54cHPuXqHXA1Dik5xXouml",
+      "preview": "https://p.scdn.co/mp3-preview/f4a6467e41189f87424b91798e45ce9f54af583e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f43aaf6e739aa4d8aac3b618591f4f18ac1c2694",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Sophie Karthäuser",
+      "featuredArtistId": "0LzQjqCgWMAVk72Gob1W37",
+      "trackName": "Requiem in D Minor, K. 626 (Süssmayr - Dutron 2016 completion): I. Introitus - Requiem æternam",
+      "trackId": "54cHPuXqHXA1Dik5xXouml",
+      "preview": "https://p.scdn.co/mp3-preview/f4a6467e41189f87424b91798e45ce9f54af583e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f43aaf6e739aa4d8aac3b618591f4f18ac1c2694",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Freiburger Barockorchester",
+      "featuredArtistId": "2fJKxKjBxD1X1NkkG78qai",
+      "trackName": "Requiem in D Minor, K. 626 (Süssmayr - Dutron 2016 completion): I. Introitus - Requiem æternam",
+      "trackId": "54cHPuXqHXA1Dik5xXouml",
+      "preview": "https://p.scdn.co/mp3-preview/f4a6467e41189f87424b91798e45ce9f54af583e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f43aaf6e739aa4d8aac3b618591f4f18ac1c2694",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Marie-Claude Chappuis",
+      "featuredArtistId": "4h4AMCHThxds0tTiawlLsE",
+      "trackName": "Requiem in D Minor, K. 626 (Süssmayr - Dutron 2016 completion): II. Sequentia - Tuba mirum",
+      "trackId": "0ayKSzoxYBevP5QaZLx7Gv",
+      "preview": "https://p.scdn.co/mp3-preview/45799fea80364da926ee164608b9642e939bbe20?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f43aaf6e739aa4d8aac3b618591f4f18ac1c2694",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Maximilian Schmitt",
+      "featuredArtistId": "0ut60Nu6jadX7LoThx5ZgS",
+      "trackName": "Requiem in D Minor, K. 626 (Süssmayr - Dutron 2016 completion): II. Sequentia - Tuba mirum",
+      "trackId": "0ayKSzoxYBevP5QaZLx7Gv",
+      "preview": "https://p.scdn.co/mp3-preview/45799fea80364da926ee164608b9642e939bbe20?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f43aaf6e739aa4d8aac3b618591f4f18ac1c2694",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Johannes Weisser",
+      "featuredArtistId": "0IjvjAZgEaGQLRAYPJHkRi",
+      "trackName": "Requiem in D Minor, K. 626 (Süssmayr - Dutron 2016 completion): II. Sequentia - Tuba mirum",
+      "trackId": "0ayKSzoxYBevP5QaZLx7Gv",
+      "preview": "https://p.scdn.co/mp3-preview/45799fea80364da926ee164608b9642e939bbe20?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f43aaf6e739aa4d8aac3b618591f4f18ac1c2694",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Johann Sebastian Bach",
+      "featuredArtistId": "5aIqB5nVVvmFsvSdExz408",
+      "trackName": "Johannes Passion, BWV 245, Pt. 1: 1. Chorus \"Herr, unser Herrscher\" (Exordium)",
+      "trackId": "0KrFZl45QaVfL0U5YUhxrL",
+      "preview": "https://p.scdn.co/mp3-preview/6bb722c80b10653c236676bc3423f0b8e14e8913?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c479d04dca3aa67c78ec23c4bf27ec0babe63bd",
+      "release_date": "2016-03-26"
+    },
+    {
+      "featuredArtist": "Akademie für Alte Musik Berlin",
+      "featuredArtistId": "1R1hwKrqqLqYiD53NtXEBJ",
+      "trackName": "Johannes Passion, BWV 245, Pt. 1: 1. Chorus \"Herr, unser Herrscher\" (Exordium)",
+      "trackId": "0KrFZl45QaVfL0U5YUhxrL",
+      "preview": "https://p.scdn.co/mp3-preview/6bb722c80b10653c236676bc3423f0b8e14e8913?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c479d04dca3aa67c78ec23c4bf27ec0babe63bd",
+      "release_date": "2016-03-26"
+    },
+    {
+      "featuredArtist": "Werner Güra",
+      "featuredArtistId": "5l99uDJZTV5zK5crn1Nt6V",
+      "trackName": "Johannes Passion, BWV 245, Pt. 1: 2a. Rezitativ \"Jesus ging mit seinen Jüngern über den Bach Kidron\" (Evangelist, Jesus) - 2e. \"Jesus antwortete\" (Evangelist, Jesus)",
+      "trackId": "1gvB833nVmUcI5uPEoH2be",
+      "preview": "https://p.scdn.co/mp3-preview/6d9a478ab2f0f42a50ef95a1b195f733ef4a0e03?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c479d04dca3aa67c78ec23c4bf27ec0babe63bd",
+      "release_date": "2016-03-26"
+    },
+    {
+      "featuredArtist": "Benno Schachtner",
+      "featuredArtistId": "0pxGHEwQy65kO81yaSZoG8",
+      "trackName": "Johannes Passion, BWV 245, Pt. 1: 7. Arie \"Von den Stricken meiner Sünden\"",
+      "trackId": "1hGEJPdL03p4Ld3HhBHTWB",
+      "preview": "https://p.scdn.co/mp3-preview/4c5050bacd08279ee3fff7b8b834c8bb183a992d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c479d04dca3aa67c78ec23c4bf27ec0babe63bd",
+      "release_date": "2016-03-26"
+    },
+    {
+      "featuredArtist": "Sunhae Im",
+      "featuredArtistId": "4LbXwXeeGL3rsFjmDGbgma",
+      "trackName": "Johannes Passion, BWV 245, Pt. 1: 10. Rezitativ \"Derselbige Jünger\" (Evangelist, Ancilla, Petrus, Jesus, Servus)",
+      "trackId": "49XrkyOwma7BE96qoBfezW",
+      "preview": "https://p.scdn.co/mp3-preview/863316566336257d9124fcb5bd29c1be38e9108d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c479d04dca3aa67c78ec23c4bf27ec0babe63bd",
+      "release_date": "2016-03-26"
+    },
+    {
+      "featuredArtist": "Sebastian Kohlhepp",
+      "featuredArtistId": "4ucL68RGXrl3DnCdhYx0WD",
+      "trackName": "Johannes Passion, BWV 245, Pt. 1: 10. Rezitativ \"Derselbige Jünger\" (Evangelist, Ancilla, Petrus, Jesus, Servus)",
+      "trackId": "49XrkyOwma7BE96qoBfezW",
+      "preview": "https://p.scdn.co/mp3-preview/863316566336257d9124fcb5bd29c1be38e9108d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c479d04dca3aa67c78ec23c4bf27ec0babe63bd",
+      "release_date": "2016-03-26"
+    },
+    {
+      "featuredArtist": "Johannes Schendel",
+      "featuredArtistId": "01LyP7Tct6jNrb0nwk6fnu",
+      "trackName": "Johannes Passion, BWV 245, Pt. 2: 16a. Rezitativ and Chorus \"Da führeten sie Jesum von Kaiphas vor das Richthaus\" (Evangelist, Pilatus) -16e \"Auf daß erfüllet würde das Wort Jesu\" (Evangelist, Pilatus, Jesus)",
+      "trackId": "1rYFC0lHoS7ajJKjxb1nks",
+      "preview": "https://p.scdn.co/mp3-preview/267e1a254b2e3f6a5a5b9c31561531a547e528e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c479d04dca3aa67c78ec23c4bf27ec0babe63bd",
+      "release_date": "2016-03-26"
+    },
+    {
+      "featuredArtist": "Dimitry Ivashchenko",
+      "featuredArtistId": "4sZFjX93gER29itnLO3ozz",
+      "trackName": "Die Entführung aus dem Serail, K. 384, Act I, Zweiter auftritt: No. 2 Lied und Duett \"Wer ein Liebchen hat gefunden\" (Osmin)",
+      "trackId": "77AismQ6nKf6z9nP8eJTrs",
+      "preview": "https://p.scdn.co/mp3-preview/eb2c9750f339c3601360896f2249cdd6ef6ee35d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/00a6751f203cd1062afee7b12a16fc3e393146c0",
+      "release_date": "2015-10-15"
+    },
+    {
+      "featuredArtist": "Julian Prégardien",
+      "featuredArtistId": "219XwJ3UTeVCOmQjfjWPus",
+      "trackName": "Die Entführung aus dem Serail, K. 384, Act I, Dritter auftritt: Ich kann doch nicht noch so einen Schurken (Osmin, Pedrillo)",
+      "trackId": "7LHJFxJGsJStIgJXJd7QBS",
+      "preview": "https://p.scdn.co/mp3-preview/35af9b3e883ede41b0fa37c50d8d5134db50a688?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/00a6751f203cd1062afee7b12a16fc3e393146c0",
+      "release_date": "2015-10-15"
+    },
+    {
+      "featuredArtist": "Michael Haydn",
+      "featuredArtistId": "3rGstcVKQhx8DhhJzIVQoe",
+      "trackName": "Die Entführung aus dem Serail, K. 384, Act I, Sechster auftritt: No. 5a Türkischer Marsch",
+      "trackId": "10GWtKPVlCfw17NwxB2Ul4",
+      "preview": "https://p.scdn.co/mp3-preview/49b1ffc20498bc00d20edf4378536fda2491fdf2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/00a6751f203cd1062afee7b12a16fc3e393146c0",
+      "release_date": "2015-10-15"
+    },
+    {
+      "featuredArtist": "Cornelius Obonya",
+      "featuredArtistId": "5KwCCwHbHhVXFGlOPc08HL",
+      "trackName": "Die Entführung aus dem Serail, K. 384, Act I, Siebenter auftritt: \"Immer noch traurig, geliebte Konstanze?\" (Bassa Selim, Konstanze)",
+      "trackId": "4jh2QH7vKMxJwI3v3ga6Zq",
+      "preview": "https://p.scdn.co/mp3-preview/a61cd57d92356b3522005e9442426f4a0a503a81?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/00a6751f203cd1062afee7b12a16fc3e393146c0",
+      "release_date": "2015-10-15"
+    },
+    {
+      "featuredArtist": "Robin Johannsen",
+      "featuredArtistId": "4YS0DkuESJDNy1IvYwOFSk",
+      "trackName": "Die Entführung aus dem Serail, K. 384, Act I, Siebenter auftritt: \"Immer noch traurig, geliebte Konstanze?\" (Bassa Selim, Konstanze)",
+      "trackId": "4jh2QH7vKMxJwI3v3ga6Zq",
+      "preview": "https://p.scdn.co/mp3-preview/a61cd57d92356b3522005e9442426f4a0a503a81?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/00a6751f203cd1062afee7b12a16fc3e393146c0",
+      "release_date": "2015-10-15"
+    },
+    {
+      "featuredArtist": "Mari Eriksmoen",
+      "featuredArtistId": "5zbqmvhUrAZK0oPJwVio5d",
+      "trackName": "Die Entführung aus dem Serail, K. 384, Act II, Erster auftritt: Wer zum Teufel hat dir das Zeug in den Kopf gesetzt? (Osmin, Blonde)",
+      "trackId": "1syt5CaVGxKcZcNGM4aRCT",
+      "preview": "https://p.scdn.co/mp3-preview/d3280d745a18c1c13be96d8f0ed0e768bc0764a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/00a6751f203cd1062afee7b12a16fc3e393146c0",
+      "release_date": "2015-10-15"
+    },
+    {
+      "featuredArtist": "Heinrich Schütz",
+      "featuredArtistId": "4Fw8f0YbjBs9suGEwInPJe",
+      "trackName": "Kleine geistliche Konzerte II: Was hast du verwirket, SWV 307",
+      "trackId": "6geGsi1CQlAIGNati6UcCQ",
+      "preview": "https://p.scdn.co/mp3-preview/04b2bc3047e70076379fa05e5aa5a4adacb4d7ce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f7469d7a02f6da97b508469191123755a43cd29e",
+      "release_date": "2015-03-23"
+    },
+    {
+      "featuredArtist": "Concerto Vocale",
+      "featuredArtistId": "3prKpTddP1NKClUyDFlK3j",
+      "trackName": "Kleine geistliche Konzerte II: Was hast du verwirket, SWV 307",
+      "trackId": "6geGsi1CQlAIGNati6UcCQ",
+      "preview": "https://p.scdn.co/mp3-preview/04b2bc3047e70076379fa05e5aa5a4adacb4d7ce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f7469d7a02f6da97b508469191123755a43cd29e",
+      "release_date": "2015-03-23"
+    },
+    {
+      "featuredArtist": "Marc-Antoine Charpentier",
+      "featuredArtistId": "5OvQ8g54fWhffM2x8eCc6s",
+      "trackName": "Leçons de Ténèbres du Mercredy Sainct: Répons, Tristis est anima mea",
+      "trackId": "6LgwWInD5GaaUXDvI65xUi",
+      "preview": "https://p.scdn.co/mp3-preview/191d90e45d1e14961f18a124f726adaf587a4b70?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f7469d7a02f6da97b508469191123755a43cd29e",
+      "release_date": "2015-03-23"
+    },
+    {
+      "featuredArtist": "Giovanni Battista Pergolesi",
+      "featuredArtistId": "08ewVs9B2qQZ2Gy3xfTFyo",
+      "trackName": "Stabat Mater dolorosa (Duo)",
+      "trackId": "0wpapqcQwKdiFJfZ19wDhD",
+      "preview": "https://p.scdn.co/mp3-preview/3963f517b7ba1b00656b934780e9abae518e1123?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f7469d7a02f6da97b508469191123755a43cd29e",
+      "release_date": "2015-03-23"
+    },
+    {
+      "featuredArtist": "Sebastian Hennig",
+      "featuredArtistId": "0bTS2xAqaSJOW1OGcGCptt",
+      "trackName": "Stabat Mater dolorosa (Duo)",
+      "trackId": "0wpapqcQwKdiFJfZ19wDhD",
+      "preview": "https://p.scdn.co/mp3-preview/3963f517b7ba1b00656b934780e9abae518e1123?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f7469d7a02f6da97b508469191123755a43cd29e",
+      "release_date": "2015-03-23"
+    },
+    {
+      "featuredArtist": "Georg Philipp Telemann",
+      "featuredArtistId": "2fg5h5pzleqI4RjFopWroj",
+      "trackName": "Brockes-Passion, II. Teil: 82. Heil der Welt, dein schmerzlich Leiden ( Arie, Tochter Zion)",
+      "trackId": "39mQBtKL9tr7MdGHf8tPDD",
+      "preview": "https://p.scdn.co/mp3-preview/7bbb394f248636bc0c8a94ef7f243cbc91807bca?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f7469d7a02f6da97b508469191123755a43cd29e",
+      "release_date": "2015-03-23"
+    },
+    {
+      "featuredArtist": "Lydia Teuscher",
+      "featuredArtistId": "4abCe2NHNptuN5prLRj5XX",
+      "trackName": "Brockes-Passion, II. Teil: 82. Heil der Welt, dein schmerzlich Leiden ( Arie, Tochter Zion)",
+      "trackId": "39mQBtKL9tr7MdGHf8tPDD",
+      "preview": "https://p.scdn.co/mp3-preview/7bbb394f248636bc0c8a94ef7f243cbc91807bca?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f7469d7a02f6da97b508469191123755a43cd29e",
+      "release_date": "2015-03-23"
+    },
+    {
+      "featuredArtist": "Emilio de' Cavalieri",
+      "featuredArtistId": "0YxPuEmgFrbn7hOfRhk2VT",
+      "trackName": "Rappresentatione di anima et di corpo: Sinfonia",
+      "trackId": "1Kj0vU3jLETQnuacJ3qRI7",
+      "preview": "https://p.scdn.co/mp3-preview/779974a71b569dc03b0368b327c55aba6a58e092?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32031ab6dfba86d07b77ee2fdac62a547425874b",
+      "release_date": "2015-02-23"
+    },
+    {
+      "featuredArtist": "Chor der Deutschen Staatsoper Berlin",
+      "featuredArtistId": "7AKRF57V1mYqufJJyS7a5V",
+      "trackName": "Rappresentatione di anima et di corpo: O Signor santo e vero (Choro)",
+      "trackId": "5wAr9C51MjBu2lYl1VSP3I",
+      "preview": "https://p.scdn.co/mp3-preview/7b4d249d4dd6030ce17358a456ce827af10f4f74?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32031ab6dfba86d07b77ee2fdac62a547425874b",
+      "release_date": "2015-02-23"
+    },
+    {
+      "featuredArtist": "Serena Malcangi",
+      "featuredArtistId": "6U8L1dsNzl7Aov21XD20Mv",
+      "trackName": "Rappresentatione di anima et di corpo: Proemio",
+      "trackId": "3vap6aeWbQqY8IApoiu8kh",
+      "preview": "https://p.scdn.co/mp3-preview/fa570388169c2f76b560d0fdffcf4831ad89bae6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32031ab6dfba86d07b77ee2fdac62a547425874b",
+      "release_date": "2015-02-23"
+    },
+    {
+      "featuredArtist": "Loredana Gintoli",
+      "featuredArtistId": "2KEQDg440xnBdNLLH6dA9j",
+      "trackName": "Rappresentatione di anima et di corpo: Proemio",
+      "trackId": "3vap6aeWbQqY8IApoiu8kh",
+      "preview": "https://p.scdn.co/mp3-preview/fa570388169c2f76b560d0fdffcf4831ad89bae6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32031ab6dfba86d07b77ee2fdac62a547425874b",
+      "release_date": "2015-02-23"
+    },
+    {
+      "featuredArtist": "Gyula Orendt",
+      "featuredArtistId": "5LJthRvHT1rgUQbwDQvAaB",
+      "trackName": "Rappresentatione di anima et di corpo, Act I, Scena Prima: Il tempo, il tempo fugge (Tempo)",
+      "trackId": "4kNhpWbXlaVKvEAxgMyV2j",
+      "preview": "https://p.scdn.co/mp3-preview/b5b6a10f6c07e48424309ee0503d0401fc2057a6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32031ab6dfba86d07b77ee2fdac62a547425874b",
+      "release_date": "2015-02-23"
+    },
+    {
+      "featuredArtist": "Mark Milhofer",
+      "featuredArtistId": "4uKNu3ZcS8LQbplYxX9JFF",
+      "trackName": "Rappresentatione di anima et di corpo, Act I, Scena Terza: Ogni cor ama il bene (Intelletto)",
+      "trackId": "3QkIVMY5TkNm3oQkwPCgES",
+      "preview": "https://p.scdn.co/mp3-preview/f3a9793dd1c45ec1dcdb55f0b26951c35f27a9ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32031ab6dfba86d07b77ee2fdac62a547425874b",
+      "release_date": "2015-02-23"
+    },
+    {
+      "featuredArtist": "Marcos Fink",
+      "featuredArtistId": "2R0QaSt0UtvMolRZBKLXzO",
+      "trackName": "Rappresentatione di anima et di corpo, Act II, Scena Quarta: Chi gioia vuol, chi brama (Il Piacere)",
+      "trackId": "14lMnAywG3CXtMOksiRgY3",
+      "preview": "https://p.scdn.co/mp3-preview/ab549af651d7c974bec7b32e2a04c417fc072d2a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32031ab6dfba86d07b77ee2fdac62a547425874b",
+      "release_date": "2015-02-23"
+    },
+    {
+      "featuredArtist": "Kyung Ho Kim",
+      "featuredArtistId": "5DySNSUdATD7lY032E2aPE",
+      "trackName": "Rappresentatione di anima et di corpo, Act II, Scena Quarta: Chi gioia vuol, chi brama (Il Piacere)",
+      "trackId": "14lMnAywG3CXtMOksiRgY3",
+      "preview": "https://p.scdn.co/mp3-preview/ab549af651d7c974bec7b32e2a04c417fc072d2a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32031ab6dfba86d07b77ee2fdac62a547425874b",
+      "release_date": "2015-02-23"
+    },
+    {
+      "featuredArtist": "Christina Roterberg",
+      "featuredArtistId": "1ISQSJqD3miLO3jUY3NvXD",
+      "trackName": "Rappresentatione di anima et di corpo, Act II, Scena Sesta: Fortissimi guerrieri (L'Angelo Custode)",
+      "trackId": "4C3tRb5ZTML9LbEraEAyOH",
+      "preview": "https://p.scdn.co/mp3-preview/51151f9470cef4dc4dfc172ba05de487c6e767fa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32031ab6dfba86d07b77ee2fdac62a547425874b",
+      "release_date": "2015-02-23"
+    },
+    {
+      "featuredArtist": "Luciana Mancini",
+      "featuredArtistId": "3TFn9LF2WktScED0NvehSi",
+      "trackName": "Rappresentatione di anima et di corpo, Act II, Scena Settima: Io son, io son il mondo (Il Mondo)",
+      "trackId": "1C9yXrLS5kifucNP79ympV",
+      "preview": "https://p.scdn.co/mp3-preview/78b95ff717b15f65545e42ffbea0388064e84480?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32031ab6dfba86d07b77ee2fdac62a547425874b",
+      "release_date": "2015-02-23"
+    },
+    {
+      "featuredArtist": "Florian Feth",
+      "featuredArtistId": "52rZLCkha0yLDO1KHgIkCp",
+      "trackName": "Rappresentatione di anima et di corpo, Act II, Scena Ottava: Al forte vincitore (L'Angelo Custode)",
+      "trackId": "5KYcXbx2tOubhc5iNHrGIB",
+      "preview": "https://p.scdn.co/mp3-preview/7eac2b5037d6678163797ff80213d72ac12eb4de?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32031ab6dfba86d07b77ee2fdac62a547425874b",
+      "release_date": "2015-02-23"
+    },
+    {
+      "featuredArtist": "Hugo Oliveira",
+      "featuredArtistId": "3Eus8VLYqdyLrYnoHcEfcf",
+      "trackName": "Rappresentatione di anima et di corpo, Act II, Scena Ottava: Al forte vincitore (L'Angelo Custode)",
+      "trackId": "5KYcXbx2tOubhc5iNHrGIB",
+      "preview": "https://p.scdn.co/mp3-preview/7eac2b5037d6678163797ff80213d72ac12eb4de?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32031ab6dfba86d07b77ee2fdac62a547425874b",
+      "release_date": "2015-02-23"
+    },
+    {
+      "featuredArtist": "Elisabeth Fleming",
+      "featuredArtistId": "1gIgUzlPDebeCwVQropAgU",
+      "trackName": "Rappresentatione di anima et di corpo, Act II, Scena Ottava: Al forte vincitore (L'Angelo Custode)",
+      "trackId": "5KYcXbx2tOubhc5iNHrGIB",
+      "preview": "https://p.scdn.co/mp3-preview/7eac2b5037d6678163797ff80213d72ac12eb4de?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32031ab6dfba86d07b77ee2fdac62a547425874b",
+      "release_date": "2015-02-23"
+    },
+    {
+      "featuredArtist": "George Frideric Handel",
+      "featuredArtistId": "1QL7yTHrdahRMpvNtn6rI2",
+      "trackName": "Orlando, HWV 31 / Act 1: Ouverture",
+      "trackId": "2Lu7gvDz4ADNn293WoacEv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b9c006e98ef6083032ce793fa9b5b1a0548e0eea",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "B’Rock Baroque Orchestra",
+      "featuredArtistId": "1QqsPDwsihy8DijQHTYZmA",
+      "trackName": "Orlando, HWV 31 / Act 1: Ouverture",
+      "trackId": "2Lu7gvDz4ADNn293WoacEv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b9c006e98ef6083032ce793fa9b5b1a0548e0eea",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Konstantin Wolff",
+      "featuredArtistId": "2kXp8WTgyUFmsa1Db7kF54",
+      "trackName": "Orlando, HWV 31 / Act 1: 1. Acc. \"Gieroglifici eterni\"",
+      "trackId": "3hiCgwJ5f7UDiddGoUgsvs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b9c006e98ef6083032ce793fa9b5b1a0548e0eea",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Bejun Mehta",
+      "featuredArtistId": "5Lk5OjsDETjI4ZIExZP8qS",
+      "trackName": "Orlando, HWV 31 / Act 1: 2. Cavatina \"Stimulato della gloria\"",
+      "trackId": "3MePmigP551dWodf1tgnmF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b9c006e98ef6083032ce793fa9b5b1a0548e0eea",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Kristina Hammarstrom",
+      "featuredArtistId": "3HmZvSGXaDmF6P6VqPs8DE",
+      "trackName": "Orlando, HWV 31 / Act 1: Rec. \"M'hai vinto al fin\" / 10. Duettino \"Ritornava al suo bel viso\" / Rec. \"Spera, mio ben\"",
+      "trackId": "6Te9VfJZ1OojRFL6F89AW0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b9c006e98ef6083032ce793fa9b5b1a0548e0eea",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Christoph Willibald Gluck",
+      "featuredArtistId": "7vfydQ0nVBVgJ0ajs8EtRM",
+      "trackName": "Orfeo ed Euridice: Aria Che puro ciel!",
+      "trackId": "4uMxWmL5cQiE2o7fLvvqPx",
+      "preview": "https://p.scdn.co/mp3-preview/02538ec105b310fd6b1e0f1f622041e2c6b2aafe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b2dd2fbd046e9e90371c5f01daa9590e402ddb54",
+      "release_date": "2013-11-04"
+    },
+    {
+      "featuredArtist": "Staats- und Domchor Berlin",
+      "featuredArtistId": "13K5o1jqGYUEOTR4fEwC93",
+      "trackName": "Matthäus-Passion: Erster Teil, 1. Chorus I & II Kommt, ihr Töchter, helft mir klagen",
+      "trackId": "7nVJBlD3jmbaq3w6iv6Ygm",
+      "preview": "https://p.scdn.co/mp3-preview/6d013bb810fc9a88cebe739d1f530dfa1324d617?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a51ee5c2c111153198f8029114b34a7ecab7e687",
+      "release_date": "2013-10-07"
+    },
+    {
+      "featuredArtist": "Bernarda Fink",
+      "featuredArtistId": "1Lq2OVm5zTJ4hDGWn2T0D0",
+      "trackName": "Matthäus-Passion: Erster Teil, 5. Recitativo (Alt) Du lieber Heiland du",
+      "trackId": "0h6yI975ri5dxArmDirdpU",
+      "preview": "https://p.scdn.co/mp3-preview/1be2135f66e2b3d1e09f272cbc413d9f4ee7d4fa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a51ee5c2c111153198f8029114b34a7ecab7e687",
+      "release_date": "2013-10-07"
+    },
+    {
+      "featuredArtist": "Andrew Redmond",
+      "featuredArtistId": "6sFR25tF2ZHaQAxXlZKsVk",
+      "trackName": "Matthäus-Passion: Erster Teil, 16. Evangelista, Petrus, Jesus Petrus aber antwortete",
+      "trackId": "3J4vqAPFpawWUP8Bpeqkkj",
+      "preview": "https://p.scdn.co/mp3-preview/793e0ebe29bb1c027160bb00b693e3a512a25f96?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a51ee5c2c111153198f8029114b34a7ecab7e687",
+      "release_date": "2013-10-07"
+    },
+    {
+      "featuredArtist": "Topi Lehtipuu",
+      "featuredArtistId": "6youHt8m9NhsnQPB2kWCp0",
+      "trackName": "Matthäus-Passion: Erster Teil, 19. Recitativo a doi Cori (Tenor) O Schmerz! hier zittert das gequälte Herz",
+      "trackId": "7KiKLrRj0NAdVP4qLumYxa",
+      "preview": "https://p.scdn.co/mp3-preview/0681afa0bb92b5ddbe2fc7bee11d0f52352aba6a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a51ee5c2c111153198f8029114b34a7ecab7e687",
+      "release_date": "2013-10-07"
+    },
+    {
+      "featuredArtist": "Arttu Kataja",
+      "featuredArtistId": "6FSldsi9yqCeZLPYTCJ8Zq",
+      "trackName": "Matthäus-Passion: Erster Teil, 22. Recitativo (Baß) Der Heiland fällt vor seinem Vater nieder",
+      "trackId": "1D2qKLFR2idlBfZBlw5ZL8",
+      "preview": "https://p.scdn.co/mp3-preview/defab051463daaa7ccbb37a792e86b395c69f4c9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a51ee5c2c111153198f8029114b34a7ecab7e687",
+      "release_date": "2013-10-07"
+    },
+    {
+      "featuredArtist": "Jakob Huppmann",
+      "featuredArtistId": "2nAwpRVttfHG0ANYQ3N654",
+      "trackName": "Matthäus-Passion: Zweiter Teil, 33. Evangelista, Testis I & II, Pontifex Und wiewohl viel falsche Zeugen herzutraten",
+      "trackId": "4N3sK3rZCENxX0nBGUDUtU",
+      "preview": "https://p.scdn.co/mp3-preview/d295e51467fe1d8dee782698e0e92249cd288f0f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a51ee5c2c111153198f8029114b34a7ecab7e687",
+      "release_date": "2013-10-07"
+    },
+    {
+      "featuredArtist": "Christian Mücke",
+      "featuredArtistId": "2SssNkH2IDhOxtM6moPSD7",
+      "trackName": "Matthäus-Passion: Zweiter Teil, 33. Evangelista, Testis I & II, Pontifex Und wiewohl viel falsche Zeugen herzutraten",
+      "trackId": "4N3sK3rZCENxX0nBGUDUtU",
+      "preview": "https://p.scdn.co/mp3-preview/d295e51467fe1d8dee782698e0e92249cd288f0f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a51ee5c2c111153198f8029114b34a7ecab7e687",
+      "release_date": "2013-10-07"
+    },
+    {
+      "featuredArtist": "Ingolf Horenburg",
+      "featuredArtistId": "4AygIy5sMMClR3Tjb2sLTO",
+      "trackName": "Matthäus-Passion: Zweiter Teil, 33. Evangelista, Testis I & II, Pontifex Und wiewohl viel falsche Zeugen herzutraten",
+      "trackId": "4N3sK3rZCENxX0nBGUDUtU",
+      "preview": "https://p.scdn.co/mp3-preview/d295e51467fe1d8dee782698e0e92249cd288f0f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a51ee5c2c111153198f8029114b34a7ecab7e687",
+      "release_date": "2013-10-07"
+    },
+    {
+      "featuredArtist": "Fabio Trümpy",
+      "featuredArtistId": "37UwXh2bZBUgEuE0CLj1qs",
+      "trackName": "Matthäus-Passion: Zweiter Teil, 34. Recitativo (Tenor) Mein Jesus schweigt zu falschen Lügen stille",
+      "trackId": "3DhjyT9FuIoomUlCg8t8az",
+      "preview": "https://p.scdn.co/mp3-preview/1de6e6835b53017bfb49cb616e9c7fffd3b5a7e0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a51ee5c2c111153198f8029114b34a7ecab7e687",
+      "release_date": "2013-10-07"
+    },
+    {
+      "featuredArtist": "Katharina Hohlfeld",
+      "featuredArtistId": "5kL0JfGFJvzy8lTa5PPcsv",
+      "trackName": "Matthäus-Passion: Zweiter Teil, 38a. Evangelista, Ancilla I & II, Petrus Petrus aber saß draußen im Palast 38b. Chorus II – Evangelista, Petrus Wahrlich, du bist auch einer von denen",
+      "trackId": "1Yo8G9Am71NFFbDLzYXkKR",
+      "preview": "https://p.scdn.co/mp3-preview/1152a1996a16d65b5f67d747902289dd8e0e15a4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a51ee5c2c111153198f8029114b34a7ecab7e687",
+      "release_date": "2013-10-07"
+    },
+    {
+      "featuredArtist": "Ulrike Bartsch",
+      "featuredArtistId": "6rXe7Af2r5w4xzfkCUugem",
+      "trackName": "Matthäus-Passion: Zweiter Teil, 38a. Evangelista, Ancilla I & II, Petrus Petrus aber saß draußen im Palast 38b. Chorus II – Evangelista, Petrus Wahrlich, du bist auch einer von denen",
+      "trackId": "1Yo8G9Am71NFFbDLzYXkKR",
+      "preview": "https://p.scdn.co/mp3-preview/1152a1996a16d65b5f67d747902289dd8e0e15a4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a51ee5c2c111153198f8029114b34a7ecab7e687",
+      "release_date": "2013-10-07"
+    },
+    {
+      "featuredArtist": "Anja Petersen",
+      "featuredArtistId": "22AFqQRToR1rs6K7PwzcJR",
+      "trackName": "Matthäus-Passion: Zweiter Teil, 45a. Evangelista, Pilatus, Uxor Pilati, Chorus I & II Auf das Fest aber hatte der Landpfleger 45b. Chorus I & II Laß ihn kreuzigen!",
+      "trackId": "7iYiFzPHTyjoYSx1ypvFaS",
+      "preview": "https://p.scdn.co/mp3-preview/2009a8ba6e6fb6c84dd982c00c34fbab3eb55300?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a51ee5c2c111153198f8029114b34a7ecab7e687",
+      "release_date": "2013-10-07"
+    },
+    {
+      "featuredArtist": "Christophe Dumaux",
+      "featuredArtistId": "6I9nnJOJlo75zqiUoEOFrG",
+      "trackName": "Septem verba a Christo in cruce moriente prolata: Septem verba a Christo in cruce moriente prolata: Verbum I: Pater, dimitte illis: non enim sciunt qui faciunt (Luke 23:34), Anima (alto) Aria Quod iubes, magne Domine",
+      "trackId": "1RJ1Q2dv7E0snnfqrXvDBt",
+      "preview": "https://p.scdn.co/mp3-preview/adc793e6e6aad8bc13ed920e40fa3e38eb306ca8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e718854cd7a1b9f97f719d692d285d32c253b30c",
+      "release_date": "2013-03-11"
+    },
+    {
+      "featuredArtist": "Julien Behr",
+      "featuredArtistId": "6VxOKsCCZPPeU7Aw8iKVA6",
+      "trackName": "Septem verba a Christo in cruce moriente prolata: Septem verba a Christo in cruce moriente prolata: Verbum II: Amen dico tibi: hodie mecum eris in Paradiso (Luke 25:43), Christus (tenor) Recitativo Venite, currite",
+      "trackId": "4Ob8a7tCSLH8XlAUITpGUj",
+      "preview": "https://p.scdn.co/mp3-preview/9e9aeaf40cd65f72dd128c73df39c4eef114c54c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e718854cd7a1b9f97f719d692d285d32c253b30c",
+      "release_date": "2013-03-11"
+    },
+    {
+      "featuredArtist": "Michael Nagy",
+      "featuredArtistId": "4mTi5G8KQdyDjuPPCiocFJ",
+      "trackName": "La finta giardiniera: Act I, Scena prima No.1 Introduzione Ramiro, Podestà, Sandrina, Nardo, Serpetta: Che lieto giorno",
+      "trackId": "2gMKAnwjVYSJgqdv4eq6vX",
+      "preview": "https://p.scdn.co/mp3-preview/6be30affc5d10e4b54358019f4f324069b0121ed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/42a9c22c729059e504962daa7bf9c7c81451f901",
+      "release_date": "2012-10-09"
+    },
+    {
+      "featuredArtist": "Nicolas Rivenq",
+      "featuredArtistId": "6ZkyOM2b4GOiaVpqbaaBfs",
+      "trackName": "La finta giardiniera: Act I, Scena prima No.1 Introduzione Ramiro, Podestà, Sandrina, Nardo, Serpetta: Che lieto giorno",
+      "trackId": "2gMKAnwjVYSJgqdv4eq6vX",
+      "preview": "https://p.scdn.co/mp3-preview/6be30affc5d10e4b54358019f4f324069b0121ed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/42a9c22c729059e504962daa7bf9c7c81451f901",
+      "release_date": "2012-10-09"
+    },
+    {
+      "featuredArtist": "Alex Penda",
+      "featuredArtistId": "31V51B9HYR7GJVPlRD5omZ",
+      "trackName": "La finta giardiniera: Act I, Scena sesta Recitativo Podestà, Arminda, Serpetta: Mia cara nipotina",
+      "trackId": "5U4YpntBFPyrdfe1flILRV",
+      "preview": "https://p.scdn.co/mp3-preview/3435fc31ec5100eed2aad548fd19019c66f6b715?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/42a9c22c729059e504962daa7bf9c7c81451f901",
+      "release_date": "2012-10-09"
+    },
+    {
+      "featuredArtist": "Jeremy Ovenden",
+      "featuredArtistId": "00KpNFTUIK4BhwaEvsyykx",
+      "trackName": "La finta giardiniera: Act I, Scena settimaNo.6 Aria Contino: Che beltà, che leggiadria",
+      "trackId": "6INBqVVS5e8vmHxko7FjHL",
+      "preview": "https://p.scdn.co/mp3-preview/291b987d2e3eb4bdd6c452d3dff2a9f900bb21d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/42a9c22c729059e504962daa7bf9c7c81451f901",
+      "release_date": "2012-10-09"
+    },
+    {
+      "featuredArtist": "Alexandrina Pendatchanska",
+      "featuredArtistId": "08i4GJsYZG96VH5CEAE91F",
+      "trackName": "Agrippina: ATTO I, Sc. I: Recitativo Agrippina, Nerone \"Nerone, amato figlio\"",
+      "trackId": "4vTAQ3GWlfpr10LoCsGOua",
+      "preview": "https://p.scdn.co/mp3-preview/08eae26945aadce45218181019eeb0581119bfde?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/192bbb1645d8452f328c41253e8de3b1ce353435",
+      "release_date": "2011-10-04"
+    },
+    {
+      "featuredArtist": "Jennifer Rivera",
+      "featuredArtistId": "3c5BkK7hQAxrE4VTSjlHRy",
+      "trackName": "Agrippina: ATTO I, Sc. I: Recitativo Agrippina, Nerone \"Nerone, amato figlio\"",
+      "trackId": "4vTAQ3GWlfpr10LoCsGOua",
+      "preview": "https://p.scdn.co/mp3-preview/08eae26945aadce45218181019eeb0581119bfde?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/192bbb1645d8452f328c41253e8de3b1ce353435",
+      "release_date": "2011-10-04"
+    },
+    {
+      "featuredArtist": "Neal Davies",
+      "featuredArtistId": "4VRMPNDeWr74fkFciEKRJz",
+      "trackName": "Agrippina: ATTO I, Sc. II - Sc. III: Recitativo Pallante, Agrippina \"A' cenni tuoi sovrani\"",
+      "trackId": "7hZE3UGYXZgbKE6SnMzMHv",
+      "preview": "https://p.scdn.co/mp3-preview/a39bea62186b9c1108375d48cc886d83ca555ffc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/192bbb1645d8452f328c41253e8de3b1ce353435",
+      "release_date": "2011-10-04"
+    },
+    {
+      "featuredArtist": "Dominique Visse",
+      "featuredArtistId": "0DLxgGEXi05HKnCZaQin61",
+      "trackName": "Agrippina: ATTO I, Sc. IV-V: Recitativo Narciso, Agrippina \"Umile alle tue piante\"",
+      "trackId": "7xlKScUbVuoAEnhnH2ztzG",
+      "preview": "https://p.scdn.co/mp3-preview/904666cce692f0853c1d605dbfeb094abcbc92d1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/192bbb1645d8452f328c41253e8de3b1ce353435",
+      "release_date": "2011-10-04"
+    },
+    {
+      "featuredArtist": "Daniel Schmutzhard",
+      "featuredArtistId": "4KrDDnWD0jbQgSUSiZ09jC",
+      "trackName": "Agrippina: ATTO I, Sc. IX: Recit. \"Ma qual di liete trombe\", Sc. X Recit. \"Allegrezza, allegrezza!\" (Lesbo, Pallante, Narciso, Nerone, Agrippina",
+      "trackId": "7f6y78Ln3M5NjoIghgKgXG",
+      "preview": "https://p.scdn.co/mp3-preview/7c4a4117914f862d9278f9437cb8e0c919463b60?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/192bbb1645d8452f328c41253e8de3b1ce353435",
+      "release_date": "2011-10-04"
+    },
+    {
+      "featuredArtist": "Rosemary Joshua",
+      "featuredArtistId": "10VL9MyoDe8MnRmyUIuuec",
+      "trackName": "Sosarme, HWV 30: Act II, Duetto, \"Per le porte del tormento\"",
+      "trackId": "2bCbMTBzX8dhwu9myeVoF9",
+      "preview": "https://p.scdn.co/mp3-preview/56307921f511f6ce44e7c7f4cf4b9d9f5f134466?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9e3c6201da5f50c55f8576f68d474746e496decb",
+      "release_date": "2010-11-16"
+    },
+    {
+      "featuredArtist": "Inga Kalna",
+      "featuredArtistId": "5LYwCFoo6maO2bOT12mIxn",
+      "trackName": "Die Zauberflöte: I. Akt, 1. Auftritt (Tamino, die drei Damen). Nr.1 Introduktion. Tamino: \"Zu Hilfe! Zu Hilfe!\"",
+      "trackId": "0qlnnpnoinkISijKdrfEVL",
+      "preview": "https://p.scdn.co/mp3-preview/3f392dc76e45527f5af1a6a8ae5fe104b58b508e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/579e02342bef2115a227202ff5dcf64107f753c7",
+      "release_date": "2010-10-07"
+    },
+    {
+      "featuredArtist": "Daniel Behle",
+      "featuredArtistId": "5xip0PcPYnJDMPLDjCsVsW",
+      "trackName": "Die Zauberflöte: I. Akt, 1. Auftritt (Tamino, die drei Damen). Nr.1 Introduktion. Tamino: \"Zu Hilfe! Zu Hilfe!\"",
+      "trackId": "0qlnnpnoinkISijKdrfEVL",
+      "preview": "https://p.scdn.co/mp3-preview/3f392dc76e45527f5af1a6a8ae5fe104b58b508e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/579e02342bef2115a227202ff5dcf64107f753c7",
+      "release_date": "2010-10-07"
+    },
+    {
+      "featuredArtist": "Isabelle Druet",
+      "featuredArtistId": "1nmlFZ8KmGd5Op3TIC2OwA",
+      "trackName": "Die Zauberflöte: I. Akt, 1. Auftritt (Tamino, die drei Damen). Nr.1 Introduktion. Tamino: \"Zu Hilfe! Zu Hilfe!\"",
+      "trackId": "0qlnnpnoinkISijKdrfEVL",
+      "preview": "https://p.scdn.co/mp3-preview/3f392dc76e45527f5af1a6a8ae5fe104b58b508e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/579e02342bef2115a227202ff5dcf64107f753c7",
+      "release_date": "2010-10-07"
+    },
+    {
+      "featuredArtist": "Anna Grevelius",
+      "featuredArtistId": "0D77qhUfGHkeZbUXxLY6js",
+      "trackName": "Die Zauberflöte: I. Akt, 1. Auftritt (Tamino, die drei Damen). Nr.1 Introduktion. Tamino: \"Zu Hilfe! Zu Hilfe!\"",
+      "trackId": "0qlnnpnoinkISijKdrfEVL",
+      "preview": "https://p.scdn.co/mp3-preview/3f392dc76e45527f5af1a6a8ae5fe104b58b508e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/579e02342bef2115a227202ff5dcf64107f753c7",
+      "release_date": "2010-10-07"
+    },
+    {
+      "featuredArtist": "Anna-Kristiina Kaappola",
+      "featuredArtistId": "5BZkq2HqjVIGcck4gkqcHX",
+      "trackName": "Die Zauberflöte: I. Akt, 6. Auftritt (Königin). Nr.4 Rezitativ und Arie Königin: \"O zittre nicht\" - 7. Auftritt (Tamino, Papageno). Tamino: \"Ist's denn auch Wirklichkeit\"",
+      "trackId": "4StW7SPeTXkujjQIfTbPbC",
+      "preview": "https://p.scdn.co/mp3-preview/75f872c849e02f6daa8f74ac0a47c431f4751349?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/579e02342bef2115a227202ff5dcf64107f753c7",
+      "release_date": "2010-10-07"
+    },
+    {
+      "featuredArtist": "Christian Koch",
+      "featuredArtistId": "5SipsiM5tqdM9KZdq7mbDR",
+      "trackName": "Die Zauberflöte: I. Akt, 9. Auftritt (Drei Sklaven). Dritter Sklave: \"Ha, ha, ha!\" - 10. Auftritt (Drei Sklaven, Monostatos). Monostatos: \"He Sklaven!\"",
+      "trackId": "1dnb7YtLckQBvn9mtf9K1Z",
+      "preview": "https://p.scdn.co/mp3-preview/753ad71722025b70026428add825632d7dd78906?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/579e02342bef2115a227202ff5dcf64107f753c7",
+      "release_date": "2010-10-07"
+    },
+    {
+      "featuredArtist": "Clemens-Maria Nuszbaumer",
+      "featuredArtistId": "5fTN9yn8Mg3yxI15YENAov",
+      "trackName": "Die Zauberflöte: I. Akt, 9. Auftritt (Drei Sklaven). Dritter Sklave: \"Ha, ha, ha!\" - 10. Auftritt (Drei Sklaven, Monostatos). Monostatos: \"He Sklaven!\"",
+      "trackId": "1dnb7YtLckQBvn9mtf9K1Z",
+      "preview": "https://p.scdn.co/mp3-preview/753ad71722025b70026428add825632d7dd78906?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/579e02342bef2115a227202ff5dcf64107f753c7",
+      "release_date": "2010-10-07"
+    },
+    {
+      "featuredArtist": "Kurt Azesberger",
+      "featuredArtistId": "1iZ2htfRJeijJ7BWH9b9pa",
+      "trackName": "Die Zauberflöte: I. Akt, 9. Auftritt (Drei Sklaven). Dritter Sklave: \"Ha, ha, ha!\" - 10. Auftritt (Drei Sklaven, Monostatos). Monostatos: \"He Sklaven!\"",
+      "trackId": "1dnb7YtLckQBvn9mtf9K1Z",
+      "preview": "https://p.scdn.co/mp3-preview/753ad71722025b70026428add825632d7dd78906?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/579e02342bef2115a227202ff5dcf64107f753c7",
+      "release_date": "2010-10-07"
+    },
+    {
+      "featuredArtist": "René Möller",
+      "featuredArtistId": "5WEvkcPjKobd9tVlnZjqwy",
+      "trackName": "Die Zauberflöte: I. Akt, 9. Auftritt (Drei Sklaven). Dritter Sklave: \"Ha, ha, ha!\" - 10. Auftritt (Drei Sklaven, Monostatos). Monostatos: \"He Sklaven!\"",
+      "trackId": "1dnb7YtLckQBvn9mtf9K1Z",
+      "preview": "https://p.scdn.co/mp3-preview/753ad71722025b70026428add825632d7dd78906?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/579e02342bef2115a227202ff5dcf64107f753c7",
+      "release_date": "2010-10-07"
+    },
+    {
+      "featuredArtist": "Marlis Petersen",
+      "featuredArtistId": "0zSPgQObWEpsiq1EcvleX9",
+      "trackName": "Die Zauberflöte: I. Akt, 11. Auftritt (Monostatos, Pamina). Nr.6 Terzett Monostatos: \"Du feines Täubchen, nur herein\" - 12. Auftritt (Papageno, Monostatos). Papageno: \"Wo bin ich wohl?\"",
+      "trackId": "28K0STefAayFYZClMzUBoh",
+      "preview": "https://p.scdn.co/mp3-preview/3dbf1c0259f7eb2b001d06d1074a484dfcdf564b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/579e02342bef2115a227202ff5dcf64107f753c7",
+      "release_date": "2010-10-07"
+    },
+    {
+      "featuredArtist": "Alois Mühlbacher",
+      "featuredArtistId": "0TqfAu5ImdBkleLdZqcBda",
+      "trackName": "Die Zauberflöte, K.620: 15. Auftritt. Drei Knaben : \"Zum Ziele führt dich diese Bahn\" (Drei Knaben, Tamino)",
+      "trackId": "0WDjJJU5pj9TusCjjDr1I7",
+      "preview": "https://p.scdn.co/mp3-preview/7806392601781d70b1725c3b57fec7d110f6006e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/579e02342bef2115a227202ff5dcf64107f753c7",
+      "release_date": "2010-10-07"
+    },
+    {
+      "featuredArtist": "Christoph Schlögl",
+      "featuredArtistId": "5o20xgeyiL21ipBDIAAB9j",
+      "trackName": "Die Zauberflöte, K.620: 15. Auftritt. Drei Knaben : \"Zum Ziele führt dich diese Bahn\" (Drei Knaben, Tamino)",
+      "trackId": "0WDjJJU5pj9TusCjjDr1I7",
+      "preview": "https://p.scdn.co/mp3-preview/7806392601781d70b1725c3b57fec7d110f6006e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/579e02342bef2115a227202ff5dcf64107f753c7",
+      "release_date": "2010-10-07"
+    },
+    {
+      "featuredArtist": "Philipp Pötzlberger",
+      "featuredArtistId": "6bM535plIBA1NtM9k144Ln",
+      "trackName": "Die Zauberflöte, K.620: 15. Auftritt. Drei Knaben : \"Zum Ziele führt dich diese Bahn\" (Drei Knaben, Tamino)",
+      "trackId": "0WDjJJU5pj9TusCjjDr1I7",
+      "preview": "https://p.scdn.co/mp3-preview/7806392601781d70b1725c3b57fec7d110f6006e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/579e02342bef2115a227202ff5dcf64107f753c7",
+      "release_date": "2010-10-07"
+    },
+    {
+      "featuredArtist": "Joachim Buhrmann",
+      "featuredArtistId": "11sK0G7MSNJQTocBsho8Mh",
+      "trackName": "Die Zauberflöte: I. Akt, 15. Auftritt (Tamino, Priester). Tamino: \"Die Weisheitslehre dieser Knaben\"",
+      "trackId": "3PxThWkuNomfusYgHJOmCD",
+      "preview": "https://p.scdn.co/mp3-preview/bcbff9f0e6fe6dba15ebed91e210e616813d3cf7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/579e02342bef2115a227202ff5dcf64107f753c7",
+      "release_date": "2010-10-07"
+    },
+    {
+      "featuredArtist": "Magnus Staveland",
+      "featuredArtistId": "4m43hFGzSVZESHxWUGJ3w5",
+      "trackName": "Die Zauberflöte: II. Akt, 28. Auftritt (Zwei Männer, Tamino). Zwei geharnischte Männer: \"Der, welcher wandert dieser Straße\"",
+      "trackId": "1XFw0zvun21DooxfNoZpPe",
+      "preview": "https://p.scdn.co/mp3-preview/0eb6251400b49cc0676b5e3ec906a5d369d80181?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/579e02342bef2115a227202ff5dcf64107f753c7",
+      "release_date": "2010-10-07"
+    },
+    {
+      "featuredArtist": "Raphael Alpermann",
+      "featuredArtistId": "23Z0TsB54gPf1Zo2KLeak9",
+      "trackName": "An den Schlaf",
+      "trackId": "3l3Y7o8qp4lkDDqq6Q4ykR",
+      "preview": "https://p.scdn.co/mp3-preview/cb594beee2230929df4e2434506031ae3f0f829a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ac69035c6a89b4a6d001694653e848946c68d75",
+      "release_date": "2010-08-01"
+    },
+    {
+      "featuredArtist": "Franz Joseph Haydn",
+      "featuredArtistId": "656RXuyw7CE0dtjdPgjJV6",
+      "trackName": "The Creation: I. Teil. 1. Einleitung. Die Vorstellung des Chaos",
+      "trackId": "4Qk6Kj4ps56BfJfyl7Zpb9",
+      "preview": "https://p.scdn.co/mp3-preview/f4f775f710133aff2abb8919b89618d9ce5abb56?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aed2a6d57a6fcecc05910c2d4b55b07d5c77200c",
+      "release_date": "2009-10-06"
+    },
+    {
+      "featuredArtist": "Julia Kleiter",
+      "featuredArtistId": "3F8HwJqn24SGQOsKFmGr7q",
+      "trackName": "The Creation: I. Teil. 4. Chor mit Sopransolo \"Mit Staunen sieht das Wunderwerk\"",
+      "trackId": "2Z04IB1Kc9jqqBZJBTO1C5",
+      "preview": "https://p.scdn.co/mp3-preview/9c6b2a288de962ed5bc12d620b7d23df29121184?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aed2a6d57a6fcecc05910c2d4b55b07d5c77200c",
+      "release_date": "2009-10-06"
+    },
+    {
+      "featuredArtist": "Kenneth Tarver",
+      "featuredArtistId": "6pXRaBKVjCe71VJWArEH06",
+      "trackName": "Idomeneo: Atto I, sc.4. Recitativo Elettra, Idamante \"Prence, signor\" - Sc.5. Recitativo Idamante, Arbace, Ilia \"Ma quel pianto che annunzia?\"",
+      "trackId": "7sSuWBYwds6LmAbxm28xyJ",
+      "preview": "https://p.scdn.co/mp3-preview/2508b4f943e342ccb2f1938f88180ca0a6f3bca6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/79729a04655c530a7e67f2c288cd6fe7ae3d652e",
+      "release_date": "2009-05-22"
+    },
+    {
+      "featuredArtist": "Richard Croft",
+      "featuredArtistId": "4H6iJCK96N7uzGmUAOfyjQ",
+      "trackName": "Idomeneo: Atto I, sc.8. Pantomima - Recitativo Idomeneo \"Eccoci salvi alfin\"",
+      "trackId": "187UnVU1GpBALk3Wxwgvlu",
+      "preview": "https://p.scdn.co/mp3-preview/3edec1479961506781dfd25cf413f8df97b6c7cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/79729a04655c530a7e67f2c288cd6fe7ae3d652e",
+      "release_date": "2009-05-22"
+    }
+  ]
+}

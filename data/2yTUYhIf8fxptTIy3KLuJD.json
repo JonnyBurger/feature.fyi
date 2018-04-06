@@ -1,0 +1,23 @@
+{
+  "artistName": "Mike & The Mechanics",
+  "features": [
+    {
+      "featuredArtist": "Paul Carrack",
+      "featuredArtistId": "0FFuvdY7fuiuTmHN9unYoz",
+      "trackName": "One Left Standing",
+      "trackId": "6TUwUyWQb2dL2PLzUSscb8",
+      "preview": "https://p.scdn.co/mp3-preview/c39fea8c9b16045a2f5f08fca0564e2548ad4808?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4294afebd5e739ad652da6ae45213e74f4ca4c66",
+      "release_date": "2005-09-13"
+    },
+    {
+      "featuredArtist": "Nick Davis",
+      "featuredArtistId": "5JUC7vnzfwcXaJNcd8fGfj",
+      "trackName": "A Beggar On A Beach Of Gold",
+      "trackId": "5udxyLGKETD8LLLDpUmN1c",
+      "preview": "https://p.scdn.co/mp3-preview/c2ddbe65e3fb33d7844b8aaf1d0fe63c56d24074?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/62c1569f93c72b22cedd2b4e100b4c29a5d84c6c",
+      "release_date": "1995-03-06"
+    }
+  ]
+}

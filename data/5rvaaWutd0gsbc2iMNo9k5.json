@@ -1,0 +1,23 @@
+{
+  "artistName": "Raulin Rodriguez",
+  "features": [
+    {
+      "featuredArtist": "Frank Reyes",
+      "featuredArtistId": "4vQV1LCGBdYAt5rIIPjSFZ",
+      "trackName": "Tu Eres Ajena",
+      "trackId": "1GBKvVAZ4GJs30UbEhuLpI",
+      "preview": "https://p.scdn.co/mp3-preview/eb98c58c83d4afbebc3d5d6ecdd293b8e269ce8d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/203f5ea249e4b6127cac30da4d7210d2a83d9711",
+      "release_date": "2017-03-21"
+    },
+    {
+      "featuredArtist": "Nathalie Peña-Comas",
+      "featuredArtistId": "3lDJkwtZmncXJuv2BUpB80",
+      "trackName": "Esta Noche - Bachata Lirica",
+      "trackId": "6lJgxgikzw8MpHEP3r7Dtu",
+      "preview": "https://p.scdn.co/mp3-preview/b1ddb44a35f15d1879c52a9f84bab017abf9ec10?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9253390aceee162e8adf1afec922c1cdb4fcc8f9",
+      "release_date": "2015-07-17"
+    }
+  ]
+}

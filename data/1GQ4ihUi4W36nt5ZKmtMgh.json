@@ -1,0 +1,869 @@
+{
+  "artistName": "DJ Kayz",
+  "features": [
+    {
+      "featuredArtist": "Moustapha Bilahoudoud",
+      "featuredArtistId": "5HDhacEFzAV7xGeixL8PwE",
+      "trackName": "Alaoui jam",
+      "trackId": "4xlyEywL1dcnPfm1Vd7AqJ",
+      "preview": "https://p.scdn.co/mp3-preview/8db4b37dbeb7e29826c8b7889b6fa697b9bb9c1f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d69210c125945439bcfa5961c724cdd9b59d2eb4",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Kader Japonais",
+      "featuredArtistId": "3e3cKwH1kUr02bvIm7VaIe",
+      "trackName": "Rai se tu pego",
+      "trackId": "2FSXn2g573NvYomort5ddY",
+      "preview": "https://p.scdn.co/mp3-preview/c9181b07fbd250ae509b9919f3f3037fa70470b6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c4267e91df5037ff884a25e1771d156aa4157a12",
+      "release_date": "2017-09-27"
+    },
+    {
+      "featuredArtist": "Les Deguns",
+      "featuredArtistId": "0rFynMgO3ML9I0aR9VvvxB",
+      "trackName": "Intro (feat. Les Deguns)",
+      "trackId": "0s6PLHFkVvJEQi9NCyH5C6",
+      "preview": "https://p.scdn.co/mp3-preview/f75c360fe33aa674dddc9ee6eefd3c24f66fbeba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29b97271298c75b55d7ead3f03d40ef5d4ef5aa3",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Dada's",
+      "featuredArtistId": "5UU2RG5vfdkyCvupY1a4Fb",
+      "trackName": "Afrikan Family (feat. Franko & Dada's)",
+      "trackId": "2Eb6HAdJpwn2qgYoEOWgqb",
+      "preview": "https://p.scdn.co/mp3-preview/49a08b2b6134502a5feb974aeffa1c7392e565ba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29b97271298c75b55d7ead3f03d40ef5d4ef5aa3",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Franko",
+      "featuredArtistId": "53N442cKc5lNYCauf5jHD4",
+      "trackName": "Afrikan Family (feat. Franko & Dada's)",
+      "trackId": "2Eb6HAdJpwn2qgYoEOWgqb",
+      "preview": "https://p.scdn.co/mp3-preview/49a08b2b6134502a5feb974aeffa1c7392e565ba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29b97271298c75b55d7ead3f03d40ef5d4ef5aa3",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Alrima",
+      "featuredArtistId": "2XyVj5qsjy87RPXk1O5if3",
+      "trackName": "Elle fait la folle (feat. Alrima)",
+      "trackId": "2rIbJ44jOUP2OaeSgNG93t",
+      "preview": "https://p.scdn.co/mp3-preview/545ffb123c63174454f6ac45d7dc93f99670ebbe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29b97271298c75b55d7ead3f03d40ef5d4ef5aa3",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Hooss",
+      "featuredArtistId": "3p4FNslxuuEYSEnMsx4YI1",
+      "trackName": "St Trop' (feat. Hooss)",
+      "trackId": "3TtivbkQMwaKFzVjEnZKrO",
+      "preview": "https://p.scdn.co/mp3-preview/1c0302f744ef2736e937c8de122d71d78cda239f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29b97271298c75b55d7ead3f03d40ef5d4ef5aa3",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Kayna Samet",
+      "featuredArtistId": "3qLpAs6VLppZrKlI0CXK6k",
+      "trackName": "La plus belle (feat. Kayna Samet)",
+      "trackId": "01OrXsagO2VYtznb0eHJbN",
+      "preview": "https://p.scdn.co/mp3-preview/1d86a3736a102faaf90744125647f7f01e0c4fa8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29b97271298c75b55d7ead3f03d40ef5d4ef5aa3",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "MRC",
+      "featuredArtistId": "4m90Zo0X5ACTTk27IZ9eMY",
+      "trackName": "Mais t'es hein (feat. MRC)",
+      "trackId": "2Zy1MEoKZhj1orjtKWPq1M",
+      "preview": "https://p.scdn.co/mp3-preview/1f3006bf3b76d41797ede8ba8b1defc529527293?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29b97271298c75b55d7ead3f03d40ef5d4ef5aa3",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Scridge",
+      "featuredArtistId": "6fYEeLBc96CguiLq9FPBQU",
+      "trackName": "Amsterdam (feat. Scridge)",
+      "trackId": "1UMz3BXUPyxwGqCQBW8ZWK",
+      "preview": "https://p.scdn.co/mp3-preview/10536d009bf6ca9a41601b87a586867039d8f88a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29b97271298c75b55d7ead3f03d40ef5d4ef5aa3",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Souf",
+      "featuredArtistId": "2tsnxjntsRI6iFL9ZeC0ec",
+      "trackName": "Ma Bella (feat. Souf)",
+      "trackId": "0OtWcQu0wcFietviyKNQaj",
+      "preview": "https://p.scdn.co/mp3-preview/3d7f495807bfdf08697a91e3e339cb3592c36df5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29b97271298c75b55d7ead3f03d40ef5d4ef5aa3",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Gradur",
+      "featuredArtistId": "2tcoLkA9Hexz70Kuc1NTUl",
+      "trackName": "Coller serrer (feat. Gradur)",
+      "trackId": "22jg3DK0sI59QfgcV5d8b3",
+      "preview": "https://p.scdn.co/mp3-preview/f919a0eac12cfaeba76fecaf9521a7b8197d9874?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29b97271298c75b55d7ead3f03d40ef5d4ef5aa3",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Stony",
+      "featuredArtistId": "1gfXNiyfLEKouLvNPmrvLk",
+      "trackName": "Laisse moi t'expliquer (feat. Stony)",
+      "trackId": "0uuCC5nkTtnW5UE8sPb1C4",
+      "preview": "https://p.scdn.co/mp3-preview/7ea7e5d7b60168b0b12363bf7a54969a0ee39211?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29b97271298c75b55d7ead3f03d40ef5d4ef5aa3",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "KeBlack",
+      "featuredArtistId": "7x3eTVPlBiPjXHn3qotY86",
+      "trackName": "Com'dab (feat. Keblack & Naza)",
+      "trackId": "3fezeF3AYeKY5yuO846Yyf",
+      "preview": "https://p.scdn.co/mp3-preview/5fdc2a2895b5ee88a40302a4664e759ba0998eae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29b97271298c75b55d7ead3f03d40ef5d4ef5aa3",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Naza",
+      "featuredArtistId": "7xNYY1Zkb1vks5m9ATlJok",
+      "trackName": "Com'dab (feat. Keblack & Naza)",
+      "trackId": "3fezeF3AYeKY5yuO846Yyf",
+      "preview": "https://p.scdn.co/mp3-preview/5fdc2a2895b5ee88a40302a4664e759ba0998eae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29b97271298c75b55d7ead3f03d40ef5d4ef5aa3",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Arafat",
+      "featuredArtistId": "6hYIJDfrZLsUVN8zv36HKU",
+      "trackName": "Dans le club (feat. Kaaris & Arafat)",
+      "trackId": "2Nhw3xUVb0kmGBTTeMXk0W",
+      "preview": "https://p.scdn.co/mp3-preview/5b8a129920525da8c8d8cff1829dbf92681324af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29b97271298c75b55d7ead3f03d40ef5d4ef5aa3",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Kaaris",
+      "featuredArtistId": "1ntQKIMIgESKpKoNXVBvQg",
+      "trackName": "Dans le club (feat. Kaaris & Arafat)",
+      "trackId": "2Nhw3xUVb0kmGBTTeMXk0W",
+      "preview": "https://p.scdn.co/mp3-preview/5b8a129920525da8c8d8cff1829dbf92681324af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29b97271298c75b55d7ead3f03d40ef5d4ef5aa3",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Bilel",
+      "featuredArtistId": "76xhXA0WSzUzUzwMYkGhEW",
+      "trackName": "Sors moi tes loves (feat. Bilel)",
+      "trackId": "2BrDTNptrLCsXJMCobgpVk",
+      "preview": "https://p.scdn.co/mp3-preview/1d863d63e44d50a6cf836396289bb013c4cdca04?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29b97271298c75b55d7ead3f03d40ef5d4ef5aa3",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Izno",
+      "featuredArtistId": "0zjVHZOaESEUqTgNhAlWBD",
+      "trackName": "Vriee (feat. Izno)",
+      "trackId": "4594AHr1sCAfSjmS7b61h1",
+      "preview": "https://p.scdn.co/mp3-preview/02c0d2e7600710097d231a036f9c69a701455e67?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29b97271298c75b55d7ead3f03d40ef5d4ef5aa3",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Mister You",
+      "featuredArtistId": "74YbW6s8CZdaYLxJU9HeS7",
+      "trackName": "Dame de coeur (feat. Mister You)",
+      "trackId": "1hccAlNUbRQex5EtfSNM2A",
+      "preview": "https://p.scdn.co/mp3-preview/8fc62a0f74328798c904dc1a781224f2cef64dab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29b97271298c75b55d7ead3f03d40ef5d4ef5aa3",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Farid",
+      "featuredArtistId": "6hcm0x8MMc4txLimxz3PeK",
+      "trackName": "Intro : départ au bled (feat. Farid & Oussama)",
+      "trackId": "6VxmcbUEeYCsOt1cd4MiEC",
+      "preview": "https://p.scdn.co/mp3-preview/14b4be2dcdba37cc2cb7b5352acae526876b6de5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Oussama",
+      "featuredArtistId": "4mNnh63oeF3nFpBJLwDUbt",
+      "trackName": "Intro : départ au bled (feat. Farid & Oussama)",
+      "trackId": "6VxmcbUEeYCsOt1cd4MiEC",
+      "preview": "https://p.scdn.co/mp3-preview/14b4be2dcdba37cc2cb7b5352acae526876b6de5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Dieselle",
+      "featuredArtistId": "6WUoSwixzrM4xfmkHvyUpk",
+      "trackName": "La famille (feat. Lartiste, Dieselle & Volts Face)",
+      "trackId": "1tTSwBxBAPrELlhpguOvuv",
+      "preview": "https://p.scdn.co/mp3-preview/ee5b8e4f8f1ef91be458e74e3f2f64bd44c001c7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Lartiste",
+      "featuredArtistId": "6HhnhnxLsowYuuejvku0Bz",
+      "trackName": "La famille (feat. Lartiste, Dieselle & Volts Face)",
+      "trackId": "1tTSwBxBAPrELlhpguOvuv",
+      "preview": "https://p.scdn.co/mp3-preview/ee5b8e4f8f1ef91be458e74e3f2f64bd44c001c7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Volts Face",
+      "featuredArtistId": "4EfDnNKz2dl0KND2oQB3Cc",
+      "trackName": "La famille (feat. Lartiste, Dieselle & Volts Face)",
+      "trackId": "1tTSwBxBAPrELlhpguOvuv",
+      "preview": "https://p.scdn.co/mp3-preview/ee5b8e4f8f1ef91be458e74e3f2f64bd44c001c7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Dry",
+      "featuredArtistId": "5h0VUGq3Pn45E3rcz9oe66",
+      "trackName": "Soirée (feat. Dieselle, Mokobé & Dry) [Version 2015]",
+      "trackId": "5JqFrnZHsRy4MDNU3LkiXh",
+      "preview": "https://p.scdn.co/mp3-preview/097242d8f8f5a75fc5173fe79b0683aa0a5bb579?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Mokobé",
+      "featuredArtistId": "6B535quc1yWnDhnBMCvosY",
+      "trackName": "Soirée (feat. Dieselle, Mokobé & Dry) [Version 2015]",
+      "trackId": "5JqFrnZHsRy4MDNU3LkiXh",
+      "preview": "https://p.scdn.co/mp3-preview/097242d8f8f5a75fc5173fe79b0683aa0a5bb579?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Fransisco",
+      "featuredArtistId": "7nc9nygj2j0PeSsgR6GaBe",
+      "trackName": "Marseille Oran New York (feat. Naps & Fransisco)",
+      "trackId": "7D0n2Do0aR39wKDpb7jyqS",
+      "preview": "https://p.scdn.co/mp3-preview/e55853347d28ac5e51201ad13b6db63767cc3dda?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Naps",
+      "featuredArtistId": "6W5uA6CNMf3hd2j4a2XWCx",
+      "trackName": "Marseille Oran New York (feat. Naps & Fransisco)",
+      "trackId": "7D0n2Do0aR39wKDpb7jyqS",
+      "preview": "https://p.scdn.co/mp3-preview/e55853347d28ac5e51201ad13b6db63767cc3dda?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Ahmed Chawki",
+      "featuredArtistId": "1yAKym78d3PWeMgGA6rddv",
+      "trackName": "Il faut avancer (feat. Dada's, Ahmed Chawki & Lartiste)",
+      "trackId": "2EkTTPsU3VBy3FhrE6kk7x",
+      "preview": "https://p.scdn.co/mp3-preview/da386c80fc8a4243f7ad74ea9ce89d6428055ec3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Dadaş",
+      "featuredArtistId": "2TTFPTVBguTPNUHErBSpHq",
+      "trackName": "Il faut avancer (feat. Dada's, Ahmed Chawki & Lartiste)",
+      "trackId": "2EkTTPsU3VBy3FhrE6kk7x",
+      "preview": "https://p.scdn.co/mp3-preview/da386c80fc8a4243f7ad74ea9ce89d6428055ec3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Dahk'man",
+      "featuredArtistId": "20mjU4jzUBypymX8jyiCQg",
+      "trackName": "Mariage dérangé (feat. Farid & Oussama, Souf, Dahk'man) [Miqueline]",
+      "trackId": "1KlY55VxSyysl1QNeGTb7s",
+      "preview": "https://p.scdn.co/mp3-preview/4b64792d5d76908d81500c6110f892b5a3c81fae?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Dr Zeus",
+      "featuredArtistId": "1zrFFDzoE9XXyjEqqgDpMm",
+      "trackName": "Jugni Ji (feat. Mister You, Dr Zeus & Sophia Akkara)",
+      "trackId": "3SorD5xUnoqZrpR8QfNDfA",
+      "preview": "https://p.scdn.co/mp3-preview/de48d1a2c3d7a83673e745e491fce476c98598f4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Sophia Akkara",
+      "featuredArtistId": "2p1UmFKf5iXzTqQuf3UI7X",
+      "trackName": "Jugni Ji (feat. Mister You, Dr Zeus & Sophia Akkara)",
+      "trackId": "3SorD5xUnoqZrpR8QfNDfA",
+      "preview": "https://p.scdn.co/mp3-preview/de48d1a2c3d7a83673e745e491fce476c98598f4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Cheb Nadir",
+      "featuredArtistId": "03OX3nJrK7FTGCn3qpZ89x",
+      "trackName": "Mabrouk Ahlik (feat. Fianso & Cheb Nadir)",
+      "trackId": "77QDWG0fYO9iaEpPrOHWjH",
+      "preview": "https://p.scdn.co/mp3-preview/8696defe5892d2f93a9b5be9edfb6f9a9ba2df32?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Fianso",
+      "featuredArtistId": "5mtaU1uKbVJpkeaBWK8JfQ",
+      "trackName": "Mabrouk Ahlik (feat. Fianso & Cheb Nadir)",
+      "trackId": "77QDWG0fYO9iaEpPrOHWjH",
+      "preview": "https://p.scdn.co/mp3-preview/8696defe5892d2f93a9b5be9edfb6f9a9ba2df32?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Asma Lmnawar",
+      "featuredArtistId": "7aMp0MDPQPpxfl89pcf8RT",
+      "trackName": "Safi (feat. Kenza Farah & Asma Lamnawar)",
+      "trackId": "7eT2iR5Blc1tAN0vnipUbG",
+      "preview": "https://p.scdn.co/mp3-preview/d947560e7b6f3807989439ac2ed38ae3b829fac7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Kenza Farah",
+      "featuredArtistId": "6WBf0WXqyBkCCYAEPUeDxn",
+      "trackName": "Safi (feat. Kenza Farah & Asma Lamnawar)",
+      "trackId": "7eT2iR5Blc1tAN0vnipUbG",
+      "preview": "https://p.scdn.co/mp3-preview/d947560e7b6f3807989439ac2ed38ae3b829fac7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Nordine H-Ali",
+      "featuredArtistId": "4LSWVZ4arIhWtr9sgsEEbB",
+      "trackName": "Wili Wili (feat. Nordine H-Ali)",
+      "trackId": "7p0jBEI2VYoT4bviVGLoky",
+      "preview": "https://p.scdn.co/mp3-preview/3693502d64c2826f25a923f3dac0588036f33e0d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Axel Tony",
+      "featuredArtistId": "4G64n0HC3gXlYvZeeuYYuh",
+      "trackName": "Validé (feat. Ridsa & Axel Tony)",
+      "trackId": "4lF0KZCy32Td6NoSQliidd",
+      "preview": "https://p.scdn.co/mp3-preview/5b920695770b955572f2193cecb15a46cbdfe5ea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "RIDSA",
+      "featuredArtistId": "4TGltjqP0MQxdGeSIrM4es",
+      "trackName": "Validé (feat. Ridsa & Axel Tony)",
+      "trackId": "4lF0KZCy32Td6NoSQliidd",
+      "preview": "https://p.scdn.co/mp3-preview/5b920695770b955572f2193cecb15a46cbdfe5ea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Guizmo",
+      "featuredArtistId": "6sYR8JTRUUUzSD9IydLhfG",
+      "trackName": "Elle va (feat. Guizmo & Roldan Orishas)",
+      "trackId": "3jU9lOGf4rvON7vjl8Q1AU",
+      "preview": "https://p.scdn.co/mp3-preview/c48fa4e6803ef2e1be70b87fa28e00f27660e0a4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Roldan Orishas",
+      "featuredArtistId": "46H8hJRl9Bqrr1jYghxQ8V",
+      "trackName": "Elle va (feat. Guizmo & Roldan Orishas)",
+      "trackId": "3jU9lOGf4rvON7vjl8Q1AU",
+      "preview": "https://p.scdn.co/mp3-preview/c48fa4e6803ef2e1be70b87fa28e00f27660e0a4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Bimbim",
+      "featuredArtistId": "1jVkYEim3l4F8IgNh6undg",
+      "trackName": "Teh les premiers soirs (feat. Mister You & Bimbim)",
+      "trackId": "0vrcvW2BABPDkW3Lg0XamA",
+      "preview": "https://p.scdn.co/mp3-preview/4b88ce147c9c3d49db05e7cdab4406a9a98b5c58?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Harone",
+      "featuredArtistId": "5EcZVMRnhH1Aqqfqc3Q6VN",
+      "trackName": "La route du bled (feat. Kamelancien & Harone)",
+      "trackId": "0foLkQseltcTzzgV4X5ngB",
+      "preview": "https://p.scdn.co/mp3-preview/c27ac6da84d55b3539677f9e7e649894d8707c1e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Kamelancien",
+      "featuredArtistId": "6pS2QdnuxFtcbLxQqe8DN6",
+      "trackName": "La route du bled (feat. Kamelancien & Harone)",
+      "trackId": "0foLkQseltcTzzgV4X5ngB",
+      "preview": "https://p.scdn.co/mp3-preview/c27ac6da84d55b3539677f9e7e649894d8707c1e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Houari Manar",
+      "featuredArtistId": "3ra4NNbJbfJjY1gMculBXc",
+      "trackName": "Heya (feat.Kayline & Houari Manar)",
+      "trackId": "31KDWp3cJj4x37xfIbI1wl",
+      "preview": "https://p.scdn.co/mp3-preview/ea58e6cb562c01c9d4361774a1be63d129b6019a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Kayline",
+      "featuredArtistId": "2eyR0gTqLX839N8Y83KC3t",
+      "trackName": "Heya (feat.Kayline & Houari Manar)",
+      "trackId": "31KDWp3cJj4x37xfIbI1wl",
+      "preview": "https://p.scdn.co/mp3-preview/ea58e6cb562c01c9d4361774a1be63d129b6019a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Niro",
+      "featuredArtistId": "1wAtSe79kItIb9nf5EhI2Q",
+      "trackName": "Laisse parler (feat. Niro)",
+      "trackId": "7oyAzq5B0nXzrYCoIN6lOD",
+      "preview": "https://p.scdn.co/mp3-preview/9c056c356a5590b8c1e1ecc74a718b78277e0b1e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Zifou",
+      "featuredArtistId": "1RVc7voN6vj77NQ7OvKEXp",
+      "trackName": "Dans mon délire (feat. Zifou)",
+      "trackId": "4RhP5xWppjJdzGmCzMKw9A",
+      "preview": "https://p.scdn.co/mp3-preview/516faf6a5983852e0bcbcfa8cbda41b97c37f18d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "H Magnum",
+      "featuredArtistId": "63hFhXYW3r2q8uW2Rf3LUw",
+      "trackName": "Que la Night (feat. H-Magnum)",
+      "trackId": "1q3iLKghfd3P3g3fLTQWqR",
+      "preview": "https://p.scdn.co/mp3-preview/aab0a20bbbfce7b8ef7865495123bd0df472911c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Hayce Lemsi",
+      "featuredArtistId": "3gz8sBWqcMQ0qsrZIoVphx",
+      "trackName": "Carré VIP (feat. Hayce Lemsi)",
+      "trackId": "4Fo3MTEeNa4SFJRbV7USIU",
+      "preview": "https://p.scdn.co/mp3-preview/04c21a23e285af53e42c9b9fea252de69389bc94?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Clayton Hamilton",
+      "featuredArtistId": "4JsnOkLxIyiEFGhApQyHzj",
+      "trackName": "Où est ma bella (feat. Clayton Hamilton & Alrima)",
+      "trackId": "4C0oh2C7z3Wp0NPI5bMQFG",
+      "preview": "https://p.scdn.co/mp3-preview/3516ffe376c6b7c1393b992c62ce4094b66c70ea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Aymane Serhani",
+      "featuredArtistId": "2EAzv92ciNtTm5DkGSYXH2",
+      "trackName": "A Toz (feat. Farid & Oussama, Aymane Serhani)",
+      "trackId": "4jNgbhUObOmVMPYj7hjWIt",
+      "preview": "https://p.scdn.co/mp3-preview/12a914168dc7d3ebd0329815bd4e83e2fe0a9f17?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "P-Square",
+      "featuredArtistId": "42IUN9kTPdUdI1kre6L7Wk",
+      "trackName": "Getting Down (feat. Mokobé & P-Square)",
+      "trackId": "0kh82s1YCNDlYUvnQ9H0mq",
+      "preview": "https://p.scdn.co/mp3-preview/33e833a113bcbf16f8321007edc8aca3bc751084?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Hocine",
+      "featuredArtistId": "0gq9cTMo10ja5ImZ5Dm5d9",
+      "trackName": "Paris Oran Casa (feat. Hocine, LK & Harone)",
+      "trackId": "6g8jI4n8tIJcdnt0wjSeXx",
+      "preview": "https://p.scdn.co/mp3-preview/a60ccc95b5432d0da317a95861b0e33b350cc2e3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "LK",
+      "featuredArtistId": "0mFx031364dlAxvLgcL0Si",
+      "trackName": "Paris Oran Casa (feat. Hocine, LK & Harone)",
+      "trackId": "6g8jI4n8tIJcdnt0wjSeXx",
+      "preview": "https://p.scdn.co/mp3-preview/a60ccc95b5432d0da317a95861b0e33b350cc2e3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "NAYRA",
+      "featuredArtistId": "1hNiaDCXQvVRhVSJHsaDmZ",
+      "trackName": "Lila Hadi (feat. Nayra & Harone)",
+      "trackId": "6EMBIRcFi2KwyZznU0qVfu",
+      "preview": "https://p.scdn.co/mp3-preview/a91e206204968681d63a98e8448eeba52df448f3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "XVBarbar",
+      "featuredArtistId": "0NLiJ9H2XkVIoXJXnbT4aj",
+      "trackName": "L'oseille (feat. XV Barbar)",
+      "trackId": "2ZmuZesBrdXCIEwDlcqbC9",
+      "preview": "https://p.scdn.co/mp3-preview/eade02f22631b7a88fa334d44c62cc4131b71b58?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Al Bandit",
+      "featuredArtistId": "57nKUM3tNdlefCmF8AdWsD",
+      "trackName": "Funki Bledi (feat. Al Bandit & Mohamed Benchenet)",
+      "trackId": "5ev7t8qBWmVfGZnhamrRym",
+      "preview": "https://p.scdn.co/mp3-preview/29d763e998a833525b0157f34635b0c2b18c5e57?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Mohamed Benchenet",
+      "featuredArtistId": "1SXvU32qAqhAniQTUhJJdS",
+      "trackName": "Funki Bledi (feat. Al Bandit & Mohamed Benchenet)",
+      "trackId": "5ev7t8qBWmVfGZnhamrRym",
+      "preview": "https://p.scdn.co/mp3-preview/29d763e998a833525b0157f34635b0c2b18c5e57?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Disiz La Peste",
+      "featuredArtistId": "7rz6ZZErn5YFDteXKhyf3g",
+      "trackName": "Elle aime pas la funk (feat. Disiz)",
+      "trackId": "3oMHagZvP0E4hcRHll24RT",
+      "preview": "https://p.scdn.co/mp3-preview/746b525a807c8e45a3862e34fb014235a27890f3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Jarod",
+      "featuredArtistId": "5EHFGV0DMEet7QHdx0M1D6",
+      "trackName": "Week End (feat. Jarod & Dieselle)",
+      "trackId": "7sCW4bsH9LHZwq764dn8JT",
+      "preview": "https://p.scdn.co/mp3-preview/0497de8dfd2760f540b31077d565e87cf76b86b6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "OR",
+      "featuredArtistId": "42ldsF5URtgNRm2gBOZn2K",
+      "trackName": "Mima (feat. O.R)",
+      "trackId": "3N13B74F4xqo8OZGYlaf65",
+      "preview": "https://p.scdn.co/mp3-preview/b2f917364b952ff3d5569a36e3782034d7110929?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7e2215129a0dabe5b96b40a1213663310b30695",
+      "release_date": "2015-06-15"
+    },
+    {
+      "featuredArtist": "Camro",
+      "featuredArtistId": "72Wf6ybe1FOqRkscSjTfJS",
+      "trackName": "Fout le bordel - feat. L'artiste & Camro",
+      "trackId": "1575YPlbquB15vj9fmaAV1",
+      "preview": "https://p.scdn.co/mp3-preview/9e64434e6a9d016b99b7ddbc61ce56af3ce456d1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Jul",
+      "featuredArtistId": "3IW7ScrzXmPvZhB27hmfgy",
+      "trackName": "Jnouné - feat. Rim'k & Jul & Dieselle",
+      "trackId": "3IwXbSGiFHNAf0Kkv6qiP8",
+      "preview": "https://p.scdn.co/mp3-preview/73645684f5f4cc922a352d8aecb6dbb1b52f50a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Rim'K",
+      "featuredArtistId": "2eh8cEKZk4VeruUrGq748D",
+      "trackName": "Jnouné - feat. Rim'k & Jul & Dieselle",
+      "trackId": "3IwXbSGiFHNAf0Kkv6qiP8",
+      "preview": "https://p.scdn.co/mp3-preview/73645684f5f4cc922a352d8aecb6dbb1b52f50a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "El Matador",
+      "featuredArtistId": "5WXxrPG1ifx9gOa5mHMm0o",
+      "trackName": "Copacabana - feat. El Matador",
+      "trackId": "3cS5W1nXsHWot405FXjKMp",
+      "preview": "https://p.scdn.co/mp3-preview/17fbb36d2a1cfa26161e636c67b49e4a243e4a9b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Hamidu",
+      "featuredArtistId": "4WuAtmUUIC3LbE7E6eK0E8",
+      "trackName": "Arabian Bad Girl - feat. Hamidu & L.E.C.K",
+      "trackId": "0coAvo6xSdXM1eHr2pIVvF",
+      "preview": "https://p.scdn.co/mp3-preview/9496c38428da1d06acbe3cc4a916e4900a4f67e8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "L.E.C.K",
+      "featuredArtistId": "3qk3ED6mRv7vYTP27GMI2W",
+      "trackName": "Arabian Bad Girl - feat. Hamidu & L.E.C.K",
+      "trackId": "0coAvo6xSdXM1eHr2pIVvF",
+      "preview": "https://p.scdn.co/mp3-preview/9496c38428da1d06acbe3cc4a916e4900a4f67e8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "DJ Idsa",
+      "featuredArtistId": "3KEELGq3CwxCXGsDnvx5WP",
+      "trackName": "Alger Casa Tunis - feat. Reda Taliani & Six Coups MC",
+      "trackId": "4twMrYggee4IIdk4RJWkAw",
+      "preview": "https://p.scdn.co/mp3-preview/c104b312e2f26004f706a7f9ead6d74f408baff0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Reda Taliani",
+      "featuredArtistId": "2VTYaHMlKvQxlVW3k07NVt",
+      "trackName": "Alger Casa Tunis - feat. Reda Taliani & Six Coups MC",
+      "trackId": "4twMrYggee4IIdk4RJWkAw",
+      "preview": "https://p.scdn.co/mp3-preview/c104b312e2f26004f706a7f9ead6d74f408baff0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Sixcoups MC",
+      "featuredArtistId": "6sdCpCICqSadogN1nSHdsj",
+      "trackName": "Alger Casa Tunis - feat. Reda Taliani & Six Coups MC",
+      "trackId": "4twMrYggee4IIdk4RJWkAw",
+      "preview": "https://p.scdn.co/mp3-preview/c104b312e2f26004f706a7f9ead6d74f408baff0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Yassmin",
+      "featuredArtistId": "7pbuVaCc1DFJ88aSw8vWOP",
+      "trackName": "Give me Some Love - feat. Yassmin",
+      "trackId": "3iEchNJ9Dg8TBqRM9aAkw4",
+      "preview": "https://p.scdn.co/mp3-preview/b3f2e48a943af9a6772eace9d5f244c51a6eeb7a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Jalal Hamdaoui",
+      "featuredArtistId": "1qbL8FS5WWsGf21kRknxKB",
+      "trackName": "Pampona - feat. Jallal Hamdaoui",
+      "trackId": "6kN7Pxg6Xqt98ANjLw9gnM",
+      "preview": "https://p.scdn.co/mp3-preview/d1c56743d8f6d78327ceb29b6beb95eceade20ff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Maître Gims",
+      "featuredArtistId": "0GOx72r5AAEKRGQFn3xqXK",
+      "trackName": "Du swagg (feat. H-Magnum & Maître Gims)",
+      "trackId": "5QNblybNZu77EBiMPo7Nd5",
+      "preview": "https://p.scdn.co/mp3-preview/137c4875d942a5636fc29bd979476e9025ef05c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Tahra Sana",
+      "featuredArtistId": "023JHSKuyAlgj0t6W4XFqV",
+      "trackName": "Pour toi et moi - feat. Tahra Sana & Rim'k",
+      "trackId": "0DAjylJlIpMiYiRniUp7Gn",
+      "preview": "https://p.scdn.co/mp3-preview/ba4c108fc5faa8b561b69ef15db1a3abc8e15f30?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Kmkj",
+      "featuredArtistId": "6CQUhR1coA6H5Q0RswSjkV",
+      "trackName": "Liouma - feat. KMKJ & Harone",
+      "trackId": "1KMjjlx9pGQIGmHaBjHldO",
+      "preview": "https://p.scdn.co/mp3-preview/3b17f2215ca66bf7f00aed6a5a94a0f554bb7bdd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Aymane",
+      "featuredArtistId": "2IsfGXFcgHLPdEfsvfBNzy",
+      "trackName": "Kayz me Raï - feat. Aymane",
+      "trackId": "2kDDpPUgSxoWN8WXV8Cieb",
+      "preview": "https://p.scdn.co/mp3-preview/daddbc8e538de42b8a62faaa4420a67d6b7896f9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "L'Algérino",
+      "featuredArtistId": "7kyIBL1EYouLqC8vw7IOui",
+      "trackName": "Grosse garde robe - feat. L'Algerino",
+      "trackId": "60SRgHm9maXzaVRDBwhLwl",
+      "preview": "https://p.scdn.co/mp3-preview/e2c7a282bf83bd5b63b24885f9f4b323caf1b897?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Cheb Rayan",
+      "featuredArtistId": "2vHzXwfwVDsP4iKN8SezRR",
+      "trackName": "Ray Rayi - Mixed by DJ Kayz",
+      "trackId": "4h33qEgoRqnlW30TAB8bwg",
+      "preview": "https://p.scdn.co/mp3-preview/a8e767ecf666bac3fdd2e4fe86912b8446485f08?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Nocif",
+      "featuredArtistId": "4mllS6QqRwPuc0Fvi3Zgbs",
+      "trackName": "Ray Rayi - Mixed by DJ Kayz",
+      "trackId": "4h33qEgoRqnlW30TAB8bwg",
+      "preview": "https://p.scdn.co/mp3-preview/a8e767ecf666bac3fdd2e4fe86912b8446485f08?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Cheb Houssem",
+      "featuredArtistId": "4l3uOQQa1NaZz7OVNAjbC2",
+      "trackName": "My Bled - feat. Tunisiano & Cheb Houssem",
+      "trackId": "0shQvZs4O2XWNFOkbmlRFD",
+      "preview": "https://p.scdn.co/mp3-preview/60e2264309524a305b1a3407247d9f295d4a9564?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Tunisiano",
+      "featuredArtistId": "6jMwNySNrAokQ3Gv8opEP7",
+      "trackName": "My Bled - feat. Tunisiano & Cheb Houssem",
+      "trackId": "0shQvZs4O2XWNFOkbmlRFD",
+      "preview": "https://p.scdn.co/mp3-preview/60e2264309524a305b1a3407247d9f295d4a9564?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Elyssa Attieh",
+      "featuredArtistId": "4S7fDbZEiyXY7fUDUdf5rw",
+      "trackName": "Abu Dhabi - feat. Sultan & Elyssa Attieh",
+      "trackId": "6ORXZReK5SEj5ilJLlkauY",
+      "preview": "https://p.scdn.co/mp3-preview/67c25ff8061f70c63119e5dd0650d3ed06ce39c3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Sultan",
+      "featuredArtistId": "5gdrTDqKDcfO1Dkc5a9ppZ",
+      "trackName": "Abu Dhabi - feat. Sultan & Elyssa Attieh",
+      "trackId": "6ORXZReK5SEj5ilJLlkauY",
+      "preview": "https://p.scdn.co/mp3-preview/67c25ff8061f70c63119e5dd0650d3ed06ce39c3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Sadek",
+      "featuredArtistId": "63MCBZRiUdnqRsAOJwijiB",
+      "trackName": "Les filles de mon pays - feat. Sadek",
+      "trackId": "4nqvTkpVrIz74863BQc7cM",
+      "preview": "https://p.scdn.co/mp3-preview/ff283f8ae84e8f482b06f8008a20044d6438dc4b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Fatman Scoop",
+      "featuredArtistId": "15GGbJKqC6w0VYyAJtjej6",
+      "trackName": "Matrixé - feat. Kenza Farah & Dieselle & Fatman Scoop",
+      "trackId": "3oQSsWFLq5U1qNwEzSHcOH",
+      "preview": "https://p.scdn.co/mp3-preview/150974d28403aa7d8b2347c73e4f0725633d3c4d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Tirgo",
+      "featuredArtistId": "1I8I9sOv1EzAUh1up43gcp",
+      "trackName": "Yougatakayz - feat. Mister You & Tirgo & Al Bandit",
+      "trackId": "01uU2vSWlTYB8Bl5mAbrC6",
+      "preview": "https://p.scdn.co/mp3-preview/09433f36cc43035c3c1f58f13a06ba119f1179c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Flex",
+      "featuredArtistId": "1TuQmYJdsmdJc48SM3rtV4",
+      "trackName": "Cheba - feat. Aymane & Rami Lapache & Flex",
+      "trackId": "76b963LmiQkTrc8e2v3C0U",
+      "preview": "https://p.scdn.co/mp3-preview/a5f277efdd4f1f88f8aca6e7870f645bda39e0eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Ramy Lapache",
+      "featuredArtistId": "1HHqAAUIAMmZTxc7XCIDKN",
+      "trackName": "Cheba - feat. Aymane & Rami Lapache & Flex",
+      "trackId": "76b963LmiQkTrc8e2v3C0U",
+      "preview": "https://p.scdn.co/mp3-preview/a5f277efdd4f1f88f8aca6e7870f645bda39e0eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Hass'n",
+      "featuredArtistId": "2vgin0voDrE4PxVKvYsgn7",
+      "trackName": "Salama - feat. Soldat Jahman & Luis Guisao & Hass'n",
+      "trackId": "68B9KJFclTWbgqZ9xigfMi",
+      "preview": "https://p.scdn.co/mp3-preview/2a2995fcec9ddcbfa69ddd77ea5ab9f23a1b7814?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Luis Guisao",
+      "featuredArtistId": "4HLIyN7hhfnAVv2rIlmpQN",
+      "trackName": "Salama - feat. Soldat Jahman & Luis Guisao & Hass'n",
+      "trackId": "68B9KJFclTWbgqZ9xigfMi",
+      "preview": "https://p.scdn.co/mp3-preview/2a2995fcec9ddcbfa69ddd77ea5ab9f23a1b7814?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Soldat Jahman",
+      "featuredArtistId": "7f754Zm9Hy7sBS6oH4ROnJ",
+      "trackName": "Salama - feat. Soldat Jahman & Luis Guisao & Hass'n",
+      "trackId": "68B9KJFclTWbgqZ9xigfMi",
+      "preview": "https://p.scdn.co/mp3-preview/2a2995fcec9ddcbfa69ddd77ea5ab9f23a1b7814?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/86d915ac100123b3ff20aa41a7858081aa75cc4d",
+      "release_date": "2014-12-26"
+    },
+    {
+      "featuredArtist": "Wassila",
+      "featuredArtistId": "7a6TPrZH6MH6NFR0mlZLOg",
+      "trackName": "Jour J",
+      "trackId": "5Ms2G7M5TU9XBpWg4eJgos",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c304a0e5deabf013d414bacd9514bd786430f8ea",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Mr. Géant",
+      "featuredArtistId": "1igK2JpXunmr36mIs3XKm6",
+      "trackName": "Ailleurs",
+      "trackId": "5xNEMBaN2ZbMBYjGu1mXub",
+      "preview": "https://p.scdn.co/mp3-preview/5d7e64f601e308727124f55c6fdc1e64cd17d085?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/229498253d6cb75354ffbbd2294af55335b2b06f",
+      "release_date": "2017-05-15"
+    }
+  ]
+}

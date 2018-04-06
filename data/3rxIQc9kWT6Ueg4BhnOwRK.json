@@ -1,0 +1,383 @@
+{
+  "artistName": "Quincy Jones",
+  "features": [
+    {
+      "featuredArtist": "Quincy Jones Orchestra",
+      "featuredArtistId": "5Bu6HI67A4XHUFFOC41J9R",
+      "trackName": "Tickle Toe",
+      "trackId": "54aT4TuroyGIGmj7JuIxGX",
+      "preview": "https://p.scdn.co/mp3-preview/ce4968f0d677f581153cfb3f03a8e7e831ed6b40?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/44c94241213fbcd576596d9a304077cc42351c52",
+      "release_date": "2011-05-03"
+    },
+    {
+      "featuredArtist": "Talib Kweli",
+      "featuredArtistId": "0lEssBAxQl2In4RpaB1C2Y",
+      "trackName": "Ironside (Feat. Talib Kweli)",
+      "trackId": "4TL2XhNnUXCzeWLTzwK83N",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Akon",
+      "featuredArtistId": "0z4gvV4rjIZ9wHck67ucSV",
+      "trackName": "Strawberry Letter 23 (Feat. Akon)",
+      "trackId": "7y2dDZwunm7FkaGUzNLzHh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Ludacris",
+      "featuredArtistId": "3ipn9JLAPI5GUEo4y4jcoi",
+      "trackName": "Soul Bossa Nostra (Feat. Ludacris, Naturally 7 and Rudy Currence)",
+      "trackId": "0uzooXUcQibl6Uis8LXy1q",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Naturally 7",
+      "featuredArtistId": "769D3IwCDrdPospAd3Hlpi",
+      "trackName": "Soul Bossa Nostra (Feat. Ludacris, Naturally 7 and Rudy Currence)",
+      "trackId": "0uzooXUcQibl6Uis8LXy1q",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Rudy Currence",
+      "featuredArtistId": "1XjkqiNiTkbF2FOEDMNqC8",
+      "trackName": "Soul Bossa Nostra (Feat. Ludacris, Naturally 7 and Rudy Currence)",
+      "trackId": "0uzooXUcQibl6Uis8LXy1q",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Jamie Foxx",
+      "featuredArtistId": "7LnaAXbDVIL75IVPnndf7w",
+      "trackName": "Give Me The Night (Feat. Jamie Foxx)",
+      "trackId": "1KXHCPX9071SOHUZPSIdBr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "John Legend",
+      "featuredArtistId": "5y2Xq6xcjJb2jVM54GHK3t",
+      "trackName": "Tomorrow (Feat. John Legend)",
+      "trackId": "2s9UTYhLMkv7R5HSpYjmdi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Jennifer Hudson",
+      "featuredArtistId": "35GL8Cu2GKTcHzKGi75xl5",
+      "trackName": "You Put A Move On My Heart (Feat. Jennifer Hudson)",
+      "trackId": "6STFTjLhyl0IZIVNrh9UeF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Snoop Dogg",
+      "featuredArtistId": "7hJcb9fa4alzcOq3EaNPoG",
+      "trackName": "Get The Funk Out Of My Face (Feat. Snoop Dogg)",
+      "trackId": "5VQDuI1DDM8KcLKwaAXxpJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Usher",
+      "featuredArtistId": "23zg3TcAtWQy7J6upgbUnj",
+      "trackName": "Secret Garden (Feat. Usher, Robin Thicke, Tyrese Gibson, LL Cool J, Tevin Campbell and Barry White)",
+      "trackId": "36Sb8jghvTPK3tmuTRhL9f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Robin Thicke",
+      "featuredArtistId": "0ZrpamOxcZybMHGg1AYtHP",
+      "trackName": "Secret Garden (Feat. Usher, Robin Thicke, Tyrese Gibson, LL Cool J, Tevin Campbell and Barry White)",
+      "trackId": "36Sb8jghvTPK3tmuTRhL9f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Tyrese Gibson",
+      "featuredArtistId": "2ZmGKVABzduK5zGBOxUonA",
+      "trackName": "Secret Garden (Feat. Usher, Robin Thicke, Tyrese Gibson, LL Cool J, Tevin Campbell and Barry White)",
+      "trackId": "36Sb8jghvTPK3tmuTRhL9f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "LL Cool J",
+      "featuredArtistId": "1P8IfcNKwrkQP5xJWuhaOC",
+      "trackName": "Secret Garden (Feat. Usher, Robin Thicke, Tyrese Gibson, LL Cool J, Tevin Campbell and Barry White)",
+      "trackId": "36Sb8jghvTPK3tmuTRhL9f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Tevin Campbell",
+      "featuredArtistId": "5VfqJBmXcf6ZqXoGij5qTE",
+      "trackName": "Secret Garden (Feat. Usher, Robin Thicke, Tyrese Gibson, LL Cool J, Tevin Campbell and Barry White)",
+      "trackId": "36Sb8jghvTPK3tmuTRhL9f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Barry White",
+      "featuredArtistId": "3rfgbfpPSfXY40lzRK7Syt",
+      "trackName": "Secret Garden (Feat. Usher, Robin Thicke, Tyrese Gibson, LL Cool J, Tevin Campbell and Barry White)",
+      "trackId": "36Sb8jghvTPK3tmuTRhL9f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Mary J. Blige",
+      "featuredArtistId": "1XkoF8ryArs86LZvFOkbyr",
+      "trackName": "Betcha Wouldn't Hurt Me (Feat. Mary J. Blige, Q-Tip and Alfredo Rodriguez)",
+      "trackId": "6idx2X6PWMsA2x5hC0V8DB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Q-Tip",
+      "featuredArtistId": "3ZotbHeyVQKxQCPDJuQ4SU",
+      "trackName": "Betcha Wouldn't Hurt Me (Feat. Mary J. Blige, Q-Tip and Alfredo Rodriguez)",
+      "trackId": "6idx2X6PWMsA2x5hC0V8DB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Bebe Winans",
+      "featuredArtistId": "6D9xBdOOyGHqOam9OShAWl",
+      "trackName": "Everything Must Change (Feat. Bebe Winans)",
+      "trackId": "7pwiMqMoUJ1LecWc84qU1a",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Wyclef Jean",
+      "featuredArtistId": "7aBzpmFXB4WWpPl2F7RjBe",
+      "trackName": "Many Rains Ago (Oluwa) (Feat. Wyclef Jean)",
+      "trackId": "2ITeoWtXolYnTZfrsrfMRS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "T-Pain",
+      "featuredArtistId": "3aQeKQSyrW4qWr35idm0cy",
+      "trackName": "P.Y.T. (Pretty Young Thing) (Feat. T-Pain and Robin Thicke)",
+      "trackId": "2z8ApMqUFWRp7CmoZOY81W",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Amy Winehouse",
+      "featuredArtistId": "6Q192DXotxtaysaqNPy5yR",
+      "trackName": "It's My Party (Feat. Amy Winehouse)",
+      "trackId": "7cUfdUtlgERDeFxFrW9QQk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Three 6 Mafia",
+      "featuredArtistId": "26s8LSolLfCIY88ysQbIuT",
+      "trackName": "Hikky-Burr (Feat. Three 6 Mafia and David Banner)",
+      "trackId": "0GRoy99kI9rlqwKLbwtgPw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "David Banner",
+      "featuredArtistId": "7jFaoqWPhYLrKzjzlpXmUO",
+      "trackName": "Hikky-Burr (Feat. Three 6 Mafia and David Banner)",
+      "trackId": "0GRoy99kI9rlqwKLbwtgPw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "T.I.",
+      "featuredArtistId": "4OBJLual30L7gRl5UkeRcT",
+      "trackName": "Sanford and Son (Feat. T.I., B.o.B., Prince Charlez and Mohombi)",
+      "trackId": "41wY2DyyzQLuL8bQokAW2s",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "B.o.B",
+      "featuredArtistId": "5ndkK3dpZLKtBklKjxNQwT",
+      "trackName": "Sanford and Son (Feat. T.I., B.o.B., Prince Charlez and Mohombi)",
+      "trackId": "41wY2DyyzQLuL8bQokAW2s",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Prince Charlez",
+      "featuredArtistId": "5XdlnBpFPFPuvIAINOxOHv",
+      "trackName": "Sanford and Son (Feat. T.I., B.o.B., Prince Charlez and Mohombi)",
+      "trackId": "41wY2DyyzQLuL8bQokAW2s",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Mohombi",
+      "featuredArtistId": "37GUqxafAvAKGMZbXCUnmr",
+      "trackName": "Sanford and Son (Feat. T.I., B.o.B., Prince Charlez and Mohombi)",
+      "trackId": "41wY2DyyzQLuL8bQokAW2s",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/74402ba0ae579d2c2ad0c79cc9698064277a910b",
+      "release_date": "2010-11-09"
+    },
+    {
+      "featuredArtist": "Alfredo Rodriguez",
+      "featuredArtistId": "2FtvHjgKv9ZegyS9nDCs3n",
+      "trackName": "Betcha Wouldn't Hurt Me (Feat. Mary J. Blige, Q-Tip and Alfredo Rodriguez)",
+      "trackId": "2Qyt7o75xBZog0GGnxl9t4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/34ebe016d703456c417317a8901138a5b0c8fbc0",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Gerald Albright",
+      "featuredArtistId": "3bhckpkRmz8mqONUceSutp",
+      "trackName": "Kingfish - Live",
+      "trackId": "0z5hvubjmwvbshB41qWpxF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a955de8b25d04f9ad35d2c6eeaa81d66932961bb",
+      "release_date": "2008-02-12"
+    },
+    {
+      "featuredArtist": "James Morrison",
+      "featuredArtistId": "3LpLGlgRS1IKPPwElnpW35",
+      "trackName": "Kingfish - Live",
+      "trackId": "0z5hvubjmwvbshB41qWpxF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a955de8b25d04f9ad35d2c6eeaa81d66932961bb",
+      "release_date": "2008-02-12"
+    },
+    {
+      "featuredArtist": "David Sanborn",
+      "featuredArtistId": "7vNcTk9TgKF0qDsS87nWGE",
+      "trackName": "Stockholm Sweetnin' - Live",
+      "trackId": "2gm0jTrnVlYIhIlHDT5vEg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a955de8b25d04f9ad35d2c6eeaa81d66932961bb",
+      "release_date": "2008-02-12"
+    },
+    {
+      "featuredArtist": "Patti Austin",
+      "featuredArtistId": "0JxChc2w5fwTGbXKfc4cRd",
+      "trackName": "Perdido - Live",
+      "trackId": "5tYblHUYKrRzDydBBzFT2H",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a955de8b25d04f9ad35d2c6eeaa81d66932961bb",
+      "release_date": "2008-02-12"
+    },
+    {
+      "featuredArtist": "Mick Hucknall",
+      "featuredArtistId": "1zxmHkQCUfZYDjwV6MYjZN",
+      "trackName": "In The Heat Of The Night - Live",
+      "trackId": "5tRdL6VzBISffoFwIFslDA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a955de8b25d04f9ad35d2c6eeaa81d66932961bb",
+      "release_date": "2008-02-12"
+    },
+    {
+      "featuredArtist": "Chaka Khan",
+      "featuredArtistId": "6mQfAAqZGBzIfrmlZCeaYT",
+      "trackName": "Everything Must Change - Live",
+      "trackId": "34P0Bmk3NwvIaItdh3t7Y3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a955de8b25d04f9ad35d2c6eeaa81d66932961bb",
+      "release_date": "2008-02-12"
+    },
+    {
+      "featuredArtist": "Toots Thielemans",
+      "featuredArtistId": "0KyolDFb1RjJQb4qXZKCqo",
+      "trackName": "Grace Notes - Live",
+      "trackId": "4qXp4HHTWIQvSFJ7NH8DFs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a955de8b25d04f9ad35d2c6eeaa81d66932961bb",
+      "release_date": "2008-02-12"
+    },
+    {
+      "featuredArtist": "Phil Collins",
+      "featuredArtistId": "4lxfqrEsLX6N1N4OCSkILp",
+      "trackName": "After You've Gone - Live",
+      "trackId": "078PlVUIOsnOJOE5Ou1nRJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a955de8b25d04f9ad35d2c6eeaa81d66932961bb",
+      "release_date": "2008-02-12"
+    },
+    {
+      "featuredArtist": "Brody Buster",
+      "featuredArtistId": "5BlZdP9SVHYQJbb5HCKh3k",
+      "trackName": "Miss Celie's Blues - Live",
+      "trackId": "4fsgtkq0NoqpZ4PEehEqF0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a955de8b25d04f9ad35d2c6eeaa81d66932961bb",
+      "release_date": "2008-02-12"
+    },
+    {
+      "featuredArtist": "Claude Nobs",
+      "featuredArtistId": "1ywVXSXZwH0FYaktxBO67Y",
+      "trackName": "Let The Good Times Roll - Live",
+      "trackId": "1m8OgANNyOpSV9UdYV1gT3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a955de8b25d04f9ad35d2c6eeaa81d66932961bb",
+      "release_date": "2008-02-12"
+    },
+    {
+      "featuredArtist": "Nickolas Ashford",
+      "featuredArtistId": "4X7jBy7ujZ6PSsHJPuCosZ",
+      "trackName": "Stuff Like That",
+      "trackId": "4ZK3UltMu2DtDifbwOsvtK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8460d7b82337e0f60c05501ec6cab09ebedb2b25",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Valerie Simpson",
+      "featuredArtistId": "7Lc8gVjpJFGo4xMHE0Ax7r",
+      "trackName": "Stuff Like That",
+      "trackId": "4ZK3UltMu2DtDifbwOsvtK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8460d7b82337e0f60c05501ec6cab09ebedb2b25",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Billy Eckstine",
+      "featuredArtistId": "6htazaFMy8zs0f3sMtM2Pt",
+      "trackName": "All Right Okay You Win - Live",
+      "trackId": "0vbbPQ2Nqo3fwIihz0EJNC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fe17c278e97ac0a447707cb1da0b831701caa716",
+      "release_date": "2005-01-01"
+    }
+  ]
+}

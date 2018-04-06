@@ -1,0 +1,23 @@
+{
+  "artistName": "Binomio de Oro de América",
+  "features": [
+    {
+      "featuredArtist": "Los inquietos del vallenato",
+      "featuredArtistId": "1i2sOJlmgkWrWx28rB17Bd",
+      "trackName": "Cada Día Te Quiero Más",
+      "trackId": "4sC2YCVvOl8hg8rXBWNAIj",
+      "preview": "https://p.scdn.co/mp3-preview/4531e1a4755432189ea19dd9e33c92fc2f3b3e61?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/662f6ef5f25cb5d833cf5686ed42d9346e619ff0",
+      "release_date": "2016"
+    },
+    {
+      "featuredArtist": "Jorge Celedón",
+      "featuredArtistId": "7rNbdH4pgrnwguvzxhA2Ek",
+      "trackName": "Olvídala",
+      "trackId": "51jFx12ZDrLisbz06Se7jV",
+      "preview": "https://p.scdn.co/mp3-preview/ecf6d20f8dc61a41c9c2b4d5d19ff5467c0170cb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8b3ff0059fb4c725438e8ad1ff5285b629ec107",
+      "release_date": "2007-01-01"
+    }
+  ]
+}

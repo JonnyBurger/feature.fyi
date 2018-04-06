@@ -1,0 +1,149 @@
+{
+  "artistName": "Gasellit",
+  "features": [
+    {
+      "featuredArtist": "Karri Koira",
+      "featuredArtistId": "1sQJfOZnTxWUPFb2wjgba5",
+      "trackName": "Muistanks Mä Väärin?",
+      "trackId": "6YLtZNcayG9lmvUn906xsp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/38e5685470136b4c8a52f9d798652bdba70482f6",
+      "release_date": "2017-04-21"
+    },
+    {
+      "featuredArtist": "Kube",
+      "featuredArtistId": "56fNXc6wRoO6rkxs0mNtL4",
+      "trackName": "Pese Mut Pois",
+      "trackId": "1kguFz3pjUr3mRLoTZRCB8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/38e5685470136b4c8a52f9d798652bdba70482f6",
+      "release_date": "2017-04-21"
+    },
+    {
+      "featuredArtist": "Pyhimys",
+      "featuredArtistId": "3MaQwUQBigrjcMYHk8bDKm",
+      "trackName": "Henkeni Edestä",
+      "trackId": "2tNKJ7uAvWdN6i5fBXm3T0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/38e5685470136b4c8a52f9d798652bdba70482f6",
+      "release_date": "2017-04-21"
+    },
+    {
+      "featuredArtist": "JV",
+      "featuredArtistId": "4JRDh5SjPAL7AE8btAfxnm",
+      "trackName": "Avokämmentä",
+      "trackId": "27cFu8BIWHg3b39OSPQen5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2ccf64cabb8eb015109d53c7968e9b2b7d97d435",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Kasmir",
+      "featuredArtistId": "2O6Va98fudK0E8rtu7Nm2Z",
+      "trackName": "Vainoharhainen",
+      "trackId": "2WFIpExQDrXMKT3q4MBziu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2ccf64cabb8eb015109d53c7968e9b2b7d97d435",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Gracias",
+      "featuredArtistId": "2GRNS6DnefxBzYSZXDc6ij",
+      "trackName": "Sumu",
+      "trackId": "4cRgUTP7Khf6t4mHyxuXqu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2ccf64cabb8eb015109d53c7968e9b2b7d97d435",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Iisa",
+      "featuredArtistId": "5HLAZ3sKIXiCleIjT8UxBf",
+      "trackName": "Älä muista pahalla",
+      "trackId": "2zUH09rd9lIntnA2ZqPe1Q",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2ccf64cabb8eb015109d53c7968e9b2b7d97d435",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Paperi T",
+      "featuredArtistId": "3rOOythoKLiiyXJYh3XIMu",
+      "trackName": "Teinijäte",
+      "trackId": "2fXIAOBYXkmwDOWFiGjFkd",
+      "preview": "https://p.scdn.co/mp3-preview/5812fe8881c9a61d4fbeb8ad726b406e8f20147f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ff72fd3d0cfd83527a1344dda10179d3515bb39",
+      "release_date": "2013-10-25"
+    },
+    {
+      "featuredArtist": "Tohtori Käärme",
+      "featuredArtistId": "4hOgKBetBLQrjZlF63wBsA",
+      "trackName": "Holiday Inn",
+      "trackId": "3gKtIuoz87djzIQMyZQ0fC",
+      "preview": "https://p.scdn.co/mp3-preview/1c2c2b939682848381b07f2b7bff8290da50a05a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ff72fd3d0cfd83527a1344dda10179d3515bb39",
+      "release_date": "2013-10-25"
+    },
+    {
+      "featuredArtist": "Eevil Stöö",
+      "featuredArtistId": "0hD2uZfgcwrRRMcPYQ45pf",
+      "trackName": "Mohombi",
+      "trackId": "1YCd9bKYqovHLeX8O3M7XR",
+      "preview": "https://p.scdn.co/mp3-preview/40e3a12c02cd71c0e08a38dffa2b1efd3bf77884?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ff72fd3d0cfd83527a1344dda10179d3515bb39",
+      "release_date": "2013-10-25"
+    },
+    {
+      "featuredArtist": "Elias Gould",
+      "featuredArtistId": "2vMYb9ojrYEFFcz0IRF2b3",
+      "trackName": "Riks Raks Poks",
+      "trackId": "6wyzAkfz9XVZkV9eZCqLJb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9646a0cf6a86ebbbe063006e09bc3bf06fabeb41",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "JVG",
+      "featuredArtistId": "55mdlQp6zN8zdyIYB9DDQj",
+      "trackName": "Mist sä tuut? - feat. Gracias, Paperi T, Juno, Stepa, Särre, Gasellit & Kube",
+      "trackId": "7LNuKGGKRBIrG4vRbgWz3z",
+      "preview": "https://p.scdn.co/mp3-preview/1bf6d2b9ed3eb4b90545f47103545439daa91200?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac9608afd51ea1b5b7c5b645e1991f2b14661a70",
+      "release_date": "2016-05-13"
+    },
+    {
+      "featuredArtist": "Juno",
+      "featuredArtistId": "5iFuIxdmHNEiGJaR49TLL9",
+      "trackName": "Mist sä tuut? - feat. Gracias, Paperi T, Juno, Stepa, Särre, Gasellit & Kube",
+      "trackId": "7LNuKGGKRBIrG4vRbgWz3z",
+      "preview": "https://p.scdn.co/mp3-preview/1bf6d2b9ed3eb4b90545f47103545439daa91200?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac9608afd51ea1b5b7c5b645e1991f2b14661a70",
+      "release_date": "2016-05-13"
+    },
+    {
+      "featuredArtist": "Stepa",
+      "featuredArtistId": "6jx8pM3d8dxQJbN63T1Ehu",
+      "trackName": "Mist sä tuut? - feat. Gracias, Paperi T, Juno, Stepa, Särre, Gasellit & Kube",
+      "trackId": "7LNuKGGKRBIrG4vRbgWz3z",
+      "preview": "https://p.scdn.co/mp3-preview/1bf6d2b9ed3eb4b90545f47103545439daa91200?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac9608afd51ea1b5b7c5b645e1991f2b14661a70",
+      "release_date": "2016-05-13"
+    },
+    {
+      "featuredArtist": "Särre",
+      "featuredArtistId": "7jxDHM0eMYkiSXHc5tPqSr",
+      "trackName": "Mist sä tuut? - feat. Gracias, Paperi T, Juno, Stepa, Särre, Gasellit & Kube",
+      "trackId": "7LNuKGGKRBIrG4vRbgWz3z",
+      "preview": "https://p.scdn.co/mp3-preview/1bf6d2b9ed3eb4b90545f47103545439daa91200?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ac9608afd51ea1b5b7c5b645e1991f2b14661a70",
+      "release_date": "2016-05-13"
+    },
+    {
+      "featuredArtist": "Teflon Brothers",
+      "featuredArtistId": "3zh3U2eQ64EhBFbJuxgf1M",
+      "trackName": "Punainen 11",
+      "trackId": "3doCvx6gLvC7f7f4ZQf1VW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5e5aba922946a51515528d31aecbadf1fe0d6948",
+      "release_date": "2013-01-01"
+    }
+  ]
+}

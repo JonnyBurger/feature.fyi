@@ -1,0 +1,23 @@
+{
+  "artistName": "5 a Seco",
+  "features": [
+    {
+      "featuredArtist": "Maria Gadú",
+      "featuredArtistId": "3uCu2WgyG0Iw50ylOYDSpH",
+      "trackName": "Em Paz",
+      "trackId": "5nZVfwWvgso9hhJxj0jlwH",
+      "preview": "https://p.scdn.co/mp3-preview/8d2459c8d1a0a02850774d2f2cf1494c6644875f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/669ddbef3b07933f97765ac939222ac5de582907",
+      "release_date": "2013-08-05"
+    },
+    {
+      "featuredArtist": "Fabio Cadore",
+      "featuredArtistId": "2wG1MDWKCj8pxBuDG6NNbp",
+      "trackName": "Instante",
+      "trackId": "2rxdhbVwynu8MiHATCXKNR",
+      "preview": "https://p.scdn.co/mp3-preview/62595ef0be0d61d7a8d1ba6f64b51321dbbdca4a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/732e2d8225175c6009e88b763607ec6a2c7c50ab",
+      "release_date": "2012-08-24"
+    }
+  ]
+}

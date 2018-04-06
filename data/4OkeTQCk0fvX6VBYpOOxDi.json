@@ -1,0 +1,32 @@
+{
+  "artistName": "Amaral",
+  "features": [
+    {
+      "featuredArtist": "Beto Cuevas",
+      "featuredArtistId": "0kUZTk2JLPEAUyCWoN6eoL",
+      "trackName": "Te Necesito - Acustico",
+      "trackId": "61ZvRYNgX7WliB1kgQB32a",
+      "preview": "https://p.scdn.co/mp3-preview/f8c069386323246aae4eec3e09a4de9e95e535a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/118368d88fb89303b1bf85966dfda17177cd5e98",
+      "release_date": "2002-02-04"
+    },
+    {
+      "featuredArtist": "La Pegatina",
+      "featuredArtistId": "4xvB67czbtvemGVXGa81oK",
+      "trackName": "La tempestad (con Eva Amaral)",
+      "trackId": "3ZCbsyeeWkkb6SKKhiQa17",
+      "preview": "https://p.scdn.co/mp3-preview/b7243e6d140377d476d9552d0ee7e3ead731dcd7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/26333826ed8c02d46c798652d1ed4a6eada34205",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Eva Amaral",
+      "featuredArtistId": "3ODEQfAKdOPjs39qLlDCP9",
+      "trackName": "La tempestad (con Eva Amaral)",
+      "trackId": "3ZCbsyeeWkkb6SKKhiQa17",
+      "preview": "https://p.scdn.co/mp3-preview/b7243e6d140377d476d9552d0ee7e3ead731dcd7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/26333826ed8c02d46c798652d1ed4a6eada34205",
+      "release_date": "2018-02-09"
+    }
+  ]
+}

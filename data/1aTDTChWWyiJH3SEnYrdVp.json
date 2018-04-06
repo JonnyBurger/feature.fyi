@@ -1,0 +1,77 @@
+{
+  "artistName": "Taj Mahal",
+  "features": [
+    {
+      "featuredArtist": "Keb' Mo'",
+      "featuredArtistId": "6iDaoPZVgxrTkndDCisX8F",
+      "trackName": "Don't Leave Me Here",
+      "trackId": "1pDwZmpFoPyPTApIgCLwHS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c2f21ce561634629a5ab28a71c5f6f1dd38cc1ca",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Lizz Wright",
+      "featuredArtistId": "3K0BfjMh2dS8WITuiMuGGW",
+      "trackName": "Om Sweet Om",
+      "trackId": "47q81QEwfRG8V0hUiFdNsA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c2f21ce561634629a5ab28a71c5f6f1dd38cc1ca",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "The Hula Blues Band",
+      "featuredArtistId": "1zCI8Ya7GNsyVlMUvDnbh9",
+      "trackName": "Good Morning Miss Brown - Live",
+      "trackId": "45g7sAIeD4hiBLqWe6eBsi",
+      "preview": "https://p.scdn.co/mp3-preview/d59997f873912783ed5cfbb9ea74daaf4712de64?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c4ecdc0907eee96eb9ad401f163d2710ae45809b",
+      "release_date": "2015-10-16"
+    },
+    {
+      "featuredArtist": "The Blind Boys Of Alabama",
+      "featuredArtistId": "5TVL4FXEntBYZb3ujyt6fH",
+      "trackName": "Do You Hear What I Hear?",
+      "trackId": "1fu9YP5LfAmEEnqe08QP0w",
+      "preview": "https://p.scdn.co/mp3-preview/c745454c66b4a9bbe409265c6247cb1a36746058?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e0c8b52cd8242040efd73f8abef2865ba93b9e23",
+      "release_date": "2014-10-17"
+    },
+    {
+      "featuredArtist": "N. Ravikiran",
+      "featuredArtistId": "1hLUGkZvkUxmwCNpPJg9w5",
+      "trackName": "Coming of the Mandinka",
+      "trackId": "3jlPbsjgF8yBL0MjXZHwIM",
+      "preview": "https://p.scdn.co/mp3-preview/9b80ca8b24fd03971bc1cb04e604f58fae881c93?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b7e174afcf889e10176814f85038169115e4cff8",
+      "release_date": "2011-12-06"
+    },
+    {
+      "featuredArtist": "Vishwa Mohan Bhatt",
+      "featuredArtistId": "1tY6Z4NEPI3xHhVA8VU9Jl",
+      "trackName": "Coming of the Mandinka",
+      "trackId": "3jlPbsjgF8yBL0MjXZHwIM",
+      "preview": "https://p.scdn.co/mp3-preview/9b80ca8b24fd03971bc1cb04e604f58fae881c93?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b7e174afcf889e10176814f85038169115e4cff8",
+      "release_date": "2011-12-06"
+    },
+    {
+      "featuredArtist": "The Hula Blues Band",
+      "featuredArtistId": "6fkz7DwRkofWxdVfhGHv1u",
+      "trackName": "Great Big Boat",
+      "trackId": "0dsfwCvrWDjMn8DOIbUttX",
+      "preview": "https://p.scdn.co/mp3-preview/8129cd78df311befd5c33bf319561b9b133bb37d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b32ff25fb4ae92a071048fe8c6fc1c74b813c36d",
+      "release_date": "2001-04-22"
+    },
+    {
+      "featuredArtist": "Toumani Diabaté",
+      "featuredArtistId": "2nCACYdIndYchzX4bxLcTW",
+      "trackName": "Queen Bee",
+      "trackId": "2jIDsUcE8oeCjj9PY5eCko",
+      "preview": "https://p.scdn.co/mp3-preview/5c98e25446a53c2904edb3fb24501f3a8bcde5c8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/912542474ebced528beece7978f381c2dc77262b",
+      "release_date": "1999-08-02"
+    }
+  ]
+}

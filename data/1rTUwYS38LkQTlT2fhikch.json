@@ -1,0 +1,410 @@
+{
+  "artistName": "Yung Beef",
+  "features": [
+    {
+      "featuredArtist": "El Mini",
+      "featuredArtistId": "4I5bs1BXz3JsItL4pze2GN",
+      "trackName": "Juama (Remix) (feat. El Mini & Hakim)",
+      "trackId": "6Q8ZPDru5cxYHTtwPGOAWR",
+      "preview": "https://p.scdn.co/mp3-preview/7c22533cd636154bec36b2d4988c2810e9adcd8d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/106a450c0ce2c6fe3319948b842fb28ed86b0a7b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Hakim",
+      "featuredArtistId": "1IDyNsodRNmoN1TMh2rS41",
+      "trackName": "Juama (Remix) (feat. El Mini & Hakim)",
+      "trackId": "6Q8ZPDru5cxYHTtwPGOAWR",
+      "preview": "https://p.scdn.co/mp3-preview/7c22533cd636154bec36b2d4988c2810e9adcd8d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/106a450c0ce2c6fe3319948b842fb28ed86b0a7b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Khaled",
+      "featuredArtistId": "2YxK9SbJeVfkfk6QWHqj8K",
+      "trackName": "Keftawa (feat. Khaled & Hakim)",
+      "trackId": "6quXh08r348hL3d5OnlXgE",
+      "preview": "https://p.scdn.co/mp3-preview/11c5b516b3dd715cd28308cf0ff7f4640015f335?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/106a450c0ce2c6fe3319948b842fb28ed86b0a7b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Kaydy Cain",
+      "featuredArtistId": "4nXXIxTneJksvGXrlmX8oA",
+      "trackName": "International Trap (feat. Kaydy Cain & Marko)",
+      "trackId": "1qyWswL2lKUJ2Y2quyG4Ga",
+      "preview": "https://p.scdn.co/mp3-preview/3b4f69ef4a6c40b3e7ca2224e144093de8763901?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/106a450c0ce2c6fe3319948b842fb28ed86b0a7b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Marko",
+      "featuredArtistId": "3UgXjny9GFq16pWijCVyRh",
+      "trackName": "International Trap (feat. Kaydy Cain & Marko)",
+      "trackId": "1qyWswL2lKUJ2Y2quyG4Ga",
+      "preview": "https://p.scdn.co/mp3-preview/3b4f69ef4a6c40b3e7ca2224e144093de8763901?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/106a450c0ce2c6fe3319948b842fb28ed86b0a7b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "AC3",
+      "featuredArtistId": "3tN4Ae6wN6uRgEAxFlAhBe",
+      "trackName": "Changes (feat. AC3, Marcelo & Lazy)",
+      "trackId": "6jXuGTOBitnyMVHZqJec9g",
+      "preview": "https://p.scdn.co/mp3-preview/d558d07bf368aec96b193ccc57ecadc5db819722?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/106a450c0ce2c6fe3319948b842fb28ed86b0a7b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Marcelo",
+      "featuredArtistId": "0MIjbb1uczxFNMGw9VAKFW",
+      "trackName": "Changes (feat. AC3, Marcelo & Lazy)",
+      "trackId": "6jXuGTOBitnyMVHZqJec9g",
+      "preview": "https://p.scdn.co/mp3-preview/d558d07bf368aec96b193ccc57ecadc5db819722?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/106a450c0ce2c6fe3319948b842fb28ed86b0a7b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Lazy",
+      "featuredArtistId": "1eDnzHoOPGUJyKrKXAsbXv",
+      "trackName": "Changes (feat. AC3, Marcelo & Lazy)",
+      "trackId": "6jXuGTOBitnyMVHZqJec9g",
+      "preview": "https://p.scdn.co/mp3-preview/d558d07bf368aec96b193ccc57ecadc5db819722?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/106a450c0ce2c6fe3319948b842fb28ed86b0a7b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Somadamantina",
+      "featuredArtistId": "6aZlwGumthiTDOQ5iaCI5x",
+      "trackName": "Ducati Luv (feat. Somadamantina)",
+      "trackId": "2qyx6ZzkgfIK39so06puU8",
+      "preview": "https://p.scdn.co/mp3-preview/910ecbfc7dec3676a71d4280f39205e101f6a021?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/106a450c0ce2c6fe3319948b842fb28ed86b0a7b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Fly Migo Bankroll",
+      "featuredArtistId": "3VrwvDu7fhQRUa6Ak53JU2",
+      "trackName": "Hijos del Trap (feat. Fly Migo Bankroll)",
+      "trackId": "7yTbblPekOocTwcEBCFfxJ",
+      "preview": "https://p.scdn.co/mp3-preview/1df16f7751900fa0f036a5fcc23cd8829eae1204?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/106a450c0ce2c6fe3319948b842fb28ed86b0a7b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "LOWLIGHT",
+      "featuredArtistId": "7LHU5Uga349zOVMpDPf4ij",
+      "trackName": "Lowlights (feat. Lowlight)",
+      "trackId": "3yP7seAYK1Ut9cQgSlyYym",
+      "preview": "https://p.scdn.co/mp3-preview/04924a9654da5f93e56c833b01db8f664f80ec80?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/106a450c0ce2c6fe3319948b842fb28ed86b0a7b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Marko Italia",
+      "featuredArtistId": "4jodefSETPrPm4qkYPXSQT",
+      "trackName": "Tengo Que Calmarme (feat. Marko Italia)",
+      "trackId": "5h1ChdL3K4WqR3xhUT2Yqd",
+      "preview": "https://p.scdn.co/mp3-preview/e3d87ed19a08940466f5e5315907ead4b6e6064d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/106a450c0ce2c6fe3319948b842fb28ed86b0a7b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "El Asesino 187",
+      "featuredArtistId": "3SqVmuKTErNu4y5Gzj1t3z",
+      "trackName": "Tamos a Fuego (feat. El Asesino 187)",
+      "trackId": "7cKx95c045U3QUHJy3gA3N",
+      "preview": "https://p.scdn.co/mp3-preview/085878c530b5b8684b8ea313a990f59b709832fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/106a450c0ce2c6fe3319948b842fb28ed86b0a7b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Dj Krizis",
+      "featuredArtistId": "0GKDsjgAKse6nzW9icaHri",
+      "trackName": "Mami Matame Under Mix",
+      "trackId": "3BpXizpqmUhyxfK7npmXfU",
+      "preview": "https://p.scdn.co/mp3-preview/e90d2a373106238844a9062af289ff99468e0236?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/106a450c0ce2c6fe3319948b842fb28ed86b0a7b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Cookin Soul",
+      "featuredArtistId": "06s35sbFfZJUEwFjAaZfiW",
+      "trackName": "Cocinando Filete (feat. Cookin Soul)",
+      "trackId": "3Df1PQ2DqnadLuDv3rjsMB",
+      "preview": "https://p.scdn.co/mp3-preview/4216e137ca5808f4ffabb841fcc6fdf5d31df43f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/106a450c0ce2c6fe3319948b842fb28ed86b0a7b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Wxnder Bxy",
+      "featuredArtistId": "2OCEaCLsA74czcUFPpldeD",
+      "trackName": "Yung Sun - Wxnder Bxy Remix",
+      "trackId": "6cvDjC76gSdt93tHv35a8D",
+      "preview": "https://p.scdn.co/mp3-preview/28d63750bb0b97a8fff86bef7c2c5f71dd030155?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/106a450c0ce2c6fe3319948b842fb28ed86b0a7b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Lavey",
+      "featuredArtistId": "2dzOi24RUJzeFcKg44sMiA",
+      "trackName": "666 (feat. Lavey & Jamal)",
+      "trackId": "5QWvegznkKJVVgdWio9Vqn",
+      "preview": "https://p.scdn.co/mp3-preview/a88adfd8f2058128cb134d8b757931cca0f52e0a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/106a450c0ce2c6fe3319948b842fb28ed86b0a7b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Jamal",
+      "featuredArtistId": "56wMNEAcTJhxIKMqwgfoI9",
+      "trackName": "666 (feat. Lavey & Jamal)",
+      "trackId": "5QWvegznkKJVVgdWio9Vqn",
+      "preview": "https://p.scdn.co/mp3-preview/a88adfd8f2058128cb134d8b757931cca0f52e0a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/106a450c0ce2c6fe3319948b842fb28ed86b0a7b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Trapani",
+      "featuredArtistId": "28rWQw5BJACsEKH444pbgJ",
+      "trackName": "Una Tana y Una Katana (feat. Trapani)",
+      "trackId": "2wNuPXbxsvMZRyM3UecWCt",
+      "preview": "https://p.scdn.co/mp3-preview/69eeaeb561e233ebb0890feffd6ef8830416b7a1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/106a450c0ce2c6fe3319948b842fb28ed86b0a7b",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "1.8.7",
+      "featuredArtistId": "4UpeJIU7RBB0RG7IiXP9D2",
+      "trackName": "All Of My Bitches Satanic",
+      "trackId": "3hIG3J456k7YcMzKba3UjZ",
+      "preview": "https://p.scdn.co/mp3-preview/213aff584f03b24ae9c52f38bfa9506d95c2882d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5bf30e39e5087cc1fc23c5c77eac2d5af74c96ce",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "Steve Lean",
+      "featuredArtistId": "43C3LVD6x8GLvputT34r6T",
+      "trackName": "Intro",
+      "trackId": "15XQqx4W62cMRHyFjqK91w",
+      "preview": "https://p.scdn.co/mp3-preview/6efbb4197e28f0958d7a8802d431f1ede014511f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8a98ba28fa38221cf94d6e74aef7c30c3402e86a",
+      "release_date": "2015-12-25"
+    },
+    {
+      "featuredArtist": "Marko Italia",
+      "featuredArtistId": "3NdULOVCdno3ytlwLaF8pv",
+      "trackName": "Motriles (feat. Marko Italia)",
+      "trackId": "4TvukLlD9lgKNEwi3tohCy",
+      "preview": "https://p.scdn.co/mp3-preview/8e3be96ab677626de6a65881e2ec68180104b204?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8a98ba28fa38221cf94d6e74aef7c30c3402e86a",
+      "release_date": "2015-12-25"
+    },
+    {
+      "featuredArtist": "Hakim Lemon Haze",
+      "featuredArtistId": "3gGRaP2yMnhuuJyOV6PiIu",
+      "trackName": "La Diferencia (feat. Hakim Lemon Haze)",
+      "trackId": "2CjICf9lgcjhJ4WysXe1CY",
+      "preview": "https://p.scdn.co/mp3-preview/965cf3876857f9a57c06b906d0578f36f94b2ee6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8a98ba28fa38221cf94d6e74aef7c30c3402e86a",
+      "release_date": "2015-12-25"
+    },
+    {
+      "featuredArtist": "OFB",
+      "featuredArtistId": "3k4MAu9fkLG2CiwjOXIFKs",
+      "trackName": "En Yola (Off the Boat) (feat. Khaled & OFB)",
+      "trackId": "34FiukmiUCse0dZYxmAAsv",
+      "preview": "https://p.scdn.co/mp3-preview/62d79fb3e4fd43f836ef78c0c2527284ca960641?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8a98ba28fa38221cf94d6e74aef7c30c3402e86a",
+      "release_date": "2015-12-25"
+    },
+    {
+      "featuredArtist": "La Favi",
+      "featuredArtistId": "5lnsY88L4HEVxNUMCefego",
+      "trackName": "Lusifel (feat. La Favi, El Mini & La Nina)",
+      "trackId": "2w7KpuBVor4l6u6vL8OEFp",
+      "preview": "https://p.scdn.co/mp3-preview/01df9c840b88500d012dd1ac0a62175e23e6bd63?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c11b95bc4f42358f22fc05aaa8b91cb2d0fb7b9",
+      "release_date": "2015-12-23"
+    },
+    {
+      "featuredArtist": "La Nina",
+      "featuredArtistId": "1jW49I69nNRtxleHEVXWZM",
+      "trackName": "Lusifel (feat. La Favi, El Mini & La Nina)",
+      "trackId": "2w7KpuBVor4l6u6vL8OEFp",
+      "preview": "https://p.scdn.co/mp3-preview/01df9c840b88500d012dd1ac0a62175e23e6bd63?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c11b95bc4f42358f22fc05aaa8b91cb2d0fb7b9",
+      "release_date": "2015-12-23"
+    },
+    {
+      "featuredArtist": "Fernandito Kit Kat",
+      "featuredArtistId": "2E2GrD7ijKEVHDVgKJEcTG",
+      "trackName": "La Chica Vampira (feat. Fernandito Kit Kat & El Mini)",
+      "trackId": "2IExWkCb9cCdJbJZZtlRtn",
+      "preview": "https://p.scdn.co/mp3-preview/b216fbca15c6d8e14f89060f6cbd7285d03fa0c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c11b95bc4f42358f22fc05aaa8b91cb2d0fb7b9",
+      "release_date": "2015-12-23"
+    },
+    {
+      "featuredArtist": "Seko el Real",
+      "featuredArtistId": "1C6tTxyS36huptOBKN69MX",
+      "trackName": "El Party Ta PR (feat. Fernandito Kit Kat & Seko El Real)",
+      "trackId": "3dsUh9N52ld9V0mV79Ebl3",
+      "preview": "https://p.scdn.co/mp3-preview/e0bec2dcc0974ef2c07691bfec3ba71d542ac83d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c11b95bc4f42358f22fc05aaa8b91cb2d0fb7b9",
+      "release_date": "2015-12-23"
+    },
+    {
+      "featuredArtist": "Gian Mata",
+      "featuredArtistId": "1hcvS1S0Wy72aJ6A3R1LLN",
+      "trackName": "Se Sueltan (feat. Fernandito Kit Kat & Gian Mata)",
+      "trackId": "0ouqMyBmoLbBWcMFofCxLO",
+      "preview": "https://p.scdn.co/mp3-preview/f6e495667b1025b62616d76c842b25756c718017?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c11b95bc4f42358f22fc05aaa8b91cb2d0fb7b9",
+      "release_date": "2015-12-23"
+    },
+    {
+      "featuredArtist": "Seko The Real",
+      "featuredArtistId": "7u1kGDGqSHzH3NMs5utJrv",
+      "trackName": "Bricks del Futuro (feat. Seko The Real)",
+      "trackId": "2CLPgXreQ0bweo6AUVgvax",
+      "preview": "https://p.scdn.co/mp3-preview/1f38c301d0e75b83c0ba71bd2b3a497a896abe3e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9c104f9eaabe8ea8e18278924bd5772383103ab4",
+      "release_date": "2015-02-26"
+    },
+    {
+      "featuredArtist": "D.Gomez",
+      "featuredArtistId": "6hBNo4Z7hoGlQDP1vNy5MS",
+      "trackName": "Rubirosa Play Boy (feat. D.Gomez)",
+      "trackId": "7mOlScOlSusoKNK5FMiyFA",
+      "preview": "https://p.scdn.co/mp3-preview/935540bbbfdf43495953201a6c398343fd80fea9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9c104f9eaabe8ea8e18278924bd5772383103ab4",
+      "release_date": "2015-02-26"
+    },
+    {
+      "featuredArtist": "La Xero",
+      "featuredArtistId": "6LRUlNJtmpxy2AQiIzMmgB",
+      "trackName": "Llegas Tarde A Casa (feat. La Xero)",
+      "trackId": "2rRWQsxpaAPmgNyet1IuBY",
+      "preview": "https://p.scdn.co/mp3-preview/30e43740ee508cd85af19597377f18e8d0c3c954?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9c104f9eaabe8ea8e18278924bd5772383103ab4",
+      "release_date": "2015-02-26"
+    },
+    {
+      "featuredArtist": "Yung Bzo",
+      "featuredArtistId": "0ZvNBCnvQawpbvDDCRqaTS",
+      "trackName": "Switch It Up (feat. Yung Bzo)",
+      "trackId": "004nD77S94QyYuDDoYzL6Y",
+      "preview": "https://p.scdn.co/mp3-preview/e60f9028a12b4594f61cf3b8a6c8c918e967f1a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d9812c3adcdbc25933e87fc8c8781edc73c9e546",
+      "release_date": "2014-10-22"
+    },
+    {
+      "featuredArtist": "D. Gomez",
+      "featuredArtistId": "3L3lHlS1YVY2YgtazH8YSH",
+      "trackName": "Amor a Quemarropa (feat. D. Gomez)",
+      "trackId": "2Y1mTbQ9gFvZQpm7SyaGvj",
+      "preview": "https://p.scdn.co/mp3-preview/ea0f96083223c469a12fe0a4e276164883646f43?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d9812c3adcdbc25933e87fc8c8781edc73c9e546",
+      "release_date": "2014-10-22"
+    },
+    {
+      "featuredArtist": "Hakim",
+      "featuredArtistId": "78SnPefpZS4MuZmtBxRoWo",
+      "trackName": "Samsung Galaxy (feat. Hakim)",
+      "trackId": "5pS4OuPmkeI3sdcqNgvx7p",
+      "preview": "https://p.scdn.co/mp3-preview/7c44c2fc6a64fc90e5edd700faf4d4eea00bf195?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d9812c3adcdbc25933e87fc8c8781edc73c9e546",
+      "release_date": "2014-10-22"
+    },
+    {
+      "featuredArtist": "Mon8bit",
+      "featuredArtistId": "3q7HfaG3XJuYJbsvnJIroM",
+      "trackName": "El Secreto de la Vida (feat. Mon8bit)",
+      "trackId": "0qQekHRoxhX9cSGIzfP7pE",
+      "preview": "https://p.scdn.co/mp3-preview/92b40c3811e95520c548db384bd2e3bc799e3ff8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3e6e54ca90eb47d0a0a792fc82ca9ea0d7f3cf03",
+      "release_date": "2013-12-06"
+    },
+    {
+      "featuredArtist": "Lil Moss",
+      "featuredArtistId": "5U9NUMr17AUEwKr0lSbgw6",
+      "trackName": "No Importa",
+      "trackId": "255oVC6ME5XK2dJwlKDi4B",
+      "preview": "https://p.scdn.co/mp3-preview/ffc7d1f1dc54efe467ae4767b55973b8e1bf6933?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bccd0c1676ecebb802f70c18cfa5a32b1c1f7717",
+      "release_date": "2017-06-02"
+    },
+    {
+      "featuredArtist": "6ix9ine",
+      "featuredArtistId": "7gZfnEnfiaHzxARJ2LeXrf",
+      "trackName": "No Fucks",
+      "trackId": "1WWmXKQgFTfO2Dp0GpYtMs",
+      "preview": "https://p.scdn.co/mp3-preview/f7117f83e673d151400a1250cb69c86f5793eed3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bccd0c1676ecebb802f70c18cfa5a32b1c1f7717",
+      "release_date": "2017-06-02"
+    },
+    {
+      "featuredArtist": "Gotay \"El Autentiko\"",
+      "featuredArtistId": "6ieK9Ddas29reReO60on3o",
+      "trackName": "Tirando el Money",
+      "trackId": "7s2Hf5N2fA6tpJCtxXbO6u",
+      "preview": "https://p.scdn.co/mp3-preview/2ab95c2ca85c0aabfd299729e36e8ba9295b0af5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9e1b471197b57e6a566db30f83de52ffe4e7452b",
+      "release_date": "2017-02-10"
+    },
+    {
+      "featuredArtist": "DELLAFUENTE",
+      "featuredArtistId": "4bJh7sMPcVRiqe5jlnsWQV",
+      "trackName": "Mercedes McLaren SLR",
+      "trackId": "35thLCg9trthJz9SGoVAn6",
+      "preview": "https://p.scdn.co/mp3-preview/5d652e8b46ad52e1af3cfd02249cedeb072f1ff6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bace4f332d96450f0c4a724905040c53839dbacf",
+      "release_date": "2016-12-21"
+    },
+    {
+      "featuredArtist": "Hakim",
+      "featuredArtistId": "5IOUXfPAY7tyF8NdIWty18",
+      "trackName": "Ni Sepo Ni Sapo (feat. Hakim)",
+      "trackId": "0OQYiN52eh53OO0AKb45OD",
+      "preview": "https://p.scdn.co/mp3-preview/39dc1587d7bc2fbfd6a12044ead8c9269029d663?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5f9fffd350d6be20938642782de10d1126ffb263",
+      "release_date": "2015-05-10"
+    },
+    {
+      "featuredArtist": "PXXR GVNG",
+      "featuredArtistId": "3W6b4y4xGi54bEPI5nWQlz",
+      "trackName": "Suk a Goonie Dik (feat. PXXR GVNG)",
+      "trackId": "1ddHpH3Xw3DalSIa7wdGaQ",
+      "preview": "https://p.scdn.co/mp3-preview/73b7f0097edc1ecfd5c1a3faae616e65137fccd7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9327e647bff349d335dd6d557dea175bb3bef144",
+      "release_date": "2015-03-23"
+    },
+    {
+      "featuredArtist": "El Mini",
+      "featuredArtistId": "5N2EI1jLp70PbgQB51540Q",
+      "trackName": "Girl Scout Cookies (feat. El Mini)",
+      "trackId": "2GaMDeXmbg474Ei6YK0ClT",
+      "preview": "https://p.scdn.co/mp3-preview/6de85f195a04531b93efd43455497e1676c48663?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9327e647bff349d335dd6d557dea175bb3bef144",
+      "release_date": "2015-03-23"
+    },
+    {
+      "featuredArtist": "Papi Trujillo",
+      "featuredArtistId": "7dG3aAHAFVHMyQo9meGLwb",
+      "trackName": "I Wish U",
+      "trackId": "1NUzsMfJ557x546z1F7Mzh",
+      "preview": "https://p.scdn.co/mp3-preview/c2e07db23646c921b4739f01a09527796aed568d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fc014099d8d2a80dcbbab5b3fcef4f4aed5f6a88",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Javielito",
+      "featuredArtistId": "5I6kfMmPk4HadCo5pJ1vwt",
+      "trackName": "Como Nunca Antes",
+      "trackId": "0PvbmrT8mRh8w8rbJMhqWO",
+      "preview": "https://p.scdn.co/mp3-preview/99a064f393aa0a6a5cf116700be36fd2b827a096?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/737cf64e0ebdce2b91fd1505f5c4f99b5cb92a32",
+      "release_date": "2017-10-27"
+    }
+  ]
+}

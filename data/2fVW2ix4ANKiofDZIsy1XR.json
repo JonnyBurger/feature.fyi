@@ -1,0 +1,32 @@
+{
+  "artistName": "Vargas & Lagola",
+  "features": [
+    {
+      "featuredArtist": "Agnes",
+      "featuredArtistId": "6SsTlCsuCYleNza6xGwynu",
+      "trackName": "More Than You Know - Acoustic",
+      "trackId": "0t71KNlBisdoNsOCwEtu7r",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/95df7561bcdeaff209da0b6e9f1c333e4e7200d0",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "NONONO",
+      "featuredArtistId": "513t0jZUP0K98C4h7KHtEb",
+      "trackName": "Masterpiece - Vargas & Lagola Remix",
+      "trackId": "5IAEUXxP8YNEAEKvhUy2At",
+      "preview": "https://p.scdn.co/mp3-preview/e78a7d7c9c86fc65a83885f9a7c5e99f8469b6a5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce6462e1e090a8a28675cbb245f2b422635979f3",
+      "release_date": "2017-11-09"
+    },
+    {
+      "featuredArtist": "Avicii",
+      "featuredArtistId": "1vCWHaC5f2uS3yhpwWbIA6",
+      "trackName": "Friend Of Mine (feat. Vargas & Lagola)",
+      "trackId": "5wl32jJoBEyWUaDOtJVoMo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ba2fd8823d42802c2f8738db0b33a4597f2f39e7",
+      "release_date": "2017-08-10"
+    }
+  ]
+}

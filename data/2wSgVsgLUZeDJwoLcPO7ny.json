@@ -1,0 +1,32 @@
+{
+  "artistName": "Pistol Annies",
+  "features": [
+    {
+      "featuredArtist": "Blake Shelton",
+      "featuredArtistId": "1UTPBmNbXNTittyMJrNkvw",
+      "trackName": "Boys 'Round Here (feat. Pistol Annies) - Live",
+      "trackId": "2AAtzf2ZnXaAYOKIGs5g6u",
+      "preview": "https://p.scdn.co/mp3-preview/ec9a39e680823616860addfbc6bb8d0d3325c7ca?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce9c0586da471c49529a651a313155d13575c61c",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "Jewel",
+      "featuredArtistId": "6FbDoZnMBTdhhhLuJBOOqP",
+      "trackName": "You Were Meant For Me (feat. Pistol Annies)",
+      "trackId": "1a409zLBImPG261873Y2lx",
+      "preview": "https://p.scdn.co/mp3-preview/62290dcd111d79a31ec47ee4fc5c4ba6df4bc07b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/69aa13b634c241d3afe9385bc7a7b45153a55310",
+      "release_date": "2013-02-01"
+    },
+    {
+      "featuredArtist": "Miranda Lambert",
+      "featuredArtistId": "66lH4jAE7pqPlOlzUKbwA0",
+      "trackName": "Run Daddy Run",
+      "trackId": "2RX3vPP9bH8xAmAnDAd9ku",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aa27245757a5668597b685402ae23f2849e91ef2",
+      "release_date": "2012-01-01"
+    }
+  ]
+}

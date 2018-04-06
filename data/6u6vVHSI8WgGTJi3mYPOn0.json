@@ -1,0 +1,50 @@
+{
+  "artistName": "Lils",
+  "features": [
+    {
+      "featuredArtist": "MADE IN LA",
+      "featuredArtistId": "4ydzsIah5wYpgPj12nkeOg",
+      "trackName": "Let Me Down (feat. Made in La)",
+      "trackId": "5P28LEnrgAkxXZUu5MDm9m",
+      "preview": "https://p.scdn.co/mp3-preview/70bb72d2c785013008fa58c7053e507616db3034?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9169a7e9723fd0d0619ab87a19f75acf52ed1da",
+      "release_date": "2016-06-07"
+    },
+    {
+      "featuredArtist": "Autograf",
+      "featuredArtistId": "0FVj4JuzTyudaXAwfqDQ20",
+      "trackName": "Dead Soon",
+      "trackId": "2HsO0iKpvi3yKhQK45FMwU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c5904d5c44388ff12efb2d104534a4ccd6886445",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Bonsai Mammal",
+      "featuredArtistId": "13iDdIpwM4TXBNgdEEc5MK",
+      "trackName": "Dead Soon",
+      "trackId": "2HsO0iKpvi3yKhQK45FMwU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c5904d5c44388ff12efb2d104534a4ccd6886445",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "GoldFish",
+      "featuredArtistId": "0uRdK8gy7fXJGRywrlmPM7",
+      "trackName": "You Might Be (feat. Lils) - GoldFish Remix",
+      "trackId": "0JshnWfAOhnJiob29TL7XO",
+      "preview": "https://p.scdn.co/mp3-preview/f0dc7b7e96a1958f66e880803a756c8c15f183fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/325c6aed940b0faedfcf5d03657c854cc2407b69",
+      "release_date": "2017-07-07"
+    },
+    {
+      "featuredArtist": "Gianni Kosta",
+      "featuredArtistId": "2nHezWCvmwEBHV6y2v3GLD",
+      "trackName": "You Might Be (feat. Lils) - Gianni Kosta Remix",
+      "trackId": "205zeuCWOIiibW3Fj7PrlQ",
+      "preview": "https://p.scdn.co/mp3-preview/45c66656e23be7387c1992a2b091fa179ca80363?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/325c6aed940b0faedfcf5d03657c854cc2407b69",
+      "release_date": "2017-07-07"
+    }
+  ]
+}

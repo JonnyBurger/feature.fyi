@@ -1,0 +1,32 @@
+{
+  "artistName": "Silbermond",
+  "features": [
+    {
+      "featuredArtist": "Moses Pelham",
+      "featuredArtistId": "00DSCauOVv9bIKe8bGWSTG",
+      "trackName": "Meine Heimat - Live in Dresden 2017",
+      "trackId": "1HxSPuXiOh9oUjUMpF5xfH",
+      "preview": "https://p.scdn.co/mp3-preview/9ed9b8f705b42cabcd241c5780984e45a547882e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/895eee838b68b415875509e2cd0ea3e25f00822b",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Jan Delay",
+      "featuredArtistId": "4KivBMgSnZ7hCDfPm46fKc",
+      "trackName": "Nicht mein Problem",
+      "trackId": "2GkJRHWM0TCXYbmccxacTX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/595ebbe7df04ebb0a94ac43a1f00486c979ea9a3",
+      "release_date": "2014-12-05"
+    },
+    {
+      "featuredArtist": "MZRT",
+      "featuredArtistId": "2gDXXNBEeEkfrfZ2qWCoOJ",
+      "trackName": "Das Leichteste der Welt - MZRT Remix",
+      "trackId": "4pVlOUuaSlbzFPLebBUl1p",
+      "preview": "https://p.scdn.co/mp3-preview/df2e47c972f5ff5725af9e8e639baaa4e007bae1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9b68823dc5a5203c0951048c2b9c71f0fa346834",
+      "release_date": "2016-07-29"
+    }
+  ]
+}

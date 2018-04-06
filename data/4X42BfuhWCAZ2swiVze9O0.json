@@ -1,0 +1,23 @@
+{
+  "artistName": "Steven Wilson",
+  "features": [
+    {
+      "featuredArtist": "Ninet Tayeb",
+      "featuredArtistId": "4oEhVAb4wkpqQbOqVMroI4",
+      "trackName": "Pariah",
+      "trackId": "7CcaktZZsdb8AWPdhDM38f",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1f41685d7ea5defff8454b19c8880d7edd3710ab",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Sophie Hunger",
+      "featuredArtistId": "3nOQJdlPEzFVhTEzxwcGax",
+      "trackName": "Song Of I",
+      "trackId": "0rHyrUwNjEJKRywss2MvTm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1f41685d7ea5defff8454b19c8880d7edd3710ab",
+      "release_date": "2017-08-18"
+    }
+  ]
+}

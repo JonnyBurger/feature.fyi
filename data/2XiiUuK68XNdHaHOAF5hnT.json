@@ -1,0 +1,50 @@
+{
+  "artistName": "Curbi",
+  "features": [
+    {
+      "featuredArtist": "Hasse de Moor",
+      "featuredArtistId": "6DUflJztMaLRxX7uychqx4",
+      "trackName": "LYM",
+      "trackId": "4mkzjhhL5r3koWoOg8JI7t",
+      "preview": "https://p.scdn.co/mp3-preview/c040dea016b4c0f4dbd52eb035a538b19508d5d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ad3e8eb7468b313a0c572f198499f28d37b249f",
+      "release_date": "2017-10-23"
+    },
+    {
+      "featuredArtist": "Lucas & Steve",
+      "featuredArtistId": "5wwneIFdawNgQ7GvKK29Z3",
+      "trackName": "Let's Go",
+      "trackId": "4Q6ZUid2qqoxX3GTlBLCCP",
+      "preview": "https://p.scdn.co/mp3-preview/34d2665cbcef5662c610d25cdcf9a07819875b77?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cfdd1dc397a433596a2a7e22ffe1e36246198ee9",
+      "release_date": "2017-07-03"
+    },
+    {
+      "featuredArtist": "Mike Williams",
+      "featuredArtistId": "3IpvVrP3VLhruTmnququq7",
+      "trackName": "Let's Go",
+      "trackId": "4Q6ZUid2qqoxX3GTlBLCCP",
+      "preview": "https://p.scdn.co/mp3-preview/34d2665cbcef5662c610d25cdcf9a07819875b77?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cfdd1dc397a433596a2a7e22ffe1e36246198ee9",
+      "release_date": "2017-07-03"
+    },
+    {
+      "featuredArtist": "Mesto",
+      "featuredArtistId": "0RViEWnZO2VhmY4oI0PhF9",
+      "trackName": "BRUH",
+      "trackId": "03R2HwsAjLqmcmhvjK5eba",
+      "preview": "https://p.scdn.co/mp3-preview/cd6f31a81f41dec525194bd1d6fd4dcf666ec9f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d7bec579251a385ad6b7ffb80aae1c12f1d725fd",
+      "release_date": "2017-04-10"
+    },
+    {
+      "featuredArtist": "Fox Stevenson",
+      "featuredArtistId": "2BQWHuvxG4kMYnfghdaCIy",
+      "trackName": "Hoohah - VIP Edit",
+      "trackId": "6FsbGFhn0tdA53U6FFKMiz",
+      "preview": "https://p.scdn.co/mp3-preview/be40aa6d3ef5c1859ed44ea942c9f8bf52953d61?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9500074726a89611b2e7dd7a7c35f987f19e5ccb",
+      "release_date": "2016-12-12"
+    }
+  ]
+}

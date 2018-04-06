@@ -1,0 +1,590 @@
+{
+  "artistName": "Immortal Technique",
+  "features": [
+    {
+      "featuredArtist": "DJ Green Lantern",
+      "featuredArtistId": "2Fzxa58BAbUa6XVw8t2zkl",
+      "trackName": "Death March Intro",
+      "trackId": "5Vt5lR6N5aFT6LQjVa38B4",
+      "preview": "https://p.scdn.co/mp3-preview/16285baf20299d5babc9024a0237765f8bbea544?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/638948d8120fd4530aa50b0e58742cecbeba3dba",
+      "release_date": "2008-06-24"
+    },
+    {
+      "featuredArtist": "Temperamento Y Veneno",
+      "featuredArtistId": "0TM8CbvAm2ZhXw9oeAxUws",
+      "trackName": "Golpe de Estado",
+      "trackId": "4U2rC0hnjSYShAZ1LYPK7f",
+      "preview": "https://p.scdn.co/mp3-preview/4e0c49cfd93e19625bd8f43938c09cd347664cf5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/638948d8120fd4530aa50b0e58742cecbeba3dba",
+      "release_date": "2008-06-24"
+    },
+    {
+      "featuredArtist": "KXNG Crooked",
+      "featuredArtistId": "6fFfnKGVI6X3lkCr8Qw1g1",
+      "trackName": "Lick Shots",
+      "trackId": "2GGTd6ox3qCTL2SQ0L4shp",
+      "preview": "https://p.scdn.co/mp3-preview/0d82641d97cfa239c6afdd648498465494d15f88?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/638948d8120fd4530aa50b0e58742cecbeba3dba",
+      "release_date": "2008-06-24"
+    },
+    {
+      "featuredArtist": "Chino XL",
+      "featuredArtistId": "5LwKO8miPaSz4jW0jcuNFX",
+      "trackName": "Lick Shots",
+      "trackId": "2GGTd6ox3qCTL2SQ0L4shp",
+      "preview": "https://p.scdn.co/mp3-preview/0d82641d97cfa239c6afdd648498465494d15f88?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/638948d8120fd4530aa50b0e58742cecbeba3dba",
+      "release_date": "2008-06-24"
+    },
+    {
+      "featuredArtist": "The Psycho Realm",
+      "featuredArtistId": "3WelTIRY2ET1Xhze34RVG9",
+      "trackName": "Hollywood Drive By",
+      "trackId": "562iLKpCRnsAuqoeflQp6m",
+      "preview": "https://p.scdn.co/mp3-preview/def25d2e381d9c713d69dec18cb583a0ec60866e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/638948d8120fd4530aa50b0e58742cecbeba3dba",
+      "release_date": "2008-06-24"
+    },
+    {
+      "featuredArtist": "Sick Symphonies",
+      "featuredArtistId": "6P8CnSm1fsZmutWxKcbWxe",
+      "trackName": "Hollywood Drive By",
+      "trackId": "562iLKpCRnsAuqoeflQp6m",
+      "preview": "https://p.scdn.co/mp3-preview/def25d2e381d9c713d69dec18cb583a0ec60866e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/638948d8120fd4530aa50b0e58742cecbeba3dba",
+      "release_date": "2008-06-24"
+    },
+    {
+      "featuredArtist": "Akir",
+      "featuredArtistId": "4OPwFSuypxZLw3ZL0Ei2UZ",
+      "trackName": "Watchout - Remix",
+      "trackId": "5Jya84g1vK6wPYnQsdvr31",
+      "preview": "https://p.scdn.co/mp3-preview/81583d7382e56712b831ab4039d43dcd92bed35e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/638948d8120fd4530aa50b0e58742cecbeba3dba",
+      "release_date": "2008-06-24"
+    },
+    {
+      "featuredArtist": "Pharoahe Monch",
+      "featuredArtistId": "5DKuVtlpDH0agZQUFDy8O7",
+      "trackName": "Watchout - Remix",
+      "trackId": "5Jya84g1vK6wPYnQsdvr31",
+      "preview": "https://p.scdn.co/mp3-preview/81583d7382e56712b831ab4039d43dcd92bed35e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/638948d8120fd4530aa50b0e58742cecbeba3dba",
+      "release_date": "2008-06-24"
+    },
+    {
+      "featuredArtist": "Mojo",
+      "featuredArtistId": "2QwLnnvQD0oR1Gfl1TDhIJ",
+      "trackName": "Reverse Pimpology",
+      "trackId": "7tkCpDuUL2Aw3cRBVLj5HD",
+      "preview": "https://p.scdn.co/mp3-preview/9a5353ab97159ad47a34f93bbc6a9caebff8ab6a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/638948d8120fd4530aa50b0e58742cecbeba3dba",
+      "release_date": "2008-06-24"
+    },
+    {
+      "featuredArtist": "Diabolic",
+      "featuredArtistId": "15GygzQHeg7bjfowjyLvyH",
+      "trackName": "Payback",
+      "trackId": "4oxXB66D3qr3rX2RgfEPUd",
+      "preview": "https://p.scdn.co/mp3-preview/620ad266c3bed490bfacd973ca763c0088fe7d54?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/638948d8120fd4530aa50b0e58742cecbeba3dba",
+      "release_date": "2008-06-24"
+    },
+    {
+      "featuredArtist": "Ras Kass",
+      "featuredArtistId": "0OiS4KHxViIFnJooFTXl7V",
+      "trackName": "Payback",
+      "trackId": "4oxXB66D3qr3rX2RgfEPUd",
+      "preview": "https://p.scdn.co/mp3-preview/620ad266c3bed490bfacd973ca763c0088fe7d54?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/638948d8120fd4530aa50b0e58742cecbeba3dba",
+      "release_date": "2008-06-24"
+    },
+    {
+      "featuredArtist": "Poison Pen",
+      "featuredArtistId": "5Pm1ivc6SEmNCl6Z8oXVGi",
+      "trackName": "Stronghold Grip",
+      "trackId": "17T6mO9Wp49uv4tORTTaHd",
+      "preview": "https://p.scdn.co/mp3-preview/a7bbc28bcd4ff32ba1cd7523fc9ab25caa332578?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/638948d8120fd4530aa50b0e58742cecbeba3dba",
+      "release_date": "2008-06-24"
+    },
+    {
+      "featuredArtist": "Swave Sevah",
+      "featuredArtistId": "1RfBs7XUPTOKxCzsGjVaqj",
+      "trackName": "Stronghold Grip",
+      "trackId": "17T6mO9Wp49uv4tORTTaHd",
+      "preview": "https://p.scdn.co/mp3-preview/a7bbc28bcd4ff32ba1cd7523fc9ab25caa332578?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/638948d8120fd4530aa50b0e58742cecbeba3dba",
+      "release_date": "2008-06-24"
+    },
+    {
+      "featuredArtist": "Maya Azucena",
+      "featuredArtistId": "4kzvsvRwyAj0GHs1RGsFg8",
+      "trackName": "Crimes of the Heart",
+      "trackId": "4LjnZ7KJRHtoYxx3S8pAsw",
+      "preview": "https://p.scdn.co/mp3-preview/6e938298cea3d5224d92d13b548def0ec63a11de?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/638948d8120fd4530aa50b0e58742cecbeba3dba",
+      "release_date": "2008-06-24"
+    },
+    {
+      "featuredArtist": "J. Arch",
+      "featuredArtistId": "5ZT76E4euBzMisk69v9nUM",
+      "trackName": "Rebel Arms",
+      "trackId": "1Ez0RCWIp8rbo4lwSORlzB",
+      "preview": "https://p.scdn.co/mp3-preview/64aba026470fdc0c77102ab76415b6c83b249322?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/638948d8120fd4530aa50b0e58742cecbeba3dba",
+      "release_date": "2008-06-24"
+    },
+    {
+      "featuredArtist": "Da Circle",
+      "featuredArtistId": "1cMSiGbVFI4xk0sovtKkwh",
+      "trackName": "Rebel Arms",
+      "trackId": "1Ez0RCWIp8rbo4lwSORlzB",
+      "preview": "https://p.scdn.co/mp3-preview/64aba026470fdc0c77102ab76415b6c83b249322?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/638948d8120fd4530aa50b0e58742cecbeba3dba",
+      "release_date": "2008-06-24"
+    },
+    {
+      "featuredArtist": "Pumpkinhead",
+      "featuredArtistId": "6DlRKPBLhSYo0KbxVPljBk",
+      "trackName": "Peruvian Cocaine",
+      "trackId": "3nktGs7MeEKAq2f7YSpENs",
+      "preview": "https://p.scdn.co/mp3-preview/e47a4901d135d96e9628cb8f40eeb62515a632bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4ae5b9477a46dd41e7dbc3247af92c2c3ceb6e61",
+      "release_date": "2003-11-18"
+    },
+    {
+      "featuredArtist": "C-Rayz Walz",
+      "featuredArtistId": "1l4hfWLBSaYjCO8E0lzASA",
+      "trackName": "Peruvian Cocaine",
+      "trackId": "3nktGs7MeEKAq2f7YSpENs",
+      "preview": "https://p.scdn.co/mp3-preview/e47a4901d135d96e9628cb8f40eeb62515a632bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4ae5b9477a46dd41e7dbc3247af92c2c3ceb6e61",
+      "release_date": "2003-11-18"
+    },
+    {
+      "featuredArtist": "Loucipher",
+      "featuredArtistId": "54rUhWtGTfR3GMKNyGXyRW",
+      "trackName": "Peruvian Cocaine",
+      "trackId": "3nktGs7MeEKAq2f7YSpENs",
+      "preview": "https://p.scdn.co/mp3-preview/e47a4901d135d96e9628cb8f40eeb62515a632bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4ae5b9477a46dd41e7dbc3247af92c2c3ceb6e61",
+      "release_date": "2003-11-18"
+    },
+    {
+      "featuredArtist": "Tonedeff",
+      "featuredArtistId": "6tJRz44hifa2rNseM7RoTt",
+      "trackName": "Peruvian Cocaine",
+      "trackId": "3nktGs7MeEKAq2f7YSpENs",
+      "preview": "https://p.scdn.co/mp3-preview/e47a4901d135d96e9628cb8f40eeb62515a632bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4ae5b9477a46dd41e7dbc3247af92c2c3ceb6e61",
+      "release_date": "2003-11-18"
+    },
+    {
+      "featuredArtist": "Mumia Abu-Jamal",
+      "featuredArtistId": "22cCkMaX0EIW78JqEcHurf",
+      "trackName": "Homeland & Hip Hop",
+      "trackId": "6aay1GJkBUxKfShzrFgfGG",
+      "preview": "https://p.scdn.co/mp3-preview/5ea95c7225ecaef271548e1cfbac232dbbd53f02?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4ae5b9477a46dd41e7dbc3247af92c2c3ceb6e61",
+      "release_date": "2003-11-18"
+    },
+    {
+      "featuredArtist": "Jean Grae",
+      "featuredArtistId": "2ipBhKpOYqs6BbysLNGye6",
+      "trackName": "You Never Know",
+      "trackId": "3znun9rP1VsPZfuHC8Ldc6",
+      "preview": "https://p.scdn.co/mp3-preview/0adeb5098409dddc447f1c5316c6602d1ffa3dbc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4ae5b9477a46dd41e7dbc3247af92c2c3ceb6e61",
+      "release_date": "2003-11-18"
+    },
+    {
+      "featuredArtist": "BigZoo",
+      "featuredArtistId": "2zKPvtnj50KIEr7jANDpSJ",
+      "trackName": "Positive Balance",
+      "trackId": "6C6kmwabmhtrPRQeKi0qdl",
+      "preview": "https://p.scdn.co/mp3-preview/45bf75c4f2ceddc722204409671f5927700422ea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/de50d765933ffa20917c4fe4b632397151c8667e",
+      "release_date": "2001-09-18"
+    },
+    {
+      "featuredArtist": "Breez Evahflowin",
+      "featuredArtistId": "70xrbRtjVHDxBEygUzbu2n",
+      "trackName": "Land of the Gun",
+      "trackId": "5o8sing1vtUAkeFSwhRaNG",
+      "preview": "https://p.scdn.co/mp3-preview/2a766a0c09c8f29acb5253e809a5b6c5a51f281d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5975cc350b6a762c2afdd17e3f157dadba06582f",
+      "release_date": "2018-03-27"
+    },
+    {
+      "featuredArtist": "Wally What?",
+      "featuredArtistId": "1wtBE3RtP1XDj3KpeYYyXv",
+      "trackName": "Land of the Gun",
+      "trackId": "5o8sing1vtUAkeFSwhRaNG",
+      "preview": "https://p.scdn.co/mp3-preview/2a766a0c09c8f29acb5253e809a5b6c5a51f281d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5975cc350b6a762c2afdd17e3f157dadba06582f",
+      "release_date": "2018-03-27"
+    },
+    {
+      "featuredArtist": "Parallel Thought",
+      "featuredArtistId": "0W5ekxj9nuUDTWWCHQXUWT",
+      "trackName": "Chorus Collection",
+      "trackId": "3tRSwg1BMtaImMDPgZdBgu",
+      "preview": "https://p.scdn.co/mp3-preview/f53caa02d0fe07e742cfb01c8517b771714fb853?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0110f4f1e04d1d2acaa480e681006258e3f462d3",
+      "release_date": "2017-10-24"
+    },
+    {
+      "featuredArtist": "Sean Price",
+      "featuredArtistId": "2x6jz70u3sZq75tW10akUW",
+      "trackName": "Chorus Collection",
+      "trackId": "3tRSwg1BMtaImMDPgZdBgu",
+      "preview": "https://p.scdn.co/mp3-preview/f53caa02d0fe07e742cfb01c8517b771714fb853?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0110f4f1e04d1d2acaa480e681006258e3f462d3",
+      "release_date": "2017-10-24"
+    },
+    {
+      "featuredArtist": "R.A. The Rugged Man",
+      "featuredArtistId": "3mUHAiDazZq75gh6If5zoD",
+      "trackName": "Chorus Collection",
+      "trackId": "3tRSwg1BMtaImMDPgZdBgu",
+      "preview": "https://p.scdn.co/mp3-preview/f53caa02d0fe07e742cfb01c8517b771714fb853?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0110f4f1e04d1d2acaa480e681006258e3f462d3",
+      "release_date": "2017-10-24"
+    },
+    {
+      "featuredArtist": "Wordsworth",
+      "featuredArtistId": "6de0XwbJtLyirUZUqte7aD",
+      "trackName": "Chorus Collection",
+      "trackId": "3tRSwg1BMtaImMDPgZdBgu",
+      "preview": "https://p.scdn.co/mp3-preview/f53caa02d0fe07e742cfb01c8517b771714fb853?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0110f4f1e04d1d2acaa480e681006258e3f462d3",
+      "release_date": "2017-10-24"
+    },
+    {
+      "featuredArtist": "Thirstin Howl The 3rd",
+      "featuredArtistId": "4fSShZ7BGBFwLt39PkLHxm",
+      "trackName": "Chorus Collection",
+      "trackId": "3tRSwg1BMtaImMDPgZdBgu",
+      "preview": "https://p.scdn.co/mp3-preview/f53caa02d0fe07e742cfb01c8517b771714fb853?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0110f4f1e04d1d2acaa480e681006258e3f462d3",
+      "release_date": "2017-10-24"
+    },
+    {
+      "featuredArtist": "The White Shadow",
+      "featuredArtistId": "5uOQL1qIcjWm8uyFHITcPX",
+      "trackName": "Monumental (feat. KRS-One, Bigg Limn, Raekwon & Immortal Technique)",
+      "trackId": "1tX27vGCbQXaY55bDLaqZz",
+      "preview": "https://p.scdn.co/mp3-preview/9142da89fc8db8d0c705833166ee9e2fba968725?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c2a301844bc3feae20a9e95c1a39d87188d67e28",
+      "release_date": "2016-11-15"
+    },
+    {
+      "featuredArtist": "Bigg Limn",
+      "featuredArtistId": "2FxtAYyh2v7HB1LsCnGkdm",
+      "trackName": "Monumental (feat. KRS-One, Bigg Limn, Raekwon & Immortal Technique)",
+      "trackId": "1tX27vGCbQXaY55bDLaqZz",
+      "preview": "https://p.scdn.co/mp3-preview/9142da89fc8db8d0c705833166ee9e2fba968725?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c2a301844bc3feae20a9e95c1a39d87188d67e28",
+      "release_date": "2016-11-15"
+    },
+    {
+      "featuredArtist": "KRS-One",
+      "featuredArtistId": "2gINJ8xw86xawPyGvx1bla",
+      "trackName": "Monumental (feat. KRS-One, Bigg Limn, Raekwon & Immortal Technique)",
+      "trackId": "1tX27vGCbQXaY55bDLaqZz",
+      "preview": "https://p.scdn.co/mp3-preview/9142da89fc8db8d0c705833166ee9e2fba968725?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c2a301844bc3feae20a9e95c1a39d87188d67e28",
+      "release_date": "2016-11-15"
+    },
+    {
+      "featuredArtist": "Raekwon",
+      "featuredArtistId": "2yQf6b8hxahZaT5dHlWaB1",
+      "trackName": "Monumental (feat. KRS-One, Bigg Limn, Raekwon & Immortal Technique)",
+      "trackId": "1tX27vGCbQXaY55bDLaqZz",
+      "preview": "https://p.scdn.co/mp3-preview/9142da89fc8db8d0c705833166ee9e2fba968725?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c2a301844bc3feae20a9e95c1a39d87188d67e28",
+      "release_date": "2016-11-15"
+    },
+    {
+      "featuredArtist": "Rockin' Squat",
+      "featuredArtistId": "7MNu4r2wgx8eDWfN1hdbTe",
+      "trackName": "Démocratie fasciste - article 4",
+      "trackId": "09YRWcPXRdcf68fw8vtoc7",
+      "preview": "https://p.scdn.co/mp3-preview/5d573fad2c5f0d4c21b871132a2674bd5ba37899?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7edae678006818e18803c51d8755dfaa8970f388",
+      "release_date": "2016-09-10"
+    },
+    {
+      "featuredArtist": "Necro",
+      "featuredArtistId": "51vjIMmHWyVqDrkxD07Jh7",
+      "trackName": "Take Hip Hop Back",
+      "trackId": "03aza8ha2oaHLgB4hvdsyo",
+      "preview": "https://p.scdn.co/mp3-preview/153f780f1df200ab95749a95f39bebbf580f3f68?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1b4f6c0dfa2a7bff2793d551a3d366c1a6d930ef",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Vinnie Paz",
+      "featuredArtistId": "3rExe3A3FzAmYDlQuvW2Wx",
+      "trackName": "Take Hip Hop Back",
+      "trackId": "03aza8ha2oaHLgB4hvdsyo",
+      "preview": "https://p.scdn.co/mp3-preview/153f780f1df200ab95749a95f39bebbf580f3f68?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1b4f6c0dfa2a7bff2793d551a3d366c1a6d930ef",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Diabolic",
+      "featuredArtistId": "32syImTOvzksQre9uRT2L8",
+      "trackName": "Frontlines (Instrumental) [feat. Immortal Technique]",
+      "trackId": "0ZgPz0BJtPaZcJsyO1mjSE",
+      "preview": "https://p.scdn.co/mp3-preview/f187017ec8488c6232d1a81717f580436bbcdc87?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cba47301a7aec58f6a41e10a3520d5fe8d29424f",
+      "release_date": "2015-01-28"
+    },
+    {
+      "featuredArtist": "Remynd",
+      "featuredArtistId": "0KpBw4t5Z1qOVRimc9C0S0",
+      "trackName": "Drugs Is Drugs (feat. Immortal Technique & Remynd)",
+      "trackId": "0837MaZSo7LHCtsHpeDVrO",
+      "preview": "https://p.scdn.co/mp3-preview/0b1a7fc044ea9f943021ce711bb8b5edd3a17301?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1578f18f6a02d7d048ccc81f77e86a340578f04c",
+      "release_date": "2015-01-27"
+    },
+    {
+      "featuredArtist": "Hasan Salaam",
+      "featuredArtistId": "3gcdQsYrxwSl0i5MUqaaFy",
+      "trackName": "Jericho",
+      "trackId": "2CLKd2a7uY1BxVFr23G5EH",
+      "preview": "https://p.scdn.co/mp3-preview/7b7f537dedfa383367820953ab04f574767618d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/400c4eee0f23e0bddbfa9d39b0e753c2e4f6904a",
+      "release_date": "2014-10-28"
+    },
+    {
+      "featuredArtist": "Hezekiah",
+      "featuredArtistId": "15xmQiMcVuSykGMVRF4L2u",
+      "trackName": "Jericho",
+      "trackId": "2CLKd2a7uY1BxVFr23G5EH",
+      "preview": "https://p.scdn.co/mp3-preview/7b7f537dedfa383367820953ab04f574767618d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/400c4eee0f23e0bddbfa9d39b0e753c2e4f6904a",
+      "release_date": "2014-10-28"
+    },
+    {
+      "featuredArtist": "C.F",
+      "featuredArtistId": "0l5xyXjXQTqfiDFWuV2dCr",
+      "trackName": "Moment Of Peace",
+      "trackId": "0WCzQJcnhAyZcgqjJcKrHI",
+      "preview": "https://p.scdn.co/mp3-preview/21daff2d62f0c8019c4640aaa4368701652c4b33?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f815119a660a59a592af8a3a6581cd5f4cd1b39",
+      "release_date": "2014-09-02"
+    },
+    {
+      "featuredArtist": "Melanie Joy Fontana",
+      "featuredArtistId": "6OW9okQFNV2mMrMShJIJ5s",
+      "trackName": "Moment Of Peace",
+      "trackId": "0WCzQJcnhAyZcgqjJcKrHI",
+      "preview": "https://p.scdn.co/mp3-preview/21daff2d62f0c8019c4640aaa4368701652c4b33?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f815119a660a59a592af8a3a6581cd5f4cd1b39",
+      "release_date": "2014-09-02"
+    },
+    {
+      "featuredArtist": "Don Martin",
+      "featuredArtistId": "5XUjG97WeK2UDtIm9GST9t",
+      "trackName": "Boikott Israel (feat. El Tipo Este, Immortal Technique, Tonto Noizia & Tumi)",
+      "trackId": "75n772ur3Xhzhzdl1icm6Q",
+      "preview": "https://p.scdn.co/mp3-preview/f0f85301ab17149f4f8d867d540dcab77769480d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0132d097ed980d4b506674e2cf164b5e99384c01",
+      "release_date": "2014-03-17"
+    },
+    {
+      "featuredArtist": "Tumi",
+      "featuredArtistId": "0R3pn7bweUwpLd98080DYO",
+      "trackName": "Boikott Israel (feat. El Tipo Este, Immortal Technique, Tonto Noizia & Tumi)",
+      "trackId": "75n772ur3Xhzhzdl1icm6Q",
+      "preview": "https://p.scdn.co/mp3-preview/f0f85301ab17149f4f8d867d540dcab77769480d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0132d097ed980d4b506674e2cf164b5e99384c01",
+      "release_date": "2014-03-17"
+    },
+    {
+      "featuredArtist": "El Tipo Este",
+      "featuredArtistId": "5xaltoWd33lx2bd1w6G9Fz",
+      "trackName": "Boikott Israel (feat. El Tipo Este, Immortal Technique, Tonto Noizia & Tumi)",
+      "trackId": "75n772ur3Xhzhzdl1icm6Q",
+      "preview": "https://p.scdn.co/mp3-preview/f0f85301ab17149f4f8d867d540dcab77769480d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0132d097ed980d4b506674e2cf164b5e99384c01",
+      "release_date": "2014-03-17"
+    },
+    {
+      "featuredArtist": "Tonto Noizia",
+      "featuredArtistId": "0jRU9aP0QuGEITInqMZzYa",
+      "trackName": "Boikott Israel (feat. El Tipo Este, Immortal Technique, Tonto Noizia & Tumi)",
+      "trackId": "75n772ur3Xhzhzdl1icm6Q",
+      "preview": "https://p.scdn.co/mp3-preview/f0f85301ab17149f4f8d867d540dcab77769480d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0132d097ed980d4b506674e2cf164b5e99384c01",
+      "release_date": "2014-03-17"
+    },
+    {
+      "featuredArtist": "ILL Bill",
+      "featuredArtistId": "1mMjwoytmHP5dTJbIQxN4V",
+      "trackName": "Corrupt (feat. Trinity & Immortal Technique)",
+      "trackId": "0RpXr8qJFCGx7iDF8cMXYK",
+      "preview": "https://p.scdn.co/mp3-preview/157af4ef82de156aff696b8cb6953f1c6878a704?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0661456d52a2603f84d6e5b035427cc331351d44",
+      "release_date": "2013-11-26"
+    },
+    {
+      "featuredArtist": "Trinity",
+      "featuredArtistId": "40s0JQqVmgaEOdLcQpaD27",
+      "trackName": "Corrupt (feat. Trinity & Immortal Technique)",
+      "trackId": "0RpXr8qJFCGx7iDF8cMXYK",
+      "preview": "https://p.scdn.co/mp3-preview/157af4ef82de156aff696b8cb6953f1c6878a704?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0661456d52a2603f84d6e5b035427cc331351d44",
+      "release_date": "2013-11-26"
+    },
+    {
+      "featuredArtist": "Canibus",
+      "featuredArtistId": "2lQvoGjN6jJfsAkaywtgrB",
+      "trackName": "Drugs Is Drugs (Arch Remix) [feat. Immortal Technique, Diabolic & Hugh Hayes]",
+      "trackId": "6C91I127kUarSW2gPvApu8",
+      "preview": "https://p.scdn.co/mp3-preview/fdfe66bb5a0464b47a1272e9fc945b7d6dfc3778?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c1d14260324fd572b5960d4724f73531fc9effb",
+      "release_date": "2013-10-10"
+    },
+    {
+      "featuredArtist": "The Architect",
+      "featuredArtistId": "6HzVTgf7SWVWNo93bT5TEv",
+      "trackName": "Drugs Is Drugs (Arch Remix) [feat. Immortal Technique, Diabolic & Hugh Hayes]",
+      "trackId": "6C91I127kUarSW2gPvApu8",
+      "preview": "https://p.scdn.co/mp3-preview/fdfe66bb5a0464b47a1272e9fc945b7d6dfc3778?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c1d14260324fd572b5960d4724f73531fc9effb",
+      "release_date": "2013-10-10"
+    },
+    {
+      "featuredArtist": "Hugh Hayes",
+      "featuredArtistId": "5y9IPpajaZZGTI1GI4UQZ3",
+      "trackName": "Drugs Is Drugs (Arch Remix) [feat. Immortal Technique, Diabolic & Hugh Hayes]",
+      "trackId": "6C91I127kUarSW2gPvApu8",
+      "preview": "https://p.scdn.co/mp3-preview/fdfe66bb5a0464b47a1272e9fc945b7d6dfc3778?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c1d14260324fd572b5960d4724f73531fc9effb",
+      "release_date": "2013-10-10"
+    },
+    {
+      "featuredArtist": "Reef The Lost Cauze",
+      "featuredArtistId": "6hQQ1bLitja8NqEF57ZGtg",
+      "trackName": "Sometimes",
+      "trackId": "4vPrd4X0wHFz4UQ5Pje15A",
+      "preview": "https://p.scdn.co/mp3-preview/6603ac60ec2a61bd0aa81e34a950924d42dff3d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f3f6b5cc3131de7830b8eb04dcb902637473db5",
+      "release_date": "2013-03-26"
+    },
+    {
+      "featuredArtist": "Eternia",
+      "featuredArtistId": "5rBu1wBWucwQGQzH3kLBQu",
+      "trackName": "Sometimes",
+      "trackId": "4vPrd4X0wHFz4UQ5Pje15A",
+      "preview": "https://p.scdn.co/mp3-preview/6603ac60ec2a61bd0aa81e34a950924d42dff3d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f3f6b5cc3131de7830b8eb04dcb902637473db5",
+      "release_date": "2013-03-26"
+    },
+    {
+      "featuredArtist": "Everlast",
+      "featuredArtistId": "14ZxDAK6ITtZZqPdiWrvSn",
+      "trackName": "Sometimes",
+      "trackId": "4vPrd4X0wHFz4UQ5Pje15A",
+      "preview": "https://p.scdn.co/mp3-preview/6603ac60ec2a61bd0aa81e34a950924d42dff3d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f3f6b5cc3131de7830b8eb04dcb902637473db5",
+      "release_date": "2013-03-26"
+    },
+    {
+      "featuredArtist": "Slug",
+      "featuredArtistId": "5K93rrd5okkMkN4om3EHep",
+      "trackName": "Sometimes",
+      "trackId": "4vPrd4X0wHFz4UQ5Pje15A",
+      "preview": "https://p.scdn.co/mp3-preview/6603ac60ec2a61bd0aa81e34a950924d42dff3d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f3f6b5cc3131de7830b8eb04dcb902637473db5",
+      "release_date": "2013-03-26"
+    },
+    {
+      "featuredArtist": "Sha Stimuli",
+      "featuredArtistId": "5ByJNXfO55nQn1kHR9nAQX",
+      "trackName": "Sometimes",
+      "trackId": "4vPrd4X0wHFz4UQ5Pje15A",
+      "preview": "https://p.scdn.co/mp3-preview/6603ac60ec2a61bd0aa81e34a950924d42dff3d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f3f6b5cc3131de7830b8eb04dcb902637473db5",
+      "release_date": "2013-03-26"
+    },
+    {
+      "featuredArtist": "Grand Puba",
+      "featuredArtistId": "6IjhOxJSTPh15KgFTSZ68K",
+      "trackName": "Sometimes",
+      "trackId": "4vPrd4X0wHFz4UQ5Pje15A",
+      "preview": "https://p.scdn.co/mp3-preview/6603ac60ec2a61bd0aa81e34a950924d42dff3d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f3f6b5cc3131de7830b8eb04dcb902637473db5",
+      "release_date": "2013-03-26"
+    },
+    {
+      "featuredArtist": "D.Stroy",
+      "featuredArtistId": "4mdYmeoGrJbtZDTGDp0Wah",
+      "trackName": "Sometimes",
+      "trackId": "4vPrd4X0wHFz4UQ5Pje15A",
+      "preview": "https://p.scdn.co/mp3-preview/6603ac60ec2a61bd0aa81e34a950924d42dff3d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f3f6b5cc3131de7830b8eb04dcb902637473db5",
+      "release_date": "2013-03-26"
+    },
+    {
+      "featuredArtist": "Roxane Shante",
+      "featuredArtistId": "5mpU4c08Gt9Ku6igrFS7Iq",
+      "trackName": "Sometimes",
+      "trackId": "4vPrd4X0wHFz4UQ5Pje15A",
+      "preview": "https://p.scdn.co/mp3-preview/6603ac60ec2a61bd0aa81e34a950924d42dff3d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f3f6b5cc3131de7830b8eb04dcb902637473db5",
+      "release_date": "2013-03-26"
+    },
+    {
+      "featuredArtist": "Audible Doctor",
+      "featuredArtistId": "0a6qXCgI0KFufPXwPfNoUn",
+      "trackName": "Sometimes",
+      "trackId": "4vPrd4X0wHFz4UQ5Pje15A",
+      "preview": "https://p.scdn.co/mp3-preview/6603ac60ec2a61bd0aa81e34a950924d42dff3d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f3f6b5cc3131de7830b8eb04dcb902637473db5",
+      "release_date": "2013-03-26"
+    },
+    {
+      "featuredArtist": "Roc Marciano",
+      "featuredArtistId": "5X0V59ipZnbvnubW0rQVri",
+      "trackName": "Sometimes",
+      "trackId": "4vPrd4X0wHFz4UQ5Pje15A",
+      "preview": "https://p.scdn.co/mp3-preview/6603ac60ec2a61bd0aa81e34a950924d42dff3d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0f3f6b5cc3131de7830b8eb04dcb902637473db5",
+      "release_date": "2013-03-26"
+    },
+    {
+      "featuredArtist": "Sadat X",
+      "featuredArtistId": "7fDLDq2weBagiAFD2j17Al",
+      "trackName": "Sometimes (feat. DJ Jab, Sadat X, A.G., Reef the Lost Cause, Eternia, Everlast, Immortal Technique, Slug, Sha Stimuli, Grand Puba, D-Stroy, Roxane Shante, Audible Doctor, Ill Bill & Roc Marciano)",
+      "trackId": "5Sh7gSyH13Sbrn2cPLvT3D",
+      "preview": "https://p.scdn.co/mp3-preview/ed6100a253241badf3da108ee1aba6af37796a81?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ecf72c107b4a11120749cd70b8abe358ec2e5dc5",
+      "release_date": "2013-03-26"
+    },
+    {
+      "featuredArtist": "DJ Jab",
+      "featuredArtistId": "1EKWMZMdJ1tMSybiiIjuWx",
+      "trackName": "Sometimes (feat. DJ Jab, Sadat X, A.G., Reef the Lost Cause, Eternia, Everlast, Immortal Technique, Slug, Sha Stimuli, Grand Puba, D-Stroy, Roxane Shante, Audible Doctor, Ill Bill & Roc Marciano)",
+      "trackId": "5Sh7gSyH13Sbrn2cPLvT3D",
+      "preview": "https://p.scdn.co/mp3-preview/ed6100a253241badf3da108ee1aba6af37796a81?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ecf72c107b4a11120749cd70b8abe358ec2e5dc5",
+      "release_date": "2013-03-26"
+    },
+    {
+      "featuredArtist": "A.G.",
+      "featuredArtistId": "4thsoee1SA3GbbPofv6tZE",
+      "trackName": "Sometimes (feat. DJ Jab, Sadat X, A.G., Reef the Lost Cause, Eternia, Everlast, Immortal Technique, Slug, Sha Stimuli, Grand Puba, D-Stroy, Roxane Shante, Audible Doctor, Ill Bill & Roc Marciano)",
+      "trackId": "5Sh7gSyH13Sbrn2cPLvT3D",
+      "preview": "https://p.scdn.co/mp3-preview/ed6100a253241badf3da108ee1aba6af37796a81?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ecf72c107b4a11120749cd70b8abe358ec2e5dc5",
+      "release_date": "2013-03-26"
+    }
+  ]
+}

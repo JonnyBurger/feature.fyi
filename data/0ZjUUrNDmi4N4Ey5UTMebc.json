@@ -1,0 +1,41 @@
+{
+  "artistName": "Jacob Shea",
+  "features": [
+    {
+      "featuredArtist": "Hans Zimmer",
+      "featuredArtistId": "0YC192cP3KPCRWx8zr8MfZ",
+      "trackName": "The Blue Planet",
+      "trackId": "5sFSBvnfKft08Hvx3iET8s",
+      "preview": "https://p.scdn.co/mp3-preview/da09a35f00d2e286a71e70a669a1c5a428abc5f3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad8be986446ef5fdd53aae1a028d0d0b4eeb3d18",
+      "release_date": "2017-10-30"
+    },
+    {
+      "featuredArtist": "David Fleming",
+      "featuredArtistId": "5i0L6675x4W9WULHPA2Ks8",
+      "trackName": "The Blue Planet",
+      "trackId": "5sFSBvnfKft08Hvx3iET8s",
+      "preview": "https://p.scdn.co/mp3-preview/da09a35f00d2e286a71e70a669a1c5a428abc5f3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad8be986446ef5fdd53aae1a028d0d0b4eeb3d18",
+      "release_date": "2017-10-30"
+    },
+    {
+      "featuredArtist": "Jasha Klebe",
+      "featuredArtistId": "7owBDVkVmRAeJINp1Ou9N3",
+      "trackName": "Planet Earth II Suite",
+      "trackId": "3cfpr14uIQh4qWuANUKVNj",
+      "preview": "https://p.scdn.co/mp3-preview/ba3084ac6f42f693694eb0a22fc6f19475a1654d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8aeff51afa6e9b4bc9c0f33ce236a34ca5f88a6d",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Steve Jablonsky",
+      "featuredArtistId": "5Il8YjuVAWkWNH2xgjFMpF",
+      "trackName": "Judgment",
+      "trackId": "2zHzztDKGx8JjaUspJg7Fj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cc2522212f2e7ec1206181f9058779ce742fcc99",
+      "release_date": "2013-03-26"
+    }
+  ]
+}

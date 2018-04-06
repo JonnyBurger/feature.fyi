@@ -1,0 +1,617 @@
+{
+  "artistName": "Clementino",
+  "features": [
+    {
+      "featuredArtist": "Giuliano Palma",
+      "featuredArtistId": "2jLEscFAP2hVe8fsJ0HO6I",
+      "trackName": "Musica Suona",
+      "trackId": "3sNOltPCcbvslocoT9OgpF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/85cc5810835bea727014e5b265db936d32e7a6fb",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Pino Daniele",
+      "featuredArtistId": "2eFv7NVs8R6Go7msuqikeg",
+      "trackName": "Da Che Parte Stai?",
+      "trackId": "39D6aavn8lrZKXlrX2XPrW",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/85cc5810835bea727014e5b265db936d32e7a6fb",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Rocco Hunt",
+      "featuredArtistId": "0L1f9i3L3fkMNENljDOsjG",
+      "trackName": "Woodstock",
+      "trackId": "4RRmgI8VHJLxFwdlGmmhTv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/85cc5810835bea727014e5b265db936d32e7a6fb",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Gue Pequeno",
+      "featuredArtistId": "7F2utINZ6tSokSiZTQBE27",
+      "trackName": "Boom",
+      "trackId": "1MXFKmfvi6QQ2L4LwXpTjK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/85cc5810835bea727014e5b265db936d32e7a6fb",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Fabri Fibra",
+      "featuredArtistId": "7u710e44HW3K7A5eTnRqHC",
+      "trackName": "Boom",
+      "trackId": "1MXFKmfvi6QQ2L4LwXpTjK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/85cc5810835bea727014e5b265db936d32e7a6fb",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Salmo",
+      "featuredArtistId": "3hBQ4zniNdQf1cqqo6hzuW",
+      "trackName": "Top Player",
+      "trackId": "3NzD0P9hZylnPpCEulnY3B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/85cc5810835bea727014e5b265db936d32e7a6fb",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Mama Marjas",
+      "featuredArtistId": "0H6ijfXujQIcBsk75AjObm",
+      "trackName": "Oracolo Del Sud",
+      "trackId": "4LF1CAJOamfax2cOjBxiqo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/85cc5810835bea727014e5b265db936d32e7a6fb",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Boomdabash",
+      "featuredArtistId": "4mAsWDGLUIEdo6imU77WG6",
+      "trackName": "Oracolo Del Sud",
+      "trackId": "4LF1CAJOamfax2cOjBxiqo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/85cc5810835bea727014e5b265db936d32e7a6fb",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Lucio Dalla",
+      "featuredArtistId": "25MkkfEousyfp2eyh38FUl",
+      "trackName": "Sotto Lo Stesso Cielo",
+      "trackId": "5m12oHYma4pHQfoBOyW9Gq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/85cc5810835bea727014e5b265db936d32e7a6fb",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "TheRivati",
+      "featuredArtistId": "3ALPFCKMrWe09GmtPxubCj",
+      "trackName": "Solo Un Giorno Nel Quartiere",
+      "trackId": "76q89aY5XrPraS7KfLLh7H",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7c7b38dcc3c9704f9c389d0fed8dda219917f88b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "James Senese",
+      "featuredArtistId": "1X8A68bKIKdFWmOWYs3Fch",
+      "trackName": "Selvaggi",
+      "trackId": "4LDIzgpIyoIuCOON5z606F",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7c7b38dcc3c9704f9c389d0fed8dda219917f88b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Marracash",
+      "featuredArtistId": "5AZuEF0feCXMkUCwQiQlW7",
+      "trackName": "Dal Centro All'Hinterland",
+      "trackId": "3fS5RzK7ArRZTZn4pafXLJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7c7b38dcc3c9704f9c389d0fed8dda219917f88b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Noyz Narcos",
+      "featuredArtistId": "49UAapOfpOg1ZOU4xf2NgY",
+      "trackName": "Dal Centro All'Hinterland",
+      "trackId": "3fS5RzK7ArRZTZn4pafXLJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7c7b38dcc3c9704f9c389d0fed8dda219917f88b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Ntò",
+      "featuredArtistId": "6yGn8XOk9ZS6vUFf10sP96",
+      "trackName": "Ghiacciai",
+      "trackId": "6Gao0bZmz23GXaXYBIjiDt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7c7b38dcc3c9704f9c389d0fed8dda219917f88b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Gemitaiz",
+      "featuredArtistId": "4upwdFMlZBmQ68jP9jPzjK",
+      "trackName": "Electro Cage",
+      "trackId": "52MgotILWr27MujlglBPuJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7c7b38dcc3c9704f9c389d0fed8dda219917f88b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Madman",
+      "featuredArtistId": "3MkkSf3u5KU52Mb2iMrqeX",
+      "trackName": "Electro Cage",
+      "trackId": "52MgotILWr27MujlglBPuJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7c7b38dcc3c9704f9c389d0fed8dda219917f88b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Ensi",
+      "featuredArtistId": "6dKdNHGdsBvEeNDxXV8AMP",
+      "trackName": "Spari Di Parole",
+      "trackId": "30GOzeuWjzqyXYWSnPbmek",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7c7b38dcc3c9704f9c389d0fed8dda219917f88b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Francesco Paura",
+      "featuredArtistId": "7q612S2UTvOrzrXByoDeJE",
+      "trackName": "Spari Di Parole",
+      "trackId": "30GOzeuWjzqyXYWSnPbmek",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7c7b38dcc3c9704f9c389d0fed8dda219917f88b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Coez",
+      "featuredArtistId": "5dXlc7MnpaTeUIsHLVe3n4",
+      "trackName": "Spiriti & Show",
+      "trackId": "5ntXMqCBPFSt4brtOf1Jqm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7c7b38dcc3c9704f9c389d0fed8dda219917f88b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Luche",
+      "featuredArtistId": "3yiEJ9SByXZMXTwaKdVFN4",
+      "trackName": "Spiriti & Show",
+      "trackId": "5ntXMqCBPFSt4brtOf1Jqm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7c7b38dcc3c9704f9c389d0fed8dda219917f88b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Sangue Mostro",
+      "featuredArtistId": "1XtCpNcUgbaunzcJEexviq",
+      "trackName": "Obbe",
+      "trackId": "2zmq9cECJwl2ZTJ96vg3w1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7c7b38dcc3c9704f9c389d0fed8dda219917f88b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Mouri",
+      "featuredArtistId": "2lKS65Ru5tLs87xmDwFkl4",
+      "trackName": "E' Tritolo",
+      "trackId": "5RfgNeQioqweL0e74OuvsC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7c7b38dcc3c9704f9c389d0fed8dda219917f88b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Rame",
+      "featuredArtistId": "4jQQ2yfZyDgktZW5eI6BA7",
+      "trackName": "Giordano Bruno",
+      "trackId": "6MshwVAourJWMC9cIkiPgM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7c7b38dcc3c9704f9c389d0fed8dda219917f88b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Op'Rot",
+      "featuredArtistId": "1GHkui2p6q8fe0tZT7RrU9",
+      "trackName": "L'Oro Di Napoli",
+      "trackId": "294AR4qIFEEg3dwenIg8xA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7c7b38dcc3c9704f9c389d0fed8dda219917f88b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Tonico 70",
+      "featuredArtistId": "3Cl7vpRDgXvuGEOQrI9Rwz",
+      "trackName": "Profumo Di Strada",
+      "trackId": "1PGZh8neoO1fqCH7qWBmL1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7c7b38dcc3c9704f9c389d0fed8dda219917f88b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Patto Mc",
+      "featuredArtistId": "7rzoAbaH1zBGWHsQfY6EXL",
+      "trackName": "Profumo Di Strada",
+      "trackId": "1PGZh8neoO1fqCH7qWBmL1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7c7b38dcc3c9704f9c389d0fed8dda219917f88b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Morfuco",
+      "featuredArtistId": "7CXf0XjowJ7g8x70E42Gz3",
+      "trackName": "Profumo Di Strada",
+      "trackId": "1PGZh8neoO1fqCH7qWBmL1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7c7b38dcc3c9704f9c389d0fed8dda219917f88b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Ntò",
+      "featuredArtistId": "6v5ivsifwPn36zqMWHq69j",
+      "trackName": "Ghiacciai",
+      "trackId": "1XvIAvphM4zrJVfaxCFiBb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/32068b556b9d9b79d41de82042c9a10e2b33f33b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Meg",
+      "featuredArtistId": "3Rj4K75L3kVCxrJZTZNx6G",
+      "trackName": "Mea Culpa",
+      "trackId": "5ZSUKKFhb0c2gyDzRnQ016",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0238d8af6c0e4fa162a7d79978e6249f787eefaf",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Jovanotti",
+      "featuredArtistId": "7tmMPdOmFvdRvbj2aWoiRi",
+      "trackName": "Fratello",
+      "trackId": "1yHmxWAsZrTrX8LVf2Eqfo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0238d8af6c0e4fa162a7d79978e6249f787eefaf",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Negrita",
+      "featuredArtistId": "0Tuudqq2NACRXkvTQGazY2",
+      "trackName": "Buenos Aires/Napoli",
+      "trackId": "3igvbTIBnOds9UYB4oPCQE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0238d8af6c0e4fa162a7d79978e6249f787eefaf",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Paura",
+      "featuredArtistId": "7wWPn0P8J2ufRv5AlfvvUT",
+      "trackName": "Dalle Palazzine",
+      "trackId": "5VWU2iM6GvP8oA70ePyn21",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0238d8af6c0e4fa162a7d79978e6249f787eefaf",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Gigi Finizio",
+      "featuredArtistId": "22XVSTMZerjq8l2QxXNMFY",
+      "trackName": "Sei Come Sei",
+      "trackId": "2LpWZImzgoWX1u0Ow8syLO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0238d8af6c0e4fa162a7d79978e6249f787eefaf",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Il Cile",
+      "featuredArtistId": "70tOBioFUv8aswsBxNjCjS",
+      "trackName": "Il Re Lucertola",
+      "trackId": "4oq8ZXvKfiAtdZlVAYCqbR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0238d8af6c0e4fa162a7d79978e6249f787eefaf",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Napoli Rap All Stars",
+      "featuredArtistId": "26vwcNyMZiaoYm6YsSVGpS",
+      "trackName": "Messaggeri Del Vesuvio",
+      "trackId": "5fm874HymSptyJdcnioJ2Y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0238d8af6c0e4fa162a7d79978e6249f787eefaf",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "El Koyote",
+      "featuredArtistId": "0brOXIoHWxRVH4KLWlQs6S",
+      "trackName": "Napoli Zoo Safari",
+      "trackId": "3SY3ALzWUyuw0vBSYdNAs9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0238d8af6c0e4fa162a7d79978e6249f787eefaf",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Fritz Da Cat",
+      "featuredArtistId": "0LhpncWOh05kPQvBxScHLI",
+      "trackName": "Gioventù Bruciata",
+      "trackId": "4TsspXOU2wmA92lc4xmhVf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0238d8af6c0e4fa162a7d79978e6249f787eefaf",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Deleterio",
+      "featuredArtistId": "7b4WvxNQtqlXbprLRUyxt6",
+      "trackName": "Tutto A Posto",
+      "trackId": "7L1Gq0uuqA5O0rvZz4FmOQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0238d8af6c0e4fa162a7d79978e6249f787eefaf",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Roy Paci",
+      "featuredArtistId": "6ZABE2V1BqiqDoTT8kgeJb",
+      "trackName": "Tutto A Posto",
+      "trackId": "7L1Gq0uuqA5O0rvZz4FmOQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0238d8af6c0e4fa162a7d79978e6249f787eefaf",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Kiave",
+      "featuredArtistId": "0PgBJIez4VQ0dfLpNpAiZZ",
+      "trackName": "Tekken 3",
+      "trackId": "50d3cLzAFpgr0Dgo6vMqNX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0238d8af6c0e4fa162a7d79978e6249f787eefaf",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Dope One",
+      "featuredArtistId": "3hkuxweLT2NqX7opoaRyKB",
+      "trackName": "Chernobyl",
+      "trackId": "6UfzBWyzGd3NoiPrQ5ahRh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0238d8af6c0e4fa162a7d79978e6249f787eefaf",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "OLuWong",
+      "featuredArtistId": "3SJoNKT5tcSPuWVh3JtLbk",
+      "trackName": "Intro",
+      "trackId": "3gQpYFSJX3YGcnxisH7Cga",
+      "preview": "https://p.scdn.co/mp3-preview/81e44ea254d59adbd3457d7f95796f00bdd327df?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd9a9b1279b88f52b4e6a9be439b865085f49c8a",
+      "release_date": "2013-01-12"
+    },
+    {
+      "featuredArtist": "Sud Sound System",
+      "featuredArtistId": "2cHDJffbeaHlDlCFloJ4K2",
+      "trackName": "Intro",
+      "trackId": "3gQpYFSJX3YGcnxisH7Cga",
+      "preview": "https://p.scdn.co/mp3-preview/81e44ea254d59adbd3457d7f95796f00bdd327df?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd9a9b1279b88f52b4e6a9be439b865085f49c8a",
+      "release_date": "2013-01-12"
+    },
+    {
+      "featuredArtist": "Jovine",
+      "featuredArtistId": "26G02A6A7tpv7O93YgN8em",
+      "trackName": "Smoke",
+      "trackId": "1N8GS9yI7wHCVX5emGNp95",
+      "preview": "https://p.scdn.co/mp3-preview/cafbcdd59e9dc3ea50036e5ef3f927e6b1ebe584?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd9a9b1279b88f52b4e6a9be439b865085f49c8a",
+      "release_date": "2013-01-12"
+    },
+    {
+      "featuredArtist": "Ekspo",
+      "featuredArtistId": "0v9cgfumOhmA3UvmZnOz8X",
+      "trackName": "Campania (Provincia del Funk)",
+      "trackId": "3ALE0t25WQc6MSuuO7mpVN",
+      "preview": "https://p.scdn.co/mp3-preview/a98e6a8c87280e5bb193e3453f5200b0e47cabaa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd9a9b1279b88f52b4e6a9be439b865085f49c8a",
+      "release_date": "2013-01-12"
+    },
+    {
+      "featuredArtist": "Kayaman",
+      "featuredArtistId": "42hYHmNOi713rtDwug8a2L",
+      "trackName": "Campania (Provincia del Funk)",
+      "trackId": "3ALE0t25WQc6MSuuO7mpVN",
+      "preview": "https://p.scdn.co/mp3-preview/a98e6a8c87280e5bb193e3453f5200b0e47cabaa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd9a9b1279b88f52b4e6a9be439b865085f49c8a",
+      "release_date": "2013-01-12"
+    },
+    {
+      "featuredArtist": "Wena",
+      "featuredArtistId": "2bQC0JPUJKpGQ1pAFIV1ia",
+      "trackName": "Father",
+      "trackId": "6gzbqgR2gfVXKXnIduDQHk",
+      "preview": "https://p.scdn.co/mp3-preview/60caf9ff70fb5bc8e09079cc1c4077a68a7f7fd7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd9a9b1279b88f52b4e6a9be439b865085f49c8a",
+      "release_date": "2013-01-12"
+    },
+    {
+      "featuredArtist": "R. A. The Rugged Man",
+      "featuredArtistId": "6L6XCRQ7M9toIoTxNkxCbL",
+      "trackName": "Animals",
+      "trackId": "60vZprgzu13I5C6vd6yVwj",
+      "preview": "https://p.scdn.co/mp3-preview/e7b46d7cd86daa3a79aef79ff1246cb5e51c58c0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d9cf62acc904c58a15b8f4f6433ed3f201c8776d",
+      "release_date": "2011-12-19"
+    },
+    {
+      "featuredArtist": "ILL Bill",
+      "featuredArtistId": "1mMjwoytmHP5dTJbIQxN4V",
+      "trackName": "Hannibal Rapper",
+      "trackId": "3vtXUbQNquoPpBX2tPZ4v8",
+      "preview": "https://p.scdn.co/mp3-preview/be781fe3c55dfe84518cdb471b2dea7ea9ebbec0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d9cf62acc904c58a15b8f4f6433ed3f201c8776d",
+      "release_date": "2011-12-19"
+    },
+    {
+      "featuredArtist": "Dj Skizo",
+      "featuredArtistId": "1Bqg3C8fMeW60jlRbyuuye",
+      "trackName": "La mia musica - Dj Skizo Remix",
+      "trackId": "0ftKSwcpeaDgKlvVDbCVp7",
+      "preview": "https://p.scdn.co/mp3-preview/b9889209b82713b541ce9e4a74d47f7460a000c2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d9cf62acc904c58a15b8f4f6433ed3f201c8776d",
+      "release_date": "2011-12-19"
+    },
+    {
+      "featuredArtist": "Kiave",
+      "featuredArtistId": "6x5XjmZrAIfZfuRbXXeBEg",
+      "trackName": "Funk allucinazioni",
+      "trackId": "5ScxlgIylwuAUhAXILbg58",
+      "preview": "https://p.scdn.co/mp3-preview/050e0672ccc957a388a21e5cdc2844dc1da44eda?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31ca989733f6b02ff15a6df10fc904b90f47eaee",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Emceeozi'",
+      "featuredArtistId": "1uLv8I47f37iYYBKqSwOOD",
+      "trackName": "O' cazone largo",
+      "trackId": "7EZAdhK7iWe6NYii5LSUDD",
+      "preview": "https://p.scdn.co/mp3-preview/97c921b29d4ee2e288ecd275fe7c1bac52903617?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31ca989733f6b02ff15a6df10fc904b90f47eaee",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Farti",
+      "featuredArtistId": "5T4bZxX9pbGceMZxCAzuDf",
+      "trackName": "O' cazone largo",
+      "trackId": "7EZAdhK7iWe6NYii5LSUDD",
+      "preview": "https://p.scdn.co/mp3-preview/97c921b29d4ee2e288ecd275fe7c1bac52903617?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31ca989733f6b02ff15a6df10fc904b90f47eaee",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Chief",
+      "featuredArtistId": "6ACyNjY4S7gBFxB4fcmJEQ",
+      "trackName": "Pregiudizi universali",
+      "trackId": "2ycf2PXLJIT2IEia8vVhkc",
+      "preview": "https://p.scdn.co/mp3-preview/79e9e72256542dbbede312e617335b316fefcd7d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31ca989733f6b02ff15a6df10fc904b90f47eaee",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Op.Rot",
+      "featuredArtistId": "5hbkF2QvQ1xwgwTQF6RxtL",
+      "trackName": "Lettera al telefono",
+      "trackId": "1tgt2yf7t0jtaIKWHZLC9Y",
+      "preview": "https://p.scdn.co/mp3-preview/71c7f3c20ba2f6b759772537dc069d3db096a1ee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31ca989733f6b02ff15a6df10fc904b90f47eaee",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Capone",
+      "featuredArtistId": "3MG5skX8kY7y3ddc9sCjzH",
+      "trackName": "No Problem",
+      "trackId": "3yDTnOv1wT5SUIMdybN2YS",
+      "preview": "https://p.scdn.co/mp3-preview/f3ed46d42bf9f766bd0752f756a0ba02f40d496b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31ca989733f6b02ff15a6df10fc904b90f47eaee",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Dope1",
+      "featuredArtistId": "0aau71zdqzPBRv5xPlE0GF",
+      "trackName": "No Problem",
+      "trackId": "3yDTnOv1wT5SUIMdybN2YS",
+      "preview": "https://p.scdn.co/mp3-preview/f3ed46d42bf9f766bd0752f756a0ba02f40d496b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31ca989733f6b02ff15a6df10fc904b90f47eaee",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Malva",
+      "featuredArtistId": "5ZEEr5JlY0El5cnzFqQRKe",
+      "trackName": "Fantasy 3666",
+      "trackId": "3MwJxRnMZw52mk3DrQpYUK",
+      "preview": "https://p.scdn.co/mp3-preview/3212a4d047e1630c4bb55bb23e611ee319d4280e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31ca989733f6b02ff15a6df10fc904b90f47eaee",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Raige",
+      "featuredArtistId": "2Nsm5iGxbJxHoGZwrsOurY",
+      "trackName": "Fantasy 3666",
+      "trackId": "3MwJxRnMZw52mk3DrQpYUK",
+      "preview": "https://p.scdn.co/mp3-preview/3212a4d047e1630c4bb55bb23e611ee319d4280e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31ca989733f6b02ff15a6df10fc904b90f47eaee",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Rayden",
+      "featuredArtistId": "46GRevVgY8MomKMqpk0VR5",
+      "trackName": "Fantasy 3666",
+      "trackId": "3MwJxRnMZw52mk3DrQpYUK",
+      "preview": "https://p.scdn.co/mp3-preview/3212a4d047e1630c4bb55bb23e611ee319d4280e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31ca989733f6b02ff15a6df10fc904b90f47eaee",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Spregiudicati",
+      "featuredArtistId": "1fTmxEVBD9XmpnzZ5IPwfB",
+      "trackName": "Linea diretta mi. na.",
+      "trackId": "1Rql5B88jncYottgKbgWyb",
+      "preview": "https://p.scdn.co/mp3-preview/d664aeabd9e8134b96f20fb90bdaa42ccca87974?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31ca989733f6b02ff15a6df10fc904b90f47eaee",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Boom Buzz",
+      "featuredArtistId": "0GgMsqZ2pFrF9iYQhmAQGe",
+      "trackName": "Industrial minestra",
+      "trackId": "2THnD93ab64GwO04J5Vono",
+      "preview": "https://p.scdn.co/mp3-preview/fc82a47ff5f1cdd5493024c47a3aa7d9d9239b6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31ca989733f6b02ff15a6df10fc904b90f47eaee",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Red Dog",
+      "featuredArtistId": "1XYF9eMzs6EaoGKD8hOXdy",
+      "trackName": "Industrial minestra",
+      "trackId": "2THnD93ab64GwO04J5Vono",
+      "preview": "https://p.scdn.co/mp3-preview/fc82a47ff5f1cdd5493024c47a3aa7d9d9239b6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31ca989733f6b02ff15a6df10fc904b90f47eaee",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Rob",
+      "featuredArtistId": "4jpNZxt78TUp0vGQpvFLjr",
+      "trackName": "Industrial minestra",
+      "trackId": "2THnD93ab64GwO04J5Vono",
+      "preview": "https://p.scdn.co/mp3-preview/fc82a47ff5f1cdd5493024c47a3aa7d9d9239b6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31ca989733f6b02ff15a6df10fc904b90f47eaee",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Urano",
+      "featuredArtistId": "5dcRyD36wi9WiItTqYa448",
+      "trackName": "Senza l'anema",
+      "trackId": "3wm9mghhcrBrdXEDZeVke5",
+      "preview": "https://p.scdn.co/mp3-preview/9fcf6dc85ad04e2951e3b9da3dad211f703d6b4d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31ca989733f6b02ff15a6df10fc904b90f47eaee",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Kap1",
+      "featuredArtistId": "5epYkKoB0VY2JaqyJEctEW",
+      "trackName": "Senza l'anema",
+      "trackId": "3wm9mghhcrBrdXEDZeVke5",
+      "preview": "https://p.scdn.co/mp3-preview/9fcf6dc85ad04e2951e3b9da3dad211f703d6b4d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31ca989733f6b02ff15a6df10fc904b90f47eaee",
+      "release_date": "2008"
+    },
+    {
+      "featuredArtist": "Gianni Celeste",
+      "featuredArtistId": "4uRVEv41O78glUJHBlSaGb",
+      "trackName": "Stella do' cielo",
+      "trackId": "7saQxx4RHftgIF49s5Hmg2",
+      "preview": "https://p.scdn.co/mp3-preview/5a80928e68dc32d0def5f3ff9fd13b4e6b6c2c38?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4384767d9b35b98e1270973e7668e7ae3a214cd1",
+      "release_date": "2016-09-04"
+    },
+    {
+      "featuredArtist": "Mirko Miro",
+      "featuredArtistId": "1HP8i57vRfjThqDZvyoSyP",
+      "trackName": "Stella do' cielo",
+      "trackId": "7saQxx4RHftgIF49s5Hmg2",
+      "preview": "https://p.scdn.co/mp3-preview/5a80928e68dc32d0def5f3ff9fd13b4e6b6c2c38?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4384767d9b35b98e1270973e7668e7ae3a214cd1",
+      "release_date": "2016-09-04"
+    }
+  ]
+}

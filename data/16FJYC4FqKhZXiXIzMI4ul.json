@@ -1,0 +1,23 @@
+{
+  "artistName": "Francesco De Gregori",
+  "features": [
+    {
+      "featuredArtist": "Luciano Ligabue",
+      "featuredArtistId": "2foo23O09513WJkn35WGx1",
+      "trackName": "Alice - Extended Version",
+      "trackId": "38W9Y1saSOXwBbzn9c3Dsf",
+      "preview": "https://p.scdn.co/mp3-preview/beade42d66e5ab5c46c5b6b387b9484e1a6f4e9d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a8268cee182d2821b81babaac32156a884985fea",
+      "release_date": "2014-11-10"
+    },
+    {
+      "featuredArtist": "Giovanna Marini",
+      "featuredArtistId": "3Un0ZyXEmQWM7PGYPTkcyo",
+      "trackName": "Sento il fischio del vapore",
+      "trackId": "47dSNdYxKF6OtG2gqnlmWT",
+      "preview": "https://p.scdn.co/mp3-preview/d977076971e95e88b15cce2fbac0679490451e13?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ebb5d7af90070e75df876cfac9915a83be5dd408",
+      "release_date": "2006-11-03"
+    }
+  ]
+}

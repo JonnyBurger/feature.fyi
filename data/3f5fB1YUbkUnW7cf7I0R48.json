@@ -1,0 +1,41 @@
+{
+  "artistName": "Geto Boys",
+  "features": [
+    {
+      "featuredArtist": "Scarface",
+      "featuredArtistId": "19KwjzvIL92r29IINtlPNP",
+      "trackName": "Intro",
+      "trackId": "0VgkUOEIUtaCN0XS5Tjy7j",
+      "preview": "https://p.scdn.co/mp3-preview/935f9613545cd1d36674858fe40bbd6b82bba884?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7aeb7c700892da3f955ba39ff4573fce4790d8d7",
+      "release_date": "2013-08-15"
+    },
+    {
+      "featuredArtist": "Willie D.",
+      "featuredArtistId": "2yLwiAPfpL3sM6ZCjwYqpA",
+      "trackName": "Let Me Live My Life",
+      "trackId": "4YCh1Po3KHLEYr1jKMqDoA",
+      "preview": "https://p.scdn.co/mp3-preview/9cbcf9cdc92ec80e47e87b752002d4c6ed464a58?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6d312fe67c89ee6227b55cd133ffa6b4c2a927a7",
+      "release_date": "2017-02-07"
+    },
+    {
+      "featuredArtist": "Insane Clown Posse",
+      "featuredArtistId": "4xtWjIlVuZwTCeqVAsgEXy",
+      "trackName": "Forever (Extended Geto Mix)",
+      "trackId": "3oG7SjUAN9qZzQKp35UxuC",
+      "preview": "https://p.scdn.co/mp3-preview/3bceece40695c753d7096431657b07ebe75d8467?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/54633cec23418b089d29adb32dca2ca6aa0f19b8",
+      "release_date": "2015-04-01"
+    },
+    {
+      "featuredArtist": "Mike E. Clark",
+      "featuredArtistId": "06iphURrBDUwm37rKYkd2I",
+      "trackName": "Forever (Extended Geto Mix)",
+      "trackId": "3oG7SjUAN9qZzQKp35UxuC",
+      "preview": "https://p.scdn.co/mp3-preview/3bceece40695c753d7096431657b07ebe75d8467?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/54633cec23418b089d29adb32dca2ca6aa0f19b8",
+      "release_date": "2015-04-01"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "artistName": "Kris Kristofferson",
+  "features": [
+    {
+      "featuredArtist": "Joan Baez",
+      "featuredArtistId": "1EevBGfUh3RSQSGpluxgBm",
+      "trackName": "Hello In There - Live",
+      "trackId": "7HxC5nnl4qbP0Ql3LCY26K",
+      "preview": "https://p.scdn.co/mp3-preview/4bb9208e87cac597e03d719edfd59a1c07810874?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6862396f8051ae592827a64a0a174b1515603fe8",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Brenda Lee",
+      "featuredArtistId": "4cPHsZM98sKzmV26wlwD2W",
+      "trackName": "The Bigger the Fool, The Harder the Fall",
+      "trackId": "3nF3jael3uTd4u8LtJUyxg",
+      "preview": "https://p.scdn.co/mp3-preview/c55a08038cbae953e8452aae753ae20fb653db27?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6862396f8051ae592827a64a0a174b1515603fe8",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Dolly Parton",
+      "featuredArtistId": "32vWCbZh0xZ4o9gkz4PsEU",
+      "trackName": "Put It Off Until Tomorrow",
+      "trackId": "6swDTdWaqY9akQTstLSwYZ",
+      "preview": "https://p.scdn.co/mp3-preview/b7aa5fbb6fb3be9910ac3dc7750dc5c46c7352d5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6862396f8051ae592827a64a0a174b1515603fe8",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Willie Nelson",
+      "featuredArtistId": "5W5bDNCqJ1jbCgTxDD0Cb3",
+      "trackName": "Casey's Last Ride",
+      "trackId": "3IcgWLZQRj8oiKJPI2tTZ6",
+      "preview": "https://p.scdn.co/mp3-preview/dbf908db4c236707a6f972db425e32b1f8db341e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6862396f8051ae592827a64a0a174b1515603fe8",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Rita Coolidge",
+      "featuredArtistId": "1vnIL4DMlivP55ioM6KitW",
+      "trackName": "Duvalier's Dream (Live)",
+      "trackId": "4i5rqi3KyAd9I3S1P8XAwS",
+      "preview": "https://p.scdn.co/mp3-preview/29871fe652cd45dfcbdb0b675c1254b0ad8d57e3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/439f96f6d0bcc6d38cb1ffff73756315d9feb1fd",
+      "release_date": "2013-02-04"
+    }
+  ]
+}

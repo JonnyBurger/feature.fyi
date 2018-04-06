@@ -1,0 +1,50 @@
+{
+  "artistName": "Pimpinela",
+  "features": [
+    {
+      "featuredArtist": "Dyango",
+      "featuredArtistId": "0PbO1lSBsJPgyqdEypJJVb",
+      "trackName": "Por Ese Hombre",
+      "trackId": "0OIRHQk6KgyFtFTEHZ1Dn0",
+      "preview": "https://p.scdn.co/mp3-preview/a317cb6f6a5b5cd293d8a227653d25996ed04033?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d26ca4bcc4996187277a837de873452eac306511",
+      "release_date": "2016-12-02"
+    },
+    {
+      "featuredArtist": "Luciano Pereyra",
+      "featuredArtistId": "6ZZ2DeepA3GpoGU4KwqSlU",
+      "trackName": "Si Ella Supiera",
+      "trackId": "3Qpj5tWbotpwFNykB9WT2v",
+      "preview": "https://p.scdn.co/mp3-preview/2cf52e8249324a3b108c13e96a61dc98eb7d2319?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ab5c1741a4d23ae0d89494cd008f4e88fd1a4a89",
+      "release_date": "2016-04-29"
+    },
+    {
+      "featuredArtist": "Nestor Randazzo",
+      "featuredArtistId": "3CgB779vT0sjEwOHGRdrVF",
+      "trackName": "Primero Yo",
+      "trackId": "22iA4F25GyxGyG01w7Qkmz",
+      "preview": "https://p.scdn.co/mp3-preview/444fce2b12364fa6cb6597f14bf728809d5e5327?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba784c660e03a0ce021a5e9a8ab3ae3a4e457b84",
+      "release_date": "2008-09-23"
+    },
+    {
+      "featuredArtist": "Valeria Lynch",
+      "featuredArtistId": "60zawKIAJS16ul7OSY91wM",
+      "trackName": "Que No Me Eche la Culpa",
+      "trackId": "0HmPCADBTyvfTod9YcRk5u",
+      "preview": "https://p.scdn.co/mp3-preview/90d7d82f1c82bb77f0a20c558e77c314503865c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba784c660e03a0ce021a5e9a8ab3ae3a4e457b84",
+      "release_date": "2008-09-23"
+    },
+    {
+      "featuredArtist": "Los Nocheros",
+      "featuredArtistId": "2ydE5oBt6cwsDxH1TpIFmO",
+      "trackName": "A Mi Tierra Volveré",
+      "trackId": "5JahHujWgLijyL6gmkPABB",
+      "preview": "https://p.scdn.co/mp3-preview/cd645ec3cf8101bacd7e4b154143ac77aec55a65?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ba784c660e03a0ce021a5e9a8ab3ae3a4e457b84",
+      "release_date": "2008-09-23"
+    }
+  ]
+}

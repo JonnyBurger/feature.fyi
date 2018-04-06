@@ -1,0 +1,50 @@
+{
+  "artistName": "Superfruit",
+  "features": [
+    {
+      "featuredArtist": "Amber Liu",
+      "featuredArtistId": "4ZpzgTOUAznSK70KdPbJHf",
+      "trackName": "Fantasy",
+      "trackId": "7Ak3h69T8UqQLFjo0qBKYK",
+      "preview": "https://p.scdn.co/mp3-preview/bcfa8c584e3db1d2f321caffa5dbb9a81ab659ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f21d97380663493f768956227d11a0a8d8029f57",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Inara George",
+      "featuredArtistId": "4lsLWmOLcZjlaPhx7FKwLl",
+      "trackName": "Everything",
+      "trackId": "4C1fQ3hwEpWCgFBGT2pYlJ",
+      "preview": "https://p.scdn.co/mp3-preview/e15cb99d371881303e3978007472f8469a20345c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f21d97380663493f768956227d11a0a8d8029f57",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Brian Robert Jones",
+      "featuredArtistId": "11HU5b0t0QkmZpYfpUgmvm",
+      "trackName": "Future Friends - Brian Robert Jones Choir Remix",
+      "trackId": "3F183btjhLzvCmf8IneLFN",
+      "preview": "https://p.scdn.co/mp3-preview/0fa0faeb3d77f7f0e20e3c651df03559823aeeb4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f21d97380663493f768956227d11a0a8d8029f57",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Betty Who",
+      "featuredArtistId": "0t3QQl52F463sxGXb1ckhB",
+      "trackName": "Beautiful",
+      "trackId": "2cLXI67NxGWvNzTaSAComY",
+      "preview": "https://p.scdn.co/mp3-preview/3d1489619dcaec37befd5b7a06fd50f6f4cd204b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/efe27870762eae75c4233f1a43839db0173ad9f5",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Todrick Hall",
+      "featuredArtistId": "0gBvuNzrFCOVaiyKexoYMH",
+      "trackName": "Black & White",
+      "trackId": "2aDofzh9K1mqXTaANEILES",
+      "preview": "https://p.scdn.co/mp3-preview/c4402b46fb1710a5aa690cc0f3cf78442e225547?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d43ed182e8f1d39f4ec6e47490104cbf64f325c0",
+      "release_date": "2016-06-23"
+    }
+  ]
+}

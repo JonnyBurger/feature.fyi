@@ -1,0 +1,455 @@
+{
+  "artistName": "McKlopedia",
+  "features": [
+    {
+      "featuredArtist": "Akapellah",
+      "featuredArtistId": "6fMZytDgX1Q9OV6ndSugym",
+      "trackName": "Da Lo Mejor de Ti (feat. Akapellah)",
+      "trackId": "2IEPuawDVamBVxP7WjscGa",
+      "preview": "https://p.scdn.co/mp3-preview/de8e0ba11fea362a017f78a5befffc77aacd832c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a3f079879089b8a9cc71b793db387c564bed703",
+      "release_date": "2017-09-19"
+    },
+    {
+      "featuredArtist": "Foyone",
+      "featuredArtistId": "1F2erLLqRHbaFvEYHeVIHJ",
+      "trackName": "Un Millar De Ojos",
+      "trackId": "10jC4l88bLTvzAg51JSMCv",
+      "preview": "https://p.scdn.co/mp3-preview/5b7298599b5609d605cc3708aca68e9e0b346ee9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6697bbbcf85f51b58e0fae9fcb3864d07353c4c8",
+      "release_date": "2017-02-01"
+    },
+    {
+      "featuredArtist": "Sharif",
+      "featuredArtistId": "5pIapcAHb6WV4fUjfQchMf",
+      "trackName": "El Llano En Llamas",
+      "trackId": "3ARcnrvxC5Msc0SJn8sxgo",
+      "preview": "https://p.scdn.co/mp3-preview/7843f3317e85719a3c0332c10db61e36471c8c96?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/05530085564bf949eed83dd5975c5c7de67eee1e",
+      "release_date": "2016-11-17"
+    },
+    {
+      "featuredArtist": "Morgan",
+      "featuredArtistId": "56EbX4U7idALTLfhtvK8Ni",
+      "trackName": "El Llano En Llamas",
+      "trackId": "3ARcnrvxC5Msc0SJn8sxgo",
+      "preview": "https://p.scdn.co/mp3-preview/7843f3317e85719a3c0332c10db61e36471c8c96?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/05530085564bf949eed83dd5975c5c7de67eee1e",
+      "release_date": "2016-11-17"
+    },
+    {
+      "featuredArtist": "Rapsusklei",
+      "featuredArtistId": "451DVjaBuGYfvDfvG9MxaG",
+      "trackName": "Jamming Sin Fronteras",
+      "trackId": "5Ot6yfkeBUKllxb0ghQQij",
+      "preview": "https://p.scdn.co/mp3-preview/e021aa7344c28a0b4c25cebbddffef3e3d9400a4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1c2d1862d19c22e14b72a6729a69fe938f55c06b",
+      "release_date": "2015-10-26"
+    },
+    {
+      "featuredArtist": "Canserbero",
+      "featuredArtistId": "1wGIhYkKWSq4yACtTkCkSX",
+      "trackName": "Jamming Sin Fronteras",
+      "trackId": "5Ot6yfkeBUKllxb0ghQQij",
+      "preview": "https://p.scdn.co/mp3-preview/e021aa7344c28a0b4c25cebbddffef3e3d9400a4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1c2d1862d19c22e14b72a6729a69fe938f55c06b",
+      "release_date": "2015-10-26"
+    },
+    {
+      "featuredArtist": "César López",
+      "featuredArtistId": "5Ycbygh3IB5aqbNRcMYPkV",
+      "trackName": "Jamming Sin Fronteras",
+      "trackId": "5Ot6yfkeBUKllxb0ghQQij",
+      "preview": "https://p.scdn.co/mp3-preview/e021aa7344c28a0b4c25cebbddffef3e3d9400a4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1c2d1862d19c22e14b72a6729a69fe938f55c06b",
+      "release_date": "2015-10-26"
+    },
+    {
+      "featuredArtist": "Solo Soul",
+      "featuredArtistId": "0bmSH3V2XM6zNVDfmTwwJI",
+      "trackName": "Jamming Sin Fronteras",
+      "trackId": "5Ot6yfkeBUKllxb0ghQQij",
+      "preview": "https://p.scdn.co/mp3-preview/e021aa7344c28a0b4c25cebbddffef3e3d9400a4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1c2d1862d19c22e14b72a6729a69fe938f55c06b",
+      "release_date": "2015-10-26"
+    },
+    {
+      "featuredArtist": "Rawayana",
+      "featuredArtistId": "2AbQwU2cuEGfD465wCXlg2",
+      "trackName": "Sin Ti",
+      "trackId": "47HsXFJ6I8tSwq24J5X5CQ",
+      "preview": "https://p.scdn.co/mp3-preview/d4de81a3210af6749004f831f0b24662b4fffc96?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/941ba140be8ee82d73d4d6cdb189f66f9cbb5484",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Willy Cultura",
+      "featuredArtistId": "7yfHGS89GpxeOVxqbBA5s4",
+      "trackName": "Sin Ti",
+      "trackId": "47HsXFJ6I8tSwq24J5X5CQ",
+      "preview": "https://p.scdn.co/mp3-preview/d4de81a3210af6749004f831f0b24662b4fffc96?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/941ba140be8ee82d73d4d6cdb189f66f9cbb5484",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "La Vida Bohème",
+      "featuredArtistId": "5gs7iemsrjIJbz0ryFcy79",
+      "trackName": "Sin Ti",
+      "trackId": "47HsXFJ6I8tSwq24J5X5CQ",
+      "preview": "https://p.scdn.co/mp3-preview/d4de81a3210af6749004f831f0b24662b4fffc96?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/941ba140be8ee82d73d4d6cdb189f66f9cbb5484",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Arkano",
+      "featuredArtistId": "5ACyfaynUH9FpBaR8uZprQ",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Aczino",
+      "featuredArtistId": "4r1ZDYKzPt3iIjuq8LbT6X",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Cehzar",
+      "featuredArtistId": "2VcROjgvAPmuYEICxUCC50",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Chuty",
+      "featuredArtistId": "1r5zlDA52ACalXlJsHY3cU",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Drose",
+      "featuredArtistId": "0uv4bz0aqoF2XYBIBSypbS",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "El Ciudadano",
+      "featuredArtistId": "1wgaNRy4bZxzndFV0uA0n9",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Gasper",
+      "featuredArtistId": "4Z7be42xV11pCfTe7d4TxJ",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Jony Beltran",
+      "featuredArtistId": "5GUZzbltjoDTr9MBzodnCB",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Jota",
+      "featuredArtistId": "5W2MieRwiSaXrXWUglP2yR",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Lancer Lirical",
+      "featuredArtistId": "3CmPZr9hW0b0dkyP7x4hMY",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "O.D",
+      "featuredArtistId": "6OXkEQn597olXSiZuZ66zI",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Papo MC",
+      "featuredArtistId": "0oJ2Cs37zewQ0jOfC8qmi2",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Skone",
+      "featuredArtistId": "3b0zCqdij8lmz7vFSzqvco",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Shadow",
+      "featuredArtistId": "2lf0FYOB52skJWouVr7orA",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Tom Crowley",
+      "featuredArtistId": "3J3XgSPY1cDPl35nGL6FHC",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Valles T",
+      "featuredArtistId": "2h5NjKTy7y3blBMgsNusrt",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Cenzi",
+      "featuredArtistId": "3rPusZ92yurdHSkcWafe4r",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Ana Sola",
+      "featuredArtistId": "3Bc24S7YSYXW16J9E1XVI9",
+      "trackName": "Barbudos",
+      "trackId": "0mBMnDsXQwAVmbQb6WzW2z",
+      "preview": "https://p.scdn.co/mp3-preview/9ec2c0f8e7c52fbc270f757fa5272cb1492fd0e4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ab606d5ba67e01450f19ddf970478de5101ce2da",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Rapper School",
+      "featuredArtistId": "5iGxZSbSLhdLoqTg9KZtlt",
+      "trackName": "Imagina (feat. McKlopedia)",
+      "trackId": "1BUqB0fJumCERYnccryrD8",
+      "preview": "https://p.scdn.co/mp3-preview/0c38f37cb9910b54fc08a73dac5e7ca44c9d19a4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32652ed75c8dbc6829338cfe1703be66c8ed14e2",
+      "release_date": "2017-08-22"
+    },
+    {
+      "featuredArtist": "La Banda Baston",
+      "featuredArtistId": "3vV4Tf1iC8vEP9fLOLGUfP",
+      "trackName": "Solo Como Amigos",
+      "trackId": "0BgY6O6G7EtsneY6dAKZeI",
+      "preview": "https://p.scdn.co/mp3-preview/9fca30d03e3828097b0c2ed2d4285c7730f50ddf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e88e671a5ae120fa31046f093636cd6b8da36639",
+      "release_date": "2017-02-24"
+    },
+    {
+      "featuredArtist": "Jonas Sanche",
+      "featuredArtistId": "4ddGNvJbt4sq3OaCCzAPV9",
+      "trackName": "God Level la Furia de los Dioses",
+      "trackId": "3aL9cvLFANtEDL4X7QS6cl",
+      "preview": "https://p.scdn.co/mp3-preview/9f84bd1fce9eb495979ca63237b2598100edac7a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/604945bd9fd518643483a28bbec8e10e5ea1039a",
+      "release_date": "2016-12-09"
+    },
+    {
+      "featuredArtist": "Rxnde Akozta",
+      "featuredArtistId": "5YO3yQx97KLLE9zJYa4jaU",
+      "trackName": "God Level la Furia de los Dioses",
+      "trackId": "3aL9cvLFANtEDL4X7QS6cl",
+      "preview": "https://p.scdn.co/mp3-preview/9f84bd1fce9eb495979ca63237b2598100edac7a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/604945bd9fd518643483a28bbec8e10e5ea1039a",
+      "release_date": "2016-12-09"
+    },
+    {
+      "featuredArtist": "Dtoke",
+      "featuredArtistId": "3sIyjBqd6HZc7eHSdj8f2Y",
+      "trackName": "God Level la Furia de los Dioses",
+      "trackId": "3aL9cvLFANtEDL4X7QS6cl",
+      "preview": "https://p.scdn.co/mp3-preview/9f84bd1fce9eb495979ca63237b2598100edac7a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/604945bd9fd518643483a28bbec8e10e5ea1039a",
+      "release_date": "2016-12-09"
+    },
+    {
+      "featuredArtist": "Salvaje Decibel",
+      "featuredArtistId": "3a6xRggiZz6O1Zvmg8RJfV",
+      "trackName": "God Level la Furia de los Dioses",
+      "trackId": "3aL9cvLFANtEDL4X7QS6cl",
+      "preview": "https://p.scdn.co/mp3-preview/9f84bd1fce9eb495979ca63237b2598100edac7a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/604945bd9fd518643483a28bbec8e10e5ea1039a",
+      "release_date": "2016-12-09"
+    },
+    {
+      "featuredArtist": "Kaiser",
+      "featuredArtistId": "3crq72swZCWBoaN2IQZTzm",
+      "trackName": "God Level la Furia de los Dioses",
+      "trackId": "3aL9cvLFANtEDL4X7QS6cl",
+      "preview": "https://p.scdn.co/mp3-preview/9f84bd1fce9eb495979ca63237b2598100edac7a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/604945bd9fd518643483a28bbec8e10e5ea1039a",
+      "release_date": "2016-12-09"
+    },
+    {
+      "featuredArtist": "Liricistas",
+      "featuredArtistId": "6Auet21YaPDui2ManqgAFc",
+      "trackName": "God Level la Furia de los Dioses",
+      "trackId": "3aL9cvLFANtEDL4X7QS6cl",
+      "preview": "https://p.scdn.co/mp3-preview/9f84bd1fce9eb495979ca63237b2598100edac7a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/604945bd9fd518643483a28bbec8e10e5ea1039a",
+      "release_date": "2016-12-09"
+    },
+    {
+      "featuredArtist": "Apache",
+      "featuredArtistId": "2pvyE8W9RWESQxkyAWZqgY",
+      "trackName": "Hip Hop Terapia (feat. Ice Od, Lil Supa, Cotur, Gabylonia, Gary & Mcklopedia)",
+      "trackId": "2ZEZiXIVjdN25yc6lgSwIo",
+      "preview": "https://p.scdn.co/mp3-preview/510b6bc9bb960acae956b117cf807cabc6f59dee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996ae2b1a94145e0aa9ce4bc280ea2f944029695",
+      "release_date": "2016-10-31"
+    },
+    {
+      "featuredArtist": "IceOD",
+      "featuredArtistId": "3DfOyzOkibnHvb21bHqa2B",
+      "trackName": "Hip Hop Terapia (feat. Ice Od, Lil Supa, Cotur, Gabylonia, Gary & Mcklopedia)",
+      "trackId": "2ZEZiXIVjdN25yc6lgSwIo",
+      "preview": "https://p.scdn.co/mp3-preview/510b6bc9bb960acae956b117cf807cabc6f59dee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996ae2b1a94145e0aa9ce4bc280ea2f944029695",
+      "release_date": "2016-10-31"
+    },
+    {
+      "featuredArtist": "Lil Supa",
+      "featuredArtistId": "0qHbO3z6lgLE6ZYCkQBo1K",
+      "trackName": "Hip Hop Terapia (feat. Ice Od, Lil Supa, Cotur, Gabylonia, Gary & Mcklopedia)",
+      "trackId": "2ZEZiXIVjdN25yc6lgSwIo",
+      "preview": "https://p.scdn.co/mp3-preview/510b6bc9bb960acae956b117cf807cabc6f59dee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996ae2b1a94145e0aa9ce4bc280ea2f944029695",
+      "release_date": "2016-10-31"
+    },
+    {
+      "featuredArtist": "Cotur",
+      "featuredArtistId": "3J1Ome5yMHSKD1CDo2sCxL",
+      "trackName": "Hip Hop Terapia (feat. Ice Od, Lil Supa, Cotur, Gabylonia, Gary & Mcklopedia)",
+      "trackId": "2ZEZiXIVjdN25yc6lgSwIo",
+      "preview": "https://p.scdn.co/mp3-preview/510b6bc9bb960acae956b117cf807cabc6f59dee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996ae2b1a94145e0aa9ce4bc280ea2f944029695",
+      "release_date": "2016-10-31"
+    },
+    {
+      "featuredArtist": "Gabylonia",
+      "featuredArtistId": "1dTtCb4nYTZLKpTnJ1f5uU",
+      "trackName": "Hip Hop Terapia (feat. Ice Od, Lil Supa, Cotur, Gabylonia, Gary & Mcklopedia)",
+      "trackId": "2ZEZiXIVjdN25yc6lgSwIo",
+      "preview": "https://p.scdn.co/mp3-preview/510b6bc9bb960acae956b117cf807cabc6f59dee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996ae2b1a94145e0aa9ce4bc280ea2f944029695",
+      "release_date": "2016-10-31"
+    },
+    {
+      "featuredArtist": "Gary",
+      "featuredArtistId": "4NbPIhaePRUz9iZxc9IvWa",
+      "trackName": "Hip Hop Terapia (feat. Ice Od, Lil Supa, Cotur, Gabylonia, Gary & Mcklopedia)",
+      "trackId": "2ZEZiXIVjdN25yc6lgSwIo",
+      "preview": "https://p.scdn.co/mp3-preview/510b6bc9bb960acae956b117cf807cabc6f59dee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/996ae2b1a94145e0aa9ce4bc280ea2f944029695",
+      "release_date": "2016-10-31"
+    },
+    {
+      "featuredArtist": "Kase.O",
+      "featuredArtistId": "7GmXwGXJSsmWTkCyk5Twux",
+      "trackName": "Pavos Reales",
+      "trackId": "4HVYBeELSvhfGmWwFoZr4p",
+      "preview": "https://p.scdn.co/mp3-preview/8318be9f497e879b69972fe253d6169738690900?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f3da53c2dc3f0607701171351c2ef629e56286af",
+      "release_date": "2016-09-23"
+    },
+    {
+      "featuredArtist": "Hermano L",
+      "featuredArtistId": "3K6sWdZkd44I5AanjEvYc1",
+      "trackName": "Pavos Reales",
+      "trackId": "4HVYBeELSvhfGmWwFoZr4p",
+      "preview": "https://p.scdn.co/mp3-preview/8318be9f497e879b69972fe253d6169738690900?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f3da53c2dc3f0607701171351c2ef629e56286af",
+      "release_date": "2016-09-23"
+    },
+    {
+      "featuredArtist": "Shabu One Shant",
+      "featuredArtistId": "0ntfzFCIx4KqKi3znNENz6",
+      "trackName": "Pavos Reales",
+      "trackId": "4HVYBeELSvhfGmWwFoZr4p",
+      "preview": "https://p.scdn.co/mp3-preview/8318be9f497e879b69972fe253d6169738690900?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f3da53c2dc3f0607701171351c2ef629e56286af",
+      "release_date": "2016-09-23"
+    },
+    {
+      "featuredArtist": "Quinta Kalavera",
+      "featuredArtistId": "6YaLPscuavGgHSWirwwXlX",
+      "trackName": "Siete Días (feat. Mcklopedia)",
+      "trackId": "5XZoxkLIn1WFUHSpTk7BCr",
+      "preview": "https://p.scdn.co/mp3-preview/1ad02476327e8d3698aeddf76522c4b1fa58ccc9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/723ea850fbe22405cabe8acd9e7b61f3679306f1",
+      "release_date": "2016-04-16"
+    },
+    {
+      "featuredArtist": "Pyscho",
+      "featuredArtistId": "6WYNv1z5kO6eAoitjYXg7S",
+      "trackName": "Hoy (feat. Pyscho & MC Klopedia)",
+      "trackId": "3VBcu83KWaX4vbSoSel0Qx",
+      "preview": "https://p.scdn.co/mp3-preview/fa56b246febf00a95eaaf9cf663f5f709a2773a0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64c99faaac363516a98cec3d6ca1bb59f896eaa9",
+      "release_date": "2013-05-19"
+    },
+    {
+      "featuredArtist": "Symbiz",
+      "featuredArtistId": "6M3QacCa2amO6RUYx57kTt",
+      "trackName": "Controlando",
+      "trackId": "7LmzvCTIiEJ057A5XLtzIq",
+      "preview": "https://p.scdn.co/mp3-preview/755f1e6ae3fdfcd0e53d341ea563d4d94b6b1569?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f6a7a2dfd82d6919a6875debdc299f56f49c752e",
+      "release_date": "2013-05-03"
+    },
+    {
+      "featuredArtist": "BITUAYA",
+      "featuredArtistId": "1FX3XsXC4JLR0lNBtsJ9bZ",
+      "trackName": "Controlando",
+      "trackId": "7LmzvCTIiEJ057A5XLtzIq",
+      "preview": "https://p.scdn.co/mp3-preview/755f1e6ae3fdfcd0e53d341ea563d4d94b6b1569?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f6a7a2dfd82d6919a6875debdc299f56f49c752e",
+      "release_date": "2013-05-03"
+    }
+  ]
+}

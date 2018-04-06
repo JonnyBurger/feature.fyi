@@ -1,0 +1,41 @@
+{
+  "artistName": "Charlie Who?",
+  "features": [
+    {
+      "featuredArtist": "NOMI",
+      "featuredArtistId": "0L0XS4wnhVeKFXuqA7UJjT",
+      "trackName": "Get It Together",
+      "trackId": "3wfxgFIYk5Acb7hFF2obP5",
+      "preview": "https://p.scdn.co/mp3-preview/e27d7c08c5c782440ec32f619bd97b4824dac27c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/26893e06144b29bbf01bf0ceb2a81793964661d4",
+      "release_date": "2017-09-29"
+    },
+    {
+      "featuredArtist": "Tungevaag & Raaban",
+      "featuredArtistId": "4cSYNpczcvTUpnPMFDLsIc",
+      "trackName": "Russian Roulette",
+      "trackId": "7au5GfpnyBltA6B2Eh0ekK",
+      "preview": "https://p.scdn.co/mp3-preview/9b5f1c1c47ca0834677ec2b7234e930267cd7fc7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d62e03236d559ab706d7d43ead7ae5c544a3c96f",
+      "release_date": "2015-11-27"
+    },
+    {
+      "featuredArtist": "Martin Jensen",
+      "featuredArtistId": "4ehtJnVumNf6xzSCDk8aLB",
+      "trackName": "Miracles - Charlie Who Remix",
+      "trackId": "6zWIAnsWUkqLHh98QCvaY6",
+      "preview": "https://p.scdn.co/mp3-preview/c91635774eead52f9f9736ecd0c86dcfb05d9aeb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad2a01af379c6062b25d0f9f37eaf5023486a858",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Bjørnskov",
+      "featuredArtistId": "16EmDsIYHYtxgSNfjEYPf8",
+      "trackName": "Miracles - Charlie Who Remix",
+      "trackId": "6zWIAnsWUkqLHh98QCvaY6",
+      "preview": "https://p.scdn.co/mp3-preview/c91635774eead52f9f9736ecd0c86dcfb05d9aeb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad2a01af379c6062b25d0f9f37eaf5023486a858",
+      "release_date": "2016-03-04"
+    }
+  ]
+}

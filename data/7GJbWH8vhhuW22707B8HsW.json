@@ -1,0 +1,23 @@
+{
+  "artistName": "Thirdstory",
+  "features": [
+    {
+      "featuredArtist": "Pusha T",
+      "featuredArtistId": "0ONHkAv9pCAFxb0zJwDNTy",
+      "trackName": "G Train",
+      "trackId": "3GdqvI37ehiPi5uky3bcji",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/edb05c554077020fc0a498ab32d74c292524bba3",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Eryn Allen Kane",
+      "featuredArtistId": "5xI4mPixKfrCCspATqbpy3",
+      "trackName": "Still In Love - Acoustic",
+      "trackId": "1idE7tvCwHyCHGafZtnN4A",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/edb05c554077020fc0a498ab32d74c292524bba3",
+      "release_date": "2018-03-09"
+    }
+  ]
+}

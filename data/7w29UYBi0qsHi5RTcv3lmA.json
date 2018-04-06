@@ -1,0 +1,41 @@
+{
+  "artistName": "Björk",
+  "features": [
+    {
+      "featuredArtist": "Arca",
+      "featuredArtistId": "4SQdUpG4f7UbkJG3cJ2Iyj",
+      "trackName": "Arisen My Senses",
+      "trackId": "1hcq3rSbi7tcNRxX1zxoNd",
+      "preview": "https://p.scdn.co/mp3-preview/8a1f3ff56d87167675f75f6b054ab602d5ad9bc0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca3aec201e196fc9bf8e0d31ee40ba56da459eea",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Rabit",
+      "featuredArtistId": "2X3e2rDdxibDfJGv0CwS7A",
+      "trackName": "Losss",
+      "trackId": "5hlmZXi42CgzftT8HAbvmH",
+      "preview": "https://p.scdn.co/mp3-preview/c59622f8acf4e2f0fe8b19bd092555156256f5c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca3aec201e196fc9bf8e0d31ee40ba56da459eea",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Una Sveinbjarnardottir",
+      "featuredArtistId": "35jqGTh5oLAUdWucFG0mhU",
+      "trackName": "Lionsong",
+      "trackId": "6EHfI3KGQC0ERLSCazvj1y",
+      "preview": "https://p.scdn.co/mp3-preview/76f5b196bae1e41632d10d169709dae0489085fc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/792791970d7eb89f404187abaff9f18791d16ade",
+      "release_date": "2015-11-06"
+    },
+    {
+      "featuredArtist": "Sławomir Zubrzycki",
+      "featuredArtistId": "5LW425hmxWmwWLNc53SKo1",
+      "trackName": "Atom Dance",
+      "trackId": "77594hAsp0MhHL9gfF5o09",
+      "preview": "https://p.scdn.co/mp3-preview/3a3f4115fb582047fd3e2b4abaa0bd2a298273eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/792791970d7eb89f404187abaff9f18791d16ade",
+      "release_date": "2015-11-06"
+    }
+  ]
+}

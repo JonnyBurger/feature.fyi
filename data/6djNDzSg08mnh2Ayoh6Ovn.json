@@ -1,0 +1,50 @@
+{
+  "artistName": "Larry Hernández",
+  "features": [
+    {
+      "featuredArtist": "Lupillo Rivera",
+      "featuredArtistId": "341CfLcUdaBGixB8IJjYwW",
+      "trackName": "Aunque Mal Paguen Ellas - Versión Banda",
+      "trackId": "2TpI9S79Vjv8HwZ7eBRrpM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dd3d9ecd42e97387b5092e0393c98dff7794e590",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Gerardo Ortiz",
+      "featuredArtistId": "4J13m9IZh03PEhoxAxRhXO",
+      "trackName": "El Desconocido",
+      "trackId": "4nwEIvtD0p7W9uSzjty8gm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cee4ea56c9f9dcb23e25e9579dc1304d571965c7",
+      "release_date": "2015-05-26"
+    },
+    {
+      "featuredArtist": "Lenny Santos",
+      "featuredArtistId": "4bODqflR0Wo3i3fCwwCIPq",
+      "trackName": "A Escondidas",
+      "trackId": "2Hg70N5TZ4jEHCqfJQ32pG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cf8893f932b643795f0e0c6fea4f517ca37b718",
+      "release_date": "2012-10-30"
+    },
+    {
+      "featuredArtist": "Max Santos",
+      "featuredArtistId": "2g9A7XhokSEtvJoys1IUQX",
+      "trackName": "A Escondidas",
+      "trackId": "2Hg70N5TZ4jEHCqfJQ32pG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cf8893f932b643795f0e0c6fea4f517ca37b718",
+      "release_date": "2012-10-30"
+    },
+    {
+      "featuredArtist": "Steven Tejada",
+      "featuredArtistId": "4BUwV7FQuXbTvDBCD69jM5",
+      "trackName": "A Escondidas",
+      "trackId": "2Hg70N5TZ4jEHCqfJQ32pG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4cf8893f932b643795f0e0c6fea4f517ca37b718",
+      "release_date": "2012-10-30"
+    }
+  ]
+}

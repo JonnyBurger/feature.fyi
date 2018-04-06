@@ -1,0 +1,50 @@
+{
+  "artistName": "Elvis Costello",
+  "features": [
+    {
+      "featuredArtist": "Burt Bacharach",
+      "featuredArtistId": "35y7CZMg7jbG8Q96JY7dyC",
+      "trackName": "God Give Me Strength - From “Grace Of My Heart” Soundtrack",
+      "trackId": "0b51riXEseMKWowmbpfDee",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/34c4de4539326548e34a21b49b70d11fca4cc9c2",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "The Imposters",
+      "featuredArtistId": "0mtzATzl6kfYHMWZskqH21",
+      "trackName": "I Hope You're Happy Now - Live",
+      "trackId": "4Ir7bQxgoAmOi2YtcPMdJb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ba9cd13096a0acb24c51965d44881ce541eafe1a",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Jazz Passengers",
+      "featuredArtistId": "4PAZ4KVH0pdi6kas88qOSb",
+      "trackName": "Wind Walked By",
+      "trackId": "4qvATSWz8focAbOJq9kEmg",
+      "preview": "https://p.scdn.co/mp3-preview/e52bd6670b8d9e2fcddb7d1cb63633f3836917ff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6a7eb6887aed488a4ff4c87aa25929c1f7ec161",
+      "release_date": "2010-09-20"
+    },
+    {
+      "featuredArtist": "Attractions",
+      "featuredArtistId": "5gFjnpbW1xF39EBnxdwR51",
+      "trackName": "Mystery Dance - Live At Hollywood High",
+      "trackId": "6TbmtCSDNYTyzzj0JWJwa0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/576ad9998895505b014895089d8efe323b4fa567",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "The Attractions",
+      "featuredArtistId": "2c0gkbR7vYLnJkoMaoCMNf",
+      "trackName": "Mystery Dance - Live At Hollywood High",
+      "trackId": "3FhzLgLSExHsYHJrwU2QCH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/58314c00dceed4b0f0175576a45ff77bf1688276",
+      "release_date": "2010-01-01"
+    }
+  ]
+}

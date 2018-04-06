@@ -1,0 +1,41 @@
+{
+  "artistName": "Falco Van Den Aker",
+  "features": [
+    {
+      "featuredArtist": "Alex Vargas",
+      "featuredArtistId": "3kdU3J8t1HUPZqFyScP8SF",
+      "trackName": "Solid Ground - Deepend Remix",
+      "trackId": "1Fi3G7IpTltITDIgMnmWHe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3c2d47fd9c2c0124f1db10bc6318c3791dbae8c8",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Bob Marijn van Ratingen",
+      "featuredArtistId": "5Jo896NkTSzRy5r4Nr2uZJ",
+      "trackName": "Solid Ground - Deepend Remix",
+      "trackId": "1Fi3G7IpTltITDIgMnmWHe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3c2d47fd9c2c0124f1db10bc6318c3791dbae8c8",
+      "release_date": "2017-08-04"
+    },
+    {
+      "featuredArtist": "Matt Simons",
+      "featuredArtistId": "1g0fXhQMHAxlRyIBkCbuE7",
+      "trackName": "Catch & Release - Deepend Remix",
+      "trackId": "1aGOsrnh6ZGIYb8lesQRew",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c5d1192a5d6370954ff5a7ae256c7e6f10e3f2be",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "Bob Van Ratingen",
+      "featuredArtistId": "0IaGKdJMLQv0vLHc1Bzz6u",
+      "trackName": "Catch & Release - Deepend Remix",
+      "trackId": "1aGOsrnh6ZGIYb8lesQRew",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c5d1192a5d6370954ff5a7ae256c7e6f10e3f2be",
+      "release_date": "2016-11-25"
+    }
+  ]
+}

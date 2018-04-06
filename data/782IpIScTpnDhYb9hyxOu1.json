@@ -1,0 +1,59 @@
+{
+  "artistName": "The Product G&B",
+  "features": [
+    {
+      "featuredArtist": "Mr. Da-Nos",
+      "featuredArtistId": "0JigJyy2RtUsifMadpqnFr",
+      "trackName": "Summer Nights in Brazil - Original Radio Mix",
+      "trackId": "08LMwXcswBEeL91JXmVpZx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d9fd2632a931e49f46b7909c2f7419ba88c1a871",
+      "release_date": "2014-08-25"
+    },
+    {
+      "featuredArtist": "Maury",
+      "featuredArtistId": "2XBw3s8y6GArFsWSQYDrs4",
+      "trackName": "Summer Nights in Brazil - Original Radio Mix",
+      "trackId": "08LMwXcswBEeL91JXmVpZx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d9fd2632a931e49f46b7909c2f7419ba88c1a871",
+      "release_date": "2014-08-25"
+    },
+    {
+      "featuredArtist": "Santana",
+      "featuredArtistId": "6GI52t8N5F02MxU0g5U69P",
+      "trackName": "Maria Maria - Radio Mix",
+      "trackId": "0o2QnN2osGSLe551NbnqfE",
+      "preview": "https://p.scdn.co/mp3-preview/6006b5de7bfe7560a8ae191a03a06dbe79be7507?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b855f1ce7be3a52fcb3cd091f13cd1368b0f438",
+      "release_date": "2018-03-30"
+    },
+    {
+      "featuredArtist": "Fred the Godson",
+      "featuredArtistId": "4XfZS4DTtBxAd8JjsDFMzl",
+      "trackName": "Stay a While (feat. Product G&B)",
+      "trackId": "1c9BiIC1eiHgHIauN2vWu0",
+      "preview": "https://p.scdn.co/mp3-preview/f08bdd918061e322c79f37f91b6bbbd1d2ec03ac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c6ebd971f73f1b0fe44fee72ed92b01df0ef4262",
+      "release_date": "2017-08-25"
+    },
+    {
+      "featuredArtist": "De Facto",
+      "featuredArtistId": "5APRXASmdCKDr3l8ZlrBhu",
+      "trackName": "Tonight (feat. the Product G&B)",
+      "trackId": "6iZoTQ0vNmNQSSEqsOq4GM",
+      "preview": "https://p.scdn.co/mp3-preview/d000bcf34e5d6f40030e3462ce39272708265b1b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8ee2676d07d2004d0e09a9222b293176ebad1156",
+      "release_date": "2017-03-29"
+    },
+    {
+      "featuredArtist": "Kay One",
+      "featuredArtistId": "6VjbeCqoayiHYnefrisskv",
+      "trackName": "V.I.P.",
+      "trackId": "5t926hVftD74w9w2X2Bqip",
+      "preview": "https://p.scdn.co/mp3-preview/4f3a6a357f35cd7f5c0b73c58c32b9b4c07b5ae6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1f7b8a9e15e876138efcc6d8982e4412d262a7e7",
+      "release_date": "2016-07-08"
+    }
+  ]
+}

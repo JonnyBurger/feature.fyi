@@ -1,0 +1,32 @@
+{
+  "artistName": "Fresno",
+  "features": [
+    {
+      "featuredArtist": "Caetano Veloso",
+      "featuredArtistId": "7HGNYPmbDrMkylWqeFCOIQ",
+      "trackName": "Hoje Sou Trovão",
+      "trackId": "60U2IudFAfZOxehsTyNWDv",
+      "preview": "https://p.scdn.co/mp3-preview/4b77a4aefd62dec9f4461c1ab0aa98add3d882cf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ad9cc63ee39f95b86f291b62e99dd20265e27772",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Emicida",
+      "featuredArtistId": "2d9LRvQJnAXRijqIJDDs2K",
+      "trackName": "Manifesto - Ao Vivo",
+      "trackId": "3t6QO2i4uPIaxP9ICLenfO",
+      "preview": "https://p.scdn.co/mp3-preview/8b7ba9e6ba439b699cb1c1ae419476dc66fc9176?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/be684f792b03c540e90f11bd2e303eb44ce1c29b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Lenine",
+      "featuredArtistId": "4YLBdrR3DVSMncm785NH6C",
+      "trackName": "Manifesto (feat. Lenine e Emicida)",
+      "trackId": "3wibiU2UECiww5wkSJfPZJ",
+      "preview": "https://p.scdn.co/mp3-preview/2433ef4bce98b62b722f0007781455f3af3c60e7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6cf68e931b10686981d060c5360139b1efb00650",
+      "release_date": "2014-04-21"
+    }
+  ]
+}

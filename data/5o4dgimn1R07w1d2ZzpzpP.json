@@ -1,0 +1,41 @@
+{
+  "artistName": "Limes",
+  "features": [
+    {
+      "featuredArtist": "aimless",
+      "featuredArtistId": "5dGqZk0lZFQB6MIus08k8e",
+      "trackName": "Back Home",
+      "trackId": "6Js1lHzz7gu7XTyvcdLuPa",
+      "preview": "https://p.scdn.co/mp3-preview/7e021bc32738d5d39020eedcda6cfcbca213563f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b92d7a1b2f9dc462db5b9588783cd2127e1a9ff",
+      "release_date": "2018-03-30"
+    },
+    {
+      "featuredArtist": "Mujo",
+      "featuredArtistId": "0vg08N1z9G9LrGLkG1nNDS",
+      "trackName": "St. Clements",
+      "trackId": "4AzvNQcn1I4sZ2wJrW5ATq",
+      "preview": "https://p.scdn.co/mp3-preview/04bf5decc7b819adcd813cfad83755b07c106336?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/513c90cba45f6b65adf9342b72d969e6705c410a",
+      "release_date": "2018-01-14"
+    },
+    {
+      "featuredArtist": "Rook1e",
+      "featuredArtistId": "5NlA3ayVBDY3uDCCEZ1dID",
+      "trackName": "Sunflowers",
+      "trackId": "5SsmGnj5H3rSz11fHgRZy8",
+      "preview": "https://p.scdn.co/mp3-preview/9ebcd994343b6cc3dde17a9a1a4847fa982f35f0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/42b06bd7c2af7164469e5adc055fbd2870ea16f5",
+      "release_date": "2018-01-26"
+    },
+    {
+      "featuredArtist": "Kendall Miles",
+      "featuredArtistId": "4Z5eM7HLu4b0LAKrywoWR2",
+      "trackName": "Good Morning",
+      "trackId": "45chkp3lQIWjYnhEzo7OpA",
+      "preview": "https://p.scdn.co/mp3-preview/77cc55f86f4a9e603bf4c9936a75257e300370a7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7179501bbd72efed13cf33016379884fd988c91a",
+      "release_date": "2017-07-05"
+    }
+  ]
+}

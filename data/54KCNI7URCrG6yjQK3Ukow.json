@@ -1,0 +1,32 @@
+{
+  "artistName": "Susanne Sundfør",
+  "features": [
+    {
+      "featuredArtist": "John Grant",
+      "featuredArtistId": "3TScZ6zJkavDy0tqoGqiCf",
+      "trackName": "Mountaineers (feat. John Grant)",
+      "trackId": "7MyhwSikmYSqmKqBD30riH",
+      "preview": "https://p.scdn.co/mp3-preview/3ee6007559e2cb7001647e2ef91665839cb9fd83?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/37e68bd97d8e71b050d3c674830f8f7198047237",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Kleerup & Enochson",
+      "featuredArtistId": "73mCocVahBDu12GyxD4KWg",
+      "trackName": "White Foxes - Kleerup & Enochson Remix - Bonus Track",
+      "trackId": "1ABrurYtQXSP97Nk22xiGP",
+      "preview": "https://p.scdn.co/mp3-preview/9a714201152d5ccf269454adcf924b8091ead353?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f8e192919a6e44c97c40ce0a8c17714124d4949a",
+      "release_date": "2012-10-14"
+    },
+    {
+      "featuredArtist": "Man Without Country",
+      "featuredArtistId": "00b3RKsk2pv5VWSnYAKW8u",
+      "trackName": "White Foxes - Man Without Country Remix",
+      "trackId": "2N61CUKiGqMn1KDybjs36G",
+      "preview": "https://p.scdn.co/mp3-preview/fe36c4b44098e5cc890165e7144e3bd30da2f5ff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f8e192919a6e44c97c40ce0a8c17714124d4949a",
+      "release_date": "2012-10-14"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "artistName": "Riley Clemmons",
+  "features": [
+    {
+      "featuredArtist": "Tritonal",
+      "featuredArtistId": "521qvhdobR0GzhvU6TFw76",
+      "trackName": "Out My Mind",
+      "trackId": "0c0l69JCctCQVdVi6IeZtH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4ce359562c2f15594de5c4ff440d2cea1cd850d6",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Social Club Misfits",
+      "featuredArtistId": "0wnsM0ziqToBwQeEbH0akL",
+      "trackName": "Misfit Anthem - Radio Version",
+      "trackId": "3lHRWF2N3rEWgb0iYeQ6wB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/98b16c40aacef7b153934fd702298a42325cd3c3",
+      "release_date": "2017-04-07"
+    }
+  ]
+}

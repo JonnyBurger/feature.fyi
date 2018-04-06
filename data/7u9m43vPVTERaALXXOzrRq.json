@@ -1,0 +1,32 @@
+{
+  "artistName": "Chalino Sanchez",
+  "features": [
+    {
+      "featuredArtist": "El Gavilancillo",
+      "featuredArtistId": "7qle9DSi8idfSlwO0XCFpx",
+      "trackName": "La Ametralladora",
+      "trackId": "0QMDn3dzQjAtILRIPvJrtI",
+      "preview": "https://p.scdn.co/mp3-preview/d9b7362cd9c9b3fcb22adbf1db803b89cf59d4a7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f5470453843381c75df056d27210b72ded162854",
+      "release_date": "2017-10-26"
+    },
+    {
+      "featuredArtist": "Saul Viera El Gavilancillo",
+      "featuredArtistId": "3tLdnHmnfkIdQq5cyFDl69",
+      "trackName": "Las Adulaciones",
+      "trackId": "2yt0JKa84G4Jga9G2I0pHQ",
+      "preview": "https://p.scdn.co/mp3-preview/7c81b7aa0751ab42d0a4d0bb572b77e5cda91501?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/59bac7bce40be0240ad94a0236b9ba482131cfcb",
+      "release_date": "2015-05-15"
+    },
+    {
+      "featuredArtist": "El Rojo De Sinaloa",
+      "featuredArtistId": "6wLIwyIXnQ5rjjBmSpRNZe",
+      "trackName": "Las Adulaciones",
+      "trackId": "2yt0JKa84G4Jga9G2I0pHQ",
+      "preview": "https://p.scdn.co/mp3-preview/7c81b7aa0751ab42d0a4d0bb572b77e5cda91501?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/59bac7bce40be0240ad94a0236b9ba482131cfcb",
+      "release_date": "2015-05-15"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "artistName": "Bob Van Ratingen",
+  "features": [
+    {
+      "featuredArtist": "Matt Simons",
+      "featuredArtistId": "1g0fXhQMHAxlRyIBkCbuE7",
+      "trackName": "Catch & Release - Deepend Remix",
+      "trackId": "1aGOsrnh6ZGIYb8lesQRew",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c5d1192a5d6370954ff5a7ae256c7e6f10e3f2be",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "Falco Van Den Aker",
+      "featuredArtistId": "0H4lEdOgBhMO4iLjh5eWRp",
+      "trackName": "Catch & Release - Deepend Remix",
+      "trackId": "1aGOsrnh6ZGIYb8lesQRew",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c5d1192a5d6370954ff5a7ae256c7e6f10e3f2be",
+      "release_date": "2016-11-25"
+    }
+  ]
+}

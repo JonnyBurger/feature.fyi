@@ -1,0 +1,86 @@
+{
+  "artistName": "Scridge",
+  "features": [
+    {
+      "featuredArtist": "DJ Anouar",
+      "featuredArtistId": "1omayOlaNsvhj1J5yuztUS",
+      "trackName": "Dans ta ville",
+      "trackId": "54Co2fe9stCVT9egbUUdmz",
+      "preview": "https://p.scdn.co/mp3-preview/acaa4ff17f5a891e4482300f16f5d2c646474faf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f4368930531fe25efb592844cd6183f96700e4e5",
+      "release_date": "2017-11-20"
+    },
+    {
+      "featuredArtist": "Dj Snatch",
+      "featuredArtistId": "3o2prBlFkJlVWbSZUQMiHy",
+      "trackName": "TCHIKITER",
+      "trackId": "6esfytet9lfdt8dogt3tiG",
+      "preview": "https://p.scdn.co/mp3-preview/68d1663d0407f6c6d142c59ff3931fff8e74cfe7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d7e2a6879f4ee498c04f83bbfc9870c449d31268",
+      "release_date": "2017-02-09"
+    },
+    {
+      "featuredArtist": "DJ Kayz",
+      "featuredArtistId": "1GQ4ihUi4W36nt5ZKmtMgh",
+      "trackName": "Jour J",
+      "trackId": "5Ms2G7M5TU9XBpWg4eJgos",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c304a0e5deabf013d414bacd9514bd786430f8ea",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Wassila",
+      "featuredArtistId": "7a6TPrZH6MH6NFR0mlZLOg",
+      "trackName": "Jour J",
+      "trackId": "5Ms2G7M5TU9XBpWg4eJgos",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c304a0e5deabf013d414bacd9514bd786430f8ea",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "Duc-Z",
+      "featuredArtistId": "7dYJb7fnb4R7LalTUsjAVk",
+      "trackName": "Poulet Braize",
+      "trackId": "7gibGnHZftt3tnefWJM4Bh",
+      "preview": "https://p.scdn.co/mp3-preview/83207c518d8945e456158bbc8e4772a0bd73bf65?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/446ad9e5ec8571207728f205d81b4cb1ced2b830",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Dj Nab",
+      "featuredArtistId": "1g3XEtli55FLypgIZFRAvz",
+      "trackName": "Pour Walou - Remix - Prod Le Dj Nab",
+      "trackId": "6znPbR18XgV5VkDJQ401KB",
+      "preview": "https://p.scdn.co/mp3-preview/409b272d3eac0822b41ca7c7c329d686f5dc7fbc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/843d27965a43e2fa44618dece501f4ccdbabe9b4",
+      "release_date": "2017-06-18"
+    },
+    {
+      "featuredArtist": "Makassy",
+      "featuredArtistId": "2FJCmpH5MfUCIquZWSTDPh",
+      "trackName": "Rennes City",
+      "trackId": "2ql4KhVNgr5dY4e24fpFog",
+      "preview": "https://p.scdn.co/mp3-preview/15416467ea0683297b91ad2fdf09cc8a996bc680?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd2ed0f1e3cb192747983f296595d012eccf59b3",
+      "release_date": "2017-04-28"
+    },
+    {
+      "featuredArtist": "Vensty",
+      "featuredArtistId": "774eNzlzLUDRWZgmUtBbns",
+      "trackName": "Les jaloux veulent nous allumer",
+      "trackId": "6w0FNh7IvxjY7jRVv9yAAd",
+      "preview": "https://p.scdn.co/mp3-preview/548ba704d7c3dcbb610520aa20e12af1e0c377b6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c529ffc3236791cd9a36c981866f36b62a382834",
+      "release_date": "2014-11-03"
+    },
+    {
+      "featuredArtist": "Ol Kainry",
+      "featuredArtistId": "69yVEiGKjokl3qx25AbBPs",
+      "trackName": "Les jaloux veulent nous allumer",
+      "trackId": "6w0FNh7IvxjY7jRVv9yAAd",
+      "preview": "https://p.scdn.co/mp3-preview/548ba704d7c3dcbb610520aa20e12af1e0c377b6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c529ffc3236791cd9a36c981866f36b62a382834",
+      "release_date": "2014-11-03"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "artistName": "Jessica Jarrell",
+  "features": [
+    {
+      "featuredArtist": "kr",
+      "featuredArtistId": "3GQ65YgQs8IICAlNxx0v79",
+      "trackName": "Come Closer (feat. Kr)",
+      "trackId": "6xjv5LGpGmzues28MDtPsj",
+      "preview": "https://p.scdn.co/mp3-preview/4885862a4f986f05b4e89f86285b8e68e7afd4d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2b73c96b0395cb05123c99062507b55f0029bcb3",
+      "release_date": "2016-06-13"
+    },
+    {
+      "featuredArtist": "Travie McCoy",
+      "featuredArtistId": "7o9Nl7K1Al6NNAHX6jn6iG",
+      "trackName": "Up And Running",
+      "trackId": "7hnh7DltoklYQ09hoJPJqq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8528d54d3700aa0abebeb012c1445897581dfd87",
+      "release_date": "2010-07-13"
+    },
+    {
+      "featuredArtist": "Fabian Mazur",
+      "featuredArtistId": "5BBBDm18Y0TCRXZggaOnZG",
+      "trackName": "Sideways",
+      "trackId": "3j1H6RQVpvX71SdBwm5NbB",
+      "preview": "https://p.scdn.co/mp3-preview/82e9fc93d2723271f192eb210f9f7d6d7f647980?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4ee77fcec71a9daa500c54e16833fe0c34954a5c",
+      "release_date": "2017-08-24"
+    },
+    {
+      "featuredArtist": "Elephante",
+      "featuredArtistId": "3fjs4zbBFxEFFe8Wyojo0G",
+      "trackName": "Hold (feat. Jessica Jarrell) - Candyland Remix",
+      "trackId": "6503SziH9cbwyL9sk4XlBg",
+      "preview": "https://p.scdn.co/mp3-preview/ec4bf283da44782c2827cb65c549167afa6ae213?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5db538f7a982957547562fa9e90fd91f438a03cd",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Candyland",
+      "featuredArtistId": "3wzxasxU7kQxHPr0ky5rJq",
+      "trackName": "Hold (feat. Jessica Jarrell) - Candyland Remix",
+      "trackId": "6503SziH9cbwyL9sk4XlBg",
+      "preview": "https://p.scdn.co/mp3-preview/ec4bf283da44782c2827cb65c549167afa6ae213?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5db538f7a982957547562fa9e90fd91f438a03cd",
+      "release_date": "2016-12-14"
+    },
+    {
+      "featuredArtist": "Justin Bieber",
+      "featuredArtistId": "1uNFoZAHBGtllmzznpCI3s",
+      "trackName": "Overboard",
+      "trackId": "2lrFWGaivAZI0BSlCkaXpd",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5aaa64db3bc4c2b09e4da37d09ef15c4fe9a7e0f",
+      "release_date": "2010-01-01"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "artistName": "AnnenMayKantereit",
+  "features": [
+    {
+      "featuredArtist": "K.I.Z",
+      "featuredArtistId": "0bMt8SJlp0gFRUufzifS05",
+      "trackName": "Hurra die Welt geht unter - Live",
+      "trackId": "5FP7gxNVjs6vTVcWoYYI9B",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/11bf7401dc2f7c2f021433a79fc42779dac5c99b",
+      "release_date": "2016-09-10"
+    },
+    {
+      "featuredArtist": "Her",
+      "featuredArtistId": "1T2WeXEi0XlZiPpjjDAY0L",
+      "trackName": "On & On",
+      "trackId": "1nqDfXu9iZ5GE2V2Vsa9vI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/98a32da7ba5b2d31b8c47751cd36ee4af253fb37",
+      "release_date": "2018-03-30"
+    },
+    {
+      "featuredArtist": "Roméo Elvis",
+      "featuredArtistId": "2pHk4wAmL7ofTAuvCIUWtv",
+      "trackName": "On & On",
+      "trackId": "1nqDfXu9iZ5GE2V2Vsa9vI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/98a32da7ba5b2d31b8c47751cd36ee4af253fb37",
+      "release_date": "2018-03-30"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "artistName": "Lizzo",
+  "features": [
+    {
+      "featuredArtist": "Sophia Eris",
+      "featuredArtistId": "0p6NrdHl8dQQALGIqVcrjt",
+      "trackName": "Batches & Cookies",
+      "trackId": "1X8UBlwgOx30XfSm2HfXCB",
+      "preview": "https://p.scdn.co/mp3-preview/247e99e0eff7bfd56780d3dd15bf93bfef43c4e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e5d89af35319fa05913cd409e81ef803bb80a006",
+      "release_date": "2014-05-20"
+    },
+    {
+      "featuredArtist": "Bad Royale",
+      "featuredArtistId": "7kHe4uFK1KQFqMRP7td4mS",
+      "trackName": "Good As Hell - Bad Royale Remix",
+      "trackId": "55EvroOzt6eieudauqAC6s",
+      "preview": "https://p.scdn.co/mp3-preview/3a1de9da3c250de6c9083bf5a218534775e7ba30?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c13c895b45d3ab7166309abaad9c31fed1ee05ef",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Nick Catchdubs",
+      "featuredArtistId": "6IcRi6fsL0MNwNp4fUZchD",
+      "trackName": "Good As Hell - Nick Catchdubs Remix",
+      "trackId": "1pGaoYIZ41yowONubuU4J6",
+      "preview": "https://p.scdn.co/mp3-preview/0a08290538e5b00c7e43fad90fa8a0dc0853e0a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c13c895b45d3ab7166309abaad9c31fed1ee05ef",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "BNDR",
+      "featuredArtistId": "6ntbVXWosvkE09PPvux1cB",
+      "trackName": "Good As Hell - BNDR Remix",
+      "trackId": "0YG0lnYgS1MX3FLfHwoBEM",
+      "preview": "https://p.scdn.co/mp3-preview/8b16dad5d84a5c7bfd403a1a7aa24440b1ea81b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c13c895b45d3ab7166309abaad9c31fed1ee05ef",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Two Stacks",
+      "featuredArtistId": "48u29zX9L4zVf57TbYV7Oj",
+      "trackName": "Good As Hell - Two Stacks Remix",
+      "trackId": "7Ct2v0zvkPDHi3vAyia7CP",
+      "preview": "https://p.scdn.co/mp3-preview/aeb9afcef5834ef85bee26121fca4453042d4872?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c13c895b45d3ab7166309abaad9c31fed1ee05ef",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Sad13",
+      "featuredArtistId": "5WMmQuQNYBIJ3HVrKFKaPg",
+      "trackName": "Basement Queens",
+      "trackId": "1ktmBfOPKYWL4qAxvcXjhU",
+      "preview": "https://p.scdn.co/mp3-preview/530920cbc3b8a56df128ee4544d67945f3cbcd0c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/32461b83a5461e26d11352c48705fcb66f781f98",
+      "release_date": "2016-01-22"
+    }
+  ]
+}
