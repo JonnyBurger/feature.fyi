@@ -1,0 +1,23 @@
+{
+  "artistName": "Vesala",
+  "features": [
+    {
+      "featuredArtist": "JVG",
+      "featuredArtistId": "55mdlQp6zN8zdyIYB9DDQj",
+      "trackName": "Hombre (feat. Vesala)",
+      "trackId": "6h4EXoiVFJehGrK9Xl8Zeo",
+      "preview": "https://p.scdn.co/mp3-preview/28c2a0e2817011c8e1b2f6063c9da0baff9c1881?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cd453844794e911d5d1b0ac64f50153e801fd2b7",
+      "release_date": "2017-08-28"
+    },
+    {
+      "featuredArtist": "Elastinen",
+      "featuredArtistId": "7DdW8Ert3Z36hb1FkaZWiI",
+      "trackName": "En Tunne Sua",
+      "trackId": "5iBSbh2a7V4etp2xJfrkTC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3f65fc286d65ff3b8e7b2bb7ff8d3e877141dfa3",
+      "release_date": "2016-05-20"
+    }
+  ]
+}

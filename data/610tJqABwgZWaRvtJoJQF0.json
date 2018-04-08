@@ -1,0 +1,23 @@
+{
+  "artistName": "La Septima Banda",
+  "features": [
+    {
+      "featuredArtist": "Los Nuevos Rebeldes",
+      "featuredArtistId": "3OFZZxPrO2uYjDVglqTwEr",
+      "trackName": "Juan Ignacio",
+      "trackId": "3z8zmrkvYjh2mtmkQ0siCl",
+      "preview": "https://p.scdn.co/mp3-preview/c454a88ed7eebca81274edf542722291ea98b19e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c0d739f6ef7f341ef7fc501c60938a5a687bc9b1",
+      "release_date": "2013-08-05"
+    },
+    {
+      "featuredArtist": "Grupo Rebeldia Nortena",
+      "featuredArtistId": "4YfQF84BEiyiBxcnm9VXdQ",
+      "trackName": "No Pasa Nada",
+      "trackId": "49Qz74BkME6DGwJoWlQBLq",
+      "preview": "https://p.scdn.co/mp3-preview/c0e3f656732301bfe253dae433f3650af64bad86?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c0d739f6ef7f341ef7fc501c60938a5a687bc9b1",
+      "release_date": "2013-08-05"
+    }
+  ]
+}

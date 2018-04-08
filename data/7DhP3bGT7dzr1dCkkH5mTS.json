@@ -1,0 +1,23 @@
+{
+  "artistName": "David Crowder Band",
+  "features": [
+    {
+      "featuredArtist": "Solomon Olds",
+      "featuredArtistId": "05JooZnfKRGSDQGoR7gK4R",
+      "trackName": "Shadows - Family Force 5 Phenomenon Remix",
+      "trackId": "2sKpNP6dx28DLSPbrCIcEE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dca084de75dd12c29dcb7d91ab7599734e75b08e",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "The Digital Age",
+      "featuredArtistId": "10e64Uf9i4sWOj7jYaOsSN",
+      "trackName": "No One Like You - The Digital Age Remix",
+      "trackId": "6bVjKkCq31Vl4inp7LQBvH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dca084de75dd12c29dcb7d91ab7599734e75b08e",
+      "release_date": "2013-01-01"
+    }
+  ]
+}

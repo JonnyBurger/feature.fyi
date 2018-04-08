@@ -1,0 +1,59 @@
+{
+  "artistName": "Dan Stevens",
+  "features": [
+    {
+      "featuredArtist": "Emma Watson",
+      "featuredArtistId": "4N3cNXg5phUzRzuJYYxQlV",
+      "trackName": "Something There",
+      "trackId": "77JhqIuQjqzVmkRTUcm9ji",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c5a6129d3e61af39ec459452221654e1275f851e",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Ewan McGregor",
+      "featuredArtistId": "105Paee9vmV5rfLSG652e1",
+      "trackName": "Something There",
+      "trackId": "77JhqIuQjqzVmkRTUcm9ji",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c5a6129d3e61af39ec459452221654e1275f851e",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Ian McKellen",
+      "featuredArtistId": "4poDCMNdZuW1XNK5deqmSj",
+      "trackName": "Something There",
+      "trackId": "77JhqIuQjqzVmkRTUcm9ji",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c5a6129d3e61af39ec459452221654e1275f851e",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Emma Thompson",
+      "featuredArtistId": "4tB1f1h4TQqDz4bNaibMpl",
+      "trackName": "Something There",
+      "trackId": "77JhqIuQjqzVmkRTUcm9ji",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c5a6129d3e61af39ec459452221654e1275f851e",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Nathan Mack",
+      "featuredArtistId": "13tHisUuVf3mbhjTH5UJ8t",
+      "trackName": "Something There",
+      "trackId": "77JhqIuQjqzVmkRTUcm9ji",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c5a6129d3e61af39ec459452221654e1275f851e",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Gugu Mbatha-Raw",
+      "featuredArtistId": "0ZrekatCWFPF9GPKApg9EA",
+      "trackName": "Something There",
+      "trackId": "77JhqIuQjqzVmkRTUcm9ji",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c5a6129d3e61af39ec459452221654e1275f851e",
+      "release_date": "2017-03-10"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "artistName": "Rowan Atkinson",
+  "features": [
+    {
+      "featuredArtist": "Jason Weaver",
+      "featuredArtistId": "5UdPkKWd8YNR5xGcmqH9QJ",
+      "trackName": "I Just Can't Wait to Be King",
+      "trackId": "1mO65DBfyk0TpmRWunXGjN",
+      "preview": "https://p.scdn.co/mp3-preview/f9d82d0a252396d000bcde805788d9d4ef6c5de9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7740287e3beeafb480744f15e63b698e3f4faf95",
+      "release_date": "2017-08-23"
+    },
+    {
+      "featuredArtist": "Laura Williams",
+      "featuredArtistId": "6wIj7GdxBjFtw6ySpzazwo",
+      "trackName": "I Just Can't Wait to Be King",
+      "trackId": "1mO65DBfyk0TpmRWunXGjN",
+      "preview": "https://p.scdn.co/mp3-preview/f9d82d0a252396d000bcde805788d9d4ef6c5de9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7740287e3beeafb480744f15e63b698e3f4faf95",
+      "release_date": "2017-08-23"
+    }
+  ]
+}

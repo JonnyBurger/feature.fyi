@@ -1,0 +1,95 @@
+{
+  "artistName": "James Ingram",
+  "features": [
+    {
+      "featuredArtist": "Patti Austin",
+      "featuredArtistId": "0JxChc2w5fwTGbXKfc4cRd",
+      "trackName": "Baby Come to Me",
+      "trackId": "2NXlB3YXr3JlZ9VYg1xZ08",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/149da6a9a2e396e489c034a2ddbbfc127046c54f",
+      "release_date": "1999-04-12"
+    },
+    {
+      "featuredArtist": "Michael McDonald",
+      "featuredArtistId": "24hJWbo98sH84tb0nkeaqy",
+      "trackName": "Yah Mo Be There - Featuring Michael McDonald",
+      "trackId": "29wIDRBAyrdRclfZAlu228",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/149da6a9a2e396e489c034a2ddbbfc127046c54f",
+      "release_date": "1999-04-12"
+    },
+    {
+      "featuredArtist": "Nancy Wilson",
+      "featuredArtistId": "5gnpB90GzUR1gXpse5Kl4R",
+      "trackName": "Wish You Were Here - Featuring Nancy Wilson",
+      "trackId": "4xlA3SGX8q6xlEl2Xx84Fi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/149da6a9a2e396e489c034a2ddbbfc127046c54f",
+      "release_date": "1999-04-12"
+    },
+    {
+      "featuredArtist": "Linda Ronstadt",
+      "featuredArtistId": "1sXbwvCQLGZnaH0Jp2HTVc",
+      "trackName": "Somewhere Out There - Featuring Linda Ronstadt",
+      "trackId": "2CEKRHLIKIs5XhYesqBgOI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/149da6a9a2e396e489c034a2ddbbfc127046c54f",
+      "release_date": "1999-04-12"
+    },
+    {
+      "featuredArtist": "Dolly Parton",
+      "featuredArtistId": "32vWCbZh0xZ4o9gkz4PsEU",
+      "trackName": "The Day I Fall In Love - Featuring Dolly Parton",
+      "trackId": "0bi3Yuwv936oMxD2VIK2Ci",
+      "preview": "https://p.scdn.co/mp3-preview/1101231504c00e8fa2edb7ad5bc030e2f9f90cb2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/149da6a9a2e396e489c034a2ddbbfc127046c54f",
+      "release_date": "1999-04-12"
+    },
+    {
+      "featuredArtist": "The New Gospel Heavyweights",
+      "featuredArtistId": "3V0N1ptlhev4M8fJusTN5H",
+      "trackName": "Two Face",
+      "trackId": "5UjmHRiXRdYcqlmmyQbHqw",
+      "preview": "https://p.scdn.co/mp3-preview/7f97872a98266b75472de27624e4f0fff063ad4f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8683949dd7d5ffd30d375f9b2410b2b0853c6afd",
+      "release_date": "2010-06-06"
+    },
+    {
+      "featuredArtist": "Bruce Swedien",
+      "featuredArtistId": "2Q1VDTC6xzcECmxPP9PtcT",
+      "trackName": "Baby, Come To Me",
+      "trackId": "1mma5YSzeWhyn5GKKQmxJ0",
+      "preview": "https://p.scdn.co/mp3-preview/98bdfcc2e79df4193bcbe1d8b3207ce8fa2d4492?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f92b7382421e0030e43fb85662c4b51d5b678cc6",
+      "release_date": "2015-11-13"
+    },
+    {
+      "featuredArtist": "Felony",
+      "featuredArtistId": "1IuJ7D6JVHGOiPgJiZQlXf",
+      "trackName": "Player Haters",
+      "trackId": "2Y46r9BjiAyeZ0apAJ1a9p",
+      "preview": "https://p.scdn.co/mp3-preview/e882f510319b223b42bfbacc6e58ab48f636b595?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1aa4cf3a6222a24841b5462aeb0423824876611c",
+      "release_date": "2014-12-09"
+    },
+    {
+      "featuredArtist": "Rock D",
+      "featuredArtistId": "2FPZCpJBdrSBUJau2GbdY2",
+      "trackName": "Player Haters",
+      "trackId": "2Y46r9BjiAyeZ0apAJ1a9p",
+      "preview": "https://p.scdn.co/mp3-preview/e882f510319b223b42bfbacc6e58ab48f636b595?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1aa4cf3a6222a24841b5462aeb0423824876611c",
+      "release_date": "2014-12-09"
+    },
+    {
+      "featuredArtist": "Madwill",
+      "featuredArtistId": "3rCnms9PSFmfayXEpqWv9e",
+      "trackName": "Player Haters",
+      "trackId": "2Y46r9BjiAyeZ0apAJ1a9p",
+      "preview": "https://p.scdn.co/mp3-preview/e882f510319b223b42bfbacc6e58ab48f636b595?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1aa4cf3a6222a24841b5462aeb0423824876611c",
+      "release_date": "2014-12-09"
+    }
+  ]
+}

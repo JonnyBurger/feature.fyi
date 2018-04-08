@@ -1,0 +1,32 @@
+{
+  "artistName": "Arizona Zervas",
+  "features": [
+    {
+      "featuredArtist": "Arye",
+      "featuredArtistId": "5Js81XOZaW6TeEyOA31Euv",
+      "trackName": "Parted Ways",
+      "trackId": "1AAQejvxF7QiXbXfmCCdnJ",
+      "preview": "https://p.scdn.co/mp3-preview/3457011287c4831ec1c4f03de3b1be2fcfb3c5fa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/84644e0d4ff062c5bc8cc371281af09294924574",
+      "release_date": "2018-03-06"
+    },
+    {
+      "featuredArtist": "John Wolf",
+      "featuredArtistId": "3DN7OJUQmcj8YAwNaOaiEZ",
+      "trackName": "Zone",
+      "trackId": "5j2uEd0quV6W0Z2smGn9Rw",
+      "preview": "https://p.scdn.co/mp3-preview/a2a046cccd77c8b79c4d49f751c54983be59122a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/60911293fbd319d469bfb67fb19600b18adf6834",
+      "release_date": "2017-10-08"
+    },
+    {
+      "featuredArtist": "Woody Pond",
+      "featuredArtistId": "4AP4I4FVPnwNXMsfvl34pD",
+      "trackName": "Bad Luck",
+      "trackId": "5kfV2Cr09ZadUB2K3KTljX",
+      "preview": "https://p.scdn.co/mp3-preview/7e4326a0a163530865f3c09596f7ade94be0acab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/06f1cb88a3b5289d71a389d893e8f3ed4aa9e95d",
+      "release_date": "2017-05-08"
+    }
+  ]
+}

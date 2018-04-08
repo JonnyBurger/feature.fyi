@@ -1,0 +1,23 @@
+{
+  "artistName": "Col3trane",
+  "features": [
+    {
+      "featuredArtist": "Ebenezer",
+      "featuredArtistId": "2vik8lyw8WiALKMJK7C3hn",
+      "trackName": "Language (feat. Ebenezer)",
+      "trackId": "6NOdD9M3uXCQbHoxLChMn0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dc19ca16ab4835ca08be8eeeb637049b2b9747a5",
+      "release_date": "2018-04-06"
+    },
+    {
+      "featuredArtist": "SG Lewis",
+      "featuredArtistId": "0GG2cWaonE4JPrjcCCQ1EG",
+      "trackName": "Smart Aleck Kill",
+      "trackId": "40ZmsmyBfA33eeBmKXAoYr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c709933a2935db30ae72925625a57fcc34217658",
+      "release_date": "2017-08-22"
+    }
+  ]
+}

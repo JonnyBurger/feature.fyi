@@ -1,0 +1,32 @@
+{
+  "artistName": "Roman GianArthur",
+  "features": [
+    {
+      "featuredArtist": "Janelle Monáe",
+      "featuredArtistId": "6ueGR6SWhUJfvEhqkvMsVs",
+      "trackName": "No Surprises (feat. Janelle Monáe)",
+      "trackId": "4cRPXadQRylHEWmQJ02fIc",
+      "preview": "https://p.scdn.co/mp3-preview/ea5394a18d09a568fd2ba3a235dc8f38e274d036?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/60553ae85d54ad0c54f5439fb5548ee5199f815d",
+      "release_date": "2017-03-02"
+    },
+    {
+      "featuredArtist": "Jidenna",
+      "featuredArtistId": "4TsHKU8l8Wq7n7OPVikirn",
+      "trackName": "Classic Man",
+      "trackId": "3F6gwOOQYGriZ5zu7gJLIG",
+      "preview": "https://p.scdn.co/mp3-preview/bb2bb37b3607035430ea0b510c5e08bc4f7a959d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9bff52925ffe73f573e268be00e097c8a7d69ce",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Solange",
+      "featuredArtistId": "2auiVi8sUZo17dLy1HwrTU",
+      "trackName": "Electric Lady [feat. Solange]",
+      "trackId": "73tZpwfGgLQGwP43aqXhPM",
+      "preview": "https://p.scdn.co/mp3-preview/84b5bc3d9f5741d8e4b97682cc2ad1324003f4d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/74fd098bf88b650c9656af01d5300e3424f85f77",
+      "release_date": "2013-09-06"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "artistName": "Iam",
+  "features": [
+    {
+      "featuredArtist": "Lino",
+      "featuredArtistId": "6RM5eA0SSP7B8UV3qHbLa8",
+      "trackName": "Fiya",
+      "trackId": "5XhIDnTVU0yYHzWijwlUF2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aa17610c27bc8f17a84d531a59fb4b4e2bcf6aba",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Saïd",
+      "featuredArtistId": "15LZuPcMUqwdKTMLXw3hBY",
+      "trackName": "Paix",
+      "trackId": "5IHTIcXXPMNJG75ZohZQm6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aa17610c27bc8f17a84d531a59fb4b4e2bcf6aba",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Tyler Woods",
+      "featuredArtistId": "4rkRbT9GLNwFftxEiTpCMX",
+      "trackName": "Life I Live",
+      "trackId": "4Yz5h6p1BwP9zDO5u3J3vq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aa17610c27bc8f17a84d531a59fb4b4e2bcf6aba",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Nuttea",
+      "featuredArtistId": "65LSKdbofg1NdWkaLSVXKc",
+      "trackName": "Terre aride",
+      "trackId": "38tdCWHs7J5TreDjXSqECP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aa17610c27bc8f17a84d531a59fb4b4e2bcf6aba",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Meryem Saci",
+      "featuredArtistId": "5B3Wm59hYt0VbwypxsVkQE",
+      "trackName": "Bien plus beau",
+      "trackId": "0x4IqTP05IH7iCoKJDpSMM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/aa17610c27bc8f17a84d531a59fb4b4e2bcf6aba",
+      "release_date": "2017-03-03"
+    },
+    {
+      "featuredArtist": "Faf Larage",
+      "featuredArtistId": "2Rs9OXF7KV8QXIzg7hT1mv",
+      "trackName": "Achevez-les - feat. Def Bond et Faf Larage",
+      "trackId": "4HlHqRzwmSAJtAsbpdDlqY",
+      "preview": "https://p.scdn.co/mp3-preview/2f8aff04eecbc3527f0a7758f14695e0696192af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b985d6d483f718250ebff5a3dcccb576d1df122",
+      "release_date": "2014-11-24"
+    },
+    {
+      "featuredArtist": "Def Bond",
+      "featuredArtistId": "3cKhdxfVTEiaFtSaixLuic",
+      "trackName": "Achevez-les - feat. Def Bond et Faf Larage",
+      "trackId": "4HlHqRzwmSAJtAsbpdDlqY",
+      "preview": "https://p.scdn.co/mp3-preview/2f8aff04eecbc3527f0a7758f14695e0696192af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b985d6d483f718250ebff5a3dcccb576d1df122",
+      "release_date": "2014-11-24"
+    },
+    {
+      "featuredArtist": "Daddy Nuttea",
+      "featuredArtistId": "2zYLnX7jQ2cUFclKaP5UOe",
+      "trackName": "La 25ème image (feat. Daddy Nuttea)",
+      "trackId": "7c5IOzp3cnxKOBWC7wiVYC",
+      "preview": "https://p.scdn.co/mp3-preview/dd68ca7ba93bd4492b9c6b616fc6c541d17c9e9c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b985d6d483f718250ebff5a3dcccb576d1df122",
+      "release_date": "2014-11-24"
+    },
+    {
+      "featuredArtist": "Redman",
+      "featuredArtistId": "7xTKLpo7UCzXSnlH7fOIoM",
+      "trackName": "Noble Art (feat. Method Man & Redman)",
+      "trackId": "1wgomFLkMSlGIrGuO1P8MV",
+      "preview": "https://p.scdn.co/mp3-preview/811d972dc942e676def4d700c469d0c92074a4e1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8ec12a1e96435ac23a7b7f32b07b60e8ac815d44",
+      "release_date": "2013-08-05"
+    },
+    {
+      "featuredArtist": "Method Man",
+      "featuredArtistId": "4VmEWwd8y9MCLwexFMdpwt",
+      "trackName": "Noble Art (feat. Method Man & Redman)",
+      "trackId": "1wgomFLkMSlGIrGuO1P8MV",
+      "preview": "https://p.scdn.co/mp3-preview/811d972dc942e676def4d700c469d0c92074a4e1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8ec12a1e96435ac23a7b7f32b07b60e8ac815d44",
+      "release_date": "2013-08-05"
+    },
+    {
+      "featuredArtist": "Moïse",
+      "featuredArtistId": "0mJVGCJ5AF4cEWjhdpgNvS",
+      "trackName": "Où va la vie? (feat. Moïse)",
+      "trackId": "2AJuB5iTGa0zRwJNbNuhdB",
+      "preview": "https://p.scdn.co/mp3-preview/40a4f27d3b301dcea4540deececac1d298e520f9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8ec12a1e96435ac23a7b7f32b07b60e8ac815d44",
+      "release_date": "2013-08-05"
+    },
+    {
+      "featuredArtist": "DJ Daz",
+      "featuredArtistId": "5ZFm9n8vwnO6fA9BGjyknM",
+      "trackName": "Dj Daz Présente…",
+      "trackId": "06km58owYduhxtlBTwAyrp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/08796b59aa089dd9c37f3d55050fbef6914a8dff",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Said",
+      "featuredArtistId": "4TSNuOjyxv0kJ088y3oifG",
+      "trackName": "Musik",
+      "trackId": "5Dwi1q6Olmi2KcKFsaibig",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/08796b59aa089dd9c37f3d55050fbef6914a8dff",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Soprano",
+      "featuredArtistId": "2RJBv9wXbW6m539q9NOfW1",
+      "trackName": "La violence (feat. Soprano)",
+      "trackId": "5ObsGKA6ALG0rgro1dHTIf",
+      "preview": "https://p.scdn.co/mp3-preview/df13ce401e205205d67e52a63a8c6a4e7b0885f1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4496bacce9b491380c248e008d9ff7c1af545b68",
+      "release_date": "2009-07-10"
+    },
+    {
+      "featuredArtist": "Kayna Samet",
+      "featuredArtistId": "3qLpAs6VLppZrKlI0CXK6k",
+      "trackName": "Nous",
+      "trackId": "7FJxMf7QfFZwnwHfOvB7Uw",
+      "preview": "https://p.scdn.co/mp3-preview/9047ea436b595bddadff0bcf5e3f081fce2b8df9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3204f4d4ff20d6f65fe249b7b1d0e4dcd75ab460",
+      "release_date": "2008-06-20"
+    },
+    {
+      "featuredArtist": "Syleena Johnson",
+      "featuredArtistId": "1lE6SEy8f84Zhjvp7r8yTD",
+      "trackName": "Ici ou ailleurs",
+      "trackId": "6MTfDGVPbv1Knnuu3dnvkI",
+      "preview": "https://p.scdn.co/mp3-preview/26c66f22ce3721df93fd59de3665e226dc1380d3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3204f4d4ff20d6f65fe249b7b1d0e4dcd75ab460",
+      "release_date": "2008-06-20"
+    },
+    {
+      "featuredArtist": "Lofti Bouchnak",
+      "featuredArtistId": "2amYY9sdh4WCnMDmtR5pEl",
+      "trackName": "Où Va La Vie - Live Retour Aux Pyramides 14/03/2008",
+      "trackId": "1QqX87KoYTMIR2jQIQWAAE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e2607b9c1eb8f121b3b1fd788dec4e5e179679f1",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Khaled",
+      "featuredArtistId": "28ztjHIXceRRntmTUfnmUX",
+      "trackName": "Bladi - Live Retour Aux Pyramides 14/03/2008",
+      "trackId": "5yuB83mVQNYcq9kAlKfa71",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e2607b9c1eb8f121b3b1fd788dec4e5e179679f1",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Jehro",
+      "featuredArtistId": "05tPwlpXpLFDlHIErC7bW9",
+      "trackName": "To The World",
+      "trackId": "0qnUKhSW9dM4oR4UlvuCCr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/604ce54051860aa07e23e1139a2b469e4731fae7",
+      "release_date": "2007-01-01"
+    },
+    {
+      "featuredArtist": "Code E",
+      "featuredArtistId": "6hafwf6hbvJ6yKuZ3Nb5JJ",
+      "trackName": "L'école du micro d'argent - feat. Prodigal Sunn, Hellraiser, Bald Head & Codee [Version US]",
+      "trackId": "6z6V7seAkTAya7WaklFHIl",
+      "preview": "https://p.scdn.co/mp3-preview/32f8c500b6fe370f2f2f6aefb5fd3007a736f419?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/54ac6e9451ceca0c9e2cb5dca6f31462f2d743ee",
+      "release_date": "2006-12-29"
+    },
+    {
+      "featuredArtist": "Prodigal Sunn",
+      "featuredArtistId": "3QnwfdgJNhOjR1i7jPBGi8",
+      "trackName": "L'école du micro d'argent - feat. Prodigal Sunn, Hellraiser, Bald Head & Codee [Version US]",
+      "trackId": "6z6V7seAkTAya7WaklFHIl",
+      "preview": "https://p.scdn.co/mp3-preview/32f8c500b6fe370f2f2f6aefb5fd3007a736f419?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/54ac6e9451ceca0c9e2cb5dca6f31462f2d743ee",
+      "release_date": "2006-12-29"
+    },
+    {
+      "featuredArtist": "Hellraiser",
+      "featuredArtistId": "2F3hTwYohBfpJKYzZ0VuKX",
+      "trackName": "L'école du micro d'argent - feat. Prodigal Sunn, Hellraiser, Bald Head & Codee [Version US]",
+      "trackId": "6z6V7seAkTAya7WaklFHIl",
+      "preview": "https://p.scdn.co/mp3-preview/32f8c500b6fe370f2f2f6aefb5fd3007a736f419?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/54ac6e9451ceca0c9e2cb5dca6f31462f2d743ee",
+      "release_date": "2006-12-29"
+    },
+    {
+      "featuredArtist": "Bald Head",
+      "featuredArtistId": "5W57jgSmm9PXFdUkG2dvX1",
+      "trackName": "L'école du micro d'argent - feat. Prodigal Sunn, Hellraiser, Bald Head & Codee [Version US]",
+      "trackId": "6z6V7seAkTAya7WaklFHIl",
+      "preview": "https://p.scdn.co/mp3-preview/32f8c500b6fe370f2f2f6aefb5fd3007a736f419?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/54ac6e9451ceca0c9e2cb5dca6f31462f2d743ee",
+      "release_date": "2006-12-29"
+    },
+    {
+      "featuredArtist": "Lyricist Mic Forcing",
+      "featuredArtistId": "0SE3IniX39vAPOGmSZXpcK",
+      "trackName": "Live de la base (feat. Lyricist Mic Forcing) - Remix",
+      "trackId": "3HpgWinntrhoKXZ5RaGVs0",
+      "preview": "https://p.scdn.co/mp3-preview/752bc0d81504fa0c53b2b8001db49b49913177f8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/54ac6e9451ceca0c9e2cb5dca6f31462f2d743ee",
+      "release_date": "2006-12-29"
+    },
+    {
+      "featuredArtist": "Deni Hines",
+      "featuredArtistId": "5EkpFNNGJTnndTQLzqTFut",
+      "trackName": "Par envie (feat. Deni Hines)",
+      "trackId": "3rSj83LUWv4U9JraQS50qD",
+      "preview": "https://p.scdn.co/mp3-preview/7256c2cb62065a73213016bff344beb7f545e1b0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/54ac6e9451ceca0c9e2cb5dca6f31462f2d743ee",
+      "release_date": "2006-12-29"
+    }
+  ]
+}

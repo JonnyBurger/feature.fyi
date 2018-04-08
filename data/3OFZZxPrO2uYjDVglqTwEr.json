@@ -1,0 +1,41 @@
+{
+  "artistName": "Los Nuevos Rebeldes",
+  "features": [
+    {
+      "featuredArtist": "Miguel Y Miguel",
+      "featuredArtistId": "7fmQXLCgx5q0vkGArvS6mm",
+      "trackName": "Que Mas da (feat. Miguel Y Miguel)",
+      "trackId": "25zjmnQax2HiJayTICZQR3",
+      "preview": "https://p.scdn.co/mp3-preview/9b685c82d6b297f1558e8c37968d6830adcdd96d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9c30d6b04b3d4da27a4b0759b7f160089d839354",
+      "release_date": "2018-03-22"
+    },
+    {
+      "featuredArtist": "Banda La Conquista",
+      "featuredArtistId": "7gb9Ra1taHDWdkavLIi3qG",
+      "trackName": "Soy el Cheyo - En Vivo",
+      "trackId": "2F0hDKoBlTCvZLKl8nBQfV",
+      "preview": "https://p.scdn.co/mp3-preview/a654c127636ed244fa74878c07a747e0faef27ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41a7fe92ab17f1f48f75488c6e587df456d37fa",
+      "release_date": "2015-02-27"
+    },
+    {
+      "featuredArtist": "La Septima Banda",
+      "featuredArtistId": "610tJqABwgZWaRvtJoJQF0",
+      "trackName": "Los Hijos del Chapo - En Vivo",
+      "trackId": "06biVaxxhFnG3HNduC6UeK",
+      "preview": "https://p.scdn.co/mp3-preview/e941cb437e4dd464835411fa24b44f9c3d5b316b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5312cbdc5b5b97090bf552891d87de573f6362b4",
+      "release_date": "2015-02-23"
+    },
+    {
+      "featuredArtist": "Grupo Rebeldia",
+      "featuredArtistId": "5HTV2maKCjFFrTttrcXhsC",
+      "trackName": "La Llamada del Jt",
+      "trackId": "2vujVBYiRpRsMTSmIMpA9K",
+      "preview": "https://p.scdn.co/mp3-preview/2235c87af6ea77eaf6dc132d02f70f83f96429b6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0fa08a03d214328eb31915e5bd7f689e1238051a",
+      "release_date": "2013-05-22"
+    }
+  ]
+}

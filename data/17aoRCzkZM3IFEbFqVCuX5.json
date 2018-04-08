@@ -1,0 +1,32 @@
+{
+  "artistName": "Nash",
+  "features": [
+    {
+      "featuredArtist": "Azet",
+      "featuredArtistId": "39KEQQAG9JhIt71g9NEVhh",
+      "trackName": "Wir hatten nix",
+      "trackId": "6T9n0Xkcz0LWxGmcsrkYw7",
+      "preview": "https://p.scdn.co/mp3-preview/9d1f9baf68f252e97d1edc851cc0d18509c8a3d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/859607d8beb52df1fa73535ff72331af7fa07cfc",
+      "release_date": "2018-03-30"
+    },
+    {
+      "featuredArtist": "Miami Yacine",
+      "featuredArtistId": "1XKjtpH5P81gpOXDB91IEB",
+      "trackName": "Ghetto Part 2",
+      "trackId": "5S19nD3HgVzioPl0JBF2du",
+      "preview": "https://p.scdn.co/mp3-preview/851edd0f8770d94b71c5c490085ebaec0736b23b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9d68d6d41ac1b7cd2958a83682af418e372d531",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Zuna",
+      "featuredArtistId": "2otUckChxWf2cp6UP2cD6e",
+      "trackName": "Volles Magazin",
+      "trackId": "2GIK8DmzMAPdZTNXLGW7v3",
+      "preview": "https://p.scdn.co/mp3-preview/1830e3473953e3f724303c97b42390a276270102?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/10eea0ab81b03b27c57ef70f8ecd206037a7fc7e",
+      "release_date": "2017-04-14"
+    }
+  ]
+}

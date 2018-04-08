@@ -1,0 +1,212 @@
+{
+  "artistName": "Elastinen",
+  "features": [
+    {
+      "featuredArtist": "Profeetat",
+      "featuredArtistId": "5LqDX9Ip9ScCnen8Zbg5c7",
+      "trackName": "Sinuhe",
+      "trackId": "0b2KYpHaLG8ilgpLOdmbn3",
+      "preview": "https://p.scdn.co/mp3-preview/876ec0c6731697879355b8b4923fa9ec1b248db4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8c467f82222ac7e85d02a71b6a7d5f1bf88a87a6",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Cheek",
+      "featuredArtistId": "5ZZqIQ25HQmufjjf2trwFO",
+      "trackName": "Sinuhe",
+      "trackId": "0b2KYpHaLG8ilgpLOdmbn3",
+      "preview": "https://p.scdn.co/mp3-preview/876ec0c6731697879355b8b4923fa9ec1b248db4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8c467f82222ac7e85d02a71b6a7d5f1bf88a87a6",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Nelli Matula",
+      "featuredArtistId": "4D8m6VLd1ySVC6A2tzFvrE",
+      "trackName": "EYO (feat. Nelli Matula)",
+      "trackId": "6oSBi2k15RJphcjQZzwhO0",
+      "preview": "https://p.scdn.co/mp3-preview/f32fba6ccdfb7d55ac9fc83120eca96a7768fd8f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8c467f82222ac7e85d02a71b6a7d5f1bf88a87a6",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Paleface",
+      "featuredArtistId": "5CNgBVZXUEEGqyzgjUAgDj",
+      "trackName": "Pipefest (feat. Paleface)",
+      "trackId": "3dkipq5JPg6y5riVimXRjN",
+      "preview": "https://p.scdn.co/mp3-preview/c7ef0be7ea3b55d9f34ab456bc95b6864026a939?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8c467f82222ac7e85d02a71b6a7d5f1bf88a87a6",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Lauri Tähkä",
+      "featuredArtistId": "2ZyR5hOnG5pyMrbqJTXgtN",
+      "trackName": "Lempo",
+      "trackId": "2eiPHJocPLRzXvtKXZTfrc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3f65fc286d65ff3b8e7b2bb7ff8d3e877141dfa3",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Hector",
+      "featuredArtistId": "5UaXeIdkgIbWPwnClfQIU5",
+      "trackName": "Stadi On Niin Snadi",
+      "trackId": "5Dn6aTmOKf9gCnpJQPRiZ5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3f65fc286d65ff3b8e7b2bb7ff8d3e877141dfa3",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Robin",
+      "featuredArtistId": "4Q4b4S784htx6DtxcMUfMO",
+      "trackName": "AAAA",
+      "trackId": "7FNE5UpmRTX9b9QckKO0Ih",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3f65fc286d65ff3b8e7b2bb7ff8d3e877141dfa3",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Johanna Kurkela",
+      "featuredArtistId": "7fsO7iJz8gv776THRffk0A",
+      "trackName": "Oota Mua",
+      "trackId": "7Gx0Aqq30umOD1mW9RVDgT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3f65fc286d65ff3b8e7b2bb7ff8d3e877141dfa3",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Sami Hedberg",
+      "featuredArtistId": "0oIeMIKbtSkgDjRy1ghRl7",
+      "trackName": "Täytyy Jaksaa",
+      "trackId": "1ZUSBG7BtNcOEuqqnnJh6G",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3f65fc286d65ff3b8e7b2bb7ff8d3e877141dfa3",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Anssi Kela",
+      "featuredArtistId": "7ISARfXENNWqIhKcO6kyrG",
+      "trackName": "Voitais Välillä Elää",
+      "trackId": "5iThxujfRPEQygbZ5HS49n",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3f65fc286d65ff3b8e7b2bb7ff8d3e877141dfa3",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Anna Puu",
+      "featuredArtistId": "4gl9wpGYA4o15ykU2FBnd3",
+      "trackName": "Kesä '99",
+      "trackId": "3H1TdX14RHwlmclpkKTl4J",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3f65fc286d65ff3b8e7b2bb7ff8d3e877141dfa3",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Samu Haber",
+      "featuredArtistId": "211cqZyaBD7Wk7fAcLjsDB",
+      "trackName": "Tarpeeks Täydellinen",
+      "trackId": "7krTizBXtYfem7fKwkVzz9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3f65fc286d65ff3b8e7b2bb7ff8d3e877141dfa3",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Vesala",
+      "featuredArtistId": "5fyBhURKALJ81CC9X4DvZP",
+      "trackName": "En Tunne Sua",
+      "trackId": "5iBSbh2a7V4etp2xJfrkTC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3f65fc286d65ff3b8e7b2bb7ff8d3e877141dfa3",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Juha Tapio",
+      "featuredArtistId": "7yD78gcA2QR0sRQM4Lj7sM",
+      "trackName": "Parasta Aikaa",
+      "trackId": "3rKZEuyzQoLqHG8nzOpGo8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3f65fc286d65ff3b8e7b2bb7ff8d3e877141dfa3",
+      "release_date": "2016-05-20"
+    },
+    {
+      "featuredArtist": "Snoop Dogg",
+      "featuredArtistId": "7hJcb9fa4alzcOq3EaNPoG",
+      "trackName": "Koko Yö",
+      "trackId": "11QjKLDO42VfmmxiSF7cms",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/79f84f0630fcf881dca674a9955f3812e87b0586",
+      "release_date": "2015-04-10"
+    },
+    {
+      "featuredArtist": "Jussi Valuutta",
+      "featuredArtistId": "78y7Z8N3eqh96tzmBk1y7m",
+      "trackName": "Kaikki Käy",
+      "trackId": "3WctO30OjQ17JKb3CLpSl1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/79f84f0630fcf881dca674a9955f3812e87b0586",
+      "release_date": "2015-04-10"
+    },
+    {
+      "featuredArtist": "Jontte Valosaari",
+      "featuredArtistId": "28kGqx4hUF07ChEMz26up7",
+      "trackName": "Hallussa",
+      "trackId": "5OKIAj5sErqNe3yZGT4Pyh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fe74b928346ab2c9cf43563b518d0f7ccac37d1d",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Timo Pieni Huijaus",
+      "featuredArtistId": "3QhMkujlcwd5TqLp4p3KUR",
+      "trackName": "Kunnon Ukkoi",
+      "trackId": "0z3N1nZbNzSjtaVJ5IY1HG",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fe74b928346ab2c9cf43563b518d0f7ccac37d1d",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Andu",
+      "featuredArtistId": "3yV8BxljkPfk191M1ovDdG",
+      "trackName": "Turpa Kii",
+      "trackId": "2vTfQZzflaxGx2fY0MNtME",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fe74b928346ab2c9cf43563b518d0f7ccac37d1d",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Lauri Mikkola",
+      "featuredArtistId": "4ijdfro9NietabPPZz91es",
+      "trackName": "Uus",
+      "trackId": "6NHrQYWWHOk7GmmBS9xA81",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fe74b928346ab2c9cf43563b518d0f7ccac37d1d",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Uniikki",
+      "featuredArtistId": "1Q0Vv9aJFSOCFFHsH3seWX",
+      "trackName": "Loppuviikko",
+      "trackId": "3lBA4KEHNesOCKYE9J4ntM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fe74b928346ab2c9cf43563b518d0f7ccac37d1d",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Tasis",
+      "featuredArtistId": "33jNX20zbFQbqTGKt0wsF9",
+      "trackName": "Loppuviikko",
+      "trackId": "3lBA4KEHNesOCKYE9J4ntM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fe74b928346ab2c9cf43563b518d0f7ccac37d1d",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Spekti",
+      "featuredArtistId": "05qPtpcSltJZLI9sj0qm3B",
+      "trackName": "Loppuviikko",
+      "trackId": "3lBA4KEHNesOCKYE9J4ntM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fe74b928346ab2c9cf43563b518d0f7ccac37d1d",
+      "release_date": "2013-01-01"
+    }
+  ]
+}

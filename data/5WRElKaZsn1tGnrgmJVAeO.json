@@ -1,0 +1,32 @@
+{
+  "artistName": "Cam",
+  "features": [
+    {
+      "featuredArtist": "DJ Kode Red",
+      "featuredArtistId": "6sWe0IMozIRwWFHXBA2rxj",
+      "trackName": "Thinking (feat. Cam)",
+      "trackId": "5zQHd8I3h1SW1ECxyhE9kf",
+      "preview": "https://p.scdn.co/mp3-preview/5c9a7a9d159f6a6e75b2ed01a7427380826d1233?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01f462ac4897c71211a177d90c5e30e270ea464d",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "S.O.S",
+      "featuredArtistId": "2VE18sbaQghS4FlUhgZane",
+      "trackName": "Won't Let Me Go",
+      "trackId": "4HS0zXJVYSizVbCB0v0olb",
+      "preview": "https://p.scdn.co/mp3-preview/dbea7fc3a739a0379ea819950b43397e4a2bd233?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/96fddebbdbf3dc9b9cddaf0594bae9284f351e5e",
+      "release_date": "2017-02-24"
+    },
+    {
+      "featuredArtist": "Vince Gill",
+      "featuredArtistId": "3IhWQSrLj8EJjdvjFTpCyo",
+      "trackName": "I'll Be Waiting For You",
+      "trackId": "1BbeHrugvFaR5f5J1sybjI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/331eb3acc33852dd900b4655d12a7a770a924e94",
+      "release_date": "2016-02-12"
+    }
+  ]
+}

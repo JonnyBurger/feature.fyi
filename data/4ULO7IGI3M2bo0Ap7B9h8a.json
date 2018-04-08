@@ -1,0 +1,41 @@
+{
+  "artistName": "Teyana Taylor",
+  "features": [
+    {
+      "featuredArtist": "Chris Brown",
+      "featuredArtistId": "7bXgB6jMjp9ATFy66eO08Z",
+      "trackName": "Do Not Disturb",
+      "trackId": "2ICa2UYGSC2lEOD8FmL7FK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7bd0040dfcc9d5fb9049a403cf2bfa58d8cd718e",
+      "release_date": "2014-11-04"
+    },
+    {
+      "featuredArtist": "Fabolous",
+      "featuredArtistId": "0YWxKQj2Go9CGHCp77UOyy",
+      "trackName": "Broken Hearted Girl",
+      "trackId": "5ytXFrMAITLYBvmlANDtbh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7bd0040dfcc9d5fb9049a403cf2bfa58d8cd718e",
+      "release_date": "2014-11-04"
+    },
+    {
+      "featuredArtist": "Pusha T",
+      "featuredArtistId": "0ONHkAv9pCAFxb0zJwDNTy",
+      "trackName": "Maybe",
+      "trackId": "3773p0NrC1NGHKJrf2XaIB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7bd0040dfcc9d5fb9049a403cf2bfa58d8cd718e",
+      "release_date": "2014-11-04"
+    },
+    {
+      "featuredArtist": "Yo Gotti",
+      "featuredArtistId": "6Ha4aES39QiVjR0L2lwuwq",
+      "trackName": "Maybe",
+      "trackId": "3773p0NrC1NGHKJrf2XaIB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7bd0040dfcc9d5fb9049a403cf2bfa58d8cd718e",
+      "release_date": "2014-11-04"
+    }
+  ]
+}

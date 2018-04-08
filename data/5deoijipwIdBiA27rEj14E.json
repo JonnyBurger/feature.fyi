@@ -1,0 +1,32 @@
+{
+  "artistName": "Josh Cumbee",
+  "features": [
+    {
+      "featuredArtist": "Armin van Buuren",
+      "featuredArtistId": "0SfsnGyD8FpIN4U4WCkBZ5",
+      "trackName": "Christmas Days",
+      "trackId": "64gPAyS0XnCfK91BSMcACP",
+      "preview": "https://p.scdn.co/mp3-preview/e554d7aceb9e568dc99f63c37f17a4367d306cb8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e179b5f9d03dde8b0873164c7a5f3dad40bb1a0",
+      "release_date": "2017-12-09"
+    },
+    {
+      "featuredArtist": "AFSHeeN",
+      "featuredArtistId": "5iwLVxdLzgm1cLrZunXzWR",
+      "trackName": "Christmas Days - AFSHeeN Remix",
+      "trackId": "43J4EFqTsGn9R3utFQqgyd",
+      "preview": "https://p.scdn.co/mp3-preview/248121d42d3cc6f6fd124baa7403211c42e97b43?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2e179b5f9d03dde8b0873164c7a5f3dad40bb1a0",
+      "release_date": "2017-12-09"
+    },
+    {
+      "featuredArtist": "PureNRG",
+      "featuredArtistId": "265PWYZgdACwht1HnymdOD",
+      "trackName": "Sunny Days - PureNRG Remix",
+      "trackId": "1RQZlo8tyqCutOyhFzYzyZ",
+      "preview": "https://p.scdn.co/mp3-preview/98d597bf2e8bf993e0b08e9de621f6ef74894aeb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b6bd7e03f846d725dc1f03511d4af0eddee702f3",
+      "release_date": "2017-11-16"
+    }
+  ]
+}

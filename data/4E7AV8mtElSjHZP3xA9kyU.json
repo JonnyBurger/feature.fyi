@@ -1,0 +1,23 @@
+{
+  "artistName": "Luke James",
+  "features": [
+    {
+      "featuredArtist": "Rick Ross",
+      "featuredArtistId": "1sBkRIssrMs1AbVkOJbc7a",
+      "trackName": "Options",
+      "trackId": "3V7K2PLbu3ityDpTPzt4F7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a741da71b99ce30994dac3afc7fb00dd262a16ce",
+      "release_date": "2014-09-23"
+    },
+    {
+      "featuredArtist": "A$AP Ferg",
+      "featuredArtistId": "5dHt1vcEm9qb8fCyLcB3HL",
+      "trackName": "Drip",
+      "trackId": "3rXLaab5dBIrWot3rSQz4j",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/95b4b42109c15fc9ed89c7da9897763eaafa787d",
+      "release_date": "2017-11-10"
+    }
+  ]
+}

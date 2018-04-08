@@ -1,0 +1,266 @@
+{
+  "artistName": "Ian McKellen",
+  "features": [
+    {
+      "featuredArtist": "Ewan McGregor",
+      "featuredArtistId": "105Paee9vmV5rfLSG652e1",
+      "trackName": "Be Our Guest",
+      "trackId": "06FibL4WPxnhshdBJJS0Ou",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Emma Thompson",
+      "featuredArtistId": "4tB1f1h4TQqDz4bNaibMpl",
+      "trackName": "Be Our Guest",
+      "trackId": "06FibL4WPxnhshdBJJS0Ou",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Gugu Mbatha-Raw",
+      "featuredArtistId": "0ZrekatCWFPF9GPKApg9EA",
+      "trackName": "Be Our Guest",
+      "trackId": "06FibL4WPxnhshdBJJS0Ou",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Adam Mitchell",
+      "featuredArtistId": "3PL7CQBwsvybQ5eowJQXTf",
+      "trackName": "Days In The Sun",
+      "trackId": "6Y3O054DPKVjnDiJC7cWKN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Stanley Tucci",
+      "featuredArtistId": "3XZTEmxcwinCnuFcWluGai",
+      "trackName": "Days In The Sun",
+      "trackId": "6Y3O054DPKVjnDiJC7cWKN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Emma Watson",
+      "featuredArtistId": "4N3cNXg5phUzRzuJYYxQlV",
+      "trackName": "Days In The Sun",
+      "trackId": "6Y3O054DPKVjnDiJC7cWKN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Audra McDonald",
+      "featuredArtistId": "7F6surn3OpdyOzupSawyli",
+      "trackName": "Days In The Sun",
+      "trackId": "6Y3O054DPKVjnDiJC7cWKN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Clive Rowe",
+      "featuredArtistId": "5EMfTDu7Ppuf5a3sN2ac1d",
+      "trackName": "Days In The Sun",
+      "trackId": "6Y3O054DPKVjnDiJC7cWKN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Dan Stevens",
+      "featuredArtistId": "2jLRxUmPYm907rHGcnFShr",
+      "trackName": "Something There",
+      "trackId": "6Pu7tjrxBIivtwnDbFJeqf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Nathan Mack",
+      "featuredArtistId": "13tHisUuVf3mbhjTH5UJ8t",
+      "trackName": "Something There",
+      "trackId": "6Pu7tjrxBIivtwnDbFJeqf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Luke Evans",
+      "featuredArtistId": "0MO42HJhUFrv078qALxpPQ",
+      "trackName": "The Mob Song",
+      "trackId": "2Dz2y5QPm7Li6ARLosGjvx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Josh Gad",
+      "featuredArtistId": "4dSQICBjdUIp5iK6RRU2bY",
+      "trackName": "The Mob Song",
+      "trackId": "2Dz2y5QPm7Li6ARLosGjvx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Ensemble - Beauty and the Beast",
+      "featuredArtistId": "530a0roPLtawMxdCfI2zrR",
+      "trackName": "The Mob Song",
+      "trackId": "2Dz2y5QPm7Li6ARLosGjvx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Adam Mitchell",
+      "featuredArtistId": "0rlQeWIeJJdG7Z8RCNiwqs",
+      "trackName": "Days In The Sun",
+      "trackId": "2ppkGKabWsSgNV4fvOldQb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c5a6129d3e61af39ec459452221654e1275f851e",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Dan Stevens",
+      "featuredArtistId": "5lLVsxABqSuosfqAoLQeXV",
+      "trackName": "Something There",
+      "trackId": "77JhqIuQjqzVmkRTUcm9ji",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c5a6129d3e61af39ec459452221654e1275f851e",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Francesca Annis",
+      "featuredArtistId": "40Mp3U2ljxrGnBvKiq5E1T",
+      "trackName": "Romeo and Juliet, Act II Scene 2",
+      "trackId": "0uTgxWghbLWEnLfDR5TlAW",
+      "preview": "https://p.scdn.co/mp3-preview/35ffed49d80b5d687ad409a59c7db803b7727272?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/272c0ec3670934747c488af1d9f68fc6d002b09e",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Marie Kean",
+      "featuredArtistId": "3iI0LIQ5CBYSpkRxCIoieD",
+      "trackName": "Romeo and Juliet, Act II Scene 2",
+      "trackId": "0uTgxWghbLWEnLfDR5TlAW",
+      "preview": "https://p.scdn.co/mp3-preview/35ffed49d80b5d687ad409a59c7db803b7727272?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/272c0ec3670934747c488af1d9f68fc6d002b09e",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Jonathan Hyde",
+      "featuredArtistId": "6TGTOMjPBcvBWogTE8rwMm",
+      "trackName": "King Lear, Act V Scene 3",
+      "trackId": "4QZfWQjVDOgSoEWJf3RRik",
+      "preview": "https://p.scdn.co/mp3-preview/4f5cf7493aa55b616df882ee4de6fc92a1b0d664?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/272c0ec3670934747c488af1d9f68fc6d002b09e",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Ben Meyjes",
+      "featuredArtistId": "6Xpi6PaD7rbVzlEGd0u9Od",
+      "trackName": "King Lear, Act V Scene 3",
+      "trackId": "4QZfWQjVDOgSoEWJf3RRik",
+      "preview": "https://p.scdn.co/mp3-preview/4f5cf7493aa55b616df882ee4de6fc92a1b0d664?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/272c0ec3670934747c488af1d9f68fc6d002b09e",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Julian Harries",
+      "featuredArtistId": "2MbwUpuykyOEB0rXOhybrr",
+      "trackName": "King Lear, Act V Scene 3",
+      "trackId": "4QZfWQjVDOgSoEWJf3RRik",
+      "preview": "https://p.scdn.co/mp3-preview/4f5cf7493aa55b616df882ee4de6fc92a1b0d664?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/272c0ec3670934747c488af1d9f68fc6d002b09e",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Richard Goulding",
+      "featuredArtistId": "1HOYXFU4WOv5wGCGvy1EWi",
+      "trackName": "King Lear, Act V Scene 3",
+      "trackId": "4QZfWQjVDOgSoEWJf3RRik",
+      "preview": "https://p.scdn.co/mp3-preview/4f5cf7493aa55b616df882ee4de6fc92a1b0d664?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/272c0ec3670934747c488af1d9f68fc6d002b09e",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "Ben Addis",
+      "featuredArtistId": "5d80lK26Eycdp9dJsYtnEn",
+      "trackName": "King Lear, Act V Scene 3",
+      "trackId": "4QZfWQjVDOgSoEWJf3RRik",
+      "preview": "https://p.scdn.co/mp3-preview/4f5cf7493aa55b616df882ee4de6fc92a1b0d664?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/272c0ec3670934747c488af1d9f68fc6d002b09e",
+      "release_date": "2016-04-22"
+    },
+    {
+      "featuredArtist": "William Squire",
+      "featuredArtistId": "4fvo604IWyYf3YrexITFdp",
+      "trackName": "Act I",
+      "trackId": "3w5Ba2LMMH9eb6Vn29EZEw",
+      "preview": "https://p.scdn.co/mp3-preview/5fc808864d4972261ed5c1f04aa6cdf8482b75d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d3ecd4de6a3e643200ffcc2a7f7b61111d0fddd2",
+      "release_date": "2011-12-29"
+    },
+    {
+      "featuredArtist": "Trevor Nunn",
+      "featuredArtistId": "2M4wfwuSobr3QxHerqzegt",
+      "trackName": "Act I",
+      "trackId": "3w5Ba2LMMH9eb6Vn29EZEw",
+      "preview": "https://p.scdn.co/mp3-preview/5fc808864d4972261ed5c1f04aa6cdf8482b75d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d3ecd4de6a3e643200ffcc2a7f7b61111d0fddd2",
+      "release_date": "2011-12-29"
+    },
+    {
+      "featuredArtist": "Gary Watson",
+      "featuredArtistId": "73ajAjsggwiLuz2KHl0A9p",
+      "trackName": "Act I",
+      "trackId": "3w5Ba2LMMH9eb6Vn29EZEw",
+      "preview": "https://p.scdn.co/mp3-preview/5fc808864d4972261ed5c1f04aa6cdf8482b75d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d3ecd4de6a3e643200ffcc2a7f7b61111d0fddd2",
+      "release_date": "2011-12-29"
+    },
+    {
+      "featuredArtist": "William Shakespeare",
+      "featuredArtistId": "0xZ9fVp0OnYjYPeX9Z3c8x",
+      "trackName": "Act II",
+      "trackId": "33znG4YmHlTw25lXcyF5qV",
+      "preview": "https://p.scdn.co/mp3-preview/97fe5adfc2724f907e3eea901cad6e4fe838d2ad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d3ecd4de6a3e643200ffcc2a7f7b61111d0fddd2",
+      "release_date": "2011-12-29"
+    },
+    {
+      "featuredArtist": "Prunella Scales",
+      "featuredArtistId": "2F7xs6dDTyNgwnBMRtsI8z",
+      "trackName": "Act I",
+      "trackId": "0PqcNMTwJQUPgSeBqxo3pb",
+      "preview": "https://p.scdn.co/mp3-preview/8cb78b89e9fd43ba500e06a8224e3991e1214895?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1c44a3d4f72d9835659da48fd6fde5d4683790c2",
+      "release_date": "2011-12-23"
+    },
+    {
+      "featuredArtist": "Frank Duncan",
+      "featuredArtistId": "0sYODsZHKotLziszBdXy3Q",
+      "trackName": "Act I",
+      "trackId": "0PqcNMTwJQUPgSeBqxo3pb",
+      "preview": "https://p.scdn.co/mp3-preview/8cb78b89e9fd43ba500e06a8224e3991e1214895?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1c44a3d4f72d9835659da48fd6fde5d4683790c2",
+      "release_date": "2011-12-23"
+    },
+    {
+      "featuredArtist": "Joan Hart",
+      "featuredArtistId": "7yhizxI4a5DhlPlCiHD7Nh",
+      "trackName": "Act I",
+      "trackId": "0PqcNMTwJQUPgSeBqxo3pb",
+      "preview": "https://p.scdn.co/mp3-preview/8cb78b89e9fd43ba500e06a8224e3991e1214895?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1c44a3d4f72d9835659da48fd6fde5d4683790c2",
+      "release_date": "2011-12-23"
+    }
+  ]
+}

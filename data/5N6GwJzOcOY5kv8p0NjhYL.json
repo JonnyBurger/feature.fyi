@@ -1,0 +1,32 @@
+{
+  "artistName": "Neil Sedaka",
+  "features": [
+    {
+      "featuredArtist": "Tony Christie",
+      "featuredArtistId": "7KK6M2jPylHa6gLbMBI6V0",
+      "trackName": "Is This The Way To Amarillo - Live At The Royal Albert Hall, London/2006",
+      "trackId": "0YdTTdHzXAGHHo6W3ZDYPm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ed5612a006b7eb41a5416df247292eca3d4061a9",
+      "release_date": "2012-07-24"
+    },
+    {
+      "featuredArtist": "Dara Sedaka",
+      "featuredArtistId": "5SoVIaYUH7OhB4AMcUqZp8",
+      "trackName": "Should Have Never Let You Go - Live",
+      "trackId": "0g11PqfM8OmWZ13JnceiwD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2efe21197021cf2ef1aefa84c0018d6a635458c4",
+      "release_date": "2012-07-23"
+    },
+    {
+      "featuredArtist": "Stan Applebaum & His Orchestra",
+      "featuredArtistId": "4Sf8orb9h422WWLS2PNHwd",
+      "trackName": "Run Samson Run",
+      "trackId": "7yLlSCB0KabT0sy0JqRRzU",
+      "preview": "https://p.scdn.co/mp3-preview/719fdc8bf0b579e5bc4cb30d76c311309e778fad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f597f0c804e5488c3beade8837c1da3fddb3d54b",
+      "release_date": "2011-10-28"
+    }
+  ]
+}

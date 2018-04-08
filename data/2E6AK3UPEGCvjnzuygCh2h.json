@@ -1,0 +1,590 @@
+{
+  "artistName": "Night Skinny",
+  "features": [
+    {
+      "featuredArtist": "Gue Pequeno",
+      "featuredArtistId": "7F2utINZ6tSokSiZTQBE27",
+      "trackName": "Pezzi (feat. Guè Pequeno, Rkomi)",
+      "trackId": "35d9hbSsVSp71DECLUSg9V",
+      "preview": "https://p.scdn.co/mp3-preview/c6d93fc648e3ee1851406a4e9e961ca5c419412d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b50540cda61e16328a804be6899ccb24e7be1ca6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Rkomi",
+      "featuredArtistId": "056KMTw6IztdQjBmFfVyO3",
+      "trackName": "Pezzi (feat. Guè Pequeno, Rkomi)",
+      "trackId": "35d9hbSsVSp71DECLUSg9V",
+      "preview": "https://p.scdn.co/mp3-preview/c6d93fc648e3ee1851406a4e9e961ca5c419412d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b50540cda61e16328a804be6899ccb24e7be1ca6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Luchè",
+      "featuredArtistId": "0yHtPBDrHuVC45vj5E1yMi",
+      "trackName": "Al mio fianco (feat. Luchè)",
+      "trackId": "7bj19gK4fsxhBnJxRp2V9T",
+      "preview": "https://p.scdn.co/mp3-preview/0dd3296ce97f7bb1b51015d419472632fd87d3ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b50540cda61e16328a804be6899ccb24e7be1ca6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Tedua",
+      "featuredArtistId": "1AgAVqo74e2q4FVvg0xpT7",
+      "trackName": "Michael J. Fox (feat. Tedua)",
+      "trackId": "7xT0HAYOAuHcvat9doKoAm",
+      "preview": "https://p.scdn.co/mp3-preview/a601b39e26c5b1cf779d674733b4ef7155172f32?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b50540cda61e16328a804be6899ccb24e7be1ca6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Izi",
+      "featuredArtistId": "6289Bbkkk3gaCbh1K7Rv8F",
+      "trackName": "6 A.M. (feat. Guè Pequeno, Izi)",
+      "trackId": "3LiceACnr4J5R6BHVJFpka",
+      "preview": "https://p.scdn.co/mp3-preview/a1044f98c0860c3d4d0b2d639054eaf539df9729?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b50540cda61e16328a804be6899ccb24e7be1ca6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Samuel Heron",
+      "featuredArtistId": "7CkfnjbIBJisquAJCZv6oU",
+      "trackName": "Si frate (feat. Samuel Heron, TY1)",
+      "trackId": "3cD1u37FD5euibg6Sw8Dmb",
+      "preview": "https://p.scdn.co/mp3-preview/49d027981d823a61060b326649c00ae425fe991d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b50540cda61e16328a804be6899ccb24e7be1ca6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "TY1",
+      "featuredArtistId": "2DWRgncNMnTfwDiKSI0VoP",
+      "trackName": "Si frate (feat. Samuel Heron, TY1)",
+      "trackId": "3cD1u37FD5euibg6Sw8Dmb",
+      "preview": "https://p.scdn.co/mp3-preview/49d027981d823a61060b326649c00ae425fe991d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b50540cda61e16328a804be6899ccb24e7be1ca6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Lazza",
+      "featuredArtistId": "0jdNdfi4vAuVi7a6cPDFBM",
+      "trackName": "Houdini (feat. Lazza)",
+      "trackId": "2uVAuo9DvIhk5WKqRvBSNh",
+      "preview": "https://p.scdn.co/mp3-preview/251ccd5b81025b273210dc6216d65641bb6fb6fb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b50540cda61e16328a804be6899ccb24e7be1ca6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Mecna",
+      "featuredArtistId": "4yUvIAm9mSJyLt1WLrOxAZ",
+      "trackName": "Equilibrio (feat. Mecna, Coco)",
+      "trackId": "6zViBln1URLEE1UaIinJg0",
+      "preview": "https://p.scdn.co/mp3-preview/362326048a92d345ec9f4ac02b277804bf573241?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b50540cda61e16328a804be6899ccb24e7be1ca6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "CoCo",
+      "featuredArtistId": "5FEh6KHK99CyLXp3qFvZFM",
+      "trackName": "Equilibrio (feat. Mecna, Coco)",
+      "trackId": "6zViBln1URLEE1UaIinJg0",
+      "preview": "https://p.scdn.co/mp3-preview/362326048a92d345ec9f4ac02b277804bf573241?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b50540cda61e16328a804be6899ccb24e7be1ca6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Ernia",
+      "featuredArtistId": "3fhMfkPPzksWuw0hEm4ldm",
+      "trackName": "Male (feat. Ernia)",
+      "trackId": "5v64YXw2Lgh4SGPte5yafy",
+      "preview": "https://p.scdn.co/mp3-preview/2378aef3692aa6c2f49f4aebe9cb5dff0994b7ba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b50540cda61e16328a804be6899ccb24e7be1ca6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Vale Lambo",
+      "featuredArtistId": "26OG4ryQ7oFAbUNAvYCOgn",
+      "trackName": "Egitto (feat. Vale Lambo)",
+      "trackId": "2uB8XAA9YMXXELnpLNNtMQ",
+      "preview": "https://p.scdn.co/mp3-preview/bf25623876a2641fc23ab56e56e543399bb88301?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b50540cda61e16328a804be6899ccb24e7be1ca6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Johnny Marsiglia",
+      "featuredArtistId": "3av6zIgtT4g0kjJtDybSdb",
+      "trackName": "Una bella botta (feat. Johnny Marsiglia)",
+      "trackId": "4lxMgnpaIdMBiJTrsTphXJ",
+      "preview": "https://p.scdn.co/mp3-preview/244c02a462728dc47355283fd8e3193f9abe0254?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b50540cda61e16328a804be6899ccb24e7be1ca6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Noyz Narcos",
+      "featuredArtistId": "49UAapOfpOg1ZOU4xf2NgY",
+      "trackName": "Dope Games (feat. Noyz Narcos)",
+      "trackId": "6NvXUFja0e4W1FQRlSIIX8",
+      "preview": "https://p.scdn.co/mp3-preview/2011ddb81692dc54b5a6be43196fb9c29bc7a9f4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b50540cda61e16328a804be6899ccb24e7be1ca6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "67",
+      "featuredArtistId": "211p9eSLzwF6iuXzzP5xTl",
+      "trackName": "On Tour (feat. 67)",
+      "trackId": "1ENKJRWEhY95VbPwTn8ZXt",
+      "preview": "https://p.scdn.co/mp3-preview/30864a587a19699b1cce7fe8a69c39a683d65435?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b50540cda61e16328a804be6899ccb24e7be1ca6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Paigey Cakey",
+      "featuredArtistId": "1Lfz8ISr2g1d33hirTmajR",
+      "trackName": "On My Case (feat. Paigey Cakey)",
+      "trackId": "0uepXO4hsdrrvqWGLIo1mW",
+      "preview": "https://p.scdn.co/mp3-preview/82eafb36eb4600bf8ed17561838702dd5c64bbd8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b50540cda61e16328a804be6899ccb24e7be1ca6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "8 Bullets Russian Roulette",
+      "featuredArtistId": "04xsIpVGuMj11kPKPskNWS",
+      "trackName": "Intro",
+      "trackId": "6csMSWTmDnsReDqbE9PV58",
+      "preview": "https://p.scdn.co/mp3-preview/ed044dafd70d402b4feb69935b90a9d05f387383?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Marracash",
+      "featuredArtistId": "5AZuEF0feCXMkUCwQiQlW7",
+      "trackName": "Zero Kills",
+      "trackId": "1eqdWzuJ87sXxQmwLZ4sI8",
+      "preview": "https://p.scdn.co/mp3-preview/83601e7857d0d2d7198824683c40358bbd512334?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Patrick Benifei",
+      "featuredArtistId": "3dOrb7nbZX0f0nGEdZLgTx",
+      "trackName": "Metti in conto",
+      "trackId": "7af7gS7OH8TjWKwCJC9zdT",
+      "preview": "https://p.scdn.co/mp3-preview/b719656d9ed359f95331af5cb71675e7e3e92c7a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Madman",
+      "featuredArtistId": "3MkkSf3u5KU52Mb2iMrqeX",
+      "trackName": "C'è nessuno?",
+      "trackId": "4CAC0pvrjBLnZZNvhW4R4L",
+      "preview": "https://p.scdn.co/mp3-preview/32b0036a76cd1bdca20f2cf6250bfc9213ff12d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Ensi",
+      "featuredArtistId": "6dKdNHGdsBvEeNDxXV8AMP",
+      "trackName": "Hostis drama",
+      "trackId": "7g5orNSP8zFUQbaiARj6mM",
+      "preview": "https://p.scdn.co/mp3-preview/53df2d6b84ffa7415c9b726c275d97127ca38a5d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Lord Bean",
+      "featuredArtistId": "0cGbVTBBkJtorHIizldPZU",
+      "trackName": "Hostis drama",
+      "trackId": "7g5orNSP8zFUQbaiARj6mM",
+      "preview": "https://p.scdn.co/mp3-preview/53df2d6b84ffa7415c9b726c275d97127ca38a5d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Salmo",
+      "featuredArtistId": "3hBQ4zniNdQf1cqqo6hzuW",
+      "trackName": "Hostis drama",
+      "trackId": "7g5orNSP8zFUQbaiARj6mM",
+      "preview": "https://p.scdn.co/mp3-preview/53df2d6b84ffa7415c9b726c275d97127ca38a5d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Dj Double S",
+      "featuredArtistId": "6dtsFkULezFnergRkRlQv0",
+      "trackName": "Hostis drama",
+      "trackId": "7g5orNSP8zFUQbaiARj6mM",
+      "preview": "https://p.scdn.co/mp3-preview/53df2d6b84ffa7415c9b726c275d97127ca38a5d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Pat Cosmo",
+      "featuredArtistId": "4puddXEdfy3xRcHhyDzUrR",
+      "trackName": "Questa notte",
+      "trackId": "3SHF5W95MJnkiwtxaDGOWX",
+      "preview": "https://p.scdn.co/mp3-preview/51ec4d574af18bd53ec588e0bbb0fed945413852?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Dargen D'Amico",
+      "featuredArtistId": "7muPB2GhV0sEg2K1Fgj0Xm",
+      "trackName": "E fa bene",
+      "trackId": "5NZrdKUNHtuWeFRG1aViaG",
+      "preview": "https://p.scdn.co/mp3-preview/3b6637253322c06630e044252051dfceda2fee7b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Jack The Smoker",
+      "featuredArtistId": "0vZAzVAFQL1gKLBPfnXMaS",
+      "trackName": "La testa gira",
+      "trackId": "3yt7G9xUlyE4JkjdJ60GRI",
+      "preview": "https://p.scdn.co/mp3-preview/919874bab5ab3803fe59e53a300f480f2c541464?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Clementino",
+      "featuredArtistId": "0ba6wsfB7G2rhdHMebCdO3",
+      "trackName": "La testa gira",
+      "trackId": "3yt7G9xUlyE4JkjdJ60GRI",
+      "preview": "https://p.scdn.co/mp3-preview/919874bab5ab3803fe59e53a300f480f2c541464?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Gemitaiz",
+      "featuredArtistId": "4upwdFMlZBmQ68jP9jPzjK",
+      "trackName": "La testa gira",
+      "trackId": "3yt7G9xUlyE4JkjdJ60GRI",
+      "preview": "https://p.scdn.co/mp3-preview/919874bab5ab3803fe59e53a300f480f2c541464?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Nitro",
+      "featuredArtistId": "6jQZzWW3JlEtcRDSzFVKSP",
+      "trackName": "La testa gira",
+      "trackId": "3yt7G9xUlyE4JkjdJ60GRI",
+      "preview": "https://p.scdn.co/mp3-preview/919874bab5ab3803fe59e53a300f480f2c541464?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Nex Cassel",
+      "featuredArtistId": "3xaOS4EuhPKa2wV01mH7oe",
+      "trackName": "Circo panico",
+      "trackId": "2fv7wpVRhttLzO732D71Ad",
+      "preview": "https://p.scdn.co/mp3-preview/da781f208a78bed68cbcf06f2e3bee5f8699da75?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Achille Lauro",
+      "featuredArtistId": "0lI3rF4hi4op6UxqlLHPzv",
+      "trackName": "La verità",
+      "trackId": "2OhS3ERJvncLk03L4FVpZO",
+      "preview": "https://p.scdn.co/mp3-preview/48a13bfe747c2e6cc9d7b9fc7aec6fc9e2952362?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Luche",
+      "featuredArtistId": "3yiEJ9SByXZMXTwaKdVFN4",
+      "trackName": "La verità",
+      "trackId": "2OhS3ERJvncLk03L4FVpZO",
+      "preview": "https://p.scdn.co/mp3-preview/48a13bfe747c2e6cc9d7b9fc7aec6fc9e2952362?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Casino Royale",
+      "featuredArtistId": "1OavCVgu5jGDNw4YVNkfgK",
+      "trackName": "Resta vivo",
+      "trackId": "3TyS1DdTErCd4IzdGJ5jYa",
+      "preview": "https://p.scdn.co/mp3-preview/e8022e0d779891699e46fa2efc4d116aca2ed888?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Colle Der Fomento",
+      "featuredArtistId": "7582dstv99hhZhryUNCn3u",
+      "trackName": "Io non sono qui",
+      "trackId": "4lCo3ZsrrTO1itQPbOrQro",
+      "preview": "https://p.scdn.co/mp3-preview/93cacc6e5479214f36241a100d96530318499d70?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Ghemon",
+      "featuredArtistId": "4xgOj3GP5I1do9ip0MQkLa",
+      "trackName": "Ad un mare di distanza",
+      "trackId": "4hlcQs5wdlEA6GAHWLK08g",
+      "preview": "https://p.scdn.co/mp3-preview/b21080e29318a52a9185d5a485d7a2b6ab657106?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Tormento",
+      "featuredArtistId": "2av4MrhPDUQLG3py1i0h7L",
+      "trackName": "In bilico",
+      "trackId": "59jwxfzvyqB0KDtzcdRHrZ",
+      "preview": "https://p.scdn.co/mp3-preview/8e05b87a82ab523c0f1860384bbbce245ac66ecd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Stokka",
+      "featuredArtistId": "41zFpjwSjC0g6HgcnElFNX",
+      "trackName": "Troppo grande",
+      "trackId": "1qNiP3ZLG0K249xI3JJWEo",
+      "preview": "https://p.scdn.co/mp3-preview/abbb86f7fc2c34bcd34aef8405dc5fdf4fec5976?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Madbuddy",
+      "featuredArtistId": "1tBJtWHAbcvZF9qfGwLp1J",
+      "trackName": "Troppo grande",
+      "trackId": "1qNiP3ZLG0K249xI3JJWEo",
+      "preview": "https://p.scdn.co/mp3-preview/abbb86f7fc2c34bcd34aef8405dc5fdf4fec5976?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Bluebeaters Brass",
+      "featuredArtistId": "5X6TnZT7ufHOqMAiP266tC",
+      "trackName": "Outro",
+      "trackId": "5Cq7FflozdIkRZundET1PN",
+      "preview": "https://p.scdn.co/mp3-preview/68340f550e1dff06934fd7786f2ca73b265d5f45?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Chicoria",
+      "featuredArtistId": "5OzBpKiOsMFpuwvbJpUGce",
+      "trackName": "Indian tweet posse - Bonus Track",
+      "trackId": "6tElDPNohYLLaIO45Y8K9O",
+      "preview": "https://p.scdn.co/mp3-preview/f36e6cca18a33b1a42604345087dedf2e926e72a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Louis Dee",
+      "featuredArtistId": "0cqKe5aIp6diwasKdXzJF6",
+      "trackName": "Indian tweet posse - Bonus Track",
+      "trackId": "6tElDPNohYLLaIO45Y8K9O",
+      "preview": "https://p.scdn.co/mp3-preview/f36e6cca18a33b1a42604345087dedf2e926e72a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Er Costa",
+      "featuredArtistId": "7zfnElBFcdWC87g9HANXQ1",
+      "trackName": "Indian tweet posse - Bonus Track",
+      "trackId": "6tElDPNohYLLaIO45Y8K9O",
+      "preview": "https://p.scdn.co/mp3-preview/f36e6cca18a33b1a42604345087dedf2e926e72a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Rocco Hunt",
+      "featuredArtistId": "0L1f9i3L3fkMNENljDOsjG",
+      "trackName": "Indian tweet posse - Bonus Track",
+      "trackId": "6tElDPNohYLLaIO45Y8K9O",
+      "preview": "https://p.scdn.co/mp3-preview/f36e6cca18a33b1a42604345087dedf2e926e72a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Egreen",
+      "featuredArtistId": "4CSFu5TxKb1Z2GeO1LxZU4",
+      "trackName": "Indian tweet posse - Bonus Track",
+      "trackId": "6tElDPNohYLLaIO45Y8K9O",
+      "preview": "https://p.scdn.co/mp3-preview/f36e6cca18a33b1a42604345087dedf2e926e72a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ccc392d155b9c02a228687fdba9046ca2f0b7b64",
+      "release_date": "2014-11-11"
+    },
+    {
+      "featuredArtist": "Free Form",
+      "featuredArtistId": "1FWaIEhLcJ6NjmrYVgoXbm",
+      "trackName": "Back 2 NY",
+      "trackId": "4T4SiibEZL0Qtj7SCEbcAc",
+      "preview": "https://p.scdn.co/mp3-preview/00b6d8c78cc6029db91281cc23d63467e46c09e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    },
+    {
+      "featuredArtist": "DJ Myke",
+      "featuredArtistId": "0agw9rAVju2v0Ot1OHYt7O",
+      "trackName": "Back 2 NY",
+      "trackId": "4T4SiibEZL0Qtj7SCEbcAc",
+      "preview": "https://p.scdn.co/mp3-preview/00b6d8c78cc6029db91281cc23d63467e46c09e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    },
+    {
+      "featuredArtist": "Esa",
+      "featuredArtistId": "6H2hxPJDMotYBcaMOxVg5q",
+      "trackName": "Il segreto è nei palazzi",
+      "trackId": "7gpQPafY7kMDtDonMN2Uqa",
+      "preview": "https://p.scdn.co/mp3-preview/9570d75d48c2cb590b8cf9d1845be2ac909acc5a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    },
+    {
+      "featuredArtist": "DJ Ronin",
+      "featuredArtistId": "1FBW0OfvxwewWlB220rdzF",
+      "trackName": "Il segreto è nei palazzi",
+      "trackId": "7gpQPafY7kMDtDonMN2Uqa",
+      "preview": "https://p.scdn.co/mp3-preview/9570d75d48c2cb590b8cf9d1845be2ac909acc5a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    },
+    {
+      "featuredArtist": "Op'Rot",
+      "featuredArtistId": "1GHkui2p6q8fe0tZT7RrU9",
+      "trackName": "Subway Connection",
+      "trackId": "12SDsSEVumgjlGngW4dEGP",
+      "preview": "https://p.scdn.co/mp3-preview/587d5d141f09d6a381ed97b755379c7d8a883679?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    },
+    {
+      "featuredArtist": "Ramtzu",
+      "featuredArtistId": "24FDoCW0aJYuJV2Z3BjfEs",
+      "trackName": "Subway Connection",
+      "trackId": "12SDsSEVumgjlGngW4dEGP",
+      "preview": "https://p.scdn.co/mp3-preview/587d5d141f09d6a381ed97b755379c7d8a883679?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    },
+    {
+      "featuredArtist": "Shamantide",
+      "featuredArtistId": "1jnOZQCc5w6lx9BVn3pJs7",
+      "trackName": "Subway Connection",
+      "trackId": "12SDsSEVumgjlGngW4dEGP",
+      "preview": "https://p.scdn.co/mp3-preview/587d5d141f09d6a381ed97b755379c7d8a883679?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    },
+    {
+      "featuredArtist": "DJ Fakser",
+      "featuredArtistId": "29u4CQ0RtyAnZazdwesNha",
+      "trackName": "Subway Connection",
+      "trackId": "12SDsSEVumgjlGngW4dEGP",
+      "preview": "https://p.scdn.co/mp3-preview/587d5d141f09d6a381ed97b755379c7d8a883679?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    },
+    {
+      "featuredArtist": "Lugi",
+      "featuredArtistId": "3O51Bq0QsJTPl6ZmbmyRgF",
+      "trackName": "You and I",
+      "trackId": "0BJR7cylwNeWQ3prPuhEXX",
+      "preview": "https://p.scdn.co/mp3-preview/a55e40a6ab397f3a55399cdc53c192adf5941ef3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    },
+    {
+      "featuredArtist": "M. Sayyid",
+      "featuredArtistId": "4WKyQba1T0Y5D8R5SkfZx4",
+      "trackName": "Handmade Grenade",
+      "trackId": "74fTZWi0CFdsxoUc1V8JB7",
+      "preview": "https://p.scdn.co/mp3-preview/8fe077a70642de9d5b2069db240fe81ab0de2e11?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    },
+    {
+      "featuredArtist": "H. Priest",
+      "featuredArtistId": "6zhSARh6dos3QfhvM3oVmG",
+      "trackName": "Handmade Grenade",
+      "trackId": "74fTZWi0CFdsxoUc1V8JB7",
+      "preview": "https://p.scdn.co/mp3-preview/8fe077a70642de9d5b2069db240fe81ab0de2e11?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    },
+    {
+      "featuredArtist": "Tayone",
+      "featuredArtistId": "1b4o4uLuM34FSXFtqERKUh",
+      "trackName": "Handmade Grenade",
+      "trackId": "74fTZWi0CFdsxoUc1V8JB7",
+      "preview": "https://p.scdn.co/mp3-preview/8fe077a70642de9d5b2069db240fe81ab0de2e11?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    },
+    {
+      "featuredArtist": "DJ 2P",
+      "featuredArtistId": "3cHtXBLCuSZ6uLmxuMnFQx",
+      "trackName": "Duorm",
+      "trackId": "7qMuvf5c5ssyF3qlBrgFUT",
+      "preview": "https://p.scdn.co/mp3-preview/2b0582895b5fbb86351cecb47520a83fb07e001a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    },
+    {
+      "featuredArtist": "Vordul Mega",
+      "featuredArtistId": "650LgUuUik20GvuNxwBY3T",
+      "trackName": "Phantom",
+      "trackId": "6ogJPbPFfdyjxQejS7JdK5",
+      "preview": "https://p.scdn.co/mp3-preview/7b3573ea6b5cf6e834ce866b5dc1143477d926ea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    },
+    {
+      "featuredArtist": "Musteeno",
+      "featuredArtistId": "1yoExE4F5Rzxf0vbxs2DuE",
+      "trackName": "Chiacchiere e immagine",
+      "trackId": "0lY2a7agnmcvGdoJao87bu",
+      "preview": "https://p.scdn.co/mp3-preview/9edca9d3a3bf4430e0a6aafd3e3ba9feea1707cb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    },
+    {
+      "featuredArtist": "Dre Love",
+      "featuredArtistId": "2HbeztbPqEJ7CAbmc1QP00",
+      "trackName": "NYC Born",
+      "trackId": "1c325Qxd5SINHo4YJPN9qh",
+      "preview": "https://p.scdn.co/mp3-preview/7e66d383b3d7be63e7819e5215e790d1b71b6af6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    },
+    {
+      "featuredArtist": "Mental D Tek",
+      "featuredArtistId": "47YqU1cbP3fIAbfDXfSzW1",
+      "trackName": "Demolition In Progress",
+      "trackId": "1DE3ahyzYICrb9tYhVSHj2",
+      "preview": "https://p.scdn.co/mp3-preview/0f29127679a1679a4bccdbf69839f8acd379e603?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    },
+    {
+      "featuredArtist": "DJ Creeterio",
+      "featuredArtistId": "56tcF0Iaw0cWZn9zOEckGH",
+      "trackName": "Demolition In Progress",
+      "trackId": "1DE3ahyzYICrb9tYhVSHj2",
+      "preview": "https://p.scdn.co/mp3-preview/0f29127679a1679a4bccdbf69839f8acd379e603?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    },
+    {
+      "featuredArtist": "Gomez",
+      "featuredArtistId": "4zPGlyitRvJo7iz6OKlETa",
+      "trackName": "Triangolio",
+      "trackId": "70PJ7jsGexdIi2ynZ5lihY",
+      "preview": "https://p.scdn.co/mp3-preview/65da3393d515228f2bd1a249d81efb4d0fc6d2ca?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    },
+    {
+      "featuredArtist": "L. Mare",
+      "featuredArtistId": "1bvGDHsXJt3Bi11dgPpGwP",
+      "trackName": "La musica sorride a tutti",
+      "trackId": "2PrWPFH92oUJYWfTGA78MZ",
+      "preview": "https://p.scdn.co/mp3-preview/d9a59c36cec007d091bd65fa72a04061dd490913?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d6c943eb75ebce97aa73144b75a0c2b03ee43613",
+      "release_date": "2010-02-26"
+    }
+  ]
+}

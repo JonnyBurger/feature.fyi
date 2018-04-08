@@ -1,0 +1,68 @@
+{
+  "artistName": "Thelonious Monk",
+  "features": [
+    {
+      "featuredArtist": "Sonny Rollins",
+      "featuredArtistId": "1VEzN9lxvG6KPR3QQGsebR",
+      "trackName": "The Way You Look Tonight",
+      "trackId": "4MIFA5EbAEn7hceJCUUVEg",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2ff486730893d0fb88682eda8fe0236e6a10f2e9",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Gerry Mulligan",
+      "featuredArtistId": "6l40OFJhuTbHQ9V12evc9K",
+      "trackName": "I Mean You - Take 4",
+      "trackId": "6kCrPlVjNMmcXhzGHSYG2E",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bd9be1047bb850be2f62920b0bc051db8c098c58",
+      "release_date": "2017-07-26"
+    },
+    {
+      "featuredArtist": "Wilbur Ware",
+      "featuredArtistId": "4NWHLPe11EOyvjbxXprtzK",
+      "trackName": "I Mean You - Take 4",
+      "trackId": "6kCrPlVjNMmcXhzGHSYG2E",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bd9be1047bb850be2f62920b0bc051db8c098c58",
+      "release_date": "2017-07-26"
+    },
+    {
+      "featuredArtist": "Shadow Wilson",
+      "featuredArtistId": "03dISoKvlChFOGWAnmS6uG",
+      "trackName": "I Mean You - Take 4",
+      "trackId": "6kCrPlVjNMmcXhzGHSYG2E",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bd9be1047bb850be2f62920b0bc051db8c098c58",
+      "release_date": "2017-07-26"
+    },
+    {
+      "featuredArtist": "Clark Terry",
+      "featuredArtistId": "62xdwGEOLoGQxKUqoJusyU",
+      "trackName": "Brilliant Corners",
+      "trackId": "43o9O01unGYSJAb2ifNjCD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bd9be1047bb850be2f62920b0bc051db8c098c58",
+      "release_date": "2017-07-26"
+    },
+    {
+      "featuredArtist": "John Coltrane",
+      "featuredArtistId": "2hGh5VOeeqimQFxqXvfCUf",
+      "trackName": "Off Minor - Take 4",
+      "trackId": "2Q254khA6eeFXMzurrjSNs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bd9be1047bb850be2f62920b0bc051db8c098c58",
+      "release_date": "2017-07-26"
+    },
+    {
+      "featuredArtist": "Wynton Marsalis",
+      "featuredArtistId": "375zxMmh2cSgUzFFnva0O7",
+      "trackName": "Thelonious",
+      "trackId": "5hnEOp7KqdjhWaTMeP7mjW",
+      "preview": "https://p.scdn.co/mp3-preview/1a96e951e0a8b18194be989c8394a8535fa6e81f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d128a304674ac35eaac5ec6ed36e7b4cd1a5e4bf",
+      "release_date": "1999-01-26"
+    }
+  ]
+}

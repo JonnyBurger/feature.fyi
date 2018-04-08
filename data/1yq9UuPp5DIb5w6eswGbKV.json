@@ -1,0 +1,23 @@
+{
+  "artistName": "Adriano Celentano",
+  "features": [
+    {
+      "featuredArtist": "Claudia Mori",
+      "featuredArtistId": "0c5nXKT37cYsbaXiw5mFVk",
+      "trackName": "Buona sera dottore",
+      "trackId": "200J4BmwxNG2GwOaG9ePgM",
+      "preview": "https://p.scdn.co/mp3-preview/6cb44cedc6046b3ea39bb6fde674e1437d27bc36?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f10bff005ed00c39512a04d8bcdfa735b6ae6f0",
+      "release_date": "2017-03-16"
+    },
+    {
+      "featuredArtist": "Anita Traversi",
+      "featuredArtistId": "6Ad8oWCdJo4g9PhTJmBLzs",
+      "trackName": "Ritorna lo Shimmy",
+      "trackId": "70KAVSEJKC6Ak1rvVmiwh3",
+      "preview": "https://p.scdn.co/mp3-preview/e314ddfd99f1cf152418bed4d9595196d83bb985?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/46c7b5c7b238da57673d8460994ef236fd56926c",
+      "release_date": "2016-01-01"
+    }
+  ]
+}

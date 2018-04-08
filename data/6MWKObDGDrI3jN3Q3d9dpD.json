@@ -1,0 +1,59 @@
+{
+  "artistName": "Jorge Blanco",
+  "features": [
+    {
+      "featuredArtist": "Kris Kross Amsterdam",
+      "featuredArtistId": "4LcUpNlXFEleaLlelmkv2R",
+      "trackName": "Gone Is The Night",
+      "trackId": "6IVRSHX4lKYQ6DC1wpv7p5",
+      "preview": "https://p.scdn.co/mp3-preview/4e081a92120fc6397a7af42ac5f26065506ec92f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/17cb35792337058e4f090ef11d803300ca4aa94e",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Saak",
+      "featuredArtistId": "6n7rxaNHjaGIkfRmzEVHKU",
+      "trackName": "Una Noche",
+      "trackId": "718Lzm5YWORirlmm9Cmp5z",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c576bec43b9342543019f105056d4f2b18b9c83d",
+      "release_date": "2017-08-18"
+    },
+    {
+      "featuredArtist": "Fred Falke",
+      "featuredArtistId": "0AfNNw1LS2i9KW4icd7inD",
+      "trackName": "Summer Soul - Fred Falke Remix",
+      "trackId": "5KwpDSFzeKxeMm3Clhr9Ll",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a1045268550dac413ada686c29ae094c37a15aee",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Tom & Collins",
+      "featuredArtistId": "1XU5MjR4kex9BGyY4UMtta",
+      "trackName": "Summer Soul - Tom & Collins Remix",
+      "trackId": "4sKUDb3fEqBx7FvjMSXoAc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a1045268550dac413ada686c29ae094c37a15aee",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Anton Powers",
+      "featuredArtistId": "7h7ahzbTkbAFsshWJ7fOrc",
+      "trackName": "Summer Soul - Anton Powers Remix",
+      "trackId": "5wmFB8CQUBgLqtvnZAieCi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/a1045268550dac413ada686c29ae094c37a15aee",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Theplaysifal",
+      "featuredArtistId": "7IaosYDwENTivsXc6PlxL9",
+      "trackName": "En Playas de Normandía",
+      "trackId": "2RSU7yiJ57ylnXOFFer90C",
+      "preview": "https://p.scdn.co/mp3-preview/bd78a5bc8834602415f700f8ceafbb064ad22d10?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a61b9a63860aeb5007615c186d6df3e9d0cc0d77",
+      "release_date": "2018-02-05"
+    }
+  ]
+}

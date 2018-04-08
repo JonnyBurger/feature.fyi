@@ -1,0 +1,554 @@
+{
+  "artistName": "Olamide",
+  "features": [
+    {
+      "featuredArtist": "Do2DTun",
+      "featuredArtistId": "0zde5oEdq8GuJsBQySvHzf",
+      "trackName": "Intro",
+      "trackId": "4xge6ttkgUP36cV6c18YLz",
+      "preview": "https://p.scdn.co/mp3-preview/91117b6195152fc5da584fa1ecc443e56ef9526a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bf9175328f06a2d9e0ce483c3d4c247cc18d120e",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Buckwyla",
+      "featuredArtistId": "3JJ0lsQ5g0DnRsTaCajxJU",
+      "trackName": "Rep Adugbo",
+      "trackId": "7wQ5sxSoBCXeCoFqYdAZKV",
+      "preview": "https://p.scdn.co/mp3-preview/81cb7c7a5439dca9724d5354b45d56cfb46e8fb6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bf9175328f06a2d9e0ce483c3d4c247cc18d120e",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Pheelz",
+      "featuredArtistId": "5Jv1MsZBh0sqokFq7pU8Xg",
+      "trackName": "Rep Adugbo",
+      "trackId": "7wQ5sxSoBCXeCoFqYdAZKV",
+      "preview": "https://p.scdn.co/mp3-preview/81cb7c7a5439dca9724d5354b45d56cfb46e8fb6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bf9175328f06a2d9e0ce483c3d4c247cc18d120e",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Pele Pele",
+      "featuredArtistId": "5ePEQTtPcwKNfaGSMy9ZMd",
+      "trackName": "Skammer",
+      "trackId": "3uYE3lobCqdZhtiN5zsEjU",
+      "preview": "https://p.scdn.co/mp3-preview/148beb85f2ab6589ec0e3d57e0018d46f36011d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bf9175328f06a2d9e0ce483c3d4c247cc18d120e",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Ketchup",
+      "featuredArtistId": "1k1u0kjSZiPC7myovUsekH",
+      "trackName": "Skit",
+      "trackId": "6Wts1qtO3tEIzaXgXdGD7y",
+      "preview": "https://p.scdn.co/mp3-preview/28d8c942798c8cff9d0be3500a4d8e82ef18d967?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bf9175328f06a2d9e0ce483c3d4c247cc18d120e",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Ice Prince",
+      "featuredArtistId": "1sSt1DqqqFLkPwfrqafVyn",
+      "trackName": "Motivation",
+      "trackId": "3ERDW1IcNi135WNmR75oFB",
+      "preview": "https://p.scdn.co/mp3-preview/84c5769511b87a0a9c073def9ec486c1982e7454?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bf9175328f06a2d9e0ce483c3d4c247cc18d120e",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Endia",
+      "featuredArtistId": "2MPnO5AXEk8y9WhDsWyHVk",
+      "trackName": "Motivation",
+      "trackId": "3ERDW1IcNi135WNmR75oFB",
+      "preview": "https://p.scdn.co/mp3-preview/84c5769511b87a0a9c073def9ec486c1982e7454?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bf9175328f06a2d9e0ce483c3d4c247cc18d120e",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Pepenazi",
+      "featuredArtistId": "69bYzeEMfXE0FuPcRoRaz6",
+      "trackName": "Motivation",
+      "trackId": "3ERDW1IcNi135WNmR75oFB",
+      "preview": "https://p.scdn.co/mp3-preview/84c5769511b87a0a9c073def9ec486c1982e7454?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bf9175328f06a2d9e0ce483c3d4c247cc18d120e",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Viktoh",
+      "featuredArtistId": "36M1Z5OPFotaTTKNjSIuAX",
+      "trackName": "Church",
+      "trackId": "0gcFQNf0AtAcrZVaWJ4xsi",
+      "preview": "https://p.scdn.co/mp3-preview/d9676cb2200a9eea4c6f6c006afbc6a36902baf6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bf9175328f06a2d9e0ce483c3d4c247cc18d120e",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "B Banks",
+      "featuredArtistId": "1f3dyQEMXI2RoCYaBMGcZD",
+      "trackName": "Mu Emu",
+      "trackId": "32eYDtLkewncYKTX5a8HSw",
+      "preview": "https://p.scdn.co/mp3-preview/162f44375d09e39caefcedd428d24c9f8a03f647?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bf9175328f06a2d9e0ce483c3d4c247cc18d120e",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Phyno",
+      "featuredArtistId": "6acbdy69rtlv8m9EW31MYl",
+      "trackName": "Dope Money",
+      "trackId": "0uIDat385LpImDgjEqyCrQ",
+      "preview": "https://p.scdn.co/mp3-preview/8ea7635c083adccfc627435e83376558e3cd69bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bf9175328f06a2d9e0ce483c3d4c247cc18d120e",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Bez",
+      "featuredArtistId": "1Z2tMtSF3KVwMi8WiYVzPd",
+      "trackName": "Higher",
+      "trackId": "42Fvg4Q8z69q35crfile5A",
+      "preview": "https://p.scdn.co/mp3-preview/1873422490ffa8c3ec100843766916078227345c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bf9175328f06a2d9e0ce483c3d4c247cc18d120e",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Chinko Ekun",
+      "featuredArtistId": "5jfQBS0O6dR6axaz0BGMgs",
+      "trackName": "Bang",
+      "trackId": "4sTL5HSC9lEGh37Hv7y9KC",
+      "preview": "https://p.scdn.co/mp3-preview/2376c45bc852cac989f91d06dad4947bfde5e4a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1bdceb2fbf3503e98177f9ccad646e56191a2b9d",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Lil Kesh",
+      "featuredArtistId": "38XiDu0kK3Z5jdHUDqBzNT",
+      "trackName": "Bang",
+      "trackId": "4sTL5HSC9lEGh37Hv7y9KC",
+      "preview": "https://p.scdn.co/mp3-preview/2376c45bc852cac989f91d06dad4947bfde5e4a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1bdceb2fbf3503e98177f9ccad646e56191a2b9d",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Reminisce",
+      "featuredArtistId": "4YIOi9aFNviV1jRQeiNZgO",
+      "trackName": "Hustle Loyalty Respect",
+      "trackId": "2mLrCyyQzoiVxFwKKWZzNv",
+      "preview": "https://p.scdn.co/mp3-preview/174249d72c8151d297fd407a6aca068ae19901e5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1bdceb2fbf3503e98177f9ccad646e56191a2b9d",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Chuka",
+      "featuredArtistId": "7glQe8MO5IvcQ9WLw7keoQ",
+      "trackName": "Usain Bolt P",
+      "trackId": "5OPHsWRq0LmOzTb6gOXdBD",
+      "preview": "https://p.scdn.co/mp3-preview/eb8b963cd45b671ec6d1e092a601f1fb6503b7f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1bdceb2fbf3503e98177f9ccad646e56191a2b9d",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "DaVido",
+      "featuredArtistId": "0Y3agQaa6g2r0YmHPOO9rh",
+      "trackName": "Panumo",
+      "trackId": "65pixl0laoZcU6vE4mkCJ9",
+      "preview": "https://p.scdn.co/mp3-preview/b65703e0407a28821d59463462f843d6b7205dda?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/089d17f824e3bcd419f5e2c52cfea1cdf8558f90",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Minus2",
+      "featuredArtistId": "3MiZxfg8zEPSxc7FTLTQkR",
+      "trackName": "Street Love",
+      "trackId": "41pooSmMRipU6rFT3C7Nnp",
+      "preview": "https://p.scdn.co/mp3-preview/00b7fd4b8e06a549ff5ba7e9be4bb6f63aeab1f1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/089d17f824e3bcd419f5e2c52cfea1cdf8558f90",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Dammy Krane",
+      "featuredArtistId": "6yZI3dhleWYTqJjf11rDCc",
+      "trackName": "Fuji House",
+      "trackId": "7sx54jyWpn8T189QutuGW8",
+      "preview": "https://p.scdn.co/mp3-preview/fcf93545707742844f398ec08fc72f995ba0f79d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/089d17f824e3bcd419f5e2c52cfea1cdf8558f90",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Kayswitch",
+      "featuredArtistId": "3FygTCDrrBXvQ6hMegQL72",
+      "trackName": "Remember",
+      "trackId": "1DsKC6gMRzTaMqBz7uBd01",
+      "preview": "https://p.scdn.co/mp3-preview/ea2bcccd43b69838ea918e625f88a4f73ed46eb9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/089d17f824e3bcd419f5e2c52cfea1cdf8558f90",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Kida Kudz",
+      "featuredArtistId": "4wrFUdBKN4RBMtC3ZoLVdw",
+      "trackName": "Emotional Blackmail",
+      "trackId": "4zVUpTDiBKdWadicmiKcQA",
+      "preview": "https://p.scdn.co/mp3-preview/18908342cd23c2906d76113f764559199fc0b2e3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/089d17f824e3bcd419f5e2c52cfea1cdf8558f90",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Tiwa Savage",
+      "featuredArtistId": "1hNaHKp2Za5YdOAG0WnRbc",
+      "trackName": "International Local",
+      "trackId": "28RAGpSA6iEbD9frvUmzwM",
+      "preview": "https://p.scdn.co/mp3-preview/09a2077d32cde53f8fce4b0cb102a9c0f226a810?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/089d17f824e3bcd419f5e2c52cfea1cdf8558f90",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Base1",
+      "featuredArtistId": "5xNluI2sEsZr1F2dmPYtgt",
+      "trackName": "Industreet (Cypher)",
+      "trackId": "7gPwlQU6XctovXygZKEkMm",
+      "preview": "https://p.scdn.co/mp3-preview/162dc0d25bfdb248e415da32c3dab74b37216237?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/089d17f824e3bcd419f5e2c52cfea1cdf8558f90",
+      "release_date": "2018-03-20"
+    },
+    {
+      "featuredArtist": "Timaya",
+      "featuredArtistId": "7gEgjd9W1P1iAD9FbubrqC",
+      "trackName": "Bend It Over (feat. Reminisce & Timaya)",
+      "trackId": "3jNPQdo4J9zr9A7Uc6tKUM",
+      "preview": "https://p.scdn.co/mp3-preview/d3de84ce186e397041bea4b6763f46eb7f3a3380?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c3fbf722f8e642412567d52368786eb0b67e9466",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Akuchi",
+      "featuredArtistId": "2R8ikb5RogYEfuAveic8QK",
+      "trackName": "Underground (feat. Akuchi)",
+      "trackId": "7aA8jAP5rVJQN2uxnbwEoq",
+      "preview": "https://p.scdn.co/mp3-preview/e5cc4ac3ce769fdc2b7e4d7b830037a48c694680?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b40aedb860793a7f8c43b15ea359f9f5af79bd2",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "Davolee",
+      "featuredArtistId": "5sw96lcKm8tdmqudO4AJ8a",
+      "trackName": "Pepper Dem Gang (feat. Davolee)",
+      "trackId": "6jiYUKYNz1lhXQvf4jnv7B",
+      "preview": "https://p.scdn.co/mp3-preview/1b920c1c7c62a95232ba16f65b76c85f154dfba5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b40aedb860793a7f8c43b15ea359f9f5af79bd2",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "So Sick",
+      "featuredArtistId": "4XVv9bM8TnyUUofMf4No0V",
+      "trackName": "Grind (feat. So Sick)",
+      "trackId": "3pGt6yykUYu9VAVcm3lan6",
+      "preview": "https://p.scdn.co/mp3-preview/b47b4eb5ba33ef28a219409581dfbde4dde7219c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b40aedb860793a7f8c43b15ea359f9f5af79bd2",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "Burna Boy",
+      "featuredArtistId": "3wcj11K77LjEY1PkEazffa",
+      "trackName": "Omo Wobe Anthem (feat. Burna Boy)",
+      "trackId": "0iwBoMUJq7A3xbIIYH2B8n",
+      "preview": "https://p.scdn.co/mp3-preview/5a01561f9df86b806dd1a6d2556cd67085d01a67?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b40aedb860793a7f8c43b15ea359f9f5af79bd2",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "Wande Coal",
+      "featuredArtistId": "1fYVmAFB7sC7eDoF3mJXla",
+      "trackName": "Who You Epp (feat. Wande Coal & Phyno)",
+      "trackId": "2zNnAhKK2RGJ3PF9cHF2Zh",
+      "preview": "https://p.scdn.co/mp3-preview/728b92cca9540779bcb6eb55b626fba50b341f24?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b40aedb860793a7f8c43b15ea359f9f5af79bd2",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "Phyno",
+      "featuredArtistId": "1Zj017W6N6SmZRLS4ODpjS",
+      "trackName": "Who You Epp (feat. Wande Coal & Phyno)",
+      "trackId": "2zNnAhKK2RGJ3PF9cHF2Zh",
+      "preview": "https://p.scdn.co/mp3-preview/728b92cca9540779bcb6eb55b626fba50b341f24?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b40aedb860793a7f8c43b15ea359f9f5af79bd2",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "Akuchi",
+      "featuredArtistId": "0IKEpYnphptCCcqtwGlaQt",
+      "trackName": "Underground",
+      "trackId": "2WAtP4cz20yxbwDQKDxqC2",
+      "preview": "https://p.scdn.co/mp3-preview/00747337d1f2f7210ab37bfed1712ec4611d50a5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b40aedb860793a7f8c43b15ea359f9f5af79bd2",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "SoSIck",
+      "featuredArtistId": "4eWvhJuPPJi3QlvWMNdPH9",
+      "trackName": "Grind",
+      "trackId": "4VnQUpI0TutrpiCHZgExDq",
+      "preview": "https://p.scdn.co/mp3-preview/dc588f99fe9ee2dd48bf649f6f5a85f7aabddc63?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b40aedb860793a7f8c43b15ea359f9f5af79bd2",
+      "release_date": "2016-12-26"
+    },
+    {
+      "featuredArtist": "B Banks",
+      "featuredArtistId": "3ZwrZQdYpAwdPXlKTictk8",
+      "trackName": "Possible (feat. B. Banks)",
+      "trackId": "5vlZFyi0pIp7DE1XkbxkIc",
+      "preview": "https://p.scdn.co/mp3-preview/26411ca75ddd3b256d16c5cc8f3a2d9b7d84e9b4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d7711845a6e5ef5ae1eb7e1b406c7fbfabf24c7",
+      "release_date": "2016-12-01"
+    },
+    {
+      "featuredArtist": "Chuka",
+      "featuredArtistId": "5Fe7E7jvM2R3jeuVFyfU0L",
+      "trackName": "Usain Bolt P (feat. Lil Kesh, Chuka, Chinko Ekun & Pepenazi)",
+      "trackId": "3yp4ID7uI1jWjd5RUJ8IBa",
+      "preview": "https://p.scdn.co/mp3-preview/74c3cf9b64284b29fe8cbbc2fcc13730be10202d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d7711845a6e5ef5ae1eb7e1b406c7fbfabf24c7",
+      "release_date": "2016-12-01"
+    },
+    {
+      "featuredArtist": "Pepenazi",
+      "featuredArtistId": "3l7SEJk2wlBU3OvrMWf1sj",
+      "trackName": "Usain Bolt P (feat. Lil Kesh, Chuka, Chinko Ekun & Pepenazi)",
+      "trackId": "3yp4ID7uI1jWjd5RUJ8IBa",
+      "preview": "https://p.scdn.co/mp3-preview/74c3cf9b64284b29fe8cbbc2fcc13730be10202d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3d7711845a6e5ef5ae1eb7e1b406c7fbfabf24c7",
+      "release_date": "2016-12-01"
+    },
+    {
+      "featuredArtist": "Minus2",
+      "featuredArtistId": "6suMlWgxSlh3WmbvYVdKo6",
+      "trackName": "Street Love (feat. Minus2)",
+      "trackId": "4nYD8bRQi37EKThq9rXFce",
+      "preview": "https://p.scdn.co/mp3-preview/22f6fcb37faf50ad1218a13698736ced653650c3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bedeae9c96e4b2d4419ae0ba1b407e0f48332da9",
+      "release_date": "2016-12-01"
+    },
+    {
+      "featuredArtist": "Kida Kudz",
+      "featuredArtistId": "2tFFCXUrVGoPYuNrww6ePc",
+      "trackName": "Emotional Blackmail (feat. Kida Kudz)",
+      "trackId": "67SzrmFGsNVvPlBbHkDEPV",
+      "preview": "https://p.scdn.co/mp3-preview/9643bc0e9e94283eb617e4592a97170d7f91febc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bedeae9c96e4b2d4419ae0ba1b407e0f48332da9",
+      "release_date": "2016-12-01"
+    },
+    {
+      "featuredArtist": "Base1",
+      "featuredArtistId": "0NT9K43QvUBwZpHlEfAoT4",
+      "trackName": "Industreet (Cypher) (feat. Reminisce & Base1)",
+      "trackId": "0XxRj0jczeewpARyOfyg1K",
+      "preview": "https://p.scdn.co/mp3-preview/53b13836055612efacbd21a63895f9c2dea5af36?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bedeae9c96e4b2d4419ae0ba1b407e0f48332da9",
+      "release_date": "2016-12-01"
+    },
+    {
+      "featuredArtist": "Do2DTun",
+      "featuredArtistId": "5ux4PHYTglsF4CkRAIWykW",
+      "trackName": "Intro (feat. Do2DTun)",
+      "trackId": "4I742fPNq80OtZDK5F7D0R",
+      "preview": "https://p.scdn.co/mp3-preview/11180269727dc1b571242098470665465eddc366?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d51fa212127e2d988d3ccc410e99898a766c5759",
+      "release_date": "2013-11-07"
+    },
+    {
+      "featuredArtist": "Pheelz",
+      "featuredArtistId": "5yuwE1a8a9HABwo3sgYOdu",
+      "trackName": "Rep Adugbo (feat. Buckwyla & Pheelz)",
+      "trackId": "3IcDa6J0g3inJ8P1GHi1cA",
+      "preview": "https://p.scdn.co/mp3-preview/7a5074f8d5eb3f2d53c45bcdb73c6a8a0c0d0f0e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d51fa212127e2d988d3ccc410e99898a766c5759",
+      "release_date": "2013-11-07"
+    },
+    {
+      "featuredArtist": "Pele Pele",
+      "featuredArtistId": "2lSC1ENWz7w854xHJKi9vL",
+      "trackName": "Skammer (feat. Pele Pele)",
+      "trackId": "2TypMojZy65YSRWalE7qdF",
+      "preview": "https://p.scdn.co/mp3-preview/8d5365bc4c8dc8942ca7d3157d79906df5ac70c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d51fa212127e2d988d3ccc410e99898a766c5759",
+      "release_date": "2013-11-07"
+    },
+    {
+      "featuredArtist": "Ketchup",
+      "featuredArtistId": "0umuEa1rRGGWZ1NLhmRQH2",
+      "trackName": "Skit (feat. Ketchup)",
+      "trackId": "0ekhY00jRBDcMUwOBOPSjq",
+      "preview": "https://p.scdn.co/mp3-preview/f91dab76e3f278ba5b07d1eeb6a4a911a3d561d1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d51fa212127e2d988d3ccc410e99898a766c5759",
+      "release_date": "2013-11-07"
+    },
+    {
+      "featuredArtist": "Endia",
+      "featuredArtistId": "5eZiyLNPSZxvK6xRtzZLAr",
+      "trackName": "Motivation (feat. Ice Prince, Endia & Pepenazi)",
+      "trackId": "62mrQOPjgvCFW6dyh0LAvP",
+      "preview": "https://p.scdn.co/mp3-preview/84dd4af374fe8db6cea2ecca4db2b06a53641ced?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d51fa212127e2d988d3ccc410e99898a766c5759",
+      "release_date": "2013-11-07"
+    },
+    {
+      "featuredArtist": "Bez",
+      "featuredArtistId": "3wzaM6DL7ANn12jXtqqtEn",
+      "trackName": "Higher (feat. Bez)",
+      "trackId": "1JkE7D6p5fw6QbHX1ypOqR",
+      "preview": "https://p.scdn.co/mp3-preview/7941dad5f3862630c7147985157dbcdeaf768673?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d51fa212127e2d988d3ccc410e99898a766c5759",
+      "release_date": "2013-11-07"
+    },
+    {
+      "featuredArtist": "Olamide feat. Buckwyla, Pheelz",
+      "featuredArtistId": "38rIRpGGz6XooKIUaHDO52",
+      "trackName": "Rep Adugbo",
+      "trackId": "2U4qHPiaLjaY9jB14s1vD7",
+      "preview": "https://p.scdn.co/mp3-preview/77c5fe7e37aa81754f5f1c3eaa3513c83e32befc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a32e2ebadcd7dfe8f446286392e826bd6d93173f",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Olamide feat. Pele Pele",
+      "featuredArtistId": "0YnFayvjD3ybUxPLATnQTb",
+      "trackName": "Skammer",
+      "trackId": "0LSgdHIqBSwHyhEL8goj6c",
+      "preview": "https://p.scdn.co/mp3-preview/80cfc53f6bdd6e1971e409baaba705a3fbccad34?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a32e2ebadcd7dfe8f446286392e826bd6d93173f",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Olamide feat. Ketchup",
+      "featuredArtistId": "2QpACUa4yvXScevqYDm21p",
+      "trackName": "Skit",
+      "trackId": "1nOHcxdomFCXybWT87HKIO",
+      "preview": "https://p.scdn.co/mp3-preview/800ce8c672299f6c1298b2654012a63f7335b821?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a32e2ebadcd7dfe8f446286392e826bd6d93173f",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Olamide feat. Ice Prince, Endia, Pepenazi",
+      "featuredArtistId": "3SeMLRNBJWnE0MoB2k5N77",
+      "trackName": "Motivation",
+      "trackId": "05QyCDcMZgvlWKXzcAC5HG",
+      "preview": "https://p.scdn.co/mp3-preview/d2d63843fb8b2f4ee07cf9afd58e889e12ee88f3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a32e2ebadcd7dfe8f446286392e826bd6d93173f",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Olamide feat. Viktoh",
+      "featuredArtistId": "7AgaU2i08DbNMApXMuTiJ8",
+      "trackName": "Church",
+      "trackId": "4s1TcCfqUUIDsixzr3PQk8",
+      "preview": "https://p.scdn.co/mp3-preview/4875f0a5fdfc99dd531e78db0e18c31bf44a3424?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a32e2ebadcd7dfe8f446286392e826bd6d93173f",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Olamide feat. B. Banks",
+      "featuredArtistId": "5nWtrGHepgWt3qOU0lIVfD",
+      "trackName": "Mu Emu",
+      "trackId": "0RwkjmKyfwB4dLea9FAtyk",
+      "preview": "https://p.scdn.co/mp3-preview/9365be08e11ac5bb3b4d9cb765f995c9f19bd140?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a32e2ebadcd7dfe8f446286392e826bd6d93173f",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Olamide feat. Phyno",
+      "featuredArtistId": "6jKheYfJIjYnE3D4txe2mh",
+      "trackName": "Dope Money",
+      "trackId": "2DjnOkcWXoCQgFyMjs7nFT",
+      "preview": "https://p.scdn.co/mp3-preview/86be4b392e4514ef9de69e3ca947d7f52e582a39?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a32e2ebadcd7dfe8f446286392e826bd6d93173f",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Olamide feat. Bez",
+      "featuredArtistId": "1yx7y5uqJ8O4WWBMWagPHZ",
+      "trackName": "Higher",
+      "trackId": "3nstyU52gtCSHgt859Cdq0",
+      "preview": "https://p.scdn.co/mp3-preview/08a8330834b8b0fac628ba9ecd761819f07ab3da?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a32e2ebadcd7dfe8f446286392e826bd6d93173f",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Olamide feat. Buckwyla",
+      "featuredArtistId": "1GPDSxUDGKvqYqfj23PDfW",
+      "trackName": "Lights In The Air",
+      "trackId": "5iqStrOrBSthKQS9crD6Z8",
+      "preview": "https://p.scdn.co/mp3-preview/8489da72c0c30f8198cd72b700a0014fb1c65372?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31dcf84a6b196b56a7ed8435fa3dbdc7f3f63431",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Olamide feat. Davido",
+      "featuredArtistId": "1e6EbW3afAYWeJjuyBQNbW",
+      "trackName": "Panumo",
+      "trackId": "2G6wS3qdObHwhkiXWUdjLF",
+      "preview": "https://p.scdn.co/mp3-preview/0e2ba7b4aa7fe7d89cbcbd9ad2de96b4c3d747de?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31dcf84a6b196b56a7ed8435fa3dbdc7f3f63431",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Olamide feat. Dammy Krane",
+      "featuredArtistId": "2TaKLiIWIPVqGCnC3hVrlL",
+      "trackName": "Fuji House",
+      "trackId": "7kD6ad1A4TaGpJJRngyM4I",
+      "preview": "https://p.scdn.co/mp3-preview/cab5c1f3074d307f665fa0d0f21bf4ee0cb4df73?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31dcf84a6b196b56a7ed8435fa3dbdc7f3f63431",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Olamide feat. Kayswitch",
+      "featuredArtistId": "28SLRhc84TIKbVJsncQI0V",
+      "trackName": "Remember",
+      "trackId": "55KEG9XVT79GOSI5g8pe7T",
+      "preview": "https://p.scdn.co/mp3-preview/96db710014fc7d55f0282f3b5b6b927f2e71d732?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31dcf84a6b196b56a7ed8435fa3dbdc7f3f63431",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Olamide feat. Kida Kudz",
+      "featuredArtistId": "60ymflTk5IRQOFKyVBte8t",
+      "trackName": "Emotional Blackmail",
+      "trackId": "6NuvJIrX07kDmKj67wxn6d",
+      "preview": "https://p.scdn.co/mp3-preview/e9eb28af00ca8f4f38844598280ca2706555863e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31dcf84a6b196b56a7ed8435fa3dbdc7f3f63431",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Olamide feat. Tiwa Savage",
+      "featuredArtistId": "4O9wniLiE9EEMDPWbm9Jst",
+      "trackName": "International Local",
+      "trackId": "3yWgcJ7Y0ZwidgaOZJYsSo",
+      "preview": "https://p.scdn.co/mp3-preview/47b6c18071a070563fb07f68ebe0a86d5626069e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31dcf84a6b196b56a7ed8435fa3dbdc7f3f63431",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Olamide feat. Reminisce, Base1",
+      "featuredArtistId": "4jo8ZPKCkVg2aIuXfMlH25",
+      "trackName": "Industreet (Cypher)",
+      "trackId": "5kNem2fC3wk9hJOj3ir3wG",
+      "preview": "https://p.scdn.co/mp3-preview/f219b4268ff22bc1f78fde5b0bb1fcd692fad12e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/31dcf84a6b196b56a7ed8435fa3dbdc7f3f63431",
+      "release_date": "2012"
+    },
+    {
+      "featuredArtist": "Limerick",
+      "featuredArtistId": "168ZM2RSLaWoxBKq70wWTZ",
+      "trackName": "Pesin",
+      "trackId": "6pp9oWyqSvmsrCmHfLvLcZ",
+      "preview": "https://p.scdn.co/mp3-preview/baa6c9e10dd78dff6e0dd51c82c0101635a60814?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b898e5f8ef96e2cad9a98f276776d69d87455b10",
+      "release_date": "2018-02-14"
+    },
+    {
+      "featuredArtist": "Skepta",
+      "featuredArtistId": "0nu2Z4Y7GMW1u9xSbidJgo",
+      "trackName": "Sheevita Juice",
+      "trackId": "3gejeEUwghbERenXwoTGta",
+      "preview": "https://p.scdn.co/mp3-preview/83d91476a25552ace2c071e338704a18eeb79fdf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd474bd17ed32e215d852f92b62b515ecca3fbd3",
+      "release_date": "2018-02-13"
+    }
+  ]
+}

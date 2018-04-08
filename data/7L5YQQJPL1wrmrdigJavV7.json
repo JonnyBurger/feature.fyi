@@ -1,0 +1,50 @@
+{
+  "artistName": "Ira!",
+  "features": [
+    {
+      "featuredArtist": "Yamandú Costa",
+      "featuredArtistId": "3xnqS3i4fWn0P30qIlnWYV",
+      "trackName": "Dias de Luta - Ao Vivo Em São Paulo",
+      "trackId": "25iDtdq3oiWPVH6S57XuiI",
+      "preview": "https://p.scdn.co/mp3-preview/26240dbfd49b52cd81ad52ec92465fe8e5877501?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e9da62e0fc2245b193e66e8c5c77a265827173b7",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Fernanda Takai",
+      "featuredArtistId": "62Yab84ZgQW4k4nOUPqIxE",
+      "trackName": "Tolices - Ao Vivo Em São Paulo",
+      "trackId": "1RWQUTvo870QA6PRzvdgHq",
+      "preview": "https://p.scdn.co/mp3-preview/09df1922bd8f14df542929e5071b5519533001b9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e9da62e0fc2245b193e66e8c5c77a265827173b7",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Samuel Rosa",
+      "featuredArtistId": "4fp0N4WchcumIW5HNGpPwa",
+      "trackName": "Um Girassol da Cor do Seu Cabelo",
+      "trackId": "5AuPtnLAXT2MtaUAbfO6JT",
+      "preview": "https://p.scdn.co/mp3-preview/ab9c2f3ea3ce9dff2dfa9c4c3624c8fe9424543c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/33c0e689015761daf873e829a1e2d9b03bdd4694",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Pitty",
+      "featuredArtistId": "2dmQ0vMD3THLMcz7DsvfaT",
+      "trackName": "Eu Quero Sempre Mais - Versão Acústica",
+      "trackId": "2xckrIKkbwKNIQvnhZ56bR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3f557c5afeff44b8783e50e6e062fd1fab6ec5e5",
+      "release_date": "2004"
+    },
+    {
+      "featuredArtist": "Paralamas do Sucesso",
+      "featuredArtistId": "5eXLaFqz3RMCHW61WiXpqY",
+      "trackName": "Envelheço na Cidade - Versão Acústica",
+      "trackId": "0l9I2gMoLftDAfXRHSQSuf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3f557c5afeff44b8783e50e6e062fd1fab6ec5e5",
+      "release_date": "2004"
+    }
+  ]
+}

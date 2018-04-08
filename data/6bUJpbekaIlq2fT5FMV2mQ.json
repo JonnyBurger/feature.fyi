@@ -1,0 +1,41 @@
+{
+  "artistName": "Wavves",
+  "features": [
+    {
+      "featuredArtist": "Cloud Nothings",
+      "featuredArtistId": "6rnbB5fuUuCSsspvFsxIpT",
+      "trackName": "Untitled I",
+      "trackId": "3PMBT0u6scgWMX2BAYXCtF",
+      "preview": "https://p.scdn.co/mp3-preview/70f97cc8abe1e69fa7478e09db4bbe3eda3c06d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/970c6bbecf7c016fcfc2c70c7b03cc0ddf59014e",
+      "release_date": "2015-06-30"
+    },
+    {
+      "featuredArtist": "Jenny Lewis",
+      "featuredArtistId": "5cMVRrisBpDkXCVG48epED",
+      "trackName": "Afraid of Heights",
+      "trackId": "6oS1bbrll1iITnC2EG4odP",
+      "preview": "https://p.scdn.co/mp3-preview/6fd2198bce8f8ff3af9f28e798af7f3e8ee61723?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/39e0f0f8a9087ca77785ad306c4810c2ce794cf5",
+      "release_date": "2013-03-26"
+    },
+    {
+      "featuredArtist": "Best Coast",
+      "featuredArtistId": "5YkBrE0wF8cAlq3GCOw5Eu",
+      "trackName": "Nodding Off",
+      "trackId": "5HXDakyMKBMrE5Yu7NgKna",
+      "preview": "https://p.scdn.co/mp3-preview/976d99075c3db85191447884b70534661a7f37b4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e6585c95b40f27d73fc9a57c406d463cf2817843",
+      "release_date": "2011-09-20"
+    },
+    {
+      "featuredArtist": "Fucked Up",
+      "featuredArtistId": "05C3EDw4Rf0qMhrdjFKncL",
+      "trackName": "Destroy",
+      "trackId": "017arPTuWaseExGzsFGeu9",
+      "preview": "https://p.scdn.co/mp3-preview/d5a73d3e83818521943d530c9ef5a85ad146826c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e6585c95b40f27d73fc9a57c406d463cf2817843",
+      "release_date": "2011-09-20"
+    }
+  ]
+}

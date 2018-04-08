@@ -1,0 +1,23 @@
+{
+  "artistName": "Calexico",
+  "features": [
+    {
+      "featuredArtist": "Vienna Radio Symphony Orchestra",
+      "featuredArtistId": "2nJZffRcm3WDa74FSkYYOb",
+      "trackName": "Frontera / Trigger - Live",
+      "trackId": "51gDy33C9DrQ4XZ9yAv5yr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bb7657b34b2e3454772dd11dc9bee3e27dde10c1",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Deutsches Filmorchester Babelsberg",
+      "featuredArtistId": "3gGJa6qH96mfOdii1Wzuir",
+      "trackName": "Epic - Live",
+      "trackId": "1KJxUCg5Uqc6arRBPjH8dU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/bb7657b34b2e3454772dd11dc9bee3e27dde10c1",
+      "release_date": "2013-01-01"
+    }
+  ]
+}

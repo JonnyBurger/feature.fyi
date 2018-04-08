@@ -1,0 +1,50 @@
+{
+  "artistName": "Imogen Heap",
+  "features": [
+    {
+      "featuredArtist": "deadmau5",
+      "featuredArtistId": "2CIMQHirSU0MQqyYHq0eOx",
+      "trackName": "Telemiscommunications",
+      "trackId": "3uQBmc5exGLtoQEwsRWJ8Q",
+      "preview": "https://p.scdn.co/mp3-preview/06d6cf887b766dc36a944c3f4fecc5ad655d592c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6a957a85953eb2f2f77b1cd83cba7d0acbde1155",
+      "release_date": "2014-10-06"
+    },
+    {
+      "featuredArtist": "Vishal-Shekhar",
+      "featuredArtistId": "6Mv8GjQa7LKUGCAqa9qqdb",
+      "trackName": "Minds Without Fear",
+      "trackId": "3mAIvs7jJfnV7ECxOhNvXJ",
+      "preview": "https://p.scdn.co/mp3-preview/57fb6201584440e9523231de021fc4e9bedd5a3a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6a957a85953eb2f2f77b1cd83cba7d0acbde1155",
+      "release_date": "2014-10-06"
+    },
+    {
+      "featuredArtist": "Bobby Ray Simmons, Jr.",
+      "featuredArtistId": "1roEfVbO350AW56DWqtw1m",
+      "trackName": "The Beast",
+      "trackId": "6Az7uRbgu6rNhsODQqVymn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f09dcb4efe136a626f0aed4558bd2522dc390bbb",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Lavish Beatz",
+      "featuredArtistId": "3ojZbGo4kaJsSNO4M85Vwe",
+      "trackName": "Upside Down (feat. Pat Anthony)",
+      "trackId": "2fT4Lp0yqD5fiPtDhDEJi0",
+      "preview": "https://p.scdn.co/mp3-preview/c9e2b37b36ddc68935e244da1b643f3725a0aa17?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f521a77a92026cd593585008c70755966c036e1f",
+      "release_date": "2017-03-09"
+    },
+    {
+      "featuredArtist": "Pat Anthony",
+      "featuredArtistId": "5nOgBS4zhX8dYBtzPPJTtq",
+      "trackName": "Upside Down (feat. Pat Anthony)",
+      "trackId": "2fT4Lp0yqD5fiPtDhDEJi0",
+      "preview": "https://p.scdn.co/mp3-preview/c9e2b37b36ddc68935e244da1b643f3725a0aa17?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f521a77a92026cd593585008c70755966c036e1f",
+      "release_date": "2017-03-09"
+    }
+  ]
+}

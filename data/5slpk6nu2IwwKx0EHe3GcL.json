@@ -1,0 +1,86 @@
+{
+  "artistName": "Lena",
+  "features": [
+    {
+      "featuredArtist": "Kat Vinter",
+      "featuredArtistId": "7MWZKLA2fGUJyYpbm3Q1Mt",
+      "trackName": "Catapult",
+      "trackId": "3qZYBhjrDAQt7p2PdAKZMK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/07fdb7ffd1bc8420d49a54423a194b4b3c7d0db6",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Little Simz",
+      "featuredArtistId": "6eXZu6O7nAUA5z6vLV8NKI",
+      "trackName": "Catapult",
+      "trackId": "3qZYBhjrDAQt7p2PdAKZMK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/07fdb7ffd1bc8420d49a54423a194b4b3c7d0db6",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Madizin",
+      "featuredArtistId": "3KCO1VWpmHG0T2zYJjXVgj",
+      "trackName": "Beat To My Melody - Madizin Mix",
+      "trackId": "7AUUTaWMeRBgHasAsvtwzh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/07fdb7ffd1bc8420d49a54423a194b4b3c7d0db6",
+      "release_date": "2015-10-23"
+    },
+    {
+      "featuredArtist": "Miss Li",
+      "featuredArtistId": "04HqRx07Bv9gh7rsrMTqs7",
+      "trackName": "ASAP",
+      "trackId": "4IuoOeSq9Xw98sxgmcMbSb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f959111aa6bc2a2fb697a46f202c55369a0648b8",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Orup",
+      "featuredArtistId": "6fJM13619LsYtyPqHvsf6A",
+      "trackName": "Hals över huvud",
+      "trackId": "2uTDKM36LO5Gg1MyMlUDGF",
+      "preview": "https://p.scdn.co/mp3-preview/e4075283b60ac5cebff201c650d07d78e9431be2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/47e5fe465219db8c61ea37cbd7a83309d99f015c",
+      "release_date": "2008-11-10"
+    },
+    {
+      "featuredArtist": "Dayne S",
+      "featuredArtistId": "2OWQQKizLqny2GKSvqfV9h",
+      "trackName": "Beat To My Melody - Dayne S Remix",
+      "trackId": "1TsDfx2XnWsoCiam63DlEO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/08400395f4dcef4748f6fef9e0bef48da94653e8",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Younotus",
+      "featuredArtistId": "67ghKnycRX6VM1xfqJSMlH",
+      "trackName": "Beat To My Melody - YOUNOTUS Remix",
+      "trackId": "6qlCp1I1LD9K9nh79lN5ac",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/08400395f4dcef4748f6fef9e0bef48da94653e8",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Stephen \"Sterio\" Rickert",
+      "featuredArtistId": "0B2U5JooPnHbO4vwMnmSb5",
+      "trackName": "Beat To My Melody - Sterio Remix",
+      "trackId": "2e374YJTrZUL2MFYXkBCRZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/08400395f4dcef4748f6fef9e0bef48da94653e8",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Robin Grubert",
+      "featuredArtistId": "2iv63DstBtfPKPOq7vL7cS",
+      "trackName": "Beat To My Melody - Robin Grubert Remix",
+      "trackId": "7EiFU3fXmQx5gSaRO3fRuS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/08400395f4dcef4748f6fef9e0bef48da94653e8",
+      "release_date": "2016-04-01"
+    }
+  ]
+}

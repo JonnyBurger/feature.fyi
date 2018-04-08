@@ -1,0 +1,122 @@
+{
+  "artistName": "Sonny Rollins",
+  "features": [
+    {
+      "featuredArtist": "Jim Hall",
+      "featuredArtistId": "5pMmqpG3HsoJ6EDDoXGXEr",
+      "trackName": "In a Sentimental Mood",
+      "trackId": "3LYZsUD8su71DHvYsLedH6",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e05650bace8868f74251b2e113408efc8fcde5ff",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Ornette Coleman",
+      "featuredArtistId": "47odibUtrN3lnWx0p0pk2P",
+      "trackName": "Sonnymoon For Two",
+      "trackId": "50ee25HlSpnJfH1FJyxlsH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e05650bace8868f74251b2e113408efc8fcde5ff",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Christian McBride",
+      "featuredArtistId": "5ACxPOI9gR3l0cyy2dvkHv",
+      "trackName": "Sonnymoon For Two",
+      "trackId": "50ee25HlSpnJfH1FJyxlsH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e05650bace8868f74251b2e113408efc8fcde5ff",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Roy Haynes",
+      "featuredArtistId": "1tGINpEJVUsQXssRC28ugo",
+      "trackName": "Sonnymoon For Two",
+      "trackId": "50ee25HlSpnJfH1FJyxlsH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e05650bace8868f74251b2e113408efc8fcde5ff",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Roy Hargrove",
+      "featuredArtistId": "49zXTngyUTielHTbbH5YKs",
+      "trackName": "I Can't Get Started",
+      "trackId": "6uDfQx1CVtlSs2Z1oPK8uV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e05650bace8868f74251b2e113408efc8fcde5ff",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Tommy Flanagan",
+      "featuredArtistId": "6dUZplQfg5blo0h9HiJ94d",
+      "trackName": "St. Thomas",
+      "trackId": "0MW4rdr7HfUInghgjpuOW3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b665e68356617764324f7a6e25939fd10a71aa65",
+      "release_date": "2009-02-11"
+    },
+    {
+      "featuredArtist": "Doug Watkins",
+      "featuredArtistId": "3j0ZsENc1qq8vQ0stKX2z1",
+      "trackName": "St. Thomas",
+      "trackId": "0MW4rdr7HfUInghgjpuOW3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b665e68356617764324f7a6e25939fd10a71aa65",
+      "release_date": "2009-02-11"
+    },
+    {
+      "featuredArtist": "Max Roach",
+      "featuredArtistId": "6jrlNnS5B830kpi40j3S6g",
+      "trackName": "St. Thomas",
+      "trackId": "0MW4rdr7HfUInghgjpuOW3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b665e68356617764324f7a6e25939fd10a71aa65",
+      "release_date": "2009-02-11"
+    },
+    {
+      "featuredArtist": "Art Blakey",
+      "featuredArtistId": "6QQuESLtKhAOcLW2TeWC2t",
+      "trackName": "On A Slow Boat To China",
+      "trackId": "3WeCyn1qRZZHQIcQVxZGjT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b665e68356617764324f7a6e25939fd10a71aa65",
+      "release_date": "2009-02-11"
+    },
+    {
+      "featuredArtist": "Kenny Drew",
+      "featuredArtistId": "65uKPt40QH8dMBLuoJHPVY",
+      "trackName": "On A Slow Boat To China",
+      "trackId": "3WeCyn1qRZZHQIcQVxZGjT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b665e68356617764324f7a6e25939fd10a71aa65",
+      "release_date": "2009-02-11"
+    },
+    {
+      "featuredArtist": "Clifford Brown",
+      "featuredArtistId": "1HJHwWck1EY096ea2iPAHO",
+      "trackName": "Valse Hot",
+      "trackId": "6fe3KkGPDP6D2Bq6qsyQZV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b665e68356617764324f7a6e25939fd10a71aa65",
+      "release_date": "2009-02-11"
+    },
+    {
+      "featuredArtist": "Richie Powell",
+      "featuredArtistId": "2HQT5NglL0BOkpV2vmQ5yc",
+      "trackName": "Valse Hot",
+      "trackId": "6fe3KkGPDP6D2Bq6qsyQZV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b665e68356617764324f7a6e25939fd10a71aa65",
+      "release_date": "2009-02-11"
+    },
+    {
+      "featuredArtist": "George Morrow",
+      "featuredArtistId": "41P4s0R293jpTpSF5UF0ni",
+      "trackName": "Valse Hot",
+      "trackId": "6fe3KkGPDP6D2Bq6qsyQZV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b665e68356617764324f7a6e25939fd10a71aa65",
+      "release_date": "2009-02-11"
+    }
+  ]
+}

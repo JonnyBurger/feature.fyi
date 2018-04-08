@@ -1,0 +1,41 @@
+{
+  "artistName": "Emmy Rossum",
+  "features": [
+    {
+      "featuredArtist": "Andrew Lloyd Webber",
+      "featuredArtistId": "4aP1lp10BRYZO658B2NwkG",
+      "trackName": "Think Of Me - From \"The Phantom Of The Opera\" Motion Picture",
+      "trackId": "49Rt5BiKI3ZkQ7U32aZVxP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cf53384f83e307138ab624a4abf128c19c97cdcf",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Patrick Wilson",
+      "featuredArtistId": "7JDIzsiYm1WS3zUpiTdW52",
+      "trackName": "Think Of Me - From \"The Phantom Of The Opera\" Motion Picture",
+      "trackId": "49Rt5BiKI3ZkQ7U32aZVxP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cf53384f83e307138ab624a4abf128c19c97cdcf",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Gerard Butler",
+      "featuredArtistId": "7H25O93TTUoaZ0ZaFk318U",
+      "trackName": "Angel Of Music",
+      "trackId": "5wGQojjKsUepcEAj7qkXNk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cf3e6632cebfeb984d0520a461e79b9d263cd4d8",
+      "release_date": "2004-12-10"
+    },
+    {
+      "featuredArtist": "Jennifer Ellison",
+      "featuredArtistId": "3FAYTkACAc9Ir1snu0ZzSy",
+      "trackName": "Angel Of Music",
+      "trackId": "5wGQojjKsUepcEAj7qkXNk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cf3e6632cebfeb984d0520a461e79b9d263cd4d8",
+      "release_date": "2004-12-10"
+    }
+  ]
+}

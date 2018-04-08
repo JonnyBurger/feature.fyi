@@ -1,0 +1,59 @@
+{
+  "artistName": "Petri Nygård",
+  "features": [
+    {
+      "featuredArtist": "Mokoma",
+      "featuredArtistId": "2LBteY4vnSD2zKwAgzOijB",
+      "trackName": "Sarvet esiin (feat. Mokoma) - Mokoma remix",
+      "trackId": "5mGslWwKmCoL6VWpcko5sz",
+      "preview": "https://p.scdn.co/mp3-preview/7535afaf8218a8f125bb129dd0e1348525a016b7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a40f7c3cdcb5722f7689736eaf4bbff34185dc36",
+      "release_date": "2011-10-24"
+    },
+    {
+      "featuredArtist": "Teflon Brothers",
+      "featuredArtistId": "3zh3U2eQ64EhBFbJuxgf1M",
+      "trackName": "Manteli",
+      "trackId": "7A3vVmr5obwXQbFz4Zs8sv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21e85b8ab9faa6147e99efe495d88bdd09506219",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Spekti",
+      "featuredArtistId": "05qPtpcSltJZLI9sj0qm3B",
+      "trackName": "Manteli",
+      "trackId": "7A3vVmr5obwXQbFz4Zs8sv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/21e85b8ab9faa6147e99efe495d88bdd09506219",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Vesku Jokinen",
+      "featuredArtistId": "58tsj94tcDnxNnMhHkIc2E",
+      "trackName": "Nössö",
+      "trackId": "0gySKxqIOHTVD3YObTsJug",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b976f0f6a401c05f36dd68760e8915e4edc585ec",
+      "release_date": "2017-11-07"
+    },
+    {
+      "featuredArtist": "Mariska",
+      "featuredArtistId": "69grVcN5UQeX34dKNyV1ut",
+      "trackName": "Soittorasia",
+      "trackId": "6qBoGwWaCo60MnCjIBanEC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e776fcbc10b33f2882ac545584cb9d2331e8f25a",
+      "release_date": "2016-08-09"
+    },
+    {
+      "featuredArtist": "Sanna",
+      "featuredArtistId": "4ErfyXDM0q5PPL2boxuMAa",
+      "trackName": "Satumaa feat. Sanna",
+      "trackId": "6JF1uGItiv1pxZemV7XnRR",
+      "preview": "https://p.scdn.co/mp3-preview/502394c5c422504435a988d3ad780213e07224a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c2942f1a1fac3bc2dba7620cb086659ae378be2f",
+      "release_date": "2015-06-12"
+    }
+  ]
+}

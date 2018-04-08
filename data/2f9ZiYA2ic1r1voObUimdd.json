@@ -1,0 +1,41 @@
+{
+  "artistName": "Grace Jones",
+  "features": [
+    {
+      "featuredArtist": "Paul Smykle",
+      "featuredArtistId": "1OZmlW6PsSoAJPM2X1ifeL",
+      "trackName": "Love Is The Drug - 12\" Single Remix",
+      "trackId": "1lJzjlgCJeoGGv7LV1SJGc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4b9d69774a379d2ae6eb478354c967061101d1ba",
+      "release_date": "2016-06-17"
+    },
+    {
+      "featuredArtist": "Chris Blackwell",
+      "featuredArtistId": "5RoOQPXxustWHJ6MoOfVMl",
+      "trackName": "Walking In The Rain - 12\" Version / 2014 Remaster",
+      "trackId": "21U8Iyp39jF8bCC8mZUyqm",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/272194b76031b65b3dc8c3ecd0c2d35ab28fc43d",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Steven Stanley",
+      "featuredArtistId": "7is8Pjkal8dpE7bMkTVhaP",
+      "trackName": "Pull Up To The Bumper - US Party Version / 2014 Remaster",
+      "trackId": "6xOT3CahiYjXx9yrHVGmxI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/272194b76031b65b3dc8c3ecd0c2d35ab28fc43d",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Paul Groucho-Smykle",
+      "featuredArtistId": "3s3mPOYCYutx7Hx8gZJ3hW",
+      "trackName": "Pull Up To The Bumper - 1985 Remix / 2014 Remaster",
+      "trackId": "2wFeHbQJi5pJK1NExYQV2j",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/272194b76031b65b3dc8c3ecd0c2d35ab28fc43d",
+      "release_date": "2014-01-01"
+    }
+  ]
+}

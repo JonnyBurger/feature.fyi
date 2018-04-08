@@ -1,0 +1,23 @@
+{
+  "artistName": "Henry Mancini",
+  "features": [
+    {
+      "featuredArtist": "Tne Four Aces",
+      "featuredArtistId": "3NZMLkpkxqvwnkCFYnPJqu",
+      "trackName": "Writen on the Wind - Digitally Remastered",
+      "trackId": "17Co4aBvIjEKhZAVZxt7vu",
+      "preview": "https://p.scdn.co/mp3-preview/5bc8ea2773c828c86d5d99df28a05098acdb5d70?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5f9b7ccc20208c527035a8d711f00ed34c348b76",
+      "release_date": "2017-12-07"
+    },
+    {
+      "featuredArtist": "James Galway",
+      "featuredArtistId": "774mHr909NkDVeyyXQBQfZ",
+      "trackName": "The Pink Panther - from the United Artists film, The Pink Panther",
+      "trackId": "0C6Ib0UyI9d249tLbGmdCd",
+      "preview": "https://p.scdn.co/mp3-preview/dd5cbab67908ef8112677923c39177105d94edd1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ef5b5f40cba22964d5393f23320087cf6995cdc8",
+      "release_date": "2015-01-13"
+    }
+  ]
+}

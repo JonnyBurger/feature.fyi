@@ -1,0 +1,59 @@
+{
+  "artistName": "Casso",
+  "features": [
+    {
+      "featuredArtist": "TooManyLeftHands",
+      "featuredArtistId": "5tCPpDoXfTKy5yTongtDAT",
+      "trackName": "Mad For It - Stromberg Remix",
+      "trackId": "110HyYKJcF2hE7A9FYTK27",
+      "preview": "https://p.scdn.co/mp3-preview/e4f93f219b7550c0c006693954798ed37fb2fafe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88a992dbb3ad60bc4522e4b37ce49ecaa9d5f91f",
+      "release_date": "2018-01-26"
+    },
+    {
+      "featuredArtist": "Stromberg",
+      "featuredArtistId": "1Hz1E7NXCKeG8D3AXmp3Wb",
+      "trackName": "Mad For It - Stromberg Remix",
+      "trackId": "110HyYKJcF2hE7A9FYTK27",
+      "preview": "https://p.scdn.co/mp3-preview/e4f93f219b7550c0c006693954798ed37fb2fafe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88a992dbb3ad60bc4522e4b37ce49ecaa9d5f91f",
+      "release_date": "2018-01-26"
+    },
+    {
+      "featuredArtist": "Clean & Sober",
+      "featuredArtistId": "1UBG6yFLkU9woSM22smZ2u",
+      "trackName": "Mad For It - Clean & Sober Remix",
+      "trackId": "2o2KY4shwzPtvBli6SBccL",
+      "preview": "https://p.scdn.co/mp3-preview/08db760aae3bf4d24f929d2cb27169eb9f0ae539?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88a992dbb3ad60bc4522e4b37ce49ecaa9d5f91f",
+      "release_date": "2018-01-26"
+    },
+    {
+      "featuredArtist": "Loris Cimino",
+      "featuredArtistId": "201Hzoik31VdWqPl2sZVDY",
+      "trackName": "Mad For It - Loris Cimino Remix",
+      "trackId": "1JlGoE1vE7LvIARRH5z4yG",
+      "preview": "https://p.scdn.co/mp3-preview/472b8c5fe162704e7e9f6facef3ffd7ceec1106c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88a992dbb3ad60bc4522e4b37ce49ecaa9d5f91f",
+      "release_date": "2018-01-26"
+    },
+    {
+      "featuredArtist": "TooManyLeftHands feat. Casso",
+      "featuredArtistId": "7vLMIZasAZKaYqJL0SdMWE",
+      "trackName": "Mad for It",
+      "trackId": "3gnkMG6zoN3uoG79vlUIsC",
+      "preview": "https://p.scdn.co/mp3-preview/27fbbacc4b783a9349dd43d03283bacb86620dc3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/599f99e0fb0159320f759d3a13db43eb1cea6663",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Mike Perry",
+      "featuredArtistId": "6lB8vOoI4DRrrVxXwuV19c",
+      "trackName": "Inside the Lines",
+      "trackId": "3qaYuV5XZAwiOvGE91HhwS",
+      "preview": "https://p.scdn.co/mp3-preview/56ff2bf57d8f609baf57408e588313a4c061a9da?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db079ce6288fcb514f3cf4dbd42348345780f8f6",
+      "release_date": "2016-10-21"
+    }
+  ]
+}

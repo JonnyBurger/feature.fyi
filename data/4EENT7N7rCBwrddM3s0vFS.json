@@ -1,0 +1,23 @@
+{
+  "artistName": "Cut Copy",
+  "features": [
+    {
+      "featuredArtist": "Ara Koufax",
+      "featuredArtistId": "6DiOOEpE72LMevCgPUlNNO",
+      "trackName": "Standing In The Middle Of The Field - Ara Koufax Remix",
+      "trackId": "70W7Qot50STPefDFWGWQBi",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8722e523cd367fe62ce88a77f72f7d5b4118fb15",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Ferdinand Weber",
+      "featuredArtistId": "5DSfdm9JanV5cqM2nzzJsN",
+      "trackName": "Standing In The Middle Of The Field - Ferdinand Weber Remix",
+      "trackId": "5MTsKYUuV3cYkghQfU08kO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8722e523cd367fe62ce88a77f72f7d5b4118fb15",
+      "release_date": "2017-10-20"
+    }
+  ]
+}

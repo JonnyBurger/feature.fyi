@@ -1,0 +1,23 @@
+{
+  "artistName": "Céu",
+  "features": [
+    {
+      "featuredArtist": "Tulipa Ruiz",
+      "featuredArtistId": "6OokCpvxnYv43WcFqejMLb",
+      "trackName": "Pot-Pourri: Etílica/ Interlúdio",
+      "trackId": "50RPSCmERFrwEWCdh7gr23",
+      "preview": "https://p.scdn.co/mp3-preview/08b03645f66e2c28c0525765f2e05f4c94bb155c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f084b1870b43fc412cf07878dc9b3362841ab6f3",
+      "release_date": "2016-03-18"
+    },
+    {
+      "featuredArtist": "Café Preto",
+      "featuredArtistId": "1JntdKPNBN6r1meq9tIbH9",
+      "trackName": "Água, Fogo, Terramar",
+      "trackId": "0DsrPJiztd4W1US4J4kRYz",
+      "preview": "https://p.scdn.co/mp3-preview/853da218005f2cbc816ac15f87f3c252714f3db6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a6038fc672d59e150cd51f9ceb329ab02f644283",
+      "release_date": "2017-12-08"
+    }
+  ]
+}

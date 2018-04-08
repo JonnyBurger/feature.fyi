@@ -1,0 +1,41 @@
+{
+  "artistName": "David Otero",
+  "features": [
+    {
+      "featuredArtist": "Rosario Ortega",
+      "featuredArtistId": "6AvVNBiwAW7CXZPACAo2OB",
+      "trackName": "Por las Calles de Palermo",
+      "trackId": "2u4xissMobyWkPRliJY74d",
+      "preview": "https://p.scdn.co/mp3-preview/595fd4a77f849fa4766556da69340619a912e742?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/46cfc2a6af30e486053291cf9b6355cef5ec2a4f",
+      "release_date": "2014"
+    },
+    {
+      "featuredArtist": "Ms. Maiko",
+      "featuredArtistId": "7pqGMoN9BTp4qbevpl5z2y",
+      "trackName": "Pachanga",
+      "trackId": "1GIut79FVZaMJB6qkfroEj",
+      "preview": "https://p.scdn.co/mp3-preview/b9548bb842a651134d8564879f64160067b91eed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/46cfc2a6af30e486053291cf9b6355cef5ec2a4f",
+      "release_date": "2014"
+    },
+    {
+      "featuredArtist": "Ana Cañas",
+      "featuredArtistId": "4v1mao101nIWvxzotCSKyz",
+      "trackName": "Castillo de Arena",
+      "trackId": "42JLEwcfw9Embip9BO9YL9",
+      "preview": "https://p.scdn.co/mp3-preview/a6be2566b40a26919ac4f6a7ccb2f9f860f44653?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4d860c893dbb17f6826ecbf97df368bf4852061",
+      "release_date": "2011-03-21"
+    },
+    {
+      "featuredArtist": "Carlos Jean",
+      "featuredArtistId": "3oDsfHaRCBv7Jp8HO6VgeA",
+      "trackName": "Historia De Terror",
+      "trackId": "2hUtqW9CpyYBccNCmRuBSP",
+      "preview": "https://p.scdn.co/mp3-preview/d0a8938575f271d344b46cc3334d706c5b3e32ff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/88d4ab4096024443a0f1c9d7cfbafa514a3dc661",
+      "release_date": "2012-05-08"
+    }
+  ]
+}

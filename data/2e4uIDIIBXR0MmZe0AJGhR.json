@@ -1,0 +1,77 @@
+{
+  "artistName": "Bosse",
+  "features": [
+    {
+      "featuredArtist": "Casper",
+      "featuredArtistId": "6UDhlW8uEVBBrqHS3RrKuv",
+      "trackName": "Krumme Symphonie",
+      "trackId": "713YuvDMWrXbCcjkbfMsEc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9ef50cfc8ad32d2ba1a61862da52583f3194590f",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "BOY",
+      "featuredArtistId": "7I7ObCLzhAnOchc4fCQiRX",
+      "trackName": "Nächsten Sommer - Live in Hamburg",
+      "trackId": "1QbL5qG8bmEgHNNCt9cUEh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dc6d6e8049f96ac29b7e1e0d6bc88c80a63ae61f",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Kim Frank",
+      "featuredArtistId": "6910eexcuTUkORUci5Z7OS",
+      "trackName": "Junimond - Live in Hamburg",
+      "trackId": "1EB4klwrjaFHMYz3QfygOM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dc6d6e8049f96ac29b7e1e0d6bc88c80a63ae61f",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Sebastian Madsen",
+      "featuredArtistId": "1ZVt5fKPhBawIplgxu5VwC",
+      "trackName": "Alter Strand - Live in Hamburg",
+      "trackId": "5F5PpKjPLtNQyuVTR7oKV7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dc6d6e8049f96ac29b7e1e0d6bc88c80a63ae61f",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Anna Loos",
+      "featuredArtistId": "7i8kZQJI6E1ue05jYfLXEr",
+      "trackName": "Frankfurt Oder",
+      "trackId": "3DqreYsTAqddI395zwiujR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f1f350825ba598b68434016fa5ce9518654ffe0c",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Max + Johann",
+      "featuredArtistId": "7tUuueEA6DzbvvHmDy79Ow",
+      "trackName": "Dein Hurra - Max + Johann Remix",
+      "trackId": "53VYkP65ZKliS4yT8PhLAu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f2d2568ecda82585c6275933c36f7e4336c0d0e2",
+      "release_date": "2016-06-10"
+    },
+    {
+      "featuredArtist": "Kraans de Lutin",
+      "featuredArtistId": "4dJt0QEr81rRGg6YtltD4W",
+      "trackName": "Müßiggang - Phlexton Remix",
+      "trackId": "29gPZS0vho1mT9iS6llpre",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d7c9897c24d8740b87c008169424d28a328fec9e",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Vicente Don Celi",
+      "featuredArtistId": "7E2ne4gF3fIjgoG5cuRIZY",
+      "trackName": "Müßiggang - Phlexton Remix",
+      "trackId": "29gPZS0vho1mT9iS6llpre",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d7c9897c24d8740b87c008169424d28a328fec9e",
+      "release_date": "2013-01-01"
+    }
+  ]
+}

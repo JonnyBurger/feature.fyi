@@ -1,0 +1,518 @@
+{
+  "artistName": "Arkano",
+  "features": [
+    {
+      "featuredArtist": "Klau !",
+      "featuredArtistId": "1zj4OfzOSSveNfpirV4OiF",
+      "trackName": "Único",
+      "trackId": "1OPLEZ5XMatnwa9rjOSehc",
+      "preview": "https://p.scdn.co/mp3-preview/e696879d2c48ca6b4e7b993b95661d52dac7eedf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d35e0c07ccdc30ffd9b6517e17c770a25f93a8b",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Langui",
+      "featuredArtistId": "7h6MxYxbsY32fXD7nAtOz5",
+      "trackName": "Bioluminiscencia",
+      "trackId": "6yMCNegkK3ZdAnI2sJ4AyI",
+      "preview": "https://p.scdn.co/mp3-preview/b0ab1cb98b456a37530d4a6fb354c8bd93969c23?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d35e0c07ccdc30ffd9b6517e17c770a25f93a8b",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "El Chojin",
+      "featuredArtistId": "3m1an5fzquhCtk4UnhmLmc",
+      "trackName": "Bioluminiscencia",
+      "trackId": "6yMCNegkK3ZdAnI2sJ4AyI",
+      "preview": "https://p.scdn.co/mp3-preview/b0ab1cb98b456a37530d4a6fb354c8bd93969c23?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d35e0c07ccdc30ffd9b6517e17c770a25f93a8b",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Sony",
+      "featuredArtistId": "50JgtATjGWE2u9p42bEbrg",
+      "trackName": "La Vida Es Bella",
+      "trackId": "602oXQnXAvQmoAhEIMLSxx",
+      "preview": "https://p.scdn.co/mp3-preview/44e54f79c93a7937006494f0a41dbad25c4e397b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d35e0c07ccdc30ffd9b6517e17c770a25f93a8b",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Cres",
+      "featuredArtistId": "6HhywotTG5z1hwxFMl73fG",
+      "trackName": "La Caída",
+      "trackId": "3eRWsq2COb77VPpnl7sGFz",
+      "preview": "https://p.scdn.co/mp3-preview/a4d4aa9dd12000083245613967b5fb3ce4c65485?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d35e0c07ccdc30ffd9b6517e17c770a25f93a8b",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Argos",
+      "featuredArtistId": "6Gci0oS2nuIZJYnshFLNf0",
+      "trackName": "Yogur Helado",
+      "trackId": "6cPiUJLd7SG8r6WkmhFvbE",
+      "preview": "https://p.scdn.co/mp3-preview/2ba1e1886fc872b584122b29402278307ed7551c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d35e0c07ccdc30ffd9b6517e17c770a25f93a8b",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Nach",
+      "featuredArtistId": "66ArjpKRgw8vYBf9yhktto",
+      "trackName": "Con la Cabeza Alta",
+      "trackId": "0nbvmLydbhh4WvPVyJfvrG",
+      "preview": "https://p.scdn.co/mp3-preview/0dcb80ef6a2022208b44c23d1c3222bbab39b65a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d35e0c07ccdc30ffd9b6517e17c770a25f93a8b",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Carlos Jean",
+      "featuredArtistId": "3oDsfHaRCBv7Jp8HO6VgeA",
+      "trackName": "Última Jugada",
+      "trackId": "77XoOcgsTqghBvYy2GCbRu",
+      "preview": "https://p.scdn.co/mp3-preview/3731a08dab3e799f87317d8fbf763829cda5d310?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1d35e0c07ccdc30ffd9b6517e17c770a25f93a8b",
+      "release_date": "2017-10-06"
+    },
+    {
+      "featuredArtist": "Erre Violet",
+      "featuredArtistId": "6CKcB6wxbHmgUHRA5HX7Zm",
+      "trackName": "Viaje Astral",
+      "trackId": "7Fb9ci2XX49b1lOv56Lez0",
+      "preview": "https://p.scdn.co/mp3-preview/e9ad31e81b5973a12003e306087d9e33c54a5d85?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/60e7b2baff62759f5fbf7cb805fc0ec8e68e7704",
+      "release_date": "2014-07-04"
+    },
+    {
+      "featuredArtist": "Melendi",
+      "featuredArtistId": "1EXjXQpDx2pROygh8zvHs4",
+      "trackName": "Déjala Que Baile",
+      "trackId": "2KK9N6iBAisA0booTu3bGd",
+      "preview": "https://p.scdn.co/mp3-preview/330975ffaa921235ab1a9fca0f57f1b2b87db2ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9ecd4c33b1ad64645f2f93deede13374f6c28e9",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Alejandro Sanz",
+      "featuredArtistId": "5sUrlPAHlS9NEirDB8SEbF",
+      "trackName": "Déjala Que Baile",
+      "trackId": "2KK9N6iBAisA0booTu3bGd",
+      "preview": "https://p.scdn.co/mp3-preview/330975ffaa921235ab1a9fca0f57f1b2b87db2ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a9ecd4c33b1ad64645f2f93deede13374f6c28e9",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Klei",
+      "featuredArtistId": "7I1lB9VLrsTRJ4IcXJN4ZR",
+      "trackName": "Klei X Arkano X Aaron X Neim",
+      "trackId": "3PSZMWuwhELFsiCTDibuJc",
+      "preview": "https://p.scdn.co/mp3-preview/cec7d4572d11ebe4946bd69792168fc010e06199?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7dd248bb9acfbe5d235d7a90cb6821e7444b4db6",
+      "release_date": "2018-01-29"
+    },
+    {
+      "featuredArtist": "Aaron",
+      "featuredArtistId": "2liGkMQRK6Ki9BeCJcSkGG",
+      "trackName": "Klei X Arkano X Aaron X Neim",
+      "trackId": "3PSZMWuwhELFsiCTDibuJc",
+      "preview": "https://p.scdn.co/mp3-preview/cec7d4572d11ebe4946bd69792168fc010e06199?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7dd248bb9acfbe5d235d7a90cb6821e7444b4db6",
+      "release_date": "2018-01-29"
+    },
+    {
+      "featuredArtist": "Neim",
+      "featuredArtistId": "1D5TvUfVCsdSxBOuJs0Umi",
+      "trackName": "Klei X Arkano X Aaron X Neim",
+      "trackId": "3PSZMWuwhELFsiCTDibuJc",
+      "preview": "https://p.scdn.co/mp3-preview/cec7d4572d11ebe4946bd69792168fc010e06199?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7dd248bb9acfbe5d235d7a90cb6821e7444b4db6",
+      "release_date": "2018-01-29"
+    },
+    {
+      "featuredArtist": "Aczino",
+      "featuredArtistId": "4r1ZDYKzPt3iIjuq8LbT6X",
+      "trackName": "De Esquina A Esquina",
+      "trackId": "6wtq4Sdlkkz9AMsi1WFTzF",
+      "preview": "https://p.scdn.co/mp3-preview/c5e18bbbb12b369d9bd30e52d6cf4a86d1cc7a6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b3a63c74e902f12f732bbca036ad0f6c3d05f154",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Dtoke",
+      "featuredArtistId": "3sIyjBqd6HZc7eHSdj8f2Y",
+      "trackName": "De Esquina A Esquina",
+      "trackId": "6wtq4Sdlkkz9AMsi1WFTzF",
+      "preview": "https://p.scdn.co/mp3-preview/c5e18bbbb12b369d9bd30e52d6cf4a86d1cc7a6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b3a63c74e902f12f732bbca036ad0f6c3d05f154",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Imigrante",
+      "featuredArtistId": "6GqUgQ39VqdXQ0E5mxO9DH",
+      "trackName": "De Esquina A Esquina",
+      "trackId": "6wtq4Sdlkkz9AMsi1WFTzF",
+      "preview": "https://p.scdn.co/mp3-preview/c5e18bbbb12b369d9bd30e52d6cf4a86d1cc7a6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b3a63c74e902f12f732bbca036ad0f6c3d05f154",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Jota",
+      "featuredArtistId": "5W2MieRwiSaXrXWUglP2yR",
+      "trackName": "De Esquina A Esquina",
+      "trackId": "6wtq4Sdlkkz9AMsi1WFTzF",
+      "preview": "https://p.scdn.co/mp3-preview/c5e18bbbb12b369d9bd30e52d6cf4a86d1cc7a6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b3a63c74e902f12f732bbca036ad0f6c3d05f154",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Mr. Junior",
+      "featuredArtistId": "7Bt7rEaJkQZOftICWmMiJs",
+      "trackName": "De Esquina A Esquina",
+      "trackId": "6wtq4Sdlkkz9AMsi1WFTzF",
+      "preview": "https://p.scdn.co/mp3-preview/c5e18bbbb12b369d9bd30e52d6cf4a86d1cc7a6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b3a63c74e902f12f732bbca036ad0f6c3d05f154",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Penzattore",
+      "featuredArtistId": "329TIfzdYpA9sZYr6i79ys",
+      "trackName": "De Esquina A Esquina",
+      "trackId": "6wtq4Sdlkkz9AMsi1WFTzF",
+      "preview": "https://p.scdn.co/mp3-preview/c5e18bbbb12b369d9bd30e52d6cf4a86d1cc7a6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b3a63c74e902f12f732bbca036ad0f6c3d05f154",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Tom Crowley",
+      "featuredArtistId": "3J3XgSPY1cDPl35nGL6FHC",
+      "trackName": "De Esquina A Esquina",
+      "trackId": "6wtq4Sdlkkz9AMsi1WFTzF",
+      "preview": "https://p.scdn.co/mp3-preview/c5e18bbbb12b369d9bd30e52d6cf4a86d1cc7a6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b3a63c74e902f12f732bbca036ad0f6c3d05f154",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Cenzi",
+      "featuredArtistId": "3rPusZ92yurdHSkcWafe4r",
+      "trackName": "De Esquina A Esquina",
+      "trackId": "6wtq4Sdlkkz9AMsi1WFTzF",
+      "preview": "https://p.scdn.co/mp3-preview/c5e18bbbb12b369d9bd30e52d6cf4a86d1cc7a6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b3a63c74e902f12f732bbca036ad0f6c3d05f154",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Cehzar",
+      "featuredArtistId": "2VcROjgvAPmuYEICxUCC50",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Chuty",
+      "featuredArtistId": "1r5zlDA52ACalXlJsHY3cU",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Drose",
+      "featuredArtistId": "0uv4bz0aqoF2XYBIBSypbS",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "El Ciudadano",
+      "featuredArtistId": "1wgaNRy4bZxzndFV0uA0n9",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Gasper",
+      "featuredArtistId": "4Z7be42xV11pCfTe7d4TxJ",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Jony Beltran",
+      "featuredArtistId": "5GUZzbltjoDTr9MBzodnCB",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Lancer Lirical",
+      "featuredArtistId": "3CmPZr9hW0b0dkyP7x4hMY",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "McKlopedia",
+      "featuredArtistId": "1PNgAcUW6UgN59okEaTpvG",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "O.D",
+      "featuredArtistId": "6OXkEQn597olXSiZuZ66zI",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Papo MC",
+      "featuredArtistId": "0oJ2Cs37zewQ0jOfC8qmi2",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Skone",
+      "featuredArtistId": "3b0zCqdij8lmz7vFSzqvco",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Shadow",
+      "featuredArtistId": "2lf0FYOB52skJWouVr7orA",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Valles T",
+      "featuredArtistId": "2h5NjKTy7y3blBMgsNusrt",
+      "trackName": "Ya Ganamos",
+      "trackId": "23Xke9pqoQRDgWRU5GD1sg",
+      "preview": "https://p.scdn.co/mp3-preview/cc31f42a654a8a2e62081b887cf7ae0edc130a78?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/136fc4a4965f711974ed0bf3ba521bbe3536c2d2",
+      "release_date": "2017-10-01"
+    },
+    {
+      "featuredArtist": "Mister Barcelo",
+      "featuredArtistId": "14ePuyEhKKLYZ9ybHkw9S7",
+      "trackName": "Alicante",
+      "trackId": "1tO0mHQDkkpIHoBqA0no1T",
+      "preview": "https://p.scdn.co/mp3-preview/5748cb281d65f6845264c55e5363aab213ffc017?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c83ea3a8717512d4fdcd0dffcac437db48b1d305",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Jonko",
+      "featuredArtistId": "6MjBOtOZIWiQnaaIQjy3kH",
+      "trackName": "Alicante",
+      "trackId": "1tO0mHQDkkpIHoBqA0no1T",
+      "preview": "https://p.scdn.co/mp3-preview/5748cb281d65f6845264c55e5363aab213ffc017?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c83ea3a8717512d4fdcd0dffcac437db48b1d305",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "Carles Sanchez",
+      "featuredArtistId": "5ESGeHsQFJVSsD1XQfFUh2",
+      "trackName": "El Respeguetón",
+      "trackId": "2ECLdvx9vncwAmsPJVNoPC",
+      "preview": "https://p.scdn.co/mp3-preview/f579217653efa0baebd280b90648561edab0a02a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b3a305408020548bacef9dfa1d7aee16d01af68",
+      "release_date": "2016-12-23"
+    },
+    {
+      "featuredArtist": "Hazhe",
+      "featuredArtistId": "4p362NN14lMGC5NOnFR0lk",
+      "trackName": "Invisible",
+      "trackId": "4JuH0dhq2q1wemtQuSibnU",
+      "preview": "https://p.scdn.co/mp3-preview/b42fe1811929ab6729a289e6ec6cfe4311972a3b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5a00c674b81a8469f606018471d65fb26be94c2b",
+      "release_date": "2016-08-26"
+    },
+    {
+      "featuredArtist": "Accion Sanchez",
+      "featuredArtistId": "3R8z9YIb6DBi9Z8gPbhyXs",
+      "trackName": "Invisible",
+      "trackId": "4JuH0dhq2q1wemtQuSibnU",
+      "preview": "https://p.scdn.co/mp3-preview/b42fe1811929ab6729a289e6ec6cfe4311972a3b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5a00c674b81a8469f606018471d65fb26be94c2b",
+      "release_date": "2016-08-26"
+    },
+    {
+      "featuredArtist": "Yeseire",
+      "featuredArtistId": "53cLxKt8QM9T4gabVa8cZl",
+      "trackName": "Invisible",
+      "trackId": "4JuH0dhq2q1wemtQuSibnU",
+      "preview": "https://p.scdn.co/mp3-preview/b42fe1811929ab6729a289e6ec6cfe4311972a3b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5a00c674b81a8469f606018471d65fb26be94c2b",
+      "release_date": "2016-08-26"
+    },
+    {
+      "featuredArtist": "Omega El CTM",
+      "featuredArtistId": "0tXcalxqLUWMRZVfj1xtkP",
+      "trackName": "God Level (La Batalla de los Dioses)",
+      "trackId": "20JyLsaGV5UJ0RLXDL4KXG",
+      "preview": "https://p.scdn.co/mp3-preview/8a6166451b051f91782f38d42797a3cf66bdc7c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9ab5cfebc03f6d01b594b58d028f9324f63dd998",
+      "release_date": "2016-04-07"
+    },
+    {
+      "featuredArtist": "Stigma",
+      "featuredArtistId": "5Ad6qQv9JttwGC51hQ1g4H",
+      "trackName": "God Level (La Batalla de los Dioses)",
+      "trackId": "20JyLsaGV5UJ0RLXDL4KXG",
+      "preview": "https://p.scdn.co/mp3-preview/8a6166451b051f91782f38d42797a3cf66bdc7c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9ab5cfebc03f6d01b594b58d028f9324f63dd998",
+      "release_date": "2016-04-07"
+    },
+    {
+      "featuredArtist": "Lil Supa",
+      "featuredArtistId": "0qHbO3z6lgLE6ZYCkQBo1K",
+      "trackName": "God Level (La Batalla de los Dioses)",
+      "trackId": "20JyLsaGV5UJ0RLXDL4KXG",
+      "preview": "https://p.scdn.co/mp3-preview/8a6166451b051f91782f38d42797a3cf66bdc7c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9ab5cfebc03f6d01b594b58d028f9324f63dd998",
+      "release_date": "2016-04-07"
+    },
+    {
+      "featuredArtist": "Gran Rah",
+      "featuredArtistId": "6JjrF0EnCW3Ylj9gj3FXWZ",
+      "trackName": "God Level (La Batalla de los Dioses)",
+      "trackId": "20JyLsaGV5UJ0RLXDL4KXG",
+      "preview": "https://p.scdn.co/mp3-preview/8a6166451b051f91782f38d42797a3cf66bdc7c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9ab5cfebc03f6d01b594b58d028f9324f63dd998",
+      "release_date": "2016-04-07"
+    },
+    {
+      "featuredArtist": "Dj Akrylik",
+      "featuredArtistId": "4DpQwUtMbnw1jVj8Luu32p",
+      "trackName": "God Level (La Batalla de los Dioses)",
+      "trackId": "20JyLsaGV5UJ0RLXDL4KXG",
+      "preview": "https://p.scdn.co/mp3-preview/8a6166451b051f91782f38d42797a3cf66bdc7c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9ab5cfebc03f6d01b594b58d028f9324f63dd998",
+      "release_date": "2016-04-07"
+    },
+    {
+      "featuredArtist": "Cevlade",
+      "featuredArtistId": "7FavRzQTgusKjQCqvO4xXY",
+      "trackName": "God Level (La Batalla de los Dioses)",
+      "trackId": "20JyLsaGV5UJ0RLXDL4KXG",
+      "preview": "https://p.scdn.co/mp3-preview/8a6166451b051f91782f38d42797a3cf66bdc7c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9ab5cfebc03f6d01b594b58d028f9324f63dd998",
+      "release_date": "2016-04-07"
+    },
+    {
+      "featuredArtist": "Kaiser",
+      "featuredArtistId": "3crq72swZCWBoaN2IQZTzm",
+      "trackName": "God Level (La Batalla de los Dioses)",
+      "trackId": "20JyLsaGV5UJ0RLXDL4KXG",
+      "preview": "https://p.scdn.co/mp3-preview/8a6166451b051f91782f38d42797a3cf66bdc7c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9ab5cfebc03f6d01b594b58d028f9324f63dd998",
+      "release_date": "2016-04-07"
+    },
+    {
+      "featuredArtist": "Zita Zoe",
+      "featuredArtistId": "5w3yQZC4IFbbGaOTTne3Nk",
+      "trackName": "God Level (La Batalla de los Dioses)",
+      "trackId": "20JyLsaGV5UJ0RLXDL4KXG",
+      "preview": "https://p.scdn.co/mp3-preview/8a6166451b051f91782f38d42797a3cf66bdc7c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9ab5cfebc03f6d01b594b58d028f9324f63dd998",
+      "release_date": "2016-04-07"
+    },
+    {
+      "featuredArtist": "Shotta",
+      "featuredArtistId": "6kSbf0Xe8Bdhitd3d6Jr2z",
+      "trackName": "God Level (La Batalla de los Dioses)",
+      "trackId": "20JyLsaGV5UJ0RLXDL4KXG",
+      "preview": "https://p.scdn.co/mp3-preview/8a6166451b051f91782f38d42797a3cf66bdc7c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9ab5cfebc03f6d01b594b58d028f9324f63dd998",
+      "release_date": "2016-04-07"
+    },
+    {
+      "featuredArtist": "Da Zoo Bros",
+      "featuredArtistId": "51sV9SkVmOI3JlsqTlWoFA",
+      "trackName": "Da Zoo Fam",
+      "trackId": "6mCALqL5w3MbeEs1YmzWut",
+      "preview": "https://p.scdn.co/mp3-preview/eca89b944b36cfa3bf5accd1f7807e368e678f4e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/268eed2b570c428768ff2c0d8cf6927af269e450",
+      "release_date": "2015-08-17"
+    },
+    {
+      "featuredArtist": "Madnass",
+      "featuredArtistId": "2gYrxk5THEytAGyjIlWoJv",
+      "trackName": "Da Zoo Fam",
+      "trackId": "6mCALqL5w3MbeEs1YmzWut",
+      "preview": "https://p.scdn.co/mp3-preview/eca89b944b36cfa3bf5accd1f7807e368e678f4e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/268eed2b570c428768ff2c0d8cf6927af269e450",
+      "release_date": "2015-08-17"
+    },
+    {
+      "featuredArtist": "Santiuve",
+      "featuredArtistId": "7COfPtIsXnyVc4JV2SGyp2",
+      "trackName": "Da Zoo Fam",
+      "trackId": "6mCALqL5w3MbeEs1YmzWut",
+      "preview": "https://p.scdn.co/mp3-preview/eca89b944b36cfa3bf5accd1f7807e368e678f4e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/268eed2b570c428768ff2c0d8cf6927af269e450",
+      "release_date": "2015-08-17"
+    },
+    {
+      "featuredArtist": "Borja",
+      "featuredArtistId": "0UuHZKOP9kFQLd6D87FL4e",
+      "trackName": "Da Zoo Fam",
+      "trackId": "6mCALqL5w3MbeEs1YmzWut",
+      "preview": "https://p.scdn.co/mp3-preview/eca89b944b36cfa3bf5accd1f7807e368e678f4e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/268eed2b570c428768ff2c0d8cf6927af269e450",
+      "release_date": "2015-08-17"
+    },
+    {
+      "featuredArtist": "Trondosh",
+      "featuredArtistId": "016D1kSgGMZ7Qz8yni75UE",
+      "trackName": "Da Zoo Fam",
+      "trackId": "6mCALqL5w3MbeEs1YmzWut",
+      "preview": "https://p.scdn.co/mp3-preview/eca89b944b36cfa3bf5accd1f7807e368e678f4e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/268eed2b570c428768ff2c0d8cf6927af269e450",
+      "release_date": "2015-08-17"
+    },
+    {
+      "featuredArtist": "Artesanos",
+      "featuredArtistId": "5keSbSmAgJGuElygalV8MM",
+      "trackName": "Vive",
+      "trackId": "4oush8MM7OOJtG0OpF1pXH",
+      "preview": "https://p.scdn.co/mp3-preview/e11ae98fa7cf73b8340cf1d6f8beaf9d4c27342e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/29b2b19bfbea896fc5e5780c114d586826524b4b",
+      "release_date": "2013-10-16"
+    },
+    {
+      "featuredArtist": "El Zeidah",
+      "featuredArtistId": "3Gke9LHuHXmT28pp0DSR8x",
+      "trackName": "Un Tema De Rap",
+      "trackId": "1DrJAecPLagIuQFqwrFzte",
+      "preview": "https://p.scdn.co/mp3-preview/f47a262e33586fff98a27bbf5b9cb98c90c905c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a3b7741f48cb3939b104625935613f66db6c5b",
+      "release_date": "2013-05-07"
+    }
+  ]
+}

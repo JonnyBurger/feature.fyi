@@ -1,0 +1,32 @@
+{
+  "artistName": "MIMI",
+  "features": [
+    {
+      "featuredArtist": "NEIKED",
+      "featuredArtistId": "5H6xmHXjsq98NLbEjuE29f",
+      "trackName": "Call Me",
+      "trackId": "2EBmjmqYQGxByYZCaWjRBE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3f81c9254433e5b0d2b744619ab73f759aee65a2",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Alex Adair",
+      "featuredArtistId": "1mrrvBvbrm28iYaPlJ9mG5",
+      "trackName": "Call Me - Alex Adair Remix",
+      "trackId": "4Lb5haHMHsulTsZoreTEvT",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c1e3483579d934778a9284c6461dcb6103afea7e",
+      "release_date": "2017-07-28"
+    },
+    {
+      "featuredArtist": "White Gold Caviar",
+      "featuredArtistId": "1nR8MTYbCcZMHe0TbILWaf",
+      "trackName": "Call Me - White Gold Caviar Remix",
+      "trackId": "2HMtdpDvKdVrQEb3LbAv34",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/de543fc4f0fb279cfdae5cf7e36da2cfa0e44b5f",
+      "release_date": "2017-06-30"
+    }
+  ]
+}

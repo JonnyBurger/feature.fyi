@@ -1,0 +1,23 @@
+{
+  "artistName": "Los Dareyes De La Sierra",
+  "features": [
+    {
+      "featuredArtist": "Voz De Mando",
+      "featuredArtistId": "5sLCZx5RvQ1Cv6kguDLCLx",
+      "trackName": "Sangre Guerrera",
+      "trackId": "54xui38HClfOPGWvn5ihxN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/19514e125706548e38f86af11fde30b5f598829d",
+      "release_date": "2012-02-14"
+    },
+    {
+      "featuredArtist": "Chino & Nacho",
+      "featuredArtistId": "5NS0854TqZQVoRmJKSWtFZ",
+      "trackName": "Niña Bonita - Banda Version",
+      "trackId": "16K0vUnANUnFWdsyL0R7gt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/540b76e370cf77804b481a63dab5a6c293fb5cd5",
+      "release_date": "2010-09-14"
+    }
+  ]
+}

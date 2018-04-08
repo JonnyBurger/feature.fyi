@@ -1,0 +1,653 @@
+{
+  "artistName": "KXNG Crooked",
+  "features": [
+    {
+      "featuredArtist": "Jai",
+      "featuredArtistId": "4Oj1ve8GioLSOoJ9yPopWj",
+      "trackName": "Revolution Come (feat. Jai)",
+      "trackId": "2w8dsDtRdrIuL9cbK6t5BI",
+      "preview": "https://p.scdn.co/mp3-preview/404522cccefa2acae9fd26194465224c2963a211?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dad0ee41c37abe59e0672df002db62a38d167b07",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Royce Da 5'9\"",
+      "featuredArtistId": "6DVipHzYsPlIoA0DW8Gmns",
+      "trackName": "Truth (Why You Mad) (feat. Royce 5'9)",
+      "trackId": "2qaiRB7OucGzVHiTMFW62L",
+      "preview": "https://p.scdn.co/mp3-preview/8c2ac4a873c8bc68e0f4759d1a2a775e919861a0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dad0ee41c37abe59e0672df002db62a38d167b07",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Jay Townsend",
+      "featuredArtistId": "7gNRPqOHO0PBO0j0cuXGwK",
+      "trackName": "Thug Poetry (feat. Jay Townsend)",
+      "trackId": "3Zwt0TUJK7ihZRs7DuEBOt",
+      "preview": "https://p.scdn.co/mp3-preview/41aa591b2eee17c9f9284af90c3bce71e442fba8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dad0ee41c37abe59e0672df002db62a38d167b07",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Styles P",
+      "featuredArtistId": "2x8KDZdSONA3872CnhaAlX",
+      "trackName": "Stand (feat. Styles P & Emanny)",
+      "trackId": "0LDJmQRo3XmqeF9t6iwttV",
+      "preview": "https://p.scdn.co/mp3-preview/21b0b473402870209caab94f0f66d4024b7f1f28?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dad0ee41c37abe59e0672df002db62a38d167b07",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Emanny",
+      "featuredArtistId": "23zEEtmthkZdvz8j0LQHHo",
+      "trackName": "Stand (feat. Styles P & Emanny)",
+      "trackId": "0LDJmQRo3XmqeF9t6iwttV",
+      "preview": "https://p.scdn.co/mp3-preview/21b0b473402870209caab94f0f66d4024b7f1f28?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dad0ee41c37abe59e0672df002db62a38d167b07",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Just Blaze",
+      "featuredArtistId": "2gpPCu8rjzdobGqDZJpHiR",
+      "trackName": "A Just Message (Intro) (with Just Blaze)",
+      "trackId": "5W4TjsA1SOSATpC2UjwEDd",
+      "preview": "https://p.scdn.co/mp3-preview/6d3f11ea3170c1072dd901af14c42b0015640f42?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/125b1d902ddb79d5f90855995273061cebcdadbe",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Eminem",
+      "featuredArtistId": "7dGJo4pcD2V6oG8kP0tJRR",
+      "trackName": "Welcome To Planet X (We're Coming For You) (with Eminem & The Observer)",
+      "trackId": "1mF3De5l2msZ694n0QeCut",
+      "preview": "https://p.scdn.co/mp3-preview/1d882836764ddecebbb35f4dd2da1eade698b49f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/125b1d902ddb79d5f90855995273061cebcdadbe",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "The Observer",
+      "featuredArtistId": "7BTJY6rSFB8LQslL0TwkNt",
+      "trackName": "Welcome To Planet X (We're Coming For You) (with Eminem & The Observer)",
+      "trackId": "1mF3De5l2msZ694n0QeCut",
+      "preview": "https://p.scdn.co/mp3-preview/1d882836764ddecebbb35f4dd2da1eade698b49f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/125b1d902ddb79d5f90855995273061cebcdadbe",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Xzibit",
+      "featuredArtistId": "4tujQJicOnuZRLiBFdp3Ou",
+      "trackName": "Dem People (with Xzibit & SAS)",
+      "trackId": "5QawBVfYopl4ZCulbrN2mm",
+      "preview": "https://p.scdn.co/mp3-preview/850aab1fec1fc9f55286f9962fa02c9aaa127b1e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/125b1d902ddb79d5f90855995273061cebcdadbe",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "SAS",
+      "featuredArtistId": "2jo4gIGXX5b1aSQhnr5nKk",
+      "trackName": "Dem People (with Xzibit & SAS)",
+      "trackId": "5QawBVfYopl4ZCulbrN2mm",
+      "preview": "https://p.scdn.co/mp3-preview/850aab1fec1fc9f55286f9962fa02c9aaa127b1e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/125b1d902ddb79d5f90855995273061cebcdadbe",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Astray",
+      "featuredArtistId": "5JU3UCHJW6yv0SEXuc5E9E",
+      "trackName": "I Want To Kill You (with Astray & The Observer)",
+      "trackId": "2hdwuRyOsn0mPwxlnXiDXU",
+      "preview": "https://p.scdn.co/mp3-preview/0ef45e00b226c0e8abe6928bf6506b47d5a8b887?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/125b1d902ddb79d5f90855995273061cebcdadbe",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Bo Roc",
+      "featuredArtistId": "4B6gixaMM65FFumeHNIxGi",
+      "trackName": "Intergalactic Hustling (with Boroc)",
+      "trackId": "5eOVjLVnbq1TqIwBaHmAGH",
+      "preview": "https://p.scdn.co/mp3-preview/cbcbb72f3f63659af3d3e0537b6911fa739132ff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/125b1d902ddb79d5f90855995273061cebcdadbe",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "P Funk Pavarotti",
+      "featuredArtistId": "7CFPNu9uyCSbtDK8BsdToU",
+      "trackName": "Revolutionary Funk (with P Funk Pavarotti)",
+      "trackId": "2zH0UAjRrXMk0MQWXV0aN1",
+      "preview": "https://p.scdn.co/mp3-preview/62a7a3183f7ed490033e09d6170e08cf93829b3d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/125b1d902ddb79d5f90855995273061cebcdadbe",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Tech N9ne",
+      "featuredArtistId": "6UBA15slIuadJ8h2lPRPos",
+      "trackName": "Shoot Back (Dear Officer) (with Tech N9ne)",
+      "trackId": "7HICqYUdZoVYVFHvFkvQ2z",
+      "preview": "https://p.scdn.co/mp3-preview/262ff97b3625c72b1ab1e3bd228aa592a9af423d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/125b1d902ddb79d5f90855995273061cebcdadbe",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "RZA",
+      "featuredArtistId": "4iCwCMnqsNZ6atvRiADgtn",
+      "trackName": "Puppet Master (with RZA, KinG! & The Observer)",
+      "trackId": "5taXwaVMVZ7v80IG5UtDGs",
+      "preview": "https://p.scdn.co/mp3-preview/cc7d7291477324ff120c1d0f3c1530b9773b4412?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/125b1d902ddb79d5f90855995273061cebcdadbe",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "KinG!",
+      "featuredArtistId": "1eoVPmja8dbVy5uI8KEzpV",
+      "trackName": "Puppet Master (with RZA, KinG! & The Observer)",
+      "trackId": "5taXwaVMVZ7v80IG5UtDGs",
+      "preview": "https://p.scdn.co/mp3-preview/cc7d7291477324ff120c1d0f3c1530b9773b4412?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/125b1d902ddb79d5f90855995273061cebcdadbe",
+      "release_date": "2016-11-11"
+    },
+    {
+      "featuredArtist": "Jonathan Hay",
+      "featuredArtistId": "4nAKZMj4ukSoCq0fXBIus0",
+      "trackName": "The Lbc Crook (Intro) [feat. Haylo 94]",
+      "trackId": "1gYQVMIyXFFAyRqCF9ZH8T",
+      "preview": "https://p.scdn.co/mp3-preview/2cdb392c31a77d65444755481a30a94ddf823944?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e5b39bf989c3777a2bf13a437474a606e98f815",
+      "release_date": "2016-09-27"
+    },
+    {
+      "featuredArtist": "Haylo 94",
+      "featuredArtistId": "1RRWkoJEdIHnwtAwH7cUvq",
+      "trackName": "The Lbc Crook (Intro) [feat. Haylo 94]",
+      "trackId": "1gYQVMIyXFFAyRqCF9ZH8T",
+      "preview": "https://p.scdn.co/mp3-preview/2cdb392c31a77d65444755481a30a94ddf823944?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e5b39bf989c3777a2bf13a437474a606e98f815",
+      "release_date": "2016-09-27"
+    },
+    {
+      "featuredArtist": "DJ Revolution",
+      "featuredArtistId": "5OsTd4JBco0XckFuy3vCql",
+      "trackName": "Ashamed (feat. DJ Revolution & Mike Smith)",
+      "trackId": "7ptGGMrTZlUsm7Rgq92LMU",
+      "preview": "https://p.scdn.co/mp3-preview/04fb369f370e8e0ac01aeb6387b0a671eda25d5b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e5b39bf989c3777a2bf13a437474a606e98f815",
+      "release_date": "2016-09-27"
+    },
+    {
+      "featuredArtist": "Mike Smith",
+      "featuredArtistId": "5mMDpIXpgpFK07WnAaq05J",
+      "trackName": "Ashamed (feat. DJ Revolution & Mike Smith)",
+      "trackId": "7ptGGMrTZlUsm7Rgq92LMU",
+      "preview": "https://p.scdn.co/mp3-preview/04fb369f370e8e0ac01aeb6387b0a671eda25d5b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e5b39bf989c3777a2bf13a437474a606e98f815",
+      "release_date": "2016-09-27"
+    },
+    {
+      "featuredArtist": "Erick Tandy",
+      "featuredArtistId": "69AOpm1XMK3pjhqcGw0a0q",
+      "trackName": "A Rose (feat. Erick Tandy)",
+      "trackId": "2de3JHkkScKYCHPGnCS0Ka",
+      "preview": "https://p.scdn.co/mp3-preview/e365279546e1c49b4b593ee5ddda667c94a3b34d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e5b39bf989c3777a2bf13a437474a606e98f815",
+      "release_date": "2016-09-27"
+    },
+    {
+      "featuredArtist": "Truth Ali",
+      "featuredArtistId": "0n3yiqwVo3zsh1KubdX61r",
+      "trackName": "In Paradise (feat. Royce da 5'9\" & Truth Ali)",
+      "trackId": "2xatRWncQbMCHbIVpnPipW",
+      "preview": "https://p.scdn.co/mp3-preview/a6deaaf82c290cd14f2490d57ea724792f9a1070?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e5b39bf989c3777a2bf13a437474a606e98f815",
+      "release_date": "2016-09-27"
+    },
+    {
+      "featuredArtist": "Sabrina Hale",
+      "featuredArtistId": "2SlGLgqhQUM9YNbQ1rytmn",
+      "trackName": "Treat U Bad (Leaving You Tomorrow) [feat. Sabrina Hale]",
+      "trackId": "1KX638CiTcY7GVJZhcCgzb",
+      "preview": "https://p.scdn.co/mp3-preview/c26c9472c285283b3dd8ac5e08cc4cd3f5556757?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e5b39bf989c3777a2bf13a437474a606e98f815",
+      "release_date": "2016-09-27"
+    },
+    {
+      "featuredArtist": "Audio Stepchild",
+      "featuredArtistId": "5y6JmH9io5LlLsNfHuVENo",
+      "trackName": "Four Twenty Groupie (feat. Audio Stepchild)",
+      "trackId": "2dgv5jw0Wu68hQI2ZKgIgh",
+      "preview": "https://p.scdn.co/mp3-preview/960b8f21ea7a71672b10d65d2f13422f77892f22?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e5b39bf989c3777a2bf13a437474a606e98f815",
+      "release_date": "2016-09-27"
+    },
+    {
+      "featuredArtist": "Pink Grenade",
+      "featuredArtistId": "6UtCvH80i36NUZKohrZIxd",
+      "trackName": "The Mirror Experience (feat. Mike Smith, Audio Stepchild & Pink Grenade)",
+      "trackId": "6p16HBpqXu9bARcNlICfKf",
+      "preview": "https://p.scdn.co/mp3-preview/63cbe178f69c6ffa458b59146ed0a62246922a9e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e5b39bf989c3777a2bf13a437474a606e98f815",
+      "release_date": "2016-09-27"
+    },
+    {
+      "featuredArtist": "Morgan McRae",
+      "featuredArtistId": "3BHqvTOv9gmTriRBndduhs",
+      "trackName": "Don't Close Your Eyes (Ashamed) [feat. Truth Ali, Morgan Mcrae, Frida Dee & Ezekiel]",
+      "trackId": "6P5AiWh9mNT1ZRBb5pDFlZ",
+      "preview": "https://p.scdn.co/mp3-preview/aafab72f82066d4d5e4593d30e1fd8f00339f8c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e5b39bf989c3777a2bf13a437474a606e98f815",
+      "release_date": "2016-09-27"
+    },
+    {
+      "featuredArtist": "Frida Dee",
+      "featuredArtistId": "1Vi4LVtQYP0Rc6OoyZPzxB",
+      "trackName": "Don't Close Your Eyes (Ashamed) [feat. Truth Ali, Morgan Mcrae, Frida Dee & Ezekiel]",
+      "trackId": "6P5AiWh9mNT1ZRBb5pDFlZ",
+      "preview": "https://p.scdn.co/mp3-preview/aafab72f82066d4d5e4593d30e1fd8f00339f8c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e5b39bf989c3777a2bf13a437474a606e98f815",
+      "release_date": "2016-09-27"
+    },
+    {
+      "featuredArtist": "Ezekiel",
+      "featuredArtistId": "3cfTJhUqcjW47bfPXOVPfN",
+      "trackName": "Don't Close Your Eyes (Ashamed) [feat. Truth Ali, Morgan Mcrae, Frida Dee & Ezekiel]",
+      "trackId": "6P5AiWh9mNT1ZRBb5pDFlZ",
+      "preview": "https://p.scdn.co/mp3-preview/aafab72f82066d4d5e4593d30e1fd8f00339f8c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e5b39bf989c3777a2bf13a437474a606e98f815",
+      "release_date": "2016-09-27"
+    },
+    {
+      "featuredArtist": "Tabu",
+      "featuredArtistId": "0GQZc3zcll9HXIVaUA1XzJ",
+      "trackName": "Freestylin Under Oath (feat. Tabu)",
+      "trackId": "4fEcjEoEKuRcmwr0SbxFaj",
+      "preview": "https://p.scdn.co/mp3-preview/0c2e1d0f84e3931b8ff3d8f9836c9e02757d80a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db9645f695e0a85ab76af009190894dc0fc6b410",
+      "release_date": "2016-02-26"
+    },
+    {
+      "featuredArtist": "Horseshoe G.A.N.G.",
+      "featuredArtistId": "33AivM5CKAfFCziJBaexKi",
+      "trackName": "Drum Murder, Pt. 2 (feat. Horseshoe Gang)",
+      "trackId": "51ToSajwS34YnF36ZFTAZg",
+      "preview": "https://p.scdn.co/mp3-preview/dd8648d599d5ae7c0dedbd7f763af14045da5e8e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db9645f695e0a85ab76af009190894dc0fc6b410",
+      "release_date": "2016-02-26"
+    },
+    {
+      "featuredArtist": "Dj King Tech",
+      "featuredArtistId": "5QgT4LGd2gm3wOiAJNsMFL",
+      "trackName": "Groupie (Single Version) [feat. Jonathan Hay, Sabrina Hale & DJ King Tech]",
+      "trackId": "1zryAFobrR0oibtjXErCQ7",
+      "preview": "https://p.scdn.co/mp3-preview/d9de5d38b0257fbc713c20448af7510767a2fa6e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db9645f695e0a85ab76af009190894dc0fc6b410",
+      "release_date": "2016-02-26"
+    },
+    {
+      "featuredArtist": "Rick Rock",
+      "featuredArtistId": "7hPPjATqnrrougPWT3VvJn",
+      "trackName": "Martian Pussy (feat. Rick Rock & Kokane)",
+      "trackId": "6rTGUo6r9fkep3HFqYXmID",
+      "preview": "https://p.scdn.co/mp3-preview/922a8c0a6648d9bb625610da706ceb2a6c836791?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db9645f695e0a85ab76af009190894dc0fc6b410",
+      "release_date": "2016-02-26"
+    },
+    {
+      "featuredArtist": "Kokane",
+      "featuredArtistId": "7tZrWfaCLVG6ijO3C2ocbQ",
+      "trackName": "Martian Pussy (feat. Rick Rock & Kokane)",
+      "trackId": "6rTGUo6r9fkep3HFqYXmID",
+      "preview": "https://p.scdn.co/mp3-preview/922a8c0a6648d9bb625610da706ceb2a6c836791?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db9645f695e0a85ab76af009190894dc0fc6b410",
+      "release_date": "2016-02-26"
+    },
+    {
+      "featuredArtist": "Justice League",
+      "featuredArtistId": "5pCvzkiLM9KubR9FiHQmPv",
+      "trackName": "The Originals (feat. J.U.S.T.I.C.E League, Jonathan Hay & Mike Smith)",
+      "trackId": "7qN1AFxCsuI3HYxvLaxFQg",
+      "preview": "https://p.scdn.co/mp3-preview/567496e66a962a241c3f745980e7909c4ef65a19?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db9645f695e0a85ab76af009190894dc0fc6b410",
+      "release_date": "2016-02-26"
+    },
+    {
+      "featuredArtist": "Novel",
+      "featuredArtistId": "5EkPgNzxiQ16jv7ajN5feK",
+      "trackName": "Lift Me up (feat. Novel, J.U.S.T.I.C.E League, Jonathan Hay & Mike Smith)",
+      "trackId": "3ZbRLwIvHKs4SFte05MAVz",
+      "preview": "https://p.scdn.co/mp3-preview/fdcd5b1a14959680ea57fcd9d4fbde4bcde80f83?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db9645f695e0a85ab76af009190894dc0fc6b410",
+      "release_date": "2016-02-26"
+    },
+    {
+      "featuredArtist": "Joe Budden",
+      "featuredArtistId": "1SAugjIcuwNPKS4urSB7A6",
+      "trackName": "Total Slaughter (feat. Joe Budden, Royce da 5'9\", Jonathan Hay, Mike Smith & Aktive)",
+      "trackId": "0TvFJUJ1ffCf8aGRhbMbQZ",
+      "preview": "https://p.scdn.co/mp3-preview/e4d09b7733da27440a79d2243d9d0c32d8ff738d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db9645f695e0a85ab76af009190894dc0fc6b410",
+      "release_date": "2016-02-26"
+    },
+    {
+      "featuredArtist": "Aktive",
+      "featuredArtistId": "7gWmjYSqrYyY3h2ATvP87g",
+      "trackName": "Total Slaughter (feat. Joe Budden, Royce da 5'9\", Jonathan Hay, Mike Smith & Aktive)",
+      "trackId": "0TvFJUJ1ffCf8aGRhbMbQZ",
+      "preview": "https://p.scdn.co/mp3-preview/e4d09b7733da27440a79d2243d9d0c32d8ff738d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db9645f695e0a85ab76af009190894dc0fc6b410",
+      "release_date": "2016-02-26"
+    },
+    {
+      "featuredArtist": "Vaughn Anthony",
+      "featuredArtistId": "6K8JBs64Wx8sRqqk6hfnho",
+      "trackName": "Let Me Buy U a Drink (feat. Vaughn Anthony)",
+      "trackId": "1urQ1wk06I4TIeJUyz9dfl",
+      "preview": "https://p.scdn.co/mp3-preview/b1d2e774fde64f9cd57920fda938081a063954f9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1634ad91d5ad9e74fed30f5d3413d417a0a7ce45",
+      "release_date": "2014-12-30"
+    },
+    {
+      "featuredArtist": "Brian Rivers",
+      "featuredArtistId": "7CxeYu3C8mNye1aSIbXmmi",
+      "trackName": "Music Is My Life (feat. Brian Rivers)",
+      "trackId": "3DpdZ0QflQ0RThoTL0pdNS",
+      "preview": "https://p.scdn.co/mp3-preview/829b4f05e711d7762fade337e96334d4300781f6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1634ad91d5ad9e74fed30f5d3413d417a0a7ce45",
+      "release_date": "2014-12-30"
+    },
+    {
+      "featuredArtist": "Kay Young",
+      "featuredArtistId": "0wefoxoSJ3jDxOXGiU94oM",
+      "trackName": "Gangstas Cry (feat. Kay Young)",
+      "trackId": "62TXr3QlOeHuZeWDEdkkDU",
+      "preview": "https://p.scdn.co/mp3-preview/16ae086ddcd23506469f22b577518ec7a5681acf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1634ad91d5ad9e74fed30f5d3413d417a0a7ce45",
+      "release_date": "2014-12-30"
+    },
+    {
+      "featuredArtist": "Snoop Dogg",
+      "featuredArtistId": "7hJcb9fa4alzcOq3EaNPoG",
+      "trackName": "Guess Who's Back (feat. Snoop Dogg)",
+      "trackId": "3g5O2UnaJqo93sOoiWnoyE",
+      "preview": "https://p.scdn.co/mp3-preview/93f1ae3db46d669be9ea65fe5412920afbf349fc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d41eba3123c6ffb74349e71bd5c8ee3264d25cbd",
+      "release_date": "2011-12-31"
+    },
+    {
+      "featuredArtist": "Slaughterhouse",
+      "featuredArtistId": "5rVbcJv0JRfhWLA3mgM73r",
+      "trackName": "Woodstock Hip-Hop (feat. Slaughterhouse & M.O.P.)",
+      "trackId": "736bgZuhZXcEhgoASSFBTp",
+      "preview": "https://p.scdn.co/mp3-preview/6f825b3ce534e4ca027b3f46fbb517c40ecd5411?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d41eba3123c6ffb74349e71bd5c8ee3264d25cbd",
+      "release_date": "2011-12-31"
+    },
+    {
+      "featuredArtist": "M.O.P.",
+      "featuredArtistId": "1BH45DVSTeGBvcYXNCd67g",
+      "trackName": "Woodstock Hip-Hop (feat. Slaughterhouse & M.O.P.)",
+      "trackId": "736bgZuhZXcEhgoASSFBTp",
+      "preview": "https://p.scdn.co/mp3-preview/6f825b3ce534e4ca027b3f46fbb517c40ecd5411?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d41eba3123c6ffb74349e71bd5c8ee3264d25cbd",
+      "release_date": "2011-12-31"
+    },
+    {
+      "featuredArtist": "Raekwon",
+      "featuredArtistId": "2yQf6b8hxahZaT5dHlWaB1",
+      "trackName": "That's My Word (feat. Raekwon)",
+      "trackId": "31zw7tw3e782wuZRZfDjKO",
+      "preview": "https://p.scdn.co/mp3-preview/18f3eea213af81e93dfbc1290384b5c203443e59?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d41eba3123c6ffb74349e71bd5c8ee3264d25cbd",
+      "release_date": "2011-12-31"
+    },
+    {
+      "featuredArtist": "Ray J, Spider & Eastwood",
+      "featuredArtistId": "5jDy1Kex9hH0o9coPUHVOf",
+      "trackName": "Lil Youngsters (feat. Ray J, Spider & Eastwood)",
+      "trackId": "3pTEPMiyQkyRbWq9YrDZMV",
+      "preview": "https://p.scdn.co/mp3-preview/9d19794d6a08b91f04e8cb3e83d550108287bee9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8c55586e9608cbb4fd065af75416d1d3728b4408",
+      "release_date": "2010-06-15"
+    },
+    {
+      "featuredArtist": "Danny Boy & Spider",
+      "featuredArtistId": "2nZ0oQo6qbo4bEbi5uLHvj",
+      "trackName": "Go Hard (feat. Danny Boy & Spider)",
+      "trackId": "6bcTBDbiXDVjlwi90vqLfb",
+      "preview": "https://p.scdn.co/mp3-preview/e98946cababc1b04a7295de42e9008260e75233e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8c55586e9608cbb4fd065af75416d1d3728b4408",
+      "release_date": "2010-06-15"
+    },
+    {
+      "featuredArtist": "Kurupt & Eastwood",
+      "featuredArtistId": "2ex19bUUAktKgB3lGfBEON",
+      "trackName": "West Coast (feat. Kurupt & Eastwood)",
+      "trackId": "7kFwO6dw7WpFVkQMzAd6Ys",
+      "preview": "https://p.scdn.co/mp3-preview/aa2e48201d348975d6c97f24ad45f3009bb9f1ab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8c55586e9608cbb4fd065af75416d1d3728b4408",
+      "release_date": "2010-06-15"
+    },
+    {
+      "featuredArtist": "Ray J & Eastwood",
+      "featuredArtistId": "4tFV6Iqd1llhqQdR0IDx7j",
+      "trackName": "House Party (feat. Ray J & Eastwood)",
+      "trackId": "0g48AuuVX1soZDeqvlmWNb",
+      "preview": "https://p.scdn.co/mp3-preview/0ff38a6015e45aec6596882ea5f0f868ca00b338?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8c55586e9608cbb4fd065af75416d1d3728b4408",
+      "release_date": "2010-06-15"
+    },
+    {
+      "featuredArtist": "Juvenile & Sisqo",
+      "featuredArtistId": "22E6GcoEKSCekpBL4n7jfT",
+      "trackName": "So Damn Hood (Remix)",
+      "trackId": "1wBUb7Fe0apnMkXlH59g2e",
+      "preview": "https://p.scdn.co/mp3-preview/1269e3d53582b9ad3a1848638a241e7049b0f345?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8c55586e9608cbb4fd065af75416d1d3728b4408",
+      "release_date": "2010-06-15"
+    },
+    {
+      "featuredArtist": "Too Short, Eastwood & Ray J",
+      "featuredArtistId": "3PPZIcZQwDykAewuNWLoMa",
+      "trackName": "B*Tch (feat. Too Short, Eastwood & Ray J)",
+      "trackId": "79GcyZ52xsP1GMu5uhUCqU",
+      "preview": "https://p.scdn.co/mp3-preview/0e40d7be2cb8ba78a8981b7ed277a7c7d887c2f8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8c55586e9608cbb4fd065af75416d1d3728b4408",
+      "release_date": "2010-06-15"
+    },
+    {
+      "featuredArtist": "K-Ci, Danny Boy, Eastwood & Ganxsta Ridd",
+      "featuredArtistId": "38OA1umU9uDxAnll4rNuP7",
+      "trackName": "Me And My Dogg (feat. K-Ci, Danny Boy, Eastwood & Ganxsta Ridd)",
+      "trackId": "7ya1EdUxZX9zXbBCZvxIwr",
+      "preview": "https://p.scdn.co/mp3-preview/01ab5fc3feacf1e7deb492f6a591fba49d7cc7f9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8c55586e9608cbb4fd065af75416d1d3728b4408",
+      "release_date": "2010-06-15"
+    },
+    {
+      "featuredArtist": "Kobe",
+      "featuredArtistId": "1XNFcPvkDxMDRFnLz0vjZk",
+      "trackName": "Circle Gang Anthem Pt. 2",
+      "trackId": "7KfZZqyhO9tOoiwPGzccWZ",
+      "preview": "https://p.scdn.co/mp3-preview/7a5af7ac8b974a151dcb5e30aa8b39535218da3a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7a7a1c9882a33d3060c3e24097fb9cdc53b72b09",
+      "release_date": "2009-11-03"
+    },
+    {
+      "featuredArtist": "Mykestro",
+      "featuredArtistId": "5tf6nrHn3B43hZu6do77w2",
+      "trackName": "Cypher 1",
+      "trackId": "4ILonmZ5eRmXivDUPbewqO",
+      "preview": "https://p.scdn.co/mp3-preview/765d81715eb1cdb507cb21c806b516322657843b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7a7a1c9882a33d3060c3e24097fb9cdc53b72b09",
+      "release_date": "2009-11-03"
+    },
+    {
+      "featuredArtist": "Kid Vicious",
+      "featuredArtistId": "7azkliXklTMGNbDPdhzRPk",
+      "trackName": "Cypher 1",
+      "trackId": "4ILonmZ5eRmXivDUPbewqO",
+      "preview": "https://p.scdn.co/mp3-preview/765d81715eb1cdb507cb21c806b516322657843b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7a7a1c9882a33d3060c3e24097fb9cdc53b72b09",
+      "release_date": "2009-11-03"
+    },
+    {
+      "featuredArtist": "ConiYac",
+      "featuredArtistId": "0HceM3l8OKS50US25CaOGY",
+      "trackName": "Cypher 1",
+      "trackId": "4ILonmZ5eRmXivDUPbewqO",
+      "preview": "https://p.scdn.co/mp3-preview/765d81715eb1cdb507cb21c806b516322657843b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7a7a1c9882a33d3060c3e24097fb9cdc53b72b09",
+      "release_date": "2009-11-03"
+    },
+    {
+      "featuredArtist": "Kare-Lezz",
+      "featuredArtistId": "2HAn2qbogtxjPKzsWAXzPs",
+      "trackName": "Long Beach Meeting",
+      "trackId": "3eGmIHGARcY1qLLVQC9QHj",
+      "preview": "https://p.scdn.co/mp3-preview/a58732983dbbf101bef2cf52a3eae2e8c67c1dbb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7a7a1c9882a33d3060c3e24097fb9cdc53b72b09",
+      "release_date": "2009-11-03"
+    },
+    {
+      "featuredArtist": "Dynamic Certified",
+      "featuredArtistId": "5jjGLu3lUoulDtX34bXOiY",
+      "trackName": "Long Beach Meeting",
+      "trackId": "3eGmIHGARcY1qLLVQC9QHj",
+      "preview": "https://p.scdn.co/mp3-preview/a58732983dbbf101bef2cf52a3eae2e8c67c1dbb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7a7a1c9882a33d3060c3e24097fb9cdc53b72b09",
+      "release_date": "2009-11-03"
+    },
+    {
+      "featuredArtist": "Turnal",
+      "featuredArtistId": "7gDBLKBIkQ90rncVKKuSdE",
+      "trackName": "3 Bitches - Feat. Knoc-Turnal",
+      "trackId": "1nriTUuPUurxcfR6gjuXKC",
+      "preview": "https://p.scdn.co/mp3-preview/40f4bf161cde6ce9ab475a57570ddeb74e77cccb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/964609f0387fccfe24eaa4a026b007355e904423",
+      "release_date": "2008-11-04"
+    },
+    {
+      "featuredArtist": "Knoc",
+      "featuredArtistId": "58H78VMDzhTlRzWF5h83li",
+      "trackName": "3 Bitches - Feat. Knoc-Turnal",
+      "trackId": "1nriTUuPUurxcfR6gjuXKC",
+      "preview": "https://p.scdn.co/mp3-preview/40f4bf161cde6ce9ab475a57570ddeb74e77cccb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/964609f0387fccfe24eaa4a026b007355e904423",
+      "release_date": "2008-11-04"
+    },
+    {
+      "featuredArtist": "Das (I-15)",
+      "featuredArtistId": "1quST0lhc0vzPSeqfKscMN",
+      "trackName": "Do It Like Me (Feat. Das I-15)",
+      "trackId": "7lLHOxe4BIUBUvzUYOX9vk",
+      "preview": "https://p.scdn.co/mp3-preview/eb7b295e72a25167f3f61ba238f60b41d9c5ab5d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/964609f0387fccfe24eaa4a026b007355e904423",
+      "release_date": "2008-11-04"
+    },
+    {
+      "featuredArtist": "Akon",
+      "featuredArtistId": "0z4gvV4rjIZ9wHck67ucSV",
+      "trackName": "Dream Big - Feat. Akon",
+      "trackId": "13tjINj0nYfOEMoTsLdq0p",
+      "preview": "https://p.scdn.co/mp3-preview/43e32641ab5b48ce08237d7e16918d7b0d8673a5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/964609f0387fccfe24eaa4a026b007355e904423",
+      "release_date": "2008-11-04"
+    },
+    {
+      "featuredArtist": "Fred Knuxx",
+      "featuredArtistId": "7GjCvtghTX7M8NjseXGLtN",
+      "trackName": "Freedom",
+      "trackId": "27FdqNPiaXtoPsKbJUEGvU",
+      "preview": "https://p.scdn.co/mp3-preview/a096bb60fefed5014da6d23b42312dc6ef999b6a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ab6d5fd17b6d344cceb040820fd04166e7cfe145",
+      "release_date": "2008-02-14"
+    },
+    {
+      "featuredArtist": "Termanology",
+      "featuredArtistId": "7oF48iRjggIDjtfRcmmMvl",
+      "trackName": "The Music Industry (Remix)",
+      "trackId": "6MCAHW55ItVjgMROxT6Ckr",
+      "preview": "https://p.scdn.co/mp3-preview/40433e3270202def8d92d9395b9ab6ad6f237994?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ab6d5fd17b6d344cceb040820fd04166e7cfe145",
+      "release_date": "2008-02-14"
+    },
+    {
+      "featuredArtist": "Con Sequence",
+      "featuredArtistId": "6iwKblpZp1Fn3LSy7C0Z3x",
+      "trackName": "The Music Industry (Remix)",
+      "trackId": "6MCAHW55ItVjgMROxT6Ckr",
+      "preview": "https://p.scdn.co/mp3-preview/40433e3270202def8d92d9395b9ab6ad6f237994?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ab6d5fd17b6d344cceb040820fd04166e7cfe145",
+      "release_date": "2008-02-14"
+    },
+    {
+      "featuredArtist": "Akrobatik",
+      "featuredArtistId": "2emuC245M2qQ9MPJgivLbm",
+      "trackName": "The Music Industry (Remix)",
+      "trackId": "6MCAHW55ItVjgMROxT6Ckr",
+      "preview": "https://p.scdn.co/mp3-preview/40433e3270202def8d92d9395b9ab6ad6f237994?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ab6d5fd17b6d344cceb040820fd04166e7cfe145",
+      "release_date": "2008-02-14"
+    },
+    {
+      "featuredArtist": "Yukmouth",
+      "featuredArtistId": "0ndMofuAPmTktjONZv20JL",
+      "trackName": "Wake They Game Up",
+      "trackId": "3BeuKYNgEsOLvYsF9uNSIl",
+      "preview": "https://p.scdn.co/mp3-preview/9a6dd6c321d0e99281309f91f2788d7dd5ca4ff5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ab6d5fd17b6d344cceb040820fd04166e7cfe145",
+      "release_date": "2008-02-14"
+    },
+    {
+      "featuredArtist": "Mic Moses",
+      "featuredArtistId": "6mYDhCsvItbUEAPKYvKFf0",
+      "trackName": "Act Like You Know",
+      "trackId": "5soiWnl1prA0tv37N0L4dq",
+      "preview": "https://p.scdn.co/mp3-preview/d5be437b5ae20da9c72d1698e691d2d7ef95f06a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ab6d5fd17b6d344cceb040820fd04166e7cfe145",
+      "release_date": "2008-02-14"
+    },
+    {
+      "featuredArtist": "Nino Bless",
+      "featuredArtistId": "0o32493qFObEidnHJwBZ5o",
+      "trackName": "Lift Em Up",
+      "trackId": "4uTHnj9NyOs3774vvy9DTr",
+      "preview": "https://p.scdn.co/mp3-preview/a082aa499b4fb5638138a516e10007eb621039d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9770b3238e288e90f3be41ef8381fab6cf2be4d9",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Teddy Benson",
+      "featuredArtistId": "66RHIKOKRkLgXtZko2i2Lr",
+      "trackName": "Legend Talk",
+      "trackId": "263odRwCs8qNLHszsPPxnB",
+      "preview": "https://p.scdn.co/mp3-preview/73f01959865f035d92b6f56adbb0ed1b16269619?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a37b73df91925d04b2b57fdb7cdcb765c9a4b9cb",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Spokewheel",
+      "featuredArtistId": "4pmR4EOIUsF7pWF1rUWUHO",
+      "trackName": "Easy Back It Up",
+      "trackId": "4LLwsnaIyyfBMwbuvI0EOw",
+      "preview": "https://p.scdn.co/mp3-preview/ac72ca7ba63b7c0b63c63f35c8c3851474a3fe5e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/299aebfce1c9b7dbfe8a377c0068a00c7b7a83aa",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Faincarter",
+      "featuredArtistId": "2WfwgkDHGpTYSvhIO7aRxW",
+      "trackName": "Bianca (feat. Aneesa Badshaw)",
+      "trackId": "6WeBJI9oBcPRzZn4G1MQL7",
+      "preview": "https://p.scdn.co/mp3-preview/7ebc63e04e5a4e44a875e25eedd5e7eb1e5de5c0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7fa63bc08b65ab1aee7b436a43097a5c34d1b659",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Aneesa Badshaw",
+      "featuredArtistId": "2sB5Avsn2tA5op1TxPscRQ",
+      "trackName": "Bianca (feat. Aneesa Badshaw)",
+      "trackId": "6WeBJI9oBcPRzZn4G1MQL7",
+      "preview": "https://p.scdn.co/mp3-preview/7ebc63e04e5a4e44a875e25eedd5e7eb1e5de5c0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7fa63bc08b65ab1aee7b436a43097a5c34d1b659",
+      "release_date": "2018-02-02"
+    }
+  ]
+}

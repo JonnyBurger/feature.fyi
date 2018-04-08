@@ -1,0 +1,23 @@
+{
+  "artistName": "Tomas Andersson Wij",
+  "features": [
+    {
+      "featuredArtist": "Ane Brun",
+      "featuredArtistId": "2L3kwZFd16zjHz9a5kEPAm",
+      "trackName": "Romantiken",
+      "trackId": "3uWrO0I338XeRbFMLxVWln",
+      "preview": "https://p.scdn.co/mp3-preview/a65b72df7c20cf22398ff5a0354858b1c615d6fc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/47b462e57b34e0f5ed3782c4023b71b2e9247ff6",
+      "release_date": "2012-01-23"
+    },
+    {
+      "featuredArtist": "Anna Ternheim",
+      "featuredArtistId": "6xSTQT32ZxLQPe37QIC308",
+      "trackName": "Spår (feat. Anna Ternheim)",
+      "trackId": "4HZjxQk6Ysy2KcDodvdWJB",
+      "preview": "https://p.scdn.co/mp3-preview/29a4d44de43b10b4b35bc25dee6fb75af0346e22?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d2ee769174f7d25fd978e9bb08fb3076613f002b",
+      "release_date": "2010-02-24"
+    }
+  ]
+}

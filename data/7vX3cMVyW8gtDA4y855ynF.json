@@ -1,0 +1,23 @@
+{
+  "artistName": "Rodrigo y Gabriela",
+  "features": [
+    {
+      "featuredArtist": "Oystein Greni",
+      "featuredArtistId": "3vBD8KO5WF61nG6DYN4FzZ",
+      "trackName": "Nature's Way (with Oystein Greni)",
+      "trackId": "0WIvH7BBYPyooA9CxvzKUw",
+      "preview": "https://p.scdn.co/mp3-preview/653878bd1c4897df66d94b2bb2efc1e451858d3a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9f53b74721cde7560166c8671946101a13ea74d5",
+      "release_date": "2014-04-25"
+    },
+    {
+      "featuredArtist": "C.U.B.A.",
+      "featuredArtistId": "2boRS9WnlAnAnzi9x9ZiCK",
+      "trackName": "Santo Domingo - Area 52 Version",
+      "trackId": "7CVRpcHkGpdbYwyA1CN7jk",
+      "preview": "https://p.scdn.co/mp3-preview/418d93d282ab44e560461ab406b04a567c8cca46?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a1303a732065fe33573bc0b411c9ceaa0ad5f1a9",
+      "release_date": "2012-03-13"
+    }
+  ]
+}

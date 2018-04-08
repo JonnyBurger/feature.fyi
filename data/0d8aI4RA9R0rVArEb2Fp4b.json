@@ -1,0 +1,41 @@
+{
+  "artistName": "Tom Gregory",
+  "features": [
+    {
+      "featuredArtist": "Sebastien",
+      "featuredArtistId": "173M6tvnbPT1Wp5ucD0uAS",
+      "trackName": "Losing Sleep - Sebastien Remix",
+      "trackId": "7DRtb5AMfVuR9bZlJaSDFE",
+      "preview": "https://p.scdn.co/mp3-preview/e35739f4a2fee69812509b435c6bb5277ffd6059?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/05e2828f9b0ba269e12d2b676b5642da19c4f17b",
+      "release_date": "2018-03-16"
+    },
+    {
+      "featuredArtist": "Marcapasos",
+      "featuredArtistId": "6QKeymKBlijyJhfOi1smqB",
+      "trackName": "Run to You - Marcapasos & Janosh Remix",
+      "trackId": "6QJgyxiGNQjJjFkr1dXD9U",
+      "preview": "https://p.scdn.co/mp3-preview/781cbddb99025ec2416436bf750795be8e2b50db?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5b413a2e74a8766cad2523910d6b760c6137c82d",
+      "release_date": "2017-11-21"
+    },
+    {
+      "featuredArtist": "Janosh",
+      "featuredArtistId": "4qIFGcn2qynocb33HsZ3h9",
+      "trackName": "Run to You - Marcapasos & Janosh Remix",
+      "trackId": "6QJgyxiGNQjJjFkr1dXD9U",
+      "preview": "https://p.scdn.co/mp3-preview/781cbddb99025ec2416436bf750795be8e2b50db?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5b413a2e74a8766cad2523910d6b760c6137c82d",
+      "release_date": "2017-11-21"
+    },
+    {
+      "featuredArtist": "Neptunica",
+      "featuredArtistId": "5dGsIOepO9ufQlXjW8KrPL",
+      "trackName": "Run to You - Neptunica Remix",
+      "trackId": "0MXBSiXqVNWxe1ix7ru41X",
+      "preview": "https://p.scdn.co/mp3-preview/7c51760a966d7660c2fab309cfd6729a7eb12346?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b57b78a73e0e97b86f4317cf115fe8fe120542a6",
+      "release_date": "2017-11-17"
+    }
+  ]
+}

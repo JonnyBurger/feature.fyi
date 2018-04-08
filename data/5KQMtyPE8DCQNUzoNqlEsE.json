@@ -1,0 +1,32 @@
+{
+  "artistName": "Gary Numan",
+  "features": [
+    {
+      "featuredArtist": "Ade Fenton",
+      "featuredArtistId": "25JHD76ldB1K0pOvBTFoSy",
+      "trackName": "The Train",
+      "trackId": "79gSJAeTPfxiVIAQqjP4iJ",
+      "preview": "https://p.scdn.co/mp3-preview/3b7440ed98a53b9134bbad5736fc81c19d901569?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3658f28c510ad138d5d0b304d0267e2661c2de17",
+      "release_date": "2014"
+    },
+    {
+      "featuredArtist": "Officers",
+      "featuredArtistId": "2J1lLtwI0wMmSXHpFy68B7",
+      "trackName": "Petals",
+      "trackId": "0QFR90nBQn6uJKRhRT3kDc",
+      "preview": "https://p.scdn.co/mp3-preview/a5770ba19a1ae67d1cbcd67b719dcf2799241708?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/54bebe487cb96e09845803692607f7c47f95bced",
+      "release_date": "2013-04-08"
+    },
+    {
+      "featuredArtist": "Tubeway Army",
+      "featuredArtistId": "6SXZyMIzYNNfZ3NFQc3vtv",
+      "trackName": "Oh! 2025",
+      "trackId": "0tuXyKGG0s7PgLyscv2NNF",
+      "preview": "https://p.scdn.co/mp3-preview/121c9c805c08fb56f27d7f4207dd4f03d262798f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/311b10860432a133540eb4a714269aced77f6467",
+      "release_date": "2012-03-20"
+    }
+  ]
+}

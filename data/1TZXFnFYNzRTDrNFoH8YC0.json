@@ -1,0 +1,23 @@
+{
+  "artistName": "Roberto Tapia",
+  "features": [
+    {
+      "featuredArtist": "Enigma Norteño",
+      "featuredArtistId": "3441uYrkzgTWwjXLd13R0U",
+      "trackName": "La Charla",
+      "trackId": "5gfBFJ22R7InG6n29vg1qo",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f86df9ab46669aa13f3e5da8c174f20e0bf615af",
+      "release_date": "2015-05-04"
+    },
+    {
+      "featuredArtist": "Larry Hernández",
+      "featuredArtistId": "6djNDzSg08mnh2Ayoh6Ovn",
+      "trackName": "El Gallo De Sinaloa",
+      "trackId": "17l4S9MGLvtnq3puJ2rAST",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1fe3ec0b1444d518a6fec603b374e9aeb4739576",
+      "release_date": "2013-01-01"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "artistName": "Gulddreng",
+  "features": [
+    {
+      "featuredArtist": "estrad",
+      "featuredArtistId": "2Osj5g9VkHReOlZgfoEQao",
+      "trackName": "Sverige",
+      "trackId": "1qVAi8h8aVcdobzYZsvMDq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/63958348fd948e86de68dd0eed93e8995c1f6154",
+      "release_date": "2017-12-31"
+    },
+    {
+      "featuredArtist": "Delahoia",
+      "featuredArtistId": "4roNMGpLpyHwrVYRDEnzgK",
+      "trackName": "Under Vand",
+      "trackId": "5yZnZ6cXdkTIMNzrI458bp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/63958348fd948e86de68dd0eed93e8995c1f6154",
+      "release_date": "2017-12-31"
+    },
+    {
+      "featuredArtist": "Skinz",
+      "featuredArtistId": "323gjVOWgnKGW3VuT8VKTx",
+      "trackName": "Legende",
+      "trackId": "2ZAJVpLD8qmXK5UvWb4Yks",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9cd7c0dee4e641295487ac57f840e78fee039440",
+      "release_date": "2017-06-01"
+    }
+  ]
+}

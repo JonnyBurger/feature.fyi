@@ -1,0 +1,41 @@
+{
+  "artistName": "Carmen Twillie",
+  "features": [
+    {
+      "featuredArtist": "Elton John",
+      "featuredArtistId": "3PhoLpVuITZKcymswpck5b",
+      "trackName": "Circle of Life",
+      "trackId": "3siGeXMfjLObABBe8gS1My",
+      "preview": "https://p.scdn.co/mp3-preview/ddc84af7191843ac1c596ab0a3ad0e3a872514eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4005d1d36d77d09ddbd3af5e655b2085ad349cf0",
+      "release_date": "2017-09-20"
+    },
+    {
+      "featuredArtist": "Lebo M.",
+      "featuredArtistId": "0zp9qNDSeYi3QEodhcKAAA",
+      "trackName": "Circle of Life",
+      "trackId": "3siGeXMfjLObABBe8gS1My",
+      "preview": "https://p.scdn.co/mp3-preview/ddc84af7191843ac1c596ab0a3ad0e3a872514eb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4005d1d36d77d09ddbd3af5e655b2085ad349cf0",
+      "release_date": "2017-09-20"
+    },
+    {
+      "featuredArtist": "Lebo M and Hans Zimmer",
+      "featuredArtistId": "4BWXeLaqudPZTWpxIW2wPw",
+      "trackName": "サークル・オブ・ライフ",
+      "trackId": "5LdBnaUYToLjAZh0ePyYR7",
+      "preview": "https://p.scdn.co/mp3-preview/84293bcbe9412132b3f7f443c3e0c9aac8da26a7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f01a715acbe5b9beefba900b3ea4328298e12718",
+      "release_date": "2014-09-17"
+    },
+    {
+      "featuredArtist": "Hans Zimmer",
+      "featuredArtistId": "0YC192cP3KPCRWx8zr8MfZ",
+      "trackName": "アフリカの大地",
+      "trackId": "44zRBqbtwnZDBmQb2aAGdp",
+      "preview": "https://p.scdn.co/mp3-preview/3afffd2e7572dbf9899536401cb4e902f16ec5ba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f01a715acbe5b9beefba900b3ea4328298e12718",
+      "release_date": "2014-09-17"
+    }
+  ]
+}

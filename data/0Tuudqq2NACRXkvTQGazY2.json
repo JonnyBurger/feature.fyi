@@ -1,0 +1,23 @@
+{
+  "artistName": "Negrita",
+  "features": [
+    {
+      "featuredArtist": "Ensi",
+      "featuredArtistId": "6dKdNHGdsBvEeNDxXV8AMP",
+      "trackName": "Talkin' To You",
+      "trackId": "2SZ81uQLElc8xrAXdGpVuu",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1395a41f2974b0d9872e018e4758155bf9dffcc1",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Juanes",
+      "featuredArtistId": "0UWZUmn7sybxMCqrw9tGa7",
+      "trackName": "Gioia Infinita - Soul Mix",
+      "trackId": "4TIaE7MjiDCqwUodGZQ4zA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7d5323af80b6ffc4db4be65168dd3a1a9380ff5c",
+      "release_date": "2009-12-04"
+    }
+  ]
+}

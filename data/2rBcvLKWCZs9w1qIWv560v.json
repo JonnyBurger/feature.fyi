@@ -1,0 +1,41 @@
+{
+  "artistName": "Charlotte Gainsbourg",
+  "features": [
+    {
+      "featuredArtist": "Serge Gainsbourg",
+      "featuredArtistId": "01C9OoXDvCKkGcf735Tcfo",
+      "trackName": "Charlotte For Ever",
+      "trackId": "3TkjtWiIOUFB4TPTw8skFY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8dd8732599f048f4b44c7698087267a5a3dee14a",
+      "release_date": "1986"
+    },
+    {
+      "featuredArtist": "Tensnake",
+      "featuredArtistId": "75nC6MXUalYZSOd7OfNkwq",
+      "trackName": "Sylvia Says - Tensnake Remix",
+      "trackId": "1tNGa5NDBaKOQPfQ6oKBJc",
+      "preview": "https://p.scdn.co/mp3-preview/49f2735361310dbbbe8d25297e660e4f19b53b7b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ead0bf4fc819ee6d11298334b2c18fe9bf6ef6c8",
+      "release_date": "2018-03-12"
+    },
+    {
+      "featuredArtist": "Sebastian",
+      "featuredArtistId": "5tOWIviwLM1EIqGAbF8VSU",
+      "trackName": "Ring-A-Ring O' Roses - SebastiAn \"On The Beat\" Remix",
+      "trackId": "1eumBQmvAAuPV9xQrj6Fsw",
+      "preview": "https://p.scdn.co/mp3-preview/82c9a83bc12c9ea16c4845fcdb1b5354b9c47e24?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d9ee62cb54f76c458b792fe4f9be32e05a3fc3c2",
+      "release_date": "2018-02-12"
+    },
+    {
+      "featuredArtist": "Soulwax",
+      "featuredArtistId": "43mWhBXSflupNLuNjM5vff",
+      "trackName": "Deadly Valentine - Soulwax Remix",
+      "trackId": "58josH2d6dRcXbJeowd0gx",
+      "preview": "https://p.scdn.co/mp3-preview/7fcda6aa3b5fc9f450397eb5b1e97957132c405a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f27184ca5596b6090e334aecfd267cd3fac82354",
+      "release_date": "2017-11-10"
+    }
+  ]
+}

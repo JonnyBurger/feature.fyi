@@ -1,0 +1,59 @@
+{
+  "artistName": "Gianna Nannini",
+  "features": [
+    {
+      "featuredArtist": "Jovanotti",
+      "featuredArtistId": "7tmMPdOmFvdRvbj2aWoiRi",
+      "trackName": "Radio Baccano",
+      "trackId": "1ON2sa6XffFxX6N9gRbx19",
+      "preview": "https://p.scdn.co/mp3-preview/58e21e90dcc65bdd4070418d84abe3045d89ff58?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e73751799b953cca3d58472a0c47f532684baf6c",
+      "release_date": "2015-10-30"
+    },
+    {
+      "featuredArtist": "Edoardo Bennato",
+      "featuredArtistId": "7AWtkwVftjGXkoCIEvI7fW",
+      "trackName": "Un'estate italiana - Giorgio Moroder Remix 2014 - Choir Version",
+      "trackId": "7i7TLdWJhR0kI4wEQhI3NQ",
+      "preview": "https://p.scdn.co/mp3-preview/e93da05bb67763ea8d607ab07eea4163c7e49888?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cf50580e983b2bb14a990d06bbccf12a3700d378",
+      "release_date": "2014-06-03"
+    },
+    {
+      "featuredArtist": "Fabri Fibra",
+      "featuredArtistId": "7u710e44HW3K7A5eTnRqHC",
+      "trackName": "Siamo Nella Merda",
+      "trackId": "2TOuwWdcL4ZbcOduVMtJf9",
+      "preview": "https://p.scdn.co/mp3-preview/25a4a4e83bf9ea145cce02813140a38fa66320f4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4b53d23afeec9881e6f8f15aa7adc169ab0fcc3",
+      "release_date": "2009-11-27"
+    },
+    {
+      "featuredArtist": "Giorgia",
+      "featuredArtistId": "0gm1lHoOXAdy5OB4AwFYRr",
+      "trackName": "Salvami",
+      "trackId": "6Q5U2hmwd4IjMa6STRkOQ6",
+      "preview": "https://p.scdn.co/mp3-preview/94e728935a96ce3c864e6b5ff5261135ea9872ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a4b53d23afeec9881e6f8f15aa7adc169ab0fcc3",
+      "release_date": "2009-11-27"
+    },
+    {
+      "featuredArtist": "Paolo Conte",
+      "featuredArtistId": "7bAIYB0KGbYXlGbIjyFAcI",
+      "trackName": "Elisir",
+      "trackId": "0sVMx7VVuzYvXOrXwSgGBZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7d1f5c8cb3d9db005c68c1dac16b112f690952ee",
+      "release_date": "2007-11-16"
+    },
+    {
+      "featuredArtist": "Avion Travel",
+      "featuredArtistId": "3HjYvkEwDu1mFTFIitTchv",
+      "trackName": "Elisir",
+      "trackId": "0sVMx7VVuzYvXOrXwSgGBZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7d1f5c8cb3d9db005c68c1dac16b112f690952ee",
+      "release_date": "2007-11-16"
+    }
+  ]
+}

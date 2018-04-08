@@ -1,0 +1,599 @@
+{
+  "artistName": "Santa RM",
+  "features": [
+    {
+      "featuredArtist": "Seven",
+      "featuredArtistId": "0TLZsckZaejpza6cQatASq",
+      "trackName": "En el Mismo Sitio",
+      "trackId": "5u7ZR7OxlPPOvfyvEWwG9d",
+      "preview": "https://p.scdn.co/mp3-preview/4ad4fffb63cd3f841d0632584e073dfaae5de0d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7c017e9b7e9b632ec476be22f7809eb9024811d7",
+      "release_date": "2017-11-06"
+    },
+    {
+      "featuredArtist": "El Bezea",
+      "featuredArtistId": "1zMLgtidmdrFlJ8XaCEKea",
+      "trackName": "Todo a Cambiado",
+      "trackId": "4ilvUQqMbbu3oMFBYEtnjZ",
+      "preview": "https://p.scdn.co/mp3-preview/a94ac74397f3f50ca34ae2ee0dd3c4093737da8e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7c017e9b7e9b632ec476be22f7809eb9024811d7",
+      "release_date": "2017-11-06"
+    },
+    {
+      "featuredArtist": "Franco Escamila",
+      "featuredArtistId": "6aGoLPx55Of7umQLzkqPr1",
+      "trackName": "Sin Rencores (Remix)",
+      "trackId": "7rrBkVKcfc674uPTJnyQlV",
+      "preview": "https://p.scdn.co/mp3-preview/d64b6069b66b1f06eed527be1ae86afc8cc04a77?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7c017e9b7e9b632ec476be22f7809eb9024811d7",
+      "release_date": "2017-11-06"
+    },
+    {
+      "featuredArtist": "Santaflow",
+      "featuredArtistId": "3uvTa6pDzj0T6EfMslXOCs",
+      "trackName": "Conquistame",
+      "trackId": "1v3JUf1CPQH2iKkYCDAi4o",
+      "preview": "https://p.scdn.co/mp3-preview/4200b18afdfa6841f562e31362f65a17fad1e7ff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/407a0d76d213ef2a3549670bb952da6ddfcc48f9",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Norykko",
+      "featuredArtistId": "5xX9fBFLbqn0pYSFZ7qVcA",
+      "trackName": "Conquistame",
+      "trackId": "1v3JUf1CPQH2iKkYCDAi4o",
+      "preview": "https://p.scdn.co/mp3-preview/4200b18afdfa6841f562e31362f65a17fad1e7ff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/407a0d76d213ef2a3549670bb952da6ddfcc48f9",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Silhaz",
+      "featuredArtistId": "6g09c3dZ5W1uotOyzLXPme",
+      "trackName": "Reguestyla",
+      "trackId": "7p4MIR82fjo6iTKlACDMI5",
+      "preview": "https://p.scdn.co/mp3-preview/09ab04f6f794d75017f78d7a08523ecccf06855e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/407a0d76d213ef2a3549670bb952da6ddfcc48f9",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Omega Rm",
+      "featuredArtistId": "2w9APsLh2HC4KEgDpAZVra",
+      "trackName": "Reguestyla",
+      "trackId": "7p4MIR82fjo6iTKlACDMI5",
+      "preview": "https://p.scdn.co/mp3-preview/09ab04f6f794d75017f78d7a08523ecccf06855e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/407a0d76d213ef2a3549670bb952da6ddfcc48f9",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Eneyser",
+      "featuredArtistId": "07B0GRdqLzTptVcXcBSwR9",
+      "trackName": "Killers",
+      "trackId": "3EdeIRkF8f62EDbzZ5O08T",
+      "preview": "https://p.scdn.co/mp3-preview/ef773b5cdbe8144b93f5cec150b0f942ac6d942b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/407a0d76d213ef2a3549670bb952da6ddfcc48f9",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Elley",
+      "featuredArtistId": "5qybIVccGcmOhFxQUlVO7m",
+      "trackName": "Rap en la Sangre",
+      "trackId": "4e0xJKQ8YBTcAFQRTD3V5A",
+      "preview": "https://p.scdn.co/mp3-preview/3e48c8696c7eafcbbb24186b843ed10c858e36b9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/407a0d76d213ef2a3549670bb952da6ddfcc48f9",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Crox",
+      "featuredArtistId": "1PHCHfSn29yC3fxEd9D8ge",
+      "trackName": "Por Que",
+      "trackId": "1Klzt91WCcolE6ZPspGcio",
+      "preview": "https://p.scdn.co/mp3-preview/e8a8f9c0a4116cc293e487992c1f5d408483abab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/407a0d76d213ef2a3549670bb952da6ddfcc48f9",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Mudo",
+      "featuredArtistId": "0aqtyp1txdIvacUBDq51Fr",
+      "trackName": "Por Que",
+      "trackId": "1Klzt91WCcolE6ZPspGcio",
+      "preview": "https://p.scdn.co/mp3-preview/e8a8f9c0a4116cc293e487992c1f5d408483abab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/407a0d76d213ef2a3549670bb952da6ddfcc48f9",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Jh",
+      "featuredArtistId": "2bMJgeEIeggmVL1xDILHjG",
+      "trackName": "Manos al Cielo",
+      "trackId": "0Vo6osPKV2odpuxfcSlwvy",
+      "preview": "https://p.scdn.co/mp3-preview/5fed8777c2d22eb6d4c23ca5d4251d2e946d94fc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/407a0d76d213ef2a3549670bb952da6ddfcc48f9",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Ente",
+      "featuredArtistId": "0ceUrvjzA1fW1Xr4Ed6T0F",
+      "trackName": "Intento",
+      "trackId": "2YjjlBJ1SluJh5b03RSyHC",
+      "preview": "https://p.scdn.co/mp3-preview/e55796f23a72af7e7084c6ea1265de27ec8946ed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/407a0d76d213ef2a3549670bb952da6ddfcc48f9",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Danger Ak",
+      "featuredArtistId": "1a75MYhcwJ2R9mSOg11jfR",
+      "trackName": "Mas Alla de Tu Ventana",
+      "trackId": "5irv3KYFEHbghbbivx533T",
+      "preview": "https://p.scdn.co/mp3-preview/bfe86793ea749ac58c1742bc016756a66a445116?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/407a0d76d213ef2a3549670bb952da6ddfcc48f9",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Kaoz Rm",
+      "featuredArtistId": "7GWcFEkpRBMAYhUYTC1jkf",
+      "trackName": "Aunque Les Duela",
+      "trackId": "0F5dJHfpuJ6KjyviQpal2F",
+      "preview": "https://p.scdn.co/mp3-preview/ef550edbcb75e74fb1c102e85b67582fa8c9fc3e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/407a0d76d213ef2a3549670bb952da6ddfcc48f9",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Qunez",
+      "featuredArtistId": "0aNESsbMhR5v8Nm8Du6ajT",
+      "trackName": "No Pasa Nada",
+      "trackId": "3u48LL5tI90cuFxuSaOgL2",
+      "preview": "https://p.scdn.co/mp3-preview/05eede57daa8025cd93dbe8b76cb2f4e9d04b39a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/407a0d76d213ef2a3549670bb952da6ddfcc48f9",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "DJ Zera.",
+      "featuredArtistId": "5QfAnXgDhGuGRDGieV4Fft",
+      "trackName": "No Pasa Nada",
+      "trackId": "3u48LL5tI90cuFxuSaOgL2",
+      "preview": "https://p.scdn.co/mp3-preview/05eede57daa8025cd93dbe8b76cb2f4e9d04b39a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/407a0d76d213ef2a3549670bb952da6ddfcc48f9",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Smoky",
+      "featuredArtistId": "4aTs51jPdoHBcWryjlMWaA",
+      "trackName": "Ni Contigo Ni Sin Ti",
+      "trackId": "5YFVZdrQeQ0mhd8fwKtSP6",
+      "preview": "https://p.scdn.co/mp3-preview/a5c3f743a2b858f8aade3b51277b2cbd9e0410bf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e32c2893f5b279dd2993b0792cbce0fbf0735478",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Versenarios",
+      "featuredArtistId": "1MIOfkuD2ZlAWVvPNxX4zz",
+      "trackName": "No Eres Tu Soy Yo",
+      "trackId": "0BJzLa2cZwuVmxznrhMabf",
+      "preview": "https://p.scdn.co/mp3-preview/f50f8da4300642b0211e12981bf22cfc673eb30b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e32c2893f5b279dd2993b0792cbce0fbf0735478",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Bamby",
+      "featuredArtistId": "1fuooeJa0UywkC89lN5tl6",
+      "trackName": "Sin Ti No Se Quien Soy",
+      "trackId": "5uabpDSzFKegyKipYk5A2J",
+      "preview": "https://p.scdn.co/mp3-preview/46d789cc4d2b4967feac4585b05cca52851fc6b7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e32c2893f5b279dd2993b0792cbce0fbf0735478",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Mediko",
+      "featuredArtistId": "6VxDjdDUQsL4NSIH9ABoW5",
+      "trackName": "Triste Melodia",
+      "trackId": "4FhU5HtTXCnZ173V2eWugC",
+      "preview": "https://p.scdn.co/mp3-preview/c305422faf82f2323476037eb0f06d53fccd3812?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e32c2893f5b279dd2993b0792cbce0fbf0735478",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Acido",
+      "featuredArtistId": "6Q3QtlF9YuhlPmdN0RMyOi",
+      "trackName": "Triste Melodia",
+      "trackId": "4FhU5HtTXCnZ173V2eWugC",
+      "preview": "https://p.scdn.co/mp3-preview/c305422faf82f2323476037eb0f06d53fccd3812?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e32c2893f5b279dd2993b0792cbce0fbf0735478",
+      "release_date": "2017-04-12"
+    },
+    {
+      "featuredArtist": "Melodico",
+      "featuredArtistId": "0S6XZyWww6AyEUfk62wRJg",
+      "trackName": "Pasa el Tiempo (feat. Melodico)",
+      "trackId": "65dt06WRaRPdsahy2N3NNy",
+      "preview": "https://p.scdn.co/mp3-preview/9335716fa3481decc371657dedfc5304322be656?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "MC Davo",
+      "featuredArtistId": "3TGeuw7OmACouH5JAKkX7I",
+      "trackName": "Broma de Mal Gusto (feat. Mc Davo)",
+      "trackId": "3C4TW2ebO8MLfOaXDj07nD",
+      "preview": "https://p.scdn.co/mp3-preview/46758c7f2b8d4137a745a041f6fb107bb76e8128?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "Emanero",
+      "featuredArtistId": "2BTS8Np1YzPQuXjgdlqsBB",
+      "trackName": "No Voy a Rendirme (feat. Emanero & Soma)",
+      "trackId": "26dR1ov2ip3Leze84mu4eY",
+      "preview": "https://p.scdn.co/mp3-preview/22c0ca895fc8dfe63f373b26ca19e65b9d3b25ff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "Soma ",
+      "featuredArtistId": "7smYdZUg5fW1fWVCnb9HwO",
+      "trackName": "No Voy a Rendirme (feat. Emanero & Soma)",
+      "trackId": "26dR1ov2ip3Leze84mu4eY",
+      "preview": "https://p.scdn.co/mp3-preview/22c0ca895fc8dfe63f373b26ca19e65b9d3b25ff?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "Seven",
+      "featuredArtistId": "7geObRNd22rRBCd9F1Y62p",
+      "trackName": "En el Mismo Sitio (feat. Seven)",
+      "trackId": "0KjlpPuyEZiT5fJYOZHZp9",
+      "preview": "https://p.scdn.co/mp3-preview/a2534f7debfb383ee709ab863ee968b89f3d6020?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "Iluminatik",
+      "featuredArtistId": "0N6H5exnFMoW4yNQ3vDJ3Z",
+      "trackName": "Fast Mortem (feat. Iluminatik & Isusko)",
+      "trackId": "5wfAYda3KpTi3IFtzs2G3R",
+      "preview": "https://p.scdn.co/mp3-preview/95dabb503a1e63d507b6f9ba83608f65a0334867?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "Isusko",
+      "featuredArtistId": "7BnZdjRVdAA3zALtpzo9Cf",
+      "trackName": "Fast Mortem (feat. Iluminatik & Isusko)",
+      "trackId": "5wfAYda3KpTi3IFtzs2G3R",
+      "preview": "https://p.scdn.co/mp3-preview/95dabb503a1e63d507b6f9ba83608f65a0334867?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "El Momo",
+      "featuredArtistId": "7HhsUsekYDNFOeqiq54VbW",
+      "trackName": "Termino Medio (feat. El Momo & Bascur)",
+      "trackId": "4QY4e8paClR3k37Vr965g9",
+      "preview": "https://p.scdn.co/mp3-preview/db1c001285465f1a61e96cb6d52bd476589723b7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "Bascur",
+      "featuredArtistId": "1gr15bpTzqHwHxj9PVZf4N",
+      "trackName": "Termino Medio (feat. El Momo & Bascur)",
+      "trackId": "4QY4e8paClR3k37Vr965g9",
+      "preview": "https://p.scdn.co/mp3-preview/db1c001285465f1a61e96cb6d52bd476589723b7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "Los De La Puerta Norte",
+      "featuredArtistId": "2VcOy18muu9qnOeoBAJi3v",
+      "trackName": "PK2 Capitales (feat. Los De La Puerta Norte)",
+      "trackId": "0KC2etnBBD4jb7AdBo5Hvg",
+      "preview": "https://p.scdn.co/mp3-preview/7bdb081ee8f9fc5c7d84cc0276a63cf5af6535da?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "Afaz Natural",
+      "featuredArtistId": "6wcHZUQ0rNcvv35os6xUQA",
+      "trackName": "La de Mis Sueños (feat. Afaz Natural)",
+      "trackId": "2ILW5egbLpnf66vLkVmHem",
+      "preview": "https://p.scdn.co/mp3-preview/12dd9d5962ec7488396520b2f5920517083bacf8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "MATIKA",
+      "featuredArtistId": "26U5K6fiz5QrG8YztwnE5T",
+      "trackName": "Daño Colateral (feat. Matika)",
+      "trackId": "5ZdpbAyiln6FkCyZ6wyKOS",
+      "preview": "https://p.scdn.co/mp3-preview/bc9fd08554141df19a747b2d1ffe8850897a9217?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "Nanpa Básico",
+      "featuredArtistId": "1cUpGtXcSQsovNYEZOQgOG",
+      "trackName": "Loca (feat. Nanpa Basico)",
+      "trackId": "0S8QPgMQsSGlnsgNdurfnR",
+      "preview": "https://p.scdn.co/mp3-preview/ac1f0d1ac0192fc0fdc955271e6f4163064304bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "Miausone",
+      "featuredArtistId": "4GPw1ouyfD8HnmHdK5XMhJ",
+      "trackName": "Los Mas Buscados (Remix) [feat. Miausone, Buffon, Cryptic Wisdom, Isusko, Emanero, Aczino, SBRV, Soru, Hom, Abram, Nanpa Basico, TKilla, Lebron, Danger, Porta, Dj Akrylik & Dj Xino]",
+      "trackId": "0P8xbuYu6YbNYpUQSHwRYv",
+      "preview": "https://p.scdn.co/mp3-preview/67eace3fde3ae966f67a7ed453a5f729038ef374?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "Buffon",
+      "featuredArtistId": "389WCubOYxWd0ou6Sjko3E",
+      "trackName": "Los Mas Buscados (Remix) [feat. Miausone, Buffon, Cryptic Wisdom, Isusko, Emanero, Aczino, SBRV, Soru, Hom, Abram, Nanpa Basico, TKilla, Lebron, Danger, Porta, Dj Akrylik & Dj Xino]",
+      "trackId": "0P8xbuYu6YbNYpUQSHwRYv",
+      "preview": "https://p.scdn.co/mp3-preview/67eace3fde3ae966f67a7ed453a5f729038ef374?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "Cryptic Wisdom",
+      "featuredArtistId": "7aw9e2RH6ESJ7umES2UbsU",
+      "trackName": "Los Mas Buscados (Remix) [feat. Miausone, Buffon, Cryptic Wisdom, Isusko, Emanero, Aczino, SBRV, Soru, Hom, Abram, Nanpa Basico, TKilla, Lebron, Danger, Porta, Dj Akrylik & Dj Xino]",
+      "trackId": "0P8xbuYu6YbNYpUQSHwRYv",
+      "preview": "https://p.scdn.co/mp3-preview/67eace3fde3ae966f67a7ed453a5f729038ef374?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "Aczino",
+      "featuredArtistId": "4r1ZDYKzPt3iIjuq8LbT6X",
+      "trackName": "Los Mas Buscados (Remix) [feat. Miausone, Buffon, Cryptic Wisdom, Isusko, Emanero, Aczino, SBRV, Soru, Hom, Abram, Nanpa Basico, TKilla, Lebron, Danger, Porta, Dj Akrylik & Dj Xino]",
+      "trackId": "0P8xbuYu6YbNYpUQSHwRYv",
+      "preview": "https://p.scdn.co/mp3-preview/67eace3fde3ae966f67a7ed453a5f729038ef374?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "Sbrv",
+      "featuredArtistId": "3dRKhpTJ5A8U9QuYl1uvmZ",
+      "trackName": "Los Mas Buscados (Remix) [feat. Miausone, Buffon, Cryptic Wisdom, Isusko, Emanero, Aczino, SBRV, Soru, Hom, Abram, Nanpa Basico, TKilla, Lebron, Danger, Porta, Dj Akrylik & Dj Xino]",
+      "trackId": "0P8xbuYu6YbNYpUQSHwRYv",
+      "preview": "https://p.scdn.co/mp3-preview/67eace3fde3ae966f67a7ed453a5f729038ef374?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "Soru",
+      "featuredArtistId": "2LQLi7YeXvUiiGrLKVJjst",
+      "trackName": "Los Mas Buscados (Remix) [feat. Miausone, Buffon, Cryptic Wisdom, Isusko, Emanero, Aczino, SBRV, Soru, Hom, Abram, Nanpa Basico, TKilla, Lebron, Danger, Porta, Dj Akrylik & Dj Xino]",
+      "trackId": "0P8xbuYu6YbNYpUQSHwRYv",
+      "preview": "https://p.scdn.co/mp3-preview/67eace3fde3ae966f67a7ed453a5f729038ef374?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "HOM",
+      "featuredArtistId": "5xZ6YcZ69v2GD4RyGLmzsO",
+      "trackName": "Los Mas Buscados (Remix) [feat. Miausone, Buffon, Cryptic Wisdom, Isusko, Emanero, Aczino, SBRV, Soru, Hom, Abram, Nanpa Basico, TKilla, Lebron, Danger, Porta, Dj Akrylik & Dj Xino]",
+      "trackId": "0P8xbuYu6YbNYpUQSHwRYv",
+      "preview": "https://p.scdn.co/mp3-preview/67eace3fde3ae966f67a7ed453a5f729038ef374?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "Abram",
+      "featuredArtistId": "77JcIMJmNJpBchsYdXyeae",
+      "trackName": "Los Mas Buscados (Remix) [feat. Miausone, Buffon, Cryptic Wisdom, Isusko, Emanero, Aczino, SBRV, Soru, Hom, Abram, Nanpa Basico, TKilla, Lebron, Danger, Porta, Dj Akrylik & Dj Xino]",
+      "trackId": "0P8xbuYu6YbNYpUQSHwRYv",
+      "preview": "https://p.scdn.co/mp3-preview/67eace3fde3ae966f67a7ed453a5f729038ef374?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "T-Killa",
+      "featuredArtistId": "52QQ2BADyRwXsS8uqLu2Hl",
+      "trackName": "Los Mas Buscados (Remix) [feat. Miausone, Buffon, Cryptic Wisdom, Isusko, Emanero, Aczino, SBRV, Soru, Hom, Abram, Nanpa Basico, TKilla, Lebron, Danger, Porta, Dj Akrylik & Dj Xino]",
+      "trackId": "0P8xbuYu6YbNYpUQSHwRYv",
+      "preview": "https://p.scdn.co/mp3-preview/67eace3fde3ae966f67a7ed453a5f729038ef374?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "LeBRON",
+      "featuredArtistId": "3fNqxnozUktkK0fXmR0wTh",
+      "trackName": "Los Mas Buscados (Remix) [feat. Miausone, Buffon, Cryptic Wisdom, Isusko, Emanero, Aczino, SBRV, Soru, Hom, Abram, Nanpa Basico, TKilla, Lebron, Danger, Porta, Dj Akrylik & Dj Xino]",
+      "trackId": "0P8xbuYu6YbNYpUQSHwRYv",
+      "preview": "https://p.scdn.co/mp3-preview/67eace3fde3ae966f67a7ed453a5f729038ef374?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "Danger",
+      "featuredArtistId": "23TYM4mYLQjyJLr4x89MjH",
+      "trackName": "Los Mas Buscados (Remix) [feat. Miausone, Buffon, Cryptic Wisdom, Isusko, Emanero, Aczino, SBRV, Soru, Hom, Abram, Nanpa Basico, TKilla, Lebron, Danger, Porta, Dj Akrylik & Dj Xino]",
+      "trackId": "0P8xbuYu6YbNYpUQSHwRYv",
+      "preview": "https://p.scdn.co/mp3-preview/67eace3fde3ae966f67a7ed453a5f729038ef374?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "Porta",
+      "featuredArtistId": "2haGAHaVKYmJtlPtYtzYly",
+      "trackName": "Los Mas Buscados (Remix) [feat. Miausone, Buffon, Cryptic Wisdom, Isusko, Emanero, Aczino, SBRV, Soru, Hom, Abram, Nanpa Basico, TKilla, Lebron, Danger, Porta, Dj Akrylik & Dj Xino]",
+      "trackId": "0P8xbuYu6YbNYpUQSHwRYv",
+      "preview": "https://p.scdn.co/mp3-preview/67eace3fde3ae966f67a7ed453a5f729038ef374?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "Dj Akrylik",
+      "featuredArtistId": "4DpQwUtMbnw1jVj8Luu32p",
+      "trackName": "Los Mas Buscados (Remix) [feat. Miausone, Buffon, Cryptic Wisdom, Isusko, Emanero, Aczino, SBRV, Soru, Hom, Abram, Nanpa Basico, TKilla, Lebron, Danger, Porta, Dj Akrylik & Dj Xino]",
+      "trackId": "0P8xbuYu6YbNYpUQSHwRYv",
+      "preview": "https://p.scdn.co/mp3-preview/67eace3fde3ae966f67a7ed453a5f729038ef374?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "D.J. Xino",
+      "featuredArtistId": "3Z7oPIC7k5YojMGXeI0xtD",
+      "trackName": "Los Mas Buscados (Remix) [feat. Miausone, Buffon, Cryptic Wisdom, Isusko, Emanero, Aczino, SBRV, Soru, Hom, Abram, Nanpa Basico, TKilla, Lebron, Danger, Porta, Dj Akrylik & Dj Xino]",
+      "trackId": "0P8xbuYu6YbNYpUQSHwRYv",
+      "preview": "https://p.scdn.co/mp3-preview/67eace3fde3ae966f67a7ed453a5f729038ef374?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/49b115a7a98d611427510fc334b83094303d3dd9",
+      "release_date": "2016-07-02"
+    },
+    {
+      "featuredArtist": "KRYZ",
+      "featuredArtistId": "6oIDuk4dvtocITReSG81Kf",
+      "trackName": "La Cara B (feat. D.J. Xino)",
+      "trackId": "74b2aIxxDutjHsE1U0FZwU",
+      "preview": "https://p.scdn.co/mp3-preview/4c0b191a92384285228b3076545b3cda4bc07631?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e35ec7631d41c19740b322f218c3487cd715fe5",
+      "release_date": "2014-07-15"
+    },
+    {
+      "featuredArtist": "Dj Masae",
+      "featuredArtistId": "4qlHfDqjxlXnhFe9ySFrJZ",
+      "trackName": "Welcome 2 My Barrio (feat. D.J. Masae)",
+      "trackId": "4NymBoY7ntpKy6Szqz28kC",
+      "preview": "https://p.scdn.co/mp3-preview/803ed4cc81930d4756500b0defb99ce7a679e985?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e35ec7631d41c19740b322f218c3487cd715fe5",
+      "release_date": "2014-07-15"
+    },
+    {
+      "featuredArtist": "Marthin Mudo",
+      "featuredArtistId": "3j415mLIp2ALyktJxVyjLJ",
+      "trackName": "Musa (feat. Marthin Mudo)",
+      "trackId": "1xIXK3DUtJOSC3erlRfZXF",
+      "preview": "https://p.scdn.co/mp3-preview/35db020428545b68569254ca257c4005b9eac348?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e35ec7631d41c19740b322f218c3487cd715fe5",
+      "release_date": "2014-07-15"
+    },
+    {
+      "featuredArtist": "Niñoproblema",
+      "featuredArtistId": "7e1PfrHf7DHDDt2b64MAf9",
+      "trackName": "4 A.M. (feat. Niño Problema)",
+      "trackId": "6Naf9B7a6xiTEfzBGznKNq",
+      "preview": "https://p.scdn.co/mp3-preview/53d4d8c98c1baa2084936d9fbfd5d5c21a19d717?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e35ec7631d41c19740b322f218c3487cd715fe5",
+      "release_date": "2014-07-15"
+    },
+    {
+      "featuredArtist": "C-Kan",
+      "featuredArtistId": "1QhaqxeqF9sipS2gwbEKpu",
+      "trackName": "Dame una Hora (feat. C-Kan & Norykko)",
+      "trackId": "6YcwTiZB7tugWfnQbeIvo4",
+      "preview": "https://p.scdn.co/mp3-preview/7ceda394330f7c058800230f05e6a6be60472042?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e35ec7631d41c19740b322f218c3487cd715fe5",
+      "release_date": "2014-07-15"
+    },
+    {
+      "featuredArtist": "Clow MC",
+      "featuredArtistId": "4obeDXhE0IDi3nHPgtb6OM",
+      "trackName": "No Se en Que Te Falle (feat. Clow Mc)",
+      "trackId": "0C36h7RyV6LrT4YMzXe3ma",
+      "preview": "https://p.scdn.co/mp3-preview/aaeccab96ada7a71a16d2f5ee6d1482bd1190e31?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/755b9569c6beca884857e80e3091020d5733694c",
+      "release_date": "2012-05-21"
+    },
+    {
+      "featuredArtist": "Katres",
+      "featuredArtistId": "1o7EBDt6xdwYnljwlEFwvq",
+      "trackName": "Dejame en Paz (feat. Isusko & Katres)",
+      "trackId": "0YHLK9kYNTqsAkmkqE2dDt",
+      "preview": "https://p.scdn.co/mp3-preview/4868e7ee1ca17d3b58cd332f44be23549a4effd7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/755b9569c6beca884857e80e3091020d5733694c",
+      "release_date": "2012-05-21"
+    },
+    {
+      "featuredArtist": "Canibus",
+      "featuredArtistId": "2lQvoGjN6jJfsAkaywtgrB",
+      "trackName": "K.O. Masacre en Textos (feat. Canibus & D.J. Masae)",
+      "trackId": "6ChgElICJ0wiCklGka5aR5",
+      "preview": "https://p.scdn.co/mp3-preview/00d2891401c34d028c9c9dda47cfa57eb2366d46?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/755b9569c6beca884857e80e3091020d5733694c",
+      "release_date": "2012-05-21"
+    },
+    {
+      "featuredArtist": "Tankeone",
+      "featuredArtistId": "6CJ0EnASyencrooPZNBpaB",
+      "trackName": "Favor Con Favor (feat. Tanke One & Cynthia)",
+      "trackId": "1dZ9z2NFrP3yWrTCqjooyS",
+      "preview": "https://p.scdn.co/mp3-preview/b47cf9bf612c337b81eed25fae1ca9ffcde23f52?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/755b9569c6beca884857e80e3091020d5733694c",
+      "release_date": "2012-05-21"
+    },
+    {
+      "featuredArtist": "Cynthia",
+      "featuredArtistId": "3nqA4JV7u2zG7prO5RLlAC",
+      "trackName": "Favor Con Favor (feat. Tanke One & Cynthia)",
+      "trackId": "1dZ9z2NFrP3yWrTCqjooyS",
+      "preview": "https://p.scdn.co/mp3-preview/b47cf9bf612c337b81eed25fae1ca9ffcde23f52?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/755b9569c6beca884857e80e3091020d5733694c",
+      "release_date": "2012-05-21"
+    },
+    {
+      "featuredArtist": "Sharif",
+      "featuredArtistId": "01uCJn81JKt434uNWp9yjx",
+      "trackName": "Solo Poesia (feat. Sharif & Niño Problema)",
+      "trackId": "2mp0Fsl94Olu5CfSmyGFzV",
+      "preview": "https://p.scdn.co/mp3-preview/53e5179291ffccd719e5d54e7ebed34b715cf153?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/755b9569c6beca884857e80e3091020d5733694c",
+      "release_date": "2012-05-21"
+    },
+    {
+      "featuredArtist": "Eptos Uno",
+      "featuredArtistId": "3fo4UvMNzZUCFS90Roh5iK",
+      "trackName": "Fee Fi Fo",
+      "trackId": "2KLYT0INuXxgozvSRr3hw0",
+      "preview": "https://p.scdn.co/mp3-preview/77de7bef34db46368e839db11b32e6c89422d3cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c4cb76f62c945acdaaf628566296af73478c5ed3",
+      "release_date": "2018-01-25"
+    },
+    {
+      "featuredArtist": "A Manera De Cafe",
+      "featuredArtistId": "5jKSe9ReFZNoMlOW3b1pc0",
+      "trackName": "Me Quitaste el Sueño",
+      "trackId": "6DAFF7juKfmNHQR2NoZKzZ",
+      "preview": "https://p.scdn.co/mp3-preview/f3bcd32d4c329d5535b95fae0fb60ff1a8d3c5c3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f118f458dcb9b42cb2b8a14ff047beca45f9335e",
+      "release_date": "2017-04-14"
+    },
+    {
+      "featuredArtist": "Ill Mascaras",
+      "featuredArtistId": "10J3a6GsujuosUYXJ4DL5y",
+      "trackName": "Click Clack",
+      "trackId": "5ilrvJvWwhpzFZofVSH5cV",
+      "preview": "https://p.scdn.co/mp3-preview/e71609f11e7bfc05cbda0f049d8cec91ae95c139?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/82710e4100a7f4f177b3548965e2a34f44dc1e9b",
+      "release_date": "2017-03-15"
+    },
+    {
+      "featuredArtist": "Inyeccion Uve",
+      "featuredArtistId": "0g2RmfWQlhqhD6fRLeWLvL",
+      "trackName": "Estoy Contigo (feat. Inyeccion Uve)",
+      "trackId": "12d2nyrbpItXLwX6TlUZ0t",
+      "preview": "https://p.scdn.co/mp3-preview/aadc44f43c4a5c2498e2b4319ee9df3005556943?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/19fee7bc298b37ff1fa32df14f5bea77dfa71a8b",
+      "release_date": "2015-09-04"
+    },
+    {
+      "featuredArtist": "Porta",
+      "featuredArtistId": "49oH27EvnRJoRXfc8N7yPY",
+      "trackName": "Los Mas Buscados",
+      "trackId": "14KwTrkYfP9kh8NDN5TmHC",
+      "preview": "https://p.scdn.co/mp3-preview/e2e042fede5be321419dc8f89332c3627867e506?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c86e06804f1515b4b4f177d3906c4905c1c2ac9a",
+      "release_date": "2011"
+    },
+    {
+      "featuredArtist": "A manera de café",
+      "featuredArtistId": "5Qrl9dOHAjVzbiw1g40fD9",
+      "trackName": "Me Quitaste El Sueño (feat. Santa Rm)",
+      "trackId": "78xw35tXRde0HC6OXpms8X",
+      "preview": "https://p.scdn.co/mp3-preview/3fc15d6113c2cd00ac16efd92775c2901c49d21b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/574adc23769fc8b148875e1f41c33265297bd06e",
+      "release_date": "2017-11-27"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "artistName": "Enigma Norteño",
+  "features": [
+    {
+      "featuredArtist": "La Septima Banda",
+      "featuredArtistId": "610tJqABwgZWaRvtJoJQF0",
+      "trackName": "Batallándole",
+      "trackId": "746ntLgMtTmojzo6KETUTA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ad49876811ee1187cafd3e74cd24d104476eb1cc",
+      "release_date": "2017-10-20"
+    },
+    {
+      "featuredArtist": "Hijos De Barron",
+      "featuredArtistId": "32YGQsNtuwyobFFnn8ikpe",
+      "trackName": "El Chapo Guzmán",
+      "trackId": "2QsnEdM5Zlw8YHDxEZaZB0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e1dbd4ad1a438b8436eed336ef0042551d953d36",
+      "release_date": "2015-09-02"
+    },
+    {
+      "featuredArtist": "Regulo Caro",
+      "featuredArtistId": "0YRwUbRxrawmnBdixwJi5W",
+      "trackName": "Ya Saben Quién Es El Polo",
+      "trackId": "74oAuahz4E1IYnnw8tCSkk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e1dbd4ad1a438b8436eed336ef0042551d953d36",
+      "release_date": "2015-09-02"
+    }
+  ]
+}

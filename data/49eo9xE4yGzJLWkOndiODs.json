@@ -1,0 +1,158 @@
+{
+  "artistName": "Deichkind",
+  "features": [
+    {
+      "featuredArtist": "Herr Spiegelei",
+      "featuredArtistId": "2vFlaBEkd8zsswe41dY0m6",
+      "trackName": "Der Flohmarkt ruft",
+      "trackId": "1Wl6dsEXT76jBFgX9P4M52",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/40a0cd18d68b4dd7f87cb9a583cfbde20d21fe16",
+      "release_date": "2015-04-02"
+    },
+    {
+      "featuredArtist": "Slime",
+      "featuredArtistId": "12vN2Dsop9hTkjq5Xr3mf3",
+      "trackName": "Die rote Kiste",
+      "trackId": "78vze26GN1g5fie4e9dHuE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/803a4bca1404b88f4fa4a3adbb4522ef0ea28c86",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Der Tobi & Das Bo",
+      "featuredArtistId": "6xfiSOFKj4SRWIzca5zk1i",
+      "trackName": "Roll das Fass rein",
+      "trackId": "0bEOP4DKqxUugDYVAQxhhB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/803a4bca1404b88f4fa4a3adbb4522ef0ea28c86",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Bjørn",
+      "featuredArtistId": "7kHNI3iSVN1cZf6GEkStEy",
+      "trackName": "Hört ihr die Signale",
+      "trackId": "3serldiHzOUGgt0zZkptJ2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/30e348069e3a5fa75cf39f6cc9aa4735a411b4ed",
+      "release_date": "2008-01-01"
+    },
+    {
+      "featuredArtist": "Sarah Walker",
+      "featuredArtistId": "2JxDAansDComA20jQwvdpd",
+      "trackName": "Ich betäube mich",
+      "trackId": "6PiPPXzZpheJARdulwyckJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/79ddce5cc40304e53e6512209351d167300eba8c",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Porky",
+      "featuredArtistId": "2KfXFd1xJUrT4ZesWC6Cdh",
+      "trackName": "Jüjük",
+      "trackId": "3vG7C0OfGijUNYykPEWEPI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/79ddce5cc40304e53e6512209351d167300eba8c",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Mister Celebi",
+      "featuredArtistId": "6BM56VKe5we7qmshhk5zFu",
+      "trackName": "Jüjük",
+      "trackId": "3vG7C0OfGijUNYykPEWEPI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/79ddce5cc40304e53e6512209351d167300eba8c",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Das Bo",
+      "featuredArtistId": "0lP5aPV834goEtT6asKAek",
+      "trackName": "Prost",
+      "trackId": "0mfVtlTtg1CLWYLtv0xWIN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/79ddce5cc40304e53e6512209351d167300eba8c",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Nina",
+      "featuredArtistId": "0HYguwTeIwF1hy3eKcTiNz",
+      "trackName": "Bon Voyage (feat. Nina)",
+      "trackId": "4jaeRZRaBSlVkYAjWqrf7z",
+      "preview": "https://p.scdn.co/mp3-preview/69e9d5fc557f4d0fc28c39f15a9599b575d0312a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4365cd1f932068312127ac2289e4f99331ea6195",
+      "release_date": "2000-05-29"
+    },
+    {
+      "featuredArtist": "B. Ekambi im Tonofen",
+      "featuredArtistId": "3mUzz5Q3D39uV2uciVv2qC",
+      "trackName": "Kabeljau Inferno - Don Dougie Remix",
+      "trackId": "0MxGrESzMxaFjDprJ71lXm",
+      "preview": "https://p.scdn.co/mp3-preview/c1d8e5519f78c3451697dfa9c271a45a3042eeef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4365cd1f932068312127ac2289e4f99331ea6195",
+      "release_date": "2000-05-29"
+    },
+    {
+      "featuredArtist": "Hamburg",
+      "featuredArtistId": "3xAyWh8CVW3cvC4a5tmcuY",
+      "trackName": "Kabeljau Inferno - Don Dougie Remix",
+      "trackId": "0MxGrESzMxaFjDprJ71lXm",
+      "preview": "https://p.scdn.co/mp3-preview/c1d8e5519f78c3451697dfa9c271a45a3042eeef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4365cd1f932068312127ac2289e4f99331ea6195",
+      "release_date": "2000-05-29"
+    },
+    {
+      "featuredArtist": "Bintia",
+      "featuredArtistId": "1Q2q7VrUw5jDMUbzeM6rly",
+      "trackName": "Weit weg (feat. Bintia)",
+      "trackId": "5ABelOcfwtUOzfcrNmq3Dd",
+      "preview": "https://p.scdn.co/mp3-preview/9f3e79040373417e09972d2d5a86234eee293cf2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4365cd1f932068312127ac2289e4f99331ea6195",
+      "release_date": "2000-05-29"
+    },
+    {
+      "featuredArtist": "Maeckes",
+      "featuredArtistId": "5nVbdvU60t7C0JBruxsS26",
+      "trackName": "Partykirche - Deichkind Raymix",
+      "trackId": "4Wg7KgT37DhGs38QAFCdb0",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d17e7cb4d25f2016c7594ae522cc5b4556e6b0bd",
+      "release_date": "2017-10-18"
+    },
+    {
+      "featuredArtist": "Beatsteaks",
+      "featuredArtistId": "79qRD2IfSr3pmuYUficMWX",
+      "trackName": "L auf der Stirn (feat. Deichkind)",
+      "trackId": "1nGrPEOVfRL1Y9Lt7235kw",
+      "preview": "https://p.scdn.co/mp3-preview/81b92054b2be75f1b4a7bb84e7eeb07f6fcabcea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0cb84852d05ecd0f7a85b2d8678256f03646ecf0",
+      "release_date": "2017-09-01"
+    },
+    {
+      "featuredArtist": "Der Mann",
+      "featuredArtistId": "6pJazPyXsIioX1Uq1F33An",
+      "trackName": "Ich bin ein Mann - Deichkind Remix",
+      "trackId": "5JrHZCoQPnBSNt9S8ej8X3",
+      "preview": "https://p.scdn.co/mp3-preview/5ed638629a312f1cbcbef40719312568b5062322?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/941ed20bb6b05d6cb24be33285f9288aaa60c40f",
+      "release_date": "2015-06-19"
+    },
+    {
+      "featuredArtist": "Jack Beauregard",
+      "featuredArtistId": "7ey7AEzNLJDQTizkhhYsWN",
+      "trackName": "Silver Mine (Deichkind Remix)",
+      "trackId": "50SnE1VfXZWXh0opH1EbiA",
+      "preview": "https://p.scdn.co/mp3-preview/4dcdf253b2d150ac5c767d95829ca432af4cfc17?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d8667d2ca52bdd35c15ab53ec20940b370f5fc1",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Der König tanzt",
+      "featuredArtistId": "7vMOsG0RNZA7UXDmypFnX2",
+      "trackName": "Der König tanzt - Deichkind Remix",
+      "trackId": "4wwUzgPz9JT6bI5gQgOtES",
+      "preview": "https://p.scdn.co/mp3-preview/2388dd3542508fe58025813699cc888e1f4dbd46?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aca7faf382b5025597889eee441f0bf68e52e96e",
+      "release_date": "2012-07-06"
+    }
+  ]
+}

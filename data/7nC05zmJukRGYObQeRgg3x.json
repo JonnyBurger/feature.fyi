@@ -1,0 +1,32 @@
+{
+  "artistName": "Jack Savoretti",
+  "features": [
+    {
+      "featuredArtist": "Rose",
+      "featuredArtistId": "2z0IJ75fUUoHoO0MmqYAXC",
+      "trackName": "C'était juste hier (When We Were Lovers) [feat. Rose]",
+      "trackId": "5Mcal7wi1vXZosKU5U6P2N",
+      "preview": "https://p.scdn.co/mp3-preview/55b1aa1d979289c4881b6465e9094846462e640f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/35af5caff8b7cc5f5200ff01eaa3c098e979c801",
+      "release_date": "2017-03-31"
+    },
+    {
+      "featuredArtist": "Lissie",
+      "featuredArtistId": "3j4FHbC5zwmYGJ7r0ZgaMt",
+      "trackName": "Wasted",
+      "trackId": "3nBWEZ7mCtDLigUSE2nJvj",
+      "preview": "https://p.scdn.co/mp3-preview/8e1542ae934d1c801329dc7f00cc7ed45bbc316e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7c777adaff4465355b0784b5a4ae8f06ea7952fd",
+      "release_date": "2016-02-26"
+    },
+    {
+      "featuredArtist": "Alexander Brown",
+      "featuredArtistId": "7lbTzUBIc6BXQNFFvkTqIF",
+      "trackName": "Jack in a Box - Alexander Brown Version",
+      "trackId": "6vb1ce3NKX5qWyzrMJlEte",
+      "preview": "https://p.scdn.co/mp3-preview/acf81d66289766f99e3a54c511df67d7c0767289?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7c777adaff4465355b0784b5a4ae8f06ea7952fd",
+      "release_date": "2015-10-30"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "artistName": "John Farnham",
+  "features": [
+    {
+      "featuredArtist": "Olivia Newton-John",
+      "featuredArtistId": "4BoRxUdrcgbbq1rxJvvhg9",
+      "trackName": "Let It Snow! Let It Snow! Let It Snow!",
+      "trackId": "0jaBQ6ZOfNuCfOrmUJVTWn",
+      "preview": "https://p.scdn.co/mp3-preview/f10500fcaf55d542c45e32d8e4890ef25fa93ff5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/26fc10dea516d2c736062356667cac52a08acbae",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Queen",
+      "featuredArtistId": "1dfeR4HaWDbWqFHLkxsg1d",
+      "trackName": "We Will Rock You",
+      "trackId": "1t3BlIVvqQcL2nWIlJPJJf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/59f92718ec92646aa4ec7ffe33fabe77cc725161",
+      "release_date": "2003-10-17"
+    },
+    {
+      "featuredArtist": "Jimmy Barnes",
+      "featuredArtistId": "1k5aZWIOUbUfKcnMxtEivJ",
+      "trackName": "When Something Is Wrong with My Baby",
+      "trackId": "5vhSGl3zn5p5ypVQfSGQwf",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/59f92718ec92646aa4ec7ffe33fabe77cc725161",
+      "release_date": "2003-10-17"
+    },
+    {
+      "featuredArtist": "Kate Ceberano",
+      "featuredArtistId": "6E4eoLJTZYyIC5cZVg6fDx",
+      "trackName": "Everything's Alright",
+      "trackId": "4tS4de1Ly7rr56sMmgQo3D",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/59f92718ec92646aa4ec7ffe33fabe77cc725161",
+      "release_date": "2003-10-17"
+    },
+    {
+      "featuredArtist": "Jon Stevens",
+      "featuredArtistId": "30QTFUH0b7B75FCX7cC9ea",
+      "trackName": "Everything's Alright",
+      "trackId": "4tS4de1Ly7rr56sMmgQo3D",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/59f92718ec92646aa4ec7ffe33fabe77cc725161",
+      "release_date": "2003-10-17"
+    },
+    {
+      "featuredArtist": "Human Nature",
+      "featuredArtistId": "72BTmmAO3QfETWlFjwjfJ1",
+      "trackName": "Every Time You Cry",
+      "trackId": "7vmBC05BmutIi8hFp73tku",
+      "preview": "https://p.scdn.co/mp3-preview/e3e93c1122b922a14cd1771ca5b56c621d9e393d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/59f92718ec92646aa4ec7ffe33fabe77cc725161",
+      "release_date": "2003-10-17"
+    },
+    {
+      "featuredArtist": "Ross Wilson",
+      "featuredArtistId": "04tSi9ncTcnzJtZoRhvZRC",
+      "trackName": "A Touch of Paradise - Live at The Regent",
+      "trackId": "0nkL6hCXiUetrH792m1VJV",
+      "preview": "https://p.scdn.co/mp3-preview/476e79882e6b6ec9c6989f133b4c62abc5ed125a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45dd78e830c23eaf3cbf8b7bb00d139b27932ac7",
+      "release_date": "1999-08-30"
+    },
+    {
+      "featuredArtist": "Merril Bainbridge",
+      "featuredArtistId": "0lSDlT2Z5EvUGNIl7WQ7k0",
+      "trackName": "Burn for You - Live At The Regent",
+      "trackId": "0zju55pvDK64aoWuHNlLv5",
+      "preview": "https://p.scdn.co/mp3-preview/f9eb1b66eda3bfbfa20cee258d170a1f2b40fd50?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45dd78e830c23eaf3cbf8b7bb00d139b27932ac7",
+      "release_date": "1999-08-30"
+    },
+    {
+      "featuredArtist": "James Reyne",
+      "featuredArtistId": "4v0Hh2bdIAJnaUqAOipfYs",
+      "trackName": "Don't You Know It's Magic - Live At The Regent",
+      "trackId": "0OvQlCzdv4EpPPc9H588EA",
+      "preview": "https://p.scdn.co/mp3-preview/ad43382e7242968646dd405cf2c948ebe62ccc87?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/45dd78e830c23eaf3cbf8b7bb00d139b27932ac7",
+      "release_date": "1999-08-30"
+    }
+  ]
+}

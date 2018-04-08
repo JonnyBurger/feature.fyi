@@ -1,0 +1,50 @@
+{
+  "artistName": "Mike Faist",
+  "features": [
+    {
+      "featuredArtist": "Ben Platt",
+      "featuredArtistId": "6qGkLCMQkNGOJ079iEcC5k",
+      "trackName": "Sincerely, Me",
+      "trackId": "4nna9JONFIwr98bcX6tlta",
+      "preview": "https://p.scdn.co/mp3-preview/af7f01a298dbb8613f6e0c80d267cd1848855c32?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/09b6b9c97794250f1972e81fbbf70d5b06f4347a",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Will Roland",
+      "featuredArtistId": "2FYB9zfwe2ayj4zfNeh466",
+      "trackName": "Sincerely, Me",
+      "trackId": "4nna9JONFIwr98bcX6tlta",
+      "preview": "https://p.scdn.co/mp3-preview/af7f01a298dbb8613f6e0c80d267cd1848855c32?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/09b6b9c97794250f1972e81fbbf70d5b06f4347a",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Kristolyn Lloyd",
+      "featuredArtistId": "31Rv7Yk0rBrYdQ0ELNZDaR",
+      "trackName": "Disappear",
+      "trackId": "4VM6WUdnRnBv6cHAjyzxcK",
+      "preview": "https://p.scdn.co/mp3-preview/242b7542089a684c7e296e12666b77999d580b1d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/09b6b9c97794250f1972e81fbbf70d5b06f4347a",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Jennifer Laura Thompson",
+      "featuredArtistId": "3P8W0rYcexMlnGDDPoh5I3",
+      "trackName": "Disappear",
+      "trackId": "4VM6WUdnRnBv6cHAjyzxcK",
+      "preview": "https://p.scdn.co/mp3-preview/242b7542089a684c7e296e12666b77999d580b1d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/09b6b9c97794250f1972e81fbbf70d5b06f4347a",
+      "release_date": "2017-02-03"
+    },
+    {
+      "featuredArtist": "Original Broadway Cast of Dear Evan Hansen",
+      "featuredArtistId": "5bi4lyuj5ZrayYKlibl9ij",
+      "trackName": "Disappear",
+      "trackId": "4VM6WUdnRnBv6cHAjyzxcK",
+      "preview": "https://p.scdn.co/mp3-preview/242b7542089a684c7e296e12666b77999d580b1d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/09b6b9c97794250f1972e81fbbf70d5b06f4347a",
+      "release_date": "2017-02-03"
+    }
+  ]
+}

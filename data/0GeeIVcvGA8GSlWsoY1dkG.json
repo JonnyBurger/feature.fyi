@@ -1,0 +1,41 @@
+{
+  "artistName": "Vory",
+  "features": [
+    {
+      "featuredArtist": "Mike Stud",
+      "featuredArtistId": "5G9kmDLg3OeUyj8KVBLzbu",
+      "trackName": "Common",
+      "trackId": "4KjLGi2KhlhIF0QM1ztxGZ",
+      "preview": "https://p.scdn.co/mp3-preview/013270ad81ad4f78df71e2a9bcaa4530f5f9df8f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e68fa6011a23d82840eb3dc2dc7b2a3054580089",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Justine Skye",
+      "featuredArtistId": "0jUQSUOcM7lxVn5eVGTkzQ",
+      "trackName": "Know Myself",
+      "trackId": "0d8anwJJGti8jE79Y4tXUD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f12acc64ea8e078c97a9167eddf7696678e6abbc",
+      "release_date": "2018-02-14"
+    },
+    {
+      "featuredArtist": "BRIDGE",
+      "featuredArtistId": "05LTJdcIWfHyQXC1za07k8",
+      "trackName": "Brainwaves (feat. Vory)",
+      "trackId": "6hh5ihSr4DjwB2BfnzsE0A",
+      "preview": "https://p.scdn.co/mp3-preview/b34045210d161d11734f6ffbac0c8be581c8ecd4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/493d9b502f80d9f34fc498f1bed88b1f96f80476",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Tish Hyman",
+      "featuredArtistId": "6WzffCtFJ1iDsAwEV35h6K",
+      "trackName": "Catching a Vibe (feat. Vory)",
+      "trackId": "0kjnNVzdlfCrGsKknFHQjB",
+      "preview": "https://p.scdn.co/mp3-preview/f75efcc1373bd59259dd6d3a99082da45952ff90?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7624189c287e999179c973a2491287779512329a",
+      "release_date": "2017-10-20"
+    }
+  ]
+}

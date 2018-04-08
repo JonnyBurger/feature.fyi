@@ -1,0 +1,338 @@
+{
+  "artistName": "Jesse Boykins III",
+  "features": [
+    {
+      "featuredArtist": "Noname",
+      "featuredArtistId": "2dTLb3X4Zim5rRpx43E0BK",
+      "trackName": "Into You",
+      "trackId": "4JuEiOkGn2DtzeGXobAnmD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea5624ce38dc9df1d05f0247c5220b7aff534677",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "J*DaVeY",
+      "featuredArtistId": "7cL5uodbOiyotC8tOabLbo",
+      "trackName": "Mean Girls",
+      "trackId": "1UTC0B4ET2VI3HZXPwxrCM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea5624ce38dc9df1d05f0247c5220b7aff534677",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Kilo Kish",
+      "featuredArtistId": "7lsnwlX6puQ7lcpSEpJbZE",
+      "trackName": "Indie Girls",
+      "trackId": "1GZzcwqGmAPL2scoY2PdiN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea5624ce38dc9df1d05f0247c5220b7aff534677",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Little Simz",
+      "featuredArtistId": "6eXZu6O7nAUA5z6vLV8NKI",
+      "trackName": "Indie Girls",
+      "trackId": "1GZzcwqGmAPL2scoY2PdiN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea5624ce38dc9df1d05f0247c5220b7aff534677",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Melanie Fiona",
+      "featuredArtistId": "4O2YL4ygn6eTBC0w1hyWUM",
+      "trackName": "LArain",
+      "trackId": "2Qwv5Bkj5pZzvG7ef1bEjL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea5624ce38dc9df1d05f0247c5220b7aff534677",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Trinidad James",
+      "featuredArtistId": "0I5HubncQ8E1MFZOlPDY4J",
+      "trackName": "LArain",
+      "trackId": "2Qwv5Bkj5pZzvG7ef1bEjL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea5624ce38dc9df1d05f0247c5220b7aff534677",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Syd",
+      "featuredArtistId": "3jk39CGeaaSO3FPKNx1RUx",
+      "trackName": "Vegetables",
+      "trackId": "5MKrzCqnv7r8eq91uNvyCp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea5624ce38dc9df1d05f0247c5220b7aff534677",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Willow",
+      "featuredArtistId": "3rWZHrfrsPBxVy692yAIxF",
+      "trackName": "Vegetables",
+      "trackId": "5MKrzCqnv7r8eq91uNvyCp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea5624ce38dc9df1d05f0247c5220b7aff534677",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Audio Push",
+      "featuredArtistId": "3oHjuEyaFp7MddhOXddXbx",
+      "trackName": "Eye Of The Gentle Tiger",
+      "trackId": "4XM0Dy8qEYU9XgTKEboyJL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea5624ce38dc9df1d05f0247c5220b7aff534677",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Alex Isley",
+      "featuredArtistId": "7E2ioKxoxI2J94tUkIx6As",
+      "trackName": "Solar Sisters",
+      "trackId": "3IwKS78K5aIMFaOtytgMr8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea5624ce38dc9df1d05f0247c5220b7aff534677",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Bridget Kelly",
+      "featuredArtistId": "2hsun1GbceH62Hhcj7cp2V",
+      "trackName": "Solar Sisters",
+      "trackId": "3IwKS78K5aIMFaOtytgMr8",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea5624ce38dc9df1d05f0247c5220b7aff534677",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "DeJ Loaf",
+      "featuredArtistId": "7kFfY4UjNdNyaeUgLIEbIF",
+      "trackName": "Nobody On Jupiter",
+      "trackId": "2yBHkfnQqO507XXY8UZeva",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea5624ce38dc9df1d05f0247c5220b7aff534677",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Luke James",
+      "featuredArtistId": "4E7AV8mtElSjHZP3xA9kyU",
+      "trackName": "LikeMinded",
+      "trackId": "2MjcFBFGpxb2KOxfut9CJx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ea5624ce38dc9df1d05f0247c5220b7aff534677",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Theophilus London",
+      "featuredArtistId": "4EMtGVFvfCSrEmWaGV0roE",
+      "trackName": "Tell Me",
+      "trackId": "4a6esXogt9hrfwMGFaJ2Ly",
+      "preview": "https://p.scdn.co/mp3-preview/ca9e53ef30f8dfdfd70f17a60420dd712c555e6c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/67770526a7cde3d9b319c95f08031b483b3b86d5",
+      "release_date": "2014-11-18"
+    },
+    {
+      "featuredArtist": "Phonte",
+      "featuredArtistId": "5SyCTZ8X8YQCI0J1VRp4iC",
+      "trackName": "A Matter Of The Heart",
+      "trackId": "08YvkjKqzNmLxAr8GqfN0Y",
+      "preview": "https://p.scdn.co/mp3-preview/b5dd2e1bd41f8e4da1321774c369dc7065320758?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/67770526a7cde3d9b319c95f08031b483b3b86d5",
+      "release_date": "2014-11-18"
+    },
+    {
+      "featuredArtist": "Melo-X",
+      "featuredArtistId": "6AxHPycFTjxDROqK1pzsAE",
+      "trackName": "Zulu Guru",
+      "trackId": "12YaDppA8ifoTJsOivEy2M",
+      "preview": "https://p.scdn.co/mp3-preview/6ac708b09e875f59343ae2fd772b1f603efd9abf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/172ab3b9465a974536d2ed0fbf60718ebccef959",
+      "release_date": "2012-11-05"
+    },
+    {
+      "featuredArtist": "Trae Harris",
+      "featuredArtistId": "3qyNKpP6Kg0VvWytt4hNpG",
+      "trackName": "Zulu Guru",
+      "trackId": "12YaDppA8ifoTJsOivEy2M",
+      "preview": "https://p.scdn.co/mp3-preview/6ac708b09e875f59343ae2fd772b1f603efd9abf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/172ab3b9465a974536d2ed0fbf60718ebccef959",
+      "release_date": "2012-11-05"
+    },
+    {
+      "featuredArtist": "Kesed",
+      "featuredArtistId": "0lyNoXe4mlRZF49tXc94aM",
+      "trackName": "Zulu Guru",
+      "trackId": "0ubNQiX9ov5IpuwWb5h4HV",
+      "preview": "https://p.scdn.co/mp3-preview/1f0ce2bf1bd9c7413ebebb9523047992bf266329?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/172ab3b9465a974536d2ed0fbf60718ebccef959",
+      "release_date": "2012-11-05"
+    },
+    {
+      "featuredArtist": "Moruf",
+      "featuredArtistId": "5yWEsM9GHxzr7gVmxHIONn",
+      "trackName": "Change Of Heart (feat. MoRuf, Chris Turner)",
+      "trackId": "2mfKryo0MAgZcIlqRhkE6P",
+      "preview": "https://p.scdn.co/mp3-preview/e06b896461d44afe3f8ed941b5fa062557140e98?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f2ef352cf3a4958d7ad932586f11ed4851bc743",
+      "release_date": "2012-11-05"
+    },
+    {
+      "featuredArtist": "Chris Turner",
+      "featuredArtistId": "4EoSO1qJPLqUArQ4lt9VjA",
+      "trackName": "Change Of Heart (feat. MoRuf, Chris Turner)",
+      "trackId": "2mfKryo0MAgZcIlqRhkE6P",
+      "preview": "https://p.scdn.co/mp3-preview/e06b896461d44afe3f8ed941b5fa062557140e98?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f2ef352cf3a4958d7ad932586f11ed4851bc743",
+      "release_date": "2012-11-05"
+    },
+    {
+      "featuredArtist": "JoeKenneth",
+      "featuredArtistId": "7MWoUIZ1qPfvSp7jGYgUGB",
+      "trackName": "Schwaza (feat. JoeKenneth)",
+      "trackId": "48XcUWhZ3BoKl8FAlqHcn5",
+      "preview": "https://p.scdn.co/mp3-preview/152dc3a9895287fb7693830e2bb67df0b1bf363c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f2ef352cf3a4958d7ad932586f11ed4851bc743",
+      "release_date": "2012-11-05"
+    },
+    {
+      "featuredArtist": "Mara Hruby",
+      "featuredArtistId": "0T1ITvo373zVtx1PnoTv7A",
+      "trackName": "Primal Chance (feat. Mara Hruby, Jesse Boykins III)",
+      "trackId": "5Crs4dO3xTzUrCaJ0XV02R",
+      "preview": "https://p.scdn.co/mp3-preview/22df1f82c5ae812c66b1ed7fbf7830dafcc55d31?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f2ef352cf3a4958d7ad932586f11ed4851bc743",
+      "release_date": "2012-11-05"
+    },
+    {
+      "featuredArtist": "Ango",
+      "featuredArtistId": "3QNb55Y3V1SbqYQTUlc8FA",
+      "trackName": "Better For You (feat. Ango) - Remix",
+      "trackId": "2cRQZaiHAsr6KZS51IhPAe",
+      "preview": "https://p.scdn.co/mp3-preview/c6898c966718aa464e67ffed02b212a5a94b9c2b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f2ef352cf3a4958d7ad932586f11ed4851bc743",
+      "release_date": "2012-11-05"
+    },
+    {
+      "featuredArtist": "Street Etiquette",
+      "featuredArtistId": "5y4KNH3RsNZ41JT5IVNk2l",
+      "trackName": "Schwaza Culture (feat. Street Etiquette)",
+      "trackId": "74U7oUFkqJYLbAj9Gwg2OO",
+      "preview": "https://p.scdn.co/mp3-preview/0517ff46a19bfb2843ee6b34f69daaa0c9806fef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2f2ef352cf3a4958d7ad932586f11ed4851bc743",
+      "release_date": "2012-11-05"
+    },
+    {
+      "featuredArtist": "Devin the Poet",
+      "featuredArtistId": "31p3ne8grAkoe0yMBpsiq7",
+      "trackName": "Victoria",
+      "trackId": "15hMCj8HUOPkKhe7PtpP4G",
+      "preview": "https://p.scdn.co/mp3-preview/9a91a8d1de7d20e61e42f06aa03aa0c5851f7b89?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e6cd17b0b7d4feeaa7331e7d2f69b3fb3f649c1",
+      "release_date": "2008-11-25"
+    },
+    {
+      "featuredArtist": "Sinorice",
+      "featuredArtistId": "4Ed4QGJJ1BROcgpoeB8hxg",
+      "trackName": "Victoria",
+      "trackId": "15hMCj8HUOPkKhe7PtpP4G",
+      "preview": "https://p.scdn.co/mp3-preview/9a91a8d1de7d20e61e42f06aa03aa0c5851f7b89?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e6cd17b0b7d4feeaa7331e7d2f69b3fb3f649c1",
+      "release_date": "2008-11-25"
+    },
+    {
+      "featuredArtist": "Keys",
+      "featuredArtistId": "0BhGFS1Nrxvkwteebsqgt0",
+      "trackName": "Connected",
+      "trackId": "4cmcHHjR7o2UHaYVzz0aF9",
+      "preview": "https://p.scdn.co/mp3-preview/6bf17acf5f387f2535efec05af053f252f7c6232?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6e6cd17b0b7d4feeaa7331e7d2f69b3fb3f649c1",
+      "release_date": "2008-11-25"
+    },
+    {
+      "featuredArtist": "Rejjie Snow",
+      "featuredArtistId": "3lLHpTOJ11tWiUNGYN14gt",
+      "trackName": "PURPLE TUESDAY (feat. Joey Bada$$ & Jesse Boykins III)",
+      "trackId": "1pynf76l80VPFR8pEQRLOu",
+      "preview": "https://p.scdn.co/mp3-preview/86cf342f92d3af9242167b71d0db9ce3ee060f43?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/37ac3178c5b1f0a1dbc89982a1931807dd946576",
+      "release_date": "2017-05-10"
+    },
+    {
+      "featuredArtist": "Joey Bada$$",
+      "featuredArtistId": "2P5sC9cVZDToPxyomzF1UH",
+      "trackName": "PURPLE TUESDAY (feat. Joey Bada$$ & Jesse Boykins III)",
+      "trackId": "1pynf76l80VPFR8pEQRLOu",
+      "preview": "https://p.scdn.co/mp3-preview/86cf342f92d3af9242167b71d0db9ce3ee060f43?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/37ac3178c5b1f0a1dbc89982a1931807dd946576",
+      "release_date": "2017-05-10"
+    },
+    {
+      "featuredArtist": "Two Fresh",
+      "featuredArtistId": "5ESC2OBZSCOrkV9iNUdpOa",
+      "trackName": "Live Love",
+      "trackId": "5B7Zk0w24pSHfY4EMioJIz",
+      "preview": "https://p.scdn.co/mp3-preview/8a77dbe64b2b23df84468a82420334b3761007b5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5d117abbd6c13a5cb44f69b3b4ee5b3bfc453122",
+      "release_date": "2017-01-27"
+    },
+    {
+      "featuredArtist": "Damaged Goods",
+      "featuredArtistId": "0txPKco59Ikf29in2CeuEC",
+      "trackName": "Where Do You Go? (feat. Jesse Boykins III)",
+      "trackId": "0fIRG3TTfMm601Hy7Fprgi",
+      "preview": "https://p.scdn.co/mp3-preview/75016de2f0596859b0daa646218bedcb6b0fcf5c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/de53f0d57066d5516e1d43a98aa4316440fb3184",
+      "release_date": "2016-07-15"
+    },
+    {
+      "featuredArtist": "Peter CottonTale",
+      "featuredArtistId": "4mkGZGaUTIpyG1LnZ6nNIi",
+      "trackName": "Good Girl Loves Badmon",
+      "trackId": "7Czqf05hsejvhLlz96QtqR",
+      "preview": "https://p.scdn.co/mp3-preview/0b08d83a60482a42b39e34c91f3faeac7330fdea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/77040605c28ebec7fb09402eb4f26e0d2f7a3f4c",
+      "release_date": "2016-06-30"
+    },
+    {
+      "featuredArtist": "Donnie Trumpet",
+      "featuredArtistId": "7qbQOln6DZHcPm6l94PXU5",
+      "trackName": "Good Girl Loves Badmon",
+      "trackId": "7Czqf05hsejvhLlz96QtqR",
+      "preview": "https://p.scdn.co/mp3-preview/0b08d83a60482a42b39e34c91f3faeac7330fdea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/77040605c28ebec7fb09402eb4f26e0d2f7a3f4c",
+      "release_date": "2016-06-30"
+    },
+    {
+      "featuredArtist": "Let The Machines Do The Work",
+      "featuredArtistId": "6BidLCHOC4WNrw6Vr3EUvt",
+      "trackName": "The Rain",
+      "trackId": "5vTq7Yqa03UPvGxevHk70O",
+      "preview": "https://p.scdn.co/mp3-preview/f1ffa59eaf3480218a3dfcaff136728f5607a742?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5693b003938c0cc527d93f95dcb085b615234e2e",
+      "release_date": "2014-07-20"
+    },
+    {
+      "featuredArtist": "Anushka",
+      "featuredArtistId": "30kBWK3T10BVkU6WLSeody",
+      "trackName": "The Rain - Anushka Remix",
+      "trackId": "1bMFnMDUZBbB1Frh43YO6c",
+      "preview": "https://p.scdn.co/mp3-preview/a9dfdb5e0e6b396090087d9b627d48a9562f05f0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5693b003938c0cc527d93f95dcb085b615234e2e",
+      "release_date": "2014-07-20"
+    },
+    {
+      "featuredArtist": "Celsius",
+      "featuredArtistId": "7BD2PyBKBVgdSXHJ3sWGSG",
+      "trackName": "The Rain - Celsius Remix",
+      "trackId": "1T04X6IyvsArgQXBoZA595",
+      "preview": "https://p.scdn.co/mp3-preview/752d7eba6fdd1c354a9425f06dc481f07b59b940?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5693b003938c0cc527d93f95dcb085b615234e2e",
+      "release_date": "2014-07-20"
+    },
+    {
+      "featuredArtist": "Illyus & Barrientos",
+      "featuredArtistId": "6n5ccknvteaKfN4WA2qf3C",
+      "trackName": "The Rain - Illyus & Barrientos Remix",
+      "trackId": "61Qs5Vx3gtjykZsIUKjpcZ",
+      "preview": "https://p.scdn.co/mp3-preview/e35cf97e2a4949105df8edcab216a67a60bd28ab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5693b003938c0cc527d93f95dcb085b615234e2e",
+      "release_date": "2014-07-20"
+    }
+  ]
+}

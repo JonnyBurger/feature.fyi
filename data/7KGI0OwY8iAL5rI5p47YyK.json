@@ -1,0 +1,86 @@
+{
+  "artistName": "Tora",
+  "features": [
+    {
+      "featuredArtist": "Sam Lawrence",
+      "featuredArtistId": "0BKjca1pkv2L87KeiXSeVI",
+      "trackName": "Dope",
+      "trackId": "6w82LW75xATPQQamY1CZ7m",
+      "preview": "https://p.scdn.co/mp3-preview/38057d283b864c7091855859c66951a365fe692a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8001fc09a5f480ee8bcb3c66a6aae2254faa3b2f",
+      "release_date": "2017-06-09"
+    },
+    {
+      "featuredArtist": "Merryn Jeann",
+      "featuredArtistId": "6PwHyGcUfjwdjT9cdsaVWT",
+      "trackName": "Entity",
+      "trackId": "7hx9bBeFwQ1ogKORCFRJvx",
+      "preview": "https://p.scdn.co/mp3-preview/0a1171da5d4d42e70b42189d46b4aa4446ef928e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8001fc09a5f480ee8bcb3c66a6aae2254faa3b2f",
+      "release_date": "2017-06-09"
+    },
+    {
+      "featuredArtist": "Grace Pitts",
+      "featuredArtistId": "4ugFr36dry8wGrxxBQrz0A",
+      "trackName": "Bridges",
+      "trackId": "4KTiRfDeQy7O1CBU0UX1il",
+      "preview": "https://p.scdn.co/mp3-preview/9d0fac6ab830f2c66107f94225da2fd48a9dbbb4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8001fc09a5f480ee8bcb3c66a6aae2254faa3b2f",
+      "release_date": "2017-06-09"
+    },
+    {
+      "featuredArtist": "Merryn Jean",
+      "featuredArtistId": "5bqm9vErug02gTRi27cPv6",
+      "trackName": "Entity",
+      "trackId": "0x0REqvARHtjSgS38p5YLM",
+      "preview": "https://p.scdn.co/mp3-preview/6e903de65753747d66a560ac39e87231e0ad12bc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2cb57cca0667ef84935f8e3661d1e431e76c26d1",
+      "release_date": "2017-06-09"
+    },
+    {
+      "featuredArtist": "Merryn Jeann & Meals",
+      "featuredArtistId": "63re98s4w712ctQ9J3457o",
+      "trackName": "Never with Me",
+      "trackId": "6YiMzesv0oeYoGGWI3OKn1",
+      "preview": "https://p.scdn.co/mp3-preview/7cb9b9d0fc876961f2f0c1d581b0f405e6ef5fca?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a49601f387e50e6f1ce0ebe11b3b6ed8a0a5f6d6",
+      "release_date": "2015-09-25"
+    },
+    {
+      "featuredArtist": "Meals",
+      "featuredArtistId": "627RN412BkZOG6K9IZVxBX",
+      "trackName": "Never with Me",
+      "trackId": "2YxNGEPydzHgGtUVZ4JRIn",
+      "preview": "https://p.scdn.co/mp3-preview/74a3d0fb362a05e9b6768ef9b040a49b6f434f36?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/90a03252a6c441badc93d4ef601a201a8adf15b1",
+      "release_date": "2015-06-19"
+    },
+    {
+      "featuredArtist": "Galimatias",
+      "featuredArtistId": "0tOrKkXIn3VYyVHFEPG6Xd",
+      "trackName": "Jaigantic - Galimatias Remix",
+      "trackId": "1I7XCtIe49rcEzcmdu8AnD",
+      "preview": "https://p.scdn.co/mp3-preview/36507db706dc6073e4edc6d756688489a1945844?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/90a03252a6c441badc93d4ef601a201a8adf15b1",
+      "release_date": "2015-06-19"
+    },
+    {
+      "featuredArtist": "LEISURE",
+      "featuredArtistId": "7b04D0yLktCUpvxQBhmG7R",
+      "trackName": "Too Much - LEISURE Remix",
+      "trackId": "3GjmxF8eyuGEYn2tzfnxHb",
+      "preview": "https://p.scdn.co/mp3-preview/3fd0618875fb83a551d1f918f8b1eb34928c72cf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bc2b2fc4f0ddb133030884ac95a87df9a9d5f7a9",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Fortunes.",
+      "featuredArtistId": "2PDYCxCY5cmsjWE9Uk3LEm",
+      "trackName": "Too Much - Fortunes. Remix",
+      "trackId": "3hU30SElyXrTPDISXkQfWh",
+      "preview": "https://p.scdn.co/mp3-preview/604ff4146d46d380e0f5786142b9d36ad5111809?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ace67caa97d993689560415fe25c81b152b039e",
+      "release_date": "2018-01-19"
+    }
+  ]
+}

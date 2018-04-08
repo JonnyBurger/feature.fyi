@@ -1,0 +1,23 @@
+{
+  "artistName": "Jarvis Cocker",
+  "features": [
+    {
+      "featuredArtist": "Chilly Gonzales",
+      "featuredArtistId": "0qudezVgvl4Chd9BgNFB83",
+      "trackName": "Room 29",
+      "trackId": "1Av4JgWfiJOsHDAxVDfCZM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2459dc19ca7ba456c2a87714f0c981dcf6ca7b08",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Iggy Pop",
+      "featuredArtistId": "33EUXrFKGjpUSGacqEHhU4",
+      "trackName": "Red Right Hand",
+      "trackId": "5WBhTqcyiSEOoBCBcj9e22",
+      "preview": "https://p.scdn.co/mp3-preview/2071739eb6981b8cd5714ec792c3862350a53820?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/375222d67bbad250cd178f3bc67d2d4d90e07e51",
+      "release_date": "2017-12-13"
+    }
+  ]
+}

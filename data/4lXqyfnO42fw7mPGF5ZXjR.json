@@ -1,0 +1,518 @@
+{
+  "artistName": "Vacca",
+  "features": [
+    {
+      "featuredArtist": "Kerim",
+      "featuredArtistId": "2JPMzbP1GYb1pctVi3wXz7",
+      "trackName": "Polpette (feat. Kerim & Nashley)",
+      "trackId": "55Blxf8V4Pg4WmcYNzGf6J",
+      "preview": "https://p.scdn.co/mp3-preview/0fd236319eb1a6ceb83dd1144924d7e560d44473?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/04c2b79dc0feb3b398f058648c922971143875b0",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Nashley",
+      "featuredArtistId": "34PPDRm4hCvTPU3siPI2Ht",
+      "trackName": "Polpette (feat. Kerim & Nashley)",
+      "trackId": "55Blxf8V4Pg4WmcYNzGf6J",
+      "preview": "https://p.scdn.co/mp3-preview/0fd236319eb1a6ceb83dd1144924d7e560d44473?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/04c2b79dc0feb3b398f058648c922971143875b0",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Giaime",
+      "featuredArtistId": "4LaDtIlOmFx6CgJbfeGRmI",
+      "trackName": "Con tante (feat. Giaime)",
+      "trackId": "5878FyzTvwbDrjLOYmsaK2",
+      "preview": "https://p.scdn.co/mp3-preview/52f7d7d021c83d91161a575b43b7d97c460b1bca?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/04c2b79dc0feb3b398f058648c922971143875b0",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Amill Leonardo",
+      "featuredArtistId": "6O1mWUAaIrcMAXQAoNzpT5",
+      "trackName": "Madrelingua (feat. Amill Leonardo)",
+      "trackId": "4dD2NKqi60t3cyibiOBvQf",
+      "preview": "https://p.scdn.co/mp3-preview/13c39622f7586513fcc934b33521188a8746a98e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/04c2b79dc0feb3b398f058648c922971143875b0",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Jamil",
+      "featuredArtistId": "1BvLhDkql2F6d4G5aaajY2",
+      "trackName": "C'est la vie (feat. Jamil)",
+      "trackId": "0EpOBGfsrKR7AWXRFmYOAJ",
+      "preview": "https://p.scdn.co/mp3-preview/922db4e855e10c81a2fd62e49f1f37d0e4529798?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/04c2b79dc0feb3b398f058648c922971143875b0",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Inoki",
+      "featuredArtistId": "0jTII3lvlUB9pNeHXbc2RN",
+      "trackName": "Blood a blood (feat. Inoki)",
+      "trackId": "0YBV0kydQC4RlmIvWkDaGl",
+      "preview": "https://p.scdn.co/mp3-preview/140f76eb2c0783c27c380f0c3f6d1d0058c22338?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/04c2b79dc0feb3b398f058648c922971143875b0",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Ghile",
+      "featuredArtistId": "71BsKTcOysmFAxhvCSHgI2",
+      "trackName": "Vado vedo e prendo (feat. Ghile & Dium)",
+      "trackId": "7mYOD8yegHPxF5tMpk8qax",
+      "preview": "https://p.scdn.co/mp3-preview/cd9c53a2983b53028bb47a7b999baf91316a0dcd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/04c2b79dc0feb3b398f058648c922971143875b0",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "Dium",
+      "featuredArtistId": "0DOCRpygciQ0cTkWCJKnfZ",
+      "trackName": "Vado vedo e prendo (feat. Ghile & Dium)",
+      "trackId": "7mYOD8yegHPxF5tMpk8qax",
+      "preview": "https://p.scdn.co/mp3-preview/cd9c53a2983b53028bb47a7b999baf91316a0dcd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/04c2b79dc0feb3b398f058648c922971143875b0",
+      "release_date": "2018-01-19"
+    },
+    {
+      "featuredArtist": "El Koyote",
+      "featuredArtistId": "0brOXIoHWxRVH4KLWlQs6S",
+      "trackName": "Frate a me",
+      "trackId": "6KlvbliRgLlMMtSHkbOiWv",
+      "preview": "https://p.scdn.co/mp3-preview/727f7d7203cc000fc50f05ced862e71d29104c0a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41b945dc51ed3577e328d5d7ee4fa0bb3f8bf070",
+      "release_date": "2017-04-24"
+    },
+    {
+      "featuredArtist": "MBOSS",
+      "featuredArtistId": "5IHqA6YzPMGrf9CDjly4az",
+      "trackName": "Vienimi a prendere",
+      "trackId": "3UEJAIGMLBDKG7dQBVEMug",
+      "preview": "https://p.scdn.co/mp3-preview/71beef7ba064203adb683282961efb2685feb666?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/41b945dc51ed3577e328d5d7ee4fa0bb3f8bf070",
+      "release_date": "2017-04-24"
+    },
+    {
+      "featuredArtist": "Jamil",
+      "featuredArtistId": "6cZ1nz7SybjXgGNfQuFpvK",
+      "trackName": "Ne Voglio Di Più (feat. Jamil)",
+      "trackId": "1Pm7AMj0H5YKSOYxdPzyI2",
+      "preview": "https://p.scdn.co/mp3-preview/c98c85faeff58eea544f14d9fc441e8eb6ff6411?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c1cff8b78c3f7383b32d09a213d4e6eb05c4894b",
+      "release_date": "2017-01-26"
+    },
+    {
+      "featuredArtist": "Jesse Pinkman",
+      "featuredArtistId": "1MFv1grerCV4HhLPqrwtMe",
+      "trackName": "Poco (feat. Jesse Pinkman)",
+      "trackId": "6MU9N8NaOX1Xopid7HAb83",
+      "preview": "https://p.scdn.co/mp3-preview/f1fe4d3b02a9e67f8459a405a4aee626b727ec41?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c1cff8b78c3f7383b32d09a213d4e6eb05c4894b",
+      "release_date": "2017-01-26"
+    },
+    {
+      "featuredArtist": "loge",
+      "featuredArtistId": "0JmqZT0mCidi1b2OPL63I8",
+      "trackName": "Verità (feat. Loge)",
+      "trackId": "2PwM47OTQTNjzlY1Biz6UT",
+      "preview": "https://p.scdn.co/mp3-preview/56d723095ca77d8e04b08670651876c0b3043dea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c1cff8b78c3f7383b32d09a213d4e6eb05c4894b",
+      "release_date": "2017-01-26"
+    },
+    {
+      "featuredArtist": "Mosè Cov",
+      "featuredArtistId": "3IWXtAGmcpbcdcbz5ychXs",
+      "trackName": "Solo Andata (feat. Mosè Cov)",
+      "trackId": "2bke425adDHagM06Bxtg7p",
+      "preview": "https://p.scdn.co/mp3-preview/7625de31cedc840d2a5b95f8d389393e11c30727?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c1cff8b78c3f7383b32d09a213d4e6eb05c4894b",
+      "release_date": "2017-01-26"
+    },
+    {
+      "featuredArtist": "Melo",
+      "featuredArtistId": "6ZwHQBOxNak6mPvo7vh3i1",
+      "trackName": "Te Lo Immagini (feat. Melo)",
+      "trackId": "0rQWthki8o91n00pmMiOtA",
+      "preview": "https://p.scdn.co/mp3-preview/7a052ede33caca1c20862f67555b92503edb1a1e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c1cff8b78c3f7383b32d09a213d4e6eb05c4894b",
+      "release_date": "2017-01-26"
+    },
+    {
+      "featuredArtist": "Nerone",
+      "featuredArtistId": "63nn0POOc9eU8iMel9DdvQ",
+      "trackName": "D.F.W.U (feat. Nerone)",
+      "trackId": "3nZd9D9vuXtrQIQ18vqFB1",
+      "preview": "https://p.scdn.co/mp3-preview/5bdb2c2e0ea81c45b6baae586391ef7aef429c64?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c1cff8b78c3f7383b32d09a213d4e6eb05c4894b",
+      "release_date": "2017-01-26"
+    },
+    {
+      "featuredArtist": "Enrico Los Fastidios",
+      "featuredArtistId": "580lGA49xMOszHRt5FrFlo",
+      "trackName": "Manchi solo tu",
+      "trackId": "3oi6W1Z9eFCMzIzW9N9msq",
+      "preview": "https://p.scdn.co/mp3-preview/08ade91383f8d019405cc326e09acd93bc2419c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/92eda4a6205b669739949f260ba68815fa8deb34",
+      "release_date": "2015-10-09"
+    },
+    {
+      "featuredArtist": "Jake La Furia",
+      "featuredArtistId": "6JFRI91YaCXREGQYzHSnUH",
+      "trackName": "Trendsetter",
+      "trackId": "2PsyNZOEcAJgheb9QDWc5A",
+      "preview": "https://p.scdn.co/mp3-preview/393330fb177bed8f62bc0e50a15759e0e02b3757?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/92eda4a6205b669739949f260ba68815fa8deb34",
+      "release_date": "2015-10-09"
+    },
+    {
+      "featuredArtist": "Paskaman",
+      "featuredArtistId": "1bFb0ab6IQ5zMGgwtzWlCq",
+      "trackName": "Lead Neva Follow",
+      "trackId": "7dIohFMLwVnmjU2AaKis7Z",
+      "preview": "https://p.scdn.co/mp3-preview/21176017cd425d3d07bb67ef204d4789dc767302?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/92eda4a6205b669739949f260ba68815fa8deb34",
+      "release_date": "2015-10-09"
+    },
+    {
+      "featuredArtist": "Danti",
+      "featuredArtistId": "4zAJfp9POACU7sGK8EoMrl",
+      "trackName": "Revolution",
+      "trackId": "4wE0glDOqMyDRYNHYo6d09",
+      "preview": "https://p.scdn.co/mp3-preview/2ce7c3188a6ba5cb6d121e5499d09aa2650d1dd2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/92eda4a6205b669739949f260ba68815fa8deb34",
+      "release_date": "2015-10-09"
+    },
+    {
+      "featuredArtist": "Cali",
+      "featuredArtistId": "3FH0DBflIZm5CdZhTXhhB2",
+      "trackName": "Jordan",
+      "trackId": "5JokPM3V7n1Jcv4Qm97HtV",
+      "preview": "https://p.scdn.co/mp3-preview/faf9b3c5672ad1c15f97a8d7327e1fcada60eb47?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/92eda4a6205b669739949f260ba68815fa8deb34",
+      "release_date": "2015-10-09"
+    },
+    {
+      "featuredArtist": "Egreen",
+      "featuredArtistId": "4CSFu5TxKb1Z2GeO1LxZU4",
+      "trackName": "Aka",
+      "trackId": "1zkOVgLaHcvT94CHMXfxbA",
+      "preview": "https://p.scdn.co/mp3-preview/22b27f64ec62ddcc366e8809234bdd529a943aad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/92eda4a6205b669739949f260ba68815fa8deb34",
+      "release_date": "2015-10-09"
+    },
+    {
+      "featuredArtist": "T_Mo",
+      "featuredArtistId": "0LT7oynRzMKoEEW9HU5qM6",
+      "trackName": "Zoo Bwoy (feat. Tmo)",
+      "trackId": "79gUw8u0kd3KknJ7RWRibx",
+      "preview": "https://p.scdn.co/mp3-preview/ade8fd0601082237b19318e13c1ec2244839feb3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8fcea8c4b9f2a291c18de6f2920022170bfd9a89",
+      "release_date": "2015-03-16"
+    },
+    {
+      "featuredArtist": "Jay A",
+      "featuredArtistId": "1yPEvrZ7XrctoYZOa51C52",
+      "trackName": "Se Mi Cerchi (feat. Tmo & Jay A)",
+      "trackId": "6bJ3l82gq3sSe9SzLA10Wv",
+      "preview": "https://p.scdn.co/mp3-preview/947c9c30e4f4d23844ffd709aefc7cecc77fa1c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8fcea8c4b9f2a291c18de6f2920022170bfd9a89",
+      "release_date": "2015-03-16"
+    },
+    {
+      "featuredArtist": "J-Simms",
+      "featuredArtistId": "3TYmYOGqAxm79P97VJshjQ",
+      "trackName": "Non Posso Più Aspettare (feat. J. Simms)",
+      "trackId": "0DKbkTudrylCWbEE1nz6pq",
+      "preview": "https://p.scdn.co/mp3-preview/09ad6c421338837dd2808051de6cf9403d5867d4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8fcea8c4b9f2a291c18de6f2920022170bfd9a89",
+      "release_date": "2015-03-16"
+    },
+    {
+      "featuredArtist": "Rischio",
+      "featuredArtistId": "5jcX7wWbZVJ5EsfE5sNbgp",
+      "trackName": "Cambio TV (feat. Rischio)",
+      "trackId": "3lnJDvtptaNuHuH8hSU14F",
+      "preview": "https://p.scdn.co/mp3-preview/ed0d489a46a8832bf1ebe5e3b7917c944cc3a94e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8fcea8c4b9f2a291c18de6f2920022170bfd9a89",
+      "release_date": "2015-03-16"
+    },
+    {
+      "featuredArtist": "A&R",
+      "featuredArtistId": "1sgaoEE4ILGJKAMozA0o03",
+      "trackName": "Per I Lupi Miei (feat. a&R)",
+      "trackId": "5ALPtcCqpGQjBKcwNNpm62",
+      "preview": "https://p.scdn.co/mp3-preview/e1ece89686871d0791db4af0d5d2d5aa11a01fec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8fcea8c4b9f2a291c18de6f2920022170bfd9a89",
+      "release_date": "2015-03-16"
+    },
+    {
+      "featuredArtist": "Enmicasa",
+      "featuredArtistId": "4QRGGKYmQijORWY2yDYU40",
+      "trackName": "Come Noi (feat. Enmicasa)",
+      "trackId": "0LMPjx9jDwEJnhpkBz4pSo",
+      "preview": "https://p.scdn.co/mp3-preview/0b25df16cde09850230884d46795732e585156ad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8fcea8c4b9f2a291c18de6f2920022170bfd9a89",
+      "release_date": "2015-03-16"
+    },
+    {
+      "featuredArtist": "Emis Killa",
+      "featuredArtistId": "6FtwCmLY6L1sqvjaQ2lV6G",
+      "trackName": "Grazie A Nessuno",
+      "trackId": "3AQWQ3wGIEx0DYGp1KgBfh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3876fd3434f90cdf19ce68b5b98abdfa79a276cb",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Noyz Narcos",
+      "featuredArtistId": "49UAapOfpOg1ZOU4xf2NgY",
+      "trackName": "Un Altro Passo",
+      "trackId": "5TL347378f7LazvyrVj3v4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3876fd3434f90cdf19ce68b5b98abdfa79a276cb",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Giulie Battisti",
+      "featuredArtistId": "57A9AKHzXfx1wDhzEfEF36",
+      "trackName": "Resto Sempre Qui",
+      "trackId": "5m1M6LvtRKXWJXIUMKHQpw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3876fd3434f90cdf19ce68b5b98abdfa79a276cb",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Mondo Marcio",
+      "featuredArtistId": "6Fd10Q3sQq1NsvpFTlvMsN",
+      "trackName": "L'Ultima Volta",
+      "trackId": "0dg7FnLkQUOOYVdLD9OJ6S",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3876fd3434f90cdf19ce68b5b98abdfa79a276cb",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Madbuddy",
+      "featuredArtistId": "1tBJtWHAbcvZF9qfGwLp1J",
+      "trackName": "Mi No Born Rich",
+      "trackId": "60HvlkdoM8ybjRKS1C6ztC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/3876fd3434f90cdf19ce68b5b98abdfa79a276cb",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Kian Golden Bass",
+      "featuredArtistId": "0dneMeQs7Nec0sV6FJKQNs",
+      "trackName": "Intro (feat. Kian Golden Bass)",
+      "trackId": "32fPzPKc3SUxCjICfBRihx",
+      "preview": "https://p.scdn.co/mp3-preview/33d8927c01373f6b6a0f9516e731ec8899116d12?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1f769ddc0f1f306b9e84d3fb4581811f2ecee545",
+      "release_date": "2012-01-31"
+    },
+    {
+      "featuredArtist": "John Holt",
+      "featuredArtistId": "312pFk2xpEwYWLGPehc4Nu",
+      "trackName": "Number One (feat. John Holt)",
+      "trackId": "4QmDtYl7svJNPSXrruk60G",
+      "preview": "https://p.scdn.co/mp3-preview/544ea095a1e8dce59b739d8b1d7b6bf64d91c906?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1f769ddc0f1f306b9e84d3fb4581811f2ecee545",
+      "release_date": "2012-01-31"
+    },
+    {
+      "featuredArtist": "Babaman",
+      "featuredArtistId": "3iYwsCmyIpFw5GLKwL6V77",
+      "trackName": "One Blood (feat. Babaman)",
+      "trackId": "64YC52qcPdmmR7GUJHYwAQ",
+      "preview": "https://p.scdn.co/mp3-preview/4ec87ee768a4e94919fe1a9df92a9b05539478f3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1f769ddc0f1f306b9e84d3fb4581811f2ecee545",
+      "release_date": "2012-01-31"
+    },
+    {
+      "featuredArtist": "Divoice",
+      "featuredArtistId": "7pGRedPPJq8E1PuTlkCufj",
+      "trackName": "Trecentossessanta (feat. Divoice)",
+      "trackId": "6WXXbK2ZCVbTUqLIr5j83S",
+      "preview": "https://p.scdn.co/mp3-preview/f540fce5fa952abbcf81a0b1cf5093c9500a04c7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1f769ddc0f1f306b9e84d3fb4581811f2ecee545",
+      "release_date": "2012-01-31"
+    },
+    {
+      "featuredArtist": "G. Nano",
+      "featuredArtistId": "6VvzdSFGgdkUyOyGDqA6Ta",
+      "trackName": "Spaventapassere",
+      "trackId": "38lywIbFYEcAPg9cnJ5bsP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/937c2a8aad54fe2b1509eba35856585a7fec8252",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Nacho",
+      "featuredArtistId": "689NVwbmCkas0NcfyXlgxd",
+      "trackName": "Patata Bollente",
+      "trackId": "04MUkI6wemCJO8aNhtKQIe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/937c2a8aad54fe2b1509eba35856585a7fec8252",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Rik Boy",
+      "featuredArtistId": "55lmR7OMeibUfW7UXbSjXJ",
+      "trackName": "Too Rude",
+      "trackId": "3swAyEzlh3BNRu2QqqJmNk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/937c2a8aad54fe2b1509eba35856585a7fec8252",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Entics",
+      "featuredArtistId": "6GNKEqtVedvHFdhsdDtg2d",
+      "trackName": "Sai Che Io Ho",
+      "trackId": "6N5ieHR09udUakwMMaX9lR",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/832e8f551756a716f983121fac94d11912e599bd",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Ensi",
+      "featuredArtistId": "6dKdNHGdsBvEeNDxXV8AMP",
+      "trackName": "Miliardo",
+      "trackId": "6HGxxCioLP1a02hCKyr350",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/832e8f551756a716f983121fac94d11912e599bd",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Vit",
+      "featuredArtistId": "3RwQncWNqQIZNkoEkOfxZl",
+      "trackName": "La La La La",
+      "trackId": "0vExCdHoVzHVtuDkLRj0WI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/832e8f551756a716f983121fac94d11912e599bd",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Nesli",
+      "featuredArtistId": "1UOnHZhIgXr1wlUrOvrohI",
+      "trackName": "Cronici+S.B.S (feat. Nesli)",
+      "trackId": "1PPXU5thmc6Xwcan8YpOqX",
+      "preview": "https://p.scdn.co/mp3-preview/f66d791f43418cf0dfa25455cc7f448ff380ce13?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cef0e99e89c11af3d2e2a59074ce4012ef122e57",
+      "release_date": "2008-03-31"
+    },
+    {
+      "featuredArtist": "G. Nano",
+      "featuredArtistId": "7MePJZ5A607V1VoHeNKxge",
+      "trackName": "Accalappianani (feat. G. Nano)",
+      "trackId": "6qwR4bOCnHNVPD3AXzbicq",
+      "preview": "https://p.scdn.co/mp3-preview/4515d00ba4f81741fd48933d04cbf751a8bb01b9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cef0e99e89c11af3d2e2a59074ce4012ef122e57",
+      "release_date": "2008-03-31"
+    },
+    {
+      "featuredArtist": "Caneda",
+      "featuredArtistId": "0sFpREh3MXhfRxOFZVStVG",
+      "trackName": "Beautiful Loser (feat. Caneda)",
+      "trackId": "6k9murzOL5gdBxVPdQuZKc",
+      "preview": "https://p.scdn.co/mp3-preview/48b0ccba9bce78f99bbdbb8f462a165de2a772b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cef0e99e89c11af3d2e2a59074ce4012ef122e57",
+      "release_date": "2008-03-31"
+    },
+    {
+      "featuredArtist": "Two Fingerz",
+      "featuredArtistId": "3GdpSIPaAOkCTEsVJdojPj",
+      "trackName": "Io non ti chiedo (feat. Two Fingerz)",
+      "trackId": "5SEViBoZYTSuLg8ZOxhacy",
+      "preview": "https://p.scdn.co/mp3-preview/ba6f27b9685f3f1067f44ccb818e8db0df25c799?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cef0e99e89c11af3d2e2a59074ce4012ef122e57",
+      "release_date": "2008-03-31"
+    },
+    {
+      "featuredArtist": "La Fossa",
+      "featuredArtistId": "3Ecxw6qad2s9fOJ2qWZCE6",
+      "trackName": "Nella mia fossa (feat. La Fossa)",
+      "trackId": "316IKtzBiDKvzZ7HOSlZoh",
+      "preview": "https://p.scdn.co/mp3-preview/98b36645e6f43ae12c000e1e7883da65f95aaf16?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cef0e99e89c11af3d2e2a59074ce4012ef122e57",
+      "release_date": "2008-03-31"
+    },
+    {
+      "featuredArtist": "Entics",
+      "featuredArtistId": "5GohGLCuZ1vrlEspQowaFl",
+      "trackName": "Vita da re (feat. Entics)",
+      "trackId": "53INBY5Up0q3e3I7z7NHaC",
+      "preview": "https://p.scdn.co/mp3-preview/33f3b3b445fe4333277ad55f58ff81a406d6c72b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cef0e99e89c11af3d2e2a59074ce4012ef122e57",
+      "release_date": "2008-03-31"
+    },
+    {
+      "featuredArtist": "Phrome",
+      "featuredArtistId": "2bFIdYzhS2JlMsiOyeSTP8",
+      "trackName": "Mi spingo all'eccesso (feat. Phrome & Duellz)",
+      "trackId": "1KmRy6dygnW7Kz0ZKR6YsQ",
+      "preview": "https://p.scdn.co/mp3-preview/174f1c21c69f0dc938adbfd036ed383c96fd1218?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cef0e99e89c11af3d2e2a59074ce4012ef122e57",
+      "release_date": "2008-03-31"
+    },
+    {
+      "featuredArtist": "Duellz",
+      "featuredArtistId": "2RWHkFAudXsJEs6apho0Eg",
+      "trackName": "Mi spingo all'eccesso (feat. Phrome & Duellz)",
+      "trackId": "1KmRy6dygnW7Kz0ZKR6YsQ",
+      "preview": "https://p.scdn.co/mp3-preview/174f1c21c69f0dc938adbfd036ed383c96fd1218?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cef0e99e89c11af3d2e2a59074ce4012ef122e57",
+      "release_date": "2008-03-31"
+    },
+    {
+      "featuredArtist": "Double Stylo",
+      "featuredArtistId": "6BoFYIuCqS0OymU5QoFcJR",
+      "trackName": "1.2.3.5 (feat. Double Stylo & Iyasu)",
+      "trackId": "2pqSJZjxhnBWpWOj8yd9nP",
+      "preview": "https://p.scdn.co/mp3-preview/174d09f64518f254a981148c6447774b0f1887d9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cef0e99e89c11af3d2e2a59074ce4012ef122e57",
+      "release_date": "2008-03-31"
+    },
+    {
+      "featuredArtist": "Iyasu",
+      "featuredArtistId": "0P2fSMYBnR8Ofa0UXCoXLe",
+      "trackName": "1.2.3.5 (feat. Double Stylo & Iyasu)",
+      "trackId": "2pqSJZjxhnBWpWOj8yd9nP",
+      "preview": "https://p.scdn.co/mp3-preview/174d09f64518f254a981148c6447774b0f1887d9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cef0e99e89c11af3d2e2a59074ce4012ef122e57",
+      "release_date": "2008-03-31"
+    },
+    {
+      "featuredArtist": "Oscar White",
+      "featuredArtistId": "7gwlw8wV8X9DDGPj54EA0e",
+      "trackName": "Organizzati (feat. Oscar White)",
+      "trackId": "48j0tJjLi6J3J4VqzllEPK",
+      "preview": "https://p.scdn.co/mp3-preview/f98dea1571d94e387cc68c1f15affa7523a77e96?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cef0e99e89c11af3d2e2a59074ce4012ef122e57",
+      "release_date": "2008-03-31"
+    },
+    {
+      "featuredArtist": "Bravo Pie",
+      "featuredArtistId": "1uqbbZGvF6Aj2Bd7LXsT8I",
+      "trackName": "Ichnusa Love 2 (feat. Bravo Pie & Cool Caddish)",
+      "trackId": "6uVhaVjYafYQ2G9x5w6wxm",
+      "preview": "https://p.scdn.co/mp3-preview/9f9d9c897ee9020b5f0625795dba2a31c9aa75f2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cef0e99e89c11af3d2e2a59074ce4012ef122e57",
+      "release_date": "2008-03-31"
+    },
+    {
+      "featuredArtist": "Cool Caddish",
+      "featuredArtistId": "05ROYUtYvDvqtM7h9f7dpK",
+      "trackName": "Ichnusa Love 2 (feat. Bravo Pie & Cool Caddish)",
+      "trackId": "6uVhaVjYafYQ2G9x5w6wxm",
+      "preview": "https://p.scdn.co/mp3-preview/9f9d9c897ee9020b5f0625795dba2a31c9aa75f2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cef0e99e89c11af3d2e2a59074ce4012ef122e57",
+      "release_date": "2008-03-31"
+    },
+    {
+      "featuredArtist": "The Green Peeps",
+      "featuredArtistId": "1ZzONsPkETZVPQHoClIuIy",
+      "trackName": "Zig Zag (feat. the Green Peeps)",
+      "trackId": "5PpqyRoaV9ixzoZqAK2GEP",
+      "preview": "https://p.scdn.co/mp3-preview/1ffda2261e34e997c63a7ea146c4235681c09fc4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cef0e99e89c11af3d2e2a59074ce4012ef122e57",
+      "release_date": "2008-03-31"
+    }
+  ]
+}

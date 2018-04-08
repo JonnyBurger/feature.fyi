@@ -1,0 +1,23 @@
+{
+  "artistName": "k.d. lang",
+  "features": [
+    {
+      "featuredArtist": "The Reclines",
+      "featuredArtistId": "1uLqLjosqgaLVu4MPxBmEA",
+      "trackName": "Hooked On Junk",
+      "trackId": "5GsjMM3ym1OxFAlc9UjDi1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0d4e639bed32b25ebf02dd91ae7dd2f2930056d9",
+      "release_date": "2009"
+    },
+    {
+      "featuredArtist": "Tony Bennett",
+      "featuredArtistId": "2lolQgalUvZDfp5vvVtTYV",
+      "trackName": "Exactly Like You",
+      "trackId": "11pqHSlC9MS1B7NcrJSChQ",
+      "preview": "https://p.scdn.co/mp3-preview/1ce30d1b8cc1a15d21b11aa5ae864402d84f6bce?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8dedcf54806298f6df49b0f0e25da1fbe4eca51",
+      "release_date": "2002-11-02"
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "artistName": "Lil Wyte",
+  "features": [
+    {
+      "featuredArtist": "Jelly Roll",
+      "featuredArtistId": "19k8AgwwTSxeaxkOuCQEJs",
+      "trackName": "Demons",
+      "trackId": "6UMMAOSxp2zIbC013IaX5Y",
+      "preview": "https://p.scdn.co/mp3-preview/0a942ef1168f127d968478af0000e31cd79ed7d9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ae25668cbf9363192e822dc295150bf21336035c",
+      "release_date": "2016-11-18"
+    },
+    {
+      "featuredArtist": "DJ Paul",
+      "featuredArtistId": "6T9QVklRmYwXCCesJI0T54",
+      "trackName": "Problem Wit It (feat. DJ Paul)",
+      "trackId": "3E99aSAFKvgFAK4CtOoZVd",
+      "preview": "https://p.scdn.co/mp3-preview/705698edee89804dc1a8c7b47b6a18b14bf210d4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ae25668cbf9363192e822dc295150bf21336035c",
+      "release_date": "2016-11-18"
+    },
+    {
+      "featuredArtist": "B-Real",
+      "featuredArtistId": "2LiWxiQzuD9nmWQ6NCA8Gd",
+      "trackName": "My Smoking Song (feat. B Real)",
+      "trackId": "4A7xMwPSQRuNSY6p7yH3a4",
+      "preview": "https://p.scdn.co/mp3-preview/d603a15f8a9aee1bf27d5f3c16d5dcc016547c56?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ae25668cbf9363192e822dc295150bf21336035c",
+      "release_date": "2016-11-18"
+    },
+    {
+      "featuredArtist": "Madchild",
+      "featuredArtistId": "2mOzrayQHznyyCwOcGGHOr",
+      "trackName": "Zombie (feat. Madchild & Insane Clown Posse)",
+      "trackId": "14jC0V8KA9BEYI1OWNpIlC",
+      "preview": "https://p.scdn.co/mp3-preview/2093c29575e420c5f9b0a3955f1e5cdca0557149?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ae25668cbf9363192e822dc295150bf21336035c",
+      "release_date": "2016-11-18"
+    },
+    {
+      "featuredArtist": "Insane Clown Posse",
+      "featuredArtistId": "4xtWjIlVuZwTCeqVAsgEXy",
+      "trackName": "Zombie (feat. Madchild & Insane Clown Posse)",
+      "trackId": "14jC0V8KA9BEYI1OWNpIlC",
+      "preview": "https://p.scdn.co/mp3-preview/2093c29575e420c5f9b0a3955f1e5cdca0557149?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ae25668cbf9363192e822dc295150bf21336035c",
+      "release_date": "2016-11-18"
+    },
+    {
+      "featuredArtist": "Doobie",
+      "featuredArtistId": "1p68N0GuFAjR2IusIJWFk7",
+      "trackName": "Bad Bxtch (feat. Doobie)",
+      "trackId": "26Zx46z6HeF3jZe98EoeJt",
+      "preview": "https://p.scdn.co/mp3-preview/91642bd6a92271dcfa2dd52aa2d100dbc5fda030?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ae25668cbf9363192e822dc295150bf21336035c",
+      "release_date": "2016-11-18"
+    },
+    {
+      "featuredArtist": "Jackie Chain",
+      "featuredArtistId": "48rquCIMq99q3pANq81Dzn",
+      "trackName": "All Day Long (feat. Jackie Chain)",
+      "trackId": "742bJGF3gbeH3eQHrFzVl0",
+      "preview": "https://p.scdn.co/mp3-preview/1801445d68f81fb60e6aa4079969e93e9495ccd5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ae25668cbf9363192e822dc295150bf21336035c",
+      "release_date": "2016-11-18"
+    },
+    {
+      "featuredArtist": "Struggle",
+      "featuredArtistId": "6C1CoOoHZsY8WpxuZ9cHOx",
+      "trackName": "Left Behind (feat. Struggle)",
+      "trackId": "1rDD2AClH4ZSyA1ivTEo6L",
+      "preview": "https://p.scdn.co/mp3-preview/8b33932b8bdb5a2cf405fd7b0e60ea47fb9625bb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ae25668cbf9363192e822dc295150bf21336035c",
+      "release_date": "2016-11-18"
+    },
+    {
+      "featuredArtist": "Ace",
+      "featuredArtistId": "3ex1w9F7Bx8X69biVeMVLJ",
+      "trackName": "Play No Games (feat. Ace)",
+      "trackId": "1RuHezMhLqspZPjAhJ4h98",
+      "preview": "https://p.scdn.co/mp3-preview/9b68cea68e671f57c42ad72ef16b096227dd5706?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ae25668cbf9363192e822dc295150bf21336035c",
+      "release_date": "2016-11-18"
+    },
+    {
+      "featuredArtist": "Bernz",
+      "featuredArtistId": "1mPJvt2h044JNRBfHKM4fS",
+      "trackName": "Fuck Up (feat. Bernz)",
+      "trackId": "1i1Qhey9Y662o9cQjqMujy",
+      "preview": "https://p.scdn.co/mp3-preview/02652d6d0ef10f390790a523ffe2f2f027a09103?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ae25668cbf9363192e822dc295150bf21336035c",
+      "release_date": "2016-11-18"
+    },
+    {
+      "featuredArtist": "Partee",
+      "featuredArtistId": "5jooJZReYvoLJZzwUUbMWU",
+      "trackName": "Takin' Mine (feat. Eyesic Haze)",
+      "trackId": "220M8BBRiq2zvDiivGwhzk",
+      "preview": "https://p.scdn.co/mp3-preview/85e0774d76966cf41a9dbbc06ebdfa3c900d6985?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a4049b857cddfef297786d7f3b50c539ebc39e5",
+      "release_date": "2016-04-29"
+    },
+    {
+      "featuredArtist": "Eyesic Haze",
+      "featuredArtistId": "7xN0VcuWn8SbCezTGilqVo",
+      "trackName": "Takin' Mine (feat. Eyesic Haze)",
+      "trackId": "220M8BBRiq2zvDiivGwhzk",
+      "preview": "https://p.scdn.co/mp3-preview/85e0774d76966cf41a9dbbc06ebdfa3c900d6985?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a4049b857cddfef297786d7f3b50c539ebc39e5",
+      "release_date": "2016-04-29"
+    },
+    {
+      "featuredArtist": "Paul Crosby",
+      "featuredArtistId": "6F8c8OGtgsDr0rCOo9T1DZ",
+      "trackName": "My Wine My Dro (feat. Paul Crosby & Muck Sticky)",
+      "trackId": "6Q5RorCX4kv7Pkqzh7qpHc",
+      "preview": "https://p.scdn.co/mp3-preview/dc854339685ebfb8cc231efa3e21c05e0e02984b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a4049b857cddfef297786d7f3b50c539ebc39e5",
+      "release_date": "2016-04-29"
+    },
+    {
+      "featuredArtist": "Muck Sticky",
+      "featuredArtistId": "6sqYOwAxskqmauNw5674kL",
+      "trackName": "My Wine My Dro (feat. Paul Crosby & Muck Sticky)",
+      "trackId": "6Q5RorCX4kv7Pkqzh7qpHc",
+      "preview": "https://p.scdn.co/mp3-preview/dc854339685ebfb8cc231efa3e21c05e0e02984b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a4049b857cddfef297786d7f3b50c539ebc39e5",
+      "release_date": "2016-04-29"
+    },
+    {
+      "featuredArtist": "Miscellaneous",
+      "featuredArtistId": "4rtkJqGLl0QbY7wV8zfZlI",
+      "trackName": "Get Blowed (feat. Miscellaneous & King South)",
+      "trackId": "3Kni2CmgUI6kfgFYFNqN3t",
+      "preview": "https://p.scdn.co/mp3-preview/4bc31e436044c5c6d646049ab096a9b849b0cc5b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a4049b857cddfef297786d7f3b50c539ebc39e5",
+      "release_date": "2016-04-29"
+    },
+    {
+      "featuredArtist": "King South",
+      "featuredArtistId": "5OASGjcRSVU0IAS1nf7VHe",
+      "trackName": "Get Blowed (feat. Miscellaneous & King South)",
+      "trackId": "3Kni2CmgUI6kfgFYFNqN3t",
+      "preview": "https://p.scdn.co/mp3-preview/4bc31e436044c5c6d646049ab096a9b849b0cc5b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a4049b857cddfef297786d7f3b50c539ebc39e5",
+      "release_date": "2016-04-29"
+    },
+    {
+      "featuredArtist": "Shamrock",
+      "featuredArtistId": "2TnJoEY5ctCfKaCwosowyY",
+      "trackName": "Corner (feat. Shamrock)",
+      "trackId": "1MwaSDVbtzPLoBHVqlct6l",
+      "preview": "https://p.scdn.co/mp3-preview/2a0525ee0861a5137008c2b7b48b62640bc100d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a4049b857cddfef297786d7f3b50c539ebc39e5",
+      "release_date": "2016-04-29"
+    },
+    {
+      "featuredArtist": "Prince Hyp",
+      "featuredArtistId": "2108zvmBj8rm2qKteWZ8wU",
+      "trackName": "Run It Up (Bonus Track) [feat. Prince Hyp]",
+      "trackId": "51I3spghkviTOWZtM9qn4P",
+      "preview": "https://p.scdn.co/mp3-preview/82315f0efbac24517c4e158c5d3fed3051d40c8d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a4049b857cddfef297786d7f3b50c539ebc39e5",
+      "release_date": "2016-04-29"
+    },
+    {
+      "featuredArtist": "The New Side",
+      "featuredArtistId": "4W7z4MUEKRVW9zP8dfkDIg",
+      "trackName": "Beauty for Ashes (Bonus Track) [feat. New Side]",
+      "trackId": "1B1VX9AZNHERId8198YxOi",
+      "preview": "https://p.scdn.co/mp3-preview/ab68b329b16ad070558fd1970b430ef0311d8863?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9a4049b857cddfef297786d7f3b50c539ebc39e5",
+      "release_date": "2016-04-29"
+    },
+    {
+      "featuredArtist": "Caskey",
+      "featuredArtistId": "7nVgP0ISalazUzugR7D8zk",
+      "trackName": "Molly by the Gram (feat. Caskey)",
+      "trackId": "24L2QXR4jhXFklv5G4L6x4",
+      "preview": "https://p.scdn.co/mp3-preview/7f771edc86cc630fc639451454a52fd84f46530d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db011fae893843a478e664e116500814eba19c58",
+      "release_date": "2014-09-09"
+    },
+    {
+      "featuredArtist": "Twiztid",
+      "featuredArtistId": "2aMAN8kMJ7eUOAuPUYOwI7",
+      "trackName": "One of Them Days (feat. Twiztid)",
+      "trackId": "4teV2l80J1xhbqEwxZZlar",
+      "preview": "https://p.scdn.co/mp3-preview/463d2bff544a3384494058c082a7a04f091818ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db011fae893843a478e664e116500814eba19c58",
+      "release_date": "2014-09-09"
+    },
+    {
+      "featuredArtist": "Frayser Boy",
+      "featuredArtistId": "4sdwGT5t9Ws5vIosKccjIn",
+      "trackName": "Bout to Be a Fight (feat. Gangsta Boo)",
+      "trackId": "1SUTWJZmVsWH3tyjiUU7Br",
+      "preview": "https://p.scdn.co/mp3-preview/d0eeb75d9f7b4904d772b41b38cf4395577ce1cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db011fae893843a478e664e116500814eba19c58",
+      "release_date": "2014-09-09"
+    },
+    {
+      "featuredArtist": "Gangsta Boo",
+      "featuredArtistId": "3ppZNqihWOzuH4A0f4KmeP",
+      "trackName": "Bout to Be a Fight (feat. Gangsta Boo)",
+      "trackId": "1SUTWJZmVsWH3tyjiUU7Br",
+      "preview": "https://p.scdn.co/mp3-preview/d0eeb75d9f7b4904d772b41b38cf4395577ce1cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db011fae893843a478e664e116500814eba19c58",
+      "release_date": "2014-09-09"
+    },
+    {
+      "featuredArtist": "Thug Therapy",
+      "featuredArtistId": "5my0THj9ecsnn6ySD8eBl9",
+      "trackName": "M.P.W.L. (feat. Thug Therapy)",
+      "trackId": "396Qnk9Q0jJ6NDbB7dx6Bw",
+      "preview": "https://p.scdn.co/mp3-preview/7fe476fcba4eadcef18bd5ded83b2eeef5f3b6c9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db011fae893843a478e664e116500814eba19c58",
+      "release_date": "2014-09-09"
+    },
+    {
+      "featuredArtist": "La Chat",
+      "featuredArtistId": "5hDwYJ7KaXEQV2XBeijKNt",
+      "trackName": "Run Up (feat. La Chat)",
+      "trackId": "4RnfhYGLOkL75z1jNswcKT",
+      "preview": "https://p.scdn.co/mp3-preview/d9a60fc721f41a5189072b308b7710381b2ff317?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/db011fae893843a478e664e116500814eba19c58",
+      "release_date": "2014-09-09"
+    },
+    {
+      "featuredArtist": "Big E",
+      "featuredArtistId": "4CR9YSNZQIjoTrfXyP3YPP",
+      "trackName": "M.O.E. (feat. Big E & Frayser Boy)",
+      "trackId": "3HJLPlwePidcJ5pAuu4uWM",
+      "preview": "https://p.scdn.co/mp3-preview/aa69e04448afe824549228b284d70cca7cd186b3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/74c8bb8f1d13f668c5ec3b7d712bdb6864fa3fe9",
+      "release_date": "2014-04-20"
+    },
+    {
+      "featuredArtist": "MJG",
+      "featuredArtistId": "6pDFdYZARPitpkfm44UsOQ",
+      "trackName": "Come on Let's Go (feat. Mjg)",
+      "trackId": "2FZ6jbwnVhmf4pAq2WUReQ",
+      "preview": "https://p.scdn.co/mp3-preview/eaa9f95f3f82881517bd50e8f633e8dd9c9ab4ee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f8e38398cab1a19349c40ae060053d76cd003108",
+      "release_date": "2014-02-04"
+    },
+    {
+      "featuredArtist": "Rell",
+      "featuredArtistId": "0EOoSsmM3oV2aoGL3Od3E3",
+      "trackName": "Smoke & Get High (feat. Rell & J Ceaz)",
+      "trackId": "0HWcBYqWbiGWGU42pRowqn",
+      "preview": "https://p.scdn.co/mp3-preview/de19e7a00ceee7f1a96ceb47774aec7cd15a4bad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e6a7158b27d57c491cc3e607657c266fcf27ea6",
+      "release_date": "2013-07-16"
+    },
+    {
+      "featuredArtist": "J Ceaz",
+      "featuredArtistId": "1oQIVz2e7DtO9pS9jOzSvC",
+      "trackName": "Smoke & Get High (feat. Rell & J Ceaz)",
+      "trackId": "0HWcBYqWbiGWGU42pRowqn",
+      "preview": "https://p.scdn.co/mp3-preview/de19e7a00ceee7f1a96ceb47774aec7cd15a4bad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e6a7158b27d57c491cc3e607657c266fcf27ea6",
+      "release_date": "2013-07-16"
+    },
+    {
+      "featuredArtist": "Sonny Bama",
+      "featuredArtistId": "6NrzhmtXsc2j8lE5e1v9W0",
+      "trackName": "Bigger (feat. Sonny Bama)",
+      "trackId": "0NayOwR5Rhpy5gLre8ZZa0",
+      "preview": "https://p.scdn.co/mp3-preview/f7501ae3c558771415898d114e3aa7661bfab688?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e6a7158b27d57c491cc3e607657c266fcf27ea6",
+      "release_date": "2013-07-16"
+    },
+    {
+      "featuredArtist": "Jesse Whitley",
+      "featuredArtistId": "68T17qXh0afKROt2Oq2IOw",
+      "trackName": "This Down Here (feat. Jesse Whitley)",
+      "trackId": "1mgUypMjXZPJLN1Dk2W19n",
+      "preview": "https://p.scdn.co/mp3-preview/2e91526035b45ef724c80e0a0e00aa292258387b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e6a7158b27d57c491cc3e607657c266fcf27ea6",
+      "release_date": "2013-07-16"
+    },
+    {
+      "featuredArtist": "V.V.S",
+      "featuredArtistId": "0SKOs52uPAFWlkZVT5rL0b",
+      "trackName": "Freaky Girls (feat. V.V.S.)",
+      "trackId": "017qykiMjejqcpbUtmE1VS",
+      "preview": "https://p.scdn.co/mp3-preview/0ff8aece72e0e4a77e108f64df86187c1edd40d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e6a7158b27d57c491cc3e607657c266fcf27ea6",
+      "release_date": "2013-07-16"
+    },
+    {
+      "featuredArtist": "Robin Raynelle",
+      "featuredArtistId": "3IVmDp4zQyCr2fA4eYkIqU",
+      "trackName": "Move Mountains (feat. Robin Raynelle)",
+      "trackId": "4ae5c5EqZBSNCBeF2wcRtz",
+      "preview": "https://p.scdn.co/mp3-preview/a12206023ce964e052c442306ae8d50abd835a1f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4e6a7158b27d57c491cc3e607657c266fcf27ea6",
+      "release_date": "2013-07-16"
+    },
+    {
+      "featuredArtist": "Pastor Troy",
+      "featuredArtistId": "3D04N2X2w6vUGeyG94FBaY",
+      "trackName": "Sold My Soul (feat. Pastor Troy)",
+      "trackId": "0mw5VBNUqIaxJhmPJkYnJz",
+      "preview": "https://p.scdn.co/mp3-preview/3babd81b8178b435423b429324d5fc7e2c73e501?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4603ae847f0ff5bfd3b5404fd2e6ef70708cd672",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Young Buck",
+      "featuredArtistId": "4pr7J7wzgObkE3DD3Izi7q",
+      "trackName": "All Kinds of Drugs (feat. Young Buck & Lil Will)",
+      "trackId": "3pQsqnbSY7Hcn5Z2Vnjw3Y",
+      "preview": "https://p.scdn.co/mp3-preview/607aebb38abee96b04977a4d3335e108238ef847?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4603ae847f0ff5bfd3b5404fd2e6ef70708cd672",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Lil' Will",
+      "featuredArtistId": "54dIqUfhYnoH260cwD9aQu",
+      "trackName": "All Kinds of Drugs (feat. Young Buck & Lil Will)",
+      "trackId": "3pQsqnbSY7Hcn5Z2Vnjw3Y",
+      "preview": "https://p.scdn.co/mp3-preview/607aebb38abee96b04977a4d3335e108238ef847?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4603ae847f0ff5bfd3b5404fd2e6ef70708cd672",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Bubba Sparxxx",
+      "featuredArtistId": "3RPYHNSwe3w0mtfJwKIN9P",
+      "trackName": "Show Some Skin (feat. Bubba Sparxxx)",
+      "trackId": "3dJsf90Qd1UVKL3VAtaJ4H",
+      "preview": "https://p.scdn.co/mp3-preview/827ab2d704a0bb9a62a6f1f016845f09027e3113?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4603ae847f0ff5bfd3b5404fd2e6ef70708cd672",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Big Lazy",
+      "featuredArtistId": "0zwA3dbhXSfUJkpiDgr3W7",
+      "trackName": "I'm Going Home (feat. Big Lazy)",
+      "trackId": "0bSd6J9YGJAFhqTZb6qOlh",
+      "preview": "https://p.scdn.co/mp3-preview/62b1d9dd98d33a352300a71bc96d0c7311c7f0cf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4603ae847f0ff5bfd3b5404fd2e6ef70708cd672",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Al Kapone",
+      "featuredArtistId": "56LhGRiEVAKCOT162NIQIs",
+      "trackName": "M.E.M.P.H.I.S. (feat. Miscellaneous & Al Kapone)",
+      "trackId": "0LvADw7po45kzMKlCOGL2r",
+      "preview": "https://p.scdn.co/mp3-preview/086e639df7d4247274a5baf2d86bcc1fb56d9f57?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4603ae847f0ff5bfd3b5404fd2e6ef70708cd672",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Lord Infamous",
+      "featuredArtistId": "59NQEIzm6FCUdg7F5NOf9b",
+      "trackName": "Welcome 2 the Gathering (feat. Lord Infamous & Liquid Assassin)",
+      "trackId": "4unq0EblXBwN0VXZmwHEB1",
+      "preview": "https://p.scdn.co/mp3-preview/16cf5f2a849be01a7ad338b944a2ce6cb38e46a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4603ae847f0ff5bfd3b5404fd2e6ef70708cd672",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Liquid Assassin",
+      "featuredArtistId": "6Y2riyLrQXWUNCEnwySFuU",
+      "trackName": "Welcome 2 the Gathering (feat. Lord Infamous & Liquid Assassin)",
+      "trackId": "4unq0EblXBwN0VXZmwHEB1",
+      "preview": "https://p.scdn.co/mp3-preview/16cf5f2a849be01a7ad338b944a2ce6cb38e46a3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4603ae847f0ff5bfd3b5404fd2e6ef70708cd672",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Miss Wyte",
+      "featuredArtistId": "7MuAYXJVZfFJmSI0mbzioh",
+      "trackName": "Money (feat. Miss Wyte, Partee & Project Pat)",
+      "trackId": "6cLHI6oqxLeQsBu6NMemQ3",
+      "preview": "https://p.scdn.co/mp3-preview/228b2fc7c724f2e03603a4f9ee04e6f8d61f1538?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4603ae847f0ff5bfd3b5404fd2e6ef70708cd672",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "Project Pat",
+      "featuredArtistId": "08Ld63UgKrJ0nZnCkzHtzc",
+      "trackName": "Money (feat. Miss Wyte, Partee & Project Pat)",
+      "trackId": "6cLHI6oqxLeQsBu6NMemQ3",
+      "preview": "https://p.scdn.co/mp3-preview/228b2fc7c724f2e03603a4f9ee04e6f8d61f1538?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4603ae847f0ff5bfd3b5404fd2e6ef70708cd672",
+      "release_date": "2012-06-19"
+    },
+    {
+      "featuredArtist": "DJ Black",
+      "featuredArtistId": "23MoEAtLCa940UTGJng1RH",
+      "trackName": "DJ Black Intro - Dragged & Chopped Remix",
+      "trackId": "1vQHACu7YxYWsXlykYRLua",
+      "preview": "https://p.scdn.co/mp3-preview/15a02d8a05c1ad43b920d1f68d7f5113fa03d931?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7162422513699c26c1cd5bb905c2d1a8c2085a8",
+      "release_date": "2005-01-25"
+    },
+    {
+      "featuredArtist": "DJ Paul",
+      "featuredArtistId": "2ledyuziz6YjLK5Dw483Oc",
+      "trackName": "By 2 Da Bad Guy (feat. D.J. Paul) - Dragged & Chopped Remix",
+      "trackId": "4YYmpaJ2OS86P6QRe0W9Wz",
+      "preview": "https://p.scdn.co/mp3-preview/7446fdc46fc56852471c4292a72d0b7b3650d204?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7162422513699c26c1cd5bb905c2d1a8c2085a8",
+      "release_date": "2005-01-25"
+    },
+    {
+      "featuredArtist": "Juicy J",
+      "featuredArtistId": "5gCRApTajqwbnHHPbr2Fpi",
+      "trackName": "Baldhead Hoes (feat. D.J. Paul & Juicy J.) - Dragged & Chopped Remix",
+      "trackId": "6bqBIibay2MIqMS8jVitPO",
+      "preview": "https://p.scdn.co/mp3-preview/df341b9c3bc83772b6df1b7d72ef13e6540f0c08?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7162422513699c26c1cd5bb905c2d1a8c2085a8",
+      "release_date": "2005-01-25"
+    },
+    {
+      "featuredArtist": "Three 6 Mafia",
+      "featuredArtistId": "26s8LSolLfCIY88ysQbIuT",
+      "trackName": "U.S. Soldier Boy (feat. Three 6 Mafia) - Dragged & Chopped Remix",
+      "trackId": "3cM2abt8pHihanxpp7WiX8",
+      "preview": "https://p.scdn.co/mp3-preview/b4940605ebe7e22625c19d8d85d0ac9d9654e01e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7162422513699c26c1cd5bb905c2d1a8c2085a8",
+      "release_date": "2005-01-25"
+    },
+    {
+      "featuredArtist": "Josey Scott",
+      "featuredArtistId": "5mNloTgSaf5qCyk48t9NSP",
+      "trackName": "Crazy (feat. Josey Scott of Saliva) - Dragged & Chopped Remix",
+      "trackId": "02HbWD0mZHEnlwXwKieUP6",
+      "preview": "https://p.scdn.co/mp3-preview/f47e575c7ea1c633360bd3e537033fea61aa2d70?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7162422513699c26c1cd5bb905c2d1a8c2085a8",
+      "release_date": "2005-01-25"
+    },
+    {
+      "featuredArtist": "Josey Scott Of Saliva",
+      "featuredArtistId": "0OKgPilyDR0zflXSEQrANu",
+      "trackName": "Crazy (feat. Josey Scott of Saliva) - Dragged & Chopped Remix",
+      "trackId": "02HbWD0mZHEnlwXwKieUP6",
+      "preview": "https://p.scdn.co/mp3-preview/f47e575c7ea1c633360bd3e537033fea61aa2d70?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7162422513699c26c1cd5bb905c2d1a8c2085a8",
+      "release_date": "2005-01-25"
+    },
+    {
+      "featuredArtist": "B.a.R.",
+      "featuredArtistId": "2tI7kbhFGpQjox8xlwJEJE",
+      "trackName": "Big Azz Gunz (feat. B.A.R.) - Dragged & Chopped Remix",
+      "trackId": "4U3nKGZSCdZ1Q1r7RKrF7O",
+      "preview": "https://p.scdn.co/mp3-preview/6235f704f34a3a44cd02030bb13d6db7c04910af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7162422513699c26c1cd5bb905c2d1a8c2085a8",
+      "release_date": "2005-01-25"
+    },
+    {
+      "featuredArtist": "Dirt Bag",
+      "featuredArtistId": "1GSS8mPoZByVTTtN4RfcBc",
+      "trackName": "Smoke My Dro (feat. Dirt Bag) - Dragged & Chopped Remix",
+      "trackId": "5zMyDzo7r4yY0D6DgBHgrZ",
+      "preview": "https://p.scdn.co/mp3-preview/2bc8bc8d47e679103b4bdb653015867db2547f21?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7162422513699c26c1cd5bb905c2d1a8c2085a8",
+      "release_date": "2005-01-25"
+    },
+    {
+      "featuredArtist": "H.C.P.",
+      "featuredArtistId": "2v1AapCk2OlzouPc4ems7d",
+      "trackName": "Possie Song (feat. H.C.P.) - Dragged & Chopped Remix",
+      "trackId": "4E7f7QWI1EnsrReO6pGZBm",
+      "preview": "https://p.scdn.co/mp3-preview/e3b63edc95f08d72ea09141bcd70cf22069b551a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a7162422513699c26c1cd5bb905c2d1a8c2085a8",
+      "release_date": "2005-01-25"
+    },
+    {
+      "featuredArtist": "Juvenile",
+      "featuredArtistId": "0rG0AZBscc8S8q1ahIsasI",
+      "trackName": "Crash Da Club",
+      "trackId": "61KD3b4BvnjOFh6PLWL2a5",
+      "preview": "https://p.scdn.co/mp3-preview/6f78cf09ddae583d29059c1f150e4ebf153fbeda?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/459823f47430563f3c56db5d6abb82069abde468",
+      "release_date": "2004-03-02"
+    },
+    {
+      "featuredArtist": "Outlaw Josey Scott & Chris D of Saliva",
+      "featuredArtistId": "0tDdWIsHAVya9i0LURmuYg",
+      "trackName": "Homicidal, Suicidal",
+      "trackId": "3CLDQZpMI3ACdH2lZfpZZc",
+      "preview": "https://p.scdn.co/mp3-preview/62aca94b7be175df7912efb8b16873fe12bd3bbc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/459823f47430563f3c56db5d6abb82069abde468",
+      "release_date": "2004-03-02"
+    },
+    {
+      "featuredArtist": "Outlaw Josey Scott",
+      "featuredArtistId": "0EMWyhv4TFNjhJfBQ3mP1J",
+      "trackName": "Homicidal, Suicidal",
+      "trackId": "0eX1ODvk8YpobsDiUchFa2",
+      "preview": "https://p.scdn.co/mp3-preview/a8be826fdbb1fbed7aaefc571f5195bcae213386?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cc59985dcecddf4597be83ecc98dbca259690b24",
+      "release_date": "2003-03-04"
+    },
+    {
+      "featuredArtist": "Kholebeatz",
+      "featuredArtistId": "19QM5pgzQ4q7vYiWxvNijB",
+      "trackName": "Tennessee",
+      "trackId": "6IYcRuQywyVt2h7ROcRWap",
+      "preview": "https://p.scdn.co/mp3-preview/2c3520fb68b4c8e4810b11e432c26adeef9b5bed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f2935e0057589e1103e6c35ccf2bf12f0135369b",
+      "release_date": "2017-11-17"
+    }
+  ]
+}

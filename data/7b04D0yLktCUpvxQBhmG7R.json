@@ -1,0 +1,41 @@
+{
+  "artistName": "LEISURE",
+  "features": [
+    {
+      "featuredArtist": "GoldLink",
+      "featuredArtistId": "5XenQ7XfcvQdfIbpLEFaKQ",
+      "trackName": "Nobody (feat. Gold Link)",
+      "trackId": "7f6udmKX6TaCMcCRzyczR8",
+      "preview": "https://p.scdn.co/mp3-preview/7a69a43bbc45fe03e8bcd1230a2990b73684f135?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/37e994622bab2bcece8201b233e3fc917509e5dc",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Tora",
+      "featuredArtistId": "7KGI0OwY8iAL5rI5p47YyK",
+      "trackName": "Too Much - LEISURE Remix",
+      "trackId": "3GjmxF8eyuGEYn2tzfnxHb",
+      "preview": "https://p.scdn.co/mp3-preview/3fd0618875fb83a551d1f918f8b1eb34928c72cf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bc2b2fc4f0ddb133030884ac95a87df9a9d5f7a9",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "M.I.L.K.",
+      "featuredArtistId": "2ekValwbXG7P55xYXwWOZx",
+      "trackName": "U And Me - Leisure Remix",
+      "trackId": "4zTwTczoX8XJByHz3RV8sC",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/35cf47fa5a2171fbee1d41ef92efb2590db3ec96",
+      "release_date": "2017-06-30"
+    },
+    {
+      "featuredArtist": "SAUR",
+      "featuredArtistId": "7Eufiy3sCAdJuwRhWSE8UG",
+      "trackName": "Friendly Duck - Leisure Remix",
+      "trackId": "42y4tZuTUlIKhZSLGnVSUV",
+      "preview": "https://p.scdn.co/mp3-preview/7042ce0069bb6c96255165a79faf362f89400c14?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4a2330efa0f9d48d37b410e2871587a0f5b6cc4d",
+      "release_date": "2012-11-14"
+    }
+  ]
+}

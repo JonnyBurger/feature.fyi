@@ -1,0 +1,41 @@
+{
+  "artistName": "Emma",
+  "features": [
+    {
+      "featuredArtist": "Alvaro Soler",
+      "featuredArtistId": "2urF8dgLVfDjunO0pcHUEe",
+      "trackName": "Libre - Italian Version",
+      "trackId": "2kbKaDE3Zvte5Zqg4wB8ka",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e6e006c0316600cc7737dc5ad9dfdcd2f82b8708",
+      "release_date": "2016-12-02"
+    },
+    {
+      "featuredArtist": "Alessandra Amoroso",
+      "featuredArtistId": "2pjb5ffSoVTr5lRYQXlnPu",
+      "trackName": "Non E' L'Inferno",
+      "trackId": "62Aq5m3vLu5griVq1JUlIy",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8453dee4ba4e26a2cab0749b6404c8fdfc4b198d",
+      "release_date": "2011"
+    },
+    {
+      "featuredArtist": "Craig David",
+      "featuredArtistId": "2JyWXPbkqI5ZJa3gwqVa0c",
+      "trackName": "(Sittin' On) The Dock Of The Bay - Live Duet Version",
+      "trackId": "6UG2W4Z4jrmTn3eu0LTvQF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d3cd292ecd26a99eb909661eb45a0a950ca71136",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Moda'",
+      "featuredArtistId": "34LniBXZel58HhcdIX0ysN",
+      "trackName": "Arriverà",
+      "trackId": "61m0ZRkPgdLN8zXW9mi4PK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/01f8f21d64da1e18a0c2fcdd210b641756593cd4",
+      "release_date": "2010"
+    }
+  ]
+}
