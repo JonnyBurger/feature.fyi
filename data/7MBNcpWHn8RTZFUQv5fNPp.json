@@ -1,0 +1,32 @@
+{
+  "artistName": "Alessio La Profunda Melodia",
+  "features": [
+    {
+      "featuredArtist": "Darrinkay",
+      "featuredArtistId": "3kpm2JQO6EQeXIMM6Hk6vo",
+      "trackName": "Beber para Olvidar (feat. Darrinkay)",
+      "trackId": "6BMmE0wbU8DYMGKTZBjl2n",
+      "preview": "https://p.scdn.co/mp3-preview/f23abfba2c2e9f90cbfa5f3b19a2e4df3c0ca145?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/953b8eeb719240414206b45cf1fb56b0b09739c0",
+      "release_date": "2017-12-04"
+    },
+    {
+      "featuredArtist": "Perfecto El Cantante",
+      "featuredArtistId": "5YQffcoVCry68UJSgJjvnE",
+      "trackName": "Pa Lo Privado",
+      "trackId": "6dOEUbwh1BKpdW1UM388IQ",
+      "preview": "https://p.scdn.co/mp3-preview/2809463706fe34aced16b5ad284c2faca620af05?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b40ddc650924b5bfc46ff0c835a828efd81bb95a",
+      "release_date": "2017-11-19"
+    },
+    {
+      "featuredArtist": "Jake La Furia",
+      "featuredArtistId": "6JFRI91YaCXREGQYzHSnUH",
+      "trackName": "El Party",
+      "trackId": "19LRRuiMQ8a9jhqSf8jVip",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0ab4fca916c3d96f86f0da3801e6112659743bfa",
+      "release_date": "2017-06-08"
+    }
+  ]
+}

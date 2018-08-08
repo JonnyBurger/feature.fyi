@@ -1,0 +1,482 @@
+{
+  "artistName": "Vinyl on HBO",
+  "features": [
+    {
+      "featuredArtist": "Alex Newell",
+      "featuredArtistId": "2vGaSKEDFsVPBgcnGxqlBN",
+      "trackName": "Kill The Lights (with Nile Rodgers)",
+      "trackId": "2lMo0dNncO9Nivs537rfOV",
+      "preview": "https://p.scdn.co/mp3-preview/039d7bdebeba62d74e1134dc1b28dd992937fdd8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95399c68621905d26b11737801777b35b467c7c8",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Jess Glynne",
+      "featuredArtistId": "4ScCswdRlyA23odg9thgIO",
+      "trackName": "Kill The Lights (with Nile Rodgers)",
+      "trackId": "2lMo0dNncO9Nivs537rfOV",
+      "preview": "https://p.scdn.co/mp3-preview/039d7bdebeba62d74e1134dc1b28dd992937fdd8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95399c68621905d26b11737801777b35b467c7c8",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "DJ Cassidy",
+      "featuredArtistId": "1xLOb1CC0N70wA28T7Q5uE",
+      "trackName": "Kill The Lights (with Nile Rodgers)",
+      "trackId": "2lMo0dNncO9Nivs537rfOV",
+      "preview": "https://p.scdn.co/mp3-preview/039d7bdebeba62d74e1134dc1b28dd992937fdd8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95399c68621905d26b11737801777b35b467c7c8",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Nile Rodgers",
+      "featuredArtistId": "3yDIp0kaq9EFKe07X1X2rz",
+      "trackName": "Kill The Lights (with Nile Rodgers)",
+      "trackId": "2lMo0dNncO9Nivs537rfOV",
+      "preview": "https://p.scdn.co/mp3-preview/039d7bdebeba62d74e1134dc1b28dd992937fdd8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95399c68621905d26b11737801777b35b467c7c8",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Charlie Wilson",
+      "featuredArtistId": "6CxZzQFUTM6AzgluGwtq5w",
+      "trackName": "Alright Lady (Let's Make A Baby)",
+      "trackId": "0kpka7vDQJaPWgpGEkP7cA",
+      "preview": "https://p.scdn.co/mp3-preview/37c1f726ed7173b8513859731ff9af8d7a830972?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95399c68621905d26b11737801777b35b467c7c8",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Elvis Costello",
+      "featuredArtistId": "2BGRfQgtzikz1pzAD0kaEn",
+      "trackName": "Back Stabbers",
+      "trackId": "2U14q7LqWtWjoe5o6oQOWW",
+      "preview": "https://p.scdn.co/mp3-preview/99dcea6ab1b13346f14efc68c14a9e53a405bf58?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95399c68621905d26b11737801777b35b467c7c8",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Trey Songz",
+      "featuredArtistId": "2iojnBLj0qIMiKPvVhLnsH",
+      "trackName": "Life On Mars?",
+      "trackId": "3HjQMFAubbvErTi1kCq6ZX",
+      "preview": "https://p.scdn.co/mp3-preview/bbf75169b54e11fae28e0affe5cafad3df7e4a32?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95399c68621905d26b11737801777b35b467c7c8",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Iggy Pop",
+      "featuredArtistId": "33EUXrFKGjpUSGacqEHhU4",
+      "trackName": "I Dig Your Mind",
+      "trackId": "1odbdHD5FPU4DYSR1dr2K9",
+      "preview": "https://p.scdn.co/mp3-preview/32a320e9adea659cdd5c78b47171c7098e4c0c0b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95399c68621905d26b11737801777b35b467c7c8",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Charli XCX",
+      "featuredArtistId": "25uiPmTg16RbhZWAqwLBy5",
+      "trackName": "No Fun",
+      "trackId": "48XmJeXenVsw9jZAe44Miv",
+      "preview": "https://p.scdn.co/mp3-preview/b75f533e2e4b4bc19dd3effd1bcc7a28c8633d5a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95399c68621905d26b11737801777b35b467c7c8",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "John Doe",
+      "featuredArtistId": "4uyMcYXJM1rO5fvC9lOKwF",
+      "trackName": "Strychnine",
+      "trackId": "4cP4xnf0iBbiTkb5c2icO4",
+      "preview": "https://p.scdn.co/mp3-preview/9d50bc42f7db4aa3fabc4d20286677aef15b3697?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95399c68621905d26b11737801777b35b467c7c8",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Royal Blood",
+      "featuredArtistId": "2S5hlvw4CMtMGswFtfdK15",
+      "trackName": "Where Are You Now?",
+      "trackId": "7w53ucikSIdig3nLCi29a9",
+      "preview": "https://p.scdn.co/mp3-preview/f7c20fce43209b307d050fad5baa8f6bfd560b4a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95399c68621905d26b11737801777b35b467c7c8",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "The Arcs",
+      "featuredArtistId": "3mVWMgLc7bcyCBtL2ymZwK",
+      "trackName": "Watch Your Step",
+      "trackId": "5YJzBXEbo37xXEVGS9xXJD",
+      "preview": "https://p.scdn.co/mp3-preview/5a02f72846e0a40a26f926988f8fec5654f02b01?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95399c68621905d26b11737801777b35b467c7c8",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Chris Cornell",
+      "featuredArtistId": "0XHiH53dHrvbwfjYM7en7I",
+      "trackName": "Stay With Me Baby",
+      "trackId": "6kj4MdrvfZBB9czcmtSbiE",
+      "preview": "https://p.scdn.co/mp3-preview/30d0337fc0da2c48e813c1a95f0bf382a792c1a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95399c68621905d26b11737801777b35b467c7c8",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Ty Taylor",
+      "featuredArtistId": "7FxLKkFmNsDT54KrzN2HJn",
+      "trackName": "I've Been Wrong So Long",
+      "trackId": "5WeAgyAR6v3x4KXwGjaVBb",
+      "preview": "https://p.scdn.co/mp3-preview/9ace9ca3ee6f8f3e068b3cd0a74fd249593250d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95399c68621905d26b11737801777b35b467c7c8",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Nasty Bits",
+      "featuredArtistId": "3g4YzG9zXMXivUfh9xASEU",
+      "trackName": "Woman Like You",
+      "trackId": "0TUuA4VlJrjzRWAGJFFDgt",
+      "preview": "https://p.scdn.co/mp3-preview/400fe6c38921e69d177011e698d864f809132b0d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95399c68621905d26b11737801777b35b467c7c8",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Sturgill Simpson",
+      "featuredArtistId": "3vDpQbGnzRbRVirXlfQagB",
+      "trackName": "Sugar Daddy - Theme from Vinyl",
+      "trackId": "2bm0vz9EYa6GkkqGhI6d3A",
+      "preview": "https://p.scdn.co/mp3-preview/8a311ebf1465f39be288d62b98d21c7493612253?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95399c68621905d26b11737801777b35b467c7c8",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Julian Casablancas",
+      "featuredArtistId": "1rAv1GhTQ2rmG94p9lU3rB",
+      "trackName": "Venus In Furs",
+      "trackId": "5uSEkvEgaQMNxoGwYoLigU",
+      "preview": "https://p.scdn.co/mp3-preview/7656b1f20679625990549c8ffbf943723e7e4c94?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95399c68621905d26b11737801777b35b467c7c8",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Humble Pie",
+      "featuredArtistId": "2CxLP749mup3ncPrXgCnvU",
+      "trackName": "Black Coffee",
+      "trackId": "3eDP8qu21ArA3qvBDkEHnt",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/95399c68621905d26b11737801777b35b467c7c8",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "Nate Ruess",
+      "featuredArtistId": "1qUjOF5fzrpoNycD36b2jZ",
+      "trackName": "I Wanna Be With You",
+      "trackId": "3o2fj2uem4cRzHrbuxe6tk",
+      "preview": "https://p.scdn.co/mp3-preview/afa97eb8c728d80406847e24b38cde777bb9e08a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/95399c68621905d26b11737801777b35b467c7c8",
+      "release_date": "2016-04-15"
+    },
+    {
+      "featuredArtist": "David Johansen",
+      "featuredArtistId": "7qZdnGoW781UFYTcMpDilR",
+      "trackName": "Personality Crisis",
+      "trackId": "1Hg4ovrM4rgzLd3WVBR2bf",
+      "preview": "https://p.scdn.co/mp3-preview/ba8f11595f8036346ef5b4b78796366ee10f57ac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3b4b2152fce4d104b22cb12692c17d060fc7cc8",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "Kaleo",
+      "featuredArtistId": "7jdFEYD2LTYjfwxOdlVjmc",
+      "trackName": "No Good",
+      "trackId": "0gnS1k4dyGPuD3TtHFaCD8",
+      "preview": "https://p.scdn.co/mp3-preview/d439916ab51b08d4b64702cd11be97aa9dcfd3ed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3b4b2152fce4d104b22cb12692c17d060fc7cc8",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "Ruth Brown",
+      "featuredArtistId": "4EYVgfZJ8wKXWmIvCx3gOY",
+      "trackName": "Mama He Treats Your Daughter Mean",
+      "trackId": "32FMVlYA1LwHLRgb5RvbyK",
+      "preview": "https://p.scdn.co/mp3-preview/b5f5059cff72367ab11b3706a5677cbb8b3f386f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3b4b2152fce4d104b22cb12692c17d060fc7cc8",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "Otis Redding",
+      "featuredArtistId": "60df5JBRRPcnSpsIMxxwQm",
+      "trackName": "Mr. Pitiful",
+      "trackId": "6vXLijjB79LPdRl1aucM31",
+      "preview": "https://p.scdn.co/mp3-preview/a2e010fc587cba4600e0969b77f6fda6e5e5e48f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3b4b2152fce4d104b22cb12692c17d060fc7cc8",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "Dee Dee Warwick",
+      "featuredArtistId": "3KeTziLAcJFEnbhfIMRh5w",
+      "trackName": "Suspicious Minds",
+      "trackId": "3vQrMn2r3d8tOzZGLgHvMu",
+      "preview": "https://p.scdn.co/mp3-preview/cc34067326b28bf3bbd4534cc245178639c0ed2c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3b4b2152fce4d104b22cb12692c17d060fc7cc8",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "Chris Kenner",
+      "featuredArtistId": "3mCIMoeTyKjHlgNv7wFZYI",
+      "trackName": "I Like It Like That",
+      "trackId": "0H42hSApNDJawdGjF8bh48",
+      "preview": "https://p.scdn.co/mp3-preview/7ca020903fe80440e049acb471c87c4cfdca7410?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3b4b2152fce4d104b22cb12692c17d060fc7cc8",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "Soda Machine",
+      "featuredArtistId": "2A3S5Kc4I6JD9hFKdMrLQq",
+      "trackName": "Want Ads",
+      "trackId": "4u7B5Rlz80RsBVdeTGpwEn",
+      "preview": "https://p.scdn.co/mp3-preview/abf25b4c37181cf46de13d92851189821da75d67?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3b4b2152fce4d104b22cb12692c17d060fc7cc8",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "The Meters",
+      "featuredArtistId": "2JRvXPGWiINrnJljNJhG5s",
+      "trackName": "Hand Clapping Song",
+      "trackId": "2BRlb8O5BQsFbD0C6AKHSr",
+      "preview": "https://p.scdn.co/mp3-preview/ad6f65cf6e7a6c6b14464995f69bcd1d36b59360?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3b4b2152fce4d104b22cb12692c17d060fc7cc8",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "Foghat",
+      "featuredArtistId": "6x33CmZWo2Ve4hxYl2Craq",
+      "trackName": "I Just Want To Make Love To You",
+      "trackId": "4h5xW2wrCABWKXQwyHM4gI",
+      "preview": "https://p.scdn.co/mp3-preview/e39d93421e8db62d7f3cb4c902ea358d0c877765?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a3b4b2152fce4d104b22cb12692c17d060fc7cc8",
+      "release_date": "2016-02-12"
+    },
+    {
+      "featuredArtist": "Tower Of Power",
+      "featuredArtistId": "0JCxGVxsISZzJHJPUOtceB",
+      "trackName": "What Is Hip?",
+      "trackId": "5V3eGhlfcpotPCBQZ9EmDY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c7d06697369bc231d15be0e20fe81de90083e9f6",
+      "release_date": "2016-04-08"
+    },
+    {
+      "featuredArtist": "Champion Jack Dupree",
+      "featuredArtistId": "1NnRjWELSLqFONDhwc8VU7",
+      "trackName": "Can't Kick The Habit",
+      "trackId": "50F08xNqwpSvRSNVUsZuZe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c7d06697369bc231d15be0e20fe81de90083e9f6",
+      "release_date": "2016-04-08"
+    },
+    {
+      "featuredArtist": "Focus",
+      "featuredArtistId": "34my5PBbL8TiTcfJc2YoPD",
+      "trackName": "Hocus Pocus",
+      "trackId": "6ceXkyt2JozFXvYnTtG5bN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d11fd2e955ec362c110c3249541c8f1daf87a598",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Barrabas",
+      "featuredArtistId": "56Cee1F1JPF9bVEmg2yvcn",
+      "trackName": "Wild Safari",
+      "trackId": "0hlDiqc3QVR07JdhoA0XiC",
+      "preview": "https://p.scdn.co/mp3-preview/6bcc0cb6dd575f07fd2a0a3f29105a5f3a138eaf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d11fd2e955ec362c110c3249541c8f1daf87a598",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Isaac Hayes",
+      "featuredArtistId": "3IKV7o6WPphDB7cCWXaG3E",
+      "trackName": "Hyperbolicsyllabicsesquedalymistic",
+      "trackId": "4ZJTR27rWyeLVFNYchcrqE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d11fd2e955ec362c110c3249541c8f1daf87a598",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "John Denver",
+      "featuredArtistId": "7EK1bQADBoqbYXnT4Cqv9w",
+      "trackName": "Take Me Home, Country Roads",
+      "trackId": "33dvoxyqW0tPXEGNnoEcth",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d11fd2e955ec362c110c3249541c8f1daf87a598",
+      "release_date": "2016-04-01"
+    },
+    {
+      "featuredArtist": "Jesse Malin",
+      "featuredArtistId": "6zKkaqMGGmaKLUSLTcsrls",
+      "trackName": "My Reflection",
+      "trackId": "58XVIvdbuLpGt356Lu4fZT",
+      "preview": "https://p.scdn.co/mp3-preview/e36fbae8408df145bb9631dc418e32826873106f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/caa59dcd0a8ce4308b476bcc19dedfed0afdde82",
+      "release_date": "2016-03-25"
+    },
+    {
+      "featuredArtist": "Dr. John",
+      "featuredArtistId": "320TrJub4arztwXRm7kqVO",
+      "trackName": "Big Chief",
+      "trackId": "5mFYRVl2AX6pdrtq9gvXk0",
+      "preview": "https://p.scdn.co/mp3-preview/4271487918e752d32f22a2f6d8bafa9434c7d305?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/caa59dcd0a8ce4308b476bcc19dedfed0afdde82",
+      "release_date": "2016-03-25"
+    },
+    {
+      "featuredArtist": "Jackson Browne",
+      "featuredArtistId": "5lkiCO9UQ8B23dZ1o0UV4m",
+      "trackName": "Doctor My Eyes",
+      "trackId": "5uuEgEIYMPg3R8LvG3DzIU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/caa59dcd0a8ce4308b476bcc19dedfed0afdde82",
+      "release_date": "2016-03-25"
+    },
+    {
+      "featuredArtist": "Albert Hammond",
+      "featuredArtistId": "34E3csCxpXunPGEkOVVX2g",
+      "trackName": "It Never Rains In Southern California",
+      "trackId": "5ya5oXbAv4qTnIsi1Y8ofn",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/caa59dcd0a8ce4308b476bcc19dedfed0afdde82",
+      "release_date": "2016-03-25"
+    },
+    {
+      "featuredArtist": "Tunde Adebimpe",
+      "featuredArtistId": "3and7uje1nuMnKJczCKox9",
+      "trackName": "Brandy",
+      "trackId": "78IPaoWgdVDy3W0JzerLfm",
+      "preview": "https://p.scdn.co/mp3-preview/081f03894ce16ba97461b284dafcad89278de420?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec4aaa7b0d16b289298a18d9e2a9e3978983eee3",
+      "release_date": "2016-03-23"
+    },
+    {
+      "featuredArtist": "Karisma",
+      "featuredArtistId": "1UjBiaIMWljRl5ez5Zp83m",
+      "trackName": "Cherish (feat. Johnny Gale)",
+      "trackId": "6rYkym6vwfQn6DE43JahEc",
+      "preview": "https://p.scdn.co/mp3-preview/37148a9e361d306bb00f3bb54f3c63ea06879759?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec4aaa7b0d16b289298a18d9e2a9e3978983eee3",
+      "release_date": "2016-03-23"
+    },
+    {
+      "featuredArtist": "Johnny Gale",
+      "featuredArtistId": "2R683Sq8PMD7Fe4Wny6zCv",
+      "trackName": "Cherish (feat. Johnny Gale)",
+      "trackId": "6rYkym6vwfQn6DE43JahEc",
+      "preview": "https://p.scdn.co/mp3-preview/37148a9e361d306bb00f3bb54f3c63ea06879759?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ec4aaa7b0d16b289298a18d9e2a9e3978983eee3",
+      "release_date": "2016-03-23"
+    },
+    {
+      "featuredArtist": "Rosco Gordon",
+      "featuredArtistId": "35SkZMI5CPiCude4FW45O9",
+      "trackName": "Let's Get High",
+      "trackId": "05AVcakQZ9dKgHvBsNevPJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/fd81c6048eb26a5a6c474a3176609ea862aa7dd0",
+      "release_date": "2016-03-11"
+    },
+    {
+      "featuredArtist": "Alison Mosshart",
+      "featuredArtistId": "5rexG906fVLfq8H9m8J9P9",
+      "trackName": "My Time's Coming",
+      "trackId": "2DMvGryaFEibY9ns1o4paD",
+      "preview": "https://p.scdn.co/mp3-preview/16981d174da6f0f9942959f3f2973f399a34eff4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fd81c6048eb26a5a6c474a3176609ea862aa7dd0",
+      "release_date": "2016-03-11"
+    },
+    {
+      "featuredArtist": "Hannibalism",
+      "featuredArtistId": "2311rUFg4ej4vNg7eWWxEW",
+      "trackName": "Hannibal We Want You Back",
+      "trackId": "5hgeeb63bXAvjnQwmBuKnJ",
+      "preview": "https://p.scdn.co/mp3-preview/b60350dfe5528d890039a6c75985d19fc9c99bc9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1c85e671498b20b5318dedf17eea9b56aef05b74",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Delaney & Bonnie",
+      "featuredArtistId": "6dTCMsjfH2odCFlNb36SCG",
+      "trackName": "Only You Know and I Know",
+      "trackId": "3DW6Wy5wRBwSlFIapJAE41",
+      "preview": "https://p.scdn.co/mp3-preview/5b83ca202380acafffa5e26e3c94d5e74280cc07?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1c85e671498b20b5318dedf17eea9b56aef05b74",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Eddie Harris",
+      "featuredArtistId": "0bcDOCWIbvWApEIB7l1uZ4",
+      "trackName": "Freedom Jazz Dance",
+      "trackId": "7dXbaNwMftRUrXUFbUVdb5",
+      "preview": "https://p.scdn.co/mp3-preview/4070197faeaa1992d932e744f609bf98264e702b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1c85e671498b20b5318dedf17eea9b56aef05b74",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Matthew Bogart",
+      "featuredArtistId": "7pzDTL5dKu3m99pRZEdT8B",
+      "trackName": "Christmas You Go So Fast",
+      "trackId": "7N26SxesximdiBIvnZ0TEc",
+      "preview": "https://p.scdn.co/mp3-preview/a317330e43bd0b24e0132a4825f3df1bdd13d0c9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1c85e671498b20b5318dedf17eea9b56aef05b74",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "The Milk Carton Kids",
+      "featuredArtistId": "7fxtWEwKKrFaykKItspdYg",
+      "trackName": "Simone",
+      "trackId": "4MHZ8D4DOQY9Ci7nMHNUQh",
+      "preview": "https://p.scdn.co/mp3-preview/21bde3977ff7a3122b6275601731e8e478ee6cab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5d626d14b1092bc49506362611f2b0975d3b3bbc",
+      "release_date": "2016-02-26"
+    },
+    {
+      "featuredArtist": "Neko Case",
+      "featuredArtistId": "4Cedjq5BQL3MhapRvDpFED",
+      "trackName": "Danny's Song",
+      "trackId": "0T4c5J0rJO3qC9KdgJ9tik",
+      "preview": "https://p.scdn.co/mp3-preview/84b0da306231b422e745804281d69f14e6357047?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5d626d14b1092bc49506362611f2b0975d3b3bbc",
+      "release_date": "2016-02-26"
+    },
+    {
+      "featuredArtist": "The Del-Tino's",
+      "featuredArtistId": "5tK07ZxXodZ6qedzj974C1",
+      "trackName": "Night Life",
+      "trackId": "4mBxb6D30zPudWEp7KUn1J",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0719ad55850a05b6a7095317047a49dff61f05e2",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Jerry Lee Lewis",
+      "featuredArtistId": "2zyz0VJqrDXeFDIyrfVXSo",
+      "trackName": "Breathless",
+      "trackId": "2BYsfoEAEWfWOfCgwLUuEI",
+      "preview": "https://p.scdn.co/mp3-preview/f97ce2f451844c8cef6d06c889d89cd826782048?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0719ad55850a05b6a7095317047a49dff61f05e2",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Aimee Mann",
+      "featuredArtistId": "3UpIbyXfGzmHG6TMH4dJEk",
+      "trackName": "Yesterday Once More",
+      "trackId": "0ZU16412zWibvPbqfoFeqn",
+      "preview": "https://p.scdn.co/mp3-preview/85f42f63b0c4463729fc707828d60fd2d6ec6099?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0719ad55850a05b6a7095317047a49dff61f05e2",
+      "release_date": "2016-02-19"
+    },
+    {
+      "featuredArtist": "Don Covay",
+      "featuredArtistId": "3SC1GczHVpsiorx1KFaa4S",
+      "trackName": "Everything I Do Goin' Be Funky",
+      "trackId": "1uYIU1j2LCzpYKhq8O4a5K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0719ad55850a05b6a7095317047a49dff61f05e2",
+      "release_date": "2016-02-19"
+    }
+  ]
+}

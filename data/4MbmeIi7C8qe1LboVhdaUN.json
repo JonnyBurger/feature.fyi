@@ -1,0 +1,23 @@
+{
+  "artistName": "Lucia Mendez",
+  "features": [
+    {
+      "featuredArtist": "Umberto Tozzi",
+      "featuredArtistId": "00w9sdZ78mWArooTmiSTld",
+      "trackName": "No Digas Sí, No Digas No",
+      "trackId": "1ddqC4lZ3XgGmafSgt4uyc",
+      "preview": "https://p.scdn.co/mp3-preview/4c103cf025b97f6797a0e0241650e38a5f9d1c25?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9425ad50bb071fb62df6f16096c2b3b1a96a8d21",
+      "release_date": "2015-11-13"
+    },
+    {
+      "featuredArtist": "Los Tucanes De Tijuana",
+      "featuredArtistId": "014WIDx7H4BRCHB1faiisK",
+      "trackName": "La Pareja Dispareja (feat. Los Tucanes De Tijuana)",
+      "trackId": "6pJUDXMpe1CpGScsXv05Vh",
+      "preview": "https://p.scdn.co/mp3-preview/fa069087ce046825aa5f18d4e9e7a10c8e7f90a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4acbfd0eef9b732ba27b83fc8c22d33af420d8df",
+      "release_date": "2004-06-12"
+    }
+  ]
+}

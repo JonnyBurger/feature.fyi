@@ -1,0 +1,86 @@
+{
+  "artistName": "Colmillo Norteño",
+  "features": [
+    {
+      "featuredArtist": "Nivel 21",
+      "featuredArtistId": "2vqhOfFamLMhMc3ihK7puR",
+      "trackName": "Navegando por los Cielos (feat. Nivel 21)",
+      "trackId": "73UxA9Eui2ty8m0rygHW1k",
+      "preview": "https://p.scdn.co/mp3-preview/e383ae761b495b94ba25433905d8a6d4cab714a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5abd9e1ddc13c84c965c4b43689631afbf82db1a",
+      "release_date": "2017-03-23"
+    },
+    {
+      "featuredArtist": "Uniko Mando",
+      "featuredArtistId": "3AUfq4jMcsSSsyv8FwP8bQ",
+      "trackName": "El Rapido (feat. Uniko Mando)",
+      "trackId": "0cEmQyvYEq6NRG62a8Q68Q",
+      "preview": "https://p.scdn.co/mp3-preview/6a02edf4acad7d1b6ef3131d325a86d0c3b75cab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bbc0a727b14db2e63459b8d725ec154966d19e4",
+      "release_date": "2016-12-10"
+    },
+    {
+      "featuredArtist": "Distinguidos De Chihuahua",
+      "featuredArtistId": "37i401Oh5t4KlFlUkW6Yss",
+      "trackName": "La Apuesta (feat. Distinguidos De Chihuahua)",
+      "trackId": "0ZH2TRLgUFPix7txKzouLz",
+      "preview": "https://p.scdn.co/mp3-preview/43a3e455c2014da9a1dc16698ab6012f75548158?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bbc0a727b14db2e63459b8d725ec154966d19e4",
+      "release_date": "2016-12-10"
+    },
+    {
+      "featuredArtist": "Banda La Divina",
+      "featuredArtistId": "6BOKhMb1vfI8re4QYtBVPO",
+      "trackName": "Mini Licenciado (feat. Banda La Divina)",
+      "trackId": "4bt9c98mOx1u9nXQnm8WWi",
+      "preview": "https://p.scdn.co/mp3-preview/8309ab4f940ea4edaea41ae9e0f78683cb81ff2d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3bbc0a727b14db2e63459b8d725ec154966d19e4",
+      "release_date": "2016-12-10"
+    },
+    {
+      "featuredArtist": "Buknas De Culiacan",
+      "featuredArtistId": "45hYVfD7CFus8HDkcFnUvH",
+      "trackName": "La Invitación (feat. Buknas De Culiacán)",
+      "trackId": "1yXxc7vuoBy3wk5JAHjZF8",
+      "preview": "https://p.scdn.co/mp3-preview/08f519b5594d25def7dbfdfff9c37110cb611031?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/83a0c163303a31b59ad8e34d6990aea58e82812a",
+      "release_date": "2015-09-16"
+    },
+    {
+      "featuredArtist": "Jesús Chairez",
+      "featuredArtistId": "49xb55bacoIXahj7bLmfUp",
+      "trackName": "No Me Tocará Volver (feat. Jesús Chairez)",
+      "trackId": "2xFr5xL2QaAhBsRMPabXL7",
+      "preview": "https://p.scdn.co/mp3-preview/b9f93926be4041fae2301126377a49b46adc838f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3a8aa035b174da6fd5f5de890294cb128a6b8e5d",
+      "release_date": "2018-03-13"
+    },
+    {
+      "featuredArtist": "La Máxima Banda",
+      "featuredArtistId": "2OztPLKezL7iF3nXWeMM4w",
+      "trackName": "No Me Tocará Volver (En Vivo) [feat. Jesús Chairez & La Máxima Banda]",
+      "trackId": "6G1jMYm2iZ0BrBQ0TeQYri",
+      "preview": "https://p.scdn.co/mp3-preview/6ad80e1c5c7a55ae4f565b1fc04d70b08080d37c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c3377730d87d53a14c4d9b18250fc8327d705f3e",
+      "release_date": "2017-11-23"
+    },
+    {
+      "featuredArtist": "Grupo Nivel 21",
+      "featuredArtistId": "5cyVlAE4tfL1Nlqj2HisKZ",
+      "trackName": "Acelerado (En Vivo) [feat. Grupo Nivel 21 & Banda Corona Del Rey]",
+      "trackId": "0Fsuqj2hjWkXeGVn0HZYts",
+      "preview": "https://p.scdn.co/mp3-preview/1ea316d044e7d7c72028bce6cb19e06923bb7dea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce714f4e87fc5150de38c1cdb6cde735309df721",
+      "release_date": "2017-08-10"
+    },
+    {
+      "featuredArtist": "Banda Corona del Rey",
+      "featuredArtistId": "0CxrfcSWTiBX7M6WAakESI",
+      "trackName": "Acelerado (En Vivo) [feat. Grupo Nivel 21 & Banda Corona Del Rey]",
+      "trackId": "0Fsuqj2hjWkXeGVn0HZYts",
+      "preview": "https://p.scdn.co/mp3-preview/1ea316d044e7d7c72028bce6cb19e06923bb7dea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ce714f4e87fc5150de38c1cdb6cde735309df721",
+      "release_date": "2017-08-10"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "artistName": "Khaled",
+  "features": [
+    {
+      "featuredArtist": "Zahouania",
+      "featuredArtistId": "13sLlXcYUQJPSPMYIqa6wv",
+      "trackName": "Ana bia taxi (feat. Zahouania)",
+      "trackId": "55H97iOYe46XXDiwnoww43",
+      "preview": "https://p.scdn.co/mp3-preview/f776349c8056f43b3e9b91005552a4e180556aa2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b18e08cb40d1b781ad0c2339752c374ddd97ed3",
+      "release_date": "2015-02-23"
+    },
+    {
+      "featuredArtist": "Amr Diab",
+      "featuredArtistId": "5abSRg0xN1NV3gLbuvX24M",
+      "trackName": "Mix Al Leila and Hiya Hiya (feat. Amr Diab)",
+      "trackId": "18JZn7U94TpI4nHzYNnzZk",
+      "preview": "https://p.scdn.co/mp3-preview/60f355faca068b7475928c358c9d758f52731781?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5b5f1ad25e1a36049dc44b89a17113b47ab23c87",
+      "release_date": "2013-12-11"
+    }
+  ]
+}

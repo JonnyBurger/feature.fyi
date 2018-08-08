@@ -1,0 +1,32 @@
+{
+  "artistName": "Keb' Mo'",
+  "features": [
+    {
+      "featuredArtist": "Taj Mahal",
+      "featuredArtistId": "1aTDTChWWyiJH3SEnYrdVp",
+      "trackName": "Don't Leave Me Here",
+      "trackId": "32OBpDChXK2ALmcebWGcxD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c1ba77b8931171c260b0d6b4245c199eef8cbb53",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Lizz Wright",
+      "featuredArtistId": "3K0BfjMh2dS8WITuiMuGGW",
+      "trackName": "Om Sweet Om",
+      "trackId": "2u7PutYXQ3UwF7hn8MEvaK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c1ba77b8931171c260b0d6b4245c199eef8cbb53",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "California Feetwarmers",
+      "featuredArtistId": "2uOJf4l82O6wMJSOPjjVDk",
+      "trackName": "Old Me Better (feat. The California Feetwarmers)",
+      "trackId": "0ob4wPuNOXPC92rjP0pT3d",
+      "preview": "https://p.scdn.co/mp3-preview/90684e450f52347fc3fa00ce9631d32a4405c0d2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/580ac40cb6c4dd821900f3476417c8c8471f9284",
+      "release_date": "2014-04-22"
+    }
+  ]
+}

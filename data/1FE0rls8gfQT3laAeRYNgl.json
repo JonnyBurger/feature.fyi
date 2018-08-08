@@ -1,0 +1,68 @@
+{
+  "artistName": "Loretta Lynn",
+  "features": [
+    {
+      "featuredArtist": "Elvis Costello",
+      "featuredArtistId": "2BGRfQgtzikz1pzAD0kaEn",
+      "trackName": "Everything it Takes",
+      "trackId": "5gc17gehCiuEeyAU1wO64e",
+      "preview": "https://p.scdn.co/mp3-preview/a7d30affc62d00de211e412ed9031947fc6dbe05?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f154c8a7f464c08a70aca577a52dd8b07e3da2bf",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Willie Nelson",
+      "featuredArtistId": "5W5bDNCqJ1jbCgTxDD0Cb3",
+      "trackName": "Lay Me Down",
+      "trackId": "0HfctMUdPTxgtwbmO8Viyr",
+      "preview": "https://p.scdn.co/mp3-preview/9fbd120e2bf7678ea22ba9084df6a23c38d3207b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f154c8a7f464c08a70aca577a52dd8b07e3da2bf",
+      "release_date": "2016-03-04"
+    },
+    {
+      "featuredArtist": "Conway Twitty",
+      "featuredArtistId": "7gi3jmwpUpNWdswT8eEprF",
+      "trackName": "After The Fire Is Gone - Single Version",
+      "trackId": "4Ydh88LKfaZPq0UlhWJAHK",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/67c1dd3288d5f7b74d55858d5c559e12aebb7063",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Ernest Tubb",
+      "featuredArtistId": "7gS1Yv0RynyzKX5ICtKIhS",
+      "trackName": "Mr. And Mrs. Used To Be - Single Version",
+      "trackId": "52G0I7spq6NN9OuyqBbdH1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/79197e5f931a38d07504fa719a63e99dd407fea3",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Dolly Parton",
+      "featuredArtistId": "32vWCbZh0xZ4o9gkz4PsEU",
+      "trackName": "Silver Threads And Golden Needles - Single Version",
+      "trackId": "3zzLKoHSdKdDGy7nsHN7yj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/79197e5f931a38d07504fa719a63e99dd407fea3",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Tammy Wynette",
+      "featuredArtistId": "1LFKKuzn302wp15dYH28id",
+      "trackName": "Silver Threads And Golden Needles - Single Version",
+      "trackId": "3zzLKoHSdKdDGy7nsHN7yj",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/79197e5f931a38d07504fa719a63e99dd407fea3",
+      "release_date": "2006-01-01"
+    },
+    {
+      "featuredArtist": "Jack White",
+      "featuredArtistId": "4FZ3j1oH43e7cukCALsCwf",
+      "trackName": "Portland, Oregon",
+      "trackId": "5KZ7xHdaC3Y4bdhgpMpYEA",
+      "preview": "https://p.scdn.co/mp3-preview/5dc31735aec51225d2f6ab86d81b13b5d1e4bc1d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/59382d519b214a491e007578a09b89dda9bad1c6",
+      "release_date": "2004-04-27"
+    }
+  ]
+}

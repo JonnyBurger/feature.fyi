@@ -1,0 +1,59 @@
+{
+  "artistName": "Students",
+  "features": [
+    {
+      "featuredArtist": "Daniel Huttlestone",
+      "featuredArtistId": "0yS5MNfD7YXRiv4DEFyc5F",
+      "trackName": "Paris / Look Down",
+      "trackId": "5T0IYQ0OfJkOXRB9HP4W1D",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b9aaf5dcf9a6aa5d35e18671964f6213d4bb6ae3",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Aaron Tveit",
+      "featuredArtistId": "68h2f0WXn4zEctSgNYozXx",
+      "trackName": "Paris / Look Down",
+      "trackId": "5T0IYQ0OfJkOXRB9HP4W1D",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b9aaf5dcf9a6aa5d35e18671964f6213d4bb6ae3",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Eddie Redmayne",
+      "featuredArtistId": "4EJP6Qhk6l18LumCcpEfLw",
+      "trackName": "Paris / Look Down",
+      "trackId": "5T0IYQ0OfJkOXRB9HP4W1D",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b9aaf5dcf9a6aa5d35e18671964f6213d4bb6ae3",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Les Misérables Cast",
+      "featuredArtistId": "71wy5iisVKXLZgoPxdFi8A",
+      "trackName": "Paris / Look Down",
+      "trackId": "5T0IYQ0OfJkOXRB9HP4W1D",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b9aaf5dcf9a6aa5d35e18671964f6213d4bb6ae3",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Russell Crowe",
+      "featuredArtistId": "3YBIrJozn8fop4UYIt7wcV",
+      "trackName": "Building The Barricade",
+      "trackId": "67n4tlGxfwDp6F9i3ScIy5",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b9aaf5dcf9a6aa5d35e18671964f6213d4bb6ae3",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Hadley Fraser",
+      "featuredArtistId": "72iF8bXdjmcjZnDWSedhNv",
+      "trackName": "The First Attack",
+      "trackId": "25FuxokuvPDi0A6eXkf3rN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b9aaf5dcf9a6aa5d35e18671964f6213d4bb6ae3",
+      "release_date": "2013-01-01"
+    }
+  ]
+}

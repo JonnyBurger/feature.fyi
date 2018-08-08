@@ -1,0 +1,356 @@
+{
+  "artistName": "Chris Botti",
+  "features": [
+    {
+      "featuredArtist": "Andrea Bocelli",
+      "featuredArtistId": "3EA9hVIzKfFiQI0Kikz2wo",
+      "trackName": "Per Te (For You)",
+      "trackId": "56MDhAIBalaE2uuBmjcNnq",
+      "preview": "https://p.scdn.co/mp3-preview/70b5012db943ccee35a37cd8f2bdc022742bb112?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b30a732773fdc2b2dcd92d22b4d072cac2267615",
+      "release_date": "2012-04-17"
+    },
+    {
+      "featuredArtist": "Vince Gill",
+      "featuredArtistId": "3IhWQSrLj8EJjdvjFTpCyo",
+      "trackName": "Losing You",
+      "trackId": "1hMWR52d1b5ALVpcPwqXY1",
+      "preview": "https://p.scdn.co/mp3-preview/d52af76bffac499c32f48a38db9baf785fda7212?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b30a732773fdc2b2dcd92d22b4d072cac2267615",
+      "release_date": "2012-04-17"
+    },
+    {
+      "featuredArtist": "Herbie Hancock",
+      "featuredArtistId": "2ZvrvbQNrHKwjT7qfGFFUW",
+      "trackName": "Tango Suite",
+      "trackId": "2ByMt6GMqmbvbiOPBYNHad",
+      "preview": "https://p.scdn.co/mp3-preview/a9abd39dab27b2d4f0f198ec1e899954637583cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b30a732773fdc2b2dcd92d22b4d072cac2267615",
+      "release_date": "2012-04-17"
+    },
+    {
+      "featuredArtist": "Caroline Campbell",
+      "featuredArtistId": "4wSkTxCSZ0IWALAA43kbBk",
+      "trackName": "Oblivion",
+      "trackId": "6NrrCXgsV4rAHoKOd3Hmg2",
+      "preview": "https://p.scdn.co/mp3-preview/9ccfcc059a3f80bb573e30608a0d4a3e5c790215?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b30a732773fdc2b2dcd92d22b4d072cac2267615",
+      "release_date": "2012-04-17"
+    },
+    {
+      "featuredArtist": "David Foster",
+      "featuredArtistId": "0SgQK24WzZf2pXBXYqHJYF",
+      "trackName": "Summertime",
+      "trackId": "1a5u8x0gb62q7KUgQxM3F3",
+      "preview": "https://p.scdn.co/mp3-preview/07949822731963143c4dd59e0b8cb057c999a40a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b30a732773fdc2b2dcd92d22b4d072cac2267615",
+      "release_date": "2012-04-17"
+    },
+    {
+      "featuredArtist": "Mark Knopfler",
+      "featuredArtistId": "0FI0kxP0BWurTz8cB8BBug",
+      "trackName": "What a Wonderful World",
+      "trackId": "1RSXKVVBlySZilmL32Espi",
+      "preview": "https://p.scdn.co/mp3-preview/adb8080fdd20975975f88918d246cb7c8e79b014?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b30a732773fdc2b2dcd92d22b4d072cac2267615",
+      "release_date": "2012-04-17"
+    },
+    {
+      "featuredArtist": "Paula Cole",
+      "featuredArtistId": "08DLZqQd6XDAVteF9nSEJ1",
+      "trackName": "The Very Thought Of You",
+      "trackId": "36dQCEAVBZq6OHr2NcGfPb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b391a3b6b920bd354b88759373c96d9d2c990b58",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Dean Martin",
+      "featuredArtistId": "49e4v89VmlDcFCMyDv9wQ9",
+      "trackName": "I've Grown Accustomed To Her Face (\"My Fair Lady\")",
+      "trackId": "3nmwqhf7yG6FrBVpzn5q20",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b391a3b6b920bd354b88759373c96d9d2c990b58",
+      "release_date": "2011-01-01"
+    },
+    {
+      "featuredArtist": "Dominic Miller",
+      "featuredArtistId": "32AFNkich94JXfGvIFqpkL",
+      "trackName": "Seven Days",
+      "trackId": "1zTNaErc8r56TbPJTwIoDG",
+      "preview": "https://p.scdn.co/mp3-preview/716ec750f052640a5412e54f7462ad7ea7431f53?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1b504c312a3aa9c1096ff8c1e9310905ddb23e94",
+      "release_date": "2009-03-31"
+    },
+    {
+      "featuredArtist": "Sting",
+      "featuredArtistId": "0Ty63ceoRnnJKVEYP0VQpk",
+      "trackName": "Seven Days",
+      "trackId": "1zTNaErc8r56TbPJTwIoDG",
+      "preview": "https://p.scdn.co/mp3-preview/716ec750f052640a5412e54f7462ad7ea7431f53?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1b504c312a3aa9c1096ff8c1e9310905ddb23e94",
+      "release_date": "2009-03-31"
+    },
+    {
+      "featuredArtist": "Lucia Micarelli",
+      "featuredArtistId": "5uQhOx84p7rsBcBsMwQhTV",
+      "trackName": "Emmanuel - Live",
+      "trackId": "3Dx0zxvzSBjEyI5WLytvIJ",
+      "preview": "https://p.scdn.co/mp3-preview/896edb9dcfacd80cae6b15d857a45b85a4b508fa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1b504c312a3aa9c1096ff8c1e9310905ddb23e94",
+      "release_date": "2009-03-31"
+    },
+    {
+      "featuredArtist": "Katharine McPhee",
+      "featuredArtistId": "5oWOx0BBDSMoFB8JDrjQre",
+      "trackName": "I've Got You Under My Skin - Live",
+      "trackId": "6UEgJIwmndAh1nXg5kqNOH",
+      "preview": "https://p.scdn.co/mp3-preview/c4c0d77a8b16fa498b8ebbd29d298b8484b1af06?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1b504c312a3aa9c1096ff8c1e9310905ddb23e94",
+      "release_date": "2009-03-31"
+    },
+    {
+      "featuredArtist": "Yo-Yo Ma",
+      "featuredArtistId": "5Dl3HXZjG6ZOWT5cV375lk",
+      "trackName": "Cinema Paradiso",
+      "trackId": "29XFSl6gbJOuE9QBG9lAiD",
+      "preview": "https://p.scdn.co/mp3-preview/d6f89cb6940999d7ed1b3906951b7b63d730eb89?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1b504c312a3aa9c1096ff8c1e9310905ddb23e94",
+      "release_date": "2009-03-31"
+    },
+    {
+      "featuredArtist": "Josh Groban",
+      "featuredArtistId": "6cXMpsP9x0SH4kFfMyVezF",
+      "trackName": "Broken Vow",
+      "trackId": "4pNyVYhD65IldvJLdaEgQ7",
+      "preview": "https://p.scdn.co/mp3-preview/4310f6de2b2fec5eb5fb45484b1bfc0bce4406ca?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1b504c312a3aa9c1096ff8c1e9310905ddb23e94",
+      "release_date": "2009-03-31"
+    },
+    {
+      "featuredArtist": "John Mayer",
+      "featuredArtistId": "0hEurMDQu99nJRq8pTxO14",
+      "trackName": "Glad to Be Unhappy",
+      "trackId": "6H6gvUpJkMoimKWQQyXNaX",
+      "preview": "https://p.scdn.co/mp3-preview/e2938acc685547271cfffca4de03b3f43e636b6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1b504c312a3aa9c1096ff8c1e9310905ddb23e94",
+      "release_date": "2009-03-31"
+    },
+    {
+      "featuredArtist": "Steven Tyler",
+      "featuredArtistId": "32zks9ovi0IExzUd1C7W6o",
+      "trackName": "Smile",
+      "trackId": "3V7jHyOBEC2eTGfc7EsH4Y",
+      "preview": "https://p.scdn.co/mp3-preview/11c867e61113ce8847008d6e75222341e02d08a1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1b504c312a3aa9c1096ff8c1e9310905ddb23e94",
+      "release_date": "2009-03-31"
+    },
+    {
+      "featuredArtist": "Bruno Martino",
+      "featuredArtistId": "7lvbHG1Uu4BcTYWqaqOpwi",
+      "trackName": "Estate",
+      "trackId": "6U4C5vcZn48PkklHlbFbK3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/108c0e868d5c8433d5293eb1205c44b5b2e17e12",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Ennio Morricone",
+      "featuredArtistId": "1nIUhcKHnK6iyumRyoV68C",
+      "trackName": "Deborah's Theme (\"Once Upon A Time In America\")",
+      "trackId": "0yd3Kd6rJRlxPjI6XiEQQp",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/108c0e868d5c8433d5293eb1205c44b5b2e17e12",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Ray Noble",
+      "featuredArtistId": "5ZCIBTruXBxbtCZ0IztQWI",
+      "trackName": "The Very Thought Of You",
+      "trackId": "4utXTRWiZyvtzAGdzfLFn9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/108c0e868d5c8433d5293eb1205c44b5b2e17e12",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Frederick Loewe",
+      "featuredArtistId": "6vSV6SDf1vteodhgV83AJ6",
+      "trackName": "I've Grown Accustomed To Her Face (\"My Fair Lady\")",
+      "trackId": "1OiCVeWnKow5MsPLy69aVh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/108c0e868d5c8433d5293eb1205c44b5b2e17e12",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Lucio Dalla",
+      "featuredArtistId": "25MkkfEousyfp2eyh38FUl",
+      "trackName": "Caruso",
+      "trackId": "25p6RS6npozD8WCvH6mWBc",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/108c0e868d5c8433d5293eb1205c44b5b2e17e12",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Jerome Kern",
+      "featuredArtistId": "09E7wcrEyqU2n1rnhzVT0h",
+      "trackName": "The Way You Look Tonight",
+      "trackId": "0RcNOV9mt0GDNyTOr3rgQD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/108c0e868d5c8433d5293eb1205c44b5b2e17e12",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Richard Rodgers",
+      "featuredArtistId": "4IbAZwt75dpehMOgcC3GnP",
+      "trackName": "It Never Entered My Mind",
+      "trackId": "4u4tvrBxSxja1NGxwXr9y9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/108c0e868d5c8433d5293eb1205c44b5b2e17e12",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Franz Schubert",
+      "featuredArtistId": "2p0UyoPfYfI76PCStuXfOP",
+      "trackName": "Ave Maria",
+      "trackId": "3DjzX8OkuxAf87GiSEx43K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/108c0e868d5c8433d5293eb1205c44b5b2e17e12",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "John Lubbock",
+      "featuredArtistId": "10VdsxC0YhKnlllP1qtxpn",
+      "trackName": "Ave Maria",
+      "trackId": "3DjzX8OkuxAf87GiSEx43K",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/108c0e868d5c8433d5293eb1205c44b5b2e17e12",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Dean Parks",
+      "featuredArtistId": "5AbTYo88zwt0mDXPpMAU7V",
+      "trackName": "Venice",
+      "trackId": "6kBd2VN5yTgrGydIyNYjgz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/108c0e868d5c8433d5293eb1205c44b5b2e17e12",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Giacomo Puccini",
+      "featuredArtistId": "0OzxPXyowUEQ532c9AmHUR",
+      "trackName": "Nessun Dorma (\"Turandot\")",
+      "trackId": "04lD4p36OG6FAc5uYL9gQr",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/108c0e868d5c8433d5293eb1205c44b5b2e17e12",
+      "release_date": "2007"
+    },
+    {
+      "featuredArtist": "Jill Scott",
+      "featuredArtistId": "6AVLthptCPhfrxlHadOBJD",
+      "trackName": "Good Morning Heartache - Live Audio from The Wilshire Theatre",
+      "trackId": "2TU7q95ZSarTw047rzV6A3",
+      "preview": "https://p.scdn.co/mp3-preview/085571e77dc941b5a47962b81ac36debed674ca5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bc1e797361ba762e7d1a84b1b9a8aab1dbb3a04c",
+      "release_date": "2006-10-17"
+    },
+    {
+      "featuredArtist": "Burt Bacharach",
+      "featuredArtistId": "35y7CZMg7jbG8Q96JY7dyC",
+      "trackName": "The Look of Love - Live Audio from The Wilshire Theatre",
+      "trackId": "1Tr2bP6udLuthtNFYweUri",
+      "preview": "https://p.scdn.co/mp3-preview/556e13826331dfea6eb66609cd9d38423b0a49a4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bc1e797361ba762e7d1a84b1b9a8aab1dbb3a04c",
+      "release_date": "2006-10-17"
+    },
+    {
+      "featuredArtist": "Renee Olstead",
+      "featuredArtistId": "19B0pJt4UEl3fUijGTRzxB",
+      "trackName": "Pennies from Heaven - Live Audio from The Wilshire Theatre",
+      "trackId": "3iDmERsujiSvmwgOdNlR1K",
+      "preview": "https://p.scdn.co/mp3-preview/14a0001c0129259c97a126d678bec9f68e397c3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bc1e797361ba762e7d1a84b1b9a8aab1dbb3a04c",
+      "release_date": "2006-10-17"
+    },
+    {
+      "featuredArtist": "Paul Buchanan",
+      "featuredArtistId": "4c9NYYIAGKWqPDTkoVnGr7",
+      "trackName": "Are You Lonesome Tonight? - Live Audio from The Wilshire Theatre",
+      "trackId": "0JfTAoN1SS1IRP7uiIumG8",
+      "preview": "https://p.scdn.co/mp3-preview/b67edfc0d1c151a7463eedcf060c0f074035e82e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bc1e797361ba762e7d1a84b1b9a8aab1dbb3a04c",
+      "release_date": "2006-10-17"
+    },
+    {
+      "featuredArtist": "Gladys Knight",
+      "featuredArtistId": "2aXiJJHJei5BmCykxI37y0",
+      "trackName": "Lover Man - Live Audio from The Wilshire Theatre",
+      "trackId": "4IGUH5uG6y7z1nYQ56LP9c",
+      "preview": "https://p.scdn.co/mp3-preview/2651ec044346c4886c1b4eb1e74e839c6274f94b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/bc1e797361ba762e7d1a84b1b9a8aab1dbb3a04c",
+      "release_date": "2006-10-17"
+    },
+    {
+      "featuredArtist": "Michael Bublé",
+      "featuredArtistId": "1GxkXlMwML1oSg5eLPiAz3",
+      "trackName": "Let There Be Love",
+      "trackId": "6CdVsNpN5Y2GbcuEXcaE7M",
+      "preview": "https://p.scdn.co/mp3-preview/40702c9908d188c842ff5520405e7b3ed707e917?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/77629058587b8ba1b5b9076fdd4732e603e38914",
+      "release_date": "2005-10-18"
+    },
+    {
+      "featuredArtist": "Billy Childs",
+      "featuredArtistId": "2DalOaFXdbHCB4cyMJhQtR",
+      "trackName": "I'll Be Seeing You",
+      "trackId": "6AhqsSbqhhvh6KoSmUUooR",
+      "preview": "https://p.scdn.co/mp3-preview/6b283f4df25f190eff476d8a19c54c1c3bc90f48?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/77629058587b8ba1b5b9076fdd4732e603e38914",
+      "release_date": "2005-10-18"
+    },
+    {
+      "featuredArtist": "Rosa Passos",
+      "featuredArtistId": "1ztbuuZdlymbE7XnHlj0nP",
+      "trackName": "Here's That Rainy Day",
+      "trackId": "5hizv7ahqruNDzw4vGPBhY",
+      "preview": "https://p.scdn.co/mp3-preview/e4bd4af0fe422b09c4efbad300ecde2c95df51fe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/77629058587b8ba1b5b9076fdd4732e603e38914",
+      "release_date": "2005-10-18"
+    },
+    {
+      "featuredArtist": "The Blue Nile",
+      "featuredArtistId": "1GWV70Reko15eV2nHCm0bM",
+      "trackName": "Midnight Without You",
+      "trackId": "4tx4TMcjEBZyYe92Nlf6Y9",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/249c954b8fe7d737f438943b15a4d2209b96df50",
+      "release_date": "2002-01-01"
+    },
+    {
+      "featuredArtist": "Jonatha Brooke",
+      "featuredArtistId": "3djsIvG79aMILDWDNiyChc",
+      "trackName": "Forgiven",
+      "trackId": "4hZyOHnJqvkWhxUcp5Ikrz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/249c954b8fe7d737f438943b15a4d2209b96df50",
+      "release_date": "2002-01-01"
+    },
+    {
+      "featuredArtist": "Edie Brickell",
+      "featuredArtistId": "5Y4g6bsYzlhsC6jRDQnN4a",
+      "trackName": "Like I Do Now",
+      "trackId": "3ThtA2R29NAXroDyfrrpUx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/249c954b8fe7d737f438943b15a4d2209b96df50",
+      "release_date": "2002-01-01"
+    },
+    {
+      "featuredArtist": "Eric Benét",
+      "featuredArtistId": "1kjO72M26jZkv0aaGxJaov",
+      "trackName": "I Really Don't Want Much for Christmas",
+      "trackId": "0LlZ8dYAGotR5todI1lR87",
+      "preview": "https://p.scdn.co/mp3-preview/7c0bf9890639970f175a0747b132c7b1f2ce01ec?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7f22903b4c0f6edbb99b888ede02d8ba3ad8ce35",
+      "release_date": "2002"
+    }
+  ]
+}

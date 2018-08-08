@@ -1,0 +1,50 @@
+{
+  "artistName": "BAEKHYUN",
+  "features": [
+    {
+      "featuredArtist": "SOYOU",
+      "featuredArtistId": "3b4kLCI0ZJW47TFsNRqgCb",
+      "trackName": "Rain",
+      "trackId": "5BORybllcNNjapY2shRHy1",
+      "preview": "https://p.scdn.co/mp3-preview/389d1acca90033376422e164314b826b605e714e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1a8c85924dfba0bae49927e89d412304f76a85ca",
+      "release_date": "2017-02-14"
+    },
+    {
+      "featuredArtist": "CHEN",
+      "featuredArtistId": "0UEP2XBR9aC5NBKcAKnBIq",
+      "trackName": "For You",
+      "trackId": "7rLvsAO1yb7ElxPhkz60qh",
+      "preview": "https://p.scdn.co/mp3-preview/6fa2656782fcb8d419ce70fccc12ad3b64229829?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/362c105c119c3473484f431b7a8a3f4e4acb8199",
+      "release_date": "2016-08-25"
+    },
+    {
+      "featuredArtist": "XIUMIN",
+      "featuredArtistId": "5t0Js3X9t4wpgXGlaiTFe6",
+      "trackName": "For You",
+      "trackId": "7rLvsAO1yb7ElxPhkz60qh",
+      "preview": "https://p.scdn.co/mp3-preview/6fa2656782fcb8d419ce70fccc12ad3b64229829?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/362c105c119c3473484f431b7a8a3f4e4acb8199",
+      "release_date": "2016-08-25"
+    },
+    {
+      "featuredArtist": "K.Will",
+      "featuredArtistId": "1XNC9ksvgXeD1xRJruSA5t",
+      "trackName": "The Day",
+      "trackId": "3MNJzWgUmu0X9tQxRuww8N",
+      "preview": "https://p.scdn.co/mp3-preview/58acb1d49e4fc874b9037e2fcdd538a3fcd2f565?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a1612a693310232d7290347533e8b5d35c6ff82a",
+      "release_date": "2016-05-13"
+    },
+    {
+      "featuredArtist": "Suzy",
+      "featuredArtistId": "4U80LJd8sG6U9YTFP5izka",
+      "trackName": "Dream",
+      "trackId": "3JBnDOUd18QKjDqSYuOfpm",
+      "preview": "https://p.scdn.co/mp3-preview/bb648136978eb62ea16287e89ec5e1cd2c36fb50?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5be59a967dcb8eb20c0ab99ae670025975eaf431",
+      "release_date": "2016-01-07"
+    }
+  ]
+}

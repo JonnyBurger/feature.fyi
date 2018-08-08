@@ -1,0 +1,815 @@
+{
+  "artistName": "Astor Piazzolla",
+  "features": [
+    {
+      "featuredArtist": "Isabelle van Keulen Ensemble",
+      "featuredArtistId": "3PlYlwM86A3syq329r6F6o",
+      "trackName": "Allegro tangabile",
+      "trackId": "2xxFNGVB3ZSOJH3qhmxqPE",
+      "preview": "https://p.scdn.co/mp3-preview/4e67361ac68a437831166cdff9be7abac6af6361?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cd98b4af3472c75f243a28e5961d7e7f0b5b4deb",
+      "release_date": "2018-04-06"
+    },
+    {
+      "featuredArtist": "Machiko Ozawa",
+      "featuredArtistId": "0BzRPLU0c68FFw1ivUWTY5",
+      "trackName": "Michelangelo 70 (Arr. for Violin & Piano)",
+      "trackId": "2EfFcWdIe02k5Lc2omxRc7",
+      "preview": "https://p.scdn.co/mp3-preview/ab6ccf56350b6ab787fdcff4f9a112d07f2b4319?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/38516cc62a068d4beab1d41dde308198873355ef",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Alon Yavnai",
+      "featuredArtistId": "7D9DryNCkOO7GzUvhUSIJN",
+      "trackName": "Michelangelo 70 (Arr. for Violin & Piano)",
+      "trackId": "2EfFcWdIe02k5Lc2omxRc7",
+      "preview": "https://p.scdn.co/mp3-preview/ab6ccf56350b6ab787fdcff4f9a112d07f2b4319?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/38516cc62a068d4beab1d41dde308198873355ef",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Ryo Yanagitani",
+      "featuredArtistId": "4Dqx5bw4vapT8PZLrLDW6N",
+      "trackName": "Escualo (Arr. for Violin & Piano)",
+      "trackId": "0KnbFjGCf33UgcPIw9jzpZ",
+      "preview": "https://p.scdn.co/mp3-preview/a2d5e7890cf386458fd7e7c6551a2ceb7d4f5e2e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/38516cc62a068d4beab1d41dde308198873355ef",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Ayako Shirasaki",
+      "featuredArtistId": "0lwT7qSieDFqTI5bk2VNqQ",
+      "trackName": "La Muerte del Ángel (Arr. for Violin & Piano)",
+      "trackId": "4FrEfmioR6yvtY7Dsilyyf",
+      "preview": "https://p.scdn.co/mp3-preview/506422f8582e995da4e30cee3e36e381fadd64af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/38516cc62a068d4beab1d41dde308198873355ef",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Octavio Brunetti",
+      "featuredArtistId": "3VbMJnIiSV32nwXOsd003P",
+      "trackName": "Oblivion (Arr. for Violin & Piano)",
+      "trackId": "3FAfI934L9k6TzZRem2tqd",
+      "preview": "https://p.scdn.co/mp3-preview/86fff6f99628c7896c2f5ff3b2908c84491b500d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/38516cc62a068d4beab1d41dde308198873355ef",
+      "release_date": "2018-01-05"
+    },
+    {
+      "featuredArtist": "Piercarlo Sacco",
+      "featuredArtistId": "1Z4mvPQIgf56tF16yae1Ms",
+      "trackName": "La calle 92",
+      "trackId": "74CBHCp69A76mx7mC4HOXz",
+      "preview": "https://p.scdn.co/mp3-preview/ffe4c9599506d37fc3a9d23e1d3fe6e55ed25645?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8838c32c0df61cd742a3610d538b942537c0283",
+      "release_date": "2017-12-29"
+    },
+    {
+      "featuredArtist": "Andrea Dieci",
+      "featuredArtistId": "6NULyllUrMaY7G5suk4UDe",
+      "trackName": "La calle 92",
+      "trackId": "74CBHCp69A76mx7mC4HOXz",
+      "preview": "https://p.scdn.co/mp3-preview/ffe4c9599506d37fc3a9d23e1d3fe6e55ed25645?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b8838c32c0df61cd742a3610d538b942537c0283",
+      "release_date": "2017-12-29"
+    },
+    {
+      "featuredArtist": "Juanjo Lopez Vidal",
+      "featuredArtistId": "6tiRvBvz3xpdMZKoiRT9v6",
+      "trackName": "María de Buenos Aires, Pt. 1: Alevare",
+      "trackId": "2qcY9RJ1fit6ZFp85EyBsO",
+      "preview": "https://p.scdn.co/mp3-preview/2db7fa1fa9581c167f28d56fc0ca3a1a2c5275cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5c2495455292586e2196c7319453dd9f6beb2ccf",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Victor Villena",
+      "featuredArtistId": "2JO04rKf42hMPhYO7L5pbr",
+      "trackName": "María de Buenos Aires, Pt. 1: Alevare",
+      "trackId": "2qcY9RJ1fit6ZFp85EyBsO",
+      "preview": "https://p.scdn.co/mp3-preview/2db7fa1fa9581c167f28d56fc0ca3a1a2c5275cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5c2495455292586e2196c7319453dd9f6beb2ccf",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Mr McFall's Chamber",
+      "featuredArtistId": "3PwgeWldQo9BNMEjZCt6Aw",
+      "trackName": "María de Buenos Aires, Pt. 1: Alevare",
+      "trackId": "2qcY9RJ1fit6ZFp85EyBsO",
+      "preview": "https://p.scdn.co/mp3-preview/2db7fa1fa9581c167f28d56fc0ca3a1a2c5275cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5c2495455292586e2196c7319453dd9f6beb2ccf",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Nicholas Mulroy",
+      "featuredArtistId": "1DmNspviv7RXnl4QxEocpM",
+      "trackName": "María de Buenos Aires, Pt. 1: Balada Renga para un Organito Loco",
+      "trackId": "19OeI7yt2pzesYpEe2CEP1",
+      "preview": "https://p.scdn.co/mp3-preview/e9c342a104a618eca22f6157cb18e297a78cabc1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5c2495455292586e2196c7319453dd9f6beb2ccf",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Roberto Rabinovich",
+      "featuredArtistId": "4Rts8QFWJNmM758CdnYUwv",
+      "trackName": "María de Buenos Aires, Pt. 1: Balada Renga para un Organito Loco",
+      "trackId": "19OeI7yt2pzesYpEe2CEP1",
+      "preview": "https://p.scdn.co/mp3-preview/e9c342a104a618eca22f6157cb18e297a78cabc1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5c2495455292586e2196c7319453dd9f6beb2ccf",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Pedro Castillo",
+      "featuredArtistId": "3TD0Np0YA37zQn6XztwGZx",
+      "trackName": "María de Buenos Aires, Pt. 1: Balada Renga para un Organito Loco",
+      "trackId": "19OeI7yt2pzesYpEe2CEP1",
+      "preview": "https://p.scdn.co/mp3-preview/e9c342a104a618eca22f6157cb18e297a78cabc1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5c2495455292586e2196c7319453dd9f6beb2ccf",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Gustavo Pardo",
+      "featuredArtistId": "05z9Mgdv15Q8cW0rUBLM0S",
+      "trackName": "María de Buenos Aires, Pt. 1: Balada Renga para un Organito Loco",
+      "trackId": "19OeI7yt2pzesYpEe2CEP1",
+      "preview": "https://p.scdn.co/mp3-preview/e9c342a104a618eca22f6157cb18e297a78cabc1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5c2495455292586e2196c7319453dd9f6beb2ccf",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Valentina Montoya Martinez",
+      "featuredArtistId": "1Q5MN6WbDtf9NvsBnq0PAe",
+      "trackName": "María de Buenos Aires, Pt. 1: Yo soy María",
+      "trackId": "03MrT4oLgLqXct6nCf5S6t",
+      "preview": "https://p.scdn.co/mp3-preview/610868de01656c033c62ea0021ac97954cc1f1bf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5c2495455292586e2196c7319453dd9f6beb2ccf",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Lisa Eskuche",
+      "featuredArtistId": "0W1zNxrPLBJKjOGuPuAnLu",
+      "trackName": "María de Buenos Aires, Pt. 1: Miserere Canyengue de los Ladrones Antiguos en las Alcantarillas",
+      "trackId": "32jrz4HStGgDLreaV69k7O",
+      "preview": "https://p.scdn.co/mp3-preview/34a9cbbdddbbcc4c8b3247a3b2eded296cfa439e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5c2495455292586e2196c7319453dd9f6beb2ccf",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Tanja Jacobs",
+      "featuredArtistId": "2G3YSRZbX7JH4gTmiAFJVI",
+      "trackName": "María de Buenos Aires, Pt. 1: Miserere Canyengue de los Ladrones Antiguos en las Alcantarillas",
+      "trackId": "32jrz4HStGgDLreaV69k7O",
+      "preview": "https://p.scdn.co/mp3-preview/34a9cbbdddbbcc4c8b3247a3b2eded296cfa439e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5c2495455292586e2196c7319453dd9f6beb2ccf",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Ann McFall",
+      "featuredArtistId": "2ungR1OBVRV1rDgoPOG6ea",
+      "trackName": "María de Buenos Aires, Pt. 1: Miserere Canyengue de los Ladrones Antiguos en las Alcantarillas",
+      "trackId": "32jrz4HStGgDLreaV69k7O",
+      "preview": "https://p.scdn.co/mp3-preview/34a9cbbdddbbcc4c8b3247a3b2eded296cfa439e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5c2495455292586e2196c7319453dd9f6beb2ccf",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Rhona McLeod",
+      "featuredArtistId": "20omRgrF2TJBRR6z1i8h67",
+      "trackName": "María de Buenos Aires, Pt. 1: Miserere Canyengue de los Ladrones Antiguos en las Alcantarillas",
+      "trackId": "32jrz4HStGgDLreaV69k7O",
+      "preview": "https://p.scdn.co/mp3-preview/34a9cbbdddbbcc4c8b3247a3b2eded296cfa439e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5c2495455292586e2196c7319453dd9f6beb2ccf",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Doreen Rodgers",
+      "featuredArtistId": "2O51dx1o01iVnamU0yx8Ed",
+      "trackName": "María de Buenos Aires, Pt. 1: Miserere Canyengue de los Ladrones Antiguos en las Alcantarillas",
+      "trackId": "32jrz4HStGgDLreaV69k7O",
+      "preview": "https://p.scdn.co/mp3-preview/34a9cbbdddbbcc4c8b3247a3b2eded296cfa439e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5c2495455292586e2196c7319453dd9f6beb2ccf",
+      "release_date": "2017-11-17"
+    },
+    {
+      "featuredArtist": "Tomás Cotik",
+      "featuredArtistId": "7K8THhthf58UlMDRcq6Pw0",
+      "trackName": "Escualo (Arr. T. Cotik)",
+      "trackId": "03jQXNFJuKlxX1rMhanziM",
+      "preview": "https://p.scdn.co/mp3-preview/6f8c67743e8f4202fbeac0a119dc64c066d87e46?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/51cccde81b7904324406f41d3d8e16d8811a46aa",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Tao Lin",
+      "featuredArtistId": "1htA7mVsQTRwHP6sqrILqI",
+      "trackName": "Escualo (Arr. T. Cotik)",
+      "trackId": "03jQXNFJuKlxX1rMhanziM",
+      "preview": "https://p.scdn.co/mp3-preview/6f8c67743e8f4202fbeac0a119dc64c066d87e46?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/51cccde81b7904324406f41d3d8e16d8811a46aa",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Jeffrey Kipperman",
+      "featuredArtistId": "4njXcxfTKn7xKePcaLaeaU",
+      "trackName": "Vardarito (Arr. T. Cotik)",
+      "trackId": "04ict6IKDJglDZ7j0kI6WI",
+      "preview": "https://p.scdn.co/mp3-preview/81a2a4932576c64f84e3d539bb190cd4864106d9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/51cccde81b7904324406f41d3d8e16d8811a46aa",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Alex Wadner",
+      "featuredArtistId": "6aj3vNnz5vBJSXSR6QxkIb",
+      "trackName": "Vardarito (Arr. T. Cotik)",
+      "trackId": "04ict6IKDJglDZ7j0kI6WI",
+      "preview": "https://p.scdn.co/mp3-preview/81a2a4932576c64f84e3d539bb190cd4864106d9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/51cccde81b7904324406f41d3d8e16d8811a46aa",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Bradley Loudis",
+      "featuredArtistId": "5CAIoEonpbM5Z0PsKv8mbm",
+      "trackName": "Vardarito (Arr. T. Cotik)",
+      "trackId": "04ict6IKDJglDZ7j0kI6WI",
+      "preview": "https://p.scdn.co/mp3-preview/81a2a4932576c64f84e3d539bb190cd4864106d9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/51cccde81b7904324406f41d3d8e16d8811a46aa",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Alfredo Lerida",
+      "featuredArtistId": "4k9usHQGyW3CCuKoYKl0zr",
+      "trackName": "Balada para un Loco (Arr. T. Cotik)",
+      "trackId": "4qYi48iGP2hVfSN1t38zXd",
+      "preview": "https://p.scdn.co/mp3-preview/c5d75c0d9206a955bdd065743fed755fb37d14ad?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/51cccde81b7904324406f41d3d8e16d8811a46aa",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Quinteto del Fuego",
+      "featuredArtistId": "2YxrOceQWy1AOaSxtpOMqw",
+      "trackName": "Decarísimo (Arr. for Bandoneon, Violin, Piano, Guitar & Double Bass)",
+      "trackId": "6OuMUkAPKc4LHlW4boMtDY",
+      "preview": "https://p.scdn.co/mp3-preview/a121166a8abf42ba5c602c62d924bc18c0aa9c6f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cd81fb84d2b5a0f530480ec0803b1bb94a2fdf13",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Elmira Darvarova",
+      "featuredArtistId": "3IruBmealJAp9NLRQepg6T",
+      "trackName": "Histoire du tango: II. Café 1930 (Arr. for Violin & Guitar)",
+      "trackId": "1d3Hf5VCTYFcE7h3OJkmXF",
+      "preview": "https://p.scdn.co/mp3-preview/a91d427769404a79da2e8d6fa73a2e3f139f8192?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cd81fb84d2b5a0f530480ec0803b1bb94a2fdf13",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "George Vassilev",
+      "featuredArtistId": "24dT1yqhwmhB4jjP9GZ1J4",
+      "trackName": "Histoire du tango: II. Café 1930 (Arr. for Violin & Guitar)",
+      "trackId": "1d3Hf5VCTYFcE7h3OJkmXF",
+      "preview": "https://p.scdn.co/mp3-preview/a91d427769404a79da2e8d6fa73a2e3f139f8192?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cd81fb84d2b5a0f530480ec0803b1bb94a2fdf13",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Stéphane Chapuis",
+      "featuredArtistId": "3DDrDbfLi8qNZV9TTxF6Ok",
+      "trackName": "Histoire du tango: III. Nightclub 1960 (Arr. for Bandoneon & Guitar)",
+      "trackId": "6RaOlq9FgDq5TVVK88VvNN",
+      "preview": "https://p.scdn.co/mp3-preview/7d124bda686ae866fc79f94317270c912549c3c0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cd81fb84d2b5a0f530480ec0803b1bb94a2fdf13",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Lionel Monnet",
+      "featuredArtistId": "2TH7WJyhi06guOKIacqjP8",
+      "trackName": "Ángel Series: Resurrección del ángel (Arr. for Violin & Piano)",
+      "trackId": "1KhihcfxRPqRm3Uq7k6mQQ",
+      "preview": "https://p.scdn.co/mp3-preview/401dfd4e1245203fb810e99e5e59b0ba9763438d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cd81fb84d2b5a0f530480ec0803b1bb94a2fdf13",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Irina Kalina Goudeva",
+      "featuredArtistId": "2LeA1uvSQwgbXecbF9u11L",
+      "trackName": "Tango Suite for 2 Guitars: II. Andante rubato (Arr. for Guitar, Bandoneon & Double Bass)",
+      "trackId": "2nCKC586PDpXza1KDqQSwk",
+      "preview": "https://p.scdn.co/mp3-preview/478c17c24514e783794c7cdba1885006ed828f55?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cd81fb84d2b5a0f530480ec0803b1bb94a2fdf13",
+      "release_date": "2017-09-22"
+    },
+    {
+      "featuredArtist": "Leticia Moreno",
+      "featuredArtistId": "3NqVtjj6GW1RvmCc1I56Ra",
+      "trackName": "Cuatro Estaciones Porteñas - Arr. Desyatnikov: Verano Porteño",
+      "trackId": "2LBAKBzPhP6UTGkDejEW9n",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/530d9b9e238a9dc97110a6e0f3be4aa466b35963",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Andrés Orozco-Estrada",
+      "featuredArtistId": "5NL2rslgSdYEMujmzqJDO2",
+      "trackName": "Cuatro Estaciones Porteñas - Arr. Desyatnikov: Verano Porteño",
+      "trackId": "2LBAKBzPhP6UTGkDejEW9n",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/530d9b9e238a9dc97110a6e0f3be4aa466b35963",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "London Philharmonic Orchestra",
+      "featuredArtistId": "3PfJE6ebCbCHeuqO4BfNeA",
+      "trackName": "Cuatro Estaciones Porteñas - Arr. Desyatnikov: Verano Porteño",
+      "trackId": "2LBAKBzPhP6UTGkDejEW9n",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/530d9b9e238a9dc97110a6e0f3be4aa466b35963",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Remy Van Kesteren",
+      "featuredArtistId": "5x183GdNFhX9FETwGNpOZE",
+      "trackName": "Concierto Para Quinteto (Guitar Part Transcribed For Harp)",
+      "trackId": "32MQqkgPdpZCBJQYoCQ5SV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/530d9b9e238a9dc97110a6e0f3be4aa466b35963",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Pablo Mainetti",
+      "featuredArtistId": "15lQ51CRGD5wu2f8Pmw9sZ",
+      "trackName": "Concierto Para Quinteto (Guitar Part Transcribed For Harp)",
+      "trackId": "32MQqkgPdpZCBJQYoCQ5SV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/530d9b9e238a9dc97110a6e0f3be4aa466b35963",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "José Gallardo",
+      "featuredArtistId": "3XGSN1ohby5TBnIN0kbH2E",
+      "trackName": "Concierto Para Quinteto (Guitar Part Transcribed For Harp)",
+      "trackId": "32MQqkgPdpZCBJQYoCQ5SV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/530d9b9e238a9dc97110a6e0f3be4aa466b35963",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Janne Saksala",
+      "featuredArtistId": "02vJu6mUBRggRlWDBPtyqk",
+      "trackName": "Concierto Para Quinteto (Guitar Part Transcribed For Harp)",
+      "trackId": "32MQqkgPdpZCBJQYoCQ5SV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/530d9b9e238a9dc97110a6e0f3be4aa466b35963",
+      "release_date": "2017-09-15"
+    },
+    {
+      "featuredArtist": "Ensemble Tangueando",
+      "featuredArtistId": "3ab8Y3y6uJJKQz4Njsz83f",
+      "trackName": "Cuatro Estaciones Porteñas: I. Otoño Porteño",
+      "trackId": "0ZPj1cQTh0ZK9hJ9Y1ZNpa",
+      "preview": "https://p.scdn.co/mp3-preview/ce3bc9ddb103e418145c02a4e83a52cb96ac85a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cc433c2d019c37eb79092b89479a1d7f8b123863",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Giovanni Miszczyszyn",
+      "featuredArtistId": "0Le381LDo1gjDwiy6KOSHQ",
+      "trackName": "Cuatro Estaciones Porteñas: I. Otoño Porteño",
+      "trackId": "0ZPj1cQTh0ZK9hJ9Y1ZNpa",
+      "preview": "https://p.scdn.co/mp3-preview/ce3bc9ddb103e418145c02a4e83a52cb96ac85a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cc433c2d019c37eb79092b89479a1d7f8b123863",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Ezio Borghese",
+      "featuredArtistId": "3F85dHna7CrFvkjDxTvd7I",
+      "trackName": "Cuatro Estaciones Porteñas: I. Otoño Porteño",
+      "trackId": "0ZPj1cQTh0ZK9hJ9Y1ZNpa",
+      "preview": "https://p.scdn.co/mp3-preview/ce3bc9ddb103e418145c02a4e83a52cb96ac85a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cc433c2d019c37eb79092b89479a1d7f8b123863",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Enrico Gianino",
+      "featuredArtistId": "0yqjKemso61D6ZwhLJryGG",
+      "trackName": "Cuatro Estaciones Porteñas: I. Otoño Porteño",
+      "trackId": "0ZPj1cQTh0ZK9hJ9Y1ZNpa",
+      "preview": "https://p.scdn.co/mp3-preview/ce3bc9ddb103e418145c02a4e83a52cb96ac85a9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/cc433c2d019c37eb79092b89479a1d7f8b123863",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Carme",
+      "featuredArtistId": "7Hh3hkxflzHWxf5P1c1iQd",
+      "trackName": "Concerto per bandoneon, chitarra e orchestra d'archi: I. Introduzione",
+      "trackId": "4xV3NjNuJ8rbYyUgp0GHIm",
+      "preview": "https://p.scdn.co/mp3-preview/26028bd44f5106f09585d9f420cf4393a95b2f6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c919929114c382ad8857dd63abde5feeed5a6e73",
+      "release_date": "2017-07-25"
+    },
+    {
+      "featuredArtist": "Marco De Santi",
+      "featuredArtistId": "3PEkaHTJOgT7cp4kZyvtDy",
+      "trackName": "Concerto per bandoneon, chitarra e orchestra d'archi: I. Introduzione",
+      "trackId": "4xV3NjNuJ8rbYyUgp0GHIm",
+      "preview": "https://p.scdn.co/mp3-preview/26028bd44f5106f09585d9f420cf4393a95b2f6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c919929114c382ad8857dd63abde5feeed5a6e73",
+      "release_date": "2017-07-25"
+    },
+    {
+      "featuredArtist": "Alison Balsom",
+      "featuredArtistId": "44Z5ZP2F1omniNpGEdNDdt",
+      "trackName": "Piazzolla: Libertango",
+      "trackId": "0mcgXc8P5GyGtP9aY7zir6",
+      "preview": "https://p.scdn.co/mp3-preview/75c06769feb14a25d2879773cc8e0a6e3ea651b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Edward Gardner",
+      "featuredArtistId": "31MZ4H71BYhKlPT6OkcLR2",
+      "trackName": "Piazzolla: Libertango",
+      "trackId": "0mcgXc8P5GyGtP9aY7zir6",
+      "preview": "https://p.scdn.co/mp3-preview/75c06769feb14a25d2879773cc8e0a6e3ea651b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Göteborg Symfoniker",
+      "featuredArtistId": "36gHxJ5JZmfC4AblCfhL6C",
+      "trackName": "Piazzolla: Libertango",
+      "trackId": "0mcgXc8P5GyGtP9aY7zir6",
+      "preview": "https://p.scdn.co/mp3-preview/75c06769feb14a25d2879773cc8e0a6e3ea651b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Martha Argerich",
+      "featuredArtistId": "66MvLAvLznk5UOvASVGjk4",
+      "trackName": "Piazzolla: Tre Tanghi: II. Oblivion",
+      "trackId": "4QHfWTx4j3LvgZxHFyZnNY",
+      "preview": "https://p.scdn.co/mp3-preview/50328bfb29359aa66e17d19184abd72e88bddd9d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Die 12 Cellisten der Berliner Philharmoniker",
+      "featuredArtistId": "3YZqGxNBOlhhAETu2LrNB7",
+      "trackName": "Piazzolla / Arr José Carli: María de Buenos Aires: Fuga y misterio",
+      "trackId": "3R4C6JGmiQ8P5xN7wbP9iA",
+      "preview": "https://p.scdn.co/mp3-preview/b3c15437e86466e39623ec042d400edb4a2cb02c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Daniel Barenboim",
+      "featuredArtistId": "78sEozQOEJxzXegUuqRSgH",
+      "trackName": "Piazzolla: Cuatro estaciones porteñas: No. 3 Primavera porteña",
+      "trackId": "1A8o70Sgg8ybcZGoVA4NK4",
+      "preview": "https://p.scdn.co/mp3-preview/522f34b24bb599cf7083f9c722b83007dbe22de9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Jacques Ammon",
+      "featuredArtistId": "3vVgUsQIebZf7vtCcbkOi1",
+      "trackName": "Piazzolla: Cuatro estaciones porteñas: No. 1 Verano Porteño (Tempo di Tango)",
+      "trackId": "4BzNGhQYwG2qUC0Ib9jqxh",
+      "preview": "https://p.scdn.co/mp3-preview/199b7f88d874ec0f47947551e7f6d3e42767970c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "David Aaron Carpenter",
+      "featuredArtistId": "72Y4jvlxSLaFRzCwa1N14c",
+      "trackName": "Piazolla: Cuatro estaciones porteñas: No. 2 Otoño porteño",
+      "trackId": "1UC2IUIArqVpArNx59xZL8",
+      "preview": "https://p.scdn.co/mp3-preview/105ce8e63d8c6c086954fd48b680bfbfb30761e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Mihai Marica",
+      "featuredArtistId": "0bARgcq4979CdA9TgBE0kH",
+      "trackName": "Piazolla: Cuatro estaciones porteñas: No. 2 Otoño porteño",
+      "trackId": "1UC2IUIArqVpArNx59xZL8",
+      "preview": "https://p.scdn.co/mp3-preview/105ce8e63d8c6c086954fd48b680bfbfb30761e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Salomé Chamber Orchestra",
+      "featuredArtistId": "4NPjR0D1Wa7dKoYAUFzx32",
+      "trackName": "Piazolla: Cuatro estaciones porteñas: No. 2 Otoño porteño",
+      "trackId": "1UC2IUIArqVpArNx59xZL8",
+      "preview": "https://p.scdn.co/mp3-preview/105ce8e63d8c6c086954fd48b680bfbfb30761e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Tine Thing Helseth",
+      "featuredArtistId": "6FbYyIZHMrBfvFJ8bidDcQ",
+      "trackName": "Piazzola: Cuatro estaciones porteñas: No. 4 Invierno Porteño (Buenos Aires Winter)",
+      "trackId": "5N3kz6mjy2gw7j48XihP9f",
+      "preview": "https://p.scdn.co/mp3-preview/264436517b1fec53eeb710ffd6634a8bcdd407ac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Emmanuel Pahud",
+      "featuredArtistId": "6duaKoFWgzQNgHlfmn3dHq",
+      "trackName": "Piazzolla: History of the Tango: I. Bordel 1900",
+      "trackId": "3YJ8zmfLPd7y6Do266cfxC",
+      "preview": "https://p.scdn.co/mp3-preview/e79b51dc7ed5d280d81c3c6356ac28f850be2afe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Christian Rivet",
+      "featuredArtistId": "4Uz03jdkyGrQHyHepr1Kqk",
+      "trackName": "Piazzolla: History of the Tango: I. Bordel 1900",
+      "trackId": "3YJ8zmfLPd7y6Do266cfxC",
+      "preview": "https://p.scdn.co/mp3-preview/e79b51dc7ed5d280d81c3c6356ac28f850be2afe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Alban Berg Quartett",
+      "featuredArtistId": "39bcPlnQijRpADa2yk6SGS",
+      "trackName": "Piazzola: Tango Sensations: No. 1 Asleep",
+      "trackId": "61Tbf6JB0ZZNZgycEF0HpQ",
+      "preview": "https://p.scdn.co/mp3-preview/b3db517a8efafe9297c7f02d58630a966caacdf7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Mstislav Rostropovich",
+      "featuredArtistId": "50hiYMhi0g77BOkkQ4zebB",
+      "trackName": "Piazzolla: Le Grand Tango",
+      "trackId": "5Xj2uUDOEzlDh12am63bAO",
+      "preview": "https://p.scdn.co/mp3-preview/7fe0b52b6961b239f8ac473cc9492f643cad39e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Igor Uriash",
+      "featuredArtistId": "7gZeT7fmLoPMId1yKpBZzg",
+      "trackName": "Piazzolla: Le Grand Tango",
+      "trackId": "5Xj2uUDOEzlDh12am63bAO",
+      "preview": "https://p.scdn.co/mp3-preview/7fe0b52b6961b239f8ac473cc9492f643cad39e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Manuel Barrueco",
+      "featuredArtistId": "2Ji7pIcY1oJeS2tevigVaE",
+      "trackName": "Piazzolla: La muerte del ángel",
+      "trackId": "2vks217a5CVHqsz0RKll5h",
+      "preview": "https://p.scdn.co/mp3-preview/a1ecb3c07524cb9c9d4ce686058ec50f699ce61d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Quito Gato",
+      "featuredArtistId": "5Zv4t1aqOXLysv5RUNMUea",
+      "trackName": "Piazzolla: Los pájaros perdidos",
+      "trackId": "3HprEdlYTpJ6Tn0NjEFxF1",
+      "preview": "https://p.scdn.co/mp3-preview/7e02e900e5cba67ce1dc509cf73ec74b9ea5c83c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Philippe Jaroussky",
+      "featuredArtistId": "17aC1wctGme2P8YC6LVov2",
+      "trackName": "Piazzolla: Los pájaros perdidos",
+      "trackId": "3HprEdlYTpJ6Tn0NjEFxF1",
+      "preview": "https://p.scdn.co/mp3-preview/7e02e900e5cba67ce1dc509cf73ec74b9ea5c83c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Christina Pluhar",
+      "featuredArtistId": "7xB7TQUAeFWgqdkhGiArgZ",
+      "trackName": "Piazzolla: Los pájaros perdidos",
+      "trackId": "3HprEdlYTpJ6Tn0NjEFxF1",
+      "preview": "https://p.scdn.co/mp3-preview/7e02e900e5cba67ce1dc509cf73ec74b9ea5c83c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "L'Arpeggiata",
+      "featuredArtistId": "3kC7VaScP8y69rzg0vsswQ",
+      "trackName": "Piazzolla: Los pájaros perdidos",
+      "trackId": "3HprEdlYTpJ6Tn0NjEFxF1",
+      "preview": "https://p.scdn.co/mp3-preview/7e02e900e5cba67ce1dc509cf73ec74b9ea5c83c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Gidon Kremer",
+      "featuredArtistId": "24ibCRKLtfIZcfrixiBAsm",
+      "trackName": "Piazolla: Concierto del Ángel: I. Introducción al Ángel",
+      "trackId": "4RJ83vwMF9bfX9yYmPzuji",
+      "preview": "https://p.scdn.co/mp3-preview/1c59a9a5e95877011be1a68ae0ecdf6055f66b05?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Kremerata Baltica",
+      "featuredArtistId": "0ect9tEgQI3kYRdAshny5a",
+      "trackName": "Piazolla: Concierto del Ángel: I. Introducción al Ángel",
+      "trackId": "4RJ83vwMF9bfX9yYmPzuji",
+      "preview": "https://p.scdn.co/mp3-preview/1c59a9a5e95877011be1a68ae0ecdf6055f66b05?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Alois Posch",
+      "featuredArtistId": "185e1S8vEBOvLbE7a6Qyt9",
+      "trackName": "Piazzolla: María de Buenos Aires, Part 1, Scene 1: Alevare (El duende)",
+      "trackId": "2qcOPgXxQSbCP4xoLpB5ky",
+      "preview": "https://p.scdn.co/mp3-preview/97418d06c6e250f1f4ac5d769a6de6444543ab08?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Horacio Ferrer",
+      "featuredArtistId": "2YVUCSYeU9bgnXbno2WCu5",
+      "trackName": "Piazzolla: María de Buenos Aires, Part 1, Scene 1: Alevare (El duende)",
+      "trackId": "2qcOPgXxQSbCP4xoLpB5ky",
+      "preview": "https://p.scdn.co/mp3-preview/97418d06c6e250f1f4ac5d769a6de6444543ab08?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Jairo",
+      "featuredArtistId": "3ntRQDXXN6E3i1xnzrXvVP",
+      "trackName": "Piazzolla: María de Buenos Aires, Part 1, Scene 1: Alevare (El duende)",
+      "trackId": "2qcOPgXxQSbCP4xoLpB5ky",
+      "preview": "https://p.scdn.co/mp3-preview/97418d06c6e250f1f4ac5d769a6de6444543ab08?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Julia Zenko",
+      "featuredArtistId": "5zsw1AANYqHiLeJ9GGHjLP",
+      "trackName": "Piazzolla: María de Buenos Aires, Part 1, Scene 1: Alevare (El duende)",
+      "trackId": "2qcOPgXxQSbCP4xoLpB5ky",
+      "preview": "https://p.scdn.co/mp3-preview/97418d06c6e250f1f4ac5d769a6de6444543ab08?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Maria Fedotova",
+      "featuredArtistId": "1goa7IbPtPcfJ4kOMD5RGA",
+      "trackName": "Piazzolla: María de Buenos Aires, Part 1, Scene 1: Alevare (El duende)",
+      "trackId": "2qcOPgXxQSbCP4xoLpB5ky",
+      "preview": "https://p.scdn.co/mp3-preview/97418d06c6e250f1f4ac5d769a6de6444543ab08?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Marta Sudraba",
+      "featuredArtistId": "6ZVKRv93xCYDrKb5cgSAFE",
+      "trackName": "Piazzolla: María de Buenos Aires, Part 1, Scene 1: Alevare (El duende)",
+      "trackId": "2qcOPgXxQSbCP4xoLpB5ky",
+      "preview": "https://p.scdn.co/mp3-preview/97418d06c6e250f1f4ac5d769a6de6444543ab08?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Per Arne Glorvigen",
+      "featuredArtistId": "37K4tIMuTzJlF2yvfSeFs5",
+      "trackName": "Piazzolla: María de Buenos Aires, Part 1, Scene 1: Alevare (El duende)",
+      "trackId": "2qcOPgXxQSbCP4xoLpB5ky",
+      "preview": "https://p.scdn.co/mp3-preview/97418d06c6e250f1f4ac5d769a6de6444543ab08?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Peter Sadlo",
+      "featuredArtistId": "4c9kGa5k5luOxgOntT2A2v",
+      "trackName": "Piazzolla: María de Buenos Aires, Part 1, Scene 1: Alevare (El duende)",
+      "trackId": "2qcOPgXxQSbCP4xoLpB5ky",
+      "preview": "https://p.scdn.co/mp3-preview/97418d06c6e250f1f4ac5d769a6de6444543ab08?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Ula Zebriunaite",
+      "featuredArtistId": "0Obyxu7Yh0jTCwoxdFSbbw",
+      "trackName": "Piazzolla: María de Buenos Aires, Part 1, Scene 1: Alevare (El duende)",
+      "trackId": "2qcOPgXxQSbCP4xoLpB5ky",
+      "preview": "https://p.scdn.co/mp3-preview/97418d06c6e250f1f4ac5d769a6de6444543ab08?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Vadim Sakharov",
+      "featuredArtistId": "24gcrV4CPiIh9MJPYdr3x5",
+      "trackName": "Piazzolla: María de Buenos Aires, Part 1, Scene 1: Alevare (El duende)",
+      "trackId": "2qcOPgXxQSbCP4xoLpB5ky",
+      "preview": "https://p.scdn.co/mp3-preview/97418d06c6e250f1f4ac5d769a6de6444543ab08?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/909041bc13a0dbadc25e6672fe472c19a100fd4c",
+      "release_date": "2017-05-26"
+    },
+    {
+      "featuredArtist": "Massimo Maltese",
+      "featuredArtistId": "548WcvLCv2mJ7p2SKjy91S",
+      "trackName": "Oblivion",
+      "trackId": "62Qq6TYY4QVjXdalplT5wk",
+      "preview": "https://p.scdn.co/mp3-preview/21d6ee4502a1dd52eb46e1084173cc6d2da41c34?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4ae0d7953b398169c3a8705cdcab6e4c7d8daca8",
+      "release_date": "2017-05-09"
+    },
+    {
+      "featuredArtist": "Laura Miradoli",
+      "featuredArtistId": "2mqjq6sbcCToe4oFIDgXg5",
+      "trackName": "Oblivion",
+      "trackId": "62Qq6TYY4QVjXdalplT5wk",
+      "preview": "https://p.scdn.co/mp3-preview/21d6ee4502a1dd52eb46e1084173cc6d2da41c34?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4ae0d7953b398169c3a8705cdcab6e4c7d8daca8",
+      "release_date": "2017-05-09"
+    },
+    {
+      "featuredArtist": "Cesar Olguin",
+      "featuredArtistId": "7j0i7kIxL5qxbFm8ene2Nc",
+      "trackName": "Adios Nonino (arr. for bandoneon and orchestra)",
+      "trackId": "62qXbVlF4g1tNST0SHf0KD",
+      "preview": "https://p.scdn.co/mp3-preview/a3ed0619051e1c8752dbda7533f1ff3cda4a67c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a5d04cb4c4a1ba8474f26d43e8e7b09dbbd2c503",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Camerata de Coahuila",
+      "featuredArtistId": "7bNyL1TVxwYHQviTtwoTcn",
+      "trackName": "Adios Nonino (arr. for bandoneon and orchestra)",
+      "trackId": "62qXbVlF4g1tNST0SHf0KD",
+      "preview": "https://p.scdn.co/mp3-preview/a3ed0619051e1c8752dbda7533f1ff3cda4a67c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a5d04cb4c4a1ba8474f26d43e8e7b09dbbd2c503",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Ramón Shade",
+      "featuredArtistId": "44RPd6VXs9msSAQ7jZ8rJW",
+      "trackName": "Adios Nonino (arr. for bandoneon and orchestra)",
+      "trackId": "62qXbVlF4g1tNST0SHf0KD",
+      "preview": "https://p.scdn.co/mp3-preview/a3ed0619051e1c8752dbda7533f1ff3cda4a67c6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a5d04cb4c4a1ba8474f26d43e8e7b09dbbd2c503",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Kjell Fageus",
+      "featuredArtistId": "2ZLQEYWwzyYEy5EHX0QHne",
+      "trackName": "Ausencias",
+      "trackId": "6haH0uM63Z7jVysBky36vb",
+      "preview": "https://p.scdn.co/mp3-preview/77ed87dcf74a60574f56b9e8765f0c8808997c85?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d5c58da31f5b29f9ce8071ca2cbde22d0f1fa942",
+      "release_date": "2017-03-23"
+    },
+    {
+      "featuredArtist": "Love Derwinger",
+      "featuredArtistId": "2x8TEvp7ugOV0LGeJyuFy2",
+      "trackName": "Ausencias",
+      "trackId": "6haH0uM63Z7jVysBky36vb",
+      "preview": "https://p.scdn.co/mp3-preview/77ed87dcf74a60574f56b9e8765f0c8808997c85?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d5c58da31f5b29f9ce8071ca2cbde22d0f1fa942",
+      "release_date": "2017-03-23"
+    },
+    {
+      "featuredArtist": "Duo Aeternica",
+      "featuredArtistId": "0fP6EvS84P2DmYmPcz2IgR",
+      "trackName": "Ausencias",
+      "trackId": "6haH0uM63Z7jVysBky36vb",
+      "preview": "https://p.scdn.co/mp3-preview/77ed87dcf74a60574f56b9e8765f0c8808997c85?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d5c58da31f5b29f9ce8071ca2cbde22d0f1fa942",
+      "release_date": "2017-03-23"
+    },
+    {
+      "featuredArtist": "Christelle Abinasr",
+      "featuredArtistId": "0KJq67JIAdRve6sqvhbpfr",
+      "trackName": "Libertango",
+      "trackId": "5QITM0gEMLfi48WwUwxupU",
+      "preview": "https://p.scdn.co/mp3-preview/fc050413ab1ea768db54bdfed4f77c82aa3b168f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5c31a607928b5f166855a04333efa8396407a892",
+      "release_date": "2017-03-01"
+    },
+    {
+      "featuredArtist": "Giampaolo Bandini",
+      "featuredArtistId": "4595j6hRaOlFfOCY351Scm",
+      "trackName": "Escualo",
+      "trackId": "75no9CPPNvUHw07W2Ny0gb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ef8b97d25f65d7b08b2435227d27ae33e2f14db8",
+      "release_date": "2017-01-27"
+    },
+    {
+      "featuredArtist": "Cesare Chiacchiaretta",
+      "featuredArtistId": "6DQxm2hVfp6yiRdhl0qOkL",
+      "trackName": "Escualo",
+      "trackId": "75no9CPPNvUHw07W2Ny0gb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ef8b97d25f65d7b08b2435227d27ae33e2f14db8",
+      "release_date": "2017-01-27"
+    }
+  ]
+}

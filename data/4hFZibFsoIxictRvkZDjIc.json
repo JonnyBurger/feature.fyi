@@ -1,0 +1,59 @@
+{
+  "artistName": "Demarco Flamenco",
+  "features": [
+    {
+      "featuredArtist": "María Artés Lamorena",
+      "featuredArtistId": "17GzrkHheGWz4qfMLRWZKZ",
+      "trackName": "¿Qué nos ha pasado? (feat. María Artés Lamorena)",
+      "trackId": "38rAIpaLAlzvgg94iQhtVB",
+      "preview": "https://p.scdn.co/mp3-preview/6755eedc4a933f0d4dc7699a1c3dc3a69d1c9d6f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/234f1f4e9f01f29b986ac14bd4c5b6a8e4e2a2d1",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Maki",
+      "featuredArtistId": "65GDNtLQdPv30IljvoE2KW",
+      "trackName": "La isla del Amor (feat. Maki)",
+      "trackId": "4TAeQGgVJDHARswUFVm03i",
+      "preview": "https://p.scdn.co/mp3-preview/30f3d01cca1aff77694b705eeff9fa71792f3ac9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/234f1f4e9f01f29b986ac14bd4c5b6a8e4e2a2d1",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Juan Magán",
+      "featuredArtistId": "1ackd5XprZEkH3McKbQD51",
+      "trackName": "La isla del amor - RMX",
+      "trackId": "1ALca9LS7SmVbzDdXXXl5z",
+      "preview": "https://p.scdn.co/mp3-preview/0a01916fb81f751aa694029eb2d807fc31900919?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/234f1f4e9f01f29b986ac14bd4c5b6a8e4e2a2d1",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Nyno Vargas",
+      "featuredArtistId": "2dkbKcHXhN7ooFBdqAV76G",
+      "trackName": "Flamenca (feat. Nyno Vargas & Demarco Flamenco)",
+      "trackId": "5CTCZHdmKdWaXO29BVN6UK",
+      "preview": "https://p.scdn.co/mp3-preview/d75bb90312c05bfb6ff7c3fd1b8266f52ddc34d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5ef8c1764ea665f9ef51b58c91557d7227a04a9b",
+      "release_date": "2018-04-06"
+    },
+    {
+      "featuredArtist": "Jose Maria Ruiz",
+      "featuredArtistId": "5YthZNl2lLPI7ckqC17uPP",
+      "trackName": "Olvídate De Mí",
+      "trackId": "3c0YhTK4W8ntOPXW6hOkuv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/04e0a0f8276bb168756be2261d989cdda49eda98",
+      "release_date": "2017-11-10"
+    },
+    {
+      "featuredArtist": "Borja Rubio",
+      "featuredArtistId": "79NHJFzd1chgx30ZOavJaC",
+      "trackName": "Se Va El Amor",
+      "trackId": "4eDrW8QWXEVj27Bijks2qh",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b3e34e0396a18debfeb4e4e669b31579a4e014f7",
+      "release_date": "2017-11-10"
+    }
+  ]
+}

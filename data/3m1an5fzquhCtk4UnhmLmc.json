@@ -1,0 +1,473 @@
+{
+  "artistName": "El Chojin",
+  "features": [
+    {
+      "featuredArtist": "Accion Sanchez",
+      "featuredArtistId": "3R8z9YIb6DBi9Z8gPbhyXs",
+      "trackName": "Según el Guión",
+      "trackId": "0Ai1xXlACPtEpHVIIZ1OFr",
+      "preview": "https://p.scdn.co/mp3-preview/4bf17f61dbf857340ed17a3f214615dc2c997a18?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f32174deee9c51d006ce75abeb016c8cb2085a8",
+      "release_date": "2017-04-18"
+    },
+    {
+      "featuredArtist": "Niggaswing",
+      "featuredArtistId": "5iTzvaRtQkXsbDBD5J6EsA",
+      "trackName": "Según el Guión",
+      "trackId": "0Ai1xXlACPtEpHVIIZ1OFr",
+      "preview": "https://p.scdn.co/mp3-preview/4bf17f61dbf857340ed17a3f214615dc2c997a18?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f32174deee9c51d006ce75abeb016c8cb2085a8",
+      "release_date": "2017-04-18"
+    },
+    {
+      "featuredArtist": "Tosko",
+      "featuredArtistId": "6TB7aGH2wncweq212VM7OF",
+      "trackName": "Por las Segundas Oportunidades",
+      "trackId": "4eTYMysRaPmcHvxgnY0N6W",
+      "preview": "https://p.scdn.co/mp3-preview/082cf84848aa231f8e88f4b5ca31691a8c507a83?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f32174deee9c51d006ce75abeb016c8cb2085a8",
+      "release_date": "2017-04-18"
+    },
+    {
+      "featuredArtist": "Roko",
+      "featuredArtistId": "5jjou05ayZva55AaDWxj2C",
+      "trackName": "Lo Que Ellos Quieren",
+      "trackId": "07x4dj78kNHpTgOip68UtV",
+      "preview": "https://p.scdn.co/mp3-preview/bfaa701aa800de32d0c37c897c82fddd6677995c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f32174deee9c51d006ce75abeb016c8cb2085a8",
+      "release_date": "2017-04-18"
+    },
+    {
+      "featuredArtist": "Maureen Choi",
+      "featuredArtistId": "3FeoF9iyZCdqLo0Ir6zqGN",
+      "trackName": "Lo Que Ellos Quieren",
+      "trackId": "07x4dj78kNHpTgOip68UtV",
+      "preview": "https://p.scdn.co/mp3-preview/bfaa701aa800de32d0c37c897c82fddd6677995c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f32174deee9c51d006ce75abeb016c8cb2085a8",
+      "release_date": "2017-04-18"
+    },
+    {
+      "featuredArtist": "Daniel Garcia",
+      "featuredArtistId": "6HqAm8gAUmeQlzuGcDmDlF",
+      "trackName": "Lo Que Ellos Quieren",
+      "trackId": "07x4dj78kNHpTgOip68UtV",
+      "preview": "https://p.scdn.co/mp3-preview/bfaa701aa800de32d0c37c897c82fddd6677995c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f32174deee9c51d006ce75abeb016c8cb2085a8",
+      "release_date": "2017-04-18"
+    },
+    {
+      "featuredArtist": "Arkano",
+      "featuredArtistId": "5ACyfaynUH9FpBaR8uZprQ",
+      "trackName": "El Origen",
+      "trackId": "01QkHpqUo2Vetl3Re1e4nb",
+      "preview": "https://p.scdn.co/mp3-preview/7b2d7bd03f4bbef51ba16b074aff73a4a6861e74?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f32174deee9c51d006ce75abeb016c8cb2085a8",
+      "release_date": "2017-04-18"
+    },
+    {
+      "featuredArtist": "Skone",
+      "featuredArtistId": "3b0zCqdij8lmz7vFSzqvco",
+      "trackName": "El Origen",
+      "trackId": "01QkHpqUo2Vetl3Re1e4nb",
+      "preview": "https://p.scdn.co/mp3-preview/7b2d7bd03f4bbef51ba16b074aff73a4a6861e74?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f32174deee9c51d006ce75abeb016c8cb2085a8",
+      "release_date": "2017-04-18"
+    },
+    {
+      "featuredArtist": "Daila",
+      "featuredArtistId": "4foidzIWbstZ2WWCcsZT8z",
+      "trackName": "Guerra y Paz",
+      "trackId": "7kDQq5zpdeOFcUjfQ5aV52",
+      "preview": "https://p.scdn.co/mp3-preview/3e722046aefdcac73f75091e4df58d9f3794fc2e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f32174deee9c51d006ce75abeb016c8cb2085a8",
+      "release_date": "2017-04-18"
+    },
+    {
+      "featuredArtist": "Mi Conciencia",
+      "featuredArtistId": "5uCwTarAHtztBS01FeluLV",
+      "trackName": "Introspección",
+      "trackId": "00sEjUmyI44d3ICUts03VG",
+      "preview": "https://p.scdn.co/mp3-preview/f1bc7ddd88eedb8f99d8d4396888227d4384a38f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f32174deee9c51d006ce75abeb016c8cb2085a8",
+      "release_date": "2017-04-18"
+    },
+    {
+      "featuredArtist": "Lydia",
+      "featuredArtistId": "1YYxodrdAUSYhO8ueGQtXs",
+      "trackName": "El Final del Cuento de Hadas",
+      "trackId": "4NgLEZgiugZR9WlWd4c1Yp",
+      "preview": "https://p.scdn.co/mp3-preview/1e379418c92b16d8f5aa6137ca92dc536c2f1dfb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a2c52db2e2de754c880a26159ec5fd7f02bb78f7",
+      "release_date": "2015-05-24"
+    },
+    {
+      "featuredArtist": "Donpa",
+      "featuredArtistId": "6mKdLlwfKveAfTg1pp9Q3u",
+      "trackName": "Algo Más Que Música",
+      "trackId": "5fi4o34loVjI6iWu3HmX5Z",
+      "preview": "https://p.scdn.co/mp3-preview/670ace332683e28a1ad83a2164b157668a9516db?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a2c52db2e2de754c880a26159ec5fd7f02bb78f7",
+      "release_date": "2015-05-24"
+    },
+    {
+      "featuredArtist": "El Otro",
+      "featuredArtistId": "1Sb3t2jGcUj8aYgehawjox",
+      "trackName": "Supervivencia",
+      "trackId": "7teIPpDwGm9lVZYBJR4oMV",
+      "preview": "https://p.scdn.co/mp3-preview/3aa9b936328b70ba06b385d7914474f0a6eca42d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a2c52db2e2de754c880a26159ec5fd7f02bb78f7",
+      "release_date": "2015-05-24"
+    },
+    {
+      "featuredArtist": "El Señor Veldin",
+      "featuredArtistId": "0FN5qMjfzD44a5eiQgx5W8",
+      "trackName": "Bla Bla!",
+      "trackId": "7mkRqSq3hwbeD43m0dyNSG",
+      "preview": "https://p.scdn.co/mp3-preview/0438b65848ec4927af4106e9a376f13ef757a9ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a2c52db2e2de754c880a26159ec5fd7f02bb78f7",
+      "release_date": "2015-05-24"
+    },
+    {
+      "featuredArtist": "Dlux",
+      "featuredArtistId": "2THWtSwdxCxRd2BPVe6Ql1",
+      "trackName": "Diez Obviedades",
+      "trackId": "1Wc0dOWJf3IuZ7gFaDDbSq",
+      "preview": "https://p.scdn.co/mp3-preview/406899cdb2909d1da47eeb8babc294c772066f6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca82a965d37ad4ee7c6982a919e5fe83a4638690",
+      "release_date": "2015-05-24"
+    },
+    {
+      "featuredArtist": "Gospel Factory",
+      "featuredArtistId": "50gm3regOLdY0QpcK6rEob",
+      "trackName": "Quisiera Ser",
+      "trackId": "7FaKUaIaxGhobIH3e7s1H5",
+      "preview": "https://p.scdn.co/mp3-preview/b4ad18cf5ac572b1de48c30dd46dbffc7fc9b1bc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca82a965d37ad4ee7c6982a919e5fe83a4638690",
+      "release_date": "2015-05-24"
+    },
+    {
+      "featuredArtist": "Duo Kie",
+      "featuredArtistId": "6HdO9DuwHJ5nCZIzBW7HVv",
+      "trackName": "G.T.A Madrid",
+      "trackId": "6olNq6nv861epzzliQTWOj",
+      "preview": "https://p.scdn.co/mp3-preview/0e0c20ca0746c4ae26cc779335cc16ab4ad1d7f1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca82a965d37ad4ee7c6982a919e5fe83a4638690",
+      "release_date": "2015-05-24"
+    },
+    {
+      "featuredArtist": "Cecilia Krull",
+      "featuredArtistId": "4SLEmV2rAQ71Ts0qyDGhE8",
+      "trackName": "¿Quieres Más?",
+      "trackId": "6zQe6BZBqx1jX7Cbqzwwwi",
+      "preview": "https://p.scdn.co/mp3-preview/feacd92499c511dea4e7e0f6a4b316b9b4c7fd30?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca82a965d37ad4ee7c6982a919e5fe83a4638690",
+      "release_date": "2015-05-24"
+    },
+    {
+      "featuredArtist": "Feo",
+      "featuredArtistId": "1e1pcO4QjFc9oxAJcW8LGR",
+      "trackName": "Aha...Sí, Aha",
+      "trackId": "0w4L45rQIbwIQWzNCydbwq",
+      "preview": "https://p.scdn.co/mp3-preview/1ab76aef92e87485ef4c4acd5c8ce282fb08d2dd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca82a965d37ad4ee7c6982a919e5fe83a4638690",
+      "release_date": "2015-05-24"
+    },
+    {
+      "featuredArtist": "Black Bee",
+      "featuredArtistId": "0d5GsQYotMQwdRKbQ5lXMr",
+      "trackName": "Aha...Sí, Aha",
+      "trackId": "0w4L45rQIbwIQWzNCydbwq",
+      "preview": "https://p.scdn.co/mp3-preview/1ab76aef92e87485ef4c4acd5c8ce282fb08d2dd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca82a965d37ad4ee7c6982a919e5fe83a4638690",
+      "release_date": "2015-05-24"
+    },
+    {
+      "featuredArtist": "Lion Sitte",
+      "featuredArtistId": "02hp2iDLn55fIc8fMbsJAr",
+      "trackName": "En la Ciudad",
+      "trackId": "1whxUKNdnn9ylDEdAvEZr3",
+      "preview": "https://p.scdn.co/mp3-preview/c8de008d270db9738c98c3df0b1aef07c356e5f7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca82a965d37ad4ee7c6982a919e5fe83a4638690",
+      "release_date": "2015-05-24"
+    },
+    {
+      "featuredArtist": "ZPU",
+      "featuredArtistId": "7F9Bd5X4sxdwWRJVpbfMtb",
+      "trackName": "Guapa",
+      "trackId": "2xANN0RyGG4wrdfZsLwVgW",
+      "preview": "https://p.scdn.co/mp3-preview/603ec73329e8ba5539537f10d8beb4857e4a0287?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a353ee95b1b0dc8ee7566ff8f7ee57cc05f9f1c1",
+      "release_date": "2015-03-27"
+    },
+    {
+      "featuredArtist": "Nerviozzo",
+      "featuredArtistId": "6xGrsCg8KTvZ5yiWSJUbj8",
+      "trackName": "Hasta el Fondo",
+      "trackId": "2ibOwqWfR5ygXYC2X19bNw",
+      "preview": "https://p.scdn.co/mp3-preview/3120725249eb1b31c1786c21c5ee65ce7a69ac8e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a353ee95b1b0dc8ee7566ff8f7ee57cc05f9f1c1",
+      "release_date": "2015-03-27"
+    },
+    {
+      "featuredArtist": "Rayden",
+      "featuredArtistId": "6G43BFwUJvFWbev3knhgEa",
+      "trackName": "To My Friends",
+      "trackId": "1i5Zt3mHB1uzv3W27KNUUw",
+      "preview": "https://p.scdn.co/mp3-preview/69258142f029041acfd0255e43283cd46b3b6615?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a353ee95b1b0dc8ee7566ff8f7ee57cc05f9f1c1",
+      "release_date": "2015-03-27"
+    },
+    {
+      "featuredArtist": "Macarena Berlin",
+      "featuredArtistId": "2xuDEhLYjPigPtMFOVsKt7",
+      "trackName": "¿Por que I.R.A?",
+      "trackId": "04mEL86eS3FpNtaiZzMCAL",
+      "preview": "https://p.scdn.co/mp3-preview/13b26505ad2dd7902746d531382ddd8ae791cf8d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a3b7741f48cb3939b104625935613f66db6c5b",
+      "release_date": "2013-05-07"
+    },
+    {
+      "featuredArtist": "Ciara Thomson",
+      "featuredArtistId": "6KjmJSOk8TYSQvybcYE7YX",
+      "trackName": "...Y Vuelve A Empezar",
+      "trackId": "0fpsAxogZQcErNydirQmRO",
+      "preview": "https://p.scdn.co/mp3-preview/233df0af98ad99513eee6d90c32ae850e93f8bcf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a3b7741f48cb3939b104625935613f66db6c5b",
+      "release_date": "2013-05-07"
+    },
+    {
+      "featuredArtist": "Maika Sitté",
+      "featuredArtistId": "2KbOec2bjKptQsDMREpY5z",
+      "trackName": "I.R.A",
+      "trackId": "2thKEgaZJFLFUiHbf6ax8P",
+      "preview": "https://p.scdn.co/mp3-preview/7877541c82faf611a7efe82d6cd05747c25d3893?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a3b7741f48cb3939b104625935613f66db6c5b",
+      "release_date": "2013-05-07"
+    },
+    {
+      "featuredArtist": "Nach",
+      "featuredArtistId": "66ArjpKRgw8vYBf9yhktto",
+      "trackName": "Los PRO",
+      "trackId": "7LSnzo3nZ1VdjBYDn5KpIJ",
+      "preview": "https://p.scdn.co/mp3-preview/dfe610f7d3d4a1a73ef8a9b9be45e8444e585d72?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a3b7741f48cb3939b104625935613f66db6c5b",
+      "release_date": "2013-05-07"
+    },
+    {
+      "featuredArtist": "SFDK",
+      "featuredArtistId": "56n1NeXsTOOxjX3Z4lVMTJ",
+      "trackName": "Los PRO",
+      "trackId": "7LSnzo3nZ1VdjBYDn5KpIJ",
+      "preview": "https://p.scdn.co/mp3-preview/dfe610f7d3d4a1a73ef8a9b9be45e8444e585d72?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a3b7741f48cb3939b104625935613f66db6c5b",
+      "release_date": "2013-05-07"
+    },
+    {
+      "featuredArtist": "Juaninacka",
+      "featuredArtistId": "6a7aRbyLNHHiwqgLh87Mpy",
+      "trackName": "Cartas Marcadas...",
+      "trackId": "1A7OuOi4aeVukVjNxTHgzE",
+      "preview": "https://p.scdn.co/mp3-preview/91def33005859a43514b0b3fd859c94a7ba0125f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a3b7741f48cb3939b104625935613f66db6c5b",
+      "release_date": "2013-05-07"
+    },
+    {
+      "featuredArtist": "Alana Sinkey",
+      "featuredArtistId": "4zLkOuLtzrZLKI4GxiLPau",
+      "trackName": "Me Gusta",
+      "trackId": "74Ijb5NSjtW2EL0IhLPG27",
+      "preview": "https://p.scdn.co/mp3-preview/2978967ae83a853ff77b17f8e9972e4030b4b06e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a3b7741f48cb3939b104625935613f66db6c5b",
+      "release_date": "2013-05-07"
+    },
+    {
+      "featuredArtist": "Diana Navarro",
+      "featuredArtistId": "2UPK6yJypnotLzHuUBiVa2",
+      "trackName": "Ser...Es Dificil",
+      "trackId": "61VwyAuPlZ49XmtynYogdl",
+      "preview": "https://p.scdn.co/mp3-preview/abcfb8b3740df9ee102dbbb810c382cb390ed659?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a3b7741f48cb3939b104625935613f66db6c5b",
+      "release_date": "2013-05-07"
+    },
+    {
+      "featuredArtist": "Yolanda Eyama",
+      "featuredArtistId": "3nTyYWHKxof0Usj6m7CW9u",
+      "trackName": "Ening (Vida)",
+      "trackId": "4i5FMkIcRWOTpvcCUMX787",
+      "preview": "https://p.scdn.co/mp3-preview/be10ca08b6f1fe064c88b94941773bde92650f12?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a3b7741f48cb3939b104625935613f66db6c5b",
+      "release_date": "2013-05-07"
+    },
+    {
+      "featuredArtist": "Gorsi Edu",
+      "featuredArtistId": "5sUyJSaAgzO0of4kXHjUm7",
+      "trackName": "Ening (Vida)",
+      "trackId": "4i5FMkIcRWOTpvcCUMX787",
+      "preview": "https://p.scdn.co/mp3-preview/be10ca08b6f1fe064c88b94941773bde92650f12?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a3b7741f48cb3939b104625935613f66db6c5b",
+      "release_date": "2013-05-07"
+    },
+    {
+      "featuredArtist": "Aroa Lopez Cea",
+      "featuredArtistId": "3jbwV37yViRlYzjsq7TLK5",
+      "trackName": "El Viaje",
+      "trackId": "3CDeVQSkOTvP2enjKo2GSL",
+      "preview": "https://p.scdn.co/mp3-preview/652bf3ad1a269cb990fdb7cb44ca6b0571209f4c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a3b7741f48cb3939b104625935613f66db6c5b",
+      "release_date": "2013-05-07"
+    },
+    {
+      "featuredArtist": "El Zeidah",
+      "featuredArtistId": "3Gke9LHuHXmT28pp0DSR8x",
+      "trackName": "Un Tema De Rap",
+      "trackId": "1DrJAecPLagIuQFqwrFzte",
+      "preview": "https://p.scdn.co/mp3-preview/f47a262e33586fff98a27bbf5b9cb98c90c905c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a3b7741f48cb3939b104625935613f66db6c5b",
+      "release_date": "2013-05-07"
+    },
+    {
+      "featuredArtist": "Chikano",
+      "featuredArtistId": "4ekUw8hw2cG3kuzVR9QxF0",
+      "trackName": "On And On",
+      "trackId": "5N5YZo2XxFf1u5da9ZhNcp",
+      "preview": "https://p.scdn.co/mp3-preview/cc53d2208be39ff90201bb739457101783051a1b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a3b7741f48cb3939b104625935613f66db6c5b",
+      "release_date": "2013-05-07"
+    },
+    {
+      "featuredArtist": "Ondina",
+      "featuredArtistId": "3PiOyb43kGMgy66LQ9lAQ1",
+      "trackName": "On And On",
+      "trackId": "5N5YZo2XxFf1u5da9ZhNcp",
+      "preview": "https://p.scdn.co/mp3-preview/cc53d2208be39ff90201bb739457101783051a1b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01a3b7741f48cb3939b104625935613f66db6c5b",
+      "release_date": "2013-05-07"
+    },
+    {
+      "featuredArtist": "Rapsoda",
+      "featuredArtistId": "42AjQA5Df9BQlb2fb5VEZe",
+      "trackName": "El Ocaso de Los Ídolos",
+      "trackId": "5cpVLE52BfMUR5UVqXYDeH",
+      "preview": "https://p.scdn.co/mp3-preview/113fe63aa794a2f6c2c8075ee5ee2416926ee577?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/70ca8a34d57564f4ac20adf486a9b9ab15cc6d8b",
+      "release_date": "2011-04-05"
+    },
+    {
+      "featuredArtist": "Locus",
+      "featuredArtistId": "6vuZePQX5LQJGq4SGIUMFR",
+      "trackName": "Arriba (feat. Locus)",
+      "trackId": "1XTATttGi5Lc7gz0nIeOuQ",
+      "preview": "https://p.scdn.co/mp3-preview/dfaae4b36de757bf65d54790717274dacb367575?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d0e5963ba5924a921af5956d0d60729289d25dba",
+      "release_date": "2009-04-14"
+    },
+    {
+      "featuredArtist": "RedHouse",
+      "featuredArtistId": "60Q8PyfyRIMdcF00MZgGbz",
+      "trackName": "Jo Colega_mala Suerte (feat. Red House)",
+      "trackId": "2g44MuuIqpQrftFngVjcvW",
+      "preview": "https://p.scdn.co/mp3-preview/82712ca8ec4f59329b1880df950976a695fbd77d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d0e5963ba5924a921af5956d0d60729289d25dba",
+      "release_date": "2009-04-14"
+    },
+    {
+      "featuredArtist": "El Gran Wyoming",
+      "featuredArtistId": "7lzZJXyb6P2dpsHq9BlUCr",
+      "trackName": "La Perversión Del Lenguaje (feat. El Gran Wyoming)",
+      "trackId": "4sCatlIxxR9gwXZV3Cxb12",
+      "preview": "https://p.scdn.co/mp3-preview/200f7eeb7666a0902585a368a63c1bafcf435e59?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d0e5963ba5924a921af5956d0d60729289d25dba",
+      "release_date": "2009-04-14"
+    },
+    {
+      "featuredArtist": "Aute",
+      "featuredArtistId": "6e74xdZ3pu3rJHwdrs7fB4",
+      "trackName": "Ríe Cuando Puedas, Llora Cuando Lo Necesitas (Remix) [feat. Aute]",
+      "trackId": "6N4hvFy1JTqdzgNVfBPQ8Q",
+      "preview": "https://p.scdn.co/mp3-preview/d19a5a805282da9b22fe4ed15aab04b3e5753d8d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d0e5963ba5924a921af5956d0d60729289d25dba",
+      "release_date": "2009-04-14"
+    },
+    {
+      "featuredArtist": "Astrid Jones",
+      "featuredArtistId": "3JNIA3OxDVtlf898BEDNbw",
+      "trackName": "Siéntense Y Disfruten (feat. Astrid Jones)",
+      "trackId": "3XHvUbCkyUXplNFmXQ9IPB",
+      "preview": "https://p.scdn.co/mp3-preview/f7b3366295ce8ebcd617a0c367661391f2f90fbf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d0e5963ba5924a921af5956d0d60729289d25dba",
+      "release_date": "2009-04-14"
+    },
+    {
+      "featuredArtist": "Buika",
+      "featuredArtistId": "1gbXoccc8bjK8eUh92mILy",
+      "trackName": "Se Mueve",
+      "trackId": "5xACu8p7kqXoF65WaWDjBp",
+      "preview": "https://p.scdn.co/mp3-preview/60132a39e6528d1d1f1b682191dbb6a8d94b0aee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c3dea43e6bef93e939b94a38b672a6676fc887a8",
+      "release_date": "2002-11-04"
+    },
+    {
+      "featuredArtist": "Meko",
+      "featuredArtistId": "4q38iXYGzImaPRM2RCkKxV",
+      "trackName": "Estare Alli",
+      "trackId": "0PD7j4x1PJDzUtTb7gUUlQ",
+      "preview": "https://p.scdn.co/mp3-preview/17d7a9464a6a2195a83f11ca8c805e695642a001?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c3dea43e6bef93e939b94a38b672a6676fc887a8",
+      "release_date": "2002-11-04"
+    },
+    {
+      "featuredArtist": "Aqueel",
+      "featuredArtistId": "3egfsWnByTZqMVmenVzCVc",
+      "trackName": "Boli y Papel",
+      "trackId": "1LUBkWSDFvA08F4ZW7ce9G",
+      "preview": "https://p.scdn.co/mp3-preview/3f26c7ae88ea2749d7bc15f30ac36f3d4311d034?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c3dea43e6bef93e939b94a38b672a6676fc887a8",
+      "release_date": "2002-11-04"
+    },
+    {
+      "featuredArtist": "M. Thomas",
+      "featuredArtistId": "3mOE2W53n4xwrTKAJLCzaY",
+      "trackName": "Boli y Papel",
+      "trackId": "1LUBkWSDFvA08F4ZW7ce9G",
+      "preview": "https://p.scdn.co/mp3-preview/3f26c7ae88ea2749d7bc15f30ac36f3d4311d034?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c3dea43e6bef93e939b94a38b672a6676fc887a8",
+      "release_date": "2002-11-04"
+    },
+    {
+      "featuredArtist": "FRANK T",
+      "featuredArtistId": "41tQApRtxMjO3t4EIxdmfx",
+      "trackName": "Algo Haremos Mal",
+      "trackId": "24CgGlkB9VHqOGwj7Welhj",
+      "preview": "https://p.scdn.co/mp3-preview/cae1683b79914d31ed6506038a330f44ac0a919d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ab0ac333746bc20b12c71b2d861f0cd62e72650e",
+      "release_date": "2001-10-01"
+    },
+    {
+      "featuredArtist": "El Jefe de la M",
+      "featuredArtistId": "78HfaxRp1DhKgNFMtEkvZB",
+      "trackName": "El Luchador Manco",
+      "trackId": "290Hqsp9QDAiRxryk4gkS0",
+      "preview": "https://p.scdn.co/mp3-preview/695d7355ae4a6edf417148014c4773a64cb3218a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ab0ac333746bc20b12c71b2d861f0cd62e72650e",
+      "release_date": "2001-10-01"
+    },
+    {
+      "featuredArtist": "Zenit",
+      "featuredArtistId": "7lN4AnSBcgqEyqVs5reCy2",
+      "trackName": "Por Si Me Muero",
+      "trackId": "6H5PYgldb41OG1jMovawQT",
+      "preview": "https://p.scdn.co/mp3-preview/9ad2f27fa7b09abfe7d404974a2d67a0d2e07e2f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ab0ac333746bc20b12c71b2d861f0cd62e72650e",
+      "release_date": "2001-10-01"
+    },
+    {
+      "featuredArtist": "LetyArt",
+      "featuredArtistId": "7JQfAu4xvraFcPFX1ZtgBi",
+      "trackName": "Camino Sobre el Agua",
+      "trackId": "67ZmOg7Q4PRjSBerMVmrbq",
+      "preview": "https://p.scdn.co/mp3-preview/0dca33142e6d1132a731abfc201b91b68ec7808a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a0f73305674e44dadefc5dc8dd62bda000ade99d",
+      "release_date": "2017-04-06"
+    }
+  ]
+}

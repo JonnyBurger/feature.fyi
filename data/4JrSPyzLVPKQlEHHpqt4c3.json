@@ -1,0 +1,32 @@
+{
+  "artistName": "Johnny Franco",
+  "features": [
+    {
+      "featuredArtist": "Bruno Martini",
+      "featuredArtistId": "5veVxxPm1vzgi6pO2iVA8L",
+      "trackName": "Road",
+      "trackId": "2rPGzdmoEGGZWjHpofgJTL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/513ea005a5968f689072f0006682bdfdbee5f2d8",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Timbaland",
+      "featuredArtistId": "5Y5TRrQiqgUO4S36tzjIRZ",
+      "trackName": "Road",
+      "trackId": "2rPGzdmoEGGZWjHpofgJTL",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/513ea005a5968f689072f0006682bdfdbee5f2d8",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Mister Jam",
+      "featuredArtistId": "4Om8MQvGdnDtl18ysRRPI3",
+      "trackName": "We Are Free - Radio Mix",
+      "trackId": "5VoIRmRqnzcSphNZBO1jzz",
+      "preview": "https://p.scdn.co/mp3-preview/099940b501d66fd9a84786ac3b9d5f6550833b6f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/949625206b130ef6487aff7a688dd1b4a6e6f5f6",
+      "release_date": "2014-12-01"
+    }
+  ]
+}

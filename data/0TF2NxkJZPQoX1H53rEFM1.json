@@ -1,0 +1,41 @@
+{
+  "artistName": "Gladys Knight & The Pips",
+  "features": [
+    {
+      "featuredArtist": "Gladys Knight",
+      "featuredArtistId": "2aXiJJHJei5BmCykxI37y0",
+      "trackName": "I Will Fight",
+      "trackId": "3me2nUrf4kJB6PKKrYmLFo",
+      "preview": "https://p.scdn.co/mp3-preview/f419de4c602abb9c573b38b3a662c7a07ca1b4a7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/63a939071b308c92fbed49ffbfc53d7c099c5295",
+      "release_date": "2004-07-26"
+    },
+    {
+      "featuredArtist": "The Pips",
+      "featuredArtistId": "1K522fT5ULeq6z60EHOWRt",
+      "trackName": "I Will Fight",
+      "trackId": "3me2nUrf4kJB6PKKrYmLFo",
+      "preview": "https://p.scdn.co/mp3-preview/f419de4c602abb9c573b38b3a662c7a07ca1b4a7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/63a939071b308c92fbed49ffbfc53d7c099c5295",
+      "release_date": "2004-07-26"
+    },
+    {
+      "featuredArtist": "Shanga",
+      "featuredArtistId": "5DOuYGCnYEqaACWxO2BcYQ",
+      "trackName": "Santa Claus Is Comin' to Town",
+      "trackId": "0gceeme8lWYb3QVJWpzMiP",
+      "preview": "https://p.scdn.co/mp3-preview/322d6c39e80ddcd86c8edb95d835172c088b48f0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/74c370f6998357cf91506a383241b2f5be3b5e4e",
+      "release_date": "2002-11-02"
+    },
+    {
+      "featuredArtist": "Johnny Mathis",
+      "featuredArtistId": "21LGsW7bziR4Ledx7WZ1Wf",
+      "trackName": "When a Child Is Born (Soleado)",
+      "trackId": "3H9wocOyABd0pgI9QpSR02",
+      "preview": "https://p.scdn.co/mp3-preview/e348b2d3456e59e6b4313923d994739ccb5ce3e9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/74c370f6998357cf91506a383241b2f5be3b5e4e",
+      "release_date": "2002-11-02"
+    }
+  ]
+}

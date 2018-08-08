@@ -1,0 +1,41 @@
+{
+  "artistName": "The Sugarhill Gang",
+  "features": [
+    {
+      "featuredArtist": "The Sequence",
+      "featuredArtistId": "0PvnF7nV4B3zOHF3qW4LlG",
+      "trackName": "Rapper's Reprise (Jam-Jam)",
+      "trackId": "7IoorctjxGemKr8CcPwlp3",
+      "preview": "https://p.scdn.co/mp3-preview/f18eb244dad3d93615d3821541fd28264bee4177?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/257fb0e361150769f2e9431d6ace8545e334936a",
+      "release_date": "2010-07-19"
+    },
+    {
+      "featuredArtist": "The Furious Five",
+      "featuredArtistId": "77iR4WkkEWMrhAw8lFFL2v",
+      "trackName": "Showdown",
+      "trackId": "2Vtqv0P7XGULX2kPZiShaz",
+      "preview": "https://p.scdn.co/mp3-preview/7c46653d4b7e505d1cce9d9e84df2a6b8b5a2a88?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/257fb0e361150769f2e9431d6ace8545e334936a",
+      "release_date": "2010-07-19"
+    },
+    {
+      "featuredArtist": "Bob Sinclar",
+      "featuredArtistId": "5YFS41yoX0YuFY39fq21oN",
+      "trackName": "Lala Song - Radio Edit",
+      "trackId": "4WRxfLS78FiXoJkdOxO052",
+      "preview": "https://p.scdn.co/mp3-preview/db7ab1d837f929420e445348f8189c618349fd50?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/aaebcffe4734aa79f8603e4c664c38e1240e4b30",
+      "release_date": "2009-04-10"
+    },
+    {
+      "featuredArtist": "The Furious 5",
+      "featuredArtistId": "5PgraJQ5Cv33PaHCEZBcTi",
+      "trackName": "Showdown - The Furious 5 Meets The Sugarhill Gang",
+      "trackId": "1zlcoOQtkY2r07JUbnK3iT",
+      "preview": "https://p.scdn.co/mp3-preview/03a00e58d41176e9e47769c446cc3b18ed52237d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/eb09f5d7c1f89ed8341d9dd7709914bde408f8d9",
+      "release_date": "1981"
+    }
+  ]
+}

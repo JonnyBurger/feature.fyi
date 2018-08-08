@@ -1,0 +1,68 @@
+{
+  "artistName": "Chad Kroeger",
+  "features": [
+    {
+      "featuredArtist": "Josey Scott",
+      "featuredArtistId": "5mNloTgSaf5qCyk48t9NSP",
+      "trackName": "Hero (feat. Josey Scott)",
+      "trackId": "779ooI3rBd0CLqCiiJmtVo",
+      "preview": "https://p.scdn.co/mp3-preview/26ad4b68dc4e7dd672b6750200e9d90e07a0392b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/de23e248c128a15f7da79c8522a048fee6c78852",
+      "release_date": "2003"
+    },
+    {
+      "featuredArtist": "Rake",
+      "featuredArtistId": "1KXuj8wtF5Ch8SGtd2qX8v",
+      "trackName": "Afflicted",
+      "trackId": "0KgyNZCfbjJOOoHBMiD95u",
+      "preview": "https://p.scdn.co/mp3-preview/cc6bfd2f8872dbc26c48c4d6df54c955b60e053f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0de1c064fa6ed3f036a8b301f3e71066f777dc92",
+      "release_date": "2017-07-12"
+    },
+    {
+      "featuredArtist": "Avril Lavigne",
+      "featuredArtistId": "0p4nmQO2msCgU4IF37Wi3j",
+      "trackName": "Let Me Go - Radio Edit",
+      "trackId": "3SXjTV2bSoEnBLfUq2DcZP",
+      "preview": "https://p.scdn.co/mp3-preview/b009c16454ab2031e1c2fa73efef075fdd08cd4e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7370fae08042103f0e3e91a6ad3f28599c6ddc9e",
+      "release_date": "2014"
+    },
+    {
+      "featuredArtist": "American Karaoke Tunes",
+      "featuredArtistId": "3MfjqmPil99F69YmSncKj7",
+      "trackName": "Let Me Go (Originally Performed by Avril Lavigne) - Karaoke Version",
+      "trackId": "0SQ0aBkQbRi3smlGHmkcDL",
+      "preview": "https://p.scdn.co/mp3-preview/fac914fd847410e266e4e3f01a776a96942d6e0e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6ec539f3911d49364158dc9728e925053c30a689",
+      "release_date": "2013-11-05"
+    },
+    {
+      "featuredArtist": "Santana",
+      "featuredArtistId": "6GI52t8N5F02MxU0g5U69P",
+      "trackName": "Into the Night",
+      "trackId": "27OX4ZTMFbsgZQ9mqGxsBW",
+      "preview": "https://p.scdn.co/mp3-preview/a6709837879e31ad16ce0131d437fad56e217985?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e264ad20e61a3e56bd97d6e6d2eb803922c01907",
+      "release_date": "2013-09-16"
+    },
+    {
+      "featuredArtist": "Timbaland",
+      "featuredArtistId": "5Y5TRrQiqgUO4S36tzjIRZ",
+      "trackName": "Tomorrow In The Bottle (Featuring Chad Kroeger & Sebastian)",
+      "trackId": "7vqG2ll4T01lH53YJ9wNSF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/08718f348f9f8d3887e12e1652c5149656b27070",
+      "release_date": "2009-12-08"
+    },
+    {
+      "featuredArtist": "Sebastian",
+      "featuredArtistId": "3SDQzHnLxVFNK6hvg9Lrks",
+      "trackName": "Tomorrow In The Bottle (Featuring Chad Kroeger & Sebastian)",
+      "trackId": "7vqG2ll4T01lH53YJ9wNSF",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/08718f348f9f8d3887e12e1652c5149656b27070",
+      "release_date": "2009-12-08"
+    }
+  ]
+}

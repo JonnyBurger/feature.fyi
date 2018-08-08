@@ -1,0 +1,32 @@
+{
+  "artistName": "Callie Hernandez",
+  "features": [
+    {
+      "featuredArtist": "Emma Stone",
+      "featuredArtistId": "68Uwx1d3EbjDJhYsLjqvIq",
+      "trackName": "Someone In The Crowd",
+      "trackId": "46AqogC1jSpTJkXJnNc7Yz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/654d093296e130b4e71cfa0b5b47a0895226a1ff",
+      "release_date": "2017-02-24"
+    },
+    {
+      "featuredArtist": "Sonoya Mizuno",
+      "featuredArtistId": "4FFGJ9ERSX06Sl8hD7GRVv",
+      "trackName": "Someone In The Crowd",
+      "trackId": "46AqogC1jSpTJkXJnNc7Yz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/654d093296e130b4e71cfa0b5b47a0895226a1ff",
+      "release_date": "2017-02-24"
+    },
+    {
+      "featuredArtist": "Jessica Rothe",
+      "featuredArtistId": "21yiGQIpkiP8edfxDipQaW",
+      "trackName": "Someone In The Crowd",
+      "trackId": "46AqogC1jSpTJkXJnNc7Yz",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/654d093296e130b4e71cfa0b5b47a0895226a1ff",
+      "release_date": "2017-02-24"
+    }
+  ]
+}

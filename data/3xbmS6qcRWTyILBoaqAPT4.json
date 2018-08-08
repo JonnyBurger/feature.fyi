@@ -1,0 +1,23 @@
+{
+  "artistName": "ANIMA!",
+  "features": [
+    {
+      "featuredArtist": "Dirty South",
+      "featuredArtistId": "1bpzpALZwOoKXzwMg2i8WB",
+      "trackName": "If It All Stops (ABGT270)",
+      "trackId": "2sBDEifQpFhySv3LD7t2KL",
+      "preview": "https://p.scdn.co/mp3-preview/3bf7d470c0a9676e61714ec6cfe952f0ece32478?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c35767a7b97c697c9221127745de9ca7c78ea0ad",
+      "release_date": "2018-02-18"
+    },
+    {
+      "featuredArtist": "Yoke Lore",
+      "featuredArtistId": "7FU0xCgmSYQEiBeevUqQ4S",
+      "trackName": "Level Tools - Anima! Remix",
+      "trackId": "5mOWT3CeaKYiYtgpl12wFs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/97f1ae725b90713bbdf048ad4400793c5490864d",
+      "release_date": "2018-01-12"
+    }
+  ]
+}

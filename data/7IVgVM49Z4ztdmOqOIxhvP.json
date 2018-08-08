@@ -1,0 +1,23 @@
+{
+  "artistName": "Toby Green",
+  "features": [
+    {
+      "featuredArtist": "Kris Kiss",
+      "featuredArtistId": "3Hzok9apHnCGDDkGltQcMg",
+      "trackName": "Beyond Mars (feat. Kris Kiss)",
+      "trackId": "3D1z36GwZnpCdxfI8fElZZ",
+      "preview": "https://p.scdn.co/mp3-preview/b77312d1639f3ab8d4e8adf4a13da40bc733e87c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/55929d568aea9d5ec96150ea68971e03b889fd26",
+      "release_date": "2018-03-09"
+    },
+    {
+      "featuredArtist": "Lucky Date",
+      "featuredArtistId": "6nNKPNNjOy3my0IYO8l0v4",
+      "trackName": "Firebird - Original Mix",
+      "trackId": "2WM35h6Ji3Gffo8ZNzkRao",
+      "preview": "https://p.scdn.co/mp3-preview/27ded17bec22ba6bee87091141ead27632f2dc43?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d74809a38915052c7bfbe294d298870ac54fc366",
+      "release_date": "2015-11-20"
+    }
+  ]
+}

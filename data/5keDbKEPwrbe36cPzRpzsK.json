@@ -1,0 +1,50 @@
+{
+  "artistName": "Jane XØ",
+  "features": [
+    {
+      "featuredArtist": "LöKii",
+      "featuredArtistId": "2RDXcxQgmEyomb2g9SERuf",
+      "trackName": "Let Me Down Easy",
+      "trackId": "07uMDONIdcNsmC6a5B9dhy",
+      "preview": "https://p.scdn.co/mp3-preview/d48a45829b68e63122d9954563c44f6722a028fb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca8afb37a9dfad950f15f3e7e9ddff1da58378ce",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Hot Shade",
+      "featuredArtistId": "3GtCKJA4SkOxN65MWjm82R",
+      "trackName": "Touching You Again",
+      "trackId": "6kWrgWBA58DIxgiklyGh8m",
+      "preview": "https://p.scdn.co/mp3-preview/7c98aff5d300ad9702eec132e700ad7f9fa8c4d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6d8a70fb079a737bba4934c495283d84ad899c98",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "Mike Perry",
+      "featuredArtistId": "6lB8vOoI4DRrrVxXwuV19c",
+      "trackName": "Touching You Again",
+      "trackId": "6kWrgWBA58DIxgiklyGh8m",
+      "preview": "https://p.scdn.co/mp3-preview/7c98aff5d300ad9702eec132e700ad7f9fa8c4d8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6d8a70fb079a737bba4934c495283d84ad899c98",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "Dannic",
+      "featuredArtistId": "1PFc84GHTYPL0G12JHh9Mc",
+      "trackName": "Undone",
+      "trackId": "51aaEcG745n3y1zXvWgiXg",
+      "preview": "https://p.scdn.co/mp3-preview/7766f21d8c939792676b8010338750d78c4a7543?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e1820177a2fbefd67dc48bfe4d1c4a1a53f1df48",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Kaskade",
+      "featuredArtistId": "6TQj5BFPooTa08A7pk8AQ1",
+      "trackName": "Santa Baby",
+      "trackId": "54fiilVdAuNruSVmmu1Kh6",
+      "preview": "https://p.scdn.co/mp3-preview/6386756cb817e51dc76e97f52de1e781fdbd7d98?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c14e595e2738f64faa7c5da4015152e065e358dc",
+      "release_date": "2017-11-24"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "artistName": "Willie Gonzalez",
+  "features": [
+    {
+      "featuredArtist": "Jhon Felix Sanchez Panchano",
+      "featuredArtistId": "5zfP7M7D3srQG7vztkcfic",
+      "trackName": "A Veses",
+      "trackId": "3LE464K0MxHhoOSI5zaYk1",
+      "preview": "https://p.scdn.co/mp3-preview/36be1fb6622341589e262865e8b90a51663bae79?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1a7025e349558caf3fcfffb5248d92b7d60cdedc",
+      "release_date": "2013-10-01"
+    },
+    {
+      "featuredArtist": "Raúl Carnota",
+      "featuredArtistId": "2qA6QJKyk9W627mEn65hob",
+      "trackName": "La asimétrica",
+      "trackId": "1AVtYcrFi7lyRufxBpdZel",
+      "preview": "https://p.scdn.co/mp3-preview/f5af8ef24a836c3b9437e68e9715fe14ff6062d4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/39f72e0a3935671ffc8375a5eeccc79f3bb83ed1",
+      "release_date": "1998"
+    },
+    {
+      "featuredArtist": "Rodolfo Sanchez",
+      "featuredArtistId": "6Ir3WQaUYIk2aTmHP9Qb51",
+      "trackName": "La asimétrica",
+      "trackId": "1AVtYcrFi7lyRufxBpdZel",
+      "preview": "https://p.scdn.co/mp3-preview/f5af8ef24a836c3b9437e68e9715fe14ff6062d4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/39f72e0a3935671ffc8375a5eeccc79f3bb83ed1",
+      "release_date": "1998"
+    }
+  ]
+}

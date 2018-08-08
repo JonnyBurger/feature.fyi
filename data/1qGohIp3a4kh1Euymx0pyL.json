@@ -1,0 +1,32 @@
+{
+  "artistName": "Ocean Park Standoff",
+  "features": [
+    {
+      "featuredArtist": "Seeb",
+      "featuredArtistId": "5iNrZmtVMtYev5M9yoWpEq",
+      "trackName": "Lost Boys - Ocean Park Standoff vs Seeb",
+      "trackId": "5aAuvZ4yufU3qcqm6x9rSE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/7f33f86d16ff4cedc8b28e1bf1a8bec7303852af",
+      "release_date": "2018-02-02"
+    },
+    {
+      "featuredArtist": "Peter Nappi",
+      "featuredArtistId": "6ZI43E3gDqFXpzQMhmEb04",
+      "trackName": "Good News - Pete Nappi Remix",
+      "trackId": "2HFuYMi4GK4Y6xDrqy5l0d",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0e27a99dfec1c524fb7f6a9ec3b057582d45e584",
+      "release_date": "2017-06-09"
+    },
+    {
+      "featuredArtist": "Ethan Thompson",
+      "featuredArtistId": "2FPhOFbPxBiUTjdF9ZUYrZ",
+      "trackName": "Good News - Thompson Remix",
+      "trackId": "2xosKVfkEQeoiWtvnDyHgq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c8dd66dd63501cb938ccdf44df9e32f8cb430a43",
+      "release_date": "2017-04-21"
+    }
+  ]
+}

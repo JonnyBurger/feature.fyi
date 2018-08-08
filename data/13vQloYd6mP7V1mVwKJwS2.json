@@ -1,0 +1,59 @@
+{
+  "artistName": "Dave Matthews",
+  "features": [
+    {
+      "featuredArtist": "Tim Reynolds",
+      "featuredArtistId": "7rvkQK7ZqO34sKsWEXjz3R",
+      "trackName": "Eh Hee - Live",
+      "trackId": "3pCJiQ5t3p8KgldpUUlGR2",
+      "preview": "https://p.scdn.co/mp3-preview/48b0306d5248b0d9da461ef54d257d323c999299?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/28080fe59ad160ba8279282c2c93431a3601682d",
+      "release_date": "2010-09-10"
+    },
+    {
+      "featuredArtist": "Soulive",
+      "featuredArtistId": "6mWEaOFdcN3s30GuFWruGO",
+      "trackName": "Joyful Girl",
+      "trackId": "7uZkpHdp49xM26B00v8LiH",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d6e94f55de45b050dc58d6c630d94c068bc1e0b4",
+      "release_date": "2017-12-20"
+    },
+    {
+      "featuredArtist": "Kenny Chesney",
+      "featuredArtistId": "3grHWM9bx2E9vwJCdlRv9O",
+      "trackName": "Medley: The Joker / Three Little Birds - Live",
+      "trackId": "6Am0cdg7Ep8kT4VXe92WKO",
+      "preview": "https://p.scdn.co/mp3-preview/b6ba9551ac1d79116bd640bb5f4bddd60b35e2e8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b0ffa678776e35c0e9bd73d4ef06f99240f0e02c",
+      "release_date": "2017-10-27"
+    },
+    {
+      "featuredArtist": "Gov't Mule",
+      "featuredArtistId": "5zoKOcTDI9EMOhGNaxL708",
+      "trackName": "Forsaken Savior - with Dave Matthews",
+      "trackId": "17lrNj4dPe9sWMmbixbsXy",
+      "preview": "https://p.scdn.co/mp3-preview/3f3899ff98dc0f400ea1928cc3ee407c782b4bf2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3eace4509126eb5d1b5ff53fef40e5567d4b260a",
+      "release_date": "2013-09-20"
+    },
+    {
+      "featuredArtist": "Jimmy Fallon",
+      "featuredArtistId": "7mAcgRMD6EfCKHO6cIkDOP",
+      "trackName": "Walk Of Shame - feat. Dave Matthews",
+      "trackId": "5vb2dnSaeIcOoA8trxiu1s",
+      "preview": "https://p.scdn.co/mp3-preview/115bbafca5a6a12940c9e3f58a15151b7d52f18c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2534031ab88036ba8fffd43640e913d2a8543e3c",
+      "release_date": "2012-06-08"
+    },
+    {
+      "featuredArtist": "Jack Johnson",
+      "featuredArtistId": "3GBPw9NK25X1Wt2OUvOwY3",
+      "trackName": "A Pirate Looks At Forty - Live",
+      "trackId": "49C114rNjyHOkvNWmoODAQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/baa28dad275dcccbc6e526ed9787263070eb874d",
+      "release_date": "2012-01-01"
+    }
+  ]
+}

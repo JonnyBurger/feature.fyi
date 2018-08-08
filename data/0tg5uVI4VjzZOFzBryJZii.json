@@ -1,0 +1,23 @@
+{
+  "artistName": "Teddy Wilson",
+  "features": [
+    {
+      "featuredArtist": "His Orchestra",
+      "featuredArtistId": "6lXiGaWjISZnER53ZJe6QO",
+      "trackName": "A Sunbonnet Blue",
+      "trackId": "4Ve4ubPBHgvRJuTB7JblL5",
+      "preview": "https://p.scdn.co/mp3-preview/2c13a53f97ad2e974a37471c9430cf2d64aa7008?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/fe3c8d7867ed297c0e9f643757b2836b99ade226",
+      "release_date": "2013-03-15"
+    },
+    {
+      "featuredArtist": "Lester Young",
+      "featuredArtistId": "05E3NBxNMdnrPtxF9oraJm",
+      "trackName": "Love Me Or Leave Me",
+      "trackId": "5rxBhKfr0KNqA7U2acgRpO",
+      "preview": "https://p.scdn.co/mp3-preview/605c5545dccadc41331560676ddf2b555f70b1fa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4b9c7a0d632c0a2e1be26fb9e354e4cf819c5fdb",
+      "release_date": "2010-11-08"
+    }
+  ]
+}

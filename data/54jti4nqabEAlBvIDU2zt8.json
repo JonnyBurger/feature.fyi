@@ -1,0 +1,50 @@
+{
+  "artistName": "Francisco Céspedes",
+  "features": [
+    {
+      "featuredArtist": "Leo Brouwer",
+      "featuredArtistId": "4PdumqEAuo2EQzukVWnxa0",
+      "trackName": "Presentación Leo Brouwer - En Vivo",
+      "trackId": "5kCrDMyvqiFmstY8m80pWr",
+      "preview": "https://p.scdn.co/mp3-preview/4cc80a2f46a085eecbab88ad58054aae09ec62d4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f3b67e88a336e64ae93b3d3e268625c3ac9714fe",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Pablo Milanés",
+      "featuredArtistId": "4vOfKh5wz7lTcdqB3EwsC5",
+      "trackName": "La Felicidad (feat. Pablo Milanés) - En Vivo",
+      "trackId": "2EOJlVEbyy5hC9bxIa9UCr",
+      "preview": "https://p.scdn.co/mp3-preview/bd99acded80b34c7001d22e5e783ee44659581f3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f3b67e88a336e64ae93b3d3e268625c3ac9714fe",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Jean B. Smit and Salvador Tercero",
+      "featuredArtistId": "2mUijXES4CkeUGaClIlSlt",
+      "trackName": "Señora",
+      "trackId": "1DShTUAiUA0fgMNfX07y91",
+      "preview": "https://p.scdn.co/mp3-preview/dd9f238abab2fc34c7d9e191c423fdd0c422d149?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca925ca12d99e85497e19bcff76b1b93305263b5",
+      "release_date": "2011-09-23"
+    },
+    {
+      "featuredArtist": "Jean B. Smit",
+      "featuredArtistId": "2AaFAPr9TIEDJ14YZcMGfJ",
+      "trackName": "Así es mi música",
+      "trackId": "0Wq1UidPCT6JhIsqNviYVu",
+      "preview": "https://p.scdn.co/mp3-preview/e8fc3fdd14b8328b784f97b48b8cb74cbfda9027?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ca925ca12d99e85497e19bcff76b1b93305263b5",
+      "release_date": "2011-09-23"
+    },
+    {
+      "featuredArtist": "Cristian Alejandro",
+      "featuredArtistId": "06saBIvjMknGRQoOBTvobK",
+      "trackName": "Soplo de Vida",
+      "trackId": "2Oh0RGQn73dXVPvPwLXRIW",
+      "preview": "https://p.scdn.co/mp3-preview/d35beceb734372b7710c545090b94970d6c0ea0f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0b8071771061dde88ee6b65d26bd2ee925904c1d",
+      "release_date": "2018-03-23"
+    }
+  ]
+}

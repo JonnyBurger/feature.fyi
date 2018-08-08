@@ -1,0 +1,23 @@
+{
+  "artistName": "All Time Low",
+  "features": [
+    {
+      "featuredArtist": "Tegan and Sara",
+      "featuredArtistId": "5e1BZulIiYWPRm8yogwUYH",
+      "trackName": "Ground Control (feat. Tegan and Sara)",
+      "trackId": "2fF3XzFS37084kw9tgNA5i",
+      "preview": "https://p.scdn.co/mp3-preview/ea6c2ad452b24c68dfe7facf0bac35fa04bb1e03?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7b0c4dbb7eb1eb17955d852fbd06b0ba5ef18bfa",
+      "release_date": "2017-06-02"
+    },
+    {
+      "featuredArtist": "GOLDHOUSE",
+      "featuredArtistId": "670UISOh9XV1zlq5z5IfoY",
+      "trackName": "Good Times - GOLDHOUSE Remix",
+      "trackId": "5C41sJwnnissX6ojjpLOcJ",
+      "preview": "https://p.scdn.co/mp3-preview/b5b5e51aa9b295a42536a99774bd0403fc986c42?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8bf7f2623c13bb9fbb9312d2dd6efbbeee4e59cd",
+      "release_date": "2017-11-17"
+    }
+  ]
+}

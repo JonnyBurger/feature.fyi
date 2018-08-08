@@ -1,0 +1,527 @@
+{
+  "artistName": "Pedro Capó",
+  "features": [
+    {
+      "featuredArtist": "Kaay",
+      "featuredArtistId": "2SvbyJMDoNgCJIYpQiFx5v",
+      "trackName": "Te Quiero Tanto, Tanto",
+      "trackId": "6aU4AhQyGR7ytfqTCTiBPO",
+      "preview": "https://p.scdn.co/mp3-preview/3f513b795c4d1a76251ecfa2d8d0d139fbaf4394?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6495d241336a64c0be24e74a89c18ef812d6ec55",
+      "release_date": "2017-08-11"
+    },
+    {
+      "featuredArtist": "Matisse",
+      "featuredArtistId": "77aLk6J8ofnVxa1eXK9jiU",
+      "trackName": "Qué Fuimos",
+      "trackId": "5vRwOK31sTh80qJAZeP1Ox",
+      "preview": "https://p.scdn.co/mp3-preview/91cf3cc7cae484a1d505b6324d7c6f9f1f25e3d6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c7adabd856f1408e1a7d053d89c114c9d81e46ff",
+      "release_date": "2014-08-12"
+    },
+    {
+      "featuredArtist": "Raquel Sofia",
+      "featuredArtistId": "0J9JLJmiTXJFvvyHS3Qzn4",
+      "trackName": "Agua Bendita",
+      "trackId": "6lWVdPqQLRqR1Xrn5B8B8Y",
+      "preview": "https://p.scdn.co/mp3-preview/5646e267a18d817f9502342815a2155e3505ef36?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c7adabd856f1408e1a7d053d89c114c9d81e46ff",
+      "release_date": "2014-08-12"
+    },
+    {
+      "featuredArtist": "Kany Garcia",
+      "featuredArtistId": "69UypehHabb68utzfjAVlV",
+      "trackName": "Si Tú Me Lo Pides",
+      "trackId": "3es7XP3HS7TqZqC9Z6cdmd",
+      "preview": "https://p.scdn.co/mp3-preview/6f8dd60534150737d23292b799496da5fd03a19a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/58603c8e7d543510a46f0ae8387e2fa3b1954e5d",
+      "release_date": "2009"
+    },
+    {
+      "featuredArtist": "Jewels Jaselle",
+      "featuredArtistId": "6I87zfNCJYwUVfhOSQIJm7",
+      "trackName": "Vuela Hacia Mi (Music Video Inspired by the Film \"Adventures in Zambezia\")",
+      "trackId": "3VmxrIgFCTis573SBFdyCv",
+      "preview": "https://p.scdn.co/mp3-preview/511905df78c645c1ea1f3816464c2651cf4aa62a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3b6d90ebde5ee5630612f7ef12cba58363470204",
+      "release_date": "2013-11-28"
+    },
+    {
+      "featuredArtist": "El Trotamundos",
+      "featuredArtistId": "5EceSTfIHlcVRxHNVq9paZ",
+      "trackName": "Palomita Blanca (Él)",
+      "trackId": "6M9QPEwenjgrYbPZcQ9g8y",
+      "preview": "https://p.scdn.co/mp3-preview/8892918561e4e0eb578a5461fa775cae25166f22?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7682e99065bc9aa1442cc91e217df890b0833d83",
+      "release_date": "2018-02-14"
+    },
+    {
+      "featuredArtist": "Danny Rivera",
+      "featuredArtistId": "3LZUHg9BIh2U5ol71qrVGL",
+      "trackName": "Amigos",
+      "trackId": "6cCTAJQSSJf8vJpILlPrm1",
+      "preview": "https://p.scdn.co/mp3-preview/5c25ed36487d42b7a398652bcd5cb2d4be79c2d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7682e99065bc9aa1442cc91e217df890b0833d83",
+      "release_date": "2018-02-14"
+    },
+    {
+      "featuredArtist": "Tito Auger",
+      "featuredArtistId": "4UJU9eFgW6JWTNuBjbfjYB",
+      "trackName": "Amigos",
+      "trackId": "6cCTAJQSSJf8vJpILlPrm1",
+      "preview": "https://p.scdn.co/mp3-preview/5c25ed36487d42b7a398652bcd5cb2d4be79c2d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7682e99065bc9aa1442cc91e217df890b0833d83",
+      "release_date": "2018-02-14"
+    },
+    {
+      "featuredArtist": "Ana Isabelle",
+      "featuredArtistId": "69vrWFbPlmkfQjMKojkeqG",
+      "trackName": "Amigos",
+      "trackId": "6cCTAJQSSJf8vJpILlPrm1",
+      "preview": "https://p.scdn.co/mp3-preview/5c25ed36487d42b7a398652bcd5cb2d4be79c2d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7682e99065bc9aa1442cc91e217df890b0833d83",
+      "release_date": "2018-02-14"
+    },
+    {
+      "featuredArtist": "Ektor Rivera",
+      "featuredArtistId": "1YXEu25SQBa9IUe5aqWpyX",
+      "trackName": "Amigos",
+      "trackId": "6cCTAJQSSJf8vJpILlPrm1",
+      "preview": "https://p.scdn.co/mp3-preview/5c25ed36487d42b7a398652bcd5cb2d4be79c2d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7682e99065bc9aa1442cc91e217df890b0833d83",
+      "release_date": "2018-02-14"
+    },
+    {
+      "featuredArtist": "Lourdes Robles",
+      "featuredArtistId": "1c6mqbZk70GyrR8ltrRBtm",
+      "trackName": "Amigos",
+      "trackId": "6cCTAJQSSJf8vJpILlPrm1",
+      "preview": "https://p.scdn.co/mp3-preview/5c25ed36487d42b7a398652bcd5cb2d4be79c2d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7682e99065bc9aa1442cc91e217df890b0833d83",
+      "release_date": "2018-02-14"
+    },
+    {
+      "featuredArtist": "Victor Santiago",
+      "featuredArtistId": "6fe2T71gklM5LGcnmkmpSr",
+      "trackName": "Amigos",
+      "trackId": "6cCTAJQSSJf8vJpILlPrm1",
+      "preview": "https://p.scdn.co/mp3-preview/5c25ed36487d42b7a398652bcd5cb2d4be79c2d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7682e99065bc9aa1442cc91e217df890b0833d83",
+      "release_date": "2018-02-14"
+    },
+    {
+      "featuredArtist": "Sandra Zaiter",
+      "featuredArtistId": "1pglFMHjKSYkNqguPSLJUA",
+      "trackName": "Amigos",
+      "trackId": "6cCTAJQSSJf8vJpILlPrm1",
+      "preview": "https://p.scdn.co/mp3-preview/5c25ed36487d42b7a398652bcd5cb2d4be79c2d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7682e99065bc9aa1442cc91e217df890b0833d83",
+      "release_date": "2018-02-14"
+    },
+    {
+      "featuredArtist": "Lin-Manuel Miranda",
+      "featuredArtistId": "4aXXDj9aZnlshx7mzj3W1N",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Alex Lacamoire",
+      "featuredArtistId": "5TLQArskPwpPQULjjE2tsW",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Ana Villafañe",
+      "featuredArtistId": "5lVYBJYVtzSu6YH7vlMuhU",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Anthony Ramos",
+      "featuredArtistId": "660YptcR0hNHJ8iEr1qcse",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Camila Cabello",
+      "featuredArtistId": "4nDoRrQiYLoBzwC5BhVJzF",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Dessa",
+      "featuredArtistId": "2CQAfzpwwaMxj3YNlb4Gbj",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Ednita Nazario",
+      "featuredArtistId": "1Lvrnoz3ZKzzrBuZ446e6P",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Fat Joe",
+      "featuredArtistId": "3ScY9CQxNLQei8Umvpx5g6",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Gilberto Santa Rosa",
+      "featuredArtistId": "27vNK840zYq6IfDijHPsv1",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Gina Rodriguez",
+      "featuredArtistId": "5oC6sik8OGWHW5k4cdnEca",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Gloria Estefan",
+      "featuredArtistId": "5IFCkqu9J6xdWeYMk5I889",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Jennifer Lopez",
+      "featuredArtistId": "2DlGxzQSjYe5N6G9nkYghR",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Joell Ortiz",
+      "featuredArtistId": "1q13yHC6Syg5Y8iPLrRnCq",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "John Leguizamo",
+      "featuredArtistId": "26nStRV6Waedt17W4Uhx6l",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Juan Luis Guerra 4.40",
+      "featuredArtistId": "3nlpTZci9O5W8RsNoNH559",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Luis Fonsi",
+      "featuredArtistId": "4V8Sr092TqfHkfAA5fXXqG",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Marc Anthony",
+      "featuredArtistId": "4wLXwxDeWQ8mtUIRPxGiD6",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Pj Sin Suela",
+      "featuredArtistId": "0AdjzZxHJ4MfbImx2rD0Df",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Rita Moreno",
+      "featuredArtistId": "0o8VXZhF492Z1bKBRFA9Q2",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Rubén Blades",
+      "featuredArtistId": "5BwMgvRwlq61SmknvsVIQj",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Tommy Torres",
+      "featuredArtistId": "264nbMzGPSkDZqTY8nXwCG",
+      "trackName": "Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix",
+      "trackId": "4r2NwDpnyj3Ao0kKMkFDR8",
+      "preview": "https://p.scdn.co/mp3-preview/eda20fc876bf8359ab7b0ddf204e387ea33cec3c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f9beff28674a581be36e8fad6932b2224a557c82",
+      "release_date": "2018-02-09"
+    },
+    {
+      "featuredArtist": "Olga Tanon",
+      "featuredArtistId": "4pv1Jo4PbYI8LMADJoTWjE",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Naiz",
+      "featuredArtistId": "3HowwkjwzMIqY7NH3t7oaT",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Jerry Rivera",
+      "featuredArtistId": "7wOZy3KdFVVINgNFFxkxwO",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Cosculluela",
+      "featuredArtistId": "00me4Ke1LsvMxt5kydlMyU",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Consuelo Schuster",
+      "featuredArtistId": "1wZ9Xc5xzw5ag4rpHBdMTk",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Víctor Rivera",
+      "featuredArtistId": "48t0H7I79y7N8lzbjZo3EA",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Gustavo Laureano",
+      "featuredArtistId": "10AKjVY68dYFGz7pvy7zLx",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Javier Gómez",
+      "featuredArtistId": "4Y5PY7GykZJ1RJkIELrEGg",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Gustavo Gonzalez",
+      "featuredArtistId": "6HtuCViSr2zU5T2hO5xwij",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Oscar Serrano",
+      "featuredArtistId": "3JVWQ7QMUhs9WZW6dC3Fqc",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Francisco \"Pirulo\" Rosado",
+      "featuredArtistId": "5PrRG2rbepN1vcLea60vft",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Jowell",
+      "featuredArtistId": "6TASDj2ogOKQptnxgEvrcP",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Randy Nota Loca",
+      "featuredArtistId": "6wtNHTx0mmp7m1qqOXWDv2",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Yaire",
+      "featuredArtistId": "7JiEaZPHdEoxxNzjGPstHG",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Melina Leon",
+      "featuredArtistId": "5oj50e6WeS3yFv92YDOfXA",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Diana Fuentes",
+      "featuredArtistId": "14FqcgpNCmfedRsAZTgMIG",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Mickey Rivera",
+      "featuredArtistId": "53ZiowxaOp4RDps5DbxoIO",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Ambar",
+      "featuredArtistId": "7sW7hQ4fnG2TGS5oy3KHsz",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Arcangel",
+      "featuredArtistId": "4SsVbpTthjScTS7U2hmr1X",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Danny Fornaris",
+      "featuredArtistId": "7dtgRsjgTyMa6DJZtPckBJ",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Tito \"El Bambino\"",
+      "featuredArtistId": "5fJsY7afrbsyzJj9wdzJMh",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Víctor Manuel",
+      "featuredArtistId": "6cFqY5mkBqKqaIYunDg1k8",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Barak",
+      "featuredArtistId": "2TJRODnk3khVKzcybZfYe1",
+      "trackName": "Isla Bendita",
+      "trackId": "5uSMjzHVeml2NosTPoO1Bk",
+      "preview": "https://p.scdn.co/mp3-preview/95a6ae59dd1750cdb074c086b92148952accb80a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/01e182763e11a1daccb0e1888db80adb6784f6c6",
+      "release_date": "2017-12-08"
+    },
+    {
+      "featuredArtist": "Negroni's Trio",
+      "featuredArtistId": "6clJrNFd1xD5dzc9UzxW7C",
+      "trackName": "El Incomprendido",
+      "trackId": "5tOiB8UUOb6B2BzTDJL5IR",
+      "preview": "https://p.scdn.co/mp3-preview/2a8739774d575e1e43a602c7313f19886daac84f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f2e031b1be3f3f635af3e23e4f7872c89b05b509",
+      "release_date": "2017-09-08"
+    }
+  ]
+}

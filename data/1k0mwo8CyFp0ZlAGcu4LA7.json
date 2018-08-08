@@ -1,0 +1,590 @@
+{
+  "artistName": "Dj Weedim",
+  "features": [
+    {
+      "featuredArtist": "Alkpote",
+      "featuredArtistId": "0QcZD8V0Ug1KINWBSyG0dB",
+      "trackName": "Tounsi Freestyle Pt. 2",
+      "trackId": "5tqrgog0SERNbJXTUTBtg4",
+      "preview": "https://p.scdn.co/mp3-preview/3e4a1a225b5acd4998410ef81e528cef59cdec21?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Cheu-B",
+      "featuredArtistId": "2bbQRkTmEgKA1INGHeH7oT",
+      "trackName": "Univers sale",
+      "trackId": "2FKvhCIFHdwJL3lhSZt4Jf",
+      "preview": "https://p.scdn.co/mp3-preview/9b81b89bf13f6f3f27823bbf891a9cbc0c4167cb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "13 Block",
+      "featuredArtistId": "7rTPCNINGzMp3Hc8Xqht5Z",
+      "trackName": "Mauvais toy",
+      "trackId": "5nK1E9kNf4Yuuzm9te9bWa",
+      "preview": "https://p.scdn.co/mp3-preview/47391812b1461b6934f4251647ea4fe49602e1ed?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Darki",
+      "featuredArtistId": "5Oe02XQcUF74wOofnIl9b2",
+      "trackName": "Habituer",
+      "trackId": "58P66WhJCFy6SBYyr2a4JP",
+      "preview": "https://p.scdn.co/mp3-preview/caebf5f16e75852852f7b763f00a42d8425df316?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Iron Sy",
+      "featuredArtistId": "42UIDpEBWHrk9z3rybZQxS",
+      "trackName": "Chronique NRV",
+      "trackId": "293QwT9fQDYM884Rla0KQ6",
+      "preview": "https://p.scdn.co/mp3-preview/29a891d980bbf7532973c868117014d5de1444f0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Biffty",
+      "featuredArtistId": "28iAsy77mBm7rk8K9cfFvL",
+      "trackName": "Chronique NRV",
+      "trackId": "293QwT9fQDYM884Rla0KQ6",
+      "preview": "https://p.scdn.co/mp3-preview/29a891d980bbf7532973c868117014d5de1444f0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "John Dess",
+      "featuredArtistId": "1M2mu34WcbjSc9HO81huKz",
+      "trackName": "7 boules de cristal",
+      "trackId": "5499pclXZ6AhfQmj9Y1Q95",
+      "preview": "https://p.scdn.co/mp3-preview/b7df1f0903ac2a21980743248abc2f34c9203215?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Sidi Sid",
+      "featuredArtistId": "2z5tmZ8ilRFE0CxzEERT6Y",
+      "trackName": "Vladimir",
+      "trackId": "0cDXS9hnoJXtvDzsdT4lPr",
+      "preview": "https://p.scdn.co/mp3-preview/74551407aaa67542f3c851f51d3dfef4e55dd102?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "2CheeseMilkShake",
+      "featuredArtistId": "1oLhFCiIYiRGbnJeyp7fHl",
+      "trackName": "Bords de Marne",
+      "trackId": "2sVhzkm8wMsqHHlnKhPRiW",
+      "preview": "https://p.scdn.co/mp3-preview/468cc03efc301dc243699e8fb584f3b084e645ea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Julius On The Wave",
+      "featuredArtistId": "3u8hEmcHdXJhkI0d6pHNId",
+      "trackName": "Bords de Marne",
+      "trackId": "2sVhzkm8wMsqHHlnKhPRiW",
+      "preview": "https://p.scdn.co/mp3-preview/468cc03efc301dc243699e8fb584f3b084e645ea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "21Souyard",
+      "featuredArtistId": "4VaAyerjgXRWEgKpIys17x",
+      "trackName": "Bords de Marne",
+      "trackId": "2sVhzkm8wMsqHHlnKhPRiW",
+      "preview": "https://p.scdn.co/mp3-preview/468cc03efc301dc243699e8fb584f3b084e645ea?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "6rano",
+      "featuredArtistId": "5SeaFZEczrr4tQ6v0coVi9",
+      "trackName": "Nourrice",
+      "trackId": "1LlM0uFLpcpKLhx59W1Qat",
+      "preview": "https://p.scdn.co/mp3-preview/a68ca5b741b0fc0daa620c294366475c4e5e530d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Nusky",
+      "featuredArtistId": "6NBA1GBrRG7fxTPDjKwFxm",
+      "trackName": "SLVDM",
+      "trackId": "1JDHmPiCtXRSlnlbDk1xwI",
+      "preview": "https://p.scdn.co/mp3-preview/181be099a6af4d910e1f0b0ee0b6e3d8775c6ca1?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "A2H",
+      "featuredArtistId": "242DKhqNCi0bCidcVjzNeY",
+      "trackName": "On le fait mieux",
+      "trackId": "1LT84SIZy3MdxD3HoyWy7v",
+      "preview": "https://p.scdn.co/mp3-preview/811738ac04bd720b47f1759bb7126ebb6cb468fb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Roméo Elvis",
+      "featuredArtistId": "2pHk4wAmL7ofTAuvCIUWtv",
+      "trackName": "Il m'a trompé",
+      "trackId": "0Fb521tRPhVN2ZEkhqGOCL",
+      "preview": "https://p.scdn.co/mp3-preview/b8770a42ee643cdc597c51e0576c1a0dbe64e933?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "LES ANTICIPATEURS",
+      "featuredArtistId": "74tb4BL2gQ28BJicVAWsdb",
+      "trackName": "Avec le DJ",
+      "trackId": "68jDQmALkW9mmy4JZHEHOg",
+      "preview": "https://p.scdn.co/mp3-preview/7963c89e44ed1695d2217b4416fde9df186b65ac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "B.e.Labeu",
+      "featuredArtistId": "2BqT9nSBUJ5BUkg0EpFUxe",
+      "trackName": "Avec le DJ",
+      "trackId": "68jDQmALkW9mmy4JZHEHOg",
+      "preview": "https://p.scdn.co/mp3-preview/7963c89e44ed1695d2217b4416fde9df186b65ac?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Di-Meh",
+      "featuredArtistId": "0e1ElCq01rC8cBp6iXd163",
+      "trackName": "Guestlist",
+      "trackId": "1UhibptZcjPgD64TtYkloa",
+      "preview": "https://p.scdn.co/mp3-preview/ee852c6c45e553fb44e4dbd92c56e3ffc4ca1de6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Slimka",
+      "featuredArtistId": "3JudvZnY94AkCzfAVXzawN",
+      "trackName": "Guestlist",
+      "trackId": "1UhibptZcjPgD64TtYkloa",
+      "preview": "https://p.scdn.co/mp3-preview/ee852c6c45e553fb44e4dbd92c56e3ffc4ca1de6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Jason Voriz",
+      "featuredArtistId": "0nHE4OMMVRBGRIWiLzs7m7",
+      "trackName": "Gâchette facile",
+      "trackId": "3SBIzHXrzzJX3aDVE5xa0K",
+      "preview": "https://p.scdn.co/mp3-preview/11f1e6759cd40e11a69c370c73277cf479509317?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Eloquence",
+      "featuredArtistId": "685Gc0hObCotgZ7K8bE05K",
+      "trackName": "Diamantaire",
+      "trackId": "7dqOjpMTeh51B2iA1neFGr",
+      "preview": "https://p.scdn.co/mp3-preview/36f5a5764b9c411056bb67a65c81f1363a49d8cb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Atis 70cl",
+      "featuredArtistId": "03P4RFtQOS2aPVzfMUl0WC",
+      "trackName": "Diamantaire",
+      "trackId": "7dqOjpMTeh51B2iA1neFGr",
+      "preview": "https://p.scdn.co/mp3-preview/36f5a5764b9c411056bb67a65c81f1363a49d8cb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Jok'air",
+      "featuredArtistId": "2kIs76sEGiulKeqetZq6ua",
+      "trackName": "Brioche",
+      "trackId": "1kDeqArnVN9U4vL7TgHvCg",
+      "preview": "https://p.scdn.co/mp3-preview/a7d2d063943fd0eacb55746bc4f844b293ac8935?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64fc754de00674e701c53ce69a3039b952c2645c",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Driver",
+      "featuredArtistId": "3RDBuVn4cnfis5U9pcdd5O",
+      "trackName": "Intro",
+      "trackId": "4kBsxchgyoiplqPVvWRgSx",
+      "preview": "https://p.scdn.co/mp3-preview/8bee08ffd981dae35a58ca275a4e3b44d667fc77?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/120b7515ca619617e6f7725f9daed76f504f79e1",
+      "release_date": "2017-03-29"
+    },
+    {
+      "featuredArtist": "K.S.A",
+      "featuredArtistId": "7goLCahJ6niHyX4EP1YbY1",
+      "trackName": "#RPTG",
+      "trackId": "5OlmkgEufjU7Ecah9gUMS9",
+      "preview": "https://p.scdn.co/mp3-preview/5bb429a1277ec84cadbbdb3002de22a4879d702e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d757107289e8cc9c56ad6afbf0b601bc681274cd",
+      "release_date": "2016-03-15"
+    },
+    {
+      "featuredArtist": "3010",
+      "featuredArtistId": "1KTf3AtEB3A96IfHv2kzPh",
+      "trackName": "Question de prix",
+      "trackId": "0u7AFNoaab9xTA95KI0tht",
+      "preview": "https://p.scdn.co/mp3-preview/b4cec1fe26ee6766eca87aa332b11330bfd26fa0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d757107289e8cc9c56ad6afbf0b601bc681274cd",
+      "release_date": "2016-03-15"
+    },
+    {
+      "featuredArtist": "Infinit'",
+      "featuredArtistId": "5y2Ny3eOPrhtb5uQFl30vq",
+      "trackName": "Woof woof",
+      "trackId": "7uF9VsiKblL7mIn783ongf",
+      "preview": "https://p.scdn.co/mp3-preview/7dde5bbbd36b2a54f0e6c3c009d8059f3507d5f8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d757107289e8cc9c56ad6afbf0b601bc681274cd",
+      "release_date": "2016-03-15"
+    },
+    {
+      "featuredArtist": "MV",
+      "featuredArtistId": "4zAjnqjuDaTgOQM43f3bsf",
+      "trackName": "Vitres noires",
+      "trackId": "4ggxfqzg543vZUPw70B3mR",
+      "preview": "https://p.scdn.co/mp3-preview/0fc9869f0d36a5f41359b75c7c99b3b64b1803e3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d757107289e8cc9c56ad6afbf0b601bc681274cd",
+      "release_date": "2016-03-15"
+    },
+    {
+      "featuredArtist": "S.Pri Noir",
+      "featuredArtistId": "5olcgTzelGdyP1rHRLyWgs",
+      "trackName": "Le meilleur",
+      "trackId": "5rcijPAbOovZK8CDMZ1A0J",
+      "preview": "https://p.scdn.co/mp3-preview/0610fedde1722187a23c749815e6214181a78bd2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f26977ea351b91e02611d4333f34e931c4a30ad",
+      "release_date": "2015-07-24"
+    },
+    {
+      "featuredArtist": "Joe Lukazz",
+      "featuredArtistId": "40S35nBi3gRQc3oarXPvOd",
+      "trackName": "Le diable",
+      "trackId": "5OIw8TE0aZwWpfNRrBcpC3",
+      "preview": "https://p.scdn.co/mp3-preview/59c4514a31067c7593d6205fdc39228da7125f8a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f26977ea351b91e02611d4333f34e931c4a30ad",
+      "release_date": "2015-07-24"
+    },
+    {
+      "featuredArtist": "Daddy Jokno",
+      "featuredArtistId": "4AhaFktx9zoWWkCyuEqKfz",
+      "trackName": "Update",
+      "trackId": "5l7BDo8fOBdGJF2jnUZFVC",
+      "preview": "https://p.scdn.co/mp3-preview/a5a8c99b4e5bf246862d872cfa793b0327bfb8d7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f26977ea351b91e02611d4333f34e931c4a30ad",
+      "release_date": "2015-07-24"
+    },
+    {
+      "featuredArtist": "Vald",
+      "featuredArtistId": "3CnCGFxXbOA8bAK54jR8js",
+      "trackName": "Ecailles",
+      "trackId": "703xBNZE8fBD8nQpWGAPP0",
+      "preview": "https://p.scdn.co/mp3-preview/e978c8edae4d4cc062786a0ae91243c017fead49?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f26977ea351b91e02611d4333f34e931c4a30ad",
+      "release_date": "2015-07-24"
+    },
+    {
+      "featuredArtist": "KSA",
+      "featuredArtistId": "5etZXDfb2LJHlhLvrnRmRV",
+      "trackName": "Baker Bwoy",
+      "trackId": "0EGWJs91dARC4BKcxhkM7u",
+      "preview": "https://p.scdn.co/mp3-preview/a9afd83ca9f3c72cbdfb7623b41d0871f45b71b0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f26977ea351b91e02611d4333f34e931c4a30ad",
+      "release_date": "2015-07-24"
+    },
+    {
+      "featuredArtist": "Jorrdee",
+      "featuredArtistId": "5S20kfnvfovpK5ncgaDkWU",
+      "trackName": "Laisse pas rentrer les démons",
+      "trackId": "3WA7MWEOBIdOEGAg3PR3lF",
+      "preview": "https://p.scdn.co/mp3-preview/1da1a47d8e9065998c98fc8a7480f5475028be0c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f26977ea351b91e02611d4333f34e931c4a30ad",
+      "release_date": "2015-07-24"
+    },
+    {
+      "featuredArtist": "B.e.LaBeu",
+      "featuredArtistId": "2nefk2a3EpKDzxF9d24jrl",
+      "trackName": "Mon style",
+      "trackId": "2bcN7YjyKtGUQVxNzKqY1P",
+      "preview": "https://p.scdn.co/mp3-preview/ffc06a5a1e804e33abeac1ab35f5a131152c00f7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f26977ea351b91e02611d4333f34e931c4a30ad",
+      "release_date": "2015-07-24"
+    },
+    {
+      "featuredArtist": "Wacko",
+      "featuredArtistId": "6E2xn3BMpTfFaJtaJ6AHBO",
+      "trackName": "Google",
+      "trackId": "0XFb4mBDoJkEB82ymF9Kox",
+      "preview": "https://p.scdn.co/mp3-preview/457432a71b8e1a54da71c3dbe8ab904a4dac552a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f26977ea351b91e02611d4333f34e931c4a30ad",
+      "release_date": "2015-07-24"
+    },
+    {
+      "featuredArtist": "Aketo Infinit",
+      "featuredArtistId": "3NsQCxVe8cl87c3GxKzmXe",
+      "trackName": "Décalage horaire",
+      "trackId": "04Y1HM1BoRPdKI5zhd3MZv",
+      "preview": "https://p.scdn.co/mp3-preview/d2e3072e4695655cfdf3207b6334f2cf3155312d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f26977ea351b91e02611d4333f34e931c4a30ad",
+      "release_date": "2015-07-24"
+    },
+    {
+      "featuredArtist": "A2h",
+      "featuredArtistId": "2ktpq7bp4m1quizyEmp4r1",
+      "trackName": "Ride",
+      "trackId": "34gJOogiEqPoqBH1hsG6pC",
+      "preview": "https://p.scdn.co/mp3-preview/b4fb280360d7833f3c2e10bee8afd7f4d5d9525d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f26977ea351b91e02611d4333f34e931c4a30ad",
+      "release_date": "2015-07-24"
+    },
+    {
+      "featuredArtist": "Titan",
+      "featuredArtistId": "0FfiqpPNuyhma9Sc4nF3U5",
+      "trackName": "Ride",
+      "trackId": "34gJOogiEqPoqBH1hsG6pC",
+      "preview": "https://p.scdn.co/mp3-preview/b4fb280360d7833f3c2e10bee8afd7f4d5d9525d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f26977ea351b91e02611d4333f34e931c4a30ad",
+      "release_date": "2015-07-24"
+    },
+    {
+      "featuredArtist": "Metek",
+      "featuredArtistId": "5oGsqmAp9ZERgmYRd1OXkQ",
+      "trackName": "Junkie",
+      "trackId": "54ZRhdBbtkYAkCcAl1Yscj",
+      "preview": "https://p.scdn.co/mp3-preview/23cb720c9629af8307fdcdbbfa968caa4b0bc385?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f26977ea351b91e02611d4333f34e931c4a30ad",
+      "release_date": "2015-07-24"
+    },
+    {
+      "featuredArtist": "Sidisid",
+      "featuredArtistId": "6o8VykLTFJmFNygGsHntOA",
+      "trackName": "Monsieur l'agent",
+      "trackId": "0eeMJCFPVUDvS5cnkhzmTY",
+      "preview": "https://p.scdn.co/mp3-preview/02c4b4d13f5c20cfbc7e2d176f92b9d890acf93d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4f26977ea351b91e02611d4333f34e931c4a30ad",
+      "release_date": "2015-07-24"
+    },
+    {
+      "featuredArtist": "Aketo",
+      "featuredArtistId": "500IcTDu7sWtvgvEZSIiFE",
+      "trackName": "Coupable",
+      "trackId": "0CbcEu0tqNLRT4Lbj1Gdcg",
+      "preview": "https://p.scdn.co/mp3-preview/1c8a9ac46cd1f9f3d57a628907faac6279a704bb?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3946fe0c897a1a731b9cff998621f0c66a2d1d29",
+      "release_date": "2014-09-29"
+    },
+    {
+      "featuredArtist": "70cl",
+      "featuredArtistId": "1s7de2qvxgxY2GGJJxZiK0",
+      "trackName": "Qualité superieure",
+      "trackId": "7rmauCZ2iU11gTwz4hkXNI",
+      "preview": "https://p.scdn.co/mp3-preview/f84ddd44d623e6fde7c97cdde6093494e81fc83c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3946fe0c897a1a731b9cff998621f0c66a2d1d29",
+      "release_date": "2014-09-29"
+    },
+    {
+      "featuredArtist": "Nathy",
+      "featuredArtistId": "3YsFopKIlhh9FDG8NGlC1v",
+      "trackName": "Grinder Remix",
+      "trackId": "1h7xxkKKDp7WEdZSJqUVeM",
+      "preview": "https://p.scdn.co/mp3-preview/a4bea3b5337c6cd7504f0be72bb57681d979349e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3946fe0c897a1a731b9cff998621f0c66a2d1d29",
+      "release_date": "2014-09-29"
+    },
+    {
+      "featuredArtist": "Boss",
+      "featuredArtistId": "3mKv8UOsUlfywaQ5bSJRCT",
+      "trackName": "Grinder Remix",
+      "trackId": "1h7xxkKKDp7WEdZSJqUVeM",
+      "preview": "https://p.scdn.co/mp3-preview/a4bea3b5337c6cd7504f0be72bb57681d979349e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3946fe0c897a1a731b9cff998621f0c66a2d1d29",
+      "release_date": "2014-09-29"
+    },
+    {
+      "featuredArtist": "The Millionaire",
+      "featuredArtistId": "2mhNYWeHae2aBzslDfBmyr",
+      "trackName": "Grinder Remix",
+      "trackId": "1h7xxkKKDp7WEdZSJqUVeM",
+      "preview": "https://p.scdn.co/mp3-preview/a4bea3b5337c6cd7504f0be72bb57681d979349e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3946fe0c897a1a731b9cff998621f0c66a2d1d29",
+      "release_date": "2014-09-29"
+    },
+    {
+      "featuredArtist": "Green Money",
+      "featuredArtistId": "5K45xjHulVclJDxJSakgmc",
+      "trackName": "On fait",
+      "trackId": "37f1dQIVdDgnsmCA91GkQX",
+      "preview": "https://p.scdn.co/mp3-preview/bc16580c568b68e14a66c300c031414c2e7c629c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/56535e1fbd0889c602892b5e138c8bf8451d6cee",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Kilroy",
+      "featuredArtistId": "1gFTsC1DNPkbBwRcrDh0IM",
+      "trackName": "Boulangerie française",
+      "trackId": "188KqmgKPOJhGXe3XZZYcp",
+      "preview": "https://p.scdn.co/mp3-preview/0e81cc44947b87f2500b202533a3dc86b3003790?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/56535e1fbd0889c602892b5e138c8bf8451d6cee",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Cuizinier",
+      "featuredArtistId": "0d8fD1KVyFkW6HAfCG3tCM",
+      "trackName": "Boulangerie française",
+      "trackId": "188KqmgKPOJhGXe3XZZYcp",
+      "preview": "https://p.scdn.co/mp3-preview/0e81cc44947b87f2500b202533a3dc86b3003790?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/56535e1fbd0889c602892b5e138c8bf8451d6cee",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Matt Experty",
+      "featuredArtistId": "4FnvN1g1OKIe7nv7GnsiDy",
+      "trackName": "Boulangerie française",
+      "trackId": "188KqmgKPOJhGXe3XZZYcp",
+      "preview": "https://p.scdn.co/mp3-preview/0e81cc44947b87f2500b202533a3dc86b3003790?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/56535e1fbd0889c602892b5e138c8bf8451d6cee",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Nathy Boss",
+      "featuredArtistId": "3jBRJTfZDu1pUmIqK6QSac",
+      "trackName": "KFC",
+      "trackId": "3qpBgvsP4Oyx2LPtvopgRO",
+      "preview": "https://p.scdn.co/mp3-preview/d88b1f11a40fc57d53c16f05d39f56792c8cc03d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/56535e1fbd0889c602892b5e138c8bf8451d6cee",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Kalash",
+      "featuredArtistId": "3J7r4VsNmuWixU0nXvyPd8",
+      "trackName": "Hustlin Everyday",
+      "trackId": "5xKAN9hef8M62cbnxQ8DhI",
+      "preview": "https://p.scdn.co/mp3-preview/46dd6fa12e97c034ed3d4fb974389b4c6a7ab8c2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/56535e1fbd0889c602892b5e138c8bf8451d6cee",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Kombo",
+      "featuredArtistId": "2W0gw53M4mVZ8OotBpdF6d",
+      "trackName": "Si nos meres savaient",
+      "trackId": "4aqiARREzOueIPgedoOGny",
+      "preview": "https://p.scdn.co/mp3-preview/5b96800d10f4f69f52fd5bb93b64c88a18e9fe1e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/56535e1fbd0889c602892b5e138c8bf8451d6cee",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Ol'Steel",
+      "featuredArtistId": "3VHgLkvECJYI8FltQDg8Hu",
+      "trackName": "Fume cette weed",
+      "trackId": "33EsH9ZrHx9LXSOxsesgK7",
+      "preview": "https://p.scdn.co/mp3-preview/d31963e209c29fab748c2522b9e1d0bde3f44f3a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/56535e1fbd0889c602892b5e138c8bf8451d6cee",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Se K.o",
+      "featuredArtistId": "45vybNTr67ppkX8xsDxUl3",
+      "trackName": "Dans le calme",
+      "trackId": "3QAwd6RGRaH41FV75yGot5",
+      "preview": "https://p.scdn.co/mp3-preview/14562d27f91dcedd309940ebc71972399e8f41bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/56535e1fbd0889c602892b5e138c8bf8451d6cee",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Dragon Davy",
+      "featuredArtistId": "1JEYKq5j5ibaa9MS9C0T7z",
+      "trackName": "Weed Addict",
+      "trackId": "7enXBMukaZk4TQ2QmcCWz5",
+      "preview": "https://p.scdn.co/mp3-preview/3ea005d55f32e8c5ceb56df649d9fce04decf51e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/56535e1fbd0889c602892b5e138c8bf8451d6cee",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Logan",
+      "featuredArtistId": "2q8w1qcJJmvYpTc58BaaaD",
+      "trackName": "Marginal",
+      "trackId": "35x6F3AOn1oSRGTe44cbTq",
+      "preview": "https://p.scdn.co/mp3-preview/845d6f735661cda4163f05d1a34545934eab723e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/56535e1fbd0889c602892b5e138c8bf8451d6cee",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Jah Knigh",
+      "featuredArtistId": "6xG5q4vGIn7qEUzOAC4ucI",
+      "trackName": "Get That Money",
+      "trackId": "1uFwaYmAT4hsXSgyUKBD61",
+      "preview": "https://p.scdn.co/mp3-preview/117ec91aae5919cb2b56b292071da6776fec61c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/56535e1fbd0889c602892b5e138c8bf8451d6cee",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Mad Killah",
+      "featuredArtistId": "5R2uTirqncxFUS5APFsKX6",
+      "trackName": "Mytho",
+      "trackId": "1dyAGQ9xcnL4qMR3igLaTX",
+      "preview": "https://p.scdn.co/mp3-preview/a4a9f526bfb282fb726d794b3cb3f8c135cac281?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/56535e1fbd0889c602892b5e138c8bf8451d6cee",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Tiwony",
+      "featuredArtistId": "6hHVAKBvEYH2fVGqxwvPXB",
+      "trackName": "A l'ancienne",
+      "trackId": "19ho0Z629kGiBrSCbhB2Tj",
+      "preview": "https://p.scdn.co/mp3-preview/4a7f9c133e0e14a08934e09ef2592c0ec92d2d09?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/56535e1fbd0889c602892b5e138c8bf8451d6cee",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "John Dess",
+      "featuredArtistId": "5wKTI8vH3hm571eejDJ7J4",
+      "trackName": "Dynamite",
+      "trackId": "3p5pOi5YmEJA6YcqgmXTeV",
+      "preview": "https://p.scdn.co/mp3-preview/c89cebf767d58b78265d2699f964499ac403b3bd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/13fc0e53f871a36dfb1a9765568ce5caa5d136ff",
+      "release_date": "2018-02-22"
+    },
+    {
+      "featuredArtist": "Sirap",
+      "featuredArtistId": "3fuKnH3dMr7jsT7ZxyL3z7",
+      "trackName": "Zéro",
+      "trackId": "2AOWaYS7MTTrkJrXpMyA9f",
+      "preview": "https://p.scdn.co/mp3-preview/4c637eaf8d08d05e7e0eedb959177ef73bb811ab?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/807c9ec67c677fe0831760c75c0747ed16855ccc",
+      "release_date": "2017-12-29"
+    },
+    {
+      "featuredArtist": "6Rano",
+      "featuredArtistId": "1KCSDe4Hh9FUFPl088BE8m",
+      "trackName": "Labo",
+      "trackId": "2kRVeeaTnsy8pqZ30Dv8A9",
+      "preview": "https://p.scdn.co/mp3-preview/48708bc3c3da38fd40e5a72a4899242e32c9915e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/128e63b92e516dffd7fd400250a496b74aca25b6",
+      "release_date": "2017-12-05"
+    },
+    {
+      "featuredArtist": "M.V",
+      "featuredArtistId": "0zmVcLappMetwBai31173g",
+      "trackName": "La souye",
+      "trackId": "1uRIFWAvnkucjo7VT1xPSF",
+      "preview": "https://p.scdn.co/mp3-preview/adf245450da9007e46b25c85544d2b924092fc13?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c77ca9de1b70706266a8c9e8f5239dae3907aae9",
+      "release_date": "2017-06-16"
+    },
+    {
+      "featuredArtist": "Nusky",
+      "featuredArtistId": "5r7ZFNL0Tp2G7U5tjK6y8Z",
+      "trackName": "Kinder Bueno",
+      "trackId": "7lHHAQ3cvjn4bxiYaVOvfA",
+      "preview": "https://p.scdn.co/mp3-preview/5bf1b1b573bf8cd164920b0b326aba67e541b6ee?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c77ca9de1b70706266a8c9e8f5239dae3907aae9",
+      "release_date": "2017-06-16"
+    }
+  ]
+}

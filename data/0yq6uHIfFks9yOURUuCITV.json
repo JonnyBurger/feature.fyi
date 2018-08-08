@@ -1,0 +1,41 @@
+{
+  "artistName": "Stacy Barthe",
+  "features": [
+    {
+      "featuredArtist": "Common",
+      "featuredArtistId": "2GHclqNVjqGuiE5mA7BEoc",
+      "trackName": "Live For Today",
+      "trackId": "5oG2zemsn1McTLULOmYYE3",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/73e86d8df640f9cfe615f9dc0682c1795c2a103d",
+      "release_date": "2015-07-10"
+    },
+    {
+      "featuredArtist": "John Legend",
+      "featuredArtistId": "5y2Xq6xcjJb2jVM54GHK3t",
+      "trackName": "Angel",
+      "trackId": "6gDbHQz264qTr2L2BkDOIO",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/73e86d8df640f9cfe615f9dc0682c1795c2a103d",
+      "release_date": "2015-07-10"
+    },
+    {
+      "featuredArtist": "Rick Ross",
+      "featuredArtistId": "1sBkRIssrMs1AbVkOJbc7a",
+      "trackName": "Hell Yeah!",
+      "trackId": "5ba9wR6gEbCFpStytFSs6n",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c5da4690e10187b198da5e9268435f65413e1405",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Nipsey Hussle",
+      "featuredArtistId": "0EeQBlQJFiAfJeVN2vT9s0",
+      "trackName": "Victory Lap (feat. Stacy Barthe)",
+      "trackId": "6hkQ6OQ6nhe7QCckH91aGa",
+      "preview": "https://p.scdn.co/mp3-preview/adfa66638514927d4b1f10fce1d605485cdb27cf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/58e7b7562e8db5b1633069622c79f2e208160c63",
+      "release_date": "2018-02-16"
+    }
+  ]
+}

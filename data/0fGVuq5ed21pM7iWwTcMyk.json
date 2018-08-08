@@ -1,0 +1,41 @@
+{
+  "artistName": "Amy Lee",
+  "features": [
+    {
+      "featuredArtist": "Dave Eggar",
+      "featuredArtistId": "76H3P1c4PIomESKq0JDiLn",
+      "trackName": "White Out",
+      "trackId": "5CGIWlJM4oG6VmpIKCXyen",
+      "preview": "https://p.scdn.co/mp3-preview/6677fdc7338bf496a1cf017fb5c67ce891289f5f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6623686a178603e5192dd985e5736e6cc34ac861",
+      "release_date": "2014-09-09"
+    },
+    {
+      "featuredArtist": "Malika Zarra",
+      "featuredArtistId": "6dV9cRRpqCyjKZEHkU05Xg",
+      "trackName": "Dark Water",
+      "trackId": "7uGLMAN6BzSy67qBt0j7xw",
+      "preview": "https://p.scdn.co/mp3-preview/9b62851a2965a9d283329daf2d0f746ac153c4de?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6623686a178603e5192dd985e5736e6cc34ac861",
+      "release_date": "2014-09-09"
+    },
+    {
+      "featuredArtist": "Guy Sigsworth",
+      "featuredArtistId": "0uQWT7X0I9Y7zM7WWexpAj",
+      "trackName": "Love Exists - Guy Sigsworth Mix",
+      "trackId": "6ZnLf866jKkJyGI4nggSZm",
+      "preview": "https://p.scdn.co/mp3-preview/03ee2bd7d2467387d2f21116ae9161988cfe72f0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2c50acfa4a105d9930f0c317603a8f91835d33c3",
+      "release_date": "2017-02-10"
+    },
+    {
+      "featuredArtist": "Chuck Palmer",
+      "featuredArtistId": "4oGYF2T7TESGyTPdSM9DBR",
+      "trackName": "Blind Opening Theme",
+      "trackId": "6WsDvs2uzqpCE2aixZyYz4",
+      "preview": "https://p.scdn.co/mp3-preview/28bc5bfd2b78db23f4d88d1af584c23f6eb0c935?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/67f34da684cd56e734869f5a5e6812d1f2900675",
+      "release_date": "2018-01-26"
+    }
+  ]
+}

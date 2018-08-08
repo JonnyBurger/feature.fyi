@@ -1,0 +1,50 @@
+{
+  "artistName": "Nick Hakim",
+  "features": [
+    {
+      "featuredArtist": "Jesse & Forever",
+      "featuredArtistId": "69le4RFZlB8F5pg7NIpiJz",
+      "trackName": "Miss Chew",
+      "trackId": "4LQNoQlncKoxkBBR25vD1v",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1a6d536e26e6a8799700e9a1bece29e125e2dc2b",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "Onyx Collective",
+      "featuredArtistId": "2Bgj9IzoI7ASgjBkQttakf",
+      "trackName": "Those Days",
+      "trackId": "2eXb78dI8e2dQwt93pYAIA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1a6d536e26e6a8799700e9a1bece29e125e2dc2b",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "Jesse and Forever",
+      "featuredArtistId": "6G2yu1zTnIHZdCgbRhjRju",
+      "trackName": "Miss Chew",
+      "trackId": "08gIy2W2i0OXoiKEx1z3yF",
+      "preview": "https://p.scdn.co/mp3-preview/689e994fc325cc29322d1d1e9a2d35035afe81aa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/269893050a1dd21443467019867081231f6e43e6",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "Marcus Machado",
+      "featuredArtistId": "23B8EOBfVugF3NwvMqSeka",
+      "trackName": "Cuffed - Jamie Lidell Remix",
+      "trackId": "6ipqaCtCD54X2kRznhPjfx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae76403dbef1b5ee159cafb720357f89c11abe33",
+      "release_date": "2017-08-01"
+    },
+    {
+      "featuredArtist": "Jamie Lidell",
+      "featuredArtistId": "6ASGmWCYupa0CXGtsDdYSI",
+      "trackName": "Cuffed - Jamie Lidell Remix",
+      "trackId": "6ipqaCtCD54X2kRznhPjfx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/ae76403dbef1b5ee159cafb720357f89c11abe33",
+      "release_date": "2017-08-01"
+    }
+  ]
+}

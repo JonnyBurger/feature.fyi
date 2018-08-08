@@ -1,0 +1,50 @@
+{
+  "artistName": "Kyle",
+  "features": [
+    {
+      "featuredArtist": "Breeze",
+      "featuredArtistId": "4NQZbpX2Kc5iQqna5szbEp",
+      "trackName": "Sex on the Beach",
+      "trackId": "2GAoE4dDxU970kyc1M9aer",
+      "preview": "https://p.scdn.co/mp3-preview/acfc51a147361f43ff3b59a6afd51f408bc37cc0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b66a8f525d8f3700b47d4c5a6b9f83b25c4855d2",
+      "release_date": "2016-08-05"
+    },
+    {
+      "featuredArtist": "Ron Grams",
+      "featuredArtistId": "7ExRitoagqoDzxPBU5hp8y",
+      "trackName": "Pull Up",
+      "trackId": "6dX9wBlXt0Mc6UW5a0WvxN",
+      "preview": "https://p.scdn.co/mp3-preview/e9ed65f21dd278b18f765ea65344dc53939b50c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3e55a0ff43b5a70d7cc16041849a485bfb04b4ef",
+      "release_date": "2018-01-21"
+    },
+    {
+      "featuredArtist": "K. Beats",
+      "featuredArtistId": "4NUTJIJubEk7LLV08lqgob",
+      "trackName": "Why",
+      "trackId": "0qc2ANhnJlTVRvOFAHUU7V",
+      "preview": "https://p.scdn.co/mp3-preview/18b4bae03e10c80b4ee22a780bde32db6e2fc3fe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff467f9874c2721e90bdb1ff15b70ae40e291448",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Marc E. Bassy",
+      "featuredArtistId": "3tQx1LPXbsYjE9VwN1Peaa",
+      "trackName": "Plot Twist",
+      "trackId": "5wJL4o7k8m02m6ZM9KT0ir",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c0ec35de44b08a34ee4ffd3caf65e0cb446e0075",
+      "release_date": "2017-10-13"
+    },
+    {
+      "featuredArtist": "Dougie F",
+      "featuredArtistId": "4pBG47zWhJbDw7mpsg68PJ",
+      "trackName": "Homegirl",
+      "trackId": "3hoPDReY82uqX0ikLgYjHw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1febcf70b3760a9154140f3336bd29cbd7723f03",
+      "release_date": "2017-09-15"
+    }
+  ]
+}

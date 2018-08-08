@@ -1,0 +1,23 @@
+{
+  "artistName": "Angèle",
+  "features": [
+    {
+      "featuredArtist": "Roméo Elvis",
+      "featuredArtistId": "2pHk4wAmL7ofTAuvCIUWtv",
+      "trackName": "J'ai vu",
+      "trackId": "2ptCqyg5aVEkNbygsSEwMk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cb33bbec3cbf20c84b71fcefd94ee0a700e7437d",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Le Motel",
+      "featuredArtistId": "4LLrhUqUv2Mi1NhHz0pjXd",
+      "trackName": "J'ai vu",
+      "trackId": "2ptCqyg5aVEkNbygsSEwMk",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/cb33bbec3cbf20c84b71fcefd94ee0a700e7437d",
+      "release_date": "2018-02-16"
+    }
+  ]
+}

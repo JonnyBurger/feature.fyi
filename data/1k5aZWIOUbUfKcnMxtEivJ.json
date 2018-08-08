@@ -1,0 +1,428 @@
+{
+  "artistName": "Jimmy Barnes",
+  "features": [
+    {
+      "featuredArtist": "The Wiggles",
+      "featuredArtistId": "2JY5qzEozvTdogkDTkkOMf",
+      "trackName": "I'm A G'Nu Introduction",
+      "trackId": "2spHZa1X3kQI20vHsv9N2L",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/dbf2195ae97c007a7b463d7f7c19948da7fd7147",
+      "release_date": "2017-03-31"
+    },
+    {
+      "featuredArtist": "The Memphis Boys",
+      "featuredArtistId": "3rO5Flf0tTVtAAGZKHWSrG",
+      "trackName": "If Loving You Is a Crime (I'll Always Be Guilty) (with The Memphis Boys)",
+      "trackId": "6vom9zD9fPcUMytmzXDauu",
+      "preview": "https://p.scdn.co/mp3-preview/295a9d13789b4664c6740e41f0b697ee950bedaa?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f09cf211dd71638c82ac17f6e631da786d3ec3b5",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Steve Cropper",
+      "featuredArtistId": "0z5NO8EZvEy3ZoQGoVuwiM",
+      "trackName": "I Worship the Ground You Walk On (feat. Steve Cropper)",
+      "trackId": "5MdfjSyr08A6fau6A332id",
+      "preview": "https://p.scdn.co/mp3-preview/3eb82665529a17cbf5342383a6f22191f3a8803c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f09cf211dd71638c82ac17f6e631da786d3ec3b5",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Dan Penn",
+      "featuredArtistId": "7aaO9LO0RhGUplA5DCLwzq",
+      "trackName": "The Dark End of the Street (feat. Dan Penn)",
+      "trackId": "2DCSbsKa3kiDybPbFqFKmX",
+      "preview": "https://p.scdn.co/mp3-preview/2fd3b45d9358bc95d52a854fcacd61a278ddf413?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f09cf211dd71638c82ac17f6e631da786d3ec3b5",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "Joe Bonamassa",
+      "featuredArtistId": "2SNzxY1OsSCHBLVi77mpPQ",
+      "trackName": "In a Broken Dream (feat. Joe Bonamassa)",
+      "trackId": "7fJvHLTNKfZqG8pPb5wMsa",
+      "preview": "https://p.scdn.co/mp3-preview/d8cb731e8e0f8499d417ec26f3baf9ebe3b94d0d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4c899a3470c18553d4302975e7224e6be50c53e3",
+      "release_date": "2016-06-03"
+    },
+    {
+      "featuredArtist": "The Living End",
+      "featuredArtistId": "3ExT45ORJ8pT516HRZbr7G",
+      "trackName": "Lay Down Your Guns (feat. The Living End)",
+      "trackId": "7FiWAETL6Ca1xhP8ZeI1UZ",
+      "preview": "https://p.scdn.co/mp3-preview/a0b60a4af42c3f0c5aadd5ae5dc7c38395da834c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d8d1715eb010ccac152d80cd88b092a24b18761",
+      "release_date": "2014-10-24"
+    },
+    {
+      "featuredArtist": "Baby Animals",
+      "featuredArtistId": "2DaDoR6WXStRctDQDWWQpI",
+      "trackName": "Time Will Tell (feat. The Baby Animals)",
+      "trackId": "5JND9cMWn0pgWfOdacPKJB",
+      "preview": "https://p.scdn.co/mp3-preview/1d6c84ab3543657ec236b595d45a2b8631e08a1d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d8d1715eb010ccac152d80cd88b092a24b18761",
+      "release_date": "2014-10-24"
+    },
+    {
+      "featuredArtist": "Steven Van Zandt",
+      "featuredArtistId": "3ScHrfdaRlzZPsvJC5Mw3I",
+      "trackName": "Ride The Night Away (feat. Steven van Zandt)",
+      "trackId": "6B90yPnXiywRKnO03oMLkP",
+      "preview": "https://p.scdn.co/mp3-preview/6b5c7cd144320907eda44767421601a92dcefd85?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d8d1715eb010ccac152d80cd88b092a24b18761",
+      "release_date": "2014-10-24"
+    },
+    {
+      "featuredArtist": "Mahalia Barnes",
+      "featuredArtistId": "3FNZ3ypNdchSmCZCdrbHVg",
+      "trackName": "Stand Up (feat. Mahalia Barnes + The Soul Mates)",
+      "trackId": "1VHN03nWL1il35HNBuMQK5",
+      "preview": "https://p.scdn.co/mp3-preview/2ecc5a278cd16cb4f2022c3ee8dfdf0eb43f26b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d8d1715eb010ccac152d80cd88b092a24b18761",
+      "release_date": "2014-10-24"
+    },
+    {
+      "featuredArtist": "Soul Mates",
+      "featuredArtistId": "7BLlxpzQXTyfN79ltJH0GC",
+      "trackName": "Stand Up (feat. Mahalia Barnes + The Soul Mates)",
+      "trackId": "1VHN03nWL1il35HNBuMQK5",
+      "preview": "https://p.scdn.co/mp3-preview/2ecc5a278cd16cb4f2022c3ee8dfdf0eb43f26b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d8d1715eb010ccac152d80cd88b092a24b18761",
+      "release_date": "2014-10-24"
+    },
+    {
+      "featuredArtist": "Diesel",
+      "featuredArtistId": "6byCVLbgOawjt1RStMyJWn",
+      "trackName": "I'd Die To Be With You Tonight (feat. Diesel)",
+      "trackId": "4hOULfCFv5mmOaTXxSHHQf",
+      "preview": "https://p.scdn.co/mp3-preview/a0020f14f7e00b38e2101bdc6d09a83e098bfce3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d8d1715eb010ccac152d80cd88b092a24b18761",
+      "release_date": "2014-10-24"
+    },
+    {
+      "featuredArtist": "Tina Arena",
+      "featuredArtistId": "1ZTCpKWDwHhbjhkdHhvTm8",
+      "trackName": "Stone Cold (feat. Tina Arena and Joe Bonamassa)",
+      "trackId": "71WRMHNIG0xQiCOWgbLT6d",
+      "preview": "https://p.scdn.co/mp3-preview/86ab3890ab53a166b6833dd1f1cc36123665e77a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d8d1715eb010ccac152d80cd88b092a24b18761",
+      "release_date": "2014-10-24"
+    },
+    {
+      "featuredArtist": "Ian Moss",
+      "featuredArtistId": "4RMdsc21y0aET1OCm32h1u",
+      "trackName": "Working Class Man (feat. Jonathan Cain and Ian Moss)",
+      "trackId": "2x1NOnbVjgtrGUG5bBJGlN",
+      "preview": "https://p.scdn.co/mp3-preview/0ceb11073054602a1247fca1b60084cfc58ee399?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d8d1715eb010ccac152d80cd88b092a24b18761",
+      "release_date": "2014-10-24"
+    },
+    {
+      "featuredArtist": "Jonathan Cain",
+      "featuredArtistId": "6APhaZEvvKh99J2c3TVM3i",
+      "trackName": "Working Class Man (feat. Jonathan Cain and Ian Moss)",
+      "trackId": "2x1NOnbVjgtrGUG5bBJGlN",
+      "preview": "https://p.scdn.co/mp3-preview/0ceb11073054602a1247fca1b60084cfc58ee399?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d8d1715eb010ccac152d80cd88b092a24b18761",
+      "release_date": "2014-10-24"
+    },
+    {
+      "featuredArtist": "Neal Schon",
+      "featuredArtistId": "4YLlWUd8PnnyGVKxqoebs7",
+      "trackName": "Going Down Alone (feat. Neal Schon and Jonathan Cain)",
+      "trackId": "65NkDsrKpS4EVelSPgoDEA",
+      "preview": "https://p.scdn.co/mp3-preview/866b7a9ffa2393cf4076a91f75fe4bb732d8d5e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d8d1715eb010ccac152d80cd88b092a24b18761",
+      "release_date": "2014-10-24"
+    },
+    {
+      "featuredArtist": "Shihad",
+      "featuredArtistId": "3HmMT81W29LjSKNjl1Iy1s",
+      "trackName": "Love And Hate (feat. Shihad)",
+      "trackId": "4ciqJVe8CXiY4xQSEgqC6Q",
+      "preview": "https://p.scdn.co/mp3-preview/d3d06ec55a79f424d731a6f3c41ee4038cf7ca28?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d8d1715eb010ccac152d80cd88b092a24b18761",
+      "release_date": "2014-10-24"
+    },
+    {
+      "featuredArtist": "Jon Stevens",
+      "featuredArtistId": "30QTFUH0b7B75FCX7cC9ea",
+      "trackName": "I'd Rather Be Blind (feat. Jon Stevens)",
+      "trackId": "63MXzvcWcIEYh1ZUF9SMQM",
+      "preview": "https://p.scdn.co/mp3-preview/703195d599b3b9a16087f9decd768e54fcdaeab5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d8d1715eb010ccac152d80cd88b092a24b18761",
+      "release_date": "2014-10-24"
+    },
+    {
+      "featuredArtist": "David Campbell",
+      "featuredArtistId": "6tUwA7Nt6EoMLy48nNVrgq",
+      "trackName": "Walk On (feat. David Campbell)",
+      "trackId": "2MH5rdZZpXWFrnF3Yw2kZ1",
+      "preview": "https://p.scdn.co/mp3-preview/228efa48e9a293a34e6ed60c78e61af703cc6240?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d8d1715eb010ccac152d80cd88b092a24b18761",
+      "release_date": "2014-10-24"
+    },
+    {
+      "featuredArtist": "Bernard Fanning",
+      "featuredArtistId": "0afemm9P2Bb2LL99xHY32n",
+      "trackName": "I'm Still On Your Side (feat. Bernard Fanning)",
+      "trackId": "191yYhjD0zydUyPPnmODaR",
+      "preview": "https://p.scdn.co/mp3-preview/eb4145624ef8b8a572fdabf1a8992212f4a4715d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9d8d1715eb010ccac152d80cd88b092a24b18761",
+      "release_date": "2014-10-24"
+    },
+    {
+      "featuredArtist": "The Living End",
+      "featuredArtistId": "5ib9eiUUGYYZ4wsMLH5T2t",
+      "trackName": "Lay Down Your Guns (feat. The Living End)",
+      "trackId": "6kvpiNARq82ylfNdPhQ9Xu",
+      "preview": "https://p.scdn.co/mp3-preview/73c2c9d2c80c278533c7858fb3984f8e8c4a4c6f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/73592450f56bed76dc8de8af36c13c9b1cdac15a",
+      "release_date": "2014-08-29"
+    },
+    {
+      "featuredArtist": "Keith Urban",
+      "featuredArtistId": "0u2FHSq3ln94y5Q57xazwf",
+      "trackName": "Good Times (feat. Keith Urban)",
+      "trackId": "4bWGedgOZvlAaLaWBez8Zm",
+      "preview": "https://p.scdn.co/mp3-preview/685dbb011c67b06bb9a9992aaff64c9a5e90524b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/73592450f56bed76dc8de8af36c13c9b1cdac15a",
+      "release_date": "2014-08-29"
+    },
+    {
+      "featuredArtist": "Steve Van Zandt",
+      "featuredArtistId": "5qVJEUpUSvGEdL6cDktUlZ",
+      "trackName": "Ride The Night Away (feat. Steven Van Zandt)",
+      "trackId": "0HiuZ0PPmfOuPghAaWTY7n",
+      "preview": "https://p.scdn.co/mp3-preview/e33bf51c5dfdc10e8fcc185c0d6834c2e4a1d1ef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/73592450f56bed76dc8de8af36c13c9b1cdac15a",
+      "release_date": "2014-08-29"
+    },
+    {
+      "featuredArtist": "Mahalia Barnes and The Soul Mates",
+      "featuredArtistId": "1tGq5bFhrGkBvHolTOhkMl",
+      "trackName": "Stand Up (feat. Mahalia Barnes and The Soul Mates)",
+      "trackId": "6TdtRFtoidNcp92E0q0xgC",
+      "preview": "https://p.scdn.co/mp3-preview/73f81f2f629d45fd611751c561ed4253caa17889?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/73592450f56bed76dc8de8af36c13c9b1cdac15a",
+      "release_date": "2014-08-29"
+    },
+    {
+      "featuredArtist": "Diesel",
+      "featuredArtistId": "4rCLXPaqaUjGa1aHDwkviR",
+      "trackName": "I'd Die To Be With You Tonight (feat. Diesel) - New Version",
+      "trackId": "5KOwqBmiZrlq20vBu24K7w",
+      "preview": "https://p.scdn.co/mp3-preview/44c2e79d0632970102650c1c70422bdc831285a2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/73592450f56bed76dc8de8af36c13c9b1cdac15a",
+      "release_date": "2014-08-29"
+    },
+    {
+      "featuredArtist": "Journey",
+      "featuredArtistId": "0rvjqX7ttXeg3mTy8Xscbt",
+      "trackName": "Going Down Alone (feat. Journey)",
+      "trackId": "0DfQ4xw1UMbVDnjGlhRpl7",
+      "preview": "https://p.scdn.co/mp3-preview/8ae35697513c96c27df22996dcecfa6dd675a599?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/73592450f56bed76dc8de8af36c13c9b1cdac15a",
+      "release_date": "2014-08-29"
+    },
+    {
+      "featuredArtist": "Shihad",
+      "featuredArtistId": "4PLR4yjcpWC2IbP7GBtCtJ",
+      "trackName": "Love And Hate (feat. Shihad)",
+      "trackId": "10KyIOXO4PqR2l4InD3oNl",
+      "preview": "https://p.scdn.co/mp3-preview/0457a59f62eea4b1ccdb8316112b41dff37ed8cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/73592450f56bed76dc8de8af36c13c9b1cdac15a",
+      "release_date": "2014-08-29"
+    },
+    {
+      "featuredArtist": "The Family Choir",
+      "featuredArtistId": "4JFYyGGncGVvLkk9uFK7RG",
+      "trackName": "No Second Prize (feat. The Family Choir)",
+      "trackId": "1KLu2YWF9WvE8OoPojM2Xc",
+      "preview": "https://p.scdn.co/mp3-preview/11492c5220ba00a4e744c7cc0250c46fd72f3378?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/73592450f56bed76dc8de8af36c13c9b1cdac15a",
+      "release_date": "2014-08-29"
+    },
+    {
+      "featuredArtist": "Ruby Rodgers",
+      "featuredArtistId": "1yQ8xHBILLk32v48YCzq0G",
+      "trackName": "When Your Love Is Gone (feat. Ruby Rodgers and The Tin Lids)",
+      "trackId": "08gnIlRLVjwUH0SKZoCt7v",
+      "preview": "https://p.scdn.co/mp3-preview/7a499e0b78dc7ba1f34774649de44d780ac00b76?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/73592450f56bed76dc8de8af36c13c9b1cdac15a",
+      "release_date": "2014-08-29"
+    },
+    {
+      "featuredArtist": "The Tin Lids",
+      "featuredArtistId": "4gyEhhxjuiOZLjuJ99FHdb",
+      "trackName": "When Your Love Is Gone (feat. Ruby Rodgers and The Tin Lids)",
+      "trackId": "08gnIlRLVjwUH0SKZoCt7v",
+      "preview": "https://p.scdn.co/mp3-preview/7a499e0b78dc7ba1f34774649de44d780ac00b76?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/73592450f56bed76dc8de8af36c13c9b1cdac15a",
+      "release_date": "2014-08-29"
+    },
+    {
+      "featuredArtist": "Troy Cassar-Daley",
+      "featuredArtistId": "3RIsSUoG3tw0S19WabHxiM",
+      "trackName": "The Other Kind (feat. Troy Cassar-Daley)",
+      "trackId": "3nBXLnXZUfu2iTuJVN13r8",
+      "preview": "https://p.scdn.co/mp3-preview/f0df366a7353b11b4885bc11fd0b8b17e5324868?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/73592450f56bed76dc8de8af36c13c9b1cdac15a",
+      "release_date": "2014-08-29"
+    },
+    {
+      "featuredArtist": "John Farnham",
+      "featuredArtistId": "1QxaPWG1POM8Ul6WwsHq4y",
+      "trackName": "When Something Is Wrong With My Baby (feat. John Farnham)",
+      "trackId": "41VQD6LLnl7IAj4MMOSKYs",
+      "preview": "https://p.scdn.co/mp3-preview/8dc9058a65dae25c26f77bee1b5b4d9e629d95e6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/73592450f56bed76dc8de8af36c13c9b1cdac15a",
+      "release_date": "2014-08-29"
+    },
+    {
+      "featuredArtist": "The Badloves",
+      "featuredArtistId": "64czVVta8TqMAqkZ0M0Avc",
+      "trackName": "The Weight (feat. The Badloves)",
+      "trackId": "3jdcb2C024ml9PBdODb17R",
+      "preview": "https://p.scdn.co/mp3-preview/45128c2e317cdfcdb70c25923e22948764fe194f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/73592450f56bed76dc8de8af36c13c9b1cdac15a",
+      "release_date": "2014-08-29"
+    },
+    {
+      "featuredArtist": "Kasey Chambers",
+      "featuredArtistId": "6uATIQFyydDXPc2RlLzcUE",
+      "trackName": "When Two Hearts Collide (Feat. Kasey Chambers)",
+      "trackId": "601JgttXC34OAz4RJJn2LM",
+      "preview": "https://p.scdn.co/mp3-preview/db5f15eee7f51faf83aaee7d0db4586b720a5dcd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/73592450f56bed76dc8de8af36c13c9b1cdac15a",
+      "release_date": "2014-08-29"
+    },
+    {
+      "featuredArtist": "Darren Percival",
+      "featuredArtistId": "0UkrfkUNi7jmZJYbVlDcCO",
+      "trackName": "Guilty - Live",
+      "trackId": "1UEXs0Flg4qIORxxL5Cn4x",
+      "preview": "https://p.scdn.co/mp3-preview/7a6b5c8f8153542c5190327914cc436d021e7526?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c080f662d503980ecd41874138e259e6e2750667",
+      "release_date": "2008-02-02"
+    },
+    {
+      "featuredArtist": "Dallas Crane",
+      "featuredArtistId": "7hQrNeP9BpetSyZJKWa7Xa",
+      "trackName": "Sit On My Knee",
+      "trackId": "2CSp4X893BtMoQ6noYwrGp",
+      "preview": "https://p.scdn.co/mp3-preview/ab1277da80b9074e817cbdf1de069a7e682bb87b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7f10cff7bfa8f5541adb3152d26101c175630a3",
+      "release_date": "2005"
+    },
+    {
+      "featuredArtist": "Roachford",
+      "featuredArtistId": "5S3EbUETKlfsBRUiBKnqer",
+      "trackName": "Attention",
+      "trackId": "4RJyaEanPVF4f1mevPESGV",
+      "preview": "https://p.scdn.co/mp3-preview/5fd2239f738df104e704bcee869ca3b93e87141e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7f10cff7bfa8f5541adb3152d26101c175630a3",
+      "release_date": "2005"
+    },
+    {
+      "featuredArtist": "Mica Paris",
+      "featuredArtistId": "7ooehj86xYi05XJoVNxJGO",
+      "trackName": "Run",
+      "trackId": "70tbxTpBUK7a0kbvSaWu8l",
+      "preview": "https://p.scdn.co/mp3-preview/e30273a37c7c0280ac697ada348ab5afdeff2800?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7f10cff7bfa8f5541adb3152d26101c175630a3",
+      "release_date": "2005"
+    },
+    {
+      "featuredArtist": "John Swan",
+      "featuredArtistId": "3KkiLZEvEHbQUlY5ggdczr",
+      "trackName": "What Will They Say",
+      "trackId": "5iYE30UtOR9lsBYk46rpDX",
+      "preview": "https://p.scdn.co/mp3-preview/4cca4cb65509e65a1fea37ee3366825e453646c4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7f10cff7bfa8f5541adb3152d26101c175630a3",
+      "release_date": "2005"
+    },
+    {
+      "featuredArtist": "Tim Rogers",
+      "featuredArtistId": "47iske9mJ4gsyF5ZWf4Tx5",
+      "trackName": "Out Of Time",
+      "trackId": "3P5G981HRwMqlLG3ttCSOR",
+      "preview": "https://p.scdn.co/mp3-preview/b33f5cb6fc4b9d260e446f5226b9c0708c127d31?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7f10cff7bfa8f5541adb3152d26101c175630a3",
+      "release_date": "2005"
+    },
+    {
+      "featuredArtist": "Tina Harrod",
+      "featuredArtistId": "6hjfCqCE0cRb3scScnnADx",
+      "trackName": "Piece Of My Heart",
+      "trackId": "6n5Z4rkFgTzan7Ng7rnNwC",
+      "preview": "https://p.scdn.co/mp3-preview/41bc9b47a59219a82b49f53182825a9a38ad12dd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7f10cff7bfa8f5541adb3152d26101c175630a3",
+      "release_date": "2005"
+    },
+    {
+      "featuredArtist": "Jackie Barnes",
+      "featuredArtistId": "0UHRZxGqMOuSaHVzuHRVd0",
+      "trackName": "Same Woman",
+      "trackId": "3mEWlBT84hF4AWWHdlLQzT",
+      "preview": "https://p.scdn.co/mp3-preview/0b23cc7dc184cd64f97e8e0313a65163ab61ff16?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7f10cff7bfa8f5541adb3152d26101c175630a3",
+      "release_date": "2005"
+    },
+    {
+      "featuredArtist": "Rahsaan Patterson",
+      "featuredArtistId": "5jVkC5rSgdK2EPfRAmtbpH",
+      "trackName": "Say It Aint So",
+      "trackId": "5yaxHW6HodZBPD3ZytRt1f",
+      "preview": "https://p.scdn.co/mp3-preview/c36dbdb16704986c6ad0608346a966402b2f1bd6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7f10cff7bfa8f5541adb3152d26101c175630a3",
+      "release_date": "2005"
+    },
+    {
+      "featuredArtist": "Elly-May Barnes",
+      "featuredArtistId": "3aqIfO4lUckjaDiUwcPxf5",
+      "trackName": "I'll Be There",
+      "trackId": "1lgXOJvDTb0OOoY7ZVHxxI",
+      "preview": "https://p.scdn.co/mp3-preview/359a0b324ab444193fdf483f49763c90ee8c853c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7f10cff7bfa8f5541adb3152d26101c175630a3",
+      "release_date": "2005"
+    },
+    {
+      "featuredArtist": "Gary Pinto",
+      "featuredArtistId": "1klcjXLkJQXW9WzGXtVP3o",
+      "trackName": "Higher",
+      "trackId": "2330AkpRJaAWMCMKPZJc9V",
+      "preview": "https://p.scdn.co/mp3-preview/e692843854a782a88bbdb41bf105b700e819597f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7f10cff7bfa8f5541adb3152d26101c175630a3",
+      "release_date": "2005"
+    },
+    {
+      "featuredArtist": "EJ Barnes",
+      "featuredArtistId": "6kgr7HFLZnTkZhJjLbM74I",
+      "trackName": "Settle For Me",
+      "trackId": "7ks301UUlVeH3jdxg7OnpO",
+      "preview": "https://p.scdn.co/mp3-preview/5c54b99de7a3d6955ed21701789bddee986f50b3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7f10cff7bfa8f5541adb3152d26101c175630a3",
+      "release_date": "2005"
+    },
+    {
+      "featuredArtist": "Bella",
+      "featuredArtistId": "4ASlMXNhAQWokWYZDD9aW3",
+      "trackName": "Bird On A Wire",
+      "trackId": "1q0D2MRo3C3mVaBKOYR5Yi",
+      "preview": "https://p.scdn.co/mp3-preview/a95558a1be3151e8525d6f8164eded481638739e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7f10cff7bfa8f5541adb3152d26101c175630a3",
+      "release_date": "2005"
+    },
+    {
+      "featuredArtist": "Billy Thorpe",
+      "featuredArtistId": "3XGBZeimYdPt1rLdy0JqrQ",
+      "trackName": "Shout",
+      "trackId": "0OGCZEJweiOEgOJaQUT0Sp",
+      "preview": "https://p.scdn.co/mp3-preview/5ce10f353ecb0273840b2aa1db8084ffedf08544?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e7f10cff7bfa8f5541adb3152d26101c175630a3",
+      "release_date": "2005"
+    }
+  ]
+}

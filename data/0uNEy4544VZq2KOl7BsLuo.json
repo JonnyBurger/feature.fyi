@@ -1,0 +1,50 @@
+{
+  "artistName": "Lalah Hathaway",
+  "features": [
+    {
+      "featuredArtist": "Lecrae",
+      "featuredArtistId": "1CFCsEqKrCyvAFKOATQHiW",
+      "trackName": "don't give up",
+      "trackId": "3XgE0Kxa5rFyO6aNv0K3KO",
+      "preview": "https://p.scdn.co/mp3-preview/9dee45e7d1ba3b87ebc5fe82dcdebf12c1265d67?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dbc87c4d37b2c8f5176cefc6952d30e3d0c650bd",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Tiffany Gouché",
+      "featuredArtistId": "2IEnjZsVDEPKUTxNinyqba",
+      "trackName": "what u need",
+      "trackId": "5rDfrgBFgRmEz6Cc7JOlOW",
+      "preview": "https://p.scdn.co/mp3-preview/0cad863d16bde900c62e473eb22a04bd81a79fba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dbc87c4d37b2c8f5176cefc6952d30e3d0c650bd",
+      "release_date": "2017-11-03"
+    },
+    {
+      "featuredArtist": "Robert Glasper",
+      "featuredArtistId": "5cM1PvItlR21WUyBnsdMcn",
+      "trackName": "Lean On Me - feat. Robert Glasper",
+      "trackId": "2kPbW4gDWgRIYQQePHO9tF",
+      "preview": "https://p.scdn.co/mp3-preview/7914307b6b864e31c716d82d198b6557771636d3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/94d19a6c106cfb69f2f0e61532df187c769ad084",
+      "release_date": "2015-11-08"
+    },
+    {
+      "featuredArtist": "Rachelle Ferrell",
+      "featuredArtistId": "0YLuHRRzBIUH7PQW0JW7NJ",
+      "trackName": "I'm Coming Back",
+      "trackId": "1v0PjMzN2vFtK3vTWwASDS",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/299f2134165b64603357f67010e1c7c359d9f8bc",
+      "release_date": "2011"
+    },
+    {
+      "featuredArtist": "Joe Sample",
+      "featuredArtistId": "4H2b90USTVSstPktwUsDZE",
+      "trackName": "The Song Lives On",
+      "trackId": "2xntIcwmkk7MaaStRJVnDP",
+      "preview": "https://p.scdn.co/mp3-preview/bd3ebdc00626331eec8a2570bbcd1145dfbc20c5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/f30385f4f575d478a042e754eee58c36d5125b10",
+      "release_date": "1999"
+    }
+  ]
+}

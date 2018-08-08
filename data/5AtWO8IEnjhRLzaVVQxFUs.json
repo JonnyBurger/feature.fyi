@@ -1,0 +1,23 @@
+{
+  "artistName": "SoMo",
+  "features": [
+    {
+      "featuredArtist": "Maty Noyes",
+      "featuredArtistId": "5JSXWmQO8csVUy6hSRu8TA",
+      "trackName": "Play",
+      "trackId": "2HUoNf8yom6WCTNiK90UXX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/8c204c8913750547e29d1ad527c100f07ca1e365",
+      "release_date": "2017-03-17"
+    },
+    {
+      "featuredArtist": "Trey Songz",
+      "featuredArtistId": "2iojnBLj0qIMiKPvVhLnsH",
+      "trackName": "Hide & Freak",
+      "trackId": "1ikIktDZJvfQFDOfPTIqAY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/e9532fbc0b6688955a0ad3e6f593218804fd2d1f",
+      "release_date": "2015-09-11"
+    }
+  ]
+}

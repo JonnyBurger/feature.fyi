@@ -1,0 +1,86 @@
+{
+  "artistName": "Vassy",
+  "features": [
+    {
+      "featuredArtist": "Scooter",
+      "featuredArtistId": "0HlxL5hisLf59ETEPM3cUA",
+      "trackName": "Today",
+      "trackId": "79AXGFLe16A45kzXkMvazp",
+      "preview": "https://p.scdn.co/mp3-preview/2b0159ff06cd84eeb2d337bac30d20bb12a9234e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2862096aa77d59ff686ea14b38827517e8c1ebc2",
+      "release_date": "2017-12-15"
+    },
+    {
+      "featuredArtist": "Playmen",
+      "featuredArtistId": "1aRr1YCvofItUMebQWiT5c",
+      "trackName": "I Should Have Said",
+      "trackId": "68d6oH72VRMIUFugkIvXNz",
+      "preview": "https://p.scdn.co/mp3-preview/f32cf5ac856ab7979f5d409ebb77f4ebe79a55cd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e531841720f8d01aaae8cf24b9af0bdc8ef4e278",
+      "release_date": "2017-11-30"
+    },
+    {
+      "featuredArtist": "Tiësto",
+      "featuredArtistId": "2o5jDhtHVPhrJdv3cEQ99Z",
+      "trackName": "Secrets",
+      "trackId": "5qPD3fPexUBAcKkQJaETV7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0957ea3ef18cbfceb23cb9f351fa929af84d1166",
+      "release_date": "2017-10-04"
+    },
+    {
+      "featuredArtist": "KSHMR",
+      "featuredArtistId": "2wX6xSig4Rig5kZU6ePlWe",
+      "trackName": "Secrets",
+      "trackId": "5qPD3fPexUBAcKkQJaETV7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0957ea3ef18cbfceb23cb9f351fa929af84d1166",
+      "release_date": "2017-10-04"
+    },
+    {
+      "featuredArtist": "Dave Audé",
+      "featuredArtistId": "1vWImodgVqIgTUkekGEfR9",
+      "trackName": "Hustlin' - Angerwolf Remix",
+      "trackId": "4DxWxDnRKWC4jtQKDEeRBo",
+      "preview": "https://p.scdn.co/mp3-preview/6055541f3fd3c24105162fb382bd0fccd0c9d752?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b200a21c6b3f364ade32a4f5ee2f043cb188d47a",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Crazibiza",
+      "featuredArtistId": "7gLis8CQkAQ7fJJNTWQNU1",
+      "trackName": "Hustlin' - Angerwolf Remix",
+      "trackId": "4DxWxDnRKWC4jtQKDEeRBo",
+      "preview": "https://p.scdn.co/mp3-preview/6055541f3fd3c24105162fb382bd0fccd0c9d752?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b200a21c6b3f364ade32a4f5ee2f043cb188d47a",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Angerwolf",
+      "featuredArtistId": "63cGKyaPHlVWESufhbVfK0",
+      "trackName": "Hustlin' - Angerwolf Remix",
+      "trackId": "4DxWxDnRKWC4jtQKDEeRBo",
+      "preview": "https://p.scdn.co/mp3-preview/6055541f3fd3c24105162fb382bd0fccd0c9d752?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b200a21c6b3f364ade32a4f5ee2f043cb188d47a",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Dirty Freqs",
+      "featuredArtistId": "1J3lS3FpK44HIIOLFdP69W",
+      "trackName": "T.U.T.P. (Turn up the Party) - Dave Audé Edit",
+      "trackId": "1gdciGfSxcXfriiVq9ARIE",
+      "preview": "https://p.scdn.co/mp3-preview/1bdf9d878fbe1a09c8c91e329bd31846687ff5a8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/b200a21c6b3f364ade32a4f5ee2f043cb188d47a",
+      "release_date": "2016-09-16"
+    },
+    {
+      "featuredArtist": "Scooter",
+      "featuredArtistId": "4QTJ7CuiopFJ6Ny8Yzk620",
+      "trackName": "Radiate - SPY Version",
+      "trackId": "3oEPKAtZSqiZiZHtue496C",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/b964d4aa762e1d48dbc3e948c42145836fc53f99",
+      "release_date": "2015-11-20"
+    }
+  ]
+}

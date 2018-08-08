@@ -1,0 +1,32 @@
+{
+  "artistName": "Pablo Milanés",
+  "features": [
+    {
+      "featuredArtist": "José María Vitier",
+      "featuredArtistId": "2pU3zCra2KV7VASEjqsVQC",
+      "trackName": "Canción de Otoño",
+      "trackId": "5XkIMGBmMAP30PJ9xOz5tg",
+      "preview": "https://p.scdn.co/mp3-preview/9ee667de5efd21883e2728197dcbdb2a8ed75139?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5e40000561eda981e7d71b9260e639da1e4394e6",
+      "release_date": "2015-01-15"
+    },
+    {
+      "featuredArtist": "Fito Páez",
+      "featuredArtistId": "1bZNv4q3OxYq7mmnLha7Tu",
+      "trackName": "Sabado Corto",
+      "trackId": "0WLfhuhjxeKOzRQ8VtTsEs",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/92cd8c2410cb41a6d13aa97e78d19c6c2b8b8da9",
+      "release_date": "2014-11-04"
+    },
+    {
+      "featuredArtist": "Chucho Valdés",
+      "featuredArtistId": "27mRThsZ9K1BYmz0rioxwp",
+      "trackName": "Distancias",
+      "trackId": "0pjP1meebqYfhlaExJt5Zt",
+      "preview": "https://p.scdn.co/mp3-preview/3132bf59850ae1c440e42fc22608efb62f4b19b2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/07d025abf95f102f8d3a88fc42506591ae26c04d",
+      "release_date": "2008-04-08"
+    }
+  ]
+}

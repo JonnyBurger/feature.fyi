@@ -1,0 +1,410 @@
+{
+  "artistName": "John Adams",
+  "features": [
+    {
+      "featuredArtist": "Jeroen van Veen",
+      "featuredArtistId": "7o7D77HMHvg1sAmtryKoVy",
+      "trackName": "China Gates",
+      "trackId": "7gzwCmJpMDyRVx0a0wZr4t",
+      "preview": "https://p.scdn.co/mp3-preview/c95be567a43ed43f6ec47841b902b58a2d0d9865?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2cac734cf98fa424f475381ecd25134bc6500dac",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Sandra van Veen",
+      "featuredArtistId": "5XJSsrzamG4lBDvjQBpFyZ",
+      "trackName": "Halleluiah Junction",
+      "trackId": "4khcWa8jkHdQnlI2FYymET",
+      "preview": "https://p.scdn.co/mp3-preview/58c68134f53bc19a62370115fcb49f1588e7c4dd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2cac734cf98fa424f475381ecd25134bc6500dac",
+      "release_date": "2017-11-24"
+    },
+    {
+      "featuredArtist": "Leila Josefowicz",
+      "featuredArtistId": "28Bdn1xwlsfZKoLvMsgakl",
+      "trackName": "Scheherazade 2: I. Tale of the Wise Young Woman-Pursuit by the True Believers",
+      "trackId": "1tT1mO5OT6iCX5fghWxTrp",
+      "preview": "https://p.scdn.co/mp3-preview/cebabd74b4c5d4788a3da234284410a7c8919563?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9443f579e9bafefdad303db252ac8b4a1daface3",
+      "release_date": "2016-09-30"
+    },
+    {
+      "featuredArtist": "St. Louis Symphony",
+      "featuredArtistId": "4DBdvdTZBJd45Izgjt9Xlg",
+      "trackName": "Scheherazade 2: I. Tale of the Wise Young Woman-Pursuit by the True Believers",
+      "trackId": "1tT1mO5OT6iCX5fghWxTrp",
+      "preview": "https://p.scdn.co/mp3-preview/cebabd74b4c5d4788a3da234284410a7c8919563?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9443f579e9bafefdad303db252ac8b4a1daface3",
+      "release_date": "2016-09-30"
+    },
+    {
+      "featuredArtist": "David Robertson",
+      "featuredArtistId": "2Wyq1VPgjZgRPQTUmqoFcj",
+      "trackName": "Scheherazade 2: I. Tale of the Wise Young Woman-Pursuit by the True Believers",
+      "trackId": "1tT1mO5OT6iCX5fghWxTrp",
+      "preview": "https://p.scdn.co/mp3-preview/cebabd74b4c5d4788a3da234284410a7c8919563?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9443f579e9bafefdad303db252ac8b4a1daface3",
+      "release_date": "2016-09-30"
+    },
+    {
+      "featuredArtist": "San Francisco Symphony",
+      "featuredArtistId": "1qHStDLIc8uV7hvTG6FGRJ",
+      "trackName": "Absolute Jest: I. Beginning",
+      "trackId": "7FMxEkFqQGucvCQgbCJ8o2",
+      "preview": "https://p.scdn.co/mp3-preview/4bcebbb5667f8a78cd02864041a38286ab396e77?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/28e07572976f24e42776d3f13eb1672fa85c8aa4",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "St. Lawrence String Quartet",
+      "featuredArtistId": "58YsnduEdytXyJYLELXpJk",
+      "trackName": "Absolute Jest: I. Beginning",
+      "trackId": "7FMxEkFqQGucvCQgbCJ8o2",
+      "preview": "https://p.scdn.co/mp3-preview/4bcebbb5667f8a78cd02864041a38286ab396e77?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/28e07572976f24e42776d3f13eb1672fa85c8aa4",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "Michael Tilson Thomas",
+      "featuredArtistId": "2v1lHgfpG4joXW7kDdDI78",
+      "trackName": "Absolute Jest: I. Beginning",
+      "trackId": "7FMxEkFqQGucvCQgbCJ8o2",
+      "preview": "https://p.scdn.co/mp3-preview/4bcebbb5667f8a78cd02864041a38286ab396e77?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/28e07572976f24e42776d3f13eb1672fa85c8aa4",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "Synergy Vocals",
+      "featuredArtistId": "0YP9mnMg28mtTRYbLwAuYd",
+      "trackName": "Grand Pianola Music: Part 1",
+      "trackId": "65mhvgssoDav6k8D4RBkcf",
+      "preview": "https://p.scdn.co/mp3-preview/5f3d5d4f33df616315c349896133664e65b143af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/28e07572976f24e42776d3f13eb1672fa85c8aa4",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "Orli Shaham",
+      "featuredArtistId": "34GSTDMJq8E2aqyV2b7G7z",
+      "trackName": "Grand Pianola Music: Part 1",
+      "trackId": "65mhvgssoDav6k8D4RBkcf",
+      "preview": "https://p.scdn.co/mp3-preview/5f3d5d4f33df616315c349896133664e65b143af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/28e07572976f24e42776d3f13eb1672fa85c8aa4",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "Marc-André Hamelin",
+      "featuredArtistId": "0pm0LWiklLtNXUP2GVwdqY",
+      "trackName": "Grand Pianola Music: Part 1",
+      "trackId": "65mhvgssoDav6k8D4RBkcf",
+      "preview": "https://p.scdn.co/mp3-preview/5f3d5d4f33df616315c349896133664e65b143af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/28e07572976f24e42776d3f13eb1672fa85c8aa4",
+      "release_date": "2015-08-14"
+    },
+    {
+      "featuredArtist": "Paul Dunmall",
+      "featuredArtistId": "0sFjGKjR879FhyLm60ZJBH",
+      "trackName": "Misericords",
+      "trackId": "579T0H8B4wIZzkSYChQjLt",
+      "preview": "https://p.scdn.co/mp3-preview/1db6e30f15cc45c484d204722572519e2ea3e03c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d21c3630cd7da7136b1f0cce5b7035234d8ffbd6",
+      "release_date": "2014-07-23"
+    },
+    {
+      "featuredArtist": "Mark Sanders",
+      "featuredArtistId": "1Yu3dT5veAXhUlM4WFuo4H",
+      "trackName": "Misericords",
+      "trackId": "579T0H8B4wIZzkSYChQjLt",
+      "preview": "https://p.scdn.co/mp3-preview/1db6e30f15cc45c484d204722572519e2ea3e03c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d21c3630cd7da7136b1f0cce5b7035234d8ffbd6",
+      "release_date": "2014-07-23"
+    },
+    {
+      "featuredArtist": "Kelley O'Connor",
+      "featuredArtistId": "0GkNZwZy4HWYFlX8866Ptb",
+      "trackName": "The Gospel According To The Other Mary / Act 1 / Scene 1 - Jail / House Of Hospitality: \"The Next Day In The City Jail\"",
+      "trackId": "6LYXOEVh4fgnDE0bUCvbw4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/07a12157aa3b8184e8bfdbcf418eee65454a4dc8",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Los Angeles Master Chorale",
+      "featuredArtistId": "66HwS8U1RybE701IOdJT1x",
+      "trackName": "The Gospel According To The Other Mary / Act 1 / Scene 1 - Jail / House Of Hospitality: \"The Next Day In The City Jail\"",
+      "trackId": "6LYXOEVh4fgnDE0bUCvbw4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/07a12157aa3b8184e8bfdbcf418eee65454a4dc8",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Los Angeles Philharmonic",
+      "featuredArtistId": "6yeL5iw4hXNZtd8T7FOoFU",
+      "trackName": "The Gospel According To The Other Mary / Act 1 / Scene 1 - Jail / House Of Hospitality: \"The Next Day In The City Jail\"",
+      "trackId": "6LYXOEVh4fgnDE0bUCvbw4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/07a12157aa3b8184e8bfdbcf418eee65454a4dc8",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Gustavo Dudamel",
+      "featuredArtistId": "0cxXnDhpgxcMMkKddhORHY",
+      "trackName": "The Gospel According To The Other Mary / Act 1 / Scene 1 - Jail / House Of Hospitality: \"The Next Day In The City Jail\"",
+      "trackId": "6LYXOEVh4fgnDE0bUCvbw4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/07a12157aa3b8184e8bfdbcf418eee65454a4dc8",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Brian Cummings",
+      "featuredArtistId": "5oMaWoWEGoHDT4QbmVVAr1",
+      "trackName": "The Gospel According To The Other Mary / Act 1 / Scene 1 - Jail / House Of Hospitality: \"Now A Certain Woman Named Martha\"",
+      "trackId": "1nrg5UI5NR6s9gB9jmdZMv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/07a12157aa3b8184e8bfdbcf418eee65454a4dc8",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Daniel Bubeck",
+      "featuredArtistId": "4b8DbRRWNyV34T0YRej4CY",
+      "trackName": "The Gospel According To The Other Mary / Act 1 / Scene 1 - Jail / House Of Hospitality: \"Now A Certain Woman Named Martha\"",
+      "trackId": "1nrg5UI5NR6s9gB9jmdZMv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/07a12157aa3b8184e8bfdbcf418eee65454a4dc8",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Nathan Medley",
+      "featuredArtistId": "6LfX6Q1eidpPwY5elFBbPh",
+      "trackName": "The Gospel According To The Other Mary / Act 1 / Scene 1 - Jail / House Of Hospitality: \"Now A Certain Woman Named Martha\"",
+      "trackId": "1nrg5UI5NR6s9gB9jmdZMv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/07a12157aa3b8184e8bfdbcf418eee65454a4dc8",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Tamara Mumford",
+      "featuredArtistId": "1tdc2Tn7sIgLEV9hJf1cSr",
+      "trackName": "The Gospel According To The Other Mary / Act 1 / Scene 1 - Jail / House Of Hospitality: \"Now A Certain Woman Named Martha\"",
+      "trackId": "1nrg5UI5NR6s9gB9jmdZMv",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/07a12157aa3b8184e8bfdbcf418eee65454a4dc8",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Russell Thomas",
+      "featuredArtistId": "3CME33iFxEyj54tmMedZJ0",
+      "trackName": "The Gospel According To The Other Mary / Act 1 / Scene 4 - Supper At Bethany: \"For The Grave Cannot Praise Thee\"",
+      "trackId": "5gQm8vXUiyoSi6lnldoypX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/07a12157aa3b8184e8bfdbcf418eee65454a4dc8",
+      "release_date": "2014-01-01"
+    },
+    {
+      "featuredArtist": "Attacca Quartet",
+      "featuredArtistId": "5EUJNZmcXCk9vkeD9GjtzF",
+      "trackName": "John's Book of Alleged Dances: Rag the Bone",
+      "trackId": "2Pqkk3drWIPIT1w2IfAHbD",
+      "preview": "https://p.scdn.co/mp3-preview/5ce7ebfdf8fd2df339b33d43ff8bc71abf899dd6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ff3d9d0a5207b01c53bd5c1fb1e2a7d36637c6e4",
+      "release_date": "2013-07-02"
+    },
+    {
+      "featuredArtist": "Royal Scottish National Orchestra",
+      "featuredArtistId": "5xBSsPfZtPItmn72C2EHVf",
+      "trackName": "Doctor Atomic Symphony: I. The Laboratory",
+      "trackId": "6pOSnzQmJXU2TxFIoFpvKI",
+      "preview": "https://p.scdn.co/mp3-preview/1fee6d7375f3f94a2ff6a9c7a6791eea7dcc3f6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/53876fec7f2604eaae19919cfc21b87280727971",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "Peter Oundjian",
+      "featuredArtistId": "0pV08RPyis03Pq7YqMwUKt",
+      "trackName": "Doctor Atomic Symphony: I. The Laboratory",
+      "trackId": "6pOSnzQmJXU2TxFIoFpvKI",
+      "preview": "https://p.scdn.co/mp3-preview/1fee6d7375f3f94a2ff6a9c7a6791eea7dcc3f6d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/53876fec7f2604eaae19919cfc21b87280727971",
+      "release_date": "2013"
+    },
+    {
+      "featuredArtist": "International Contemporary Ensemble",
+      "featuredArtistId": "1e6oJr3JG14gEuRLDl5ZsT",
+      "trackName": "Son of Chamber Symphony I",
+      "trackId": "6tSQz6q2r4YwwDDHPi7S8O",
+      "preview": "https://p.scdn.co/mp3-preview/cf87ff4b1d20062ca756999821d0b3577b22d255?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/c8276284348951f1d5fe310a499e6edf764da713",
+      "release_date": "2011-05-27"
+    },
+    {
+      "featuredArtist": "Angèle Dubeau",
+      "featuredArtistId": "3aKoUd44IrrqOa6Rzn9Ybq",
+      "trackName": "Road Movies, for Violin and Piano / I. Relaxed Groove",
+      "trackId": "36tDnRk5zNfW5jPzld8UT5",
+      "preview": "https://p.scdn.co/mp3-preview/b9c6855917dec59d8c2e4318fb0f5559389754b5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a5b310609a98fbfd3fa1f0a59151974572fc80f1",
+      "release_date": "2011-02-22"
+    },
+    {
+      "featuredArtist": "La Pietà",
+      "featuredArtistId": "3ZiiIxwcdE60xHzCQ35ewj",
+      "trackName": "Road Movies, for Violin and Piano / I. Relaxed Groove",
+      "trackId": "36tDnRk5zNfW5jPzld8UT5",
+      "preview": "https://p.scdn.co/mp3-preview/b9c6855917dec59d8c2e4318fb0f5559389754b5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a5b310609a98fbfd3fa1f0a59151974572fc80f1",
+      "release_date": "2011-02-22"
+    },
+    {
+      "featuredArtist": "Kent Nagano",
+      "featuredArtistId": "3JzgNB1Kzlc17zuSzrC51x",
+      "trackName": "Act II, Scene 2: Klinghoffer's death",
+      "trackId": "2XdjfQMsiGQKcyR8Xfruos",
+      "preview": "https://p.scdn.co/mp3-preview/50127bcdc88da8e5adf51cc4042e91c0781eaac3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9525eaa69cb42a79d92b71c56b29dbc559534fb5",
+      "release_date": "2010-06-11"
+    },
+    {
+      "featuredArtist": "The Opera De Lyon",
+      "featuredArtistId": "31eNNSo1PmVOgDDQchpBKC",
+      "trackName": "Act II, Scene 2: Klinghoffer's death",
+      "trackId": "2XdjfQMsiGQKcyR8Xfruos",
+      "preview": "https://p.scdn.co/mp3-preview/50127bcdc88da8e5adf51cc4042e91c0781eaac3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/9525eaa69cb42a79d92b71c56b29dbc559534fb5",
+      "release_date": "2010-06-11"
+    },
+    {
+      "featuredArtist": "William Kraft",
+      "featuredArtistId": "7zUlKWxSKFyQSViyUgpRuj",
+      "trackName": "Timpani Concerto No.1: Allegretto",
+      "trackId": "5MDLQ8Yud6i1HGYLV3gEb7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4288a16d34b1d403153c60ec00db20544b058951",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Joseph Pereira",
+      "featuredArtistId": "2VTQ77PlfARJobNCF86mvk",
+      "trackName": "Timpani Concerto No.1: Allegretto",
+      "trackId": "5MDLQ8Yud6i1HGYLV3gEb7",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4288a16d34b1d403153c60ec00db20544b058951",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Leonard Rosenman",
+      "featuredArtistId": "0Irsrumdkb64W1qPMYI9su",
+      "trackName": "Suite from Rebel Without a Cause: Main Title",
+      "trackId": "334ng2S47zo7JmucdHfQ4T",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/4288a16d34b1d403153c60ec00db20544b058951",
+      "release_date": "2010-01-01"
+    },
+    {
+      "featuredArtist": "Robert Orth",
+      "featuredArtistId": "1BAxbLP0aZpyx3qBalYfc4",
+      "trackName": "Nixon in China: Act I Scene 1: Beginning",
+      "trackId": "3pAXAxPAjbHAl17OXL5C0K",
+      "preview": "https://p.scdn.co/mp3-preview/52a4506e5eb4eceb3ba5eaa1ada564e73ca04081?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5295c4c1104ac7b585bab5934c0b7e41193ccb5d",
+      "release_date": "2009-10-27"
+    },
+    {
+      "featuredArtist": "Maria Kanyova",
+      "featuredArtistId": "4N7VbkdDNqAj4kWXeh21zQ",
+      "trackName": "Nixon in China: Act I Scene 1: Beginning",
+      "trackId": "3pAXAxPAjbHAl17OXL5C0K",
+      "preview": "https://p.scdn.co/mp3-preview/52a4506e5eb4eceb3ba5eaa1ada564e73ca04081?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5295c4c1104ac7b585bab5934c0b7e41193ccb5d",
+      "release_date": "2009-10-27"
+    },
+    {
+      "featuredArtist": "Thomas Hammons",
+      "featuredArtistId": "12oinYU2vAJerpxuMGfR5T",
+      "trackName": "Nixon in China: Act I Scene 1: Beginning",
+      "trackId": "3pAXAxPAjbHAl17OXL5C0K",
+      "preview": "https://p.scdn.co/mp3-preview/52a4506e5eb4eceb3ba5eaa1ada564e73ca04081?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5295c4c1104ac7b585bab5934c0b7e41193ccb5d",
+      "release_date": "2009-10-27"
+    },
+    {
+      "featuredArtist": "Marc Heller",
+      "featuredArtistId": "6ZU4ZPpNPuEcV4EFx4An6u",
+      "trackName": "Nixon in China: Act I Scene 1: Beginning",
+      "trackId": "3pAXAxPAjbHAl17OXL5C0K",
+      "preview": "https://p.scdn.co/mp3-preview/52a4506e5eb4eceb3ba5eaa1ada564e73ca04081?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5295c4c1104ac7b585bab5934c0b7e41193ccb5d",
+      "release_date": "2009-10-27"
+    },
+    {
+      "featuredArtist": "Tracy Dahl",
+      "featuredArtistId": "4rN4M7Kjqs9gmDuj6ilCwx",
+      "trackName": "Nixon in China: Act I Scene 1: Beginning",
+      "trackId": "3pAXAxPAjbHAl17OXL5C0K",
+      "preview": "https://p.scdn.co/mp3-preview/52a4506e5eb4eceb3ba5eaa1ada564e73ca04081?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5295c4c1104ac7b585bab5934c0b7e41193ccb5d",
+      "release_date": "2009-10-27"
+    },
+    {
+      "featuredArtist": "Chen-Ye Yuan",
+      "featuredArtistId": "6iTpMbD5fso8SHXdpMawrK",
+      "trackName": "Nixon in China: Act I Scene 1: Beginning",
+      "trackId": "3pAXAxPAjbHAl17OXL5C0K",
+      "preview": "https://p.scdn.co/mp3-preview/52a4506e5eb4eceb3ba5eaa1ada564e73ca04081?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5295c4c1104ac7b585bab5934c0b7e41193ccb5d",
+      "release_date": "2009-10-27"
+    },
+    {
+      "featuredArtist": "Melissa Malde",
+      "featuredArtistId": "7jawwEzZYayuca4NVNqKTC",
+      "trackName": "Nixon in China: Act I Scene 1: Beginning",
+      "trackId": "3pAXAxPAjbHAl17OXL5C0K",
+      "preview": "https://p.scdn.co/mp3-preview/52a4506e5eb4eceb3ba5eaa1ada564e73ca04081?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5295c4c1104ac7b585bab5934c0b7e41193ccb5d",
+      "release_date": "2009-10-27"
+    },
+    {
+      "featuredArtist": "Julie Simson",
+      "featuredArtistId": "1Gzr7Y8NaqwrfqsgK718ms",
+      "trackName": "Nixon in China: Act I Scene 1: Beginning",
+      "trackId": "3pAXAxPAjbHAl17OXL5C0K",
+      "preview": "https://p.scdn.co/mp3-preview/52a4506e5eb4eceb3ba5eaa1ada564e73ca04081?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5295c4c1104ac7b585bab5934c0b7e41193ccb5d",
+      "release_date": "2009-10-27"
+    },
+    {
+      "featuredArtist": "Jennifer DeDominici",
+      "featuredArtistId": "3FPEelnbMl5fw0jrZMQA1H",
+      "trackName": "Nixon in China: Act I Scene 1: Beginning",
+      "trackId": "3pAXAxPAjbHAl17OXL5C0K",
+      "preview": "https://p.scdn.co/mp3-preview/52a4506e5eb4eceb3ba5eaa1ada564e73ca04081?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5295c4c1104ac7b585bab5934c0b7e41193ccb5d",
+      "release_date": "2009-10-27"
+    },
+    {
+      "featuredArtist": "Opera Colorado Chorus",
+      "featuredArtistId": "2EPgGpX6a5WutZQYeKpaDL",
+      "trackName": "Nixon in China: Act I Scene 1: Beginning",
+      "trackId": "3pAXAxPAjbHAl17OXL5C0K",
+      "preview": "https://p.scdn.co/mp3-preview/52a4506e5eb4eceb3ba5eaa1ada564e73ca04081?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5295c4c1104ac7b585bab5934c0b7e41193ccb5d",
+      "release_date": "2009-10-27"
+    },
+    {
+      "featuredArtist": "Colorado Symphony",
+      "featuredArtistId": "2OWBfxGoj5GhipuZ1cKnmB",
+      "trackName": "Nixon in China: Act I Scene 1: Beginning",
+      "trackId": "3pAXAxPAjbHAl17OXL5C0K",
+      "preview": "https://p.scdn.co/mp3-preview/52a4506e5eb4eceb3ba5eaa1ada564e73ca04081?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5295c4c1104ac7b585bab5934c0b7e41193ccb5d",
+      "release_date": "2009-10-27"
+    },
+    {
+      "featuredArtist": "Marin Alsop",
+      "featuredArtistId": "0lluGWFB8hZ6HFktcH6kkr",
+      "trackName": "Nixon in China: Act I Scene 1: Beginning",
+      "trackId": "3pAXAxPAjbHAl17OXL5C0K",
+      "preview": "https://p.scdn.co/mp3-preview/52a4506e5eb4eceb3ba5eaa1ada564e73ca04081?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5295c4c1104ac7b585bab5934c0b7e41193ccb5d",
+      "release_date": "2009-10-27"
+    }
+  ]
+}

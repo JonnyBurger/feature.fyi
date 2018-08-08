@@ -1,0 +1,59 @@
+{
+  "artistName": "Kendji Girac",
+  "features": [
+    {
+      "featuredArtist": "Soprano",
+      "featuredArtistId": "2RJBv9wXbW6m539q9NOfW1",
+      "trackName": "No Me Mires Más",
+      "trackId": "5OwRFdYTJWLH9QgMj1jzj4",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1e27de080ef9254d12b424b3b14021002f2dcff6",
+      "release_date": "2016-11-25"
+    },
+    {
+      "featuredArtist": "Marine Basset",
+      "featuredArtistId": "7fadOlHHHZpQo4G8zN3fWf",
+      "trackName": "Gentleman",
+      "trackId": "37xBJ7fuQdTQd1bFgJe5Es",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/26329eb783aee9af305ab320af6c619f1bd667ac",
+      "release_date": "2015-05-04"
+    },
+    {
+      "featuredArtist": "Ariana Grande",
+      "featuredArtistId": "66CXWjxzNUsdJxJ2JdwvnR",
+      "trackName": "One Last Time (Attends-Moi)",
+      "trackId": "2aFBQZMbBflPv13KIrv899",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/26329eb783aee9af305ab320af6c619f1bd667ac",
+      "release_date": "2015-05-04"
+    },
+    {
+      "featuredArtist": "Marcus Layton",
+      "featuredArtistId": "6JzWgxi0nFzcHq7cqpGbiz",
+      "trackName": "Color Gitano - Marcus Layton Remix",
+      "trackId": "3MY0bfjOtFCyl3pdXVZusU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/31d83d8ff472c5b66157fcf65767e2f9c03ba21e",
+      "release_date": "2015-07-03"
+    },
+    {
+      "featuredArtist": "Fog",
+      "featuredArtistId": "07fCHWZAafI3Dd4T1svHhd",
+      "trackName": "Color Gitano - Clubmix",
+      "trackId": "3PmeFX87DxBJAPB5TfVkF2",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/31d83d8ff472c5b66157fcf65767e2f9c03ba21e",
+      "release_date": "2015-07-03"
+    },
+    {
+      "featuredArtist": "Adam Trigger",
+      "featuredArtistId": "6nXmnBpdFvzImqLQb3HBa9",
+      "trackName": "Color Gitano - Extended Remix",
+      "trackId": "0QXaqN0FRcSiL0yYNXdXjM",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/31d83d8ff472c5b66157fcf65767e2f9c03ba21e",
+      "release_date": "2015-07-03"
+    }
+  ]
+}

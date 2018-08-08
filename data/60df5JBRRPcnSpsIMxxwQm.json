@@ -1,0 +1,23 @@
+{
+  "artistName": "Otis Redding",
+  "features": [
+    {
+      "featuredArtist": "Al “Brisco” Clark",
+      "featuredArtistId": "4h34ZU6Z1vPakVHeOQM7Mw",
+      "trackName": "Introduction - Live / Set 1 / Friday, April 8, 1966",
+      "trackId": "5xWXD1kf2whGzlQW5iOa4y",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/5382530212110b543f9235452cf8b3a69e447d53",
+      "release_date": "2016-10-21"
+    },
+    {
+      "featuredArtist": "Carla Thomas",
+      "featuredArtistId": "1QAGLCom3FHTTiuRFsjzOj",
+      "trackName": "Tramp",
+      "trackId": "6Hon1lHa9Y5rMMTrTySoLV",
+      "preview": "https://p.scdn.co/mp3-preview/d18649b729a8b6b8a7bd0f6a8b577940276556b0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/06cc5c9cd5c1a9e77b45226407bb8ff78ea9ee20",
+      "release_date": "1968-02-23"
+    }
+  ]
+}

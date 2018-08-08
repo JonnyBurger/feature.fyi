@@ -1,0 +1,59 @@
+{
+  "artistName": "ALPHA 9",
+  "features": [
+    {
+      "featuredArtist": "Spencer Brown",
+      "featuredArtistId": "4L9PX6lwPWo2NeuXL9kyJK",
+      "trackName": "No Going Back - Edit",
+      "trackId": "4CcA3k4iH3NNSf8fSOX7rB",
+      "preview": "https://p.scdn.co/mp3-preview/9b6a85f61c57822c9b5f5bbffea48fb25bfa2109?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/98703510ef4353a94439dd3a8c37d97cb8d2c1e3",
+      "release_date": "2018-04-05"
+    },
+    {
+      "featuredArtist": "Above & Beyond",
+      "featuredArtistId": "10gzBoINW3cLJfZUka8Zoe",
+      "trackName": "My Own Hymn - ALPHA 9 Remix",
+      "trackId": "2KRZPVTAjgpC7ZgGFNl7qH",
+      "preview": "https://p.scdn.co/mp3-preview/9acdcadbd54ed7b28eb5187586a80c0c3c7c60bf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5af69bfc2dc6094de0b02fcba89db41a496015cb",
+      "release_date": "2018-02-27"
+    },
+    {
+      "featuredArtist": "Zoe Johnston",
+      "featuredArtistId": "3dWyWwLvZWsWtXZHhmAiFL",
+      "trackName": "My Own Hymn - ALPHA 9 Remix",
+      "trackId": "2KRZPVTAjgpC7ZgGFNl7qH",
+      "preview": "https://p.scdn.co/mp3-preview/9acdcadbd54ed7b28eb5187586a80c0c3c7c60bf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/5af69bfc2dc6094de0b02fcba89db41a496015cb",
+      "release_date": "2018-02-27"
+    },
+    {
+      "featuredArtist": "Koven",
+      "featuredArtistId": "3UCbp6D1lvILlxRJT9LnFa",
+      "trackName": "Only Good Mistake",
+      "trackId": "5VncurQ5OsAhETQBLgUCph",
+      "preview": "https://p.scdn.co/mp3-preview/ef49c6b0affde66846e9d2b182ab423cfb853259?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e302e77816add862914e5f58953870e80bb2e594",
+      "release_date": "2017-03-31"
+    },
+    {
+      "featuredArtist": "Brandon Schneider",
+      "featuredArtistId": "4Hxaq1Obsr0bX0PhN0IQx4",
+      "trackName": "The Exterminator",
+      "trackId": "3WqFhyrRHRxwl54WOesO3e",
+      "preview": "https://p.scdn.co/mp3-preview/249903eb2b7e108407b9168642a451b363489650?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/64b15f478a20bfec158d78859901c0d7a14120f2",
+      "release_date": "2014-11-28"
+    },
+    {
+      "featuredArtist": "Audien",
+      "featuredArtistId": "4xnMDfgEmXZEEDdITKcGuE",
+      "trackName": "Come Home - Audien Remix",
+      "trackId": "69ngEdgp00TkAJjfK34kz0",
+      "preview": "https://p.scdn.co/mp3-preview/c8e1d61c27426186b4b0c0496e7d4c4a9efe498d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/ddf4a98a8a8b8b586d9ca9dcb60480bc3b90b56e",
+      "release_date": "2010-07-12"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "artistName": "La Marisoul",
+  "features": [
+    {
+      "featuredArtist": "Billy Gibbons",
+      "featuredArtistId": "4DqeVw9M195lj22iU1elxD",
+      "trackName": "Green River",
+      "trackId": "6y8v9s4EXMs3z65dqscr7R",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0e76b25d95f38a4f88af8aea83d8803b409031ba",
+      "release_date": "2016-07-29"
+    },
+    {
+      "featuredArtist": "The Sachal Ensemble",
+      "featuredArtistId": "1M0GXQIOmfD7Rm9KH05ltF",
+      "trackName": "I Wish I Knew How It Would Feel To Be Free",
+      "trackId": "44M35xtZJqg0Dcv7XDBAwB",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/2e16e954edcb188038500d95267d27c1a98af399",
+      "release_date": "2016-07-27"
+    },
+    {
+      "featuredArtist": "Los Dreamers",
+      "featuredArtistId": "5vcuHCw1988mCmKGdSR5Rp",
+      "trackName": "The Others (feat. Slimkid3 & La Marisoul)",
+      "trackId": "5Jn1lXpFDnU42ncDvVr1XM",
+      "preview": "https://p.scdn.co/mp3-preview/c26345e27acff4844e80fe263e61918cfa14d8f3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/186cabd3c5f0ecc1bf6e236ae6040e3216630f78",
+      "release_date": "2015-03-25"
+    },
+    {
+      "featuredArtist": "Slimkid 3",
+      "featuredArtistId": "0So8Xye3CXwNVfv1EFa6gA",
+      "trackName": "The Others (feat. Slimkid3 & La Marisoul)",
+      "trackId": "5Jn1lXpFDnU42ncDvVr1XM",
+      "preview": "https://p.scdn.co/mp3-preview/c26345e27acff4844e80fe263e61918cfa14d8f3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/186cabd3c5f0ecc1bf6e236ae6040e3216630f78",
+      "release_date": "2015-03-25"
+    },
+    {
+      "featuredArtist": "Pepe Aguilar",
+      "featuredArtistId": "03Yb3iBy9GCifXiATEFcit",
+      "trackName": "Prometiste - MTV Unplugged [En Vivo]",
+      "trackId": "4UuVcf9nvpqyPsOk0P9oBH",
+      "preview": "https://p.scdn.co/mp3-preview/10eace01ddf882c46602872c033948202cded124?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d9ceec00ff0a55daf1369d390822179324be5ce",
+      "release_date": "2014-10-21"
+    },
+    {
+      "featuredArtist": "Angela Aguilar",
+      "featuredArtistId": "3abT87tqQ4Q5PA5nw6CYyH",
+      "trackName": "Prometiste - MTV Unplugged [En Vivo]",
+      "trackId": "4UuVcf9nvpqyPsOk0P9oBH",
+      "preview": "https://p.scdn.co/mp3-preview/10eace01ddf882c46602872c033948202cded124?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d9ceec00ff0a55daf1369d390822179324be5ce",
+      "release_date": "2014-10-21"
+    },
+    {
+      "featuredArtist": "Melissa",
+      "featuredArtistId": "5OWPM4ybplRvlK9RJgAtSm",
+      "trackName": "Prometiste - MTV Unplugged [En Vivo]",
+      "trackId": "4UuVcf9nvpqyPsOk0P9oBH",
+      "preview": "https://p.scdn.co/mp3-preview/10eace01ddf882c46602872c033948202cded124?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/0d9ceec00ff0a55daf1369d390822179324be5ce",
+      "release_date": "2014-10-21"
+    },
+    {
+      "featuredArtist": "Melissa",
+      "featuredArtistId": "1KIdKvZjMZgx7QA2DJ0pBn",
+      "trackName": "Prometiste - En Vivo",
+      "trackId": "6zlXrfITrk2RUujGS7RO9O",
+      "preview": "https://p.scdn.co/mp3-preview/ba9288353e0bf7858f4a907615b4dc945a510a6e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4d1a675ef2b00596d999436a30d0eb7922015ef6",
+      "release_date": "2014-10-21"
+    }
+  ]
+}

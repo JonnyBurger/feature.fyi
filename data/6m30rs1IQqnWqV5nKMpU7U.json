@@ -1,0 +1,23 @@
+{
+  "artistName": "Ohio Players",
+  "features": [
+    {
+      "featuredArtist": "Gary Ladinsky",
+      "featuredArtistId": "7xZTYciAA0UAPIdsBniE0l",
+      "trackName": "Funk-O-Nots",
+      "trackId": "0u6p2d2IFFPyT9TZMDRoWA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0440e1ee3e741cb2cdfb8f53f9f7b2190272455b",
+      "release_date": "1978-01-01"
+    },
+    {
+      "featuredArtist": "Steve Kusicel",
+      "featuredArtistId": "3vLHaXeHs70P4uVUJQ5BPr",
+      "trackName": "Funk-O-Nots",
+      "trackId": "0u6p2d2IFFPyT9TZMDRoWA",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/0440e1ee3e741cb2cdfb8f53f9f7b2190272455b",
+      "release_date": "1978-01-01"
+    }
+  ]
+}

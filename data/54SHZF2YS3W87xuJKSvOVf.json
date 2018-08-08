@@ -1,0 +1,50 @@
+{
+  "artistName": "Widespread Panic",
+  "features": [
+    {
+      "featuredArtist": "Vic Chesnutt",
+      "featuredArtistId": "7EFfGZiKL1Ud3cspnlMq4H",
+      "trackName": "Aunt Avis",
+      "trackId": "5XC9AwOQsb1zKUoLs26zkX",
+      "preview": "https://p.scdn.co/mp3-preview/dcb8ddea9a06a5cb9afe299aeb1f9c626b9f7bc7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1aa4ec7557aa133b54cbc0dae3ef892885aae7b6",
+      "release_date": "2014-04-04"
+    },
+    {
+      "featuredArtist": "Branford Marsalis",
+      "featuredArtistId": "1gPY6jETlC02stpXOUmSBH",
+      "trackName": "Pickin' Up the Pieces - Live",
+      "trackId": "02mE0TaJHzh5GnboCacx6w",
+      "preview": "https://p.scdn.co/mp3-preview/12bd1eaf6a127b031c1617e21326829b0068bdef?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/1aa4ec7557aa133b54cbc0dae3ef892885aae7b6",
+      "release_date": "2014-04-04"
+    },
+    {
+      "featuredArtist": "Jeff Coppage",
+      "featuredArtistId": "6zTxoh6Yy0gBAI9MJJYRg4",
+      "trackName": "Me And The Devil Blues / Heaven",
+      "trackId": "2JTXHhRuOhmZjl5EVDwslP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9dd18a59551f99ed44a16d260a699e6c6107bea8",
+      "release_date": "1998-02-05"
+    },
+    {
+      "featuredArtist": "Johnny Sandlin",
+      "featuredArtistId": "4RRoY41vPPJAKkrZfWAm5T",
+      "trackName": "Me And The Devil Blues / Heaven",
+      "trackId": "2JTXHhRuOhmZjl5EVDwslP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9dd18a59551f99ed44a16d260a699e6c6107bea8",
+      "release_date": "1998-02-05"
+    },
+    {
+      "featuredArtist": "Jim Bickerstaff",
+      "featuredArtistId": "4zxFONB5FUpaAzoS0X5lHf",
+      "trackName": "Me And The Devil Blues / Heaven",
+      "trackId": "2JTXHhRuOhmZjl5EVDwslP",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/9dd18a59551f99ed44a16d260a699e6c6107bea8",
+      "release_date": "1998-02-05"
+    }
+  ]
+}

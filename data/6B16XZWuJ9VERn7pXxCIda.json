@@ -1,0 +1,536 @@
+{
+  "artistName": "8Ball",
+  "features": [
+    {
+      "featuredArtist": "MJG",
+      "featuredArtistId": "6pDFdYZARPitpkfm44UsOQ",
+      "trackName": "It's Music",
+      "trackId": "5MwFEuXWUR0K5SD6SOqruv",
+      "preview": "https://p.scdn.co/mp3-preview/06fa71a70307262a0dcfb83c4d0d0c0b4152d64d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dfd1100d04ca2b7826991ffa507fd9a3c6ac648d",
+      "release_date": "2015-07-07"
+    },
+    {
+      "featuredArtist": "Outlawz",
+      "featuredArtistId": "2jp3Fk52x0HbymU0lNYbSC",
+      "trackName": "Don't Stop (feat. Outlawz)",
+      "trackId": "7aKAQEbJpJPJBppLJQ6xQZ",
+      "preview": "https://p.scdn.co/mp3-preview/ee46236aba4936857d9ab0af26ba7cfe968d6da6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/dfd1100d04ca2b7826991ffa507fd9a3c6ac648d",
+      "release_date": "2015-07-07"
+    },
+    {
+      "featuredArtist": "KEELYN ELLIS",
+      "featuredArtistId": "62qaX3vMcm9lRTyK1g8GqN",
+      "trackName": "Indestructible (feat. Keelyn Ellis)",
+      "trackId": "2QeJDcMdIlujL3bMFWoAmN",
+      "preview": "https://p.scdn.co/mp3-preview/2a02fc28310c143c46fc2233e54908eeb62d07e8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8a6ff25d07568454dae36555c516e9b2ba107326",
+      "release_date": "2012-07-24"
+    },
+    {
+      "featuredArtist": "Singa",
+      "featuredArtistId": "0n55QR0zWHv6JbLlVpL0sw",
+      "trackName": "This That (feat. Singa)",
+      "trackId": "1AtbxSKLChvc4aqh29gKO4",
+      "preview": "https://p.scdn.co/mp3-preview/a4a958493488a693b75af52c97b64f48e9f1e90b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8a6ff25d07568454dae36555c516e9b2ba107326",
+      "release_date": "2012-07-24"
+    },
+    {
+      "featuredArtist": "Big K.R.I.T.",
+      "featuredArtistId": "0CKa42Jqrc9fSFbDjePaXP",
+      "trackName": "We Buy Gold (feat. MJG & Big Krit)",
+      "trackId": "04DSLMWwQ95h4pZu1uZhl5",
+      "preview": "https://p.scdn.co/mp3-preview/aba8849d35af0e99c5fac845b44179838a37c975?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8a6ff25d07568454dae36555c516e9b2ba107326",
+      "release_date": "2012-07-24"
+    },
+    {
+      "featuredArtist": "LC",
+      "featuredArtistId": "2c1TJCbT6wl9C5YHkSbb66",
+      "trackName": "GoThatAWay (feat. LC)",
+      "trackId": "6gYlSRsuBizthU1Ded62Kl",
+      "preview": "https://p.scdn.co/mp3-preview/9beae2164b72c406e228a99175af4856f8c7676f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8a6ff25d07568454dae36555c516e9b2ba107326",
+      "release_date": "2012-07-24"
+    },
+    {
+      "featuredArtist": "2 Chainz",
+      "featuredArtistId": "17lzZA2AlOHwCwFALHttmp",
+      "trackName": "Don't Bring Me Down (feat. 2 Chainz)",
+      "trackId": "4OOFMi68IKz7sYl3tsqPyV",
+      "preview": "https://p.scdn.co/mp3-preview/f8d60b50b2b6592f1c220ca2510b5871192a4bc4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8a6ff25d07568454dae36555c516e9b2ba107326",
+      "release_date": "2012-07-24"
+    },
+    {
+      "featuredArtist": "EBONY LOVE",
+      "featuredArtistId": "3ngPqG5DEPD35b61Gg0G19",
+      "trackName": "The Price (feat. Ebony Love)",
+      "trackId": "143Mre1laXTTUvYbFlVpso",
+      "preview": "https://p.scdn.co/mp3-preview/39139e3e8e2a8f785d3a501750fc83176bc70a6f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8a6ff25d07568454dae36555c516e9b2ba107326",
+      "release_date": "2012-07-24"
+    },
+    {
+      "featuredArtist": "Angie Stone",
+      "featuredArtistId": "2hWr3AjjKOCVmWcwvuT4uM",
+      "trackName": "Life's Quest (feat. Angie Stone)",
+      "trackId": "7m0C7gVV0kXax9y0I41V0E",
+      "preview": "https://p.scdn.co/mp3-preview/0d5eeb960a8fe19be5db9dfa8939894c9e585bf9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8a6ff25d07568454dae36555c516e9b2ba107326",
+      "release_date": "2012-07-24"
+    },
+    {
+      "featuredArtist": "Slim",
+      "featuredArtistId": "0xptHOsyZsntdgvJyhhnNE",
+      "trackName": "Good Days (feat. Slim)",
+      "trackId": "1Mn6VDCJhfLogHjxORVxNZ",
+      "preview": "https://p.scdn.co/mp3-preview/d5194fb8ddd190fb0e5608a0802eca8cf0f2bf6f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/8a6ff25d07568454dae36555c516e9b2ba107326",
+      "release_date": "2012-07-24"
+    },
+    {
+      "featuredArtist": "Tela",
+      "featuredArtistId": "7qFOjPIEq1TEghAAlLIwMp",
+      "trackName": "Gangsta Luv (Feat. Tela, MJG & Gino)",
+      "trackId": "6bOZXtopcyw8kle9Af8p83",
+      "preview": "https://p.scdn.co/mp3-preview/a524d5e7e59ec0aa511028a5109c5e41ebb3b035?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Gino",
+      "featuredArtistId": "7FhfLv3m78fcUznEGH1KVo",
+      "trackName": "Gangsta Luv (Feat. Tela, MJG & Gino)",
+      "trackId": "6bOZXtopcyw8kle9Af8p83",
+      "preview": "https://p.scdn.co/mp3-preview/a524d5e7e59ec0aa511028a5109c5e41ebb3b035?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Yo Gotti",
+      "featuredArtistId": "6Ha4aES39QiVjR0L2lwuwq",
+      "trackName": "Getting It In (Feat. MJG & Yo Gotti)",
+      "trackId": "78zenxSvSofjpZ3FOBVtPt",
+      "preview": "https://p.scdn.co/mp3-preview/d01a4df3b5c3bb7ebfeaa4d2ffb696308a887428?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Kaz",
+      "featuredArtistId": "5oVTehHEkg9yujCxgqGdW6",
+      "trackName": "Smoke Somethin' (Feat. Kaz, Lord T & Eloise)",
+      "trackId": "12SvPUXzPilH4Vul7uKwi5",
+      "preview": "https://p.scdn.co/mp3-preview/12a78820594b8f60aeef760003748785802a680f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Lord T",
+      "featuredArtistId": "5Lsee30fsgkM4tsfFtqms2",
+      "trackName": "Smoke Somethin' (Feat. Kaz, Lord T & Eloise)",
+      "trackId": "12SvPUXzPilH4Vul7uKwi5",
+      "preview": "https://p.scdn.co/mp3-preview/12a78820594b8f60aeef760003748785802a680f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Eloise",
+      "featuredArtistId": "0AwbgA9OH88tN31sFcoUEf",
+      "trackName": "Smoke Somethin' (Feat. Kaz, Lord T & Eloise)",
+      "trackId": "12SvPUXzPilH4Vul7uKwi5",
+      "preview": "https://p.scdn.co/mp3-preview/12a78820594b8f60aeef760003748785802a680f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Gangsta Blak",
+      "featuredArtistId": "6K7DVOO35q3nziiBvcsx1s",
+      "trackName": "My Whole Life (Feat. Gangsta Blak)",
+      "trackId": "02GwGaV6juHBqwI3V4nbdT",
+      "preview": "https://p.scdn.co/mp3-preview/b35930ef6246900866942021a18d96ef636b6471?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Criminal Mane",
+      "featuredArtistId": "7v1MOc73RbFltxUW3htDI4",
+      "trackName": "Set Up Shop (Feat. Criminal Mane & Nasty Nardo)",
+      "trackId": "5bXb3wlllGOot9D152HlkV",
+      "preview": "https://p.scdn.co/mp3-preview/f37f7a23e499639b7c8022e5b647a7adf5bbb9b7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Nasty Nardo",
+      "featuredArtistId": "093FB9Uai8iKypYY5pGp2s",
+      "trackName": "Set Up Shop (Feat. Criminal Mane & Nasty Nardo)",
+      "trackId": "5bXb3wlllGOot9D152HlkV",
+      "preview": "https://p.scdn.co/mp3-preview/f37f7a23e499639b7c8022e5b647a7adf5bbb9b7?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Gangsta Boo",
+      "featuredArtistId": "3ppZNqihWOzuH4A0f4KmeP",
+      "trackName": "Good (Feat. Gangsta Boo & La Chat)",
+      "trackId": "29DfZJbiaKcK2dbWiVabM6",
+      "preview": "https://p.scdn.co/mp3-preview/049f6cc207695acccc51dd58553d5374a6d9ad68?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "La Chat",
+      "featuredArtistId": "6tcEew8VYaaFYcei6tTa6M",
+      "trackName": "Good (Feat. Gangsta Boo & La Chat)",
+      "trackId": "29DfZJbiaKcK2dbWiVabM6",
+      "preview": "https://p.scdn.co/mp3-preview/049f6cc207695acccc51dd58553d5374a6d9ad68?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Devius",
+      "featuredArtistId": "3m0XOLdmXXVyLA0LxkrRfk",
+      "trackName": "Get Gone (Feat. Devius & Da Volunteers)",
+      "trackId": "1Z0Q52gjk8D48FpWfNz60Z",
+      "preview": "https://p.scdn.co/mp3-preview/0aec10b08fe13c5c6271e7c6a614c7aa46144605?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Da Volunteers",
+      "featuredArtistId": "1Sf3pkiLF56xymy5bI26Sy",
+      "trackName": "Get Gone (Feat. Devius & Da Volunteers)",
+      "trackId": "1Z0Q52gjk8D48FpWfNz60Z",
+      "preview": "https://p.scdn.co/mp3-preview/0aec10b08fe13c5c6271e7c6a614c7aa46144605?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Dee Jay",
+      "featuredArtistId": "4e03XMvA0naW8dvQQZf8aw",
+      "trackName": "Dollaz (Feat. Kingpin Skinny Pimp, PB Memphis & Dee Jay)",
+      "trackId": "4AAEk5SpE8r9wQV2Cn4G7e",
+      "preview": "https://p.scdn.co/mp3-preview/63ce8947edf81040c3e09e9a27df7ef5f6666360?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Kingpin Skinny Pimp",
+      "featuredArtistId": "5kkVPwCLmdkqaSQpptZtXj",
+      "trackName": "Dollaz (Feat. Kingpin Skinny Pimp, PB Memphis & Dee Jay)",
+      "trackId": "4AAEk5SpE8r9wQV2Cn4G7e",
+      "preview": "https://p.scdn.co/mp3-preview/63ce8947edf81040c3e09e9a27df7ef5f6666360?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "PB Memphis",
+      "featuredArtistId": "6Mi4B7wn2bpzBAVFdJ23Xu",
+      "trackName": "Dollaz (Feat. Kingpin Skinny Pimp, PB Memphis & Dee Jay)",
+      "trackId": "4AAEk5SpE8r9wQV2Cn4G7e",
+      "preview": "https://p.scdn.co/mp3-preview/63ce8947edf81040c3e09e9a27df7ef5f6666360?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Project Pat",
+      "featuredArtistId": "08Ld63UgKrJ0nZnCkzHtzc",
+      "trackName": "This Ain't (Feat. MJG, Project Pat, Young D & Juicy J)",
+      "trackId": "757SJKnj8DK7m5SqT1TDxT",
+      "preview": "https://p.scdn.co/mp3-preview/25d41ae91168f582d01bf0d2885507d2a919ab6e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Young D",
+      "featuredArtistId": "0lMZcDqDARj4PuFHUccBP1",
+      "trackName": "This Ain't (Feat. MJG, Project Pat, Young D & Juicy J)",
+      "trackId": "757SJKnj8DK7m5SqT1TDxT",
+      "preview": "https://p.scdn.co/mp3-preview/25d41ae91168f582d01bf0d2885507d2a919ab6e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Juicy J",
+      "featuredArtistId": "2FxhDDEeH0veiMVvlofy9x",
+      "trackName": "This Ain't (Feat. MJG, Project Pat, Young D & Juicy J)",
+      "trackId": "757SJKnj8DK7m5SqT1TDxT",
+      "preview": "https://p.scdn.co/mp3-preview/25d41ae91168f582d01bf0d2885507d2a919ab6e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Kinfolk Thugs",
+      "featuredArtistId": "2buRPvniA6xmkyKnpc38p9",
+      "trackName": "So Thick (Feat. Kinfolk Thugs)",
+      "trackId": "4ASOgerF6xPr1LcGToKhhF",
+      "preview": "https://p.scdn.co/mp3-preview/fe0f87bfc1ee57678102aca5177739910d7a853e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Al Kapone",
+      "featuredArtistId": "56LhGRiEVAKCOT162NIQIs",
+      "trackName": "Stickin2MyFingaz (Feat. MJG, Al Kapone & Sir Vince)",
+      "trackId": "1X5ehV1QkLTtTWv3yjXL28",
+      "preview": "https://p.scdn.co/mp3-preview/9af19a66166031649e14eecb3bd2da2ed96c003b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Sir Vince",
+      "featuredArtistId": "4CRVHO5SDgyuxz8MARrFFg",
+      "trackName": "Stickin2MyFingaz (Feat. MJG, Al Kapone & Sir Vince)",
+      "trackId": "1X5ehV1QkLTtTWv3yjXL28",
+      "preview": "https://p.scdn.co/mp3-preview/9af19a66166031649e14eecb3bd2da2ed96c003b?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Big Ammo",
+      "featuredArtistId": "3kNhqRJIEKF8Wxfpp0XUya",
+      "trackName": "In The Town (Feat. Big Ammo & Mac E)",
+      "trackId": "5Lg1UaolZ0UhJsOXdhxQRm",
+      "preview": "https://p.scdn.co/mp3-preview/97d26a5b7f32ef6e6af64a91341ff2be817d9eb2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Mac E",
+      "featuredArtistId": "5YZIMHEY6kEkfQxp55eAkB",
+      "trackName": "In The Town (Feat. Big Ammo & Mac E)",
+      "trackId": "5Lg1UaolZ0UhJsOXdhxQRm",
+      "preview": "https://p.scdn.co/mp3-preview/97d26a5b7f32ef6e6af64a91341ff2be817d9eb2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Yung Key",
+      "featuredArtistId": "3hNam3tSo5xHppH6gMT9KJ",
+      "trackName": "100% (Feat. Yung Key)",
+      "trackId": "0enTK8Px627OLusP9m33rt",
+      "preview": "https://p.scdn.co/mp3-preview/92f5e05410bd8363fbffc6441c7fb451f8753d4a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "El Hakim the Poet",
+      "featuredArtistId": "0zNPg1uCJiWovqPu1jdxLy",
+      "trackName": "Love Spoken (Feat. El Hakim the Poet)",
+      "trackId": "1XB3hHeK21RLPsJxUUi30q",
+      "preview": "https://p.scdn.co/mp3-preview/c43054677713964ac1f80acf14e64d25ceedc342?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/480d9508e97ef8cae1502aa1eb8f36bcb2bbec9a",
+      "release_date": "2009-02-24"
+    },
+    {
+      "featuredArtist": "Big Gipp",
+      "featuredArtistId": "7e36DF0IaZI4JXfIf95ppT",
+      "trackName": "Battle Field (feat. Dirt Bag & Big Gipp)",
+      "trackId": "6AQqasS54wE0gWx0f3ymoW",
+      "preview": "https://p.scdn.co/mp3-preview/9dfb00f7049d26f145156ed72dd2e554679e1750?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4ce450c4cd82a4a274867ce693ebb62e0382195c",
+      "release_date": "2006-10-31"
+    },
+    {
+      "featuredArtist": "Dirt Bag",
+      "featuredArtistId": "1GSS8mPoZByVTTtN4RfcBc",
+      "trackName": "Battle Field (feat. Dirt Bag & Big Gipp)",
+      "trackId": "6AQqasS54wE0gWx0f3ymoW",
+      "preview": "https://p.scdn.co/mp3-preview/9dfb00f7049d26f145156ed72dd2e554679e1750?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4ce450c4cd82a4a274867ce693ebb62e0382195c",
+      "release_date": "2006-10-31"
+    },
+    {
+      "featuredArtist": "Juvenile",
+      "featuredArtistId": "0KepLKzKAUPX1eE7TAmoza",
+      "trackName": "The Greatest Juvenile",
+      "trackId": "4ciiUnrI9r2Ldu8Lz5JM47",
+      "preview": "https://p.scdn.co/mp3-preview/3e4366df83ecd0e6fec973905d7a1e1f8827c523?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4ce450c4cd82a4a274867ce693ebb62e0382195c",
+      "release_date": "2006-10-31"
+    },
+    {
+      "featuredArtist": "Psychodrama",
+      "featuredArtistId": "3RrjiPSX7kcwtX8JMGvxTT",
+      "trackName": "Drama In My Life",
+      "trackId": "3AFztjczpzKyvvwQK4fcwx",
+      "preview": "https://p.scdn.co/mp3-preview/18d62652e016828e6d2f02a55445bf85f934f429?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6362636a32e6206d804a5729508f9c51326a20c3",
+      "release_date": "2006-03-21"
+    },
+    {
+      "featuredArtist": "Goodie Mob",
+      "featuredArtistId": "3F2Y683ovlWT53WKCeq0oj",
+      "trackName": "Backyard Mississippi",
+      "trackId": "3zvpR23ip9FIKJk7l2uoDf",
+      "preview": "https://p.scdn.co/mp3-preview/a591653a83b88c2a16de2523ddaaf87ba248afc5?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6362636a32e6206d804a5729508f9c51326a20c3",
+      "release_date": "2006-03-21"
+    },
+    {
+      "featuredArtist": "Busta Rhymes",
+      "featuredArtistId": "1YfEcTuGvBQ8xSD1f53UnK",
+      "trackName": "Ghetto Luv",
+      "trackId": "0pxvCuOZBjAcvXN0Y06HfF",
+      "preview": "https://p.scdn.co/mp3-preview/e97257a43e05fea78ebec640dc2e60dbaf5debb0?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6362636a32e6206d804a5729508f9c51326a20c3",
+      "release_date": "2006-03-21"
+    },
+    {
+      "featuredArtist": "E-40",
+      "featuredArtistId": "3crnzLy8R4lVwaigKEOz7V",
+      "trackName": "360°",
+      "trackId": "36zvo1fgl3LRnatEto9T9S",
+      "preview": "https://p.scdn.co/mp3-preview/b9a359d7cc2f07f332f6abd113b9198ce9fcebfc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6362636a32e6206d804a5729508f9c51326a20c3",
+      "release_date": "2006-03-21"
+    },
+    {
+      "featuredArtist": "Rappin' 4-Tay",
+      "featuredArtistId": "4tzxCsdhR0IIUNyzwrag4C",
+      "trackName": "360°",
+      "trackId": "36zvo1fgl3LRnatEto9T9S",
+      "preview": "https://p.scdn.co/mp3-preview/b9a359d7cc2f07f332f6abd113b9198ce9fcebfc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6362636a32e6206d804a5729508f9c51326a20c3",
+      "release_date": "2006-03-21"
+    },
+    {
+      "featuredArtist": "Spice 1",
+      "featuredArtistId": "4TqmaFJYM8SvuhrunxpmT3",
+      "trackName": "360°",
+      "trackId": "36zvo1fgl3LRnatEto9T9S",
+      "preview": "https://p.scdn.co/mp3-preview/b9a359d7cc2f07f332f6abd113b9198ce9fcebfc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6362636a32e6206d804a5729508f9c51326a20c3",
+      "release_date": "2006-03-21"
+    },
+    {
+      "featuredArtist": "Redman",
+      "featuredArtistId": "7xTKLpo7UCzXSnlH7fOIoM",
+      "trackName": "Coffee Shoppe",
+      "trackId": "4xMsaK80CpuFXQ1iOYmiTV",
+      "preview": "https://p.scdn.co/mp3-preview/790b8162add9e935c8db474de146ace98aefdc30?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6362636a32e6206d804a5729508f9c51326a20c3",
+      "release_date": "2006-03-21"
+    },
+    {
+      "featuredArtist": "Mystikal",
+      "featuredArtistId": "3LIJJJkO7R5RasRwt7xIn5",
+      "trackName": "Pure Uncut",
+      "trackId": "0JAPxPdis1BMl0Glz6ObLY",
+      "preview": "https://p.scdn.co/mp3-preview/21df3c9cc6ba6697329309848891c628531558bc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6362636a32e6206d804a5729508f9c51326a20c3",
+      "release_date": "2006-03-21"
+    },
+    {
+      "featuredArtist": "The Master P",
+      "featuredArtistId": "3decotP5g7WSwITkxXbneO",
+      "trackName": "Pure Uncut",
+      "trackId": "0JAPxPdis1BMl0Glz6ObLY",
+      "preview": "https://p.scdn.co/mp3-preview/21df3c9cc6ba6697329309848891c628531558bc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6362636a32e6206d804a5729508f9c51326a20c3",
+      "release_date": "2006-03-21"
+    },
+    {
+      "featuredArtist": "Silkk The Shocker",
+      "featuredArtistId": "0iEVT8dLNSSmipPOrDGu2z",
+      "trackName": "Pure Uncut",
+      "trackId": "0JAPxPdis1BMl0Glz6ObLY",
+      "preview": "https://p.scdn.co/mp3-preview/21df3c9cc6ba6697329309848891c628531558bc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6362636a32e6206d804a5729508f9c51326a20c3",
+      "release_date": "2006-03-21"
+    },
+    {
+      "featuredArtist": "Bun B",
+      "featuredArtistId": "45a6gCQWq61lIUDmr1tKuO",
+      "trackName": "Ball And Bun",
+      "trackId": "2ctXlNa2vWE7KiNqJaLNjY",
+      "preview": "https://p.scdn.co/mp3-preview/63de96e986cb5edab25909228727a3f7f72a3777?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6362636a32e6206d804a5729508f9c51326a20c3",
+      "release_date": "2006-03-21"
+    },
+    {
+      "featuredArtist": "Phoenix Johnson",
+      "featuredArtistId": "2UNX7jLFrdQv9x4RUl39Rp",
+      "trackName": "This Is Dedicated",
+      "trackId": "2Dxi0cFKgXqpNaHA04yDiw",
+      "preview": "https://p.scdn.co/mp3-preview/74d3d14e48645588111065de1915784544616673?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/6362636a32e6206d804a5729508f9c51326a20c3",
+      "release_date": "2006-03-21"
+    },
+    {
+      "featuredArtist": "Lil Keke",
+      "featuredArtistId": "1grI9x4Uzos1Asx8JmRW6T",
+      "trackName": "Greese & Pieces",
+      "trackId": "56pcEqEZtco1Ab1pIoOy6f",
+      "preview": "https://p.scdn.co/mp3-preview/8c3fe4dbf4e4f0020284ad0c054cb5a749b1019c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e368e552800760e76f862fff49bf585f6c8c592a",
+      "release_date": "2006-01-31"
+    },
+    {
+      "featuredArtist": "Cl'che'",
+      "featuredArtistId": "39H0vhoeDDNWONlNSo3BFY",
+      "trackName": "U Can't F*k Wit It",
+      "trackId": "5mp1dMMBLbhs2PMYaS3FTm",
+      "preview": "https://p.scdn.co/mp3-preview/11d306a1846c29feb0e68b2a84b6fe479ea138be?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e368e552800760e76f862fff49bf585f6c8c592a",
+      "release_date": "2006-01-31"
+    },
+    {
+      "featuredArtist": "Lil Mama",
+      "featuredArtistId": "5qK5bOC6wLtuLhG5KvU17c",
+      "trackName": "Keep On Pimpin",
+      "trackId": "5nm9WyrNj5T3HEfKIyQjxv",
+      "preview": "https://p.scdn.co/mp3-preview/85716ea5103335d7602f1ec1997edf98bf58b5af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e368e552800760e76f862fff49bf585f6c8c592a",
+      "release_date": "2006-01-31"
+    },
+    {
+      "featuredArtist": "Corline 6000",
+      "featuredArtistId": "3Nxhu5WQkQlFDzETDhbS9w",
+      "trackName": "Keep On Pimpin",
+      "trackId": "5nm9WyrNj5T3HEfKIyQjxv",
+      "preview": "https://p.scdn.co/mp3-preview/85716ea5103335d7602f1ec1997edf98bf58b5af?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e368e552800760e76f862fff49bf585f6c8c592a",
+      "release_date": "2006-01-31"
+    },
+    {
+      "featuredArtist": "Psyde",
+      "featuredArtistId": "2aB5zTDqwA05BXdi0kAQ7E",
+      "trackName": "Down And Dirty",
+      "trackId": "3qhJH5AaHsXiZYbCUJpGSf",
+      "preview": "https://p.scdn.co/mp3-preview/635e925aee22bd5ac37c6f7bc093f7d1f0f980fd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e368e552800760e76f862fff49bf585f6c8c592a",
+      "release_date": "2006-01-31"
+    },
+    {
+      "featuredArtist": "Concret",
+      "featuredArtistId": "4fo11B8PhiR1qubKaESLNb",
+      "trackName": "G-type",
+      "trackId": "1wQTGgB2XeKZh2bEMbYqU4",
+      "preview": "https://p.scdn.co/mp3-preview/d71080dc9a590e76f4a3171ca83a9bb79eeb234d?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e368e552800760e76f862fff49bf585f6c8c592a",
+      "release_date": "2006-01-31"
+    },
+    {
+      "featuredArtist": "Too $hort",
+      "featuredArtistId": "4sb7rZNN93BSS6Gqgepo4v",
+      "trackName": "Big Trick",
+      "trackId": "2cUMAgNQ4WHewBTyUZ5xUg",
+      "preview": "https://p.scdn.co/mp3-preview/de2256103ec69fdba23ca2fc70790a8e732f2864?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e368e552800760e76f862fff49bf585f6c8c592a",
+      "release_date": "2006-01-31"
+    },
+    {
+      "featuredArtist": "Rally Boys",
+      "featuredArtistId": "2Zpb0ZKVjIh889beP5XGWm",
+      "trackName": "Top Notch",
+      "trackId": "4BQl9eTdPmmnsPXSKXGUfA",
+      "preview": "https://p.scdn.co/mp3-preview/89033b4e692d15afb9d818ffe305830cf0d80a09?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/e368e552800760e76f862fff49bf585f6c8c592a",
+      "release_date": "2006-01-31"
+    }
+  ]
+}

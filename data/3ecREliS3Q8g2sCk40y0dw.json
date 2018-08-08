@@ -1,0 +1,23 @@
+{
+  "artistName": "Industria del Amor",
+  "features": [
+    {
+      "featuredArtist": "Kevin Ortiz",
+      "featuredArtistId": "5Pb066owdc1LPXDf6Xs8Rm",
+      "trackName": "Dos Enamorados - Banda",
+      "trackId": "6LEBJDXlcZtf0JC7p6Af6O",
+      "preview": "https://p.scdn.co/mp3-preview/a5379a9d434cac99f23978843ad6bf44b1769b8e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e617bc405ac3323e63429ca2b69b756060ec9ac",
+      "release_date": "2017-09-08"
+    },
+    {
+      "featuredArtist": "Juan Tavarez",
+      "featuredArtistId": "7DlMXUIAYa1sC7FFP4KRA4",
+      "trackName": "Dos Enamorados",
+      "trackId": "0eHNkvIKYMt2oVkOJfTzl0",
+      "preview": "https://p.scdn.co/mp3-preview/cefe86cce3bc77b7aefb8383f8bfcab96f7cb544?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7e617bc405ac3323e63429ca2b69b756060ec9ac",
+      "release_date": "2017-09-08"
+    }
+  ]
+}

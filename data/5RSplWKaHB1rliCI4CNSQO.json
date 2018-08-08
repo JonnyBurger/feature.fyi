@@ -1,0 +1,95 @@
+{
+  "artistName": "Andrew Jackson",
+  "features": [
+    {
+      "featuredArtist": "Felix Jaehn",
+      "featuredArtistId": "4bL2B6hmLlMWnUEZnorEtG",
+      "trackName": "LOV (feat. Sondr, Andrew Jackson)",
+      "trackId": "4SJbz7aBc8aC58sYOIGwhx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/060e6c9f236c9cabecc2e2480217df55a75f563f",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Sondr",
+      "featuredArtistId": "4hbnUamwrCHpv4wQTwvCIc",
+      "trackName": "LOV (feat. Sondr, Andrew Jackson)",
+      "trackId": "4SJbz7aBc8aC58sYOIGwhx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/060e6c9f236c9cabecc2e2480217df55a75f563f",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "Frank Walker",
+      "featuredArtistId": "6rcE30MaP92XafelMNZ2Sq",
+      "trackName": "Young (Sam Feldt Remix)",
+      "trackId": "5Pchgc0mxWI2qoJlz86jpv",
+      "preview": "https://p.scdn.co/mp3-preview/6bf0553e09d657551dfc6a51d4ff840a4a658fe4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/98a56d7d4659a52c541257e2272a35a264683cd7",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "Sam Feldt",
+      "featuredArtistId": "20gsENnposVs2I4rQ5kvrf",
+      "trackName": "Young (Sam Feldt Remix)",
+      "trackId": "5Pchgc0mxWI2qoJlz86jpv",
+      "preview": "https://p.scdn.co/mp3-preview/6bf0553e09d657551dfc6a51d4ff840a4a658fe4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/98a56d7d4659a52c541257e2272a35a264683cd7",
+      "release_date": "2017-05-19"
+    },
+    {
+      "featuredArtist": "Gipp da Slugga",
+      "featuredArtistId": "6JNR4X5HjvuWENWhTpoGQQ",
+      "trackName": "She Know (feat. Andrew Jackson)",
+      "trackId": "6Jyskye0jJsIxIopikK6gK",
+      "preview": "https://p.scdn.co/mp3-preview/7242efe534a96c450524ef42a3fc8c955b0fcc74?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/70e758242679fd5a303536c59b4625bc75f51780",
+      "release_date": "2017-03-24"
+    },
+    {
+      "featuredArtist": "Kygo",
+      "featuredArtistId": "23fqKkggKUBHNkbKtXEls4",
+      "trackName": "Cruise",
+      "trackId": "7JQdz5lttMHLN5ZBlteecU",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/24911569bffe3a5512749352e035db95813a2bf6",
+      "release_date": "2017-02-10"
+    },
+    {
+      "featuredArtist": "Apek",
+      "featuredArtistId": "6jNwV0P142cXxXanOl9Ylo",
+      "trackName": "Broken Souls",
+      "trackId": "76wdhlHQNyWFR079hMNUDO",
+      "preview": "https://p.scdn.co/mp3-preview/df37e312be6ed6e3d2df58e98c504b6ace07571f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/202229f862ac6423c5760c4f0b221aaa7ca83abc",
+      "release_date": "2016-12-30"
+    },
+    {
+      "featuredArtist": "Shanahan",
+      "featuredArtistId": "55iQlVy82VOHUZ54INg1Ge",
+      "trackName": "Broken Souls",
+      "trackId": "76wdhlHQNyWFR079hMNUDO",
+      "preview": "https://p.scdn.co/mp3-preview/df37e312be6ed6e3d2df58e98c504b6ace07571f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/202229f862ac6423c5760c4f0b221aaa7ca83abc",
+      "release_date": "2016-12-30"
+    },
+    {
+      "featuredArtist": "Hub City Boyz",
+      "featuredArtistId": "2Wh4eB2VRBX0AhVTvFUvEu",
+      "trackName": "Still Gone Shine (feat. Andrew Jackson & T.Barker)",
+      "trackId": "13mI6YcoboLg3VAkLMI38S",
+      "preview": "https://p.scdn.co/mp3-preview/26dce7334f150d02bcb5655b3079eb67b63269b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/393e292dde6683382db5bbf4bf867772ed3c1d83",
+      "release_date": "2015-05-08"
+    },
+    {
+      "featuredArtist": "T. Barker",
+      "featuredArtistId": "1LQ6yS9yLEfZ1Rpe3gvfxi",
+      "trackName": "Still Gone Shine (feat. Andrew Jackson & T.Barker)",
+      "trackId": "13mI6YcoboLg3VAkLMI38S",
+      "preview": "https://p.scdn.co/mp3-preview/26dce7334f150d02bcb5655b3079eb67b63269b8?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/393e292dde6683382db5bbf4bf867772ed3c1d83",
+      "release_date": "2015-05-08"
+    }
+  ]
+}

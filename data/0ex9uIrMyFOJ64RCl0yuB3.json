@@ -1,0 +1,32 @@
+{
+  "artistName": "Melodie Malone",
+  "features": [
+    {
+      "featuredArtist": "Passion",
+      "featuredArtistId": "6piIAIurGAryW5h1rqQC16",
+      "trackName": "Reckless Love - Live",
+      "trackId": "3GTk72YtrTpHlaQIzkLXSI",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/84b690177285b36989e4c14294e9748d0a7998ab",
+      "release_date": "2018-03-30"
+    },
+    {
+      "featuredArtist": "Kristian Stanfill",
+      "featuredArtistId": "61fqRzZ9aHyPeTdUIqEEFx",
+      "trackName": "God, You’re So Good - Live",
+      "trackId": "3AHWbUsTaYecnT4aTEU0ut",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/af89a5868da6f65b46515ca2ba18d0cfc92e4593",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "Brett Younker",
+      "featuredArtistId": "1bv56110xRuPw0V8YaWiM5",
+      "trackName": "Remember",
+      "trackId": "4NGtAWR2zkRZhxk1TGBy8I",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c72663073b224bea3d6f4510faa602f2229df4aa",
+      "release_date": "2016-01-01"
+    }
+  ]
+}

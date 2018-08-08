@@ -1,0 +1,41 @@
+{
+  "artistName": "bülow",
+  "features": [
+    {
+      "featuredArtist": "Jynx",
+      "featuredArtistId": "76T3W4jKQnr4adf1LnOERg",
+      "trackName": "Not A Love Song - Jynx Remix",
+      "trackId": "3UdbqGahtoklMQlpde2QJx",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d79639ac881002225eadaf46b97e36954d07bf3c",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Blitz//Berlin",
+      "featuredArtistId": "5L6QHjYuQjKoDBewspZf4y",
+      "trackName": "Not A Love Song - Blitz//Berlin Remix",
+      "trackId": "2WMJLbIyTa1QAmi9tVLPXN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/1b91b85cd5e913094a282248ea147de181435fd2",
+      "release_date": "2018-02-23"
+    },
+    {
+      "featuredArtist": "King Arthur",
+      "featuredArtistId": "2qPxiZiD34NtmokWN6RoP2",
+      "trackName": "Not A Love Song - King Arthur Remix",
+      "trackId": "4rsVGKghw1iViT7nlmPh9x",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/f06c1d8e6425a87614836f40ce92ff2370ed5942",
+      "release_date": "2018-02-16"
+    },
+    {
+      "featuredArtist": "VAVO",
+      "featuredArtistId": "44re77WwNG34C182Jq3WIK",
+      "trackName": "Not A Love Song - VAVO Remix",
+      "trackId": "0tgBUyyTrdOBJYmhSbosbN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/074dc0f29ca18e319aa429ff252b7d4e31ccc9db",
+      "release_date": "2018-02-09"
+    }
+  ]
+}

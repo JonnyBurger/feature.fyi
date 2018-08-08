@@ -1,0 +1,41 @@
+{
+  "artistName": "Stephen Stills",
+  "features": [
+    {
+      "featuredArtist": "Judy Collins",
+      "featuredArtistId": "5yzE49FicYiSxN61oaxkNn",
+      "trackName": "Handle with Care",
+      "trackId": "1dgcO1eWYtjKFCpYmqth3l",
+      "preview": "https://p.scdn.co/mp3-preview/37bd69e77f06e5c611e00456e6813ca3c04ccdd2?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/51045032b9e50a9d278855dfc2421601a7bffea1",
+      "release_date": "2018-03-02"
+    },
+    {
+      "featuredArtist": "The California Blues Band",
+      "featuredArtistId": "4C3MPpSmvlQnwS8liEav43",
+      "trackName": "Precious Love (Live)",
+      "trackId": "6tAssDQzJkNC1O8kKkEoLM",
+      "preview": "https://p.scdn.co/mp3-preview/975e2d06055c743441b8fd81e387ce8a26ed8901?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/04e44dfebf21ec701e7a743e5523cde1afe8f9f0",
+      "release_date": "2015-02-23"
+    },
+    {
+      "featuredArtist": "Graham Nash",
+      "featuredArtistId": "2E6Roj0oQnJIm2BeXwDica",
+      "trackName": "Feed The People",
+      "trackId": "4tDdKAXCoO4rEYlAlnvkeq",
+      "preview": "https://p.scdn.co/mp3-preview/9dfd118d11b1a73454d273f26c8c77eaf6850b46?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/827c3c6eb98ae61b40d9d8d36850abad9359b9e7",
+      "release_date": "2005-08-09"
+    },
+    {
+      "featuredArtist": "Neil Young",
+      "featuredArtistId": "6v8FB84lnmJs434UJf2Mrm",
+      "trackName": "Round The Bend",
+      "trackId": "2POr4D2Ri7SQXwQnqpY9ho",
+      "preview": "https://p.scdn.co/mp3-preview/7f3115be05f91f3fba53c6e69a45958ffc8bd7cc?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/827c3c6eb98ae61b40d9d8d36850abad9359b9e7",
+      "release_date": "2005-08-09"
+    }
+  ]
+}

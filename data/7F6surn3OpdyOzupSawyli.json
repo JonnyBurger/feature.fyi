@@ -1,0 +1,410 @@
+{
+  "artistName": "Audra McDonald",
+  "features": [
+    {
+      "featuredArtist": "Harold Arlen",
+      "featuredArtistId": "7MOUyX1yT017l1Zt0mExIA",
+      "trackName": "Any Place I Hang My Hat Is Home",
+      "trackId": "295Q2iZCoty5XF3rw0Xn4u",
+      "preview": "https://p.scdn.co/mp3-preview/f2e54435bfd64d34aef5592f7b0d5925adf82950?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cf8d71bd65a04c99872df97e9055787791d1229",
+      "release_date": "2000-02-15"
+    },
+    {
+      "featuredArtist": "Jerome Kern",
+      "featuredArtistId": "09E7wcrEyqU2n1rnhzVT0h",
+      "trackName": "Bill",
+      "trackId": "5VL1LQoswQdvM8VYDhfCbN",
+      "preview": "https://p.scdn.co/mp3-preview/4058c0c25d9b5c8780d823181e1e22ea78c7583c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cf8d71bd65a04c99872df97e9055787791d1229",
+      "release_date": "2000-02-15"
+    },
+    {
+      "featuredArtist": "Steve Marzullo",
+      "featuredArtistId": "0sHX3VsiGChE37H64kWqNT",
+      "trackName": "I Hid My Love",
+      "trackId": "1pnlFZEWNAm0PUHOobyXgo",
+      "preview": "https://p.scdn.co/mp3-preview/9b4ef2d03ab96af33f9ecac3380277213bc74bfe?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cf8d71bd65a04c99872df97e9055787791d1229",
+      "release_date": "2000-02-15"
+    },
+    {
+      "featuredArtist": "Adam Guettel",
+      "featuredArtistId": "6UJMGTzCvEMmjfFlj34gPU",
+      "trackName": "Was That You?",
+      "trackId": "68YVzB8dGh1JLXuZTQj8EJ",
+      "preview": "https://p.scdn.co/mp3-preview/a9a81618a8a3b12c07704d61e1c1cf235bba1fcd?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cf8d71bd65a04c99872df97e9055787791d1229",
+      "release_date": "2000-02-15"
+    },
+    {
+      "featuredArtist": "Jeff Blumenkrantz",
+      "featuredArtistId": "0eQm7oijVtYWvrK7yEHwQZ",
+      "trackName": "I Won't Mind",
+      "trackId": "01xx7tQa5QjLDL7OOhbMsD",
+      "preview": "https://p.scdn.co/mp3-preview/7a6282ee63be8b7c2235231bd17d7677d648bc03?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cf8d71bd65a04c99872df97e9055787791d1229",
+      "release_date": "2000-02-15"
+    },
+    {
+      "featuredArtist": "Stephen Flaherty",
+      "featuredArtistId": "0e0KzJhXyejX79USdqgNiy",
+      "trackName": "Come Down from the Tree",
+      "trackId": "3k65WxvHspMnJXpsCL8W91",
+      "preview": "https://p.scdn.co/mp3-preview/8bddab382a26f4d605dfe305dd94e14b7713bcdf?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cf8d71bd65a04c99872df97e9055787791d1229",
+      "release_date": "2000-02-15"
+    },
+    {
+      "featuredArtist": "Jerry Bock",
+      "featuredArtistId": "5if6qdSkweSBwhdvFfKbcC",
+      "trackName": "When Did I Fall in Love?",
+      "trackId": "4y1HjqIJ8gdW5VzsD0kGll",
+      "preview": "https://p.scdn.co/mp3-preview/09573bc5fefdaf58897e52db44bf715f65b5487f?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cf8d71bd65a04c99872df97e9055787791d1229",
+      "release_date": "2000-02-15"
+    },
+    {
+      "featuredArtist": "Leonard Bernstein",
+      "featuredArtistId": "2LmyJyCF5V1eQyvHgJNbTn",
+      "trackName": "Somewhere",
+      "trackId": "0tLkQs4ClGR5mFi2lb1P3L",
+      "preview": "https://p.scdn.co/mp3-preview/8453140b49a6cbae72eb313da86ea9eb4c1ce7b4?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cf8d71bd65a04c99872df97e9055787791d1229",
+      "release_date": "2000-02-15"
+    },
+    {
+      "featuredArtist": "Jeanine Tesori",
+      "featuredArtistId": "3bW9aRkzZhlE53ca3djW8Z",
+      "trackName": "Lay Down Your Head",
+      "trackId": "7aWyS20N0oV86TLjTVigfO",
+      "preview": "https://p.scdn.co/mp3-preview/359567fab892e2e1f90cc55a91215bccb53f9556?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/7cf8d71bd65a04c99872df97e9055787791d1229",
+      "release_date": "2000-02-15"
+    },
+    {
+      "featuredArtist": "Ricky Ian Gordon",
+      "featuredArtistId": "4b71YgOt94M0ScLP2f188s",
+      "trackName": "Dream Variations",
+      "trackId": "4l37argApgn50oL7EMb4qH",
+      "preview": "https://p.scdn.co/mp3-preview/d376eeb22ad48fdd6367ea35578c2e4282171fb6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2b6598ecbe2c5cf63891006f163f3015ce2dc99c",
+      "release_date": "1998-09-15"
+    },
+    {
+      "featuredArtist": "Michael John La Chiusa",
+      "featuredArtistId": "7jRYqO4M5UTKB39xkEUXjQ",
+      "trackName": "Way Back to Paradise",
+      "trackId": "1CbnxcLTWqhxWbTiIcmFtp",
+      "preview": "https://p.scdn.co/mp3-preview/36b495d0919277c56732cd1130a0e079d8f76059?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2b6598ecbe2c5cf63891006f163f3015ce2dc99c",
+      "release_date": "1998-09-15"
+    },
+    {
+      "featuredArtist": "Michael John LaChiusa",
+      "featuredArtistId": "654ZpDRjtto7WQKzcpgmTc",
+      "trackName": "Way Back to Paradise",
+      "trackId": "1CbnxcLTWqhxWbTiIcmFtp",
+      "preview": "https://p.scdn.co/mp3-preview/36b495d0919277c56732cd1130a0e079d8f76059?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2b6598ecbe2c5cf63891006f163f3015ce2dc99c",
+      "release_date": "1998-09-15"
+    },
+    {
+      "featuredArtist": "Jason Robert Brown",
+      "featuredArtistId": "5ol7Hq695R9m2bT9T3FiQx",
+      "trackName": "You Don't Know This Man",
+      "trackId": "2vMI2t7xYmdXBmD7Wasg0R",
+      "preview": "https://p.scdn.co/mp3-preview/fda9199111e102bc8e89e3806c3a48bc59ab8f4c?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2b6598ecbe2c5cf63891006f163f3015ce2dc99c",
+      "release_date": "1998-09-15"
+    },
+    {
+      "featuredArtist": "Jenny Giering",
+      "featuredArtistId": "3PWK8H5YrpO7kPMzGk2wHu",
+      "trackName": "I Follow",
+      "trackId": "1eKhb6bXYcYF3yNaLZT6xa",
+      "preview": "https://p.scdn.co/mp3-preview/14a750c486eba7d9d2577d8a6059b6e4fe7c48f3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/2b6598ecbe2c5cf63891006f163f3015ce2dc99c",
+      "release_date": "1998-09-15"
+    },
+    {
+      "featuredArtist": "Wynton Marsalis Septet",
+      "featuredArtistId": "3cOaUqzZ7TYloRPGcuQnMY",
+      "trackName": "Creole Love Call",
+      "trackId": "48oFp2W4YSReNZaimp26Cw",
+      "preview": "https://p.scdn.co/mp3-preview/da8b9cfc54cb460462c34295fb89c2f89890e284?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41f228005c993d618ba064787247e102670b7a2",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Wynton Marsalis",
+      "featuredArtistId": "375zxMmh2cSgUzFFnva0O7",
+      "trackName": "Creole Love Call",
+      "trackId": "48oFp2W4YSReNZaimp26Cw",
+      "preview": "https://p.scdn.co/mp3-preview/da8b9cfc54cb460462c34295fb89c2f89890e284?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a41f228005c993d618ba064787247e102670b7a2",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Adam Mitchell",
+      "featuredArtistId": "3PL7CQBwsvybQ5eowJQXTf",
+      "trackName": "Days In The Sun",
+      "trackId": "6Y3O054DPKVjnDiJC7cWKN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Stanley Tucci",
+      "featuredArtistId": "3XZTEmxcwinCnuFcWluGai",
+      "trackName": "Days In The Sun",
+      "trackId": "6Y3O054DPKVjnDiJC7cWKN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Ewan McGregor",
+      "featuredArtistId": "105Paee9vmV5rfLSG652e1",
+      "trackName": "Days In The Sun",
+      "trackId": "6Y3O054DPKVjnDiJC7cWKN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Gugu Mbatha-Raw",
+      "featuredArtistId": "0ZrekatCWFPF9GPKApg9EA",
+      "trackName": "Days In The Sun",
+      "trackId": "6Y3O054DPKVjnDiJC7cWKN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Ian McKellen",
+      "featuredArtistId": "4poDCMNdZuW1XNK5deqmSj",
+      "trackName": "Days In The Sun",
+      "trackId": "6Y3O054DPKVjnDiJC7cWKN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Emma Thompson",
+      "featuredArtistId": "4tB1f1h4TQqDz4bNaibMpl",
+      "trackName": "Days In The Sun",
+      "trackId": "6Y3O054DPKVjnDiJC7cWKN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Emma Watson",
+      "featuredArtistId": "4N3cNXg5phUzRzuJYYxQlV",
+      "trackName": "Days In The Sun",
+      "trackId": "6Y3O054DPKVjnDiJC7cWKN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Clive Rowe",
+      "featuredArtistId": "5EMfTDu7Ppuf5a3sN2ac1d",
+      "trackName": "Days In The Sun",
+      "trackId": "6Y3O054DPKVjnDiJC7cWKN",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Ensemble - Beauty and the Beast",
+      "featuredArtistId": "530a0roPLtawMxdCfI2zrR",
+      "trackName": "Beauty and the Beast (Finale)",
+      "trackId": "5SQU9tJswI1VUlVoisXWqq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d8e50661a94638046e7d69bd9a31cbb76761078c",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Adam Mitchell",
+      "featuredArtistId": "0rlQeWIeJJdG7Z8RCNiwqs",
+      "trackName": "Days In The Sun",
+      "trackId": "2ppkGKabWsSgNV4fvOldQb",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/c5a6129d3e61af39ec459452221654e1275f851e",
+      "release_date": "2017-03-10"
+    },
+    {
+      "featuredArtist": "Josh Groban",
+      "featuredArtistId": "6cXMpsP9x0SH4kFfMyVezF",
+      "trackName": "If I Loved You (duet with Audra McDonald) - From \"Carousel\"",
+      "trackId": "2LAef3hYqlHzkBFd8pR6AS",
+      "preview": "https://p.scdn.co/mp3-preview/d6b0a2dccb901889ad220ff6fee969c3c5475c57?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/563d5c7afac4c6fab10c9d5f4a1c5fca857f8c71",
+      "release_date": "2015-04-20"
+    },
+    {
+      "featuredArtist": "Christiane Noll",
+      "featuredArtistId": "2cIqRwRLQlceBErvh3CYcJ",
+      "trackName": "Preludium",
+      "trackId": "3le1DdGThvtKaRiQxATYwG",
+      "preview": "https://p.scdn.co/mp3-preview/660f28446c5f5f3219178a0fd9bba265b05e096a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a839d16cf1db108c607cb83182341b1165ff6cc4",
+      "release_date": "2013-12-03"
+    },
+    {
+      "featuredArtist": "Jessica Molaskey",
+      "featuredArtistId": "5QNZRrmYSHM0rjRjcm5B4V",
+      "trackName": "Preludium",
+      "trackId": "3le1DdGThvtKaRiQxATYwG",
+      "preview": "https://p.scdn.co/mp3-preview/660f28446c5f5f3219178a0fd9bba265b05e096a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a839d16cf1db108c607cb83182341b1165ff6cc4",
+      "release_date": "2013-12-03"
+    },
+    {
+      "featuredArtist": "Elena Shaddow",
+      "featuredArtistId": "5rKxXkJSquwVgd3GB17Lvo",
+      "trackName": "Preludium",
+      "trackId": "3le1DdGThvtKaRiQxATYwG",
+      "preview": "https://p.scdn.co/mp3-preview/660f28446c5f5f3219178a0fd9bba265b05e096a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a839d16cf1db108c607cb83182341b1165ff6cc4",
+      "release_date": "2013-12-03"
+    },
+    {
+      "featuredArtist": "Carrie Underwood",
+      "featuredArtistId": "4xFUf1FHVy696Q1JQZMTRj",
+      "trackName": "My Favorite Things",
+      "trackId": "39wkPNWaddeQ51mj01lPNX",
+      "preview": "https://p.scdn.co/mp3-preview/300a7be9486583a0e0949a353f1529ee54b44713?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/a839d16cf1db108c607cb83182341b1165ff6cc4",
+      "release_date": "2013-12-03"
+    },
+    {
+      "featuredArtist": "Joshua Henry",
+      "featuredArtistId": "2WHbNs4WT5ZN7rbjDqbyEE",
+      "trackName": "Porgy's Entrance",
+      "trackId": "5VjYIPTe0iQTHtxhpQQmkz",
+      "preview": "https://p.scdn.co/mp3-preview/012c051919400acc1329bd2c8451c7681ac09135?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4631eaee7bed4eeafa983a86889ba600db8d5c46",
+      "release_date": "2012-05-22"
+    },
+    {
+      "featuredArtist": "J.D. Webster",
+      "featuredArtistId": "5B9m784SJBBrLQUMGOThXI",
+      "trackName": "Porgy's Entrance",
+      "trackId": "5VjYIPTe0iQTHtxhpQQmkz",
+      "preview": "https://p.scdn.co/mp3-preview/012c051919400acc1329bd2c8451c7681ac09135?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4631eaee7bed4eeafa983a86889ba600db8d5c46",
+      "release_date": "2012-05-22"
+    },
+    {
+      "featuredArtist": "Norm Lewis",
+      "featuredArtistId": "7dHUb3yBmLZdtX3zsjHOgQ",
+      "trackName": "Porgy's Entrance",
+      "trackId": "5VjYIPTe0iQTHtxhpQQmkz",
+      "preview": "https://p.scdn.co/mp3-preview/012c051919400acc1329bd2c8451c7681ac09135?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4631eaee7bed4eeafa983a86889ba600db8d5c46",
+      "release_date": "2012-05-22"
+    },
+    {
+      "featuredArtist": "David Alan Grier",
+      "featuredArtistId": "5aDJFTPB7JCC9T785IH2Fy",
+      "trackName": "Porgy's Entrance",
+      "trackId": "5VjYIPTe0iQTHtxhpQQmkz",
+      "preview": "https://p.scdn.co/mp3-preview/012c051919400acc1329bd2c8451c7681ac09135?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4631eaee7bed4eeafa983a86889ba600db8d5c46",
+      "release_date": "2012-05-22"
+    },
+    {
+      "featuredArtist": "Cedric Neal",
+      "featuredArtistId": "5cPIcSKbJZRrsAnSPWWaI1",
+      "trackName": "Porgy's Entrance",
+      "trackId": "5VjYIPTe0iQTHtxhpQQmkz",
+      "preview": "https://p.scdn.co/mp3-preview/012c051919400acc1329bd2c8451c7681ac09135?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4631eaee7bed4eeafa983a86889ba600db8d5c46",
+      "release_date": "2012-05-22"
+    },
+    {
+      "featuredArtist": "NaTasha Yvette Williams",
+      "featuredArtistId": "53sTxOQ5mNoqYdxO1heLUk",
+      "trackName": "Porgy's Entrance",
+      "trackId": "5VjYIPTe0iQTHtxhpQQmkz",
+      "preview": "https://p.scdn.co/mp3-preview/012c051919400acc1329bd2c8451c7681ac09135?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4631eaee7bed4eeafa983a86889ba600db8d5c46",
+      "release_date": "2012-05-22"
+    },
+    {
+      "featuredArtist": "Bryonha Marie Parham",
+      "featuredArtistId": "1g9JVT9tpJAFmCac6ei8wq",
+      "trackName": "Porgy's Entrance",
+      "trackId": "5VjYIPTe0iQTHtxhpQQmkz",
+      "preview": "https://p.scdn.co/mp3-preview/012c051919400acc1329bd2c8451c7681ac09135?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4631eaee7bed4eeafa983a86889ba600db8d5c46",
+      "release_date": "2012-05-22"
+    },
+    {
+      "featuredArtist": "Phillip Boykin",
+      "featuredArtistId": "01hHncTE9TodEdDMxVV2ph",
+      "trackName": "Porgy's Entrance",
+      "trackId": "5VjYIPTe0iQTHtxhpQQmkz",
+      "preview": "https://p.scdn.co/mp3-preview/012c051919400acc1329bd2c8451c7681ac09135?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4631eaee7bed4eeafa983a86889ba600db8d5c46",
+      "release_date": "2012-05-22"
+    },
+    {
+      "featuredArtist": "Nathaniel Stampley",
+      "featuredArtistId": "54QZl7EeOZ3oNsdzWjKZj4",
+      "trackName": "Porgy's Entrance",
+      "trackId": "5VjYIPTe0iQTHtxhpQQmkz",
+      "preview": "https://p.scdn.co/mp3-preview/012c051919400acc1329bd2c8451c7681ac09135?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4631eaee7bed4eeafa983a86889ba600db8d5c46",
+      "release_date": "2012-05-22"
+    },
+    {
+      "featuredArtist": "Company",
+      "featuredArtistId": "5bse9w1FhvHOjwC110JLe5",
+      "trackName": "Leaving for the Promised Land",
+      "trackId": "0RrwqLX0ETxE0MnZKyMxGA",
+      "preview": "https://p.scdn.co/mp3-preview/68b4b76d3e53bcd465eb38173cfae4dbcd6e112a?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/4631eaee7bed4eeafa983a86889ba600db8d5c46",
+      "release_date": "2012-05-22"
+    },
+    {
+      "featuredArtist": "Steve Kazee",
+      "featuredArtistId": "2E0WuV49YeVlDWrmLf4jKK",
+      "trackName": "You're Not Fooling Me",
+      "trackId": "1u2tKlBOoxXMZ9dzxSHbTm",
+      "preview": "https://p.scdn.co/mp3-preview/c71d7f72c620247f6f96a693a4892422d21ca173?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d87f6152772a6491ab31640f4c756286848d5aa8",
+      "release_date": "2012-05-05"
+    },
+    {
+      "featuredArtist": "Valisia Lekae Little",
+      "featuredArtistId": "7ntok4MV8UkR8CWnaHU6MD",
+      "trackName": "Cinderella",
+      "trackId": "5chfZ2senkQptDL3cuY17e",
+      "preview": "https://p.scdn.co/mp3-preview/d27e2d7cf341912b6ffa804a47df73c55789a4c3?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d87f6152772a6491ab31640f4c756286848d5aa8",
+      "release_date": "2012-05-05"
+    },
+    {
+      "featuredArtist": "John Cullum",
+      "featuredArtistId": "1odplm0E6R5DQDgfdPqfL5",
+      "trackName": "Raunchy",
+      "trackId": "05XJsbOCvjPadtJEDFP6CW",
+      "preview": "https://p.scdn.co/mp3-preview/a069c2818493235bd99a4012e0f6229ae275d973?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d87f6152772a6491ab31640f4c756286848d5aa8",
+      "release_date": "2012-05-05"
+    },
+    {
+      "featuredArtist": "Christopher Innvar",
+      "featuredArtistId": "1X9dQqkGS13qE8wbTEU8z6",
+      "trackName": "A Man and a Woman",
+      "trackId": "3JPKW5s3CDnhgvaNXvu9MW",
+      "preview": "https://p.scdn.co/mp3-preview/3d4a94ff2dafefdb23936119e800de26ef6a91ba?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d87f6152772a6491ab31640f4c756286848d5aa8",
+      "release_date": "2012-05-05"
+    }
+  ]
+}

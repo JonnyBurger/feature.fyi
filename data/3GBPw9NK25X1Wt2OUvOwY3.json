@@ -1,0 +1,167 @@
+{
+  "artistName": "Jack Johnson",
+  "features": [
+    {
+      "featuredArtist": "Ben Harper",
+      "featuredArtistId": "45lorWzrKLxfKlWpV7r9CN",
+      "trackName": "Change - Commentary Version",
+      "trackId": "5btO7WEXACmI9gM8cyPPgX",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/d34aa2746451459c553f6f4fc214903d5e3f0799",
+      "release_date": "2013-01-01"
+    },
+    {
+      "featuredArtist": "Paula Fuga",
+      "featuredArtistId": "6ja6QKojqolpOJpChYXHTf",
+      "trackName": "Better Together - Live",
+      "trackId": "1z5PqWk8gKKng29bTSg5li",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/baa28dad275dcccbc6e526ed9787263070eb874d",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Ziggy Marley",
+      "featuredArtistId": "47o525DpsBhqiqlOgg98tx",
+      "trackName": "Cry Cry Cry - Live",
+      "trackId": "2k1nbyjpkiBDQDcICg8ZY1",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/baa28dad275dcccbc6e526ed9787263070eb874d",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Dave Matthews",
+      "featuredArtistId": "13vQloYd6mP7V1mVwKJwS2",
+      "trackName": "A Pirate Looks At Forty - Live",
+      "trackId": "49C114rNjyHOkvNWmoODAQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/baa28dad275dcccbc6e526ed9787263070eb874d",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Tim Reynolds",
+      "featuredArtistId": "7rvkQK7ZqO34sKsWEXjz3R",
+      "trackName": "A Pirate Looks At Forty - Live",
+      "trackId": "49C114rNjyHOkvNWmoODAQ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/baa28dad275dcccbc6e526ed9787263070eb874d",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Ozomatli",
+      "featuredArtistId": "1An0HCtDktvCBDdFEu7HC0",
+      "trackName": "Mudfootball",
+      "trackId": "4mavk4fgxa18tkue7Q0ozE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/baa28dad275dcccbc6e526ed9787263070eb874d",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "G. Love & Special Sauce",
+      "featuredArtistId": "74fkl73HDlCXw0l6cemB89",
+      "trackName": "Mudfootball",
+      "trackId": "4mavk4fgxa18tkue7Q0ozE",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/baa28dad275dcccbc6e526ed9787263070eb874d",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Eddie Vedder",
+      "featuredArtistId": "0mXTJETA4XUa12MmmXxZJh",
+      "trackName": "Constellations - Live",
+      "trackId": "6rU1p9SstXLTqzRu0PhmUZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/baa28dad275dcccbc6e526ed9787263070eb874d",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Kawika Kahiapo",
+      "featuredArtistId": "6aPkORVtaipgr2ryrcNQRp",
+      "trackName": "Constellations - Live",
+      "trackId": "6rU1p9SstXLTqzRu0PhmUZ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/baa28dad275dcccbc6e526ed9787263070eb874d",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Jackson Browne",
+      "featuredArtistId": "5lkiCO9UQ8B23dZ1o0UV4m",
+      "trackName": "Take It Easy",
+      "trackId": "5PInK9UBWN9njaMqetp7YY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/baa28dad275dcccbc6e526ed9787263070eb874d",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "John Cruz",
+      "featuredArtistId": "7sQbRN8QL8IWTkszxMRtJA",
+      "trackName": "Take It Easy",
+      "trackId": "5PInK9UBWN9njaMqetp7YY",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/baa28dad275dcccbc6e526ed9787263070eb874d",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Jake Shimabukuro",
+      "featuredArtistId": "69NjH5MsRLr0CX0zSlGmN3",
+      "trackName": "Breakdown - Live",
+      "trackId": "3ILcKrcSfFzDLIH62r2nEJ",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/baa28dad275dcccbc6e526ed9787263070eb874d",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Taj Mahal",
+      "featuredArtistId": "1aTDTChWWyiJH3SEnYrdVp",
+      "trackName": "Further On Down The Road",
+      "trackId": "5yqBewRhYa3pyfrdUzRhyV",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/baa28dad275dcccbc6e526ed9787263070eb874d",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Damian Marley",
+      "featuredArtistId": "3QJzdZJYIAcoET1GcfpNGi",
+      "trackName": "Welcome To Jamrock - Live",
+      "trackId": "146UODqgoTcLVUb5Rxt3Do",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/baa28dad275dcccbc6e526ed9787263070eb874d",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Willie Nelson",
+      "featuredArtistId": "5W5bDNCqJ1jbCgTxDD0Cb3",
+      "trackName": "Blue Eyes Crying In the Rain - Live",
+      "trackId": "4NN9n2emWRzYPQX4VBKOqe",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/baa28dad275dcccbc6e526ed9787263070eb874d",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Zach Gill",
+      "featuredArtistId": "5HMFK1o5Bl9qY10PgavMhT",
+      "trackName": "I Shall Be Released",
+      "trackId": "05TUWMigtlCWmDvSnOPZgD",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/baa28dad275dcccbc6e526ed9787263070eb874d",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Matt Costa",
+      "featuredArtistId": "0EghvcisxKybq4CVO7rB5t",
+      "trackName": "Let It Be Sung - Live",
+      "trackId": "3X8uuleTiiCWjHeJoKtu2J",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/baa28dad275dcccbc6e526ed9787263070eb874d",
+      "release_date": "2012-01-01"
+    },
+    {
+      "featuredArtist": "Money Mark",
+      "featuredArtistId": "6I2891HPq8zEnBEuwc5iAP",
+      "trackName": "Upside Down - Remix",
+      "trackId": "3yVVak0H43kNRFGRuS8Q1J",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/beef1ec6198c64ffeb3b544615730a213fbead43",
+      "release_date": "2006-01-01"
+    }
+  ]
+}

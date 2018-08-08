@@ -1,0 +1,77 @@
+{
+  "artistName": "Samo",
+  "features": [
+    {
+      "featuredArtist": "Alejandra Guzman",
+      "featuredArtistId": "7Hf9AwMO37bSdxHb0FBGmO",
+      "trackName": "Te Juro",
+      "trackId": "7xlogyqHxGSpeRbf88fPYw",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/64cc901e639f85540df7a2f3e6cdf14b9a73a81c",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Many",
+      "featuredArtistId": "4N21eoQ3ZV0yJ7AXpCORxr",
+      "trackName": "Nada Me Detiene - Bonus Track",
+      "trackId": "3BQWrAstVhuyAS4na4yMqq",
+      "preview": null,
+      "cover": "https://i.scdn.co/image/64cc901e639f85540df7a2f3e6cdf14b9a73a81c",
+      "release_date": "2017-05-05"
+    },
+    {
+      "featuredArtist": "Pandora",
+      "featuredArtistId": "44nb9BaqV2jVvxKCaXHwlP",
+      "trackName": "Con Tu Amor - En Vivo Desde Guanajuato",
+      "trackId": "3HEH1fDZ7gzbRxQAjLvUDA",
+      "preview": "https://p.scdn.co/mp3-preview/fbfa2328c9f5957e1cc2544186e5fcc7d58cf9d9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/28a0ed6d4efafab2c765b7d06708fe81c2970e2b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "Pedro Capó",
+      "featuredArtistId": "4QVBYiagIaa6ZGSPMbybpy",
+      "trackName": "El Aprendiz - En Vivo Desde Guanajuato",
+      "trackId": "6wC2vAyhQo40HeENRI23aq",
+      "preview": "https://p.scdn.co/mp3-preview/4dd65fb52d7cb1a6093165f8fe5ed0949929f26e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/28a0ed6d4efafab2c765b7d06708fe81c2970e2b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "ChocQuibTown",
+      "featuredArtistId": "6tkyhGe9hGI3Lcfo4gVh6Z",
+      "trackName": "No Es lo Mismo - En Vivo Desde Guanajuato",
+      "trackId": "3EheFYHqrtavQ6PyTcSNRJ",
+      "preview": "https://p.scdn.co/mp3-preview/fabdda6a2d2c0a14c35848666bd1c9e271e225e9?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/28a0ed6d4efafab2c765b7d06708fe81c2970e2b",
+      "release_date": "2015-04-28"
+    },
+    {
+      "featuredArtist": "MVZZIK",
+      "featuredArtistId": "2JXOLDjuvBojVpYJzFsCA6",
+      "trackName": "Chasing Paper",
+      "trackId": "0EViWpHqGmtfnJLpHAHz9B",
+      "preview": "https://p.scdn.co/mp3-preview/309225a2072a94b4ba1b7f9d0c23e51f9e54ede6?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/3501e56443a76d14dbe6fce9bd0f5df5738dd6d3",
+      "release_date": "2018-03-23"
+    },
+    {
+      "featuredArtist": "Tildaflipers",
+      "featuredArtistId": "1lQB5X3uWbAS6rLYgBU7ri",
+      "trackName": "Herencia de Derrotas",
+      "trackId": "2bMq3uqk95Dtfn80x074Ug",
+      "preview": "https://p.scdn.co/mp3-preview/50ca148ce6b705649611d14a623d2e1bbea18331?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/85e7868503bb9dfce8c78f4fff562dfbb7701951",
+      "release_date": "2018-02-25"
+    },
+    {
+      "featuredArtist": "El Funkador",
+      "featuredArtistId": "2HGyOY7mSMTafPikOF6vsN",
+      "trackName": "Disco is Dead",
+      "trackId": "11ugZKt7QafSaHXEYMgr4C",
+      "preview": "https://p.scdn.co/mp3-preview/289c66928114e00212f06f8e4f5b25a46081456e?cid=9613a0a347504ababc497776c459441f",
+      "cover": "https://i.scdn.co/image/d3ed3b36585371b828cdbef3bf7c978b245dcfc4",
+      "release_date": "2018-01-19"
+    }
+  ]
+}
